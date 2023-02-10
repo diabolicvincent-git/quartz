@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: [m/m12, f/💩, f/⚙️, f/🧪]
-title: **Fremdstoffmetabolismus**
+title: Biotransformation
 ---
 ### Biotransformation 
 - **Schritte der Biotransformation**
@@ -16,7 +16,6 @@ title: **Fremdstoffmetabolismus**
 ---
 ![[First-Pass-Effekt]]
 
-# **Fremdstoffmetabolismus**
 
 ## 0. Arzneistoff (schlecht wasserlöslich)
 
