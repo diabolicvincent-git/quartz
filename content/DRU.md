@@ -1,5 +1,4 @@
 ---
-aliases: Digital-rektale Untersuchung
 tags: [Modul/m19 Modul/m22, Fach/Gastroenterologie, Fach/Urologie]
 title: DRU
 ---

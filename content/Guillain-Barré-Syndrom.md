@@ -1,5 +1,4 @@
 ---
-aliases: GBS
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Guillain-Barré-Syndrom
 ---

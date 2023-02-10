@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19]
 title: Leukämie
 ---

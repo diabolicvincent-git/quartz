@@ -1,5 +1,4 @@
 ---
-aliases: Calcium
 tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Ca2+
 ---

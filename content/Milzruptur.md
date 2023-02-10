@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Chirurgie, Fach/Anästhesie, Art/Pathologie]
 title: Milzruptur
 ---

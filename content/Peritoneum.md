@@ -1,5 +1,4 @@
 ---
-aliases: Peritonealverhältnisse
 tags: [Modul/m12]
 title: Peritoneum
 ---

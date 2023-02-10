@@ -1,5 +1,4 @@
 ---
-aliases: Gangstörung
 tags: [Modul/m10, Modul/m15, Fach/Orthopädie, Fach/Neurologie]
 title: Beschreibung von Gangstörungen
 ---

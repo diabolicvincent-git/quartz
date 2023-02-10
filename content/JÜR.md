@@ -1,5 +1,4 @@
 ---
-aliases: Jahres-Überlebensrate
 tags: [Modul/m07, Modul/m06]
 title: JÜR
 ---

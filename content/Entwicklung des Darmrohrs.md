@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12]
 title: Entwicklung des Darmrohrs
 ---

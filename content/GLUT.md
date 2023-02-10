@@ -1,5 +1,4 @@
 ---
-aliases: GLUT1, GLUT2, GLUT3, GLUT4, GLUT5
 tags: [Modul/m08, Modul/m03, Fach/Biochemie]
 title: GLUT
 ---

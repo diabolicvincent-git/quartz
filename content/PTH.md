@@ -1,5 +1,4 @@
 ---
-aliases: Parathormon
 tags: [Modul/m05, Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: PTH
 ---

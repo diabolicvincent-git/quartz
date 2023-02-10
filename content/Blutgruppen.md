@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Fach/Hämatologie]
 title: Blutgruppen
 ---

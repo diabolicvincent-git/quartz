@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Neurologie, Fach/Histologie, Fach/Endokrinologie]
 title: Herring-Körper
 ---

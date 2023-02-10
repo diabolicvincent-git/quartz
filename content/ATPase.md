@@ -1,5 +1,4 @@
 ---
-aliases: ATPasen
 tags: [Modul/m03, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: ATPase
 ---

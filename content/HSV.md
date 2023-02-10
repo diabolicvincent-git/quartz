@@ -1,5 +1,4 @@
 ---
-aliases: Herpes-Simplex-Virus
 tags: [Modul/m09, Fach/Infektiologie/Erreger/Viren]
 title: HSV
 ---

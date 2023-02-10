@@ -1,5 +1,4 @@
 ---
-aliases: intramuskulär
 tags: [Modul/m00, Fach/Pharmakologie/Medikament]
 title: i.m.
 ---

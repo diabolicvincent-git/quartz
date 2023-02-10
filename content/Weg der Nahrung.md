@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie, Fach/Physiologie]
 title: Weg der Nahrung
 ---

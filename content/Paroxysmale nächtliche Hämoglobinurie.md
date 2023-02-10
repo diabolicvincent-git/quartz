@@ -1,5 +1,4 @@
 ---
-aliases: PNH
 tags: [Modul/m17]
 title: Paroxysmale nächtliche Hämoglobinurie
 ---

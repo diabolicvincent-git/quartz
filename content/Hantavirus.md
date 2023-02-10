@@ -1,5 +1,4 @@
 ---
-aliases: Hantaviren
 tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
 title: Hantavirus
 ---

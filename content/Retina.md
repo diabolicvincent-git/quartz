@@ -1,5 +1,4 @@
 ---
-aliases: Netzhaut, Retinae
 tags: [Modul/m16]
 title: Retina
 ---

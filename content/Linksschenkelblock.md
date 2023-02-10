@@ -1,5 +1,4 @@
 ---
-aliases: LSB
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Linksschenkelblock
 ---

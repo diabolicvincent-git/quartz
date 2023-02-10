@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Nephrologie, Fach/Biochemie/Molekül]
 title: Calcitriol
 ---

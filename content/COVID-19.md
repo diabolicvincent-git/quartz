@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
 title: Bei eigener Infektionen
 ---

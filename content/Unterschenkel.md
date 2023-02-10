@@ -1,5 +1,4 @@
 ---
-aliases: Crus
 tags: []
 title: Unterschenkel
 ---

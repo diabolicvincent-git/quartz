@@ -1,5 +1,4 @@
 ---
-aliases: Niereninsuffizienz, CKD
 tags: [Modul/m14, Fach/Nephrologie]
 title: CKD
 ---

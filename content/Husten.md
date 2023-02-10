@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19, Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Fach/Onkologie]
 title: Husten
 ---

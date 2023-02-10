@@ -1,5 +1,4 @@
 ---
-aliases: Humanes Papillomavirus
 tags: [Modul/m09, Modul/m18, Modul/m19, Fach/Infektiologie, Fach/Gynäkologie, Fach/Onkologie, Fach/Infektiologie/Erreger/Viren]
 title: HPV
 ---

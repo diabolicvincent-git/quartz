@@ -1,5 +1,4 @@
 ---
-aliases: Novalgin, Novaminsulfon
 tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Metamizol
 ---

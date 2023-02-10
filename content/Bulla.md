@@ -1,5 +1,4 @@
 ---
-aliases: Blase
 tags: [Modul/m09, Fach/Dermatologie, Art/Pathologie]
 title: Bulla
 ---

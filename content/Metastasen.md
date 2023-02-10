@@ -1,5 +1,4 @@
 ---
-aliases: Metastasierung
 tags: [Modul/m19, Fach/Onkologie]
 title: Metastasen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Vancomycin, Teicoplanin
 tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva/Antibiotika, Fach/Pharmakologie/Medikament]
 title: Glycopeptide
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m03, Modul/m17, Fach/Biochemie, Fach/Rechtsmedizin]
 title: Zellschädigung
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Anästhesie, Fach/Biochemie/Molekül, Fach/Neurologie, Fach/Physiologie]
 title: Enkephaline
 ---

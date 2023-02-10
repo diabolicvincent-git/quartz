@@ -1,5 +1,4 @@
 ---
-aliases: Nieren, Ren
 tags: [Modul/m14, Fach/Nephrologie, Fach/Anatomie]
 title: Niere
 ---

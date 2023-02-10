@@ -1,5 +1,4 @@
 ---
-aliases: 4H + HITS
 tags: [Modul/m21, Fach/Anästhesie]
 title: Reversible Ursachen
 ---

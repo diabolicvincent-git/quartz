@@ -1,5 +1,4 @@
 ---
-aliases: Shaken-Baby-Syndrom
 tags: [Modul/m00, Fach/Pädiatrie, Fach/Psychiatrie, Fach/Rechtsmedizin, Art/Pathologie]
 title: Schütteltrauma
 ---

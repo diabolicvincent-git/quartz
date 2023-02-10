@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie]
 title: Linezolid
 ---

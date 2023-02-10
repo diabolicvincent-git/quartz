@@ -1,5 +1,4 @@
 ---
-aliases: Kornealreflex, Lidschlussreflex
 tags: [Modul/m15, Modul/m16, Modul/m21, Fach/Neurologie, Fach/Ophthalmologie, Art/Intervention]
 title: Cornealreflex
 ---

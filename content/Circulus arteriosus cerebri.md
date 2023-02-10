@@ -1,5 +1,4 @@
 ---
-aliases: Circle of Willis
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Circulus arteriosus cerebri
 ---

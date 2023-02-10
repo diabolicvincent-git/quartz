@@ -1,5 +1,4 @@
 ---
-aliases: Meläna, Melaena
 tags: [Modul/m26, Art/Pathologie]
 title: Teerstuhl
 ---

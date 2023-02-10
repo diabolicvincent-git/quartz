@@ -1,5 +1,4 @@
 ---
-aliases: Tarsus, Fußwurzelknochen
 tags: [Modul/m27, Fach/Anatomie, Fach/Orthopädie]
 title: Fußwurzel
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Genetik]
 title: Chromosomenaberrationen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Kupfer
 tags: [Modul/m21, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Cu2+
 ---

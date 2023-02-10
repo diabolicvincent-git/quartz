@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Modul/m05, Fach/Dermatologie, Art/Pathologie]
 title: Venöse Insuffizienz
 ---

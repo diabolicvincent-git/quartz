@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11, Art/Intervention, Art/Intervention, Fach/Kardiologie]
 title: CHA2DS2VASc
 ---

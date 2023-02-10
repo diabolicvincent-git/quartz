@@ -1,5 +1,4 @@
 ---
-aliases: Gestagen, Progesteron
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Gestagene
 ---

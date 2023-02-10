@@ -1,5 +1,4 @@
 ---
-aliases: Darmversagen
 tags: [Modul/m26, Fach/Gastroenterologie]
 title: Kurzdarmsyndrom
 ---

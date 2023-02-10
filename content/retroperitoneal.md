@@ -1,5 +1,4 @@
 ---
-aliases: Retroperitonealraum
 tags: [Modul/m12]
 title: retroperitoneal
 ---

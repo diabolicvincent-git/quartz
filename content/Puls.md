@@ -1,5 +1,4 @@
 ---
-aliases: Pulswelle
 tags: [Modul/m11]
 title: Puls
 ---

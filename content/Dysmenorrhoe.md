@@ -1,5 +1,4 @@
 ---
-aliases: Regelschmerzen
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie]
 title: Dysmenorrhoe
 ---

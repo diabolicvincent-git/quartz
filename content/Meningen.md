@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Hirnhäute
-  - Hirnhaut
-  - Rückenmarkshäute
-  - Rückenmarkshaut
 tags: [Modul/m15]
 title: Meningen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Embryologie, Fach/Genetik/Gen, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Gynäkologie, Fach/Urologie]
 title: SRY
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Weitsichtigkeit
 tags: [Modul/m16, Fach/Ophthalmologie]
 title: Hyperopie
 ---

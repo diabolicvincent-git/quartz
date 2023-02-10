@@ -1,6 +1,5 @@
 ---
 tags: [Fach/HNO, Fach/Anatomie/Knorpel]
-aliases: Cartilago arytaenoidea
 title: Stellknorpel
 ---
 > (Abstract::Auch: *Cartilago arytaenoidea*)

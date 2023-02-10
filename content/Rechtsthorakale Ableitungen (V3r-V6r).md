@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Rechtsthorakale Ableitungen (V3r-V6r)
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Fach/Dermatologie, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Melanin
 ---

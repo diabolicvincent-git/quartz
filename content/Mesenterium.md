@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Anatomie, Fach/Gastroenterologie, Fach/Embryologie]
 title: Mesenterium
 ---

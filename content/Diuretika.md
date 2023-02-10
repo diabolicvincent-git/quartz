@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Diuretikum
 tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie]
 title: Diuretika
 ---

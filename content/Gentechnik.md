@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m02, Fach/Genetik]
 title: Vorgehen beim Gentransfer
 ---

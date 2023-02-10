@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Modul/m00, Fach/Neurologie, Art/Intervention]
 title: Normalbefund
 ---

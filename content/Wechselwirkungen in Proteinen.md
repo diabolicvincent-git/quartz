@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m02, Fach/Biochemie]
 title: Wechselwirkungen in Proteinen
 ---

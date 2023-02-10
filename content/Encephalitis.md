@@ -1,5 +1,4 @@
 ---
-aliases: Enzephalitis
 tags: [Modul/m15, Modul/m18, Fach/Neurologie, Fach/Infektiologie, Art/Pathologie]
 title: Encephalitis
 ---

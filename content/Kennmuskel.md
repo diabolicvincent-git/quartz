@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m10]
 title: Kennmuskel
 ---

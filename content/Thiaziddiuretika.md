@@ -1,5 +1,4 @@
 ---
-aliases: Thiazide, Hydrochlorothiazid, HCT
 tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie]
 title: Thiaziddiuretika
 ---

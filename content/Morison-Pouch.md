@@ -1,5 +1,4 @@
 ---
-aliases: Rec. hepatorenalis
 tags: [Modul/m14, Fach/Anatomie, Fach/Anästhesie, Fach/Radiologie]
 title: Morison-Pouch
 ---

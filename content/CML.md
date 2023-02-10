@@ -1,5 +1,4 @@
 ---
-aliases: Chronische myeloische Leukämie
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: CML
 ---

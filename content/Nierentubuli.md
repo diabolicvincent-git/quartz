@@ -1,5 +1,4 @@
 ---
-aliases: Nierentubulus, Tubulussystem,
 tags: [Modul/m14]
 title: Proximaler Tubulus
 ---

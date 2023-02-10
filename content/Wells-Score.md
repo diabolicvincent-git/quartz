@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Fach/Hämatologie, Art/Intervention]
 title: Wells-Score
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Fach/Physiologie, Fach/Biochemie, Fach/Orthopädie]
 title: Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
 ---

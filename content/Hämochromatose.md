@@ -1,5 +1,4 @@
 ---
-aliases: Hämosiderose
 tags: [Modul/m17, Art/Pathologie]
 title: Hämochromatose
 ---

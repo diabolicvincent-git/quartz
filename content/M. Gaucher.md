@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Neurologie, Art/Pathologie]
 title: M. Gaucher
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Norfloxacin, Ciprofloxacin, Levofloxacin, Moxifloxacin
 tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie/Antiinfektiva/Antibiotika]
 title: Fluorchinolone
 ---

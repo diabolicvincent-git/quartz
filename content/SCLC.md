@@ -1,5 +1,4 @@
 ---
-aliases: Kleinzelliges Lungen-Ca, Kleinzelliges Lungenkarzinom
 tags: [Modul/m19, Fach/Onkologie, Fach/Pneumologie, Art/Pathologie]
 title: SCLC
 ---

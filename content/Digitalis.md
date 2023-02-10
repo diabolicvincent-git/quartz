@@ -1,5 +1,4 @@
 ---
-aliases: Herzglykoside
 tags: [Modul/m11, Fach/Kardiologie, Fach/Pharmakologie/Medikament/PIM, Fach/Toxikologie/Gift]
 title: Digitalis
 ---

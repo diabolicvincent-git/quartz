@@ -1,5 +1,4 @@
 ---
-aliases: Purpura Schoenlein-Henoch
 tags: [Modul/m17]
 title: IgA-Vaskulitis
 ---

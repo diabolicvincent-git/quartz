@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Fach/Embryologie, Fach/Anatomie, Fach/Histologie]
 title: Embryogenese
 ---

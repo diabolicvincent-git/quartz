@@ -1,5 +1,4 @@
 ---
-aliases: HPA
 tags: [Modul/m04, Modul/m22, Fach/Physiologie, Fach/Endokrinologie]
 title: Hypothalamus-Hypophysen-Achse
 ---

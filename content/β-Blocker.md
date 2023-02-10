@@ -1,5 +1,4 @@
 ---
-aliases: Betablocker
 tags: [Modul/m11, Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: β-Blocker
 ---

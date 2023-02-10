@@ -1,9 +1,4 @@
 ---
-aliases:
-  - VitB5
-  - Pantothensäure
-  - Coenzym A
-  - CoA
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B5
 ---

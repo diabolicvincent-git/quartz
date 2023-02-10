@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m02, Modul/m12, Art/Pathologie, Fach/Kardiologie]
 title: Metabolisches Syndrom
 ---

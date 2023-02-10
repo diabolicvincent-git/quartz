@@ -1,5 +1,4 @@
 ---
-aliases: Rec. splenorenalis
 tags: [Modul/m14, Fach/Anatomie, Fach/Anästhesie]
 title: Koller-Pouch
 ---

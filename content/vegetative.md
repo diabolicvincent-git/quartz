@@ -1,5 +1,4 @@
 ---
-aliases: vegetatives Nervensystem, vegetativ, vegetatives, Autonomes Nervensystem
 tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: vegetative
 ---

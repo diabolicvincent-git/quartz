@@ -1,5 +1,4 @@
 ---
-aliases: Coombs & Gell
 tags: [Modul/m09, Modul/m17, Fach/Rheumatologie, Fach/Dermatologie]
 title: Hypersensibilitätstypen
 ---

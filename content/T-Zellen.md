@@ -1,5 +1,4 @@
 ---
-aliases: T-Zell, T-Lymphocyt, T-Lymphocyten
 tags: [Modul/m08, Modul/m18]
 title: T-Zellen
 ---

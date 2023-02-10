@@ -1,5 +1,4 @@
 ---
-aliases: Episkleritis
 tags: [Modul/m17, Modul/m16, Fach/Rheumatologie, Art/Pathologie]
 title: Skleritis
 ---

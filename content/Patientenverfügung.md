@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Modul/m23, Fach/Anästhesie]
 title: Patientenverfügung
 ---

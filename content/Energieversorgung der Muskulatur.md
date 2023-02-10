@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m10, Fach/Physiologie]
 title: Energieversorgung der Muskulatur
 ---

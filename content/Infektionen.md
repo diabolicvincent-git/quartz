@@ -1,5 +1,4 @@
 ---
-aliases: Infektion, infektiös
 tags: [Modul/m18, Fach/Infektiologie]
 title: Infektionen
 ---

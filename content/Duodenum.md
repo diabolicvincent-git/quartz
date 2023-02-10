@@ -1,5 +1,4 @@
 ---
-aliases: Zwölffingerdarm
 tags: [Modul/m12, Fach/Anatomie, Fach/Gastroenterologie]
 title: Duodenum
 ---

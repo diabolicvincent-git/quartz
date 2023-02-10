@@ -1,6 +1,4 @@
 ---
-aliases:
-  - null
 tags: [Modul/m13]
 title: Regulation der Atmung
 ---

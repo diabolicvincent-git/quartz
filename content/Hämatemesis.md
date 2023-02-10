@@ -1,5 +1,4 @@
 ---
-aliases: Bluterbrechen
 tags: [Modul/m26, Art/Pathologie]
 title: Hämatemesis
 ---

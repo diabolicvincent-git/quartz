@@ -1,5 +1,4 @@
 ---
-aliases: ABCDE-Regel
 tags: [Modul/m09, Fach/Dermatologie, Art/Intervention]
 title: Dermatologische Malignitätskriterien
 ---

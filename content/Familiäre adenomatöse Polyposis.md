@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19, Fach/Onkologie, Fach/Gastroenterologie]
 title: Familiäre adenomatöse Polyposis
 ---

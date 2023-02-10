@@ -1,5 +1,4 @@
 ---
-aliases: Interferon, Interferone
 tags: [Modul/m08, Modul/m17, Fach/Physiologie, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: IFN
 ---

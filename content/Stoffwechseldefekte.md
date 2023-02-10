@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Art/Pathologie]
 title: Lernziele
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Intervention]
 title: Potenziell inadäquate Medikation
 ---

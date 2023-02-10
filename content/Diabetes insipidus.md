@@ -1,5 +1,4 @@
 ---
-aliases: Wasserharnruhr
 tags: [Modul/m14, Fach/Nephrologie, Fach/Endokrinologie]
 title: Diabetes insipidus
 ---

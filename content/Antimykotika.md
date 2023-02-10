@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antimykotika
 ---

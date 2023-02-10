@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Neurologie, Fach/Anästhesie, Fach/Physiologie]
 title: Zentrale Sensibilisierung
 ---

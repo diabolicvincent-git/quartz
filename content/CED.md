@@ -1,5 +1,4 @@
 ---
-aliases: Chronisch-entzündliche Darmerkrankung
 tags: [Modul/m17, Modul/m12, Art/Pathologie, Art/Pathologie, Fach/Rheumatologie, Fach/Gastroenterologie]
 title: CED
 ---

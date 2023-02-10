@@ -1,5 +1,4 @@
 ---
-aliases: Zell-Kontakt, Zell-Kontakte, Zellkontakt
 tags: [Modul/m04, Modul/m05, Fach/Biochemie, Fach/Histologie]
 title: Zellkontakte
 ---

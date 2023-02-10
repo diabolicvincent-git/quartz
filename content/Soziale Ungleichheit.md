@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m06]
 title: Kinderarmut
 ---

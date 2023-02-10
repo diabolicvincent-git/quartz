@@ -1,5 +1,4 @@
 ---
-aliases: Spontane Ösophagusruptur
 tags: [Modul/m26, Fach/Chirurgie]
 title: Boerhaave-Syndrom
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Biochemie/Molekül]
 title: Tabelle
 ---

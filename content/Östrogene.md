@@ -1,5 +1,4 @@
 ---
-aliases: Östrogen, Östradiol, Östron, Östriol
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Östrogene
 ---

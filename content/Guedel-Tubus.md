@@ -1,6 +1,5 @@
 ---
 tags: [Fach/Notfallmedizin, Fach/Anästhesie, Art/Intervention]
-aliases: Oropharyngealtubus
 title: Guedel-Tubus
 ---
 > (Abstract::**Oropharyngealtubus.**)

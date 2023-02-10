@@ -1,5 +1,4 @@
 ---
-aliases: Harnröhre
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Urethra
 ---

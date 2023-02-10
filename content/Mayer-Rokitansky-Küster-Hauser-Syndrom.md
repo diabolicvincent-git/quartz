@@ -1,5 +1,4 @@
 ---
-aliases: MRKHS
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Embryologie, Art/Pathologie]
 title: Mayer-Rokitansky-Küster-Hauser-Syndrom
 ---

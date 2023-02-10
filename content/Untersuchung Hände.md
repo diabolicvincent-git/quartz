@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Intervention]
 title: Untersuchung Hände
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Fach/Genetik, Art/Pathologie, Fach/Nephrologie]
 title: Alport-Syndrom
 ---

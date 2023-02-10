@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Anästhesie, Art/Intervention]
 title: Nüchtern
 ---

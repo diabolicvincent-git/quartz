@@ -1,5 +1,4 @@
 ---
-aliases: Helminthen
 tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
 title: Würmer
 ---

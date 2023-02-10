@@ -1,5 +1,4 @@
 ---
-aliases: Hintere Schädelgrube
 tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Fossa cranii posterior
 ---

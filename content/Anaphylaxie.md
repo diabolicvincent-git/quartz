@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m09, Fach/Dermatologie, Fach/Notfallmedizin/SOP, Art/Pathologie]
 title: Anaphylaxie
 ---

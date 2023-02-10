@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Physiologie, Art/Intervention]
 title: Spirometrie
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Androgenrezeptor-Defekt, Androgenrezeptordefekt
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie, Fach/Endokrinologie]
 title: Androgenresistenz
 ---

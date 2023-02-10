@@ -1,5 +1,4 @@
 ---
-aliases: Polyarteriitis nodosa
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Panarteriitis nodosa
 ---

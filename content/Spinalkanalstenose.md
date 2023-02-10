@@ -1,5 +1,4 @@
 ---
-aliases: SKS
 tags: [Modul/m27]
 title: Spinalkanalstenose
 ---

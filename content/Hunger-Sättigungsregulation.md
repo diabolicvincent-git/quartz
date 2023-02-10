@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hunger
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Hunger-Sättigungsregulation
 ---

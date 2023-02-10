@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, ToDo, Fach/Hämatologie, Fach/Anästhesie]
 title: Patient Blood Management
 ---

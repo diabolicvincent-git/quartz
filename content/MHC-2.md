@@ -1,5 +1,4 @@
 ---
-aliases: MHC-II, MHC2
 tags: [Modul/m08, Modul/m17]
 title: MHC-2
 ---

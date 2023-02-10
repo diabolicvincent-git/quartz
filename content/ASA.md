@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: ASA
 ---

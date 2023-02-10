@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Modul/m12, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: Somatostatin
 ---

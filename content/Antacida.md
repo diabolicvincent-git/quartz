@@ -1,5 +1,4 @@
 ---
-aliases: Gaviscon
 tags: [Modul/m26, Fach/Pharmakologie/Medikament/Untergruppe, Fach/Gastroenterologie]
 title: Antacida
 ---

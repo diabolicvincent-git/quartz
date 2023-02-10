@@ -1,5 +1,4 @@
 ---
-aliases: Hexosemonophosphatweg
 tags: [Modul/m03, Fach/Biochemie]
 title: Pentosephosphatweg
 ---

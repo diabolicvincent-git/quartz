@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m16, Fach/HNO, Art/Intervention]
 title: Weber
 ---

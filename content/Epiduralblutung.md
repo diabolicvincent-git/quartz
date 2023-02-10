@@ -1,5 +1,4 @@
 ---
-aliases: Epidurales Hämatom, Epiduralhämatom, EDH
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Epiduralblutung
 ---

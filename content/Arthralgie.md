@@ -1,5 +1,4 @@
 ---
-aliases: Arthralgien, Gelenkschmerzen
 tags: [Modul/m17, Fach/Rheumatologie, Fach/Orthopädie, Art/Pathologie]
 title: Arthralgie
 ---

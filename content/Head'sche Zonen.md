@@ -1,5 +1,4 @@
 ---
-aliases: Head-Zone
 tags: [Modul/m20, Fach/Anästhesie, Art/Intervention]
 title: "Head'sche Zonen"
 ---

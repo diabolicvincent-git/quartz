@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Modul/m21, Fach/Anästhesie, Fach/Toxikologie, Fach/Pharmakologie/Medikament/Übergruppe, Art/Intervention]
 title: Antidot
 ---

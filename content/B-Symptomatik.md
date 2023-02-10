@@ -1,5 +1,4 @@
 ---
-aliases: Begleitsymptomatik
 tags: [Modul/m19, Fach/Onkologie, Art/Pathologie]
 title: B-Symptomatik
 ---

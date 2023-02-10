@@ -1,5 +1,4 @@
 ---
-aliases: Carboanhydrase-Inhibitoren, Acetacolamid
 tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie]
 title: Carboanhydrase-Hemmer
 ---

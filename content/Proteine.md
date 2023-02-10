@@ -1,5 +1,4 @@
 ---
-aliases: Protein
 tags: [Modul/m02]
 title: Proteine
 ---

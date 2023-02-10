@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, Modul/m22, Fach/Anatomie]
 title: Becken
 ---

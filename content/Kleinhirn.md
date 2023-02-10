@@ -1,5 +1,4 @@
 ---
-aliases: Cerebellum
 tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Kleinhirn
 ---

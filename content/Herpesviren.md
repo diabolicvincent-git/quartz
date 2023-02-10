@@ -1,5 +1,4 @@
 ---
-aliases: Herpes
 tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Dermatologie, Fach/Infektiologie/Erreger/Viren]
 title: Herpesviren aus M09
 ---

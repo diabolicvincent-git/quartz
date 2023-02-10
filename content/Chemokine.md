@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Modul/m17, Fach/Biochemie, Fach/Rheumatologie, Fach/Biochemie/Molekül]
 title: Chemokine
 ---

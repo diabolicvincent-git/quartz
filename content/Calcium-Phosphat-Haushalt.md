@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Modul/m14, Fach/Physiologie, Fach/Nephrologie, Fach/Endokrinologie]
 title: Regulierende Hormon
 ---

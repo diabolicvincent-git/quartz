@@ -1,5 +1,4 @@
 ---
-aliases: AGS
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Art/Pathologie, Fach/Pädiatrie, Fach/Pädiatrie, ToDo]
 title: Adrenogenitales Syndrom
 ---

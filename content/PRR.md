@@ -1,5 +1,4 @@
 ---
-aliases: Pattern-Recognition-Rezeptoren
 tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie, Fach/Infektiologie]
 title: PRR
 ---

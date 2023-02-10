@@ -1,5 +1,4 @@
 ---
-aliases: Cushing-Triade
 tags: [Modul/m15, Fach/Neurologie, Fach/Kardiologie, Fach/Physiologie, Art/Pathologie]
 title: Cushing-Reflex
 ---

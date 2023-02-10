@@ -1,5 +1,4 @@
 ---
-aliases: Vomex
 tags: [Modul/m12, Modul/m20, Fach/Pharmakologie/Medikament/PIM]
 title: dimenhyDRINAT
 ---

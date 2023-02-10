@@ -1,5 +1,4 @@
 ---
-aliases: Mycose, Pilzinfektionen
 tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Pilzinfektion
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: TVT, Phlebothrombose, Tiefe Beinvenenthrombose
 tags: [Modul/m17, Art/Pathologie, Fach/Hämatologie, Fach/Kardiologie, Art/Pathologie]
 title: Thrombose
 ---

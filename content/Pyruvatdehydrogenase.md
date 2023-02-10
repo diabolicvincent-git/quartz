@@ -1,5 +1,4 @@
 ---
-aliases: PDH
 tags: [Modul/m03]
 title: Pyruvatdehydrogenase
 ---

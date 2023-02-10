@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Modul/m05, Fach/Histologie, Fach/Biochemie]
 title: Fokaler Kontakt
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, Fach/Notfallmedizin, Art/Intervention, Art/Intervention]
 title: ABCDE
 ---

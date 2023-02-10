@@ -1,6 +1,4 @@
 ---
-aliases:
- - Bronchien
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anatomie, Fach/Physiologie]
 title: Bronchialbaum
 ---

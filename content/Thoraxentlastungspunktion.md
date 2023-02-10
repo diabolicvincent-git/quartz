@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Notfallmedizin, Art/Intervention]
 title: Thoraxentlastungspunktion
 ---

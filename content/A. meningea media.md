@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. meningea media
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Pneumothorax
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Modul/m11, Fach/Nephrologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Renin
 ---

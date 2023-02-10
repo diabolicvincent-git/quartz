@@ -1,5 +1,4 @@
 ---
-aliases: Kollagene
 tags: [Modul/m05]
 title: Kollagen
 ---

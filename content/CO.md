@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kohlenmonoxid
-  - Kohlenstoffmonoxid
 tags: [Modul/m03, Modul/m08, Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Toxikologie, Fach/Biochemie/Molekül, Art/Pathologie]
 title: CO
 ---

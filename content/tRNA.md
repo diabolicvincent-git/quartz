@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m03, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: tRNA
 ---

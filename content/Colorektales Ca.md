@@ -1,5 +1,4 @@
 ---
-aliases: Colon-Ca, Rektum-Ca
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Colorektales Ca
 ---

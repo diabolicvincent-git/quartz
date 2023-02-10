@@ -1,5 +1,4 @@
 ---
-aliases: MHC-I, MHC1
 tags: [Modul/m08, Modul/m17]
 title: MHC-1
 ---

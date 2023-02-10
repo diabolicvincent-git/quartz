@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Modul/m17, Fach/Infektiologie, Fach/Laboratoriumsmedizin, Art/Intervention, Fach/Biochemie/Molekül]
 title: Akute-Phase-Proteine
 ---

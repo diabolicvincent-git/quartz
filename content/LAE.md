@@ -1,5 +1,4 @@
 ---
-aliases: Lungenarterienembolie, Lungenembolie
 tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie]
 title: eVL
 ---

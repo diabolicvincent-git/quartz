@@ -1,5 +1,4 @@
 ---
-aliases: Plasmakonzentrat, Fresh Frozen Plasma
 tags: [Modul/m08, Fach/Hämatologie/Transfusion/Blutprodukt, Fach/Pharmakologie/Medikament]
 title: FFP
 ---

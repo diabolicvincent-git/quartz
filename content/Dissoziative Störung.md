@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie, Fach/Psychiatrie, Modul/m31]
 ICD: "F44"
 title: Dissoziative Störung

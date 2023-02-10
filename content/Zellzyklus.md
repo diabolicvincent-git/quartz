@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m03, Modul/m05, Fach/Biochemie, Fach/Physiologie]
 title: Zellzyklusphasen
 ---

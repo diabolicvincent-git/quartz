@@ -1,5 +1,4 @@
 ---
-aliases: Adrenorezeptoren, adrenerg
 tags: [Modul/m21, Fach/Physiologie, Fach/Kardiologie, Fach/Biochemie/Rezeptor]
 title: Adrenozeptoren
 ---

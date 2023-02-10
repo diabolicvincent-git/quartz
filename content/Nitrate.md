@@ -1,5 +1,4 @@
 ---
-aliases: Nitro, Nitrolingual, Nitroglycerin, Glycerolnitrat, Molsidomin
 tags: [Modul/m11, Modul/m13, Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: Nitrate
 ---

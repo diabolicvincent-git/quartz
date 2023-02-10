@@ -1,5 +1,4 @@
 ---
-aliases: Koronare Herzkrankheit
 tags: [Modul/m11]
 title: KHK
 ---

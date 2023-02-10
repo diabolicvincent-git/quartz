@@ -1,5 +1,4 @@
 ---
-aliases: Differences of Sex Development, Disorders of Sex Development, Varianten der Geschlechtsentwicklung
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie]
 title: DSD
 ---

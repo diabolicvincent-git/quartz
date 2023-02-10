@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Knochen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: National Early Warning Score
 tags: [Modul/m00, Fach/Anästhesie, Art/Intervention]
 title: NEWS
 ---

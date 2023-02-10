@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Infektiologie, Art/Pathologie]
 title: M. Whipple
 ---

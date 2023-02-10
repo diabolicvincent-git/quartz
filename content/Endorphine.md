@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Endokrinologie, Fach/Physiologie, Fach/Neurologie]
 title: Endorphine
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Leistungsminderung, Müdigkeit
 tags: [Modul/m21, ToDo, Fach/Psychiatrie, Art/Pathologie]
 title: Uak ausarbeiten
 ---

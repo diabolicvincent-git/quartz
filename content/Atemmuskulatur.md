@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Pneumologie, Modul/m13]
 title: Inspiration
 ---

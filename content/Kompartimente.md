@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Modul/m21, Fach/Physiologie]
 title: Kompartimente
 ---

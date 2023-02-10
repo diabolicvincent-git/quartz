@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Anatomie/Leitungsbahn/Arterie, Fach/Anatomie]
 title: A. maxillaris
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Meckel-Divertikulitis
 tags: [Modul/m26]
 title: Meckel-Divertikel
 ---

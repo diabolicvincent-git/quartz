@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m24, Fach/Infektiologie, Fach/Pharmakologie/Medikament]
 title: Daptomycin
 ---

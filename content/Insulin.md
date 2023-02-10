@@ -1,5 +1,4 @@
 ---
-aliases: Insuline
 tags: [Modul/m17, Modul/m04, Fach/Endokrinologie]
 title: Pharmakologie
 ---

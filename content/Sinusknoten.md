@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nodus sinuatrialis
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Sinusknoten
 ---

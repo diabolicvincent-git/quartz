@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Fach/Endokrinologie, Fach/Physiologie]
 title: Schilddrüsenhormone
 ---

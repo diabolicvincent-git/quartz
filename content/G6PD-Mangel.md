@@ -1,5 +1,4 @@
 ---
-aliases: Glucose-6-phosphat-Dehydrogenase-Mangel, Favismus
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: G6PD-Mangel
 ---

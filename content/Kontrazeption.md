@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, Fach/Gynäkologie, Fach/Pharmakologie/Medikament]
 title: Kontrazeption
 ---

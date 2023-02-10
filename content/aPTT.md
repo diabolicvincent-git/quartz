@@ -1,5 +1,4 @@
 ---
-aliases: PTT, partielle Thromboplastinzeit
 tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin]
 title: aPTT
 ---

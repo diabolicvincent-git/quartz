@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m36, Fach/Anästhesie, Art/Intervention]
 title: Behavioral Pain Scale
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Modul/m09, Fach/Dermatologie, Fach/Endokrinologie, Fach/Biochemie]
 title: Wirkung und Metabolisierung von Steroidhormonen und Vitamin A in der Haut
 ---

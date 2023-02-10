@@ -1,5 +1,4 @@
 ---
-aliases: P. aeruginosa
 tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Pseudomonas aeruginosa
 ---

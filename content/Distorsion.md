@@ -1,5 +1,4 @@
 ---
-aliases: Verstauchung
 tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Distorsion
 ---

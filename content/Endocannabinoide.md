@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Anästhesie, Fach/Neurologie]
 title: Endocannabinoide
 ---

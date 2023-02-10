@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Regenbogenhaut
 tags: [Modul/m16]
 title: Iris
 ---

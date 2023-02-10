@@ -1,5 +1,4 @@
 ---
-aliases: Antiepileptika
 tags: [Modul/m15, Fach/Neurologie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antikonvulsiva
 ---

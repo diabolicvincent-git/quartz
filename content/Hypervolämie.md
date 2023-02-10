@@ -1,7 +1,4 @@
 ---
-aliases:
- - Hypervolämie
- - Volumenüberladung
 title: Hypervolämie
 ---
 

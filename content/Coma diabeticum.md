@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m17, Fach/Endokrinologie, Fach/Neurologie, Art/Pathologie]
 title: Coma diabeticum
 ---

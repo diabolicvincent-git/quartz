@@ -1,5 +1,4 @@
 ---
-aliases: R. interventricularis anterior, LAD
 tags: [Modul/m11]
 title: RIVA
 ---

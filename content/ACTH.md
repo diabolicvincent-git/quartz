@@ -1,5 +1,4 @@
 ---
-aliases: Adrenocorticotropes Hormon
 tags: [Modul/m04, Modul/m22, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: ACTH
 ---

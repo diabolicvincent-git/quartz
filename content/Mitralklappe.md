@@ -1,5 +1,4 @@
 ---
-aliases: Bicuspidalklappe
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Mitralklappe
 ---

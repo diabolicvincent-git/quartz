@@ -1,5 +1,4 @@
 ---
-aliases: meldepflichtig
 tags: [Modul/m18]
 title: Meldepflicht
 ---

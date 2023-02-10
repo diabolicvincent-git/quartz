@@ -1,5 +1,4 @@
 ---
-aliases: Durale Sinus
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus durae matris
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Aquädukt
 tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Aquaeductus mesencephali
 ---

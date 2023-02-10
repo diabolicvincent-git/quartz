@@ -1,5 +1,4 @@
 ---
-aliases: Number Needed To Treat
 tags: [Modul/m07, Fach/Epidemiologie]
 title: NNT
 ---

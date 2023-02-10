@@ -1,5 +1,4 @@
 ---
-aliases: Kalium
 tags: [Modul/m14]
 title: K+
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Fach/Allgemeinmedizin, Art/Intervention]
 title: VINDICATE
 ---

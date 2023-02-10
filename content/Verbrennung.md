@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m09, Fach/Anästhesie, Art/Pathologie]
 title: Verbrennung
 ---

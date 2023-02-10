@@ -1,5 +1,4 @@
 ---
-aliases: Interstitielle Lungenparenchymerkrankung, ILD
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Lungenfibrose
 ---

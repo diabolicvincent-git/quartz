@@ -1,5 +1,4 @@
 ---
-aliases: Gallensteine
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Cholelithiasis
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Strecksynergismus, Decerebrationsstarre
 tags: [Modul/m15, Art/Pathologie, Fach/Neurologie]
 title: Strecksynergismen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Caecum
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Colon
 ---

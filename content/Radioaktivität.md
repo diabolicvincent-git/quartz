@@ -1,5 +1,4 @@
 ---
-aliases: Radioaktive Strahlung
 tags: [Modul/m19, Fach/Radiologie]
 title: Radioaktivität
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Bronchial-Ca, Lungenkarzinom, Bronchialkarzinom
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Pneumologie]
 title: Lungen-Ca
 ---

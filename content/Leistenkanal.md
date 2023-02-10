@@ -1,5 +1,4 @@
 ---
-aliases: Canalis inguinalis
 tags: [Modul/m26, Fach/Anatomie]
 title: Leistenkanal
 ---

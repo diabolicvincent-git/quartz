@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Pneumologie, Fach/Notfallmedizin, Art/Pathologie]
 title: aeCOPD
 ---

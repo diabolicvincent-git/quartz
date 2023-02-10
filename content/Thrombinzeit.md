@@ -1,5 +1,4 @@
 ---
-aliases: PTZ, TZ
 tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Thrombinzeit
 ---

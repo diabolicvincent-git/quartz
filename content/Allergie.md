@@ -1,7 +1,6 @@
 ---
-aliases: Allergische Reaktion
 tags: [Modul/m12, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Pathologie, ToDo]
-title: Einteilung der Immunreaktion nach Coombs & Gell
+title: Testverfahren
 ---
 > Überschießende Immunreaktion ggü. ungefährlichen Stoffen
 - [[Hypersensibilitätstypen]]

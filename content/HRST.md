@@ -1,5 +1,4 @@
 ---
-aliases: Herzrhythmusstörung, Herzrhythmusstörungen
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: HRST
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Chemotherapeutika
 tags: [Modul/m19, Fach/Onkologie, Fach/Pharmakologie/Medikament]
 title: Cytostatika
 ---

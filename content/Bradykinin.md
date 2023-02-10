@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Bradykinin
 ---

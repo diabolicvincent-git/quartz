@@ -1,5 +1,4 @@
 ---
-aliases: Isoniazid, Ethambutol, Pyrazinamid
 tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament]
 title: Tuberkulostatika
 ---

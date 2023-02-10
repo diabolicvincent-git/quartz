@@ -1,5 +1,4 @@
 ---
-aliases: Sumpffieber, Wechselfieber
 tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Infektiologie]
 title: Malaria
 ---

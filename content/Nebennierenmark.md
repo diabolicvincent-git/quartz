@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Fach/Anatomie, Fach/Nephrologie]
 title: Nebennierenmark
 ---

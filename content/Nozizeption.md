@@ -1,5 +1,4 @@
 ---
-aliases: Schmerzwahrnehmung
 tags: [Modul/m09]
 title: Nozizeption
 ---

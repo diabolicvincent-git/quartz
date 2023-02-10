@@ -1,5 +1,4 @@
 ---
-aliases: Ventrikel I + II, Ventrikel I, Ventrikel II
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Seitenventrikel
 ---

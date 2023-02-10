@@ -1,5 +1,4 @@
 ---
-aliases: Str. pneumoniae, Streptococcus pneumoniae
 tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: Pneumokokken
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Epididymis
 tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: Nebenhoden
 ---

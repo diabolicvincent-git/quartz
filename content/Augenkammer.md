@@ -1,5 +1,4 @@
 ---
-aliases: Augenkammern, Glaskörper
 tags: [Modul/m16, Fach/Ophthalmologie]
 title: Augenkammer
 ---

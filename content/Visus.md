@@ -1,6 +1,4 @@
 ---
-aliases:
- - Sehschärfe
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Physiologie]
 title: Visus
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Schuppenflechte
 tags: [Modul/m09, Fach/Dermatologie]
 title: Psoriasisspezifische Phänomene an der Haut
 ---

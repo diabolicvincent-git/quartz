@@ -1,6 +1,4 @@
 ---
-aliases:
-  - null
 tags: [Modul/m16]
 title: Refraktionsanomalien
 ---

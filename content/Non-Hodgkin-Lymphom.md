@@ -1,5 +1,4 @@
 ---
-aliases: NHL
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Non-Hodgkin-Lymphom
 ---

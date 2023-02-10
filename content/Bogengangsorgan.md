@@ -1,5 +1,4 @@
 ---
-aliases: Bogengänge, Bogengang
 tags: [Modul/m16, Fach/Anatomie, Fach/Physiologie, Fach/HNO]
 title: Bogengangsorgan
 ---

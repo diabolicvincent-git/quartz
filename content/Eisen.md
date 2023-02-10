@@ -1,5 +1,4 @@
 ---
-aliases: Fe2+, Fe3+
 tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie, Fach/Toxikologie/Gift]
 title: Eisen
 ---

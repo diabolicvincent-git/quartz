@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Laboratoriumsmedizin]
 title: D-Dimere
 ---

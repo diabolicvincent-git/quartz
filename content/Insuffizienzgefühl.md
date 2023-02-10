@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie, Fach/Psychiatrie/Psychopathologischer-Befund/Affektivität, Modul/m31]
 ICD: ""
 title: Insuffizienzgefühl

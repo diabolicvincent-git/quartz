@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Fach/Rechtsmedizin, Art/Intervention]
 title: Todesart
 ---

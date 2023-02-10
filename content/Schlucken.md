@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m12, Fach/Physiologie]
 title: Schlucken
 ---

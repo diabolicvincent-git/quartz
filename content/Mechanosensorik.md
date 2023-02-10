@@ -1,6 +1,4 @@
 ---
-aliases:
- - Mechanozeption
 title: Transduktion und Transformation von Sensoren
 ---
 

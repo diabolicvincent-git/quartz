@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m18, Fach/Infektiologie]
 title: Opportunistische Infektionen
 ---

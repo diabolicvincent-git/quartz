@@ -1,5 +1,4 @@
 ---
-aliases: M. Raynaud
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie, Fach/Dermatologie]
 title: Raynaud-Syndrom
 ---

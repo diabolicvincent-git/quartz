@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Modul/m22, Fach/Embryologie]
 title: Fehlbildung
 ---

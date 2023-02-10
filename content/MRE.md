@@ -1,5 +1,4 @@
 ---
-aliases: Multiresistente Erreger
 tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Fach/Infektiologie]
 title: MRE
 ---

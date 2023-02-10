@@ -1,5 +1,4 @@
 ---
-aliases: MDS
 tags: [Modul/m17, Art/Pathologie]
 title: Myelodysplastisches Syndrom
 ---

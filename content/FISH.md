@@ -1,5 +1,4 @@
 ---
-aliases: Fluoreszenz-in-situ-Hybridisierung
 tags: [Modul/m02, Fach/Genetik, Fach/Biochemie]
 title: FISH
 ---

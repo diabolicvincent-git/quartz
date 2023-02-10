@@ -1,5 +1,4 @@
 ---
-aliases:
 tags: [Fach/Radiologie/Standardbildgebung]
 title: Röntgen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Thrombotisch-thrombocytopenische Purpura, Moschcowitz-Syndrom, M. Moschcowitz
 tags: [Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: TTP
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: STI, STDs, Geschlechtskrankheit, Geschlechtskrankheiten
 tags: [Modul/m22, Fach/Infektiologie, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie, Fach/Dermatologie]
 title: STD
 ---

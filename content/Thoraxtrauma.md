@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m01, Fach/Chirurgie, Fach/Anästhesie, Art/Pathologie]
 title: Thoraxtrauma
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Onkologie, Art/Pathologie, Fach/Anästhesie]
 title: Tumorschmerz
 ---

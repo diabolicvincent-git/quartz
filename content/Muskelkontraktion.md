@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m03, Modul/m05, Modul/m10, Fach/Orthopädie, Fach/Physiologie]
 title: Elektrophysiologie
 ---

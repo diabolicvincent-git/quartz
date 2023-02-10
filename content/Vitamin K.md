@@ -1,7 +1,4 @@
 ---
-aliases:
-  - VitK
-  - Phyllochinon
 tags: [Modul/m12, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Vitamin]
 title: Vitamin K
 ---

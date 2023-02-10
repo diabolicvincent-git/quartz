@@ -1,5 +1,4 @@
 ---
-aliases: Relative Risikoreduktion
 tags: [Modul/m07, Fach/Epidemiologie]
 title: RRR
 ---

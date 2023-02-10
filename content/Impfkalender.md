@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Fach/Infektiologie, Art/Intervention, Fach/Pädiatrie]
 title: Impfkalender
 ---

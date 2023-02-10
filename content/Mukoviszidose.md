@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cystische Fibrose
 tags: [Modul/m03]
 title: Mukoviszidose
 ---

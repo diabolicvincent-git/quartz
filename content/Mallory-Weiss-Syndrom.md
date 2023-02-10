@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Chirurgie, Art/Pathologie]
 title: Mallory-Weiss-Syndrom
 ---

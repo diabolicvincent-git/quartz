@@ -1,5 +1,4 @@
 ---
-aliases: Isocortex
 tags: [Modul/m15]
 title: Gliederung
 ---

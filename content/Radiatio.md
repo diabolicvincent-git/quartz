@@ -1,5 +1,4 @@
 ---
-aliases: Strahlentherapie, Radiotherapie
 tags: [Modul/m19]
 title: Radiatio
 ---

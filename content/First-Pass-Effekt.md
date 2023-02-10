@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament, Fach/Physiologie]
 title: First-Pass-Effekt
 ---

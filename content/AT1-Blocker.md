@@ -1,5 +1,4 @@
 ---
-aliases: Sartane
 tags: [Modul/m14, Fach/Kardiologie, Fach/Nephrologie, Fach/Pharmakologie/Medikament/Untergruppe]
 title: AT1-Blocker
 ---

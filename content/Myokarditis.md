@@ -1,5 +1,4 @@
 ---
-aliases: Herzmuskelentzündung
 tags: [Modul/m11, Fach/Kardiologie, Fach/Infektiologie, Art/Pathologie]
 title: Myokarditis
 ---

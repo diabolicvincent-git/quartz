@@ -1,5 +1,4 @@
 ---
-aliases: Cerebelläre Störungen, Cerebelläre Ataxie
 tags: [Modul/m15, Fach/Neurologie]
 title: Neurophysiologie
 ---

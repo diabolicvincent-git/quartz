@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Ophthalmologie]
 title: Determinanten der Sehschärfe
 ---

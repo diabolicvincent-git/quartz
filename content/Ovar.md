@@ -1,5 +1,4 @@
 ---
-aliases: Ovarien, Eierstock, Eierstöcke
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie]
 title: Ovar
 ---

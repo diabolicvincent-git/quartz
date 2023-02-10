@@ -1,5 +1,4 @@
 ---
-aliases: Epstein-Barr-Virus
 tags: [Modul/m19, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
 title: EBV
 ---

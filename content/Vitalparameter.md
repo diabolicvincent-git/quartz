@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Art/Intervention, Fach/Anästhesie, Fach/Allgemeinmedizin]
 title: Vitalparameter
 ---

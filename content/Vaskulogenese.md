@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Fach/Histologie, Fach/Anatomie, Fach/Embryologie]
 title: Vaskulogenese
 ---

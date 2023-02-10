@@ -1,5 +1,4 @@
 ---
-aliases: M. Reiter
 tags: [Modul/m17, Fach/Rheumatologie]
 title: Reaktive Arthritis
 ---

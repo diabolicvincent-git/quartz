@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m06, Modul/m20, Fach/Psychiatrie, Fach/Physiologie]
 title: Stress
 ---

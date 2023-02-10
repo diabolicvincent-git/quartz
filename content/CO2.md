@@ -1,5 +1,4 @@
 ---
-aliases: Kohlendioxid, Kohlenstoffdioxid
 tags: [Modul/m13, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: CO2-Produktion im Körper
 ---

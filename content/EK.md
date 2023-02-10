@@ -1,5 +1,4 @@
 ---
-aliases: Erythrocytenkonzentrat
 tags: [Modul/m08, Fach/Pharmakologie/Medikament, Fach/Hämatologie/Transfusion/Blutprodukt]
 gruppe: "[[Transfusion]]"
 title: EK

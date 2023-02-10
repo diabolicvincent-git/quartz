@@ -1,5 +1,4 @@
 ---
-aliases: Schädel-Hirn-Trauma, Schädelhirntrauma
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: SHT
 ---

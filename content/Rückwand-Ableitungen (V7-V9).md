@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Rückwand-Ableitungen (V7-V9)
 ---

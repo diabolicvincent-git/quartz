@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Modul/m21, Fach/Radiologie, Art/Intervention]
 title: Bildgebung
 ---

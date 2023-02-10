@@ -1,5 +1,4 @@
 ---
-aliases: Intrakranielle Neoplasie, Tumor cerebri
 tags: [Modul/m30, Fach/Neurologie, Fach/Onkologie, Art/Pathologie]
 title: Hirntumor
 ---

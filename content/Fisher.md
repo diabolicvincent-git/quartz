@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m30, Fach/Neurologie, Fach/Radiologie, Art/Intervention]
 title: Fisher
 ---

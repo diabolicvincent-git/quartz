@@ -1,5 +1,4 @@
 ---
-aliases: Natrium
 tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Nephrologie]
 title: Na+
 ---

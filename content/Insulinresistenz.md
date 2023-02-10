@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Fach/Endokrinologie, Fach/Physiologie]
 title: Insulinresistenz
 ---

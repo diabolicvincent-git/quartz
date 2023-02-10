@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Psychiatrie, Art/Pathologie]
 title: Befürchtungen und Zwänge
 ---

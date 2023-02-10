@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Urologie, Art/Pathologie]
 title: Erektile Dysfunktion
 ---

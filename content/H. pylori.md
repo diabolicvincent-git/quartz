@@ -1,5 +1,4 @@
 ---
-aliases: Helicobacter pylori
 tags: [Modul/m18]
 title: H. pylori
 ---

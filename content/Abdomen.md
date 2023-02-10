@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Anatomie, Fach/Anatomie/Organ]
 title: Abdomen
 ---

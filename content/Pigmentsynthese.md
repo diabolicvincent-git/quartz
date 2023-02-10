@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Fach/Biochemie, Fach/Dermatologie]
 title: Regulation der Pigmentsynthese
 ---

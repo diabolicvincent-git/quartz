@@ -1,5 +1,4 @@
 ---
-aliases: Zerrung
 tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Distension
 ---

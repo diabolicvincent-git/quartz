@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Art/Intervention]
 title: Gastrektomie
 ---

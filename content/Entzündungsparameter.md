@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m18]
 title: Entzündungsparameter
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Autoantikörper
 tags: [Modul/m17, Fach/Rheumatologie]
 title: Auto-Antikörper
 ---

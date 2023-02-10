@@ -1,5 +1,4 @@
 ---
-aliases: Bell Pallsy
 tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Facialisparese
 ---

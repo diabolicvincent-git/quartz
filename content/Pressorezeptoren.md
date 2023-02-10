@@ -1,11 +1,4 @@
 ---
-aliases:
-  - Barorezeptoren
-  - Pressorezeptor
-  - Barorezeptor
-  - Pressosensor
-  - Pressosensoren
-  - Pressosensorenreflex
 tags: [Modul/m11]
 title: Pressorezeptoren
 ---

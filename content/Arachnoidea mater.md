@@ -1,5 +1,4 @@
 ---
-aliases: Spinnengewebshaut
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Arachnoidea mater
 ---

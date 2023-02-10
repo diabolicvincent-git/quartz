@@ -1,5 +1,4 @@
 ---
-aliases: New York Heart Association
 tags: [Modul/m11, Fach/Kardiologie, Fach/Pneumologie, Art/Intervention]
 title: NYHA
 ---

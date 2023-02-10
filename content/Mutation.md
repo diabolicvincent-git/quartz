@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mutationen
 tags: [Modul/m02, Modul/m19]
 title: Mutation
 ---

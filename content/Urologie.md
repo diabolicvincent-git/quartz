@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Urologie]
 title: Urologie
 ---

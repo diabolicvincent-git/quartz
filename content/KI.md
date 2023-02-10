@@ -1,5 +1,4 @@
 ---
-aliases: Kontraindikation, Kontraindikationen, kontraindiziert
 tags: [Modul/m00, Fach/Pharmakologie/Medikament, Modul/m24]
 title: KI
 ---

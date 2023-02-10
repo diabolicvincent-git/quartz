@@ -1,5 +1,4 @@
 ---
-aliases: Sonic Hedgehog, SHH, HH
 tags: [Modul/m05, Fach/Biochemie, Fach/Embryologie, Fach/Biochemie/Molekül]
 title: Hedgehog
 ---

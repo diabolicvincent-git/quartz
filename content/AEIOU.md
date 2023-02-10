@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m14, Art/Intervention, Fach/Nephrologie]
 title: AEIOU
 ---

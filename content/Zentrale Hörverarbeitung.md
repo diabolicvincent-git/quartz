@@ -1,5 +1,4 @@
 ---
-aliases: Hören
 tags: [Modul/m16, Fach/HNO, Fach/Neurologie]
 title: Zentrale Hörverarbeitung
 ---

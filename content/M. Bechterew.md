@@ -1,5 +1,4 @@
 ---
-aliases: Spondylitis ankylosans
 tags: [Modul/m17]
 title: M. Bechterew
 ---

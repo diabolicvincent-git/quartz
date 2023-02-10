@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Art/Pathologie, Fach/Neurologie, Fach/Infektiologie, Art/Pathologie]
 title: Meningitis
 ---

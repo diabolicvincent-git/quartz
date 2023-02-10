@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Fach/Kardiologie, Art/Pathologie]
 title: Paradoxe Embolie
 ---

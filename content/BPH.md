@@ -1,5 +1,4 @@
 ---
-aliases: Benigne Prostatahyperplasie, BPS, Benignes Prostatasyndrom
 tags: [Modul/m22, Fach/Urologie, Art/Pathologie]
 title: BPH
 ---

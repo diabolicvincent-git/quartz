@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m06, Modul/m22]
 title: Elli Anamnesegruppe
 ---

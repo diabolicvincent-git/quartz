@@ -1,5 +1,4 @@
 ---
-aliases: intranasal
 tags: [Modul/m00]
 title: i.n.
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m19, Modul/m22, Fach/Onkologie, Fach/Gynäkologie, Fach/Pharmakologie/Medikament]
 title: Tamoxifen
 ---

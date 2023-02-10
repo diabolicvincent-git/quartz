@@ -1,5 +1,4 @@
 ---
-aliases: Selbstverletzendes Verhalten
 tags: [Fach/Psychiatrie, Art/Pathologie, Modul/m31]
 title: SVV
 ---

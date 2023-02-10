@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie]
 title: Multimorbidität
 ---

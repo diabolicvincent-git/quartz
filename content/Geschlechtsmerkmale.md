@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Anatomie, Fach/Gynäkologie, Fach/Urologie, Fach/Pädiatrie]
 title: Geschlechtsmerkmale
 ---

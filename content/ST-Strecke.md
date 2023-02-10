@@ -1,5 +1,4 @@
 ---
-aliases: ST-Strecken
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: ST-Strecke
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Transient loss of consciousness
 tags: [Art/Pathologie]
 title: TLOC
 ---

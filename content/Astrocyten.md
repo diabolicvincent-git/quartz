@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m15, Modul/m30, Fach/Neurologie, Fach/Histologie, Fach/Histologie/Zelle]
 title: Astrocyten
 ---

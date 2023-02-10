@@ -1,5 +1,4 @@
 ---
-aliases: Rachenmandel
 tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
 title: Tonsilla pharyngealis
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m08, Fach/Infektiologie, Art/Pathologie, Fach/Rheumatologie]
 title: Allergien
 ---

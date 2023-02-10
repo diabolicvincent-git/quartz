@@ -1,5 +1,4 @@
 ---
-aliases: Blutsenkungsgeschwindigkeit
 tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin]
 title: BSG
 ---

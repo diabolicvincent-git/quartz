@@ -1,5 +1,4 @@
 ---
-aliases: Streptococcus
 tags: [Modul/m18]
 title: Streptokokken
 ---

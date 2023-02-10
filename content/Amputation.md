@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m01, Art/Intervention, Fach/Chirurgie]
 title: Amputation
 ---

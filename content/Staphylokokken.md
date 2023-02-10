@@ -1,5 +1,4 @@
 ---
-aliases: Staphylococcus, Staphylococcen
 tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Staphylokokken
 ---

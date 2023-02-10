@@ -1,5 +1,4 @@
 ---
-aliases: Äußerer Liquorraum
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Subarachnoidalraum
 ---

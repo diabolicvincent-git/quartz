@@ -1,5 +1,4 @@
 ---
-aliases: Thrombocytopenie
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: Thrombopenie
 ---

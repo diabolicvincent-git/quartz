@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04 Modul/m09 Modul/m13 Modul/m16 Fach/Pharmakologie/Medikament Modul/m22, Fach/Endokrinologie]
 title: UAW der Glucocorticoide
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Modul/m14, Fach/Nephrologie]
 title: Renale Osteopathie
 ---

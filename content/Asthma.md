@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Pneumologie, Art/Pathologie, Modul/m13]
 title: Asthma
 ---

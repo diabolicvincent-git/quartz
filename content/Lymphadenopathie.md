@@ -1,5 +1,4 @@
 ---
-aliases: Lymphknotenschwellung
 tags: [Modul/m19]
 title: Lymphadenopathie
 ---

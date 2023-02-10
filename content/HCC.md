@@ -1,5 +1,4 @@
 ---
-aliases: Leberzellkarzinom, Hepatozelluläres Ca, Leber-Ca
 tags: [Modul/m19, Art/Pathologie, Art/Pathologie, Fach/Gastroenterologie, Fach/Onkologie]
 title: HCC
 ---

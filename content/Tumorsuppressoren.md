@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19, Fach/Genetik/Gen, Fach/Onkologie, Fach/Genetik]
 title: Tumorsuppressoren
 ---

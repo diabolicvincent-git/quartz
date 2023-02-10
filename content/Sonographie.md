@@ -1,5 +1,4 @@
 ---
-aliases: Ultraschall, POCUS
 tags: [Modul/m00, Fach/Radiologie/Standardbildgebung, Art/Intervention]
 title: Sonographie
 ---

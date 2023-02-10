@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Pneumologie]
 title: Erkrankungen mit Einfluss auf Atmung & Kommunikation
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Spermium, Spermatozoon
 tags: [Modul/m22, Fach/Urologie, Fach/Genetik, Fach/Physiologie, Fach/Histologie/Zelle]
 title: Spermien
 ---

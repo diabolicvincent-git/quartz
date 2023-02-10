@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Modul/m17, Fach/Gastroenterologie]
 title: Leberzirrhose
 ---

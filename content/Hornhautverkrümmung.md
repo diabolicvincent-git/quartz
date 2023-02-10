@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Astigmatismus
 tags: [Modul/m16]
 title: Hornhautverkrümmung
 ---

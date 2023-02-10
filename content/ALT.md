@@ -1,5 +1,4 @@
 ---
-aliases: Alaninaminotransferase, ALAT, GPT
 tags: [Modul/m12, Fach/Biochemie, Fach/Laboratoriumsmedizin, Fach/Biochemie/Enzym]
 title: ALT
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Posttraumatische Belastungsstörung
 tags: [Modul/m20]
 title: PTBS
 ---

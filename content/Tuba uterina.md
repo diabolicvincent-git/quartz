@@ -1,5 +1,4 @@
 ---
-aliases: Eileiter
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Tuba uterina
 ---

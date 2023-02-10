@@ -1,5 +1,4 @@
 ---
-aliases: Spinalnerv
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Spinalnerven
 ---

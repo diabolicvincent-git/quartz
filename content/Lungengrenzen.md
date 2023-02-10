@@ -1,5 +1,4 @@
 ---
-aliases: Lungengrenze
 tags: [Modul/m13]
 title: Lungengrenzen
 ---

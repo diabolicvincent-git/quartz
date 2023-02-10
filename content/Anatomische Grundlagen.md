@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Fach/Anatomie]
 title: Anatomische Grundlagen
 ---

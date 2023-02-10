@@ -1,5 +1,4 @@
 ---
-aliases: Darminvagination
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Chirurgie]
 title: Invagination
 ---

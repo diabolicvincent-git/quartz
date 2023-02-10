@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Pneumologie]
 title: Surfactant
 ---

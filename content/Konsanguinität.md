@@ -1,5 +1,4 @@
 ---
-aliases: Inzucht, Blutsverwandschaft
 tags: [Modul/m17, Fach/Genetik]
 title: Konsanguinität
 ---

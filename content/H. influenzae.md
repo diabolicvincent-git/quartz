@@ -1,5 +1,4 @@
 ---
-aliases: Haemophilus influenzae
 tags: [Modul/m18]
 title: H. influenzae
 ---

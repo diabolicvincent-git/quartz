@@ -1,5 +1,4 @@
 ---
-aliases: Karzinogenese
 tags: [Modul/m19, Fach/Onkologie, Fach/Physiologie]
 title: Tumorentstehung
 ---

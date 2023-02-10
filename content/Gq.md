@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Fach/Biochemie]
 title: Gq
 ---

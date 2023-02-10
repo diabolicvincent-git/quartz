@@ -1,5 +1,4 @@
 ---
-aliases: Gebärmutter
 tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Uterus
 ---

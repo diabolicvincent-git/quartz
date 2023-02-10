@@ -1,5 +1,4 @@
 ---
-aliases: Nebennierenrinde
 tags: [Modul/m14, Modul/m22, Fach/Anatomie, Fach/Endokrinologie]
 title: NNR
 ---

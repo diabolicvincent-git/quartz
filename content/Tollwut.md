@@ -1,5 +1,4 @@
 ---
-aliases: Rabies, Lyssa
 tags: [Modul/m24, Fach/Infektiologie, Art/Pathologie]
 title: Tollwut
 ---

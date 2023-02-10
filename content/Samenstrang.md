@@ -1,5 +1,4 @@
 ---
-aliases: Funiculus spermaticus
 tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: Samenstrang
 ---

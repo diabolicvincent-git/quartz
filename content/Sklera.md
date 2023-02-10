@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lederhaut
 tags: [Modul/m16]
 title: Sklera
 ---

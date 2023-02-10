@@ -1,5 +1,4 @@
 ---
-aliases: arteriell, arterielle
 tags: [Modul/m08, Modul/m11, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Arterien
 ---

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bildgebung Lunge
-  - Bildgebung Herz
 tags: [Modul/m13, Modul/m11, Fach/Radiologie, Fach/Kardiologie, Fach/Pneumologie, Art/Intervention]
 title: Randgebende Strukturen des Herz im Röntgenbild
 ---

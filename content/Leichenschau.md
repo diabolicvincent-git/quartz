@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Modul/m21, Fach/Rechtsmedizin, Art/Intervention]
 title: Leichenschau
 ---

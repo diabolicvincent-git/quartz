@@ -1,5 +1,4 @@
 ---
-aliases: Cholsäuren
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie]
 title: Gallensäuren
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: parasympathisch, parasympathische
 tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Parasympathikus
 ---

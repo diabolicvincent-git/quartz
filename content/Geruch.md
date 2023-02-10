@@ -1,5 +1,4 @@
 ---
-aliases: Riechen
 tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Geruch
 ---

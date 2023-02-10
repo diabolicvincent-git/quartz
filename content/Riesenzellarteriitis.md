@@ -1,5 +1,4 @@
 ---
-aliases: M. Horton, Morbus Horton, Arteriitis temporalis, Arteriitis cranialis
 tags: [Modul/m17]
 title: Riesenzellarteriitis
 ---

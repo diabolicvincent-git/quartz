@@ -1,5 +1,4 @@
 ---
-aliases: Elektronenvolt
 tags: [Modul/m19, Fach/Biochemie]
 title: eV
 ---

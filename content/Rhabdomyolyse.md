@@ -1,5 +1,4 @@
 ---
-aliases: Crush-Syndrom
 tags: [Modul/m10, Modul/m14, Fach/Orthopädie, Fach/Nephrologie, Art/Pathologie]
 title: Rhabdomyolyse
 ---

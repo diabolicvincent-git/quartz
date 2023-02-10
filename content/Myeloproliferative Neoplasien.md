@@ -1,5 +1,4 @@
 ---
-aliases: MPN
 tags: [Modul/m19]
 title: Myeloproliferative Neoplasien
 ---

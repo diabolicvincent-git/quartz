@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [ToDo, Fach/Neurologie, Fach/Histologie]
 title: Histologie des ZNS
 ---

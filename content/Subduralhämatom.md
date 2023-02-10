@@ -1,5 +1,4 @@
 ---
-aliases: Subdurales Hämatom, Subduralblutung, SDH
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Subduralhämatom
 ---

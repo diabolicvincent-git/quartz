@@ -1,5 +1,4 @@
 ---
-aliases: Hamilton-Depressionsskala, HAMD
 tags: [Modul/m20, Fach/Psychiatrie, Art/Intervention]
 title: Hamilton-Skala
 ---

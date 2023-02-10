@@ -1,5 +1,4 @@
 ---
-aliases: Cervixkarzinom
 tags: [Modul/m19, Fach/Gynäkologie, Fach/Onkologie]
 title: Cervix-Ca
 ---

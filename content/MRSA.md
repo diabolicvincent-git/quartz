@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: MRSA
 ---

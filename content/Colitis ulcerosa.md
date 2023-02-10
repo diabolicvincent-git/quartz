@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Modul/m12, Fach/Gastroenterologie, Fach/Rheumatologie, Art/Pathologie]
 title: Colitis ulcerosa
 ---

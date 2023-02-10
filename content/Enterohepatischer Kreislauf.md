@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Physiologie, Fach/Gastroenterologie]
 title: Enterohepatischer Kreislauf
 ---

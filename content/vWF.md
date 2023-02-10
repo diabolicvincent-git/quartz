@@ -1,5 +1,4 @@
 ---
-aliases: von-Willebrand-Faktor
 tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: vWF
 ---

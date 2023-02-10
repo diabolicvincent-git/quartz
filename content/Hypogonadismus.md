@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie]
 title: Hypogonadismus
 ---

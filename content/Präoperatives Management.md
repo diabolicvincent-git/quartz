@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: Präoperatives Management
 ---

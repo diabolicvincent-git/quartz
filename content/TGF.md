@@ -1,5 +1,4 @@
 ---
-aliases: TGF-β
 tags: [Modul/m19, Fach/Biochemie/Hormon]
 title: TGF
 ---

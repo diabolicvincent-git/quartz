@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Fach/Endokrinologie, Fach/Nephrologie, Art/Pathologie]
 title: Sekundärer Hyperaldosteronismus
 ---

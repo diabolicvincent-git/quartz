@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Blutgasanalyse
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Laboratoriumsmedizin]
 title: BGA
 ---

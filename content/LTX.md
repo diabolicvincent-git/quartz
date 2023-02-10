@@ -1,5 +1,4 @@
 ---
-aliases: Lebertransplantation
 tags: [Modul/m26]
 title: LTX
 ---

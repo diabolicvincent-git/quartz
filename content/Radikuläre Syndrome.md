@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m27, Modul/m15]
 title: Radikuläre Syndrome
 ---

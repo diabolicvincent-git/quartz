@@ -1,5 +1,4 @@
 ---
-aliases: Digitale Subtraktionsangiographie
 tags: [Modul/m15, Art/Intervention, Fach/Radiologie]
 title: DSA
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Bipolare affektive Störung
 tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Bipolare Störung
 ---

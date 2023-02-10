@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m18]
 title: Exantheme im Kindesalter
 ---

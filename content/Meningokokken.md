@@ -1,5 +1,4 @@
 ---
-aliases: N. meningitidis, Neisseria meningitidis
 tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Fach/Infektiologie/Reiseimpfung]
 title: Meningokokken
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Cortex, Großhirnrinde
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Cortex cerebri
 ---

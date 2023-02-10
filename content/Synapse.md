@@ -1,5 +1,4 @@
 ---
-aliases: Synapsen
 tags: [Modul/m04]
 title: Synapse
 ---

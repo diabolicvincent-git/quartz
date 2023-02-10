@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m08, Modul/m17]
 title: Petechien
 ---

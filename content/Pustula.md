@@ -1,5 +1,4 @@
 ---
-aliases: Pustel
 tags: [Modul/m09, Fach/Dermatologie]
 title: Pustula
 ---

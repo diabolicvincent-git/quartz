@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Fach/Pharmakologie/Medikament/Übergruppe, Fach/Kardiologie]
 title: Antiarrhythmika
 ---

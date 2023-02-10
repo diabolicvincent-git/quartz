@@ -1,5 +1,4 @@
 ---
-aliases: Hormone, hormonell
 tags: [Modul/m04, Modul/m22]
 title: Hormon
 ---

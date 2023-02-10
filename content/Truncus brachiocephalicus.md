@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Truncus brachiocephalicus
 ---

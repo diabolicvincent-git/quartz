@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Art/Pathologie, Modul/m21, Fach/Infektiologie, Fach/Anästhesie, Art/Pathologie]
 title: PV Septischer Schock
 ---

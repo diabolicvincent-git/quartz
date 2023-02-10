@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m00, Fach/Pädiatrie, Fach/Psychiatrie, Art/Pathologie, Fach/Rechtsmedizin]
 title: Kindesmisshandlung
 ---

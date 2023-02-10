@@ -1,5 +1,4 @@
 ---
-aliases: Lymphocyt
 tags: [Modul/m08, Fach/Hämatologie, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Lymphocyten
 ---

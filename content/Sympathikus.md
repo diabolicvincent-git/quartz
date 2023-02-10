@@ -1,5 +1,4 @@
 ---
-aliases: sympathisch, sympathische
 tags: [Modul/m15, Fach/Neurologie]
 title: Sympathikus
 ---

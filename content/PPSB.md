@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Fach/Pharmakologie/Medikament, Fach/Hämatologie/Transfusion/Blutprodukt]
 title: PPSB
 ---

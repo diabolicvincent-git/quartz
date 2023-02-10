@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Histologie, Fach/Pneumologie]
 title: Histologie Entzündung der Atemwege & Lunge
 ---

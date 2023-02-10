@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie]
 title: Cheyne-Stokes-Atmung
 ---

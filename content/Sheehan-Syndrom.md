@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Art/Pathologie]
 title: Sheehan-Syndrom
 ---

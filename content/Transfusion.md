@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Modul/m21, Fach/Hämatologie/Transfusion, Fach/Anästhesie, Art/Intervention]
 title: Transfusion
 ---

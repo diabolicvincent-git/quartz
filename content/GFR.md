@@ -1,5 +1,4 @@
 ---
-aliases: Glomeruläre Filtrationsrate
 tags: [Modul/m14]
 title: GFR
 ---

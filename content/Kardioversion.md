@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11, Fach/Kardiologie, Fach/Notfallmedizin]
 title: Kardioversion
 ---

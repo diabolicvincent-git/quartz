@@ -1,5 +1,4 @@
 ---
-aliases: Ovarialfollikel
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Histologie, Fach/Physiologie]
 title: Follikel
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19, Fach/Onkologie, Art/Pathologie]
 title: Gewichtsverlust
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Motorcortex
 tags: [Modul/m15]
 title: Motorcortex
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Synarthrosen
 tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Synarthrose
 ---

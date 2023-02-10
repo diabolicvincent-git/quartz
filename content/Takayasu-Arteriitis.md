@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Takayasu-Arteriitis
 ---

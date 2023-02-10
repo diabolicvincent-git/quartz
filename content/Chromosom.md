@@ -1,5 +1,4 @@
 ---
-aliases: Chromosomen
 tags: [Modul/m02, Fach/Genetik, Fach/Biochemie]
 title: Chromosom
 ---

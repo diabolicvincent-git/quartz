@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m31, Fach/Psychiatrie, Art/Pathologie]
 title: Anorexia nervosa
 ---

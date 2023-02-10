@@ -1,5 +1,4 @@
 ---
-aliases: SLE, Systemischer Lupus erythematodes
 tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie]
 title: SLE
 ---

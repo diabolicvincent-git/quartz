@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie, Fach/Psychiatrie, Modul/m31]
 ICD: "F40-F41"
 title: Angststörung

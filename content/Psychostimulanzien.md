@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Psychiatrie, Fach/Toxikologie/Gift/Droge]
 title: Psychostimulanzien
 ---

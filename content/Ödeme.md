@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Fach/Kardiologie, Fach/Nephrologie, Art/Pathologie]
 title: Ödeme
 ---

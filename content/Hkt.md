@@ -1,5 +1,4 @@
 ---
-aliases: Hämatokrit
 tags: [Modul/m08, Fach/Hämatologie, Art/Intervention]
 title: Hkt
 ---

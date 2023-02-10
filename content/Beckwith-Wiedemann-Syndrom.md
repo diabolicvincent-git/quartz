@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Fach/Pädiatrie]
 title: Beckwith-Wiedemann-Syndrom
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: International Normalized Ratio
 tags: [Modul/m08, Fach/Hämatologie]
 title: INR
 ---

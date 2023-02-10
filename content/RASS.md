@@ -1,5 +1,4 @@
 ---
-aliases: Richmond Agitation and Sedation Scale
 tags: [Modul/m36, Fach/Anästhesie]
 title: RASS
 ---

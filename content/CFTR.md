@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m03, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Molekül]
 title: CFTR
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m18, Fach/Infektiologie, Fach/Epidemiologie]
 title: Nosokomiale Infektion
 ---

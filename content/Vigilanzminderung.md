@@ -1,5 +1,4 @@
 ---
-aliases: Quantitative Bewusstseinsstörung
 tags: [Modul/m15, Modul/m20, Fach/Neurologie, Art/Pathologie]
 title: Vigilanzminderung
 ---

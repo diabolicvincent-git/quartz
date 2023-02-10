@@ -1,5 +1,4 @@
 ---
-aliases: Spitzenumkehrtachykardie
 tags: [Modul/m11, Modul/m21, Fach/Kardiologie, Art/Pathologie]
 title: Torsade de Pointes
 ---

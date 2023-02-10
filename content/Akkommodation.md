@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Physiologie, ToDo]
 title: Akkommodation
 ---

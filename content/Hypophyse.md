@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Modul/m22, Fach/Neurologie, Fach/Anatomie]
 kleiner: [[Neurohypophyse]]
 title: Hypophyse

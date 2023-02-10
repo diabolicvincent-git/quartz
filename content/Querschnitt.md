@@ -1,5 +1,4 @@
 ---
-aliases: Querschnittslähmung, Querschnittssyndrom
 tags: [Modul/m10, Fach/Neurologie, Fach/Orthopädie, Art/Pathologie]
 title: Querschnitt
 ---

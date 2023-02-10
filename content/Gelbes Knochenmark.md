@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m19, Fach/Hämatologie, Fach/Anatomie, Fach/Histologie]
 title: Gelbes Knochenmark
 ---

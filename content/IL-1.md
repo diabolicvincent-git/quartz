@@ -1,5 +1,4 @@
 ---
-aliases: IL-1β
 tags: [Modul/m08]
 title: IL-1
 ---

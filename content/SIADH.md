@@ -1,5 +1,4 @@
 ---
-aliases: Syndrom der inadäquaten ADH-Sekretion
 tags: [Modul/m14]
 title: SIADH
 ---

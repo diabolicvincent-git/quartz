@@ -1,5 +1,4 @@
 ---
-aliases: Harnsteine
 tags: [Modul/m26, Art/Pathologie, Fach/Urologie]
 title: Urolithiasis
 ---

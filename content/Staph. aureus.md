@@ -1,5 +1,4 @@
 ---
-aliases: Staphylococcus aureus, S. auerus
 tags: [Modul/m18, Fach/Infektiologie]
 title: Staph. aureus
 ---

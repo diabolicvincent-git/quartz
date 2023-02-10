@@ -1,5 +1,4 @@
 ---
-aliases: Interleukin 6
 tags: [Modul/m18, Modul/m08]
 title: IL-6
 ---

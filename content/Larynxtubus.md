@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Anästhesie, Fach/Notfallmedizin, Art/Intervention]
 title: Larynxtubus
 ---

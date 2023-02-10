@@ -1,5 +1,4 @@
 ---
-aliases: Koronarien
 tags: [Modul/m11]
 title: Koronararterien
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Excavatio rectouterina
 tags: [Modul/m22, Fach/Anatomie, Fach/Gynäkologie]
 title: Douglas-Raum
 ---

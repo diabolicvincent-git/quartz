@@ -1,5 +1,4 @@
 ---
-aliases: Return of Spontaneus Circulation
 tags: [Modul/m21, Fach/Anästhesie, Art/Pathologie]
 title: ROSC
 ---

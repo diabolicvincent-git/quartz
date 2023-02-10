@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Modul/m11, Fach/Physiologie, Fach/Pneumologie]
 title: Perfusion
 ---

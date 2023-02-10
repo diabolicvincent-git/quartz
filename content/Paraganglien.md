@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11, Fach/Neurologie, Fach/Physiologie, Fach/Kardiologie]
 title: Paraganglien
 ---

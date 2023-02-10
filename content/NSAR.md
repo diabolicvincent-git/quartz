@@ -1,5 +1,4 @@
 ---
-aliases: Nichtsteroidale Antirheumatika
 tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: NSAR
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Sympatholytika
 tags: [Modul/m11, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: Antisympathotonika
 ---

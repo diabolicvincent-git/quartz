@@ -1,6 +1,4 @@
 ---
-aliases:
-  - HN V
 tags: [Modul/m15, Fach/Neurologie]
 title: N. trigeminus (V)
 ---

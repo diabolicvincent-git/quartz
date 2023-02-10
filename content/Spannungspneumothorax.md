@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie, Fach/Anästhesie]
 title: Spannungspneumothorax
 ---

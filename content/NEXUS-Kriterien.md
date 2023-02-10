@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m10, Modul/m21, Fach/Orthopädie, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: NEXUS-Kriterien
 ---

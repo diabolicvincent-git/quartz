@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Neurologie]
 title: Corpus geniculatum laterale
 ---

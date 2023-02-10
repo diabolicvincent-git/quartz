@@ -1,5 +1,4 @@
 ---
-aliases: Granulocytopenie
 tags: [Modul/m08, Modul/m19]
 title: Neutropenie
 ---

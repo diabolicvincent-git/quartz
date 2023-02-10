@@ -1,5 +1,4 @@
 ---
-aliases: Lactatdehydrogenase, Lactat-Dehydrogenase
 tags: [Modul/m02, Fach/Biochemie, Fach/Laboratoriumsmedizin]
 title: LDH
 ---

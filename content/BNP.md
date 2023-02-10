@@ -1,5 +1,4 @@
 ---
-aliases: NT-proBNP, NT-pro BNP
 tags: [Modul/m11, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Laboratoriumsmedizin]
 title: BNP
 ---

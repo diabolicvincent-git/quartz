@@ -1,5 +1,4 @@
 ---
-aliases: CD-Marker, Clusters of differentiation
 tags: [Modul/m08, Modul/m19, Fach/Rheumatologie]
 title: CD
 ---

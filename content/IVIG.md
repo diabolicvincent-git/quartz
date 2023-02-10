@@ -1,5 +1,4 @@
 ---
-aliases: Intravenöse Immunglobuline
 tags: [Modul/m17, Fach/Rheumatologie, Art/Intervention]
 title: IVIG
 ---

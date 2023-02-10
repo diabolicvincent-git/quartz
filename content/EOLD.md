@@ -1,5 +1,4 @@
 ---
-aliases: End of Life Decision, End of Life Decisions
 tags: [Modul/m20, Modul/m23, Fach/Anästhesie]
 title: EOLD
 ---

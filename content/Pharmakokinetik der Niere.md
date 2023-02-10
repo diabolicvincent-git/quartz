@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, ToDo, Fach/Nephrologie, Fach/Pharmakologie/Medikament]
 title: Pharmakokinetik der Niere
 ---

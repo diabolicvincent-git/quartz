@@ -1,5 +1,4 @@
 ---
-aliases: Thrombolyse
 tags: [Modul/m30, Fach/Neurologie, Fach/Pharmakologie/Medikament, Art/Intervention]
 title: Lyse
 ---

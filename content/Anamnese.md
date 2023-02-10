@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Art/Intervention, Wichtig]
 title: Anamnese
 ---

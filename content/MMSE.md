@@ -1,5 +1,4 @@
 ---
-aliases: Mini-Mental-State-Examination
 tags: [Art/Intervention, Modul/m31, Fach/Psychiatrie, Fach/Neurologie]
 title: MMSE
 ---

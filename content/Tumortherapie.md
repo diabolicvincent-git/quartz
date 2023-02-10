@@ -1,5 +1,4 @@
 ---
-aliases: Antineoplastische Therapie
 tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: Tumortherapie
 ---

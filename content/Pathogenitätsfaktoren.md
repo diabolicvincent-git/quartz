@@ -1,5 +1,4 @@
 ---
-aliases: Virulenzfaktoren
 tags: [Modul/m18, Fach/Infektiologie]
 title: Pathogenitätsfaktoren
 ---

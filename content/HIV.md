@@ -1,5 +1,4 @@
 ---
-aliases: Humanes Immundefizienzvirus
 tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie, Art/Pathologie, Fach/Infektiologie/Erreger/Viren]
 title: HIV
 ---

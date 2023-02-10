@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Kardiologie, Fach/Nephrologie]
 title: Direkte Renin-Inhibitoren
 ---

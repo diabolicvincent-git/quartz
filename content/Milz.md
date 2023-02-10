@@ -1,5 +1,4 @@
 ---
-aliases: splen
 tags: [Modul/m08, Fach/Anatomie, Fach/Hämatologie]
 title: Milz
 ---

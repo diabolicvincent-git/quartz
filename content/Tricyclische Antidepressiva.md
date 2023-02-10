@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m20, Fach/Psychiatrie/Antidepressiva, Fach/Pharmakologie/Medikament/PIM]
 title: Tricyclische Antidepressiva
 ---

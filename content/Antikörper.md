@@ -1,5 +1,4 @@
 ---
-aliases: Immunglobuline
 tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie, Fach/Biochemie/Antikörper]
 title: Antikörper
 ---

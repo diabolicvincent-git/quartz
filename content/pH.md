@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m02, Modul/m14, Fach/Laboratoriumsmedizin, Fach/Biochemie]
 title: pH
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Bland-White-Garland-Syndrom, ALCAPA
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Koronararterienanomalien
 ---

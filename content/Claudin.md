@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Modul/m05, Modul/m14, Fach/Nephrologie, Fach/Physiologie]
 title: Claudin
 ---

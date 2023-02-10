@@ -1,5 +1,4 @@
 ---
-aliases: Ribosom
 tags: [Modul/m03, Fach/Biochemie, Fach/Genetik]
 title: Ribosomen
 ---

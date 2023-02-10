@@ -1,5 +1,4 @@
 ---
-aliases: Verbrauchskoagulopathie, Disseminierte intravasale Gerinnung
 tags: [Modul/m17, Modul/m21, Fach/Hämatologie, Art/Pathologie]
 title: VL DD Akute Gerinnungsstörung
 ---

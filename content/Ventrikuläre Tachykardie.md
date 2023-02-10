@@ -1,5 +1,4 @@
 ---
-aliases: VT, pVT
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie, Art/Pathologie]
 title: Ventrikuläre Tachykardie
 ---

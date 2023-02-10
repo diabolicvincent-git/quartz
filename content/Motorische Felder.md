@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m15]
 title: Motorische Felder
 ---

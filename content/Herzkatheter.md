@@ -1,5 +1,4 @@
 ---
-aliases: Koronarangiographie
 tags: [Modul/m25, Art/Intervention, Art/Intervention]
 title: Herzkatheter
 ---

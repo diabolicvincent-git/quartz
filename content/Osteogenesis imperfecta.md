@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Glasknochenkrankheit
 tags: [Modul/m05]
 title: Osteogenesis imperfecta
 ---

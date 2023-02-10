@@ -1,5 +1,4 @@
 ---
-aliases: Glutensensitive Enteropathie, Heubner-Herter-Krankheit, Nichttropische Sprue
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: Zöliakie
 ---

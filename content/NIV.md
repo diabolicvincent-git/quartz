@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Anästhesie, Fach/Pneumologie, Art/Intervention]
 title: NIV
 ---

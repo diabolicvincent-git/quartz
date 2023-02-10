@@ -1,5 +1,4 @@
 ---
-aliases: Platelet Function Analyzer
 tags: [Modul/m17, Fach/Hämatologie, Art/Intervention]
 title: PFA
 ---

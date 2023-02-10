@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, Fach/Anästhesie, Fach/Pneumologie, Art/Intervention]
 title: vvECMO
 ---

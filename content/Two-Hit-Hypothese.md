@@ -1,5 +1,4 @@
 ---
-aliases: Knudson-Hypothese
 tags: [Modul/m19, Fach/Onkologie]
 title: Two-Hit-Hypothese
 ---

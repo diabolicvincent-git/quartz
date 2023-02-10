@@ -1,5 +1,4 @@
 ---
-aliases: Darmverschluss, Subileus, Bridenileus
 tags: [Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: Ileus
 ---

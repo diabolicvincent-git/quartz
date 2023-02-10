@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keuchhusten
 tags: [Modul/m03, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
 title: Pertussis
 ---

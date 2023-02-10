@@ -1,5 +1,4 @@
 ---
-aliases: VSD
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Ventrikelseptumdefekt
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Modul/m11, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: San Francisco Syncope Rule
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Vorsteherdrüse
 tags: [Modul/m22, Modul/m19, Fach/Anatomie, Fach/Urologie]
 title: Prostata
 ---

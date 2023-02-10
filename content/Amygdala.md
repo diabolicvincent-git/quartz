@@ -1,5 +1,4 @@
 ---
-aliases: Corpus amygdaloideum, Mandelkern
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Amygdala
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Gleichgewichtsorgan
 tags: [Modul/m16, ToDo, Fach/Physiologie, Fach/Ophthalmologie]
 title: Peripheres vestibuläres System
 ---

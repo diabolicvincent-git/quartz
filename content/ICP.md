@@ -1,5 +1,4 @@
 ---
-aliases: Intrakranieller Druck, Hirndruck
 tags: [Modul/m15, Fach/Neurologie, Art/Intervention]
 title: ICP
 ---

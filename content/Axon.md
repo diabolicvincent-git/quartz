@@ -1,5 +1,4 @@
 ---
-aliases: Nervenfaser, Axone, Nervenfasern
 tags: [Modul/m05, Fach/Neurologie, Fach/Anatomie]
 title: Axon
 ---

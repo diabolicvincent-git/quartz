@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Chirurgie, Fach/Anästhesie, Fach/Notfallmedizin, Art/Intervention]
 title: Thoraxdrainage
 ---

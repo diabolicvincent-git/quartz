@@ -1,5 +1,4 @@
 ---
-aliases: Reaktive Sauerstoffspezies
 tags: [Modul/m08, Modul/m13]
 title: ROS
 ---

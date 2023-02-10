@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Fach/Histologie, Fach/Dermatologie]
 title: Histologie diverser Hauterkrankungen
 ---

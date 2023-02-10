@@ -1,5 +1,4 @@
 ---
-aliases: Retinale Ganglienzelle
 tags: [Modul/m16, Fach/Ophthalmologie]
 title: Retinale Ganglienzellen
 ---

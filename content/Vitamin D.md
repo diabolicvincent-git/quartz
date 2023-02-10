@@ -1,7 +1,4 @@
 ---
-aliases:
-  - VitD
-  - Calciferol
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin D
 ---

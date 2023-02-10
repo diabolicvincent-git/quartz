@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19, Fach/Onkologie, Fach/Radiologie, Art/Intervention, Art/Intervention]
 title: Theranostik
 ---

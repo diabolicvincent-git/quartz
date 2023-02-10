@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, ToDo, Fach/Psychiatrie, Art/Pathologie]
 title: 'VL "Ihnen fehlt nichts"'
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m17, Modul/m26, Fach/Pharmakologie/Medikament]
 title: Tacrolimus
 ---

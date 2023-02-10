@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m17, Fach/Endokrinologie, Art/Pathologie]
 title: DMT1
 ---

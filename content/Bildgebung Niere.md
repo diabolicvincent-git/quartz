@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, ToDo, Fach/Nephrologie, Fach/Radiologie, Art/Intervention]
 title: Bildgebung Niere
 ---

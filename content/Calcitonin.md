@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Calcitonin
 ---

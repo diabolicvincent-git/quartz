@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie, Fach/Endokrinologie]
 title: Hyperglycämie
 ---

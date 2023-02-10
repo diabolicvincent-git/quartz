@@ -1,5 +1,4 @@
 ---
-aliases: CURB65, CRB-65, CRB65
 tags: [Modul/m18, Fach/Pneumologie, Fach/Infektiologie, Art/Intervention, Art/Intervention]
 title: CURB-65
 ---

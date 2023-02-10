@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Pädiatrie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie]
 title: Pubertät
 ---

@@ -1,5 +1,4 @@
 ---
-aliases:
 tags: [Modul/m15, Fach/Neurologie, Fach/Psychiatrie, Art/Pathologie, Modul/m31, Modul/m30]
 title: Ätiologie
 ---

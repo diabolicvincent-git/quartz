@@ -1,5 +1,4 @@
 ---
-aliases: PSI
 tags: [Modul/m25]
 title: Physical Strain Index
 ---

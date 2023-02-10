@@ -1,5 +1,4 @@
 ---
-aliases: Proopiomelanocorticotropin
 tags: [Modul/m04, Modul/m09, Fach/Biochemie, Fach/Physiologie, Fach/Endokrinologie]
 title: POMC
 ---

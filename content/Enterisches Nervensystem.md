@@ -1,5 +1,4 @@
 ---
-aliases: Intramurales Nervensystem
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Neurologie, Fach/Physiologie]
 title: Enterisches Nervensystem
 ---

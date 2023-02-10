@@ -1,5 +1,4 @@
 ---
-aliases: Gaster
 tags: [Modul/m12]
 title: Magen
 ---

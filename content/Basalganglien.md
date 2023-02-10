@@ -1,5 +1,4 @@
 ---
-aliases: Ncll. basalis, Nuclei basales
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Anteile
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Art/Pathologie, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie]
 title: Hepatitis
 ---

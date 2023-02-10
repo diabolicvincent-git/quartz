@@ -1,5 +1,4 @@
 ---
-aliases: Vaskulitiden
 tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie, Art/Pathologie]
 title: Vaskulitis
 ---

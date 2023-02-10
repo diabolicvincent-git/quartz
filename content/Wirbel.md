@@ -1,5 +1,4 @@
 ---
-aliases: Wirbelkörper, Vertebrae
 tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie/Knochen]
 title: Wirbel
 ---

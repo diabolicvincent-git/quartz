@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m27, Art/Pathologie, ToDo, Fach/Orthopädie]
 title: Arthrose
 ---

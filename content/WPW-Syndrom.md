@@ -1,5 +1,4 @@
 ---
-aliases: Wolff-Parkinson-White-Syndrom
 tags: [Fach/Kardiologie, Art/Pathologie]
 title: WPW-Syndrom
 ---

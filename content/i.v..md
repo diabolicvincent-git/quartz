@@ -1,5 +1,4 @@
 ---
-aliases: intravenös
 tags: [Modul/m00]
 title: i.v.
 ---

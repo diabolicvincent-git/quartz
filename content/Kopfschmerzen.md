@@ -1,5 +1,4 @@
 ---
-aliases: Cephalgie
 tags: [Modul/m15, Art/Pathologie, Fach/Neurologie]
 title: Kopfschmerzen
 ---

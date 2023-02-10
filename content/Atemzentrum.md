@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Atemzentrum
 ---

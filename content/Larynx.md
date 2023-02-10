@@ -1,5 +1,4 @@
 ---
-aliases: Kehlkopf
 tags: [Modul/m13]
 title: Larynx
 ---

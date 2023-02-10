@@ -1,5 +1,4 @@
 ---
-aliases: Hämolytisch-urämisches Syndrom, Gasser-Syndrom, M. Gasser
 tags: [Modul/m17, Fach/Hämatologie]
 title: HUS
 ---

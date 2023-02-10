@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie, Modul/m31, Fach/Psychiatrie]
 title: Katatone Schizophrenie
 ---

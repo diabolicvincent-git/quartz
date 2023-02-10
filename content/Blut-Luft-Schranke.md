@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Pneumologie, Fach/Histologie, Fach/Physiologie]
 title: Blut-Luft-Schranke
 ---

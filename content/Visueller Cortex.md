@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m16, Fach/Neurologie, Fach/Ophthalmologie, Fach/Anatomie, Fach/Physiologie]
 title: Visueller Cortex
 ---

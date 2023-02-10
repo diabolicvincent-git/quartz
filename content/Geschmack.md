@@ -1,5 +1,4 @@
 ---
-aliases: Schmecken
 tags: [Modul/m16]
 title: Geschmack
 ---

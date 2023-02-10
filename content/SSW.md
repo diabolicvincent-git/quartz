@@ -1,5 +1,4 @@
 ---
-aliases: Schwangerschaftswoche
 tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Art/Intervention]
 title: SSW
 ---

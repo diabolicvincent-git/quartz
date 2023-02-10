@@ -1,5 +1,4 @@
 ---
-aliases: Harte Hirnhaut
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Dura mater
 ---

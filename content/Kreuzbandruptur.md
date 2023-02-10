@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, Fach/Orthopädie, Art/Pathologie]
 title: Kreuzbandruptur
 ---

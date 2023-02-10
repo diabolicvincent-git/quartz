@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m03, Fach/Genetik, Fach/Biochemie]
 title: Barr-Körperchen
 ---

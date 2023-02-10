@@ -1,5 +1,4 @@
 ---
-aliases: Nephritisches Syndrom
 tags: [Modul/m14, Fach/Nephrologie]
 title: Nephritis
 ---

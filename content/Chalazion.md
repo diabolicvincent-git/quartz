@@ -1,5 +1,4 @@
 ---
-aliases: Hagelkorn
 tags: [Modul/m16, Art/Pathologie, Fach/Ophthalmologie]
 title: Chalazion
 ---

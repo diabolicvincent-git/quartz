@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Modul/m05]
 title: Knochenmark
 ---

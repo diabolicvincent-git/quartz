@@ -1,5 +1,4 @@
 ---
-aliases: Antebrachium
 tags: []
 title: Unterarm
 ---

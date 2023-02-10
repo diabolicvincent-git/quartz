@@ -1,5 +1,4 @@
 ---
-aliases: Blutstillung, Blutgerinnung, Gerinnung
 tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Hämostase
 ---

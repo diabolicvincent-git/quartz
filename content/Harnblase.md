@@ -1,5 +1,4 @@
 ---
-aliases: Vesica urinaria
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie]
 title: Aufbau
 ---

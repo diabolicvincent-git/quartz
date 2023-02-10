@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Pharmakologie/Medikament, Modul/m30, Fach/Neurologie]
 title: LEVETIracetam
 ---

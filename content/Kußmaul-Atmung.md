@@ -1,5 +1,4 @@
 ---
-aliases: Kussmaul-Atmung
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Kußmaul-Atmung
 ---

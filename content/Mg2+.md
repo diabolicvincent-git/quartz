@@ -1,5 +1,4 @@
 ---
-aliases: Magnesium
 tags: [Modul/m14]
 title: Mg2+
 ---

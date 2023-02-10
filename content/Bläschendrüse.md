@@ -1,5 +1,4 @@
 ---
-aliases: Gl. vesiculosa, Glandula vesiculosa
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie]
 title: Bläschendrüse
 ---

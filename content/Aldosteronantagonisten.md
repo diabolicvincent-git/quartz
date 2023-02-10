@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pharmakologie/Medikament/Untergruppe]
 title: Aldosteronantagonisten
 ---

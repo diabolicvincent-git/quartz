@@ -1,5 +1,4 @@
 ---
-aliases: Depressive Störung
 tags: [Modul/m20, Art/Pathologie, Fach/Psychiatrie, Art/Intervention]
 title: Depression
 ---

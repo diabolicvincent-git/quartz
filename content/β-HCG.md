@@ -1,5 +1,4 @@
 ---
-aliases: beta-HCG
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Laboratoriumsmedizin, Fach/Gynäkologie, Art/Intervention, Fach/Biochemie/Molekül]
 title: β-HCG
 ---

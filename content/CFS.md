@@ -1,5 +1,4 @@
 ---
-aliases: Chronisches Fatigue Syndrom, Chronic Fatigue Syndrom
 tags: [Modul/m21, Fach/Psychiatrie, Art/Pathologie]
 title: CFS
 ---

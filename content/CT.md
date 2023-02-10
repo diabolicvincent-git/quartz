@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Computertomographie
 tags: [Modul/m00, Fach/Radiologie/Standardbildgebung, Art/Intervention, Modul/m30]
 title: CT
 ---

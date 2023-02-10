@@ -1,5 +1,4 @@
 ---
-aliases: intraossär
 tags: [Modul/m00, Modul/m21, Fach/Pharmakologie/Medikament]
 title: i.o.
 ---

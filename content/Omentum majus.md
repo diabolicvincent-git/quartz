@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Modul/m12]
 title: Omentum majus
 ---

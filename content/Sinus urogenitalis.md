@@ -1,5 +1,4 @@
 ---
-aliases: Urogenitalkanal
 tags: [Modul/m22, Fach/Embryologie, Fach/Gynäkologie, Fach/Urologie]
 title: Sinus urogenitalis
 ---

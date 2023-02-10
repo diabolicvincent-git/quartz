@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m27, Art/Intervention, Fach/Orthopädie]
 title: AO-Klassifikation
 ---

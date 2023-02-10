@@ -1,5 +1,4 @@
 ---
-aliases: BE
 tags: [Modul/m14, Fach/Laboratoriumsmedizin, Fach/Nephrologie]
 title: Base Excess
 ---

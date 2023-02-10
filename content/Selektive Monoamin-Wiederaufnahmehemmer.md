@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m20, Fach/Psychiatrie, Fach/Pharmakologie/Medikament]
 title: Selektive Monoamin-Wiederaufnahmehemmer
 ---

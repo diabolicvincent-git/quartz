@@ -1,5 +1,4 @@
 ---
-aliases: Basallamina
 tags: [Modul/m05, Fach/Histologie]
 title: Basalmembran
 ---

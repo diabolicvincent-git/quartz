@@ -1,5 +1,4 @@
 ---
-aliases: Magnetresonanztomographie
 tags: [Modul/m00, Art/Intervention, Fach/Radiologie/Standardbildgebung]
 title: MRT
 ---

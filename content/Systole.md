@@ -1,6 +1,4 @@
 ---
-aliases:
-  - systolisch
 tags: [Modul/m11]
 title: Systole
 ---

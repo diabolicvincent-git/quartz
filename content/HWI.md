@@ -1,5 +1,4 @@
 ---
-aliases: Harnwegsinfektion
 tags: [Modul/m14, Modul/m18, Art/Pathologie]
 title: Ätiologie
 ---

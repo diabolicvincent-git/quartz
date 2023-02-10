@@ -1,5 +1,4 @@
 ---
-aliases: Grauer Star
 tags: [Modul/m16, Art/Pathologie, Fach/Ophthalmologie]
 title: Katarakt
 ---

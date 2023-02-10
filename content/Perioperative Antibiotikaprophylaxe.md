@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Fach/Anästhesie, Art/Intervention]
 title: Perioperative Antibiotikaprophylaxe
 ---

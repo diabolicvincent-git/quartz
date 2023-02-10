@@ -1,5 +1,4 @@
 ---
-aliases: Urea
 tags: [Modul/m14, Fach/Biochemie, Fach/Nephrologie, Fach/Physiologie]
 title: Harnstoff
 ---

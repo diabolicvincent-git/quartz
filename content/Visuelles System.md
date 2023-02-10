@@ -1,5 +1,4 @@
 ---
-aliases: Visuelle Wahrnehmung, Sehen
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Physiologie]
 title: Visuelles System
 ---

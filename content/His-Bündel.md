@@ -1,5 +1,4 @@
 ---
-aliases: Fasciculus atrioventricularis
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: His-Bündel
 ---

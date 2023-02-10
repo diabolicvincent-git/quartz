@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, Modul/m12, Fach/Physiologie]
 title: Energieumsatz
 ---

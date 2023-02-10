@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m05, Fach/Anatomie, Fach/Embryologie, Art/Pathologie]
 title: Situs inversus
 ---

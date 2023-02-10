@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m30]
 title: Drogenintoxikation
 ---

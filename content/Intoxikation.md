@@ -1,5 +1,4 @@
 ---
-aliases: Vergiftung
 tags: [Modul/m00, Modul/m13]
 title: Intoxikation
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Modul/m03, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: CDK-Inhibitoren
 ---

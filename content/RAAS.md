@@ -1,5 +1,4 @@
 ---
-aliases: Renin-Angiotensin-Aldosteron-System
 tags: [Modul/m14, Modul/m11]
 title: Beteiligt
 ---

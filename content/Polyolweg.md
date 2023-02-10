@@ -1,5 +1,4 @@
 ---
-aliases: Fructosesynthese
 tags: [Modul/m02, Fach/Biochemie]
 title: Polyolweg
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, Fach/Hämatologie, Art/Intervention]
 title: Blutprodukte
 ---

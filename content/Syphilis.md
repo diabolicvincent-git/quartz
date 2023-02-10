@@ -1,5 +1,4 @@
 ---
-aliases: Lues
 tags: [Modul/m22, Fach/Infektiologie, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie]
 title: Syphilis
 ---

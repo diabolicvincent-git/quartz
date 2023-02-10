@@ -1,5 +1,4 @@
 ---
-aliases: Amphetaminderivate
 tags: [Fach/Toxikologie, Fach/Psychiatrie]
 title: Amphetamin
 ---

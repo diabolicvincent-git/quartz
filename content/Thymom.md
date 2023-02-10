@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Fach/Onkologie, Fach/Hämatologie]
 title: Thymom
 ---

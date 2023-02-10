@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Anatomie/Leitungsbahn/Vene/Punktabel/ZVK]
 title: V. jugularis interna
 ---

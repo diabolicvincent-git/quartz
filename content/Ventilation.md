@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Physiologie, Fach/Pneumologie, Fach/Physiologie]
 title: Ventilation
 ---

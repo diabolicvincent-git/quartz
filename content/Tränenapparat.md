@@ -1,5 +1,4 @@
 ---
-aliases: Tränen
 tags: [Modul/m16, Fach/Ophthalmologie]
 title: Bestandteile
 ---

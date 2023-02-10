@@ -1,5 +1,4 @@
 ---
-aliases: Blutkreislauf
 tags: [Modul/m11]
 title: Anatomische Gliederung
 ---

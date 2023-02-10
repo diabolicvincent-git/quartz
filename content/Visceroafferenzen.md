@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m15, Fach/Neurologie/Faserqualität, Fach/Physiologie]
 title: Visceroafferenzen
 ---

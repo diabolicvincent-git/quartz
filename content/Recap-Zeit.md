@@ -1,5 +1,4 @@
 ---
-aliases: Rekapillarisierungszeit
 tags: [Modul/m00, Art/Intervention]
 title: Recap-Zeit
 ---

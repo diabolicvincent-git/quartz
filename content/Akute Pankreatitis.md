@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: Akute Pankreatitis
 ---

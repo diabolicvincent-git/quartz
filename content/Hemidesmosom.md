@@ -1,5 +1,4 @@
 ---
-aliases: Hemidesmosomen
 tags: [Modul/m04, Modul/m05, Fach/Biochemie, Fach/Histologie]
 title: Hemidesmosom
 ---

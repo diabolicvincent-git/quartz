@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m07, Modul/m16, Fach/Pharmakologie/Medikament]
 title: Pharmakovigilanz
 ---

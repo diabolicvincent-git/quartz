@@ -1,5 +1,4 @@
 ---
-aliases: Mammakarzinom, Brustkrebs
 tags: [Modul/m19, Art/Pathologie]
 title: Mamma-Ca
 ---

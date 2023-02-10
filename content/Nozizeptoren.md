@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Fach/Physiologie, Fach/Anästhesie, Fach/Neurologie, Fach/Dermatologie]
 title: Nozizeptoren
 ---

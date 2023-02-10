@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m19]
 title: Liposarkom
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m17, Fach/Rheumatologie, Fach/Dermatologie]
 title: Psoriasis-Arthritis
 ---

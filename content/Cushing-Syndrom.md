@@ -1,5 +1,4 @@
 ---
-aliases: Hypercortisolismus
 tags: [Modul/m04 Modul/m22 ToDo, Fach/Endokrinologie]
 title: Cushing-Syndrom
 ---

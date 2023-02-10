@@ -1,5 +1,4 @@
 ---
-aliases: Mandeln
 tags: [Fach/Anatomie/Organ, Fach/Anatomie, Fach/HNO]
 title: Tonsillen
 ---

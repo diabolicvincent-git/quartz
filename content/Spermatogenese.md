@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Physiologie, Fach/Urologie, Fach/Biochemie]
 title: Spermatogenese
 ---

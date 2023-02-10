@@ -1,5 +1,4 @@
 ---
-aliases: Hiatus saphenus
 tags: [Modul/m09, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Venenstern
 ---

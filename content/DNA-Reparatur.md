@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m02, Modul/m19, Fach/Biochemie, Fach/Genetik]
 title: DNA-Reparatur
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Cytogenetik
 tags: [Modul/m02, Fach/Genetik, Art/Intervention]
 title: Karyogramm
 ---

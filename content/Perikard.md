@@ -1,5 +1,4 @@
 ---
-aliases: Herzbeutel
 tags: [Modul/m11]
 title: Perikard
 ---

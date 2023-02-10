@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Nephrologie, Art/Pathologie]
 title: Urämie
 ---

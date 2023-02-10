@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Gastroenterologie, Fach/Embryologie, Art/Pathologie, Modul/m26]
 title: Volvulus
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Hämolytische Anämie
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie]
 title: Hämolyse
 ---

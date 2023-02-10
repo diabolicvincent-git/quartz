@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m20, Art/Intervention, Fach/Anästhesie]
 title: Analgosedierung
 ---

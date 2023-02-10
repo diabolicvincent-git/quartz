@@ -1,5 +1,4 @@
 ---
-aliases: Stickstoffmonoxid
 tags: [Modul/m04, Fach/Biochemie]
 title: NO
 ---

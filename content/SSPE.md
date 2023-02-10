@@ -1,5 +1,4 @@
 ---
-aliases: Subakute Sklerosierende Panencephalitis
 tags: [Modul/m18]
 title: SSPE
 ---

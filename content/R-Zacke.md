@@ -1,5 +1,4 @@
 ---
-aliases: R-Zacken
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: R-Zacke
 ---

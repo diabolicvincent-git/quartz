@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Makroskopische Beurteilung
 ---

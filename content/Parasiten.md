@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, ToDo, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
 title: Parasiten
 ---

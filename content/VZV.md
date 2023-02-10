@@ -1,5 +1,4 @@
 ---
-aliases: Varizella-Zoster-Virus
 tags: [Modul/m09, Fach/Infektiologie, Fach/Pädiatrie, Fach/Infektiologie/Erreger/Viren]
 title: VZV
 ---

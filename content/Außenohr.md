@@ -1,5 +1,4 @@
 ---
-aliases: Auris externa
 tags: [Modul/m16, Fach/HNO, Fach/Anatomie]
 title: Außenohr
 ---

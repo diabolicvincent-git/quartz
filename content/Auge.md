@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Augen
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Bulbus oculi
 ---

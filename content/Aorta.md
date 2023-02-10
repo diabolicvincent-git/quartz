@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Aorta
 ---

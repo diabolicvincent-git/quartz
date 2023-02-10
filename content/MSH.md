@@ -1,5 +1,4 @@
 ---
-aliases: Melanocyten-stimulierendes Hormon
 tags: [Modul/m09, Fach/Biochemie, Fach/Dermatologie, Fach/Endokrinologie]
 title: MSH
 ---

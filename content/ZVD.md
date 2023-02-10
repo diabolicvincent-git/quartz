@@ -1,5 +1,4 @@
 ---
-aliases: Zentraler Venendruck
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: ZVD
 ---

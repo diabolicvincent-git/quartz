@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Bänder des Kniegelenks
 ---

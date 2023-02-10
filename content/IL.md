@@ -1,5 +1,4 @@
 ---
-aliases: Interleukin, Interleukine
 tags: [Modul/m08]
 title: IL
 ---

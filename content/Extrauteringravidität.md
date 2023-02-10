@@ -1,5 +1,4 @@
 ---
-aliases: Ektope Schwangerschaft, EUG
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Extrauteringravidität
 ---

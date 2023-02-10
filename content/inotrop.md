@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Inotropie
 tags: [Modul/m11]
 title: inotrop
 ---

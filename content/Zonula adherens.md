@@ -1,5 +1,4 @@
 ---
-aliases: Gürteldesmosom
 tags: [Modul/m04, Modul/m05, Fach/Histologie, Fach/Histologie/Zellkontakt]
 title: Zonula adherens
 ---

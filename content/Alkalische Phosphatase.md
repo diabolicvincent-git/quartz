@@ -1,5 +1,4 @@
 ---
-aliases: AP
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Laboratoriumsmedizin, Art/Intervention, Fach/Biochemie/Enzym]
 title: Alkalische Phosphatase
 ---

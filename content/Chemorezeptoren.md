@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Modul/m13, Fach/Kardiologie, Fach/Pneumologie, Fach/Physiologie]
 title: Chemorezeptoren
 ---

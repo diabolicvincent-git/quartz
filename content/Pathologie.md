@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m21, ToDo, Fach/Rechtsmedizin]
 title: VL Verdacht Bildgebung Gewebeprobe Diagnose
 ---

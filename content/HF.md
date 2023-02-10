@@ -1,5 +1,4 @@
 ---
-aliases: Herzfrequenz
 tags: [Modul/m00, Art/Intervention, Fach/Kardiologie]
 title: HF
 ---

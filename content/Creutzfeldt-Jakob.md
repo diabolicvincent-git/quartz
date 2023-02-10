@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m00, Fach/Neurologie, Art/Pathologie]
 title: Creutzfeldt-Jakob
 ---

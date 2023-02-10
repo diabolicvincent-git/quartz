@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m06, Modul/m19, Fach/Onkologie, Fach/Epidemiologie]
 title: Krebsvorsorgeuntersuchung
 ---

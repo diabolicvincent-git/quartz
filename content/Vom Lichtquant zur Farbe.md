@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m16, Fach/Physiologie, Fach/Ophthalmologie]
 title: Vom Lichtquant zur Farbe
 ---

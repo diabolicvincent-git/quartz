@@ -1,5 +1,4 @@
 ---
-aliases: Vordere Schädelgrube
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Fossa cranii anterior
 ---

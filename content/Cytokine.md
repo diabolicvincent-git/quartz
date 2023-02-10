@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Modul/m17, Fach/Biochemie, Fach/Physiologie, Fach/Infektiologie, Fach/Endokrinologie, Fach/Hämatologie, Fach/Onkologie]
 title: Cytokine
 ---

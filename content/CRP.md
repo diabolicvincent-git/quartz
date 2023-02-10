@@ -1,5 +1,4 @@
 ---
-aliases: C-reaktives Protein
 tags: [Modul/m18, Fach/Laboratoriumsmedizin, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: CRP
 ---

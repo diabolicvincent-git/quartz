@@ -1,5 +1,4 @@
 ---
-aliases: Gebärmutterhals
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie]
 title: Cervix
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m02, Fach/Biochemie, Fach/Physiologie]
 title: De novo Synthese von Purinbasen
 ---

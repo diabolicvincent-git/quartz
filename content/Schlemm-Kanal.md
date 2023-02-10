@@ -1,5 +1,4 @@
 ---
-aliases: Sinus venosus sclerae
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Schlemm-Kanal
 ---

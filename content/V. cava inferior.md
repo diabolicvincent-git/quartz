@@ -1,5 +1,4 @@
 ---
-aliases: Vena cava inferior
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
 title: V. cava inferior
 ---

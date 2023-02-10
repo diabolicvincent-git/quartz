@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, ToDo]
 title: P-Drug-List
 ---

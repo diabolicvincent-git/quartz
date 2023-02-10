@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m02, Modul/m17, Fach/Genetik]
 title: Genetische Erkrankungen
 ---

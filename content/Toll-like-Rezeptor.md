@@ -1,5 +1,4 @@
 ---
-aliases: TLR
 tags: [Modul/m18, Modul/m08, Fach/Biochemie/Rezeptor, Fach/Biochemie, Fach/Infektiologie]
 title: Toll-like-Rezeptor
 ---

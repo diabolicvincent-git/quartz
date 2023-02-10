@@ -1,5 +1,4 @@
 ---
-aliases: VF
 tags: [Modul/m11, Modul/m21, Fach/Kardiologie, Fach/Anästhesie]
 title: Kammerflimmern
 ---

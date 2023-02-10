@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m27, Fach/Orthopädie]
 title: Kinderorthopädie
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Chlostridium difficile
 tags: [Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: C. difficile
 ---

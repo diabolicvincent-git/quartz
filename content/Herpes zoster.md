@@ -1,5 +1,4 @@
 ---
-aliases: Gürtelrose
 tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Dermatologie, Art/Pathologie]
 title: Herpes zoster
 ---

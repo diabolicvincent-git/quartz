@@ -1,5 +1,4 @@
 ---
-aliases: Gliazelle, Gliascheide
 tags: [Modul/m05, Modul/m15]
 title: Gliazellen
 ---

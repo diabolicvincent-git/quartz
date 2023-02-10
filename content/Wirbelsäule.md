@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, Fach/Orthopädie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Wirbelsäule
 ---

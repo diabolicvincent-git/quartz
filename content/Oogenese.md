@@ -1,5 +1,4 @@
 ---
-aliases: Eizellreifung
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Biochemie]
 title: Oogenese
 ---

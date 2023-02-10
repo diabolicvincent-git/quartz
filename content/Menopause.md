@@ -1,5 +1,4 @@
 ---
-aliases: Klimakterium, Wechseljahre, Postmenopause, Perimenopause
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Menopause
 ---

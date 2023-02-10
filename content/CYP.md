@@ -1,5 +1,4 @@
 ---
-aliases: Cytochrom-P450-System
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Biochemie, Fach/Pharmakologie/Medikament]
 title: CYP
 ---

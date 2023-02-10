@@ -1,5 +1,4 @@
 ---
-aliases: Furosemid, Torasemid
 tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: Schleifendiuretika
 ---

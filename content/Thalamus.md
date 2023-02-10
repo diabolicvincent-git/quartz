@@ -1,5 +1,4 @@
 ---
-aliases: Thalamus dorsalis
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Aufbau
 ---

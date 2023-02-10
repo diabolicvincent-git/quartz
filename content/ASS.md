@@ -1,5 +1,4 @@
 ---
-aliases: Acetylsalicylsäure
 tags: [Modul/m20, Modul/m08, Fach/Pharmakologie/Medikament, Fach/Kardiologie, Fach/Hämatologie]
 title: ASS
 ---

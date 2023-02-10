@@ -1,5 +1,4 @@
 ---
-aliases: R. circumflexus, Ramus circumflexus
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: RCX
 ---

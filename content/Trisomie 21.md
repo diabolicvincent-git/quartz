@@ -1,5 +1,4 @@
 ---
-aliases: Down-Syndrom
 tags: [Modul/m02, Fach/Genetik, Art/Pathologie]
 title: Trisomie 21
 ---

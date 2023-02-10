@@ -1,5 +1,4 @@
 ---
-aliases: Polycystisches Ovarsyndrom, Polycystisches ovarielles Syndrom
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie]
 title: PCO-Syndrom
 ---

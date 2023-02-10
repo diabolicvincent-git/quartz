@@ -1,6 +1,5 @@
 ---
 title: 3-Gläser-Probe
-aliases: 
 tags: [Modul/m30, Fach/Neurologie, Art/Intervention]
 ---
 > (Abstract::Diagnostik der [[SAB]] durch Blut in [[Liquorpunktion]])

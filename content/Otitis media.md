@@ -1,5 +1,4 @@
 ---
-aliases: Mittelohrentzündung
 tags: [Modul/m16, Fach/HNO, Art/Pathologie]
 title: Otitis media
 ---

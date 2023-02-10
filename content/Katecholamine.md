@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Modul/m15, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Katecholamine
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Tendo
 tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Sehnen
 ---

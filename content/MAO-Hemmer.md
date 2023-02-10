@@ -1,5 +1,4 @@
 ---
-aliases: MAO-Inhibitoren
 tags: [Modul/m20]
 title: MAO-Hemmer
 ---

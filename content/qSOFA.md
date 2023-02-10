@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Fach/Anästhesie]
 title: qSOFA
 ---

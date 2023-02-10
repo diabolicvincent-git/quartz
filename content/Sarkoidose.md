@@ -1,5 +1,4 @@
 ---
-aliases: M. Boeck
 tags: [Modul/m09]
 title: Sarkoidose
 ---

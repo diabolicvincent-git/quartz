@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie]
 title: Physik des Bewegungsapparats
 ---

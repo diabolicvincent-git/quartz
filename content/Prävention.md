@@ -1,5 +1,4 @@
 ---
-aliases: Gesundheitsförderung
 tags: [Modul/m06, Modul/m19, Fach/Epidemiologie, Art/Intervention]
 title: Prävention
 ---

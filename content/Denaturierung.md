@@ -1,5 +1,4 @@
 ---
-aliases: Proteindenaturierung
 tags: [Modul/m02, Fach/Biochemie]
 title: Denaturierung
 ---

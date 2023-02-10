@@ -1,5 +1,4 @@
 ---
-aliases: Esketamin, S-Ketamin, Ketanest
 tags: [Modul/m21, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: KETAmin
 ---

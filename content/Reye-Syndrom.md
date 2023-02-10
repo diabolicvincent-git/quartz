@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Gastroenterologie, Fach/Neurologie, Art/Pathologie]
 title: Reye-Syndrom
 ---

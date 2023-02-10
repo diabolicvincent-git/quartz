@@ -1,5 +1,4 @@
 ---
-aliases: Zwerchfell
 tags: [Modul/m13, Fach/Anatomie, Fach/Pneumologie]
 title: Diaphragma
 ---

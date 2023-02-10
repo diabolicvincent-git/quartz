@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m16, Fach/HNO, Art/Intervention]
 title: Audiometrie
 ---

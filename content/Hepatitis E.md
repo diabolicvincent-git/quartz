@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie]
 title: Hepatitis E
 ---

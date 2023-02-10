@@ -1,5 +1,4 @@
 ---
-aliases: Gaumenmandeln
 tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
 title: Tonsillae palatinae
 ---

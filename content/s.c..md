@@ -1,5 +1,4 @@
 ---
-aliases: subcutan
 tags: [Modul/m00, Modul/m09]
 title: s.c.
 ---

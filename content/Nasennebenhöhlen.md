@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sinus paranasales
 tags: [Modul/m16, Fach/HNO, Fach/Anatomie]
 title: Nasennebenhöhlen
 ---

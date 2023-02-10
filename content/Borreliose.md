@@ -1,5 +1,4 @@
 ---
-aliases: Lyme-Borreliose
 tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Borreliose
 ---

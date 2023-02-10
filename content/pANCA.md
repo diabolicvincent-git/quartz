@@ -1,5 +1,4 @@
 ---
-aliases: p-ANCA
 tags: [Modul/m17, Fach/Rheumatologie, Art/Intervention]
 title: pANCA
 ---

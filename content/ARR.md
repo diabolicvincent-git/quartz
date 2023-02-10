@@ -1,5 +1,4 @@
 ---
-aliases: Absolute Risikoreduktion
 tags: [Modul/m07, Fach/Epidemiologie]
 title: ARR
 ---

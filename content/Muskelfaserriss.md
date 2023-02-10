@@ -1,5 +1,4 @@
 ---
-aliases: Faserriss
 tags: [Modul/m27, Art/Pathologie]
 title: Muskelfaserriss
 ---

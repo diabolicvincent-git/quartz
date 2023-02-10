@@ -1,5 +1,4 @@
 ---
-aliases: Immundefizienz
 tags: [Modul/m17]
 title: Immundefekt
 ---

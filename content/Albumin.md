@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Biochemie, Fach/Physiologie, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
 title: Albumin
 ---

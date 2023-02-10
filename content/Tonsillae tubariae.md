@@ -1,5 +1,4 @@
 ---
-aliases: Tubenmandeln
 tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
 title: Tonsillae tubariae
 ---

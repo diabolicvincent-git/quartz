@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Anatomie/Leitungsbahn/Nerv]
 title: Ansa cervicalis (C1-C3)
 ---

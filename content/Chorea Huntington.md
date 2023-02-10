@@ -1,6 +1,4 @@
 ---
-aliases:
-  - null
 tags: [Modul/m15, Modul/m03, Fach/Neurologie, Fach/Genetik, Art/Pathologie]
 title: Chorea Huntington
 ---

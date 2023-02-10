@@ -1,5 +1,4 @@
 ---
-aliases: Samenleiter
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie]
 title: Ductus deferens
 ---

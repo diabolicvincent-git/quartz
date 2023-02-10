@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Onkologie, Art/Pathologie]
 title: Endometriose
 ---

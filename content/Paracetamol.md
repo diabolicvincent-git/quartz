@@ -1,5 +1,4 @@
 ---
-aliases: Acetaminophen
 tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
 title: Paracetamol
 ---

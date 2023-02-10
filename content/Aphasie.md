@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie, Modul/m30]
 title: Aphasie
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m29, Fach/Anästhesie, Fach/Notfallmedizin, Art/Intervention]
 title: Koniotomie
 ---

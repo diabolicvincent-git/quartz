@@ -1,5 +1,4 @@
 ---
-aliases: Thrombocyt
 tags: [Modul/m08, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Thrombocyten
 ---

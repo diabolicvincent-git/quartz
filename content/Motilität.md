@@ -1,5 +1,4 @@
 ---
-aliases: Motilität
 tags: [Modul/m12]
 title: Motilität
 ---

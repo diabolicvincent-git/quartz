@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m12, Modul/m26, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Truncus coeliacus
 ---

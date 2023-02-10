@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Pilze]
 title: Dermatophyten
 ---

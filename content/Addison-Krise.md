@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Addison-Krise
 ---

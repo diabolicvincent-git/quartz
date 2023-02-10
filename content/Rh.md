@@ -1,5 +1,4 @@
 ---
-aliases: Rhesus, Rhesusfaktor, Anti-D
 tags: [Modul/m08, Modul/m21, Fach/Hämatologie]
 title: Rh
 ---

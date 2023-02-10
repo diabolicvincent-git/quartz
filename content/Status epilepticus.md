@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Modul/m21, Fach/Neurologie, Art/Pathologie, Art/Pathologie]
 title: Status epilepticus
 ---

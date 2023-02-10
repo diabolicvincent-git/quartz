@@ -1,5 +1,4 @@
 ---
-aliases: M. Kahler, Plasmocytom
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: Multiples Myelom
 ---

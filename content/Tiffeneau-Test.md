@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Art/Intervention, Fach/Pneumologie]
 title: Tiffeneau-Test
 ---

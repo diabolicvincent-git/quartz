@@ -1,5 +1,4 @@
 ---
-aliases: Vorhofflimmern
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: VHF
 ---

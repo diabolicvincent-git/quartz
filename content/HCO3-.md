@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie]
 title: HCO3-
 ---

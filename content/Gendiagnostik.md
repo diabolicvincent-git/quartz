@@ -1,5 +1,4 @@
 ---
-aliases: Genetische Diagnostik
 tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Intervention]
 title: Praktikum
 ---

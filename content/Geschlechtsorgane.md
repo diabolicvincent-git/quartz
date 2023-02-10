@@ -1,5 +1,4 @@
 ---
-aliases: Genital, Genitale
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Anatomie]
 title: Geschlechtsorgane
 ---

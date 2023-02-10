@@ -1,5 +1,4 @@
 ---
-aliases: Neuroepitheliale Tumoren
 tags: [Modul/m30, Fach/Neurologie, Fach/Onkologie, Art/Pathologie]
 title: Gliome
 ---

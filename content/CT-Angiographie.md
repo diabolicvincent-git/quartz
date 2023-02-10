@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m00, Art/Intervention, Fach/Radiologie]
 title: CT-Angiographie
 ---

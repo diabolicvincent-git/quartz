@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m06, Modul/m15, Fach/Physiologie]
 title: Schlafphasen
 ---

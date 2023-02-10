@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m05, Modul/m10, Modul/m27, Fach/Orthopädie]
 title: Frakturheilung
 ---

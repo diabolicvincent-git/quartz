@@ -1,5 +1,4 @@
 ---
-aliases: Unfraktioniertes Heparin
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Pharmakologie/Medikament]
 title: UFH
 ---

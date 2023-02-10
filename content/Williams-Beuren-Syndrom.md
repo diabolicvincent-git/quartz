@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Fach/Genetik, Art/Pathologie]
 title: Williams-Beuren-Syndrom
 ---

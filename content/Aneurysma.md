@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m30, Fach/Kardiologie, Fach/Chirurgie, Fach/Neurologie, Art/Pathologie]
 title: Aneurysma
 ---

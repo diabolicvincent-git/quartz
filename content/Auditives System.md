@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Auditives System
 ---

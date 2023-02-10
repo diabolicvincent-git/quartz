@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Fach/Pädiatrie, Art/Intervention, Art/Intervention]
 title: APGAR
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Fach/Notfallmedizin, Fach/Chirurgie, Art/Intervention]
 title: Beckenschlinge
 ---

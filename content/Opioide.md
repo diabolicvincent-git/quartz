@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Toxikologie/Gift/Droge, Fach/Anästhesie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Opioide
 ---

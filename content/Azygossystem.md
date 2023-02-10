@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Azygos
 tags: [Modul/m11, Fach/Anatomie]
 title: Azygossystem
 ---

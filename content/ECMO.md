@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: ECMO
 ---

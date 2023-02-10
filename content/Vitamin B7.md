@@ -1,7 +1,4 @@
 ---
-aliases:
-  - VitB7
-  - Biotin
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B7
 ---

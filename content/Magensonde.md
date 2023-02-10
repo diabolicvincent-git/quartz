@@ -1,5 +1,4 @@
 ---
-aliases: Nasogastrale Sonde
 tags: [Modul/m12, Fach/Gastroenterologie]
 title: Magensonde
 ---

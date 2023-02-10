@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Modul/m11, Fach/Anatomie]
 title: Kapillaren
 ---

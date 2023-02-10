@@ -1,5 +1,5 @@
 ---
-title: Home
+title: _index
 enableToc: false
 ---
 ## 👋 Hallo. 

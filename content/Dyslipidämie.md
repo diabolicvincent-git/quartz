@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hyperlipidämie
-  - Hypercholesterinämie
 tags: [Modul/m11, Modul/m12, Fach/Kardiologie, Art/Pathologie]
 title: Dyslipidämie
 ---

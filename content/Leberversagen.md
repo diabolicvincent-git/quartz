@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Modul/m21, Fach/Gastroenterologie, Art/Pathologie]
 title: Leberversagen
 ---

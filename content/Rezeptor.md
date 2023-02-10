@@ -1,5 +1,4 @@
 ---
-aliases: Rezeptoren
 tags: [Modul/m03]
 title: Rezeptor
 ---

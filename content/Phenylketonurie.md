@@ -1,5 +1,4 @@
 ---
-aliases: PKU
 tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Pathologie]
 title: Phenylketonurie
 ---

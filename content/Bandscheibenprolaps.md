@@ -1,5 +1,4 @@
 ---
-aliases: Bandscheibenvorfall, Diskusprolaps
 tags: [Modul/m27, Fach/Orthopädie, Fach/Neurologie]
 title: Bandscheibenprolaps
 ---

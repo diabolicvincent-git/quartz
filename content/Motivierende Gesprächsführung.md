@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Fach/Psychiatrie, Art/Intervention]
 title: Motivierende Gesprächsführung
 ---

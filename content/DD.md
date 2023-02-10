@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m00, Modul/m21, Art/Intervention, Fach/Allgemeinmedizin]
 title: Symptomkomplexe
 ---

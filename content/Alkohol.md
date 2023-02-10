@@ -1,5 +1,4 @@
 ---
-aliases: Alkoholabusus, Alkoholabhängigkeit, Alkoholintoxikation
 tags: [Modul/m20, Fach/Toxikologie, Fach/Biochemie/Molekül, ToDo]
 title: Alkohol
 ---

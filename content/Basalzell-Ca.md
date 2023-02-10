@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m19, Art/Pathologie, Fach/Dermatologie, Fach/Onkologie, Art/Pathologie]
 title: Basalzell-Ca
 ---

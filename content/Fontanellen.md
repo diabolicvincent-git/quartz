@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fontanelle
 tags: [Modul/m15]
 title: Fontanellen
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Spinale Muskelatrophie
 tags: [Modul/m30, Fach/Neurologie, Fach/Pädiatrie]
 title: SMA
 ---

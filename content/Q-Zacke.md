@@ -1,5 +1,4 @@
 ---
-aliases: Q-Zacken
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Q-Zacke
 ---

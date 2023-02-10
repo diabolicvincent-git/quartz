@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Notfallmedizin, Fach/Chirurgie, Art/Intervention]
 title: Chest-Seal
 ---

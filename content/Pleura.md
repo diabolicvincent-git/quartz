@@ -1,5 +1,4 @@
 ---
-aliases: Lungenfell
 tags: [Modul/m13]
 title: Pleura
 ---

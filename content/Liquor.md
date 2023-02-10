@@ -1,5 +1,4 @@
 ---
-aliases: Liquor cerebrospinalis
 tags: [Modul/m15]
 title: Liquor
 ---

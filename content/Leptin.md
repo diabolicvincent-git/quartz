@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Biochemie, Fach/Physiologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Leptin
 ---

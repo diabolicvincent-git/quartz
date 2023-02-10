@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m27, Fach/Rheumatologie, Art/Pathologie]
 title: Erythema nodosum
 ---

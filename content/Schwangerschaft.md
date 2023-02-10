@@ -1,5 +1,4 @@
 ---
-aliases: Gravidität
 tags: [Modul/m05, Modul/m22]
 title: Schwangerschaft
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Modul/m17, Fach/Endokrinologie, Fach/Anatomie]
 title: Schilddrüse
 ---

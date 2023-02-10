@@ -1,5 +1,4 @@
 ---
-aliases: Schlaf-Apnoe-Syndrom, OSAS
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Schlafapnoe
 ---

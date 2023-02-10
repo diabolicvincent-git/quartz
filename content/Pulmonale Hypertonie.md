@@ -1,5 +1,4 @@
 ---
-aliases: Pulmonaler Hypertonus
 tags: [Modul/m13]
 title: Lernziele
 ---

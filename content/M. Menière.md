@@ -1,5 +1,4 @@
 ---
-aliases: Morbus Menière
 tags: [Modul/m16, Fach/HNO, Art/Pathologie]
 title: M. Menière
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: c-ANCA
 tags: [Modul/m17, Fach/Rheumatologie]
 title: cANCA
 ---

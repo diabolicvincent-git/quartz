@@ -1,5 +1,4 @@
 ---
-aliases: Mittelhirn
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Mesencephalon
 ---

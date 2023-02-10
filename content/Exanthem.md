@@ -1,5 +1,4 @@
 ---
-aliases: Hautveränderungen
 tags: [Modul/m09, Fach/Dermatologie]
 title: Exanthem
 ---

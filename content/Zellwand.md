@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Biochemie, Fach/Biochemie/Zellorganell]
 title: Zellwand
 ---

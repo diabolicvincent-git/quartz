@@ -1,5 +1,4 @@
 ---
-aliases: Nexus
 tags: [Modul/m04, Modul/m05]
 title: Gap Junction
 ---

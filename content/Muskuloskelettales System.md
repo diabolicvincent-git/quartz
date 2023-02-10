@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, Fach/Orthopädie]
 title: Lage und Funktion des Oberschenkelkniestreckers (M. quadriceps femoris) als Beispiel für eine gelenksübergreifende Muskelwirkung beschreiben und erläutern
 ---

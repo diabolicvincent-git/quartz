@@ -1,5 +1,4 @@
 ---
-aliases: HN VI
 tags: [Modul/m15, Fach/Neurologie/Hirnnerv]
 title: N. abducens (VI)
 ---

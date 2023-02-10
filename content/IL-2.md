@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Fach/Physiologie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: IL-2
 ---

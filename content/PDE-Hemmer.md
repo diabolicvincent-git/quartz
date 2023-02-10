@@ -1,5 +1,4 @@
 ---
-aliases: Phosphodiesterase-Hemmer
 tags: [Modul/m21, Fach/Pharmakologie/Medikament, Fach/Urologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: PDE-Hemmer
 ---

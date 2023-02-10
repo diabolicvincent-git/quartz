@@ -1,5 +1,4 @@
 ---
-aliases: Atemnot
 tags: [Modul/m11, Modul/m13, Fach/Pneumologie]
 title: Dyspnoe
 ---

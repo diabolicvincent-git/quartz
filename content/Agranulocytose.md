@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m09, Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie, Fach/Notfallmedizin]
 title: Agranulocytose
 ---

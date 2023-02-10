@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Anatomie, Fach/Pneumologie, Fach/Anatomie/Organ]
 title: Aufbau
 ---

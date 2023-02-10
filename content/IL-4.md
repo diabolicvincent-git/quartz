@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Fach/Rheumatologie, Fach/Biochemie]
 title: IL-4
 ---

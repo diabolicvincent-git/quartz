@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie, Fach/Physiologie]
 title: Lernziele
 ---

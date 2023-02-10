@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Fach/Endokrinologie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Adenohypophyse
 ---

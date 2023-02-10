@@ -1,5 +1,4 @@
 ---
-aliases: Skotom
 tags: [Modul/m16]
 title: Gesichtsfeldausfall
 ---

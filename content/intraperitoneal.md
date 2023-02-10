@@ -1,5 +1,4 @@
 ---
-aliases: Intraperitonealraum
 tags: [Modul/m12]
 title: intraperitoneal
 ---

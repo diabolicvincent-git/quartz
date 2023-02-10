@@ -1,5 +1,4 @@
 ---
-aliases: Body Mass Index, Body-Mass-Index
 tags: [Modul/m02, Art/Intervention, Fach/Allgemeinmedizin]
 title: BMI
 ---

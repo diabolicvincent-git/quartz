@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
 title: CPAP
 ---

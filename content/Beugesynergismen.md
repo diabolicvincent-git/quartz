@@ -1,5 +1,4 @@
 ---
-aliases: Beugesynergismus, Decorticationsstarre
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Beugesynergismen
 ---

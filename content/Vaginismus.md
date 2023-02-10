@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Gynäkologie, Art/Pathologie]
 title: Vaginismus
 ---

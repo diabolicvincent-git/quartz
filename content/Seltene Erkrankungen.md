@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m17, Fach/Epidemiologie, Fach/Genetik, Art/Pathologie]
 title: Seltene Erkrankungen
 ---

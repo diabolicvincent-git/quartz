@@ -1,5 +1,4 @@
 ---
-aliases: Operation
 tags: [Modul/m26]
 title: OP
 ---

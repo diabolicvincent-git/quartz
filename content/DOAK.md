@@ -1,5 +1,4 @@
 ---
-aliases: Direkte orale Antikoagulantien, Neue orale Antikoagulantien, NOAK, Dabigatran, Apixaban, Rivaroxaban, Edoxaban
 tags: [Modul/m17, Fach/Hämatologie, Fach/Pharmakologie/Medikament]
 title: DOAK
 ---

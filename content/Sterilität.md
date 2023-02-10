@@ -1,5 +1,4 @@
 ---
-aliases: Unfruchtbarkeit
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie, Art/Pathologie]
 title: Sterilität
 ---

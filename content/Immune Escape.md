@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m18, Modul/m19, Fach/Onkologie]
 title: Immune Escape
 ---

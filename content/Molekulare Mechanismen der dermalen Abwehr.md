@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Biochemie, Fach/Dermatologie]
 title: Immunabwehr der Haut
 ---

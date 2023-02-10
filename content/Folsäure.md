@@ -1,5 +1,4 @@
 ---
-aliases: Vitamin B9
 tags: [Modul/m12, Fach/Biochemie/Vitamin]
 title: Folsäure
 ---

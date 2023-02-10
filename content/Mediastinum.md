@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m11]
 title: Mediastinum
 ---

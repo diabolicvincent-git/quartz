@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Modul/m10]
 title: Aufbau
 ---

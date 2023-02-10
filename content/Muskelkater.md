@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m27, Art/Pathologie]
 title: Muskelkater
 ---

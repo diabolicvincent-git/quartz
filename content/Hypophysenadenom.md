@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m04, Modul/m21, Fach/Endokrinologie, Art/Pathologie, Fach/Onkologie, Fach/Neurologie]
 title: Hypophysenadenom
 ---

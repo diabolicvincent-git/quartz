@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m00, Fach/Laboratoriumsmedizin]
 title: Labor
 ---

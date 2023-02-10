@@ -1,5 +1,4 @@
 ---
-aliases: Minimale Hemmkonzentration
 tags: [Modul/m18]
 title: MHK
 ---

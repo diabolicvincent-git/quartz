@@ -1,5 +1,4 @@
 ---
-aliases: M. Little
 tags: [Modul/m30, Fach/Pädiatrie, Fach/Neurologie, Art/Pathologie]
 title: Infantile Cerebralparese
 ---

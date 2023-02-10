@@ -1,5 +1,4 @@
 ---
-aliases: Erythropoetin
 tags: [Modul/m08, Modul/m14, Fach/Hämatologie, Fach/Nephrologie, Fach/Biochemie/Molekül, Fach/Physiologie]
 title: EPO
 ---

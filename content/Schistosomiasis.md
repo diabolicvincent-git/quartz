@@ -1,5 +1,4 @@
 ---
-aliases: Bilharziose
 tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie]
 title: Schistosomiasis
 ---

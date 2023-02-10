@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m21, Modul/m08, Fach/Hämatologie, Art/Intervention]
 title: Coombs-Test
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie]
 title: Ovarialinsuffizienz
 ---

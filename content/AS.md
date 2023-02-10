@@ -1,5 +1,4 @@
 ---
-aliases: Aminosäure, Aminosäuren
 tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Aminosäure]
 title: AS
 ---

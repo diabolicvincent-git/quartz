@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Modul/m17, Fach/Pharmakologie/Medikament, Fach/Rheumatologie]
 title: Azathioprin
 ---

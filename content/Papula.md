@@ -1,5 +1,4 @@
 ---
-aliases: Papel
 tags: [Modul/m09, Fach/Dermatologie]
 title: Papula
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Modul/m03, Fach/Biochemie]
 title: Veränderungen bei Hypoxie
 ---

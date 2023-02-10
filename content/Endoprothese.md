@@ -1,5 +1,4 @@
 ---
-aliases: Endoprothetik
 tags: [Modul/m27, Fach/Orthopädie, Art/Intervention]
 title: Endoprothese
 ---

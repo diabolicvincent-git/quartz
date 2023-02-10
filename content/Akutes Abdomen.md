@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Notfallmedizin, Art/Pathologie]
 title: Akutes Abdomen
 ---

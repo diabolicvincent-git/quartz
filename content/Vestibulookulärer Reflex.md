@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m16, Fach/Neurologie, Fach/Ophthalmologie, Fach/HNO, Fach/Physiologie, Art/Intervention]
 title: Vestibulookulärer Reflex
 ---

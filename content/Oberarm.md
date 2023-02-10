@@ -1,5 +1,4 @@
 ---
-aliases: Brachium
 tags: []
 title: Oberarm
 ---

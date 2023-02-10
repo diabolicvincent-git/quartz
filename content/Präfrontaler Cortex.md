@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Modul/m20, Fach/Neurologie, Fach/Physiologie, Fach/Anatomie]
 title: Präfrontaler Cortex
 ---

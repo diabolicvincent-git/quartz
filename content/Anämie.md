@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m08, Modul/m17, Art/Pathologie, Fach/Hämatologie, Art/Pathologie]
 title: Anämie
 ---

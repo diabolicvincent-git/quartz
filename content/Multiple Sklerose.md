@@ -1,5 +1,4 @@
 ---
-aliases: MS
 tags: [Modul/m15, Art/Pathologie, Wichtig, Modul/m17]
 title: Multiple Sklerose
 ---

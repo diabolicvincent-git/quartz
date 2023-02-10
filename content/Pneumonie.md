@@ -1,5 +1,4 @@
 ---
-aliases: Lungenentzündung
 tags: [Modul/m18, Art/Pathologie]
 title: Pneumonie
 ---

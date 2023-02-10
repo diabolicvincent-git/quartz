@@ -1,5 +1,4 @@
 ---
-aliases: Sauerstoffsättigung, O2-Sättigung
 tags: [Modul/m13, Art/Intervention, Fach/Pneumologie]
 title: SpO2
 ---

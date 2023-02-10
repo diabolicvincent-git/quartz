@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m10, ToDo, Fach/Physiologie, Fach/Anatomie, Fach/Histologie]
 title: Muskelarchitektur & Myofaszialer Apparat
 ---

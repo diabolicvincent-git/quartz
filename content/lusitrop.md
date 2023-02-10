@@ -1,5 +1,4 @@
 ---
-aliases: Lusitropie
 tags: [Modul/m11, Fach/Kardiologie]
 title: lusitrop
 ---

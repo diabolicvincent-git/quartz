@@ -1,5 +1,4 @@
 ---
-aliases: Kugelzellanämie
 tags: [Modul/m03, Modul/m08, Modul/m17]
 title: Sphärocytose
 ---

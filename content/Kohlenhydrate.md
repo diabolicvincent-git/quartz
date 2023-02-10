@@ -1,6 +1,4 @@
 ---
-aliases:
- - Kohlenhydrat
 title: Kohlenhydrate
 ---
 

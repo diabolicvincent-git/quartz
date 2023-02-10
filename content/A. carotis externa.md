@@ -1,6 +1,5 @@
 ---
 title: A. carotis externa
-aliases: 
 tags: [Fach/Anatomie/Leitungsbahn/Arterie, Fach/Anatomie]
 ---
 - **Ursprung**:: [[A. carotis communis]]

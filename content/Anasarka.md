@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: Anasarka
 ---

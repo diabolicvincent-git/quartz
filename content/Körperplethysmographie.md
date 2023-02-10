@@ -1,7 +1,4 @@
 ---
-aliases:
- - Bodyplethysmographie
- - Plethysmographie
 title: Körperplethysmographie
 ---
 

@@ -1,5 +1,4 @@
 ---
-aliases: Cremaster, Hodenhebermuskel, Hodenheber
 tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: M. cremaster
 ---

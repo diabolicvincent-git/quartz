@@ -1,5 +1,4 @@
 ---
-aliases: GIB, Gastrointestinale Blutung
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: GI-Blutung
 ---

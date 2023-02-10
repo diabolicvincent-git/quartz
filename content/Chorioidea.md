@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aderhaut
 tags: [Modul/m16, Fach/Anatomie, Fach/Ophthalmologie]
 title: Chorioidea
 ---

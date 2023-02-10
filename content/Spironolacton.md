@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie, Fach/Gastroenterologie, Modul/m14]
 title: Spironolacton
 ---

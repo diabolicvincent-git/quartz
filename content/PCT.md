@@ -1,5 +1,4 @@
 ---
-aliases: Procalcitonin
 tags: [Modul/m17, Fach/Laboratoriumsmedizin, Fach/Biochemie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: PCT
 ---

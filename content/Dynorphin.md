@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Modul/m22, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Biochemie, Fach/Anästhesie]
 title: Dynorphin
 ---

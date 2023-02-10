@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Art/Intervention]
 title: Präparate
 ---

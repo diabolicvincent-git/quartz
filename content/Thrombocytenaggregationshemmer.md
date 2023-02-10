@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: Thrombocytenaggregationshemmer
 ---

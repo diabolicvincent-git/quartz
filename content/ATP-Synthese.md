@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Biochemie]
 title: ATP-Synthese
 ---

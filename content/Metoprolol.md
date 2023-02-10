@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/Pharmakologie/Medikament, Modul/m11, Fach/Kardiologie]
 title: Metoprolol
 ---

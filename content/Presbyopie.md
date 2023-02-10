@@ -1,5 +1,4 @@
 ---
-aliases: Altersweitsichtigkeit
 tags: [Modul/m16, Fach/Ophthalmologie, Art/Pathologie]
 title: Presbyopie
 ---

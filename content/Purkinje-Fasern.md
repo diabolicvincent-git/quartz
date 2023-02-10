@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rami subendocardiales
 tags: [Modul/m11]
 title: Purkinje-Fasern
 ---

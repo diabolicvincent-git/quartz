@@ -1,7 +1,6 @@
 ---
-aliases:
 tags: [Modul/m08, Fach/Hämatologie]
-title: NADPH-unabhängig
+title: Antioxidative Schutzsysteme
 ---
 
 > Bezogen auf [[Antioxidative Schutzsysteme]] von [[Erythrocyten]]

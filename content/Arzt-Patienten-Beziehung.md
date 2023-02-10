@@ -1,7 +1,6 @@
 ---
-aliases: null
 tags: [Modul/m06, Modul/m21, Fach/Allgemeinmedizin]
-title: VL Helfer-Pat-Beziehung
+title: Arzt-Patienten-Beziehung
 ---
        
 

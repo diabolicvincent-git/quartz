@@ -1,5 +1,4 @@
 ---
-aliases: Serotonerges Syndrom
 tags: []
 title: Serotonin-Syndrom
 ---

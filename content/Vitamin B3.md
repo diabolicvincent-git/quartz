@@ -1,9 +1,4 @@
 ---
-aliases:
-  - VitB3
-  - Niacin
-  - NAD
-  - NADP
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B3
 ---

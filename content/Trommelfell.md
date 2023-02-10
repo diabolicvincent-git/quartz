@@ -1,5 +1,4 @@
 ---
-aliases: Membrana tympani
 tags: [Modul/m16, Fach/HNO, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Trommelfell
 ---

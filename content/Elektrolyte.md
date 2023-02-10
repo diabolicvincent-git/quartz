@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Modul/m14, Fach/Nephrologie, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Elektrolyte
 ---

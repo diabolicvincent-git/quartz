@@ -1,5 +1,4 @@
 ---
-aliases: HN XI
 tags: [Modul/m15, Fach/Neurologie/Hirnnerv]
 title: N. accessorius (XI)
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Fetaler Kreislauf
 tags: [Modul/m11, Modul/m05, Fach/Embryologie, Fach/Physiologie]
 title: Kreislauf
 ---

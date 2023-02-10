@@ -1,5 +1,4 @@
 ---
-aliases: Metformin
 tags: [Modul/m17, Fach/Pharmakologie/Medikament/Übergruppe, Fach/Endokrinologie]
 title: Antidiabetika
 ---

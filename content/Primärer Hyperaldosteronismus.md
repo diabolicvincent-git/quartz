@@ -1,5 +1,4 @@
 ---
-aliases: Conn-Syndrom, M. Conn
 tags: [Modul/m14, Fach/Endokrinologie, Art/Pathologie]
 title: Primärer Hyperaldosteronismus
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Imipenem, Meropenem, Ertapenem
 tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva/Antibiotika, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Carbapeneme
 ---

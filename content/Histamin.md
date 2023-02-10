@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Modul/m08, Modul/m09, Fach/Physiologie, Fach/Infektiologie]
 title: Histamin
 ---

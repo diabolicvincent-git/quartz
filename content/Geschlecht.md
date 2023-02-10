@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Genetik, Fach/Psychiatrie]
 title: Geschlecht
 ---

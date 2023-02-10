@@ -1,5 +1,4 @@
 ---
-aliases: Gensequenzierung, DNA-Sequenzierung
 tags: [Modul/m02]
 title: Sequenzierung
 ---

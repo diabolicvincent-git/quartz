@@ -1,5 +1,4 @@
 ---
-aliases: Präexzitationssyndrom, Atrioventrikuläre Reentrytachykardie
 tags: [Fach/Kardiologie, Art/Pathologie]
 title: AVRT
 ---

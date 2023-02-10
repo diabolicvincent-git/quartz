@@ -1,5 +1,4 @@
 ---
-aliases: Thrombocytenkonzentrat
 tags: [Modul/m08, Modul/m21, Fach/Hämatologie/Transfusion/Blutprodukt, Fach/Pharmakologie/Medikament]
 title: TK
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Art/Pathologie, Fach/Psychiatrie, Modul/m31, Fach/Neurologie]
 ICD: "F44.5"
 title: Dissoziativer Krampfanfall

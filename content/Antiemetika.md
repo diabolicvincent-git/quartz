@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m12, Modul/m20, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antiemetika
 ---

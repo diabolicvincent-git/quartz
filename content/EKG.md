@@ -1,5 +1,4 @@
 ---
-aliases: Elektrokardiogramm
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: EKG
 ---

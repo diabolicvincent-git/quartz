@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie]
 title: Peritonitis
 ---

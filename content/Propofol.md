@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m36, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Propofol
 ---

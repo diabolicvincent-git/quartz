@@ -1,5 +1,4 @@
 ---
-aliases: Unerwünschte Arzneimittelwirkungen
 tags: [Modul/m00, Modul/m24, Fach/Pharmakologie/Medikament]
 title: UAW
 ---

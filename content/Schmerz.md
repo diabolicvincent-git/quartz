@@ -1,5 +1,4 @@
 ---
-aliases: Schmerzen
 tags: [Modul/m20, Art/Pathologie]
 title: Schmerz
 ---

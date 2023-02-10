@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: []
 title: M. Fabry
 ---

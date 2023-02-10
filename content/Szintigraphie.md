@@ -1,5 +1,4 @@
 ---
-aliases: SPECT
 tags: [Modul/m19, Fach/Onkologie, Fach/Radiologie, Art/Intervention]
 title: Szintigraphie
 ---

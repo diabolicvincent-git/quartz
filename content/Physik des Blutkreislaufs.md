@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Physik des Kreislaufs
-  - Kreislaufphysik
 tags: [Modul/m11]
 title: Physik des Blutkreislaufs
 ---

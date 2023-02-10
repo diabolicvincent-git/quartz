@@ -1,5 +1,4 @@
 ---
-aliases: Rachitis
 tags: [Modul/m05, Modul/m10, Art/Pathologie, Fach/Orthopädie]
 title: Osteomalazie
 ---

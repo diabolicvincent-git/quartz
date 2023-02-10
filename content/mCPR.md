@@ -1,5 +1,4 @@
 ---
-aliases: Mechanische Reanimationshilfe
 tags: [Fach/Notfallmedizin, Art/Intervention]
 title: mCPR
 ---

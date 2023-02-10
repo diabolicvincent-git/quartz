@@ -1,5 +1,4 @@
 ---
-aliases: Herzmuskulatur, Herzmuskel
 tags: [Modul/m05, Modul/m11, Fach/Kardiologie, Fach/Histologie]
 title: Myokard
 ---

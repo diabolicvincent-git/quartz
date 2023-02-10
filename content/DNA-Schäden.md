@@ -1,5 +1,4 @@
 ---
-aliases: DNA-Schädigung
 tags: [Modul/m19, Fach/Genetik, Fach/Biochemie]
 title: DNA-Schäden
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Modul/m13, Fach/Physiologie, Fach/Nephrologie, Fach/Kardiologie]
 title: Säure-Basen-Störungen
 ---

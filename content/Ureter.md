@@ -1,5 +1,4 @@
 ---
-aliases: Harnleiter
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Ureter
 ---

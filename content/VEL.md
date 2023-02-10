@@ -1,5 +1,4 @@
 ---
-aliases: Vollelektrolytlösung
 tags: [Modul/m14, Fach/Pharmakologie/Medikament]
 title: VEL
 ---

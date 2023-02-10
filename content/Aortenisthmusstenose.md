@@ -1,5 +1,4 @@
 ---
-aliases: Coarctatio aortae
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Aortenisthmusstenose
 ---

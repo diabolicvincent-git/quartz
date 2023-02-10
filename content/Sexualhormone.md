@@ -1,5 +1,4 @@
 ---
-aliases: Geschlechtshormone
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie]
 title: Sexualhormone
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m17, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: Hämatologische Neoplasien
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Sentinel Events
 tags: []
 title: Never Events
 ---

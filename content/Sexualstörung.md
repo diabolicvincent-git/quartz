@@ -1,5 +1,4 @@
 ---
-aliases: Sexuelle Funktionsstörung, Sexuelle Funktionsstörungen
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Physiologie, Art/Pathologie]
 title: Sexualstörung
 ---

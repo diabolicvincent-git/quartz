@@ -1,5 +1,4 @@
 ---
-aliases: Extrazellulärmatrix
 tags: [Modul/m05]
 title: EZM
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m20, Fach/Anästhesie, Fach/Psychiatrie]
 title: Gebershagen
 ---

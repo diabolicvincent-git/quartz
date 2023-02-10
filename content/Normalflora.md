@@ -1,5 +1,4 @@
 ---
-aliases: Standortflora, Hautflora, Darmflora
 tags: [Modul/m09, Modul/m18, Fach/Dermatologie, Fach/Infektiologie, Fach/Physiologie]
 title: Normalflora
 ---

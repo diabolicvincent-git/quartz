@@ -1,5 +1,4 @@
 ---
-aliases: BHS
 tags: [Modul/m15, Fach/Neurologie, Fach/Histologie, Fach/Physiologie]
 title: Blut-Hirn-Schranke
 ---

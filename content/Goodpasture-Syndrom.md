@@ -1,5 +1,4 @@
 ---
-aliases: Anti-GBM-Glomerulonephritis
 tags: [Modul/m14, Fach/Nephrologie, Fach/Pneumologie]
 title: Goodpasture-Syndrom
 ---

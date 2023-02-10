@@ -1,5 +1,4 @@
 ---
-aliases: MTX
 tags: [Modul/m17]
 title: Methotrexat
 ---

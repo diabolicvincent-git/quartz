@@ -1,5 +1,4 @@
 ---
-aliases: QT, QTc, QTc-Zeit
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: QT-Zeit
 ---

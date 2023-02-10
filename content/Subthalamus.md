@@ -1,5 +1,4 @@
 ---
-aliases: Thalamus ventralis
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Subthalamus
 ---

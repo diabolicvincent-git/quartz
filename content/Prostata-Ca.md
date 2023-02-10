@@ -1,5 +1,4 @@
 ---
-aliases: Prostatakarzinom
 tags: [Modul/m19, Fach/Urologie, Art/Pathologie, Fach/Onkologie]
 title: Prostata-Ca
 ---

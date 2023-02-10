@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie, Modul/m26, Fach/Chirurgie, ToDo]
 title: Bursa omentalis
 ---

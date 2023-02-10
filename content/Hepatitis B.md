@@ -1,5 +1,4 @@
 ---
-aliases: HBV
 tags: [Modul/m19, Fach/Infektiologie/Reiseimpfung, Fach/Gastroenterologie, Art/Pathologie, Fach/Infektiologie/Erreger/Viren]
 title: Hepatitis B
 ---

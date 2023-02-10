@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m31]
 title: Bodypacking
 ---

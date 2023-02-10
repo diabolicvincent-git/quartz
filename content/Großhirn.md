@@ -1,5 +1,4 @@
 ---
-aliases: Telencephalon, Cerebrum
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Großhirn
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Hämatologie]
 title: Lymphom
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Abschürfung
 tags: [Modul/m09]
 title: Exkoration
 ---

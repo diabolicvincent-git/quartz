@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m08, Modul/m21, Fach/Physiologie]
 title: Vasodilatation
 ---

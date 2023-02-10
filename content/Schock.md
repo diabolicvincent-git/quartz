@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Modul/m17, Modul/m21, ToDo, Fach/Anästhesie, Art/Pathologie, Fach/Notfallmedizin]
 title: VL Septischer Schock
 ---

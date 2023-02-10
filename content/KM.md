@@ -1,5 +1,4 @@
 ---
-aliases: Kontrastmittel
 tags: [Modul/m00, Art/Intervention]
 title: KM
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m22]
 title: Schwangerschaftstest
 ---

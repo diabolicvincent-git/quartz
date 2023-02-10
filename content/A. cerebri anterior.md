@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. cerebri anterior
 ---

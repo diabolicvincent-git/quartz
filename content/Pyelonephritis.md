@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m14, Modul/m18, Fach/Nephrologie, Fach/Urologie]
 title: Pyelonephritis
 ---

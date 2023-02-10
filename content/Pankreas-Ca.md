@@ -1,5 +1,4 @@
 ---
-aliases: Pankreaskarzinom
 tags: [Modul/m19]
 title: Pankreas-Ca
 ---

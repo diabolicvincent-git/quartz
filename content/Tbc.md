@@ -1,5 +1,4 @@
 ---
-aliases: Tuberkulose
 tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Pneumologie, Fach/Infektiologie]
 title: Tbc
 ---

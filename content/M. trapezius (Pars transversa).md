@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m10, Fach/Orthopädie/Muskel]
 title: M. trapezius (Pars transversa)
 ---

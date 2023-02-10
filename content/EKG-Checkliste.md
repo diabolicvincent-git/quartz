@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m11, Modul/m00, Fach/Kardiologie, Art/Intervention]
 title: EKG-Checkliste
 ---

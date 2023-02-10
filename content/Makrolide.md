@@ -1,5 +1,4 @@
 ---
-aliases: Clarithromycin, Erythromycin, Azithromycin, Roxithromycin
 tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie/Antiinfektiva/Antibiotika]
 title: Makrolide
 ---

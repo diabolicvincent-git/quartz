@@ -1,5 +1,4 @@
 ---
-aliases: Lumbalpunktion
 tags: [Modul/m15]
 title: Liquorpunktion
 ---

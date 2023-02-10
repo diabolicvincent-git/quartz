@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Augenlid
-  - Lider
-  - Lid
 tags: [Modul/m16, Fach/Ophthalmologie]
 title: Augenlider
 ---

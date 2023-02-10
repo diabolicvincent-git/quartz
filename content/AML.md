@@ -1,5 +1,4 @@
 ---
-aliases: Akute myeloische Leukämie
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: AML
 ---

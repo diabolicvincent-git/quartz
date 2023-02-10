@@ -1,5 +1,4 @@
 ---
-aliases: Neuroleptika
 tags: [Modul/m20, Fach/Psychiatrie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antipsychotika
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Atmung bei Belastung
 ---

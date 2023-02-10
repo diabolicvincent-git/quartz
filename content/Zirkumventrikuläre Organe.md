@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Zirkumventrikuläre Organe
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Antibiogramm
 tags: [Modul/m18]
 title: Resistogramm
 ---

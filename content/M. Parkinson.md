@@ -1,5 +1,4 @@
 ---
-aliases: Idiopathisches Parkinson-Syndrom, IPS, Morbus Parkinson
 tags: [Modul/m15, Art/Pathologie, Fach/Neurologie]
 title: M. Parkinson
 ---

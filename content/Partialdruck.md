@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Physiologie, Fach/Pneumologie]
 title: Partialdruck
 ---

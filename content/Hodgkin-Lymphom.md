@@ -1,5 +1,4 @@
 ---
-aliases: M. Hodgkin
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Hodgkin-Lymphom
 ---

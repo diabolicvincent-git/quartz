@@ -1,5 +1,4 @@
 ---
-aliases: Acetylcholin
 tags: [Modul/m15, Fach/Neurologie, Fach/Biochemie, Fach/Biochemie/Transmitter]
 title: ACh
 ---

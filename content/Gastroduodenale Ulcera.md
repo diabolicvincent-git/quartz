@@ -1,5 +1,4 @@
 ---
-aliases: Gastroduodenale Ulkuskrankheit, Ulcus ventriculi, Ulcus duodeni
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: Gastroduodenale Ulcera
 ---

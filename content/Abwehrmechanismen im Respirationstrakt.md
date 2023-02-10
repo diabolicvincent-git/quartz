@@ -1,7 +1,6 @@
 ---
-aliases: null
 tags: [Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Fach/Physiologie, ToDo]
-title: Störungen der Abwehrmechanismen
+title: Abwehrmechanismen im Respirationstrakt
 ---
 ![[Immunologische Abwehrstrategien]]
 

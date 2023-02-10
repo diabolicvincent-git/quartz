@@ -1,5 +1,4 @@
 ---
-aliases: Major Histocompatibility Complex
 tags: [Modul/m08, Modul/m17, Fach/Physiologie, Fach/Infektiologie, Fach/Hämatologie]
 title: MHC
 ---

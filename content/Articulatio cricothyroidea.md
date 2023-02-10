@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Fach/HNO, Fach/Anatomie]
 title: Articulatio cricothyroidea
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Manus
 tags: []
 title: Hand
 ---

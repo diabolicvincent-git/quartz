@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m09, Modul/m19, Art/Pathologie]
 title: Melanom
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: Dermatom
 tags: [Modul/m09, Fach/Dermatologie, Fach/Neurologie, Fach/Anatomie]
 title: Dermatome
 ---

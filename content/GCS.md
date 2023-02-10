@@ -1,5 +1,4 @@
 ---
-aliases: Glasgow-Coma-Scale
 tags: [Modul/m15]
 title: GCS
 ---

@@ -1,8 +1,4 @@
 ---
-aliases:
- - Nucleinsäure
- - Nucleinsäuren
- - Nucleotid
 title: Nucleotide
 ---
 

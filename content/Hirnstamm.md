@@ -1,5 +1,4 @@
 ---
-aliases: Truncus encephali, Hirnstamms
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Lernziele
 ---

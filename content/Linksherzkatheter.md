@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m25, Art/Intervention, Art/Intervention, Fach/Kardiologie]
 title: Linksherzkatheter
 ---

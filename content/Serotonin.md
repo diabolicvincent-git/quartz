@@ -1,5 +1,4 @@
 ---
-aliases: 5-Hydroxytryptamin, LSD, 5-HT, 5-HT3
 tags: [Modul/m15]
 title: Serotonin
 ---

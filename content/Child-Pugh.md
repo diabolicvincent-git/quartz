@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m12, Fach/Gastroenterologie, Art/Intervention, Art/Intervention]
 title: Child-Pugh
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m03, Fach/Orthopädie, Fach/Genetik, Art/Pathologie]
 title: Muskeldystrophie Duchenne
 ---

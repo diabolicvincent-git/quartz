@@ -1,6 +1,4 @@
 ---
-aliases:
- - Haar
 title: Haare
 ---
 

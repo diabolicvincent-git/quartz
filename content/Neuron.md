@@ -1,5 +1,4 @@
 ---
-aliases: Neurone, Nervenzelle
 tags: [Modul/m05, Modul/m15, Fach/Neurologie, Fach/Histologie]
 title: Neuron
 ---

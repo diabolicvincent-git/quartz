@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hornhaut
 tags: [Modul/m16, Fach/Anatomie, Fach/Ophthalmologie]
 title: Cornea
 ---

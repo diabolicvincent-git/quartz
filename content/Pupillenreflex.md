@@ -1,5 +1,4 @@
 ---
-aliases: Pupillenreaktion
 tags: [Modul/m15, Modul/m16, Modul/m21, Fach/Physiologie, Fach/Neurologie, Fach/Ophthalmologie, Art/Intervention]
 title: Pupillenreflex
 ---

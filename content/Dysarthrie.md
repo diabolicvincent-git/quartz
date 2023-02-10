@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m13, Modul/m16, Modul/m17, Fach/Neurologie, Art/Pathologie]
 title: Dysarthrie
 ---

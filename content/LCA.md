@@ -1,5 +1,4 @@
 ---
-aliases: A. coronaria sinistra
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: LCA
 ---

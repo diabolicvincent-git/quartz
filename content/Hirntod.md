@@ -1,5 +1,4 @@
 ---
-aliases: Irreversibler Hirnfunktionsausfall
 tags: [Modul/m15, Modul/m21, Fach/Anästhesie, Art/Intervention, Fach/Neurologie]
 title: Hirntod
 ---

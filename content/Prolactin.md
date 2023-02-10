@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Modul/m04, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Prolactin
 ---

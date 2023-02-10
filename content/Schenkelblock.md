@@ -1,5 +1,4 @@
 ---
-aliases: Schenkelblöcke, Blockbild
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Schenkelblock
 ---

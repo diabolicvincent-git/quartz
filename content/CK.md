@@ -1,5 +1,4 @@
 ---
-aliases: Kreatinkinase
 tags: [Modul/m10, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Laboratoriumsmedizin]
 title: CK
 ---

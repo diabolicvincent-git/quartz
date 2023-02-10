@@ -1,5 +1,4 @@
 ---
-aliases: Glomeruläre Filtrationsbarriere
 tags: [Modul/m14, Fach/Nephrologie, Fach/Physiologie, Fach/Histologie]
 title: Blut-Harn-Schranke
 ---

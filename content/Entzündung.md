@@ -1,5 +1,4 @@
 ---
-aliases: Akute-Phase-Reaktion
 tags: [Modul/m08, Modul/m17]
 title: Mechanismen
 ---

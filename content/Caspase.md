@@ -1,5 +1,4 @@
 ---
-aliases: null
 tags: [Modul/m05, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Caspase
 ---

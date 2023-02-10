@@ -1,5 +1,4 @@
 ---
-aliases: Somatoafferenz, somatoafferent
 tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Somatoafferenzen
 ---

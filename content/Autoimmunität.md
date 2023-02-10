@@ -1,5 +1,4 @@
 ---
-aliases: Autoimmunerkrankung
 tags: [Modul/m17, Fach/Rheumatologie]
 title: Autoimmunität
 ---

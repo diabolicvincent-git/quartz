@@ -1,5 +1,4 @@
 ---
-aliases: Oxygenierungsindex
 tags: [Modul/m13, Fach/Anästhesie, Fach/Pneumologie, Art/Intervention]
 title: Horovitz-Quotient
 ---

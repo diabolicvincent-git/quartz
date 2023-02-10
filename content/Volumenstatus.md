@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags: [Modul/m14, Modul/m21, Fach/Nephrologie, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: Volumenstatus
 ---
