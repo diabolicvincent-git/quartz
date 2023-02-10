@@ -1,5 +1,5 @@
 ---
-tags: f/🩺/Befundbaustein, Intervention, f/🕶️
+tags: Befundbaustein, Intervention, f/🕶️
 ---
 - **Schnitte**
 	- [[Oberbauchquerschnitt]]
