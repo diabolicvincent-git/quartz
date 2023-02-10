@@ -1,3 +1,5 @@
+---
+---
 - **Klassifikation:** Clustereinteilung nach DSM-5
 	- [[Cluster A]]
 	- [[Cluster B]]
