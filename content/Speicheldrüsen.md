@@ -2,7 +2,7 @@
 tags: [Fach/Anatomie/Organ, Fach/HNO, Fach/Anatomie]
 title: Speicheldrüsen
 ---
-> (Abstract::**Exokrine [[Drüsen]] zur Speichelproduktion.** Mündung in [[Mundhöhle]]. [[Vegetative]] Steuerung.)
+> (Abstract::**Exokrine [[Drüsen]] zur Speichelproduktion.** Mündung in [[Mundhöhle]]. [[vegetative]] Steuerung.)
 - **Funktion**:: Speichelproduktion
 	1. *Bildung von isotonem Primärspeichel in Drüsenacini*:: NKCC2-Cotransport in Drüsenzellen → [[Cl-]] über apikale Kanäle in Speichel, [[Na+]] und [[Wasser]] folgt parazellulär
 	2. *Modifikation zu hypotonem Sekundärspeichel in Ausführungsgängen*:: Aktive Sekretion von [[HCO3-]], Reabsorption von [[Na+]] und [[Cl-]], Sekretion von [[K+]] und [[Iod]]
