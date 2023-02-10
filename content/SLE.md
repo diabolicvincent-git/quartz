@@ -2,7 +2,7 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie]
 title: SLE
 ---
-- **Epidemiologie**:: 20. – 40. LJ, [[♀]] >> [[♂]] 
+- **Epidemiologie**:: 20. – 40. LJ, [[M]] >> [[W]] 
 - **Autoantigen**:: Sekundär-nekrotischer Zell-Konglomerate (aufgr. gestörter [[Apoptose]])
 - **Pathophysiologie**:: Bindung von Auto-Antikörpern an *Immunkomplexe* + Aktivierung dendritischer Zellen → ==*[[IFN]]-α*== → [[Apoptose]]↑ von Zellen und [[Neutrophile Granulocyten]] 
 - **Symptome**

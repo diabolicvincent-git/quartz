@@ -37,4 +37,4 @@ title: Anamnese
 	- Stressoren und Ressourcen
 	- Patientenverfügung, Kontaktperson
 
-[^1]: Bei [[♀]]: Aktiv nach hormoneller [[Kontrazeption]] fragen
+[^1]: Bei [[M]]: Aktiv nach hormoneller [[Kontrazeption]] fragen

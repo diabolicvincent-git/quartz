@@ -3,7 +3,7 @@ tags: [Modul/m20, Art/Pathologie, Fach/Psychiatrie, Art/Intervention]
 title: Depression
 ---
 ### Depression
-- **Epidemiologie**:: ⅓ vor 25. LJ, [[♀]]>[[♂]]
+- **Epidemiologie**:: ⅓ vor 25. LJ, [[M]]>[[W]]
 - **Ätiologie**
 	- **Organisch**:: [[Hypothyreose]], [[Ca2+]]↑↓, [[Vitamine]]↓, [[Anämie]], [[Hämochromatose]], [[Demenz]], [[Parkinson-Syndrom]], [[Malignome]]
 	- **Comorbiditäten**:: [[Angststörung]], Panikstörung, [[Alkohol]], [[Abhängigkeit]]

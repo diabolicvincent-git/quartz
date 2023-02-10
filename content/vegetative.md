@@ -46,7 +46,7 @@ siehe [[Sympathikus]], [[Parasympathikus]]
 |**[[Niere]]**|β1: [[Renin]]↑|
 |**[[Nebennierenmark]]**|[[Katecholamine\|Katecholaminsekretion]]↑ (präganglionär)|
 |**[[Harnblase]]**|α1: M. sphincter vesicae Kontraktion<br>β2: M. detrusor vesicae Entspannung|M. sphincter vesicae Entspannung<br>β2: M. detrusor vesicae Kontraktion
-|**Gonaden**|α1: [[♂]] Ejakulation<br>α1: [[♀]] Utersukontraktion<br>β2: [[♀]] Wehenhemmung|[[Erektion]]
+|**Gonaden**|α1: [[W]] Ejakulation<br>α1: [[M]] Utersukontraktion<br>β2: [[M]] Wehenhemmung|[[Erektion]]
 |**[[Haut]]**|Schweißsekretion ([[ACh\|ACh]])|
 |**Braunes Fettgewebe**|β2: [[Wärmehaushalt\|Thermogenese]]|
 

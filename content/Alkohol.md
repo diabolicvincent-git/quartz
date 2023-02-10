@@ -20,7 +20,7 @@ title: Alkohol
 	- Alkoholentzugssyndrom, [[Delir]]
 - **Diagnostik**
 	- **[[Anamnese]]**:: [[CAGE]]-Screeningtest, Konsummenge, Trinkmuster
-		- *Riskanter Alkoholkonsum* [[♂]]>24 g/d, [[♀]]>12 g/d (0,25-0,5 L Bier)
+		- *Riskanter Alkoholkonsum* [[W]]>24 g/d, [[M]]>12 g/d (0,25-0,5 L Bier)
 	- **[[Labor]]**:: γ-GT↑, Transaminasen↑, ==CDT↑==[^1], hyperchr. [[Anämie]], ==[[Vitamine]]↓==
 	- **Alkoholmessung**:: Ausatemluft, [[Blut]]
 	- **Diagnosekriterien**

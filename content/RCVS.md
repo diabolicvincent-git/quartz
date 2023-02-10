@@ -3,7 +3,7 @@ tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: RCVS
 ---
 ### Reversibles cerebrales Vasokonstriktionssyndrom / RCVS
-- **Epidemiologie**:: [[♀]] >> [[♂]]
+- **Epidemiologie**:: [[M]] >> [[W]]
 - **Ätiologie**
 	- Vasoaktive Substanzen (z.B. [[Cannabis]], SSRI, abschw. Nasentropfen)
 	- postpartal

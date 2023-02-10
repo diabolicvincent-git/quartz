@@ -3,7 +3,7 @@ tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Molekü
 title: Gestagene
 ---
 ### Gestagene
-> [[♀]] [[Sexualhormone]]: [[Steroidhormone]] mit 21 C-Atomen
+> [[M]] [[Sexualhormone]]: [[Steroidhormone]] mit 21 C-Atomen
 - **Vertreter**:: ==Progesteron==
 - **Wirkung**
 	- *[[Uterus]]:* ==Optimale Nidation-Bedingungen==

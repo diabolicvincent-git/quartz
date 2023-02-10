@@ -4,7 +4,7 @@ title: Osteosarkom
 ---
 ### Osteosarkom
 > Maligner [[Knochen]][[Tumor]]
-- **Epidemiologie**:: Häufigster maligner Knochentumor im Kindesalter, [[♂]] > [[♀]] 
+- **Epidemiologie**:: Häufigster maligner Knochentumor im Kindesalter, [[W]] > [[M]] 
 - **Risikofaktoren**:: Hereditäres [[Retinoblastom]] (x1.000)
 - **Lokalisation**:: ==Metaphysen der langen Röhrenknochen (v.a. Femur, Tibia)==
 - **Symptome**:: Erst spät Schwellung, [[Schmerz]][^1]

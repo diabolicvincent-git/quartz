@@ -2,7 +2,7 @@
 tags: [Modul/m31, Fach/Psychiatrie, Art/Pathologie]
 title: Anorexia nervosa
 ---
-- **Epidemiologie**:: [[♀]]>>[[♂]] 10:1, Häufigkeitsgipfel 13-16 J.
+- **Epidemiologie**:: [[M]]>>[[W]] 10:1, Häufigkeitsgipfel 13-16 J.
 - **Ätiologie**:: Genetische Konkordanz 50% bei eineiigen Zwilligen
 - **Symptome**:: ==Körperschemastörung + [[Untergewicht]] + selbstinduzierte Gewichtsreduktion + Endokrine Dysfunktion==
 	- *Strategien:* Nahrungsverweigerung, körperliche Aktivität, [[Diuretika]], [[Laxantien]], [[L-Thyroxin]]

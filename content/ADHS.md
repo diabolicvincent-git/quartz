@@ -2,7 +2,7 @@
 tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: ADHS
 ---
-- **Epidemiologie**:: ♂:[[♀]] 6:1, Beginn <6. LJ
+- **Epidemiologie**:: ♂:[[M]] 6:1, Beginn <6. LJ
 - **Ätiologie**
 	- *Prädisposition* (D4-Dopamin-R-Polymorphismus) + Soziale Faktoren
 	- *Assoziation* mit anderen psychiatrischen Erkrankungen

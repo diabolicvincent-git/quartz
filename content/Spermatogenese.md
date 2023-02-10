@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Physiologie, Fach/Urologie, Fach/Biochemie]
 title: Spermatogenese
 ---
-### Spermatogenese ([[♂]])
+### Spermatogenese ([[W]])
 > Kontinuierliche Produktion von [[Spermien]] ab der [[Pubertät]]
 1. **Entstehung**
 	- *Urkeimzellen:* Ab 4. Woche [[Embryonalentwicklung]]

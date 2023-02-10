@@ -5,7 +5,7 @@ title: Geschlechtsmerkmale
 ### Geschlechtsmerkmale
 - **Primäre Geschlechtsmerkmale** = [[Geschlechtsorgane]]
 - **Sekundäre Geschlechtsmerkmale** (Entwicklung in der [[Pubertät]])
-	- **[[♀]]**
+	- **[[M]]**
 		- Achsel-/Schambehaarung
 		- Brustwachstum
 		- Körperform: Breites Becken, schmale Taille und Schultern

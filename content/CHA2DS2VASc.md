@@ -11,8 +11,8 @@ title: CHA2DS2VASc
 	- **[[Stroke]]/[[TIA]]/Thromboembolie** (2)
 	- **Vaskuläre Vorerkrankung**:: [[KHK]], [[pAVK]], Aortenplaque (1)
 	- **Alter** 65-74 Jahre (1)
-	- **Sex** [[♀]] (1)
+	- **Sex** [[M]] (1)
 - **Konsequenz**
-	- **[[♂]] ≥2 / [[♀]] ≥3**:: [[Antikoagulation]]
-	- **[[♂]] =1 / [[♀]] =2**:: ggf. [[Antikoagulation]]
-	- **[[♂]] =0 / [[♀]] ≤1**:: Keine Therapie
+	- **[[W]] ≥2 / [[M]] ≥3**:: [[Antikoagulation]]
+	- **[[W]] =1 / [[M]] =2**:: ggf. [[Antikoagulation]]
+	- **[[W]] =0 / [[M]] ≤1**:: Keine Therapie

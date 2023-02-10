@@ -3,7 +3,7 @@ tags: [Modul/m17, Fach/Rheumatologie]
 title: Autoimmunität
 ---
 > Pathologisch aktiviertes adaptives Immunsystem → Toleranzverlust ggü. Selbst-Antigenen (Bildung von *autoreaktiven [[T-Zellen]]* und *[[Auto-Antikörper]]n*)
-- **Epidemiologie**:: Insg. 5% ([[♀]]>[[♂]])
+- **Epidemiologie**:: Insg. 5% ([[M]]>[[W]])
 - **Symptome**:: Schubhafter, progredienter Verlauf
 - **Entstehung von Autoimmunität**:: Genetische Prädisposition ([[HLA]], [[Cytokine]]-Pathways, AIRE) + exogene Trigger ([[Infektionen]], Mikrobiom, Trauma)
 - **Einteilung nach Organspezifität**

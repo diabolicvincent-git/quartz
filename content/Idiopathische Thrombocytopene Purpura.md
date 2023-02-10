@@ -5,7 +5,7 @@ title: Idiopathische Thrombocytopene Purpura
 ### Idiopathische Thrombocytopene [[Purpura]] / ITP 
 - **Epidemiologie**:: 1:10.000 / Jahr
 	- 50% Kinder, v.a. akute Form Z.n. Virusinfekt/[[Impfung]]
-	- 50% Erwachsene 30-60 J., [[♂]]<[[♀]], 90% Chronische ITP
+	- 50% Erwachsene 30-60 J., [[W]]<[[M]], 90% Chronische ITP
 		- Häufigste Ursache einer isolierten [[Thrombopenie]] bei jungen Erwachsenen
 - **Pathophysiologie**:: Veränderte B-/[[T-Zellen]] → [[Auto-Antikörper]] gegen [[Thrombocyten]] und Megakaryocyten → [[Thrombocyten]]-Lebensdauer↓
 	- Unzureichende Erhöhung des Thrombopoietin-Spiegels

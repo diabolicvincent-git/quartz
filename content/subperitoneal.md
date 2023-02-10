@@ -5,5 +5,5 @@ title: subperitoneal
 ### Subperitonealraum
 - [[Rektum]] (ab Flexura perinealis)
 - [[Ureter]], [[Harnblase]]
-- [[♀]]: [[Uterus]], [[Ovar]], [[Tuba uterina]] (teils [[intraperitoneal]]), [[Vagina]]
-- [[♂]]: [[Prostata]], [[Bläschendrüse]], [[Ductus deferens]]
+- [[M]]: [[Uterus]], [[Ovar]], [[Tuba uterina]] (teils [[intraperitoneal]]), [[Vagina]]
+- [[W]]: [[Prostata]], [[Bläschendrüse]], [[Ductus deferens]]

@@ -4,11 +4,11 @@ title: Prolactinom
 ---
 ### Prolactinom
 > Häufigstes endokrin-aktives [[Hypophysenadenom]]
-- **Epidemiologie**:: [[♀]]:♂ 5:1
+- **Epidemiologie**:: [[M]]:♂ 5:1
 - **Pathophysiologie**:: [[Prolactin]]↑↑ → ==Hemmung [[LH]]/[[FSH]] ([[Hypophysenvorderlappeninsuffizienz]]) → [[Androgene]]↓/[[Östrogene]]↓== → Hypogonadotroper [[Hypogonadismus]]
 - **Symptome**
 	- [[Kopfschmerzen]], Visusminderung, [[Gesichtsfeldausfall]] (bitemporale Hemianopsie)
-	- **[[♀]]**:: Galactorrhoe, Libido↓, ==[[Amenorrhoe]]==, Endometrium-/Vaginalatrophie, [[Osteoporose]]
+	- **[[M]]**:: Galactorrhoe, Libido↓, ==[[Amenorrhoe]]==, Endometrium-/Vaginalatrophie, [[Osteoporose]]
 	- **♂**:: Libido↓/Potenz↓, evtl. Gynäkomastie
 - ==**DD**:: Andere Ursachen für Prolactinämie==
 	- *Physiologisch:* [[Schwangerschaft]]

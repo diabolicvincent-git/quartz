@@ -3,7 +3,7 @@ tags: [Modul/m10, Modul/m12, Fach/Physiologie]
 title: Energieumsatz
 ---
 ### Energieumsatz 
-|Umsatz (kcal/d)|[[♂]]|[[♀]]|
+|Umsatz (kcal/d)|[[W]]|[[M]]|
 |-|-|-|
 |Grundumsatz|1700|1500|
 |Ruheumsatz|2000|1750|

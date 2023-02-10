@@ -6,12 +6,12 @@ title: Entwicklung der Geschlechtsorgane
 - **Keimdrüsen**
 	1. **Indifferent**:: Urkeimzellen → Genitalleisten → Gonadenanlage ([[SSW]] 6)
 	2. **Differenziert**:: Determiniert durch ==[[SRY]]==
-		- **[[♂]] [[SRY]]↑**:: [[Hoden]]
-		- **[[♀]] [[SRY]]↓**:: [[Ovar]]
+		- **[[W]] [[SRY]]↑**:: [[Hoden]]
+		- **[[M]] [[SRY]]↓**:: [[Ovar]]
 - **Keimzellen / Gametogenese**:: [[Spermatogenese]] bzw. [[Oogenese]]
 - **[[Geschlechtsorgane]]**
-	- [[♂]] hormonabhängig
-	- [[♀]] hormonunabhängig
+	- [[W]] hormonabhängig
+	- [[M]] hormonunabhängig
 
 # Entwicklung der [[Geschlechtsorgane]]
 ## Innere Geschlechtsorgane
@@ -23,16 +23,16 @@ title: Entwicklung der Geschlechtsorgane
 	- **♂**:: Ductuli efferentes testis
 
 ## Äußere Geschlechtsorgane
-> Mesenchymverdichtungen um die Kloakenmembran; bis [[SSW]] 9 [[♀]]/♂ identisch
+> Mesenchymverdichtungen um die Kloakenmembran; bis [[SSW]] 9 [[M]]/♂ identisch
 ### Genitalhöcker / Tuberculum genitale
 - **Differenzierung**
 	- **♂**:: Phallus, [[Urethra]], Corpora cavernosa, ==Glans [[Penis]]==
-	- **[[♀]]**:: ==[[Klitoris]]==
+	- **[[M]]**:: ==[[Klitoris]]==
 ### Genitalfalten
 - **Differenzierung**
 	- **♂**:: Corpus spongiosum, Corpora cavernosa [[Penis]]
-	- **[[♀]]**:: Labia minora, Bulbus vestibuli
+	- **[[M]]**:: Labia minora, Bulbus vestibuli
 ### Genitalwülste
 - **Differenzierung**
 	- **♂**:: [[Skrotum]]
-	- **[[♀]]**:: Labia majora
+	- **[[M]]**:: Labia majora

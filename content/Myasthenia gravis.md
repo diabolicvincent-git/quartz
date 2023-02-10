@@ -5,7 +5,7 @@ title: Myasthenia gravis
 
 ### Myasthenia gravis 
 > [[Autoimmunität]] mit Störung der neuromuskulären Kopplung
-- **Epidemiologie**:: [[♀]] (jung) > [[♂]] (alt)
+- **Epidemiologie**:: [[M]] (jung) > [[W]] (alt)
 - **Pathophysiologie**:: ==[[Auto-Antikörper]] gegen [[ACh]]-R / Postsynapse== → Störung der neuromuskulären Endplatte an [[Quergestreifte Muskulatur]] (*[[Hypersensibilitätstypen]] Typ 2*)
 - **Symptome**:: Asymmetrische ==Muskelschwäche==, fluktuierende Intensität im Tagesverlauf
 	- **Frühzeichen**:: Diplopie, Ptosis, [[Dysarthrie]], [[Dysphagie]], Extremitätenschwäche, Fatigue

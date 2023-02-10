@@ -3,7 +3,7 @@ tags: [Modul/m30, Fach/Neurologie, Fach/Pädiatrie, Art/Pathologie]
 title: Muskeldystrophie
 ---
 ### Muskeldystrophie
-- **Epidemiologie**:: ==fast ausschließlich [[♂]]==, [[Muskeldystrophie Duchenne]] 3-5 J. / Becker 6-20 J.
+- **Epidemiologie**:: ==fast ausschließlich [[W]]==, [[Muskeldystrophie Duchenne]] 3-5 J. / Becker 6-20 J.
 - **Ätiologie**
 	- X-chromosomal-rezessiv ([[Muskeldystrophie Duchenne]], Becker-Kiener), autosomal (LGMD, FSHD)
 	- [[Mutation]] im Dystrophin/DMD-Gen auf Xp21-[[Chromosom]], meist Deletion
@@ -13,7 +13,7 @@ title: Muskeldystrophie
 	- LGMD
 	- FSHD
 - **Diagnostik**
-	- **[[Labor]]**:: ==[[CK]]↑↑== (auch bei [[♀]]-Konduktoren)
+	- **[[Labor]]**:: ==[[CK]]↑↑== (auch bei [[M]]-Konduktoren)
 	- **[[Gendiagnostik]]**:: Mutation Dystrophin-Gen
 	- **Elektromyogramm**:: Myopathisches Muster (Amplitude↓, Potenzialdauer↓), Fibrillationen
 	- **Muskel-Biopsie**

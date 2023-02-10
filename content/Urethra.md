@@ -3,9 +3,9 @@ tags: [Modul/m22, Fach/Urologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Urethra
 ---
 ### Urethra / Harnröhre
-- **Funktion**:: Ableitung des Harns ([[♀]]/♂) und [[Spermien]]transport (♂)
-- **Länge**:: [[♀]] 3-5 cm[^1], ♂ ~20 cm
-- **Verlauf ([[♀]])**
+- **Funktion**:: Ableitung des Harns ([[M]]/♂) und [[Spermien]]transport (♂)
+- **Länge**:: [[M]] 3-5 cm[^1], ♂ ~20 cm
+- **Verlauf ([[M]])**
 	1. *==Pars intramuralis==:* Innerhalb der [[Harnblase]]nwand (<1 cm)
 		- Ostium urethrae internum mit M. sphincter urethrae internus (unwillkürlich)
 	2. *==Pars membranacea==:* Im [[subperitoneal]]en [[Bindegewebe]]
@@ -21,5 +21,5 @@ title: Urethra
 		- Aufweitung an Glans penis als *Fossa navicularis*
 
 
-[^1]: Begünstigt aszendierende [[HWI]] Richtung [[Harnblase]] (Cystitis) und [[Nierenbecken]] (Pyelonephritis) bei [[♀]] 
+[^1]: Begünstigt aszendierende [[HWI]] Richtung [[Harnblase]] (Cystitis) und [[Nierenbecken]] (Pyelonephritis) bei [[M]] 
 [^2]: Des Weiteren mündet Utriculus prostaticus (Überbleibsel von [[Müller-Gang]])

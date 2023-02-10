@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Vagina
 ---
-### Vagina ([[♀]])
+### Vagina ([[M]])
 - **Funktion**:: Primäres Geschlechtsorgan (Kopulation), Geburtskanal, Ableitung Menstruationsblut
 - **Lage**:: [[subperitoneal]] im Parakolpium
 - **Aufbau**

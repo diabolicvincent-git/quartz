@@ -3,7 +3,7 @@ tags: [Art/Pathologie, Fach/Pädiatrie]
 title: SIDS
 ---
 > (Abstract::**Sudden Infant Death Syndrome, Plötzlicher Säuglingstod.** Unvermittelt, meist im Schlaf. ==<1 Jahr==.)
-- **Epidemiologie**:: Häufigkeitsgipfel 1.-2. Lebenstag ("SUPC") & 2.-6. Monate, [[♂]]>[[♀]]
+- **Epidemiologie**:: Häufigkeitsgipfel 1.-2. Lebenstag ("SUPC") & 2.-6. Monate, [[W]]>[[M]]
 - **Ätiologie**:: Unklar
 	- *Risikofaktoren*:: Schlafen in Bauchlage, Kissen/Decken, Co-Sleeping, [[Frühgeburt]]
 - **Symptome**:: Plötzlicher Tod

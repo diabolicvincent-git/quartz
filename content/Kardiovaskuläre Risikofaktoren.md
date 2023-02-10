@@ -11,7 +11,7 @@ title: Kardiovaskuläre Risikofaktoren
 	- [[Adipositas]], Bewegungsmangel, ungesunde [[Ernährung]]
 - **Nicht-beeinflussbare Hauptrisikofaktoren**
 	- Positive Familienanamense (insb. <55.-65. LJ)
-	- Alter↑, [[♂]]
+	- Alter↑, [[W]]
 - **Weitere Risikofaktoren**:: [[Rheumatologie]], [[Schlafapnoe]], [[CKD]], [[Alkohol]], [[Stress]], [[Depression]], Armut
 ---
 siehe [[Atherosklerose]], [[KHK]]

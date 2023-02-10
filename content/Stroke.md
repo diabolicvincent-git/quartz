@@ -8,7 +8,7 @@ title: Stroke
 	- **[[Atherosklerose]]**:: *Makroangiopathie* (arterioarterielle Embolie), *Mikroangiopathie* ([[Lakunärer Infarkt]])
 	- **Dissektion**:: [[A. carotis interna]], [[A. vertebralis]]
 	- **Sonstige Ursachen**:: Fettembolie, Luftembolie, Cerebrale [[Vaskulitis]]
-	- **Risikofaktoren**:: [[Metabolisches Syndrom]], ==[[aHTN]]==, ==[[VHF]]==, [[Alkohol]], ==[[Rauchen]]==, [[Polyglobulie]], [[Stress]], Alter, [[♂]], Genetik
+	- **Risikofaktoren**:: [[Metabolisches Syndrom]], ==[[aHTN]]==, ==[[VHF]]==, [[Alkohol]], ==[[Rauchen]]==, [[Polyglobulie]], [[Stress]], Alter, [[W]], Genetik
 - **Klassifikation**:: [[Territorialinfarkt]] / [[Hämodynamischer Infarkt]], [[Lakunärer Infarkt]]
 - **Symptome**:: ==Akutes [[Neurologisches Defizit]]== je nach Lokalisation (==[[Mediainfarkt]]==, [[Anteriorinfarkt]], [[Kleinhirninfarkt]], ==[[Basilaristhrombose]]==)
 - **Diagnostik**:: [[BEFAST]], ==[[NIHSS]]==, Nativ-[[cCT]] ([[ICB]]-Ausschluss), [[CT-Angiographie]] (Thrombusnachweis), ggf. [[cMRT]]

@@ -5,11 +5,11 @@ title: Sexualstörung
 - **Störungen der sexuellen Appetenz**:: Lust↑↓ 
 - **Störungen der Erregungsphase**
 	- **♂**:: [[Erektile Dysfunktion]]
-	- **[[♀]]**:: Störung der Lubrikation
+	- **[[M]]**:: Störung der Lubrikation
 - **Störungen der Plateauphase**
 	- **♂**:: Erektionsstörungen (oft: psychogen)
-	- **[[♀]]**:: [[Vaginismus]]
+	- **[[M]]**:: [[Vaginismus]]
 	- [[Dyspareunie]]
 - **Störungen der Orgasmusphase**
 	- **♂**:: Ejaculatio praecox, Ejaculatio retarda, Ejaculatio deficiens, Anorgasmie
-	- **[[♀]]**:: Anorgasmie
+	- **[[M]]**:: Anorgasmie

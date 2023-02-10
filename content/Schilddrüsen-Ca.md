@@ -3,7 +3,7 @@ tags: [Art/Pathologie]
 title: Schilddrüsen-Ca
 ---
 > (Abstract::Auch: Struma maligna.)
-- **Epidemiologie**:: [[♀]]>[[♂]]
+- **Epidemiologie**:: [[M]]>[[W]]
 - **Ätiologie**:: Genetik (MEN), [[Ionisierende Strahlung]]
 - **Klassifikation**:: [[Papilläres Schilddrüsen-Ca]], [[Follikuläres Schilddrüsen-Ca]], [[Anaplastisches Schilddrüsen-Ca]]
 - **Symptome**:: Keine Frühsymptome, später [[Struma]], [[Dysphagie]], Heiserkeit (Recurrensparese), [[Horner-Syndrom]], [[Einflussstauung]], [[Stridor]], [[Lymphadenopathie]]

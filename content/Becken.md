@@ -11,10 +11,10 @@ title: Becken
 - **Inhalt**
 	- *[[intraperitoneal]]* 
 		- [[Jejunum und Ileum]], Appendix, Colon sigmoideum
-		- **[[♀]]**:: [[Ovar]], [[Tuba uterina]], [[Uterus]]
+		- **[[M]]**:: [[Ovar]], [[Tuba uterina]], [[Uterus]]
 	- *Extra-/[[subperitoneal]]* 
 		- [[Rektum]], [[Harnblase]], [[Ureter]]
-		- **[[♀]]**:: [[Cervix]], [[Vagina]]
+		- **[[M]]**:: [[Cervix]], [[Vagina]]
 		- **♂**:: [[Prostata]], [[Bläschendrüse]], [[Ductus deferens]]
 ---
 ![[Beckenboden]]

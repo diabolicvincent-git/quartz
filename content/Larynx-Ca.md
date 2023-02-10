@@ -3,7 +3,7 @@ tags: [Art/Pathologie]
 title: Larynx-Ca
 ---
 > (Abstract::**Maligner Tumor des [[Larynx]].** Risikofaktoren: [[Rauchen]], [[Alkohol]]. Frühsymptome nur bei Stimmlippenbeteiligung.)
-- **Epidemiologie**:: [[♂]]>>[[♀]]
+- **Epidemiologie**:: [[W]]>>[[M]]
 - **Ätiologie**:: [[Rauchen]] > [[Alkohol]], [[Asbest]] und sonstige Noxen
 - **Klassifikation**:: Glottis (80%), Supraglottis (20%), Subglottis (selten) + [[TNM]]
 - **Symptome**:: ==Heiserkeit== (==Frühsymptom bei Glottis-Ca==, sonst Spätsymptom), [[Dysphagie]], [[Dyspnoe]]

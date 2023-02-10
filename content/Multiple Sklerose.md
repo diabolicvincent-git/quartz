@@ -3,7 +3,7 @@ tags: [Modul/m15, Art/Pathologie, Wichtig, Modul/m17]
 title: Multiple Sklerose
 ---
 ### Multiple Sklerose / MS 
-- **Epidemiologie**:: ~30. LJ, [[♀]]>[[♂]]
+- **Epidemiologie**:: ~30. LJ, [[M]]>[[W]]
 - **Pathophysiologie**:: [[Autoimmunität]], [[T-Zellen]]-[[ZNS]]-Infiltrat → ==herdförmige Demyelinisierung + [[Entzündung]]== → Nervenleitfähigkt.↓ 
 	- **Autoantigen**:: Basisches Myelinprotein (MBP) in Markscheiden
 - **Symptome**

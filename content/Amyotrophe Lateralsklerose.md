@@ -4,7 +4,7 @@ title: Pathogenese
 ---
 (Abstract::[[Neurodegenerative Erkrankungen]] des ==1. und 2. Motoneurons== (TDP-43 Aggregation))
 - **Symptome**:: Schlaff atrophisch (2. Motoneuron führend) und/oder spastische [[Parese]] (1. Motoneuron führend) – bishin zu Schluckstörungen, Lähmung der [[Atemmuskulatur]]
-- **Epidemiologie**:: Altersgipfel Beginn ca. 50. Lebensjahr, [[♂]] ≥ [[♀]] 
+- **Epidemiologie**:: Altersgipfel Beginn ca. 50. Lebensjahr, [[W]] ≥ [[M]] 
 
 # Pathogenese
 - Unbekannter ätiologischer Prozess (warum v.a. im motorischen Nervensystem?)

@@ -4,7 +4,7 @@ title: Syphilis
 ---
 ### Syphilis / Lues
 > **[[STD]]**
-- **Epidemiologie**:: ♂:[[♀]] 14:1
+- **Epidemiologie**:: ♂:[[M]] 14:1
 - **Ätiologie**
 	- **Erreger**:: Treponema pallidum ([[gramnegativ]], Stäbchen, Spirochäten)
 	- **Übertragung**:: Sexuell (30% Infektionsrisiko), diaplazentar

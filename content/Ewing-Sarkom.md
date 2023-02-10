@@ -4,7 +4,7 @@ title: Ewing-Sarkom
 ---
 ### Ewing-Sarkom
 > Hochmaligner [[Tumor]] aus [[Knochenmark]]
-- **Epidemiologie**:: Häufigkeitsgipfel 5.-15. LJ, [[♂]] > [[♀]] 
+- **Epidemiologie**:: Häufigkeitsgipfel 5.-15. LJ, [[W]] > [[M]] 
 - **Ätiologie**:: 90% Translokation t(11:22)
 - **Symptome**:: [[Schmerz]], Überwärmung, Schwellung, [[Fieber]]
 - **Lokalisation**:: ==Diaphysen langer Röhrenknochen (v.a. Femur, Tibia)==

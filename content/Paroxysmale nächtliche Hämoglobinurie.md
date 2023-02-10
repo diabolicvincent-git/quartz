@@ -3,7 +3,7 @@ tags: [Modul/m17]
 title: Paroxysmale nächtliche Hämoglobinurie
 ---
 ### Paroxysmale nächtliche Hämoglobinurie / PNH 
-- **Epidemiologie**:: [[♂]] = [[♀]] 
+- **Epidemiologie**:: [[W]] = [[M]] 
 - **Genetik**:: Erworbene X-chromosomale [[Mutation]] hämatopoetischer Stammzellen
 	- Symptomschwere abhängig von Zeitpunkt der [[Mutation]]: Keimbahn (alle Zellen) oder Somatisch (v.a. hämatopoetische Stammzellen)
 - **Pathophysiologie**:: Mangel an GPI-Lipidankern zur Membran-Verankerung von [[CD]]58 → inadäquater Schutz vor dem [[Komplementsystem]]

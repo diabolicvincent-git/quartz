@@ -14,11 +14,11 @@ title: Ureter
 	- **Kreuzungsstellen**
 		1. *Unterkreuzt* A./V. ovarica/testicularis
 		2. *Überkreuzt* A./V. iliaca communis (selten: externa)
-		3. *Unterkreuzt* [[Ductus deferens]] ([[♂]]) bzw. A. uterina ([[♀]])
+		3. *Unterkreuzt* [[Ductus deferens]] ([[W]]) bzw. A. uterina ([[M]])
 - **Leitungsbahnen**
 	- **[[Arterien]]**
 		- *Pars abdominalis:* A. renalis
 		- *Pars pelvica:* A. gonades
-		- *Pars intramuralis:* A. vesicalis superior/inferior ([[♂]]) bzw. A. uterina ([[♀]])
+		- *Pars intramuralis:* A. vesicalis superior/inferior ([[W]]) bzw. A. uterina ([[M]])
 	- **Venös**:: Vgl. [[Arterien]]
 

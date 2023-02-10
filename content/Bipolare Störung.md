@@ -3,7 +3,7 @@ tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Bipolare Störung
 ---
 ### Bipolare [[Affektive Störung]]
-- **Epidemiologie**:: [[♀]]=[[♂]] 
+- **Epidemiologie**:: [[M]]=[[W]] 
 - **Ätiologie**:: Familiäre Häufung
 - **Symptome**
 	- ***Manische Episode:*** Affekt↑, Aggressivität, Aktivität↑, Schlaf↓, Agitation↑, Ideenflucht, Rededrang (= [[Manie]])

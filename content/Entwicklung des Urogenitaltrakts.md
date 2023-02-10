@@ -10,11 +10,11 @@ title: Niere
 ## Mesonephros (= Urniere)
 - Woche 4-6
 - Harnbildende Funktion
-- Bildet *Urnierengang / Ductus mesonephricus / [[Wolff-Gang]]* und *Urnierenkanälchen* (bilden später Hodenausführungsgänge Ductuli efferentes [[♂]] )
+- Bildet *Urnierengang / Ductus mesonephricus / [[Wolff-Gang]]* und *Urnierenkanälchen* (bilden später Hodenausführungsgänge Ductuli efferentes [[W]] )
 ## Metanephros (= Nachniere)
 - Woche 5
 - Aus unterem Abschnitt des Wolff-Gangs entwickelt sich die *Ureterknospe* (bildet [[Ureter]], [[Nierenbeckenkelchsystem]], Sammelrohre)
-- Rest des Wolff-Gangs tritt später in Kontakt mit Keimdrüsen und bildet [[Nebenhoden]] und [[Ductus deferens]] ([[♂]])
+- Rest des Wolff-Gangs tritt später in Kontakt mit Keimdrüsen und bildet [[Nebenhoden]] und [[Ductus deferens]] ([[W]])
 ### Aszensus
 - Durch Verminderung der Körperkrümmung und verstärktes Wachstum
 - Aufstieg aus dem pelvicalen Bereich nach *subdiaphragmal*

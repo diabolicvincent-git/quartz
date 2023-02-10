@@ -4,7 +4,7 @@ title: Kollagenose
 ---
 ### Kollagenose
 > Unklare [[Autoimmunität]] gegen [[Bindegewebe]]
-- **Epidemiologie**:: [[♀]]>[[♂]]
+- **Epidemiologie**:: [[M]]>[[W]]
 - **Symptome** 
 	- **Allgemein**:: [[Fieber]], [[Gewichtsverlust]]
 	- **[[Gelenke]]**:: Polyarthritis, Myositis)

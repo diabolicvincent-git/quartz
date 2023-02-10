@@ -3,7 +3,7 @@ tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: Hämophilie
 ---
 ### Hämophilie
-- **Epidemiologie**:: Prävalenz 1:6.000, A:B 5:1, überwiegend [[♂]] 
+- **Epidemiologie**:: Prävalenz 1:6.000, A:B 5:1, überwiegend [[W]] 
 - **Genetik**:: X-chromosomal, bei A 30% Neumutationen
 - **Formen**
 	- **Hämophilie A**:: *Faktor-VIII-Mangel*
