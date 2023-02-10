@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m14, f/🍺, f/🍆, f/🥼, a/Intervention/Diagnostik
+tags: m/m14, f/🍺, f/🍆, f/🥼, Intervention
 ---
 # Makroskopische Beurteilung
 

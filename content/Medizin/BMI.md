@@ -1,6 +1,6 @@
 ---
 aliases: Body Mass Index, Body-Mass-Index
-tags: m/m02, a/Intervention/Diagnostik, f/🩺
+tags: m/m02, Intervention, f/🩺
 ---
 ### Body Mass Index / BMI
 > **BMI** = kg / m$^{2}$

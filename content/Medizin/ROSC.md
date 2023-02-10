@@ -1,6 +1,6 @@
 ---
 aliases: Return of Spontaneus Circulation
-tags: m/m21, f/💤, a/Pathologie
+tags: m/m21, f/💤, Pathologie
 ---
 ### Return of Spontaneus Circulation / ROSC
 > Wiedereinsetzender Spontankreislauf während [[Reanimation]]

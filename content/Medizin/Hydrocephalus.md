@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Pathologie
+tags: m/m30, f/🧠, Pathologie
 ---
 ### Hydrocephalus
 > Symptomatische Erweiterung der [[Liquor]]räume

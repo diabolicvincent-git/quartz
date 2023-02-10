@@ -1,6 +1,6 @@
 ---
 aliases: Bronchial-Ca, Lungenkarzinom, Bronchialkarzinom
-tags: m/m19, a/Pathologie, f/🦀, f/🫁
+tags: m/m19, Pathologie, f/🦀, f/🫁
 ---
 ### Lungenkarzinom / Bronchialkarzinom
 - **Epidemiologie**:: 25% der Krebsmortalität; bei Diagnose 75% mit [[Metastasen]]

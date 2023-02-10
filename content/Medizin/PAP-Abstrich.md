@@ -1,6 +1,6 @@
 ---
 aliases: Cervixabstrich
-tags: m/m22, f/🦩, a/Intervention/Diagnostik
+tags: m/m22, f/🦩, Intervention
 ---
 ### Cervixabstrich / PAP-Abstrich
 > Cytologische Beurteilung von Präkanzerosen ([[Cervix-Ca]])

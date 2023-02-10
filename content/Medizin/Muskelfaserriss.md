@@ -1,6 +1,6 @@
 ---
 aliases: Faserriss
-tags: m/m27, a/Pathologie
+tags: m/m27, Pathologie
 ---
 ### Muskelfaserriss
 - **Symptome**:: Akut einsetzend, of am Ende der Belastung

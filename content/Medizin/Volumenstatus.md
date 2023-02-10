@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m14, m/m21, f/🍺, f/🫀, f/💤, a/Intervention/Diagnostik
+tags: m/m14, m/m21, f/🍺, f/🫀, f/💤, Intervention
 ---
 ### Volumenstatus
 - **Diagnostik**

@@ -1,6 +1,6 @@
 ---
 aliases: vWS
-tags: m/m08, m/m17, a/Pathologie, f/🩸, a/Pathologie
+tags: m/m08, m/m17, Pathologie, f/🩸, Pathologie
 ---
 ### von-Willebrand-Jürgens-Syndrom / vWS 
 > Häufigste angeborene [[Blutungsneigung]]: Blutungssymptome + quantitativer/qualitativer [[vWF]]-Mangel

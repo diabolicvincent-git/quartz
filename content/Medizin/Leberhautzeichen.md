@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, m/m21, f/💩, a/Pathologie
+tags: m/m12, m/m21, f/💩, Pathologie
 ---
 ### Leberhautzeichen
 > i.d.R. nur bei chronischem **[[Leberversagen]]** (außer [[Ikterus]])

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🗞️, a/Pathologie, f/🦀
+tags: m/m22, f/🗞️, Pathologie, f/🦀
 ---
 ### Phäochromocytom
 > [[Katecholamine]]-produzierender [[Tumor]] des [[Nebennierenmark]]

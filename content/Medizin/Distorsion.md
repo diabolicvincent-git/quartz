@@ -1,6 +1,6 @@
 ---
 aliases: Verstauchung
-tags: m/m27, a/Pathologie, f/🦴
+tags: m/m27, Pathologie, f/🦴
 ---
 ### Distorsion / Verstauchung
 > [[Kollagen]]-Überdehnung → Verletzung von Bänder/Gelenkkapsel

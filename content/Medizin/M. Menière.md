@@ -1,6 +1,6 @@
 ---
 aliases: Morbus Menière
-tags: m/m16, f/👂, a/Pathologie
+tags: m/m16, f/👂, Pathologie
 ---
 > (Abstract::**Anfallsartige Trias (Drehschwindel, [[Hörstörung]], Tinnitus).** Ätiologie unklar.)
 - **Epidemiologie**:: 40-50. LJ; [[♀]] > [[♂]] 

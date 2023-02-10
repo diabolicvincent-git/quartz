@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: m/m08, f/🩸, Übersicht
+tags: m/m08, f/🩸
 ---
 
 > Bezogen auf [[Antioxidative Schutzsysteme]] von [[Erythrocyten]]

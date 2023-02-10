@@ -1,6 +1,6 @@
 ---
 aliases: Sauerstoffpartialdruck
-tags: m/m13, f/🫁, a/Intervention/Diagnostik
+tags: m/m13, f/🫁, Intervention
 ---
 ### Sauerstoffpartialdruck / pO2
 > Anteiliger [[Partialdruck]] von [[O2]] im [[Blut]]

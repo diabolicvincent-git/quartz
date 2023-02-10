@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m16, f/🧠, f/👁️, f/👂, f/⚙️, a/Intervention/Diagnostik
+tags: m/m16, f/🧠, f/👁️, f/👂, f/⚙️, Intervention
 ---
 
 ### Vestibulo-oculärer [[Reflex]]  / VOR

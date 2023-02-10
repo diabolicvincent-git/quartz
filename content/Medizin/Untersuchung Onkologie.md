@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, a/Intervention/Diagnostik
+tags: m/m19, f/🦀, Intervention
 ---
 ## DD Leitsymptome
 - **Schwellung**

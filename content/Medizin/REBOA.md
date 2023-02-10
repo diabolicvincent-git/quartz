@@ -1,6 +1,6 @@
 ---
 aliases: Resuscitative Endocascular Balloon Occlusion of the Aorta
-tags: m/m00, f/💤, a/Intervention/Therapie
+tags: m/m00, f/💤, Intervention
 ---
 ### Resuscitative Endocascular Balloon Occlusion of the [[Aorta]] / REBOA
 > Verschluss der [[Aorta]] mittels Ballonkatheter → Blutungsstillung distal und bessere [[Perfusion]] von [[Herz]] und [[Gehirn]] proximal dessen

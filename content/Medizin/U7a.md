@@ -1,5 +1,5 @@
 ---
-tags: f/🦄/U-Untersuchung, a/Intervention/Diagnostik
+tags: f/🦄/U-Untersuchung, Intervention
 ---
 > (Abstract::**3. Jahr.** Fokus Entwicklungsstörung.)
 - **Diagnostik**

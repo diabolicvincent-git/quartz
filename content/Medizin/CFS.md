@@ -1,6 +1,6 @@
 ---
 aliases: Chronisches Fatigue Syndrom, Chronic Fatigue Syndrom
-tags: m/m21, f/💭, a/Pathologie
+tags: m/m21, f/💭, Pathologie
 ---
 ### Chronisches Fatigue Syndrom
 - **Epidemiologie**:: Prävalenz 0.3%, [[♀]]:[[♂]] 3:1

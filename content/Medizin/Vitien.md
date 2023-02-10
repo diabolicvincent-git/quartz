@@ -1,6 +1,6 @@
 ---
 aliases: Klappenfehler, Herzklappenfehler, Herzklappenvitien, Klappenvitien, Herzklappenerkrankungen, Klappenerkrankungen
-tags: m/m25, f/🫀, a/Pathologie
+tags: m/m25, f/🫀, Pathologie
 ---
 ### Herzklappenvitien
 - **Epidemiologie**:: Mitralklappeninsuffizienz > Aortenklappenstenose > Aortenklappeninsuffizienz

@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: a/Pathologie
+tags: Pathologie
 ---
 Wortkargheit trotz erhaltenen Sprachvermögens

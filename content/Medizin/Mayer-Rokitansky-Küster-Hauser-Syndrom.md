@@ -1,6 +1,6 @@
 ---
 aliases: MRKHS
-tags: m/m22, f/🦩, f/🐣, a/Pathologie
+tags: m/m22, f/🦩, f/🐣, Pathologie
 ---
 ### Mayer-Rokitansky-Küster-Hauser-Syndrom / MRKHS
 > 46,XX-[[DSD]] mit [[Fehlbildung]] [[♀]] Genitalorgane (Vaginalaplasie, rudimentäre Uterushörner)

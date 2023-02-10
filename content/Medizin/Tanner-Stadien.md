@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/🗞️, f/🦄, a/Intervention/Diagnostik, f/🦩, f/🍆
+tags: m/m21, f/🗞️, f/🦄, Intervention, f/🦩, f/🍆
 ---
 ### Tanner-Stadien
 > Einteilung physiologischer Entwicklungsstufen der **[[Pubertät]]**

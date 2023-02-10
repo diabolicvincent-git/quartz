@@ -1,6 +1,6 @@
 ---
 aliases: Schwerhörigkeit
-tags: m/m16, f/👂, a/Pathologie
+tags: m/m16, f/👂, Pathologie
 ---
 > (Abstract::**[[Schalleitungsstörung]] vs. [[Schallempfindungsstörung]].**)
 - **[[Schallempfindungsstörung]]**:: Störung von [[Innenohr]] / [[Cochlea]]

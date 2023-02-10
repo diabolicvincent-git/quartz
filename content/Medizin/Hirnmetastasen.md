@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🧠, f/🦀, m/m30
+tags: Pathologie, f/🧠, f/🦀, m/m30
 ---
 - **Ätiologie**:: [[Lungen-Ca]] > [[Mamma-Ca]] > [[Melanom]]
 - **Symptome**:: Akut, rasch progredient, [[Kopfschmerzen]], [[Parese]]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Intervention/Diagnostik
+tags: m/m30, f/🧠, Intervention
 ---
 > (Abstract::Diagnostik der [[SAB]] durch Blut in [[Liquorpunktion]])
 - Abnahme von 3 Röhrchen [[Liquor]]

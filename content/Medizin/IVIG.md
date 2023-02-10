@@ -1,6 +1,6 @@
 ---
 aliases: Intravenöse Immunglobuline
-tags: m/m17, f/💉, a/Intervention/Therapie
+tags: m/m17, f/💉, Intervention
 ---
 ### Intravenöse Immunglobuline / IVIG
 > Konzentrat humaner [[IgG]]-[[Antikörper]] (**Passive Impfung**)

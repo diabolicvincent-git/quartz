@@ -1,6 +1,6 @@
 ---
 aliases: QT, QTc, QTc-Zeit
-tags: m/m11, f/🫀, a/Intervention/Diagnostik
+tags: m/m11, f/🫀, Intervention
 ---
 ### QT-Zeit / QTc
 > Gesamte intraventrikuläre Erregungsdauer (Anfang [[QRS]] bis Ende [[T-Welle]])

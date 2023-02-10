@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: a/Pathologie
+tags: Pathologie
 ---
 Automatisches Nachsprechen von Gesagtem, ohne Rücksicht auf Inhalt und Sinn
 - **Ätiologie**

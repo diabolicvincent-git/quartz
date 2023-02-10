@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🧠
+tags: Pathologie, f/🧠
 ---
 > (Abstract::**Fehlen des [[Pupillenreflex]].** Meist einseitig.)
 - **Ätiologie**:: Schädigung [[Parasympathikus]]-[[Efferenzen]] ([[N. oculomotorius (III)]])

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, a/Pathologie
+tags: m/m13, f/🫁, Pathologie
 ---
 ### Pleuraerguss
 > Flüssigkeitsansammlung in [[Pleura]]höhle zwischen [[Lunge]] und Thoraxwand

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, a/Intervention/Therapie
+tags: m/m11, f/🫀, Intervention
 ---
 ### Valsalva-Manöver
 > (Abstract::Intrathorakaler Druck↑ / [[N. vagus (X)]]-Reizung → [[SVT]] Termination)

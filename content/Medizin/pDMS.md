@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, a/Intervention/Diagnostik
+tags: m/m27, Intervention
 ---
 ### pDMS
 > Periphere **Durchblutung, Motorik, Sensibilität**

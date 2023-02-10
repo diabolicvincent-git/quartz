@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🦩, a/Pathologie
+tags: m/m22, f/🦩, Pathologie
 ---
 (Abstract::Fehlende Menstruationsblutung)
 - **Einteilung**

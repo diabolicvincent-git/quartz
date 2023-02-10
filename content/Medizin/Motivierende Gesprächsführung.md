@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, f/💭, a/Intervention/Therapie
+tags: m/m00, f/💭, Intervention
 ---
 ### Motivierende Gesprächsführung
 - Exploration vorhandener Ambivalenzen: *Was hält Sie davon ab?*

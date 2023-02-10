@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, a/Pathologie
+tags: m/m27, Pathologie
 ---
 ### Muskelkater
 - **Ätiologie**:: v.a. Bewegung mit Bremskraft↑↑ (z.B. Bergabgehen, Sprünge, Richtungswechsel)

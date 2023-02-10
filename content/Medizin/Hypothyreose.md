@@ -1,6 +1,6 @@
 ---
 aliases: Kretinismus
-tags: m/m04, m/m17, m/m22, f/🗞️, a/Pathologie
+tags: m/m04, m/m17, m/m22, f/🗞️, Pathologie
 ---
 ### Hypothyreose / Schilddrüsenunterfunktion 
 - **Epidemiologie**:: 1-3%

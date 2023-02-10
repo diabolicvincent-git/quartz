@@ -1,6 +1,6 @@
 ---
 aliases: Herzrhythmusstörung, Herzrhythmusstörungen
-tags: m/m11, f/🫀, a/Pathologie
+tags: m/m11, f/🫀, Pathologie
 ---
 ### Herzrhythmusstörungen / HRST
 - **Ätiologie** 
@@ -11,7 +11,7 @@ tags: m/m11, f/🫀, a/Pathologie
 	- [[Tachykardie]]
 - **Symptome**
 	- *Allg.:* Oft asymptomatisch, ggf. Palpitationen, Herzrasen
-	- *[[HZV]]↓:* [[Herzinsuffizienz]], [[Synkope]], ==Adam-Stokes-Anfall==, [[Angina pectoris]], Kardiogener Schock
+	- *[[HZV]]↓:* [[Herzinsuffizienz]], [[Synkope]], ==[[Adams-Stokes-Anfall]]==, [[Angina pectoris]], Kardiogener Schock
 	- *[[Thrombose]]:* Arterielle Embolien, Organinfarkte
 - **Diagnostik**
 	- [[Anamnese]], [[Untersuchung Herz]]

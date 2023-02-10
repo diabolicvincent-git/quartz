@@ -1,6 +1,6 @@
 ---
 aliases: SPECT
-tags: m/m19, f/🦀, f/🕶️, a/Intervention/Diagnostik
+tags: m/m19, f/🦀, f/🕶️, Intervention
 ---
 ### Szintigraphie
 - **Durchführung**

@@ -1,6 +1,6 @@
 ---
 aliases: Allgemeinzustand
-tags: m/m00, a/Intervention/Diagnostik, f/🩺
+tags: m/m00, Intervention, f/🩺
 ---
 ### Allgemeinzustand / AZ
 > Reduzierter AZ / qualitative [[Bewusstseinsstörung]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: a/Intervention/Diagnostik, f/🩺, f/🩺/Befundbaustein
+tags: Intervention, f/🩺, f/🩺/Befundbaustein
 ---
 ### Körperliche Untersuchung
 1. **Ersteindruck**

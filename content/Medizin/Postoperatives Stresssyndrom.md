@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💭, f/💤, a/Pathologie
+tags: m/m20, f/💭, f/💤, Pathologie
 ---
 ### Postoperatives Stresssyndrom
 > [[Periphere Sensibilisierung]], Mediatoren → [[Hyperalgesie]] → [[Stress]]

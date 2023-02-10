@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/💤, a/Intervention/Diagnostik
+tags: m/m25, f/💤, Intervention
 ---
 ### Kardiales OP-Risiko
 - **Niedriges kardiales Risiko**

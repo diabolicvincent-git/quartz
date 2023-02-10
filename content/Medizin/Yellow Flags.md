@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/🩺, a/Intervention/Diagnostik
+tags: m/m20, f/🩺, Intervention
 ---
 ### Yellow Flags
 > Zeichen der Chronifizierung, insb. im Zusammenhang mit [[Somatisierung]]

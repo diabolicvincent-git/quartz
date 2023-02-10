@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, f/🦄, a/Intervention/Diagnostik, a/Intervention/Diagnostik/Score
+tags: m/m00, f/🦄, Intervention, Intervention
 ---
 > (Abstract::Beurteilung Neugeborene)
 

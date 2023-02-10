@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/🫁, a/Pathologie
+tags: m/m25, f/🫁, Pathologie
 ---
 > (Abstract::Unvollständig entfalteter, luftleerer [[Lunge]]nanteil)
 - **Ätiologie**

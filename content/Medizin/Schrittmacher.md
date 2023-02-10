@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/🫀, a/Intervention/Therapie, m/m11
+tags: f/🫀, Intervention, m/m11
 ---
 ### Schrittmacher
 

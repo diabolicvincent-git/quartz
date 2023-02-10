@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💤, a/Intervention/Diagnostik
+tags: m/m20, f/💤, Intervention
 ---
 ### Visuelle Analog-Skala / VAS
 > 🥰 (kein [[Schmerz]]) – 🤬 (stärkster [[Schmerz]])

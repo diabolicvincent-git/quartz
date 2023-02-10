@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/🫀, f/💤, a/Intervention/Therapie
+tags: m/m21, f/🫀, f/💤, Intervention
 ---
 **va[[ECMO]]**:: Ersatz von [[Herz]] und [[Lunge]]
 - **Entnahme**:: Rechter Vorhof via V. femoralis

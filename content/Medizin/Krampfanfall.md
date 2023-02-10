@@ -1,6 +1,6 @@
 ---
 aliases: Epileptischer Anfall
-tags: m/m15, m/m21, f/🧠, a/Pathologie, a/Pathologie
+tags: m/m15, m/m21, f/🧠, Pathologie, Pathologie
 ---
 ### Krampfanfall / Epileptischer Anfall
 - **Epidemiologie**:: Lebenszeitprävalenz 5%

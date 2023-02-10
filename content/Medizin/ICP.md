@@ -1,6 +1,6 @@
 ---
 aliases: Intrakranieller Druck, Hirndruck
-tags: m/m15, f/🧠, a/Intervention/Diagnostik
+tags: m/m15, f/🧠, Intervention
 ---
 > (Abstract::**Intrakranieller Druck.**)
 - **Normwert**:: <15 mmHg im Liegen

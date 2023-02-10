@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m09, f/🧴, a/Intervention/Therapie
+tags: m/m09, f/🧴, Intervention
 ---
 
 

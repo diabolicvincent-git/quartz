@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/🩸, a/Intervention/Therapie
+tags: m/m21, f/🩸, Intervention
 ---
 ### Blutprodukte
 - **Korpuskuläre [[Transfusion]]spräparate**

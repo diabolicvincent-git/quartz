@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, a/Pathologie
+tags: m/m12, f/💩, Pathologie
 ---
 - **Ätiologie**
 	- **[[Leber]]**:: [[Leberzirrhose]], [[Leberversagen]], [[Portale Hypertension]]

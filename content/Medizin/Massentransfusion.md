@@ -1,5 +1,5 @@
 ---
-tags: f/⛑️, f/💤, a/intervention/therapie, f/🩸/Transfusion
+tags: f/⛑️, f/💤, Intervention, f/🩸/Transfusion
 ---
 - **Indikation**:: Schwerste akute Blutung mit [[Hämorrhagischer Schock]] + [[Hämodynamische Instabilität]], [[Azidose]], unkontrollierte Blutung oder Blutverlust erwartet >1x Blutvolumen
 - **Durchführung**

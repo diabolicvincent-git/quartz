@@ -1,6 +1,6 @@
 ---
 aliases: Hauttypen
-tags: m/m09, f/🧴, a/Intervention/Diagnostik
+tags: m/m09, f/🧴, Intervention
 ---
 ### Hauttypen n. Flitzpatrick
 | Merkmal                               | I                  | II                      | III                | IV             | V                    | VI                   |

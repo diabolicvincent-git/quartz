@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/💉
+tags: Pathologie, f/💉
 ---
 > (Abstract::**Selten, nur bei unbehandelter [[Gicht]].**)
 - **Symptome**:: Rezidivierende [[Gicht]]-Anfälle + Tophus-Ablagerungen in [[Ohr]], [[Sehnen]], [[Bursa]] (multiple weiß schimmernde Knötchen)

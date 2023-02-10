@@ -1,6 +1,6 @@
 ---
 aliases: Gesundheitsförderung
-tags: m/m06, m/m19, f/📊, a/Intervention/Therapie
+tags: m/m06, m/m19, f/📊, Intervention
 ---
 ### Prävention / Gesundheitsförderung
 - **Primärprävention**:: Verhindern von Erkrankungen (z.B. [[Impfung]], Postexpositionsprophylaxe)

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/🫀, a/Pathologie
+tags: f/🫀, Pathologie
 ---
 ### Hypertrophe [[Kardiomyopathie]]
 > Es zählt nur [[Hypertrophie]], die **nicht** durch Druck-/Volumenbelastung zustande kommt

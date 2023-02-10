@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m05, m/m17, f/🧬, a/Pathologie
+tags: m/m05, m/m17, f/🧬, Pathologie
 ---
 ### Marfan-Syndrom 
 > Fibrillin-[[Mutation]] → [[Bindegewebe]]-Defekte

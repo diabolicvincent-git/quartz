@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/👁️
+tags: Pathologie, f/👁️
 ---
 > (Abstract::**Ablösung [[Retina]] von Pigmentepithel → [[Gesichtsfeldausfall]].**)
 - **Epidemiologie**::

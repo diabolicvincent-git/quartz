@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m02, f/🩸, a/Pathologie
+tags: m/m02, f/🩸, Pathologie
 ---
 ### Sichelzellanämie 
 > Qualitative Blutbildungsstörung

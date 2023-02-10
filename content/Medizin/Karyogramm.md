@@ -1,6 +1,6 @@
 ---
 aliases: Cytogenetik
-tags: m/m02, f/🧬, a/Intervention/Diagnostik
+tags: m/m02, f/🧬, Intervention
 ---
 
 ### Karyogramm / Cytogenetik 

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💭, a/Intervention/Therapie
+tags: m/m20, f/💭, Intervention
 ---
 ### Psychotherapie
 - **Verfahren**

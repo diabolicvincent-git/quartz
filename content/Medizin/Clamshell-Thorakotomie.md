@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/⛑️, f/🔪, a/Intervention/Therapie
+tags: f/⛑️, f/🔪, Intervention
 ---
 ### Clamshell-Thorakotomie
 

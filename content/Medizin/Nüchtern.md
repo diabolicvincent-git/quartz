@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/💤, a/Intervention/Therapie
+tags: m/m26, f/💤, Intervention
 ---
 ### Nüchtern
 - **Präoperative Nüchternzeiten**

@@ -1,6 +1,6 @@
 ---
 aliases: Arias-Syndrom
-tags: m/m26, a/Pathologie, f/💩
+tags: m/m26, Pathologie, f/💩
 ---
 ### Cirgler-Najjar-Syndrom
 - **Ätiologie**:: Autosomal-rezessiver Funktionsverlust (Typ I) / -minderung (Typ II / Arias-Syndrom) der ==UDP-Glucoronyltransferase==

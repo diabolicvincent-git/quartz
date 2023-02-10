@@ -1,6 +1,6 @@
 ---
 aliases: Digitale Subtraktionsangiographie
-tags: m/m15, a/Intervention/Diagnostik, f/🕶️
+tags: m/m15, Intervention, f/🕶️
 ---
 ### Digitale Subtraktions[[Angiographie]] / DSA
 - **Durchführung**

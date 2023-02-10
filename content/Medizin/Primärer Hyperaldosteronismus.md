@@ -1,6 +1,6 @@
 ---
 aliases: Conn-Syndrom, M. Conn
-tags: m/m14, f/🗞️, a/Pathologie
+tags: m/m14, f/🗞️, Pathologie
 ---
 ### Primärer [[Hyperaldosteronismus]] / M. Conn
 > Adenom der [[NNR]] → autonome [[Aldosteron]]-Synthese

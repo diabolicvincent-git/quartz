@@ -1,6 +1,6 @@
 ---
 aliases: Subdurales Hämatom, Subduralblutung, SDH
-tags: m/m15, f/🧠, a/Pathologie
+tags: m/m15, f/🧠, Pathologie
 ---
 ### Subduralhämatom / SDH
 > Venöse [[Intrakranielle Blutung]] im [[Subduralraum]]

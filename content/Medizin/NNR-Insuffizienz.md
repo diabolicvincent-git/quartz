@@ -1,6 +1,6 @@
 ---
 aliases: Hypocortisolismus, Nebennierenrindeninsuffizienz
-tags: m/m22, f/🗞️, a/Pathologie
+tags: m/m22, f/🗞️, Pathologie
 ---
 ### Nebennierenrindeninsuffizienz / Hypocortisolismus
 - **Ätiologie**

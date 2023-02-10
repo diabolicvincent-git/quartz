@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m01, f/🔪, f/💤, a/Pathologie
+tags: m/m01, f/🔪, f/💤, Pathologie
 ---
 ### Thoraxtrauma
 - **Verletzungen des Brustkorb**

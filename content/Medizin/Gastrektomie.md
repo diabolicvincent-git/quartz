@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, a/Intervention/Therapie
+tags: m/m26, Intervention
 ---
 ### Gastrektomie
 > R0-Resektion des [[Magen]] mit [[Omentum majus]] + D2-Lymphadenektomie

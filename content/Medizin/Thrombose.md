@@ -1,6 +1,6 @@
 ---
 aliases: TVT, Phlebothrombose, Tiefe Beinvenenthrombose
-tags: m/m17, a/Pathologie, f/🩸, f/🫀, a/Pathologie
+tags: m/m17, Pathologie, f/🩸, f/🫀, Pathologie
 ---
 ### Thrombose / Phlebothrombose / TVT 
 - **Ätiologie**

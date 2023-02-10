@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m20, a/Intervention/Therapie, f/💤
+tags: m/m20, Intervention, f/💤
 ---
 (Abstract::[[Analgetika]] + Narkotika → Toleranzerhöhung, Spontanatmung erhalten)
 - **Wirkstoffe**

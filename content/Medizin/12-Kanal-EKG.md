@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, a/Intervention/Diagnostik
+tags: m/m11, f/🫀, Intervention
 ---
 > (Abstract::**Standard-[[EKG]] mit 10 Elektroden.**)
 - **Ableitungen**

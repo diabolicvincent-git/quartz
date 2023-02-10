@@ -1,6 +1,6 @@
 ---
 aliases: Kussmaul-Atmung
-tags: m/m13, f/🫁, a/Pathologie
+tags: m/m13, f/🫁, Pathologie
 ---
 ### Kußmaul-Atmung
 > Vertiefte Atemzüge

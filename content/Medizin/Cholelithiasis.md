@@ -1,6 +1,6 @@
 ---
 aliases: Gallensteine
-tags: m/m12, f/💩, f/💩, a/Pathologie
+tags: m/m12, f/💩, f/💩, Pathologie
 ---
 ### Cholelithiasis / Gallensteine
 - **Ätiologie**

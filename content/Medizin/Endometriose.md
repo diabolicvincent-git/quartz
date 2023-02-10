@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🦩, f/🦀, a/Pathologie
+tags: m/m22, f/🦩, f/🦀, Pathologie
 ---
 ### Endometriose
 > Vorkommen von Endometrium-Zellen außerhalb der [[Uterus]]schleimhaut

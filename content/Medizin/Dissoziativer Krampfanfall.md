@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/💭, m/m31, f/🧠]
+tags: [Pathologie, f/💭, m/m31, f/🧠]
 ICD: "F44.5"
 ---
 -|Eher [[Dissoziativer Krampfanfall]]|Eher [[Krampfanfall]]

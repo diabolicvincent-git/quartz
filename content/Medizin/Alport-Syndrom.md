@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m05, f/🧬, a/Pathologie, f/🍺
+tags: m/m05, f/🧬, Pathologie, f/🍺
 ---
 **Gruppe**:: [[Genetische Erkrankungen]]
 

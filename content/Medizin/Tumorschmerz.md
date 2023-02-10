@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/🦀, a/Pathologie, f/💤
+tags: m/m20, f/🦀, Pathologie, f/💤
 ---
 ### Tumorschmerz
 - **Epidemiologie**:: Fast alle Pat. mit [[Tumor]]-Erkrankung

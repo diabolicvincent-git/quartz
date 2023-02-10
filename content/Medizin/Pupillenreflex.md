@@ -1,6 +1,6 @@
 ---
 aliases: Pupillenreaktion
-tags: m/m15, m/m16, m/m21, f/⚙️, f/🧠, f/👁️, a/Intervention/Diagnostik
+tags: m/m15, m/m16, m/m21, f/⚙️, f/🧠, f/👁️, Intervention
 ---
 > (Abstract::[[Hirnstammreflexe]] zur Anpassung der Pupillenweite an Lichtverhältnisse)
 - **Verschaltung**

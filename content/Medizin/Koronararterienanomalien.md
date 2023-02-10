@@ -1,6 +1,6 @@
 ---
 aliases: Bland-White-Garland-Syndrom, ALCAPA
-tags: m/m25, f/🫀, f/🦄, a/Pathologie
+tags: m/m25, f/🫀, f/🦄, Pathologie
 ---
 ### Koronararterienanomalien
 - **Formen**

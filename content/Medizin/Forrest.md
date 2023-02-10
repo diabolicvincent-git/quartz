@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/💩, a/Intervention/Diagnostik
+tags: m/m26, f/💩, Intervention
 ---
 ### Forrest-Klassifikation
 > Klasisifkation der **[[GI-Blutung]]** in Endoskopie

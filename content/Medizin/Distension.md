@@ -1,6 +1,6 @@
 ---
 aliases: Zerrung
-tags: m/m27, a/Pathologie, f/🦴
+tags: m/m27, Pathologie, f/🦴
 ---
 ### Zerrung / Distension
 - **Pathophysiologie**:: Unphysiologische Muskeldehnung → [[Ödeme]]

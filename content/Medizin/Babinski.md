@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m15, m/m21, f/🧠, f/⚙️, a/Pathologie
+tags: m/m15, m/m21, f/🧠, f/⚙️, Pathologie
 ---
 ### Babinski-[[Reflex]]
 > **Pathologischer Primitivreflex**:: Auslösbar bei Wegfall der zentralen Hemmung (*==[[Pyramidenbahnzeichen]]==*)

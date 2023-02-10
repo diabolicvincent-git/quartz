@@ -1,6 +1,6 @@
 ---
 aliases: Zentraler Venendruck
-tags: m/m11, f/🫀, f/💤, a/Intervention/Diagnostik
+tags: m/m11, f/🫀, f/💤, Intervention
 ---
 ### Zentraler Venendruck / ZVD
 > [[Blutdruck]] in rechtem Vorhof und [[V. cava]]

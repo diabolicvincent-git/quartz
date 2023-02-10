@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🦠, f/👁️
+tags: Pathologie, f/🦠, f/👁️
 ---
 > (Abstract::**Zoonose durch [[Toxoplasma gondii]].**)
 - **Epidemiologie**:: Durchseuchung 50%

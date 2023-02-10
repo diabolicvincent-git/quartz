@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m31, f/💭, a/Pathologie]
+tags: [m/m31, f/💭, Pathologie]
 ---
 - **Epidemiologie**:: [[♀]]>>[[♂]] 10:1, Häufigkeitsgipfel 20-24 J.
 - **Symptome**:: ==Essanfälle ≥2x/Woche + zwanghaftes Nahrungsverlangen + selbstinduzierte Gewichtsreduktion (oft: selbstinduziertes Erbrechen) + Körperschemastörung==, aber Normalgewicht

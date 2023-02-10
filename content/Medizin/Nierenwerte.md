@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/🥼, a/Intervention/Diagnostik
+tags: m/m14, f/🍺, f/🥼, Intervention
 ---
 ### Nierenwerte
 - **[[Kreatinin]]**

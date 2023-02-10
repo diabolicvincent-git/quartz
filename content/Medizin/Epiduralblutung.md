@@ -1,6 +1,6 @@
 ---
 aliases: Epidurales Hämatom, Epiduralhämatom, EDH
-tags: m/m15, f/🧠, a/Pathologie
+tags: m/m15, f/🧠, Pathologie
 ---
 > *Arterielle [[Blutung]]* im [[Epiduralraum]]
 ### Ätiologie

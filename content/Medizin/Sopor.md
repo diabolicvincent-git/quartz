@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/🧠/Vigilanzminderung, m/m30]
+tags: [Pathologie, f/🧠/Vigilanzminderung, m/m30]
 ICD: ""
 ---
 > (Abstract::Mittelschwere [[Vigilanzminderung]], erweckbar auf Schmerzreiz)

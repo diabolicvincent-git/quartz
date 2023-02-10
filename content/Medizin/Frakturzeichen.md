@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, a/Pathologie, f/🦴
+tags: m/m27, Pathologie, f/🦴
 ---
 ### Frakturzeichen
 - **Unsicher**:: [[Schmerz]], Schwellung, [[Hämatom]], Bewegungseinschränkung

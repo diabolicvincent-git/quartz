@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/⛑️, a/Intervention/Therapie
+tags: f/⛑️, Intervention
 ---
 ### Thoraxentlastungspunktion
 

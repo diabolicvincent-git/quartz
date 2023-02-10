@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, m/m29, f/👁️
+tags: Pathologie, m/m29, f/👁️
 ---
 > (Abstract::**Bindehautentzündung ([[Conjunctiva]]).**)
 - **Ätiologie**

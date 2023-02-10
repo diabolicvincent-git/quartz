@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: m/m11, f/🫀, a/Pathologie
+tags: m/m11, f/🫀, Pathologie
 ---
 ### Okklusiver Myokardinfarkt / OMI
 - **Symptome**

@@ -1,6 +1,6 @@
 ---
 aliases: Androgenrezeptor-Defekt, Androgenrezeptordefekt
-tags: m/m22, f/🦩, a/Pathologie, f/🗞️
+tags: m/m22, f/🦩, Pathologie, f/🗞️
 ---
 (Abstract::46,XY-[[DSD]] (♂ Genotyp, [[♀]] Phänotyp))
 - **Ätiologie**:: X-chromosomal rezessiver ==Androgenrezeptordefekt==

@@ -1,6 +1,6 @@
 ---
 aliases: HBV
-tags: m/m19, f/🦠/Reiseimpfung, f/💩, a/Pathologie, f/🦠/Erreger/Viren
+tags: m/m19, f/🦠/Reiseimpfung, f/💩, Pathologie, f/🦠/Erreger/Viren
 ---
 - **Epidemiologie**:: Ubiquitär verbreitet, insb. Afrika+Asien
 - **Pathophysiologie**:: HBV-[[Antigenpräsentation]] → Zerstörung von Hepatocyten durch cytotoxische [[T-Zellen]] → i.d.R. Ausheilung

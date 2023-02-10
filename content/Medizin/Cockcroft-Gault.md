@@ -1,4 +1,4 @@
 ---
 aliases: 
-tags: a/Intervention/Diagnostik
+tags: Intervention
 ---

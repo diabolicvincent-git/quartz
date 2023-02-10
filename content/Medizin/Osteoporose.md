@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m05, m/m10, f/🦴, f/🗞️, a/Pathologie
+tags: m/m05, m/m10, f/🦴, f/🗞️, Pathologie
 ---
 ### Osteoporose 
 > Unzureichende Knochenfestigkeit durch organischen ([[Kollagen]], Proteoglycan) und anorganischen ([[Ca2+]], [[Phosphat]]) Materialschwund

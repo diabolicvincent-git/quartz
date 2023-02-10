@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, f/💤, a/Intervention/Therapie
+tags: m/m13, f/🫁, f/💤, Intervention
 ---
 ### Continuous Positive Airway Pressure / CPAP
 > Spontanatmung mit kontinuierlichem [[PEEP]]

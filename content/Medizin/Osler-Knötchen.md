@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/🧴, f/🫀, a/Pathologie
+tags: m/m25, f/🧴, f/🫀, Pathologie
 ---
 ### Osler-Knötchen
 > Fakultatives Symptom bei [[Endokarditis]]

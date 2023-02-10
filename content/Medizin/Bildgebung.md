@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, m/m21, f/🕶️, a/Intervention/Diagnostik
+tags: m/m00, m/m21, f/🕶️, Intervention
 ---
 - [[Sonographie]]
 - [[Röntgen]]

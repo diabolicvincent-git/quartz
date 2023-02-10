@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, a/Intervention/Diagnostik/Score
+tags: m/m19, f/🦀, Intervention
 ---
 ### TNM-Klassifikation
 > Systematik zum [[Staging]] von [[Tumor]]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/💭, m/m31]
+tags: [Pathologie, f/💭, m/m31]
 ICD: "F40-F41"
 ---
 - **Entitäten**

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Intervention/Diagnostik
+tags: m/m11, f/🫀, Intervention
 ---
 ### Kardiovaskuläre Risikofaktoren
 - **Beeinflussbare Hauptrisikofaktoren**

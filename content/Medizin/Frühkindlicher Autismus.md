@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🦄, f/🧬
+tags: Pathologie, f/🦄, f/🧬
 ---
 **Gruppe**:: [[Autismus-Spektrum-Störung]]
 > (Abstract::[[Tiefgreifende Entwicklungsstörung]] mit Defiziten in sozialer Interaktion, Kommunikation und stereotypen Verhaltensmustern, oft mit Intelligenzminderung und Sprachentwicklungsstörung.)

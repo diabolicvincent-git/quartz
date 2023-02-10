@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, a/Intervention/Diagnostik, f/🫁
+tags: m/m13, Intervention, f/🫁
 ---
 ### Tiffeneau-Test
 > Insb. zum Nachweis von [[Obstruktive Ventilationsstörung]]

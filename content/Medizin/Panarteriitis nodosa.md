@@ -1,6 +1,6 @@
 ---
 aliases: Polyarteriitis nodosa
-tags: m/m17, f/💉, a/Pathologie
+tags: m/m17, f/💉, Pathologie
 ---
 ### Panarteriitis nodosa
 > [[Vaskulitis]] > Mittlere [[Gefäße]] > [[Panarteriitis nodosa]] (==[[Hepatitis]]-assoziiert==)

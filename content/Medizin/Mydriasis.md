@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m16, f/👁️, a/Pathologie
+tags: m/m16, f/👁️, Pathologie
 ---
 **Mydriasis**:: Pupillen-Weitstellung bei Dunkelheit oder [[ICP]]↑[^1] (==[[Sympathikus]]↑==)
 

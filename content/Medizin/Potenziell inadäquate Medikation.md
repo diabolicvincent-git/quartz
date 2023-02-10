@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: a/Intervention/Therapie
+tags: Intervention
 ---
 - Arzneistoffe, die bei geriatrischen Patienten
 	- hohes Risiko für UAW bergen und für die es besser geeignete Alternativen gibt

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/🦠, a/Pathologie
+tags: m/m26, f/🦠, Pathologie
 ---
 ### M. Whipple
 - **Epidemiologie**:: Sehr selten, 30-60 Jahre, v.a. ♂

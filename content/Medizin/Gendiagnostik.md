@@ -1,6 +1,6 @@
 ---
 aliases: Genetische Diagnostik
-tags: m/m02, m/m17, f/🧬, a/Intervention/Diagnostik
+tags: m/m02, m/m17, f/🧬, Intervention
 ---
 ### Gendiagnostik / Genetische Diagnostik 
 > Humangenetische Verfahren zur Diagnose von *monogenen* [[Genetische Erkrankungen]]

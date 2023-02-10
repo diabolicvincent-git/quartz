@@ -1,5 +1,5 @@
 ---
-tags: f/⛑️, f/💤, a/intervention/therapie
+tags: f/⛑️, f/💤, Intervention
 aliases: Nasopharyngealtubus
 ---
 > (Abstract::**Nasopharyngealtubus.**)

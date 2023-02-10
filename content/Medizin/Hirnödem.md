@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🧠
+tags: Pathologie, f/🧠
 ---
 > (Abstract::Cerebrale Flüssigkeitseinlagerung)
 - **Entitäten**

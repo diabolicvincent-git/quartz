@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🦠, f/👁️
+tags: Pathologie, f/🦠, f/👁️
 ---
 > (Abstract::**[[Herpes zoster]] mit Befall [[N. ophthalmicus (V1)]].**)
 - **Symptome**:: [[Effloreszenzen]]/[[Schmerz]]/Sensibilität↓ in Stirn, Nasenrücken, Nasenspitze

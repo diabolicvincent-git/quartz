@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, a/Intervention/Diagnostik, f/🥼
+tags: m/m19, f/🦀, Intervention, f/🥼
 ---
 ### Tumormarker
 > v.a. Verlaufsparamter

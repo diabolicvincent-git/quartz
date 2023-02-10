@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m21, m/m29, f/💤, f/⛑️, a/Intervention/Therapie
+tags: m/m21, m/m29, f/💤, f/⛑️, Intervention
 ---
 ### Intubation
 

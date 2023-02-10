@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/🧠, a/Pathologie
+tags: m/m21, f/🧠, Pathologie
 ---
 ### Cerebrale Einklemmung
 > **[[Hirndruckzeichen]]** bei Einklemmung von [[Diencephalon]] und [[Hirnstamm]]

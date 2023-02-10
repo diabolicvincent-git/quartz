@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/💤
+tags: Pathologie, f/💤
 ---
 > (Abstract::)
 - **Ätiologie**:: [[Nekrose]] insb. bei [[Barbiturate]], [[Benzodiazepine]], [[Cytostatika]], [[Antibiotika]], [[Glucocorticoide]]

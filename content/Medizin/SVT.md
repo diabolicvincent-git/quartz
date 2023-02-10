@@ -1,6 +1,6 @@
 ---
 aliases: Supraventrikuläre Tachykardie
-tags: m/m25, f/🫀, a/Pathologie
+tags: m/m25, f/🫀, Pathologie
 ---
 ### Supraventrikuläre Tachykardie / SVT
 > **= Schmalkomplex-[[Tachykardie]]** (QRS ≤120 ms)

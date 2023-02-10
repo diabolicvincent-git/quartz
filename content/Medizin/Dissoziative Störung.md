@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/💭, m/m31]
+tags: [Pathologie, f/💭, m/m31]
 ICD: "F44"
 ---
 > (Abstract::Körperliche Symptome (z.B. Lähmung, Sinnesausfall, [[Sensibilitätsstörung]]) ohne organisches Korrelat)

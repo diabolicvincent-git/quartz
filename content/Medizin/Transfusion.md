@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m08, m/m21, f/🩸/Transfusion, f/💤, a/Intervention/Therapie
+tags: m/m08, m/m21, f/🩸/Transfusion, f/💤, Intervention
 ---
 - **Wichtigste [[Blutprodukte]]**
 	- [[EK]]

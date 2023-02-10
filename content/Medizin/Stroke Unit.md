@@ -1,5 +1,5 @@
 ---
-tags: a/Intervention, f/🧠
+tags: Intervention, f/🧠
 ---
 > (Abstract::Strukturierte Versorgung in Frühphase nach [[Stroke]])
 - **Besonderheiten**

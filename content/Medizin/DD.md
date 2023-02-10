@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m00, m/m21, a/Intervention/Diagnostik, f/🩺
+tags: m/m00, m/m21, Intervention, f/🩺
 ---
 > (Abstract::**Differentialdiagnostik.**)
 - **Strategien zur Orientierung**

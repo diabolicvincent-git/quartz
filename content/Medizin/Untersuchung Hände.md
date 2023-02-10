@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, m/m17, f/🧴, f/💉, a/Intervention/Diagnostik
+tags: m/m00, m/m17, f/🧴, f/💉, Intervention
 ---
 ### [[Untersuchung]] Hände
 - **Inspektion**

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, a/Intervention/Therapie, f/🦴
+tags: m/m27, Intervention, f/🦴
 ---
 ### Osteosynthese
 > Operative [[Fraktur]]versorgung mit Einbringen von Fremdmaterial

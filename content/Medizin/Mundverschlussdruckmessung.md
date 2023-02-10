@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Intervention/Diagnostik
+tags: m/m13, f/🫁, Intervention
 ---
 - Bestimmung von *maximaler Atemmuskelkraft* und *Beanspruchung der [[Atemmuskulatur]]*
 - Verlaufskontrolle z.B. bei neuromuskulären Erkrankungen

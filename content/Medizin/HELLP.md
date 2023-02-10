@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🦩
+tags: Pathologie, f/🦩
 ---
 > (Abstract::**[[Hämolyse]], erhöhte [[Leberwerte]], low platelets ([[Thrombopenie]]).** [[Hypertensive Schwangerschaftserkrankungen]].)
 - **Symptome**:: ==Oberbauchschmerzen== rechts, Übelkeit, [[Anämie]], [[Proteinurie]], [[aHTN]], [[Sehstörung]], [[Ikterus]]

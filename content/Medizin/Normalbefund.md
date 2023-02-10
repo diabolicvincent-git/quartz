@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, a/Intervention/Diagnostik
+tags: m/m00, Intervention
 ---
 - **Ersteindruck**
 

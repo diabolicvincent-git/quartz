@@ -1,6 +1,6 @@
 ---
 aliases: Enzephalitis
-tags: m/m15, m/m18, f/🧠, f/🦠, a/Pathologie
+tags: m/m15, m/m18, f/🧠, f/🦠, Pathologie
 ---
 ### Encephalitis
 - **Ätiologie**

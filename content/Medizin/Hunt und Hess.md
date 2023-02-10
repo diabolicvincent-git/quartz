@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Intervention/Diagnostik
+tags: m/m30, f/🧠, Intervention
 ---
 ### Hunt und Hess
 > Klassifikation der [[SAB]] mit ansteigender Letalität

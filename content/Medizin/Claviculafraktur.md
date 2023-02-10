@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, f/🦴, a/Pathologie
+tags: m/m27, f/🦴, Pathologie
 ---
 ## Claviculafraktur
 - **Epidemiologie**

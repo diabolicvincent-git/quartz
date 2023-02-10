@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m08, m/m17, f/🩸, a/Pathologie
+tags: m/m08, m/m17, f/🩸, Pathologie
 ---
 ### Hämophilie
 - **Epidemiologie**:: Prävalenz 1:6.000, A:B 5:1, überwiegend [[♂]] 

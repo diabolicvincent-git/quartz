@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m17, f/🗞️, f/🧠, a/Pathologie
+tags: m/m17, f/🗞️, f/🧠, Pathologie
 ---
 ### Coma diabeticum
 > Unbehandelter [[Diabetes mellitus]] → [[Hyperglycämie]]

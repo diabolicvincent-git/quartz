@@ -1,6 +1,6 @@
 ---
 aliases: Quick-Wert, Thromboplastinzeit, TPZ, Prothrombinzeit
-tags: m/m08, f/🩸, a/Intervention/Diagnostik
+tags: m/m08, f/🩸, Intervention
 ---
 ### Quick-Wert / Thromboplastinzeit / TPZ 
 - **Normwert**:: 70-130% (↓ = verlängerte [[Hämostase]])

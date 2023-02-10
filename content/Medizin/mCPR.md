@@ -1,6 +1,6 @@
 ---
 aliases: Mechanische Reanimationshilfe
-tags: f/⛑️, a/Intervention/Therapie
+tags: f/⛑️, Intervention
 ---
 ### mCPR
 

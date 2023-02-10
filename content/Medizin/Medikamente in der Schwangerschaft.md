@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m33, a/Intervention/Therapie
+tags: m/m33, Intervention
 ---
 ### Medikamente in der [[Schwangerschaft]]
 > www.embryotox.de

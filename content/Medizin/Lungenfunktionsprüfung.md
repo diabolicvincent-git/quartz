@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Intervention/Diagnostik
+tags: m/m13, f/🫁, Intervention
 ---
 ![[Fluss-Volumen-Diagramm]]
 ![[Spirometrie]]

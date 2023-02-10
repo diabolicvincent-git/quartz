@@ -3,7 +3,7 @@ aliases:
   - Hörgerät
   - Hörimplantat
   - Hörimplantate
-tags: m/m16, f/👂, a/Intervention/Therapie
+tags: m/m16, f/👂, Intervention
 ---
 in Grundzügen den Aufbau, die Funktion und die Einsatzmöglichkeiten von [[Cochlea]]-Implantaten beschreiben können.
 Prinzipien und Funktionsweise von Hörgeräten erläutern können.

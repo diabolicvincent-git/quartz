@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m24, a/Pathologie, f/🫁
+tags: m/m24, Pathologie, f/🫁
 ---
 ### Bronchitis
 - **Ätiologie**

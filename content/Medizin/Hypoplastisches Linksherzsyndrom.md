@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/🫀, f/🦄, a/Pathologie
+tags: m/m25, f/🫀, f/🦄, Pathologie
 ---
 ### Hypoplastisches Linksherzsyndrom
 > Hochgradige Stenose/Atresie von [[Aortenklappe]]+[[Mitralklappe]] und Hypoplasie von linker Ventrikel

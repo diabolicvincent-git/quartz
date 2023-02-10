@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Pathologie
+tags: m/m11, f/🫀, Pathologie
 ---
 ### Hypotonie
 > [[RR]] <100/60 mmHg

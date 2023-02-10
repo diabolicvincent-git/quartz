@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m09, f/🧴, f/⛑️/SOP, a/Pathologie
+tags: m/m09, f/🧴, f/⛑️/SOP, Pathologie
 ---
 (Abstract::Akute, lebensgefährliche [[Allergie]])
 - **Ätiologie**:: Nahrungsmittel (v.a. Kinder), Insektengift, Medikamente

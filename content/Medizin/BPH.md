@@ -1,6 +1,6 @@
 ---
 aliases: Benigne Prostatahyperplasie, BPS, Benignes Prostatasyndrom
-tags: m/m22, f/🍆, a/Pathologie
+tags: m/m22, f/🍆, Pathologie
 ---
 ### Benignes Prostatasyndrom / BPS
 - **Symptome**:: Miktionsbeschwerden

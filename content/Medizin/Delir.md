@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💭, f/🧠, f/💤, a/Pathologie
+tags: m/m20, f/💭, f/🧠, f/💤, Pathologie
 ---
 - **Epidemiologie**:: 30% [[ITS]]-Pat, 30% Ü65, 80% Beatmete
 - **Ätiologie**

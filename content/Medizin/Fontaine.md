@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, a/Intervention/Diagnostik
+tags: m/m27, Intervention
 ---
 ### Fontaine-Stadien der [[pAVK]]
 - **I°**:: Beschwerdefreiheit

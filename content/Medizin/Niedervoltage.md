@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Pathologie
+tags: m/m11, f/🫀, Pathologie
 ---
 ### Niedervoltage
 > Kleine [[QRS]]-Amplituden im [[EKG]]

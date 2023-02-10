@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m14, a/Intervention/Diagnostik
+tags: m/m14, Intervention
 ---
 ### Passive Leg Raise Test
 - **Durchführung**

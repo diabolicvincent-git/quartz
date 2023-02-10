@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m14, f/🗞️, a/Pathologie
+tags: m/m14, f/🗞️, Pathologie
 ---
 ### Hyperparathyreoidismus / Nebenschilddrüsenüberfunktion
 > [[PTH]]↑↑

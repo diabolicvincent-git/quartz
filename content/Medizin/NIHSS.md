@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Intervention/Diagnostik
+tags: m/m30, f/🧠, Intervention
 ---
 ### NIHSS
 > Beurteilung [[Stroke]]-Schweregrad

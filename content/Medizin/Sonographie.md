@@ -1,6 +1,6 @@
 ---
 aliases: Ultraschall, POCUS
-tags: m/m00, f/🕶️/Standardbildgebung, a/Intervention/Diagnostik
+tags: m/m00, f/🕶️/Standardbildgebung, Intervention
 ---
 > (Abstract::[[Piezoelektrischer Effekt]] → hochfrequenter Ultraschall)
 - **Einstellungen**

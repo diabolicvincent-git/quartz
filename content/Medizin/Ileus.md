@@ -1,6 +1,6 @@
 ---
 aliases: Darmverschluss, Subileus, Bridenileus
-tags: m/m12, f/💩, a/Pathologie
+tags: m/m12, f/💩, Pathologie
 ---
 ### Ileus / Darmverschluss
 - **Ätiologie**

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, a/Pathologie
+tags: m/m13, f/🫁, Pathologie
 ---
 (Abstract::Luft im Pleuraspalt, traumatisch/spontan, Komplikation [[Spannungspneumothorax]])
 - **Ätiologie**:: spontan, traumatisch, iatrogen

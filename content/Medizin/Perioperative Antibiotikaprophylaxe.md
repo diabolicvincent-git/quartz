@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/💤, a/Intervention/Therapie
+tags: m/m25, f/💤, Intervention
 ---
 ### Perioperative Antibiotikaprophylaxe
 > [[i.v.]] ==Single-Shot== [[Antibiotika]]-Gabe

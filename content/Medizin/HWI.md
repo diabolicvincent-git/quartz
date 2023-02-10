@@ -1,6 +1,6 @@
 ---
 aliases: Harnwegsinfektion
-tags: m/m14, m/m18, a/Pathologie
+tags: m/m14, m/m18, Pathologie
 ---
 ### Harnwegsinfektion / HWI
 - **Epidemiologie**:: Zweithäufigste [[Nosokomiale Infektion]]

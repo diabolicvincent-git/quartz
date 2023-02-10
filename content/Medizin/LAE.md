@@ -1,6 +1,6 @@
 ---
 aliases: Lungenarterienembolie, Lungenembolie
-tags: m/m11, m/m13, m/m21, f/🫁, f/🫀, a/Pathologie
+tags: m/m11, m/m13, m/m21, f/🫁, f/🫀, Pathologie
 ---
 ### Lungenarterienembolie / LAE
 - **Ätiologie**:: ==[[Embolie]] nach venöser [[Thrombose]]==, insb. Bein und [[ZVK]]

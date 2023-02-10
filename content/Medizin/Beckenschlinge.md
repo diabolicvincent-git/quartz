@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m21, f/⛑️, f/🔪, a/Intervention/Therapie
+tags: m/m21, f/⛑️, f/🔪, Intervention
 ---
 ### Beckenschlinge
 

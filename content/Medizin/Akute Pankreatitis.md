@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/💩, a/Pathologie
+tags: m/m26, f/💩, Pathologie
 ---
 - **Ätiologie**:: [[Alkohol]], Sekretrückstau durch [[Cholelithiasis]]
 - **Pathophysiologie**:: Verfrühte Enzymaktivierung → Autodigestion

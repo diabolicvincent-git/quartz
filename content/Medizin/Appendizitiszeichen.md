@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, a/Intervention/Diagnostik
+tags: m/m12, f/💩, Intervention
 ---
 ### Appendizitiszeichen
 - **McBurney-Punkt**:: ⅓ zwischen SIAS und Bauchnabel

@@ -1,6 +1,6 @@
 ---
 aliases: Hypopituitarismus, M. Simmonds, Empty-Sella-Syndrom
-tags: m/m22, f/🗞️, a/Pathologie
+tags: m/m22, f/🗞️, Pathologie
 ---
 ### Hypophysenvorderlappeninsuffizienz / Hypopituitarismus / M. Simmonds
 - **Ätiologie**:: *[[Tumor]]* (insb. ==[[Hypophysenadenom]]==), *Trauma*, *Vaskulär* (z.B. [[Aneurysma]], Sinus-cavernosus-Thrombose), *[[Entzündung]]* ([[Tbc]]), *[[Autoimmunität]]* (z.B. [[Sarkoidose]]), *==[[Sheehan-Syndrom]]==*

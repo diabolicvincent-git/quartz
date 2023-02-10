@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/🫀, a/Pathologie
+tags: f/🫀, Pathologie
 ---
 ### AVNRT
 > **Abstract**:: angeb. 2. Leitung im [[AV-Knoten]] → [[SVT]] → Tx [[Valsalva]], [[aDENOsin]]

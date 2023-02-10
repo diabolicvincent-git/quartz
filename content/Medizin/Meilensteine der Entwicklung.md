@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🦄, a/Intervention/Diagnostik
+tags: m/m22, f/🦄, Intervention
 ---
 ### Meilensteine der kindlichen Entwicklung
 | Alter       | Motorik                                                                               | Sprache                                                                       | Sozialverhalten                                                             |

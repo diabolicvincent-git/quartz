@@ -1,6 +1,6 @@
 ---
 aliases: STI, STDs, Geschlechtskrankheit, Geschlechtskrankheiten
-tags: m/m22, f/🦠, f/🦩, f/🍆, a/Pathologie, f/🧴
+tags: m/m22, f/🦠, f/🦩, f/🍆, Pathologie, f/🧴
 ---
 ### Geschlechtskrankheiten / STDs
 

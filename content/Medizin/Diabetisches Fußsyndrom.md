@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m17, f/🗞️, a/Pathologie
+tags: m/m17, f/🗞️, Pathologie
 ---
 ### Diabetisches Fußsyndrom
 > Chronische Komplikation des [[Diabetes mellitus]]

@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🥼, f/💉
+tags: Pathologie, f/🥼, f/💉
 ---
 > (Abstract::[[Serum]]-[[Harnsäure]] ≥6.5 mg/dl → Klinik der ==[[Gicht]]==)
 - **Epidemiologie**:: 15-25%, [[♂]]>[[♀]]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, a/Pathologie
+tags: m/m13, f/🫁, Pathologie
 ---
 
 **Def. Ersticken (weit gefasst)**:: Alveoläre Diffusionsstörung → Hypoxie → irreversible hypoxische Hirnzellschädigung nach 5-8 min (theoretisch ist Ersticken bei 100% die [[Todesursache]])

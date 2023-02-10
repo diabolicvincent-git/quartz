@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, a/Intervention/Diagnostik, f/🩺
+tags: Intervention, Wichtig
 ---
 - **Allgemeines**
 	- Vorstellung

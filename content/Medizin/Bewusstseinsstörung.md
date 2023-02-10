@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, a/Pathologie
+tags: m/m15, f/🧠, Pathologie
 ---
 - **Quantitative Bewusstseinsstörung / [[Vigilanzminderung]]**
 - **Qualitative Bewusstseinsstörung / Desorientierung**

@@ -1,6 +1,6 @@
 ---
 aliases: Harnsteine
-tags: m/m26, a/Pathologie, f/🍆
+tags: m/m26, Pathologie, f/🍆
 ---
 ### Urolithiasis / Harnsteine
 > **Lokalisation**:: [[Niere]] (Nephrolithiasis), [[Ureter]] (Urterolithiasis), [[Harnblase]] (Cystolithiasis), [[Urethra]] (Urethralithiasis)

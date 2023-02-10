@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/🐣, a/Pathologie, f/🦄
+tags: m/m26, f/🐣, Pathologie, f/🦄
 ---
 ### VACTERL
 > Assoziation von Fehlbildungen

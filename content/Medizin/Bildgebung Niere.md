@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m14, ToDo, f/🍺, f/🕶️, a/Intervention/Diagnostik
+tags: m/m14, ToDo, f/🍺, f/🕶️, Intervention
 ---
 [[Röntgen]]
 [[CT]]

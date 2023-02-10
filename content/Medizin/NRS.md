@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💤, a/Intervention/Diagnostik
+tags: m/m20, f/💤, Intervention
 ---
 ### Numerische Rating-Skala / NRS
 > **0** (kein [[Schmerz]]) – **10** (stärkster [[Schmerz]])

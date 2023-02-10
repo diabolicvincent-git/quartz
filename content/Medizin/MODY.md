@@ -1,6 +1,6 @@
 ---
 aliases: Maturity-onset Diabetes of the Young
-tags: m/m17, f/🗞️, a/Pathologie
+tags: m/m17, f/🗞️, Pathologie
 ---
 ### MODY / Maturity-onset Diabetes of the Young
 > Verschiedene ==autosomal-dominant== vererbte, ==monogene== Defekte der β-Zell-Funktion

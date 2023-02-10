@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Intervention/Therapie, f/💤
+tags: m/m13, f/🫁, Intervention, f/💤
 ---
 ### Positiver Endexspiratorischer Druck / PEEP
 > **[[Beatmungsparameter]]**:: Positiver Druck in der Lunge am Ende der Ausatmung

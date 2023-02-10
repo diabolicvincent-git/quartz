@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/⚰️, a/Intervention/Diagnostik
+tags: m/m21, f/⚰️, Intervention
 ---
 ### Todesursache
 > Nicht zu verwechseln mit [[Todesart]]

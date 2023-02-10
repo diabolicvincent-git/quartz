@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/👁️, m/m29
+tags: Pathologie, f/👁️, m/m29
 ---
 > (Abstract::**Entzündung [[Uvea]].**)
 - **Ätiologie**:: [[Systemische Störungen]]

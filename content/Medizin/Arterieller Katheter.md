@@ -1,5 +1,5 @@
 ---
-tags: f/💤, f/⛑️, a/Intervention/Diagnostik
+tags: f/💤, f/⛑️, Intervention
 ---
 > (Abstract::Katheter in peripheren [[Arterien]])
 - **Indikation**:: [[Invasive Blutdruckmessung]], wiederholte [[BGA]], Pulskonturanalyse ([[Hämodynamische Instabilität]])

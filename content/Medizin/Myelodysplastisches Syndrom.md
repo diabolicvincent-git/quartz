@@ -1,6 +1,6 @@
 ---
 aliases: MDS
-tags: m/m17, a/Pathologie
+tags: m/m17, Pathologie
 ---
 ### Myelodysplastisches Syndrom / MDS
 > Erkrankung durch Schädigung der [[Hämatopoese]] im [[Knochenmark]]

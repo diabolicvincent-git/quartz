@@ -1,6 +1,6 @@
 ---
 aliases: Shaken-Baby-Syndrom
-tags: m/m00, f/🦄, f/💭, f/⚰️, a/Pathologie
+tags: m/m00, f/🦄, f/💭, f/⚰️, Pathologie
 ---
 ### Shaken-Baby-Syndrom / Schütteltrauma
 > [[Kindesmisshandlung]] durch Schütteln des Kindes → [[SHT]]

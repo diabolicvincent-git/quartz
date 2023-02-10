@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m14, a/Intervention/Therapie, f/🍺
+tags: m/m14, Intervention, f/🍺
 ---
 (Abstract::**Akute [[Dialyse]]-Indikationen**.)
 - **A**:: [[Azidose]]

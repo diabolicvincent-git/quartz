@@ -1,6 +1,6 @@
 ---
 aliases: Interstitielle Lungenparenchymerkrankung, ILD
-tags: m/m13, f/🫁, a/Pathologie
+tags: m/m13, f/🫁, Pathologie
 ---
 ### Lungenfibrose
 - **Ätiologie:**

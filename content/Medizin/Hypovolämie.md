@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🫀, f/🍺, a/Pathologie, a/Pathologie
+tags: m/m19, f/🫀, f/🍺, Pathologie, Pathologie
 ---
 ### Hypovolämie
 > Abnahme der [[Kreislauf]]relevanten [[Blut]]menge

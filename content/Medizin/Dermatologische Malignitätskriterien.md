@@ -1,6 +1,6 @@
 ---
 aliases: ABCDE-Regel
-tags: m/m09, f/🧴, a/Intervention/Diagnostik
+tags: m/m09, f/🧴, Intervention
 ---
 > [[Melanom]] [[Krebsvorsorgeuntersuchung]]
 - **Asymmetrie**

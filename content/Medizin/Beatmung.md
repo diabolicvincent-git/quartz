@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/💤, a/Intervention/Therapie
+tags: m/m13, f/🫁, f/💤, Intervention
 ---
 ### Beatmung
 - **Beatmungsformen**

@@ -1,6 +1,6 @@
 ---
 aliases: Lyme-Borreliose
-tags: m/m18, f/🦠, a/Pathologie
+tags: m/m18, f/🦠, Pathologie
 ---
 ### Lyme-Borreliose
 - **Epidemiologie**

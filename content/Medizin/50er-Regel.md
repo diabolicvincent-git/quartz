@@ -1,5 +1,5 @@
 ---
-tags: a/Intervention
+tags: Intervention
 ---
 > (Abstract::**[[Hämostase]]-Grenzwerte als relative KI für Gefäßpunktionen.**)
 - [[aPTT]] >50s

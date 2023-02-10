@@ -1,6 +1,6 @@
 ---
 alias: Struma maligna
-tags: a/Pathologie
+tags: Pathologie
 ---
 > (Abstract::)
 - **Epidemiologie**:: [[♀]]>[[♂]]

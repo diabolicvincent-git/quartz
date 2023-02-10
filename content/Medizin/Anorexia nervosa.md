@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m31, f/💭, a/Pathologie]
+tags: [m/m31, f/💭, Pathologie]
 ---
 - **Epidemiologie**:: [[♀]]>>[[♂]] 10:1, Häufigkeitsgipfel 13-16 J.
 - **Ätiologie**:: Genetische Konkordanz 50% bei eineiigen Zwilligen

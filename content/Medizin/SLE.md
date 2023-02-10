@@ -1,6 +1,6 @@
 ---
 aliases: SLE, Systemischer Lupus erythematodes
-tags: m/m17, a/Pathologie, f/💉
+tags: m/m17, Pathologie, f/💉
 ---
 - **Epidemiologie**:: 20. – 40. LJ, [[♀]] >> [[♂]] 
 - **Autoantigen**:: Sekundär-nekrotischer Zell-Konglomerate (aufgr. gestörter [[Apoptose]])

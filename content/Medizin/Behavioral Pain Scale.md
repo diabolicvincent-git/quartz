@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m36, f/💤, a/Intervention/Diagnostik
+tags: m/m36, f/💤, Intervention
 ---
 ### Behavioral Pain Scale / BPS
 > Erfassung Schmerzintensität durch Fremdeinschätzung (vgl. [[NRS]])

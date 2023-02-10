@@ -1,5 +1,5 @@
 ---
-tags: m/m18, f/🦠, a/Pathologie, f/🦄/Exantheme
+tags: m/m18, f/🦠, Pathologie, f/🦄/Exantheme
 ---
 > (Abstract::**1st disease**)
 - **Epidemiologie**::

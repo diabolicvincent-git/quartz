@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/🩸, a/Pathologie
+tags: m/m17, f/🩸, Pathologie
 ---
 - **Ätiologie**
 	- **Z.n. Splenektomie**:: z.B. [[Milzruptur]], [[Hämolyse]], [[Sphärocytose]], [[Thalassämie]], [[Idiopathische Thrombocytopene Purpura]], [[Hypersplenie-Syndrom]], [[Neoplasie]] der [[Milz]]

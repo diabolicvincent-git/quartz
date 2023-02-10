@@ -1,5 +1,5 @@
 ---
-tags: a/Pathologie, f/🧠
+tags: Pathologie, f/🧠
 ---
 > (Abstract::**Systemisch bedingte Schädigung [[PNS]].**)
 - **Entitäten**:: [[Diabetische Neuropathie]], [[Alkohol-Polyneuropathie]], [[Critical-illness-Polyneuropathie]]

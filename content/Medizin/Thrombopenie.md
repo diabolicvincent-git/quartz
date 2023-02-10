@@ -1,6 +1,6 @@
 ---
 aliases: Thrombocytopenie
-tags: m/m08, m/m17, f/🩸, a/Pathologie
+tags: m/m08, m/m17, f/🩸, Pathologie
 ---
 ### Thrombopenie 
 > ==[[Thrombocyten]]-Zahl <150.000 / μl== → [[Blutungsneigung]]

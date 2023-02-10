@@ -1,6 +1,6 @@
 ---
 aliases: Mini-Mental-State-Examination
-tags: [a/Intervention/Diagnostik, m/m31, f/💭, f/🧠]
+tags: [Intervention, m/m31, f/💭, f/🧠]
 ---
 - **Indikation**:: v.a. [[Demenz]]
 - **Inhalte**

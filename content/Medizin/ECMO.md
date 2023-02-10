@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m21, f/🫁, f/🫀, f/💤, a/Intervention/Therapie
+tags: m/m21, f/🫁, f/🫀, f/💤, Intervention
 ---
 ### Extrakorporale Membranoxygenierung / ECMO
 - **Indikation**:: Schweres therapierefraktäres respiratorisches ([[vvECMO]]) und/oder kardiales ([[vaECMO]]) Versagen

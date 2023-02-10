@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/🗞️]
+tags: [Pathologie, f/🗞️]
 ---
 ### Hyperglycämie
 

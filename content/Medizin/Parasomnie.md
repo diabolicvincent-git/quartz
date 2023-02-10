@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, a/Pathologie, f/💭, f/🧠
+tags: m/m20, Pathologie, f/💭, f/🧠
 ---
 - **Parasomnie**:: [[Schlafstörung]] aus dem Schlaf heraus / beim Erwachen
 	- **Schlafwandeln (Somnambulismus)**:: Non-REM-Schlaf im 1. Drittel

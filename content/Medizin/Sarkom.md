@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, a/Pathologie, f/🦀
+tags: m/m19, Pathologie, f/🦀
 ---
 ### Sarkom
 > Maligne [[Tumor]]en aus dem [[Mesenchym]] ([[Bindegewebe]]/Stützgewebe)

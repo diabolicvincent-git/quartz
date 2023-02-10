@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, a/Pathologie, f/🫀
+tags: m/m11, Pathologie, f/🫀
 ---
 ### Tachykardie
 - **[[SVT]]** ([[QRS]] ≤120 ms)

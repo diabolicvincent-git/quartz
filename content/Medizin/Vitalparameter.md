@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m00, a/Intervention/Diagnostik, f/💤, f/🩺
+tags: m/m00, Intervention, f/💤, f/🩺
 ---
 ### Vitalparameter
 - **A/B**

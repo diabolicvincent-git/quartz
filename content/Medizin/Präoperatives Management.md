@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/💤, a/Intervention/Diagnostik, a/Intervention/Therapie
+tags: m/m25, f/💤, Intervention, Intervention
 ---
 ### Präoperatives Management
 - **Elektive OP-Vorbereitung**

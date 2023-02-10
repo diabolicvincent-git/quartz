@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m31, f/💭, a/Pathologie/Erkrankung
+tags: m/m31, f/💭, Pathologie
 ---
 - **Einteilung**
 	- **Substanzabhängigkeit**

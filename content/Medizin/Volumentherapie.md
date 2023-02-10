@@ -1,6 +1,6 @@
 ---
 aliases: Flüssigkeitstherapie
-tags: m/m21, a/Intervention/Therapie, f/💤
+tags: m/m21, Intervention, f/💤
 ---
 ### Volumentherapie
 ![[Infusionslösung]]

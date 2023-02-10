@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, m/m16, m/m17, f/🧠, a/Pathologie
+tags: m/m13, m/m16, m/m17, f/🧠, Pathologie
 ---
 ### Dysarthrie
 > Neurogene Sprachstörung bei erhaltenem Sprachvermögen

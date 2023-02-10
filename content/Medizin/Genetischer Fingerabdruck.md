@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m02, f/🧬, a/Intervention/Diagnostik
+tags: m/m02, f/🧬, Intervention
 ---
 > Analyse der Länge hochrepetitiver Intron-Sequenzen → Beurteilung des Verwandschaftsgrades
 

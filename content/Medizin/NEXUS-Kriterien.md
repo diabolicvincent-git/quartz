@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m10, m/m21, f/🦴, f/💤, a/Intervention/Diagnostik, a/Intervention/Diagnostik/Score
+tags: m/m10, m/m21, f/🦴, f/💤, Intervention, Intervention
 ---
 ### NEXUS-Kriterien
 > Notwendigkeit von [[HWS]]-Immobilisation/-[[Bildgebung]]

@@ -1,6 +1,6 @@
 ---
 aliases: M. Little
-tags: m/m30, f/🦄, f/🧠, a/Pathologie
+tags: m/m30, f/🦄, f/🧠, Pathologie
 ---
 > (Abstract::**Frühkindliche erworbene Störung 1. Motoneuron, Spastik.**)
 - **Ätiologie**:: ==[[ICB]]==, ==[[Periventrikuläre Leukomalazie]]==, Asphyxie, [[Infektionen]]

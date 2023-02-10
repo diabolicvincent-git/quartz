@@ -1,6 +1,6 @@
 ---
 aliases: PCV, Pressure Controlled Ventilation
-tags: m/m13, f/💤, f/🫁, a/Intervention/Therapie
+tags: m/m13, f/💤, f/🫁, Intervention
 ---
 ### Druckkontrollierte [[Beatmung]] / PCV
 > [[Inspirationsdruck]] bestimmt [[Tidalvolumen]], abhängig von [[Compliance]]/[[Resistance]]

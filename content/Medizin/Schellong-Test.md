@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m14, a/Intervention/Diagnostik
+tags: m/m14, Intervention
 ---
 ### Schellong-Test
 > Test ausreichender orthostatischer Regulation (unzureichend → [[Hypovolämie]])

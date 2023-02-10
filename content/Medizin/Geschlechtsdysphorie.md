@@ -1,6 +1,6 @@
 ---
 aliases: Transsexualität, Transgeschlechtlichkeit, Genderidentitätsstörung
-tags: m/m22, f/🦩, f/🍆, f/💭, f/🗞️, a/Pathologie
+tags: m/m22, f/🦩, f/🍆, f/💭, f/🗞️, Pathologie
 ---
 ### Geschlechtsdysphorie
 - **Wünsche nach Körperveränderungen**

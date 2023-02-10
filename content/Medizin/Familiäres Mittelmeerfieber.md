@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/💉, a/Pathologie
+tags: m/m17, f/💉, Pathologie
 ---
 ### Familiäres Mittelmeerfieber
 > Autosomal-rezessive [[Inflammasomopathie]]
