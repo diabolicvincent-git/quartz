@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [Modul/m22, Modul/m12, Fach/Endokrinologie, Fach/Biochemie/Molekül/Hormon]
+tags: [Modul/m22, Modul/m12, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: Somatostatin
 ---
 > (Abstract::Gegenspieler vieler [[Hormon]]e, insb. [[GH]])

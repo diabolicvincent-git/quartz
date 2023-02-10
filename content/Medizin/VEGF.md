@@ -1,6 +1,6 @@
 ---
 aliases: Vascular Endothelial Growth Factor
-tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Molekül/Hormon]
+tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Hormon]
 title: VEGF
 ---
 ### Vascular Endothelial Growth Factor / VEGF

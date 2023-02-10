@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Molekül/Antikörper/SchilddrüsenAk]
+tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Antikörper]
 title: TSH-Rezeptor-Antikörper
 ---
 > (Abstract:: [[Schilddrüsen-Antikörper]] v.a. bei [[M. Basedow]])

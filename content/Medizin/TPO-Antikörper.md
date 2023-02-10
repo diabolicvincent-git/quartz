@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Molekül/Antikörper/SchilddrüsenAk]
+tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Antikörper]
 title: TPO-Antikörper
 ---
 > (Abstract:: [[Schilddrüsen-Antikörper]] gegen Thyreoperoxidase, v.a. bei [[Hashimoto-Thyreoditis]])

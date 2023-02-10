@@ -1,6 +1,6 @@
 ---
 aliases: Tumornekrosefaktor, TNF-α
-tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Molekül/Hormon]
+tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Hormon]
 title: TNF
 ---
 ### Tumornekrosefaktor / TNF

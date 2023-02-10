@@ -2,7 +2,7 @@
 aliases:
   - VitA
   - Retinoide
-tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
+tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin A
 ---
 ### Vitamin A / Retinoide 

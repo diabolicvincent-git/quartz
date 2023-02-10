@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [Modul/m05, Fach/Embryologie, Fach/Biochemie/Molekül/Hormon]
+tags: [Modul/m05, Fach/Embryologie, Fach/Biochemie/Hormon]
 title: Wnt
 ---
 ### Wnt

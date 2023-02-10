@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Fach/Biochemie/Molekül/Cytoskelett]
+tags: [Modul/m03, Fach/Biochemie/Cytoskelett]
 title: Intermediärfilamente
 ---
 - **Aufbau**:: Hohe Vielfalt

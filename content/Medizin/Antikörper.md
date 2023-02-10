@@ -1,6 +1,6 @@
 ---
 aliases: Immunglobuline
-tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie, Fach/Biochemie/Molekül/Antikörper]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie, Fach/Biochemie/Antikörper]
 title: Antikörper
 ---
 > (Abstract::Auch: Immunglobuline)

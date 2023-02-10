@@ -4,7 +4,7 @@ aliases:
   - Riboflavin
   - FADH2
   - FAD
-tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
+tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B2
 ---
 ### Vitamin B2 / Riboflavin 

@@ -1,6 +1,6 @@
 ---
 aliases: Neurotransmitter
-tags: [Modul/m15, Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Neurologie, Fach/Biochemie/Molekül/Transmitter]
+tags: [Modul/m15, Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Neurologie, Fach/Biochemie/Transmitter]
 title: Transmitter
 ---
 ### Neurotransmitter 

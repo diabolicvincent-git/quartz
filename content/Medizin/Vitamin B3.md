@@ -4,7 +4,7 @@ aliases:
   - Niacin
   - NAD
   - NADP
-tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
+tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B3
 ---
 ### Vitamin B3 / Niacin 

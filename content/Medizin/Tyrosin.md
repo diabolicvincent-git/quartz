@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Molekül/Aminosäure]
+tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Aminosäure]
 title: Tyrosin
 ---
 **Tyrosin (Tyr, Y)**:: Alkoholische [[AS]], Aromat

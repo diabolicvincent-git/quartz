@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Molekül/Enzym]
+tags: [Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Enzym]
 title: Pathologie
 ---
 ### α1-Antitrypsin

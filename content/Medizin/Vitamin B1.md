@@ -1,6 +1,6 @@
 ---
 aliases: Thiamin, Beri-Beri-Krankheit
-tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
+tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B1
 ---
 ### Vitamin B1 / Thiamin 

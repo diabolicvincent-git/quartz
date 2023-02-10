@@ -1,7 +1,10 @@
 ---
-title: _index
+title: Home
 enableToc: false
 ---
-Willkommen auf meiner persönlichen Seite. Hier geht es vornehmlich um Medizin, gelegentlich mit einer Prise Politik. Enjoy! -Vincent
+## 👋 Hallo. 
+Schön, dass du zu meinem Portfolio gefunden hast. 
 
-[[Medizin/Anatomie]]
+
+#### Los geht's
+- 🩺 [[Medizin]]

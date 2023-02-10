@@ -1,6 +1,6 @@
 ---
 aliases: Testosteron, DHT, 5α-Dihydrotestosteron, Androstendion, DHEA, DHEAS
-tags: [Modul/m22, Fach/Biochemie, Fach/Physiologie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Molekül/Hormon]
+tags: [Modul/m22, Fach/Biochemie, Fach/Physiologie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: Androgene
 ---
 (Abstract::[[♂]] [[Sexualhormone]]: [[Steroidhormone]] mit 19 C-Atomen)

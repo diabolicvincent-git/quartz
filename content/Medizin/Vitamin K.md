@@ -2,7 +2,7 @@
 aliases:
   - VitK
   - Phyllochinon
-tags: [Modul/m12, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Molekül/Vitamin]
+tags: [Modul/m12, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Vitamin]
 title: Vitamin K
 ---
 ### Vitamin K / Phyllochinon 

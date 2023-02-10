@@ -1,6 +1,6 @@
 ---
 aliases: Vitamin B9
-tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin]
+tags: [Modul/m12, Fach/Biochemie/Vitamin]
 title: Folsäure
 ---
 > **Aktive Form**:: Tetrahydrofolsäure / THF (wasserlöslich)

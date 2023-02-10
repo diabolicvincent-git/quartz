@@ -2,7 +2,7 @@
 aliases:
   - VitE
   - Tocopherol
-tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
+tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin E
 ---
 ### Vitamin E / Tocopherol 

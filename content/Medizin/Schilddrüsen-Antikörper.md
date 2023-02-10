@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Molekül/Antikörper]
+tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Antikörper]
 title: Schilddrüsen-Antikörper
 ---
 > (Abstract::[[Auto-Antikörper]])

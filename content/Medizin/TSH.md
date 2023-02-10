@@ -1,6 +1,6 @@
 ---
 aliases: Thyreoidea-stimulierendes-Hormon, Thyreotropin
-tags: [Modul/m04, Modul/m17, Fach/Endokrinologie, Fach/Biochemie/Molekül/Hormon]
+tags: [Modul/m04, Modul/m17, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: TSH
 ---
 ### Thyreoidea-stimulierendes-Hormon / Thyreotropin / TSH

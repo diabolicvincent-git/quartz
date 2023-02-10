@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Fach/Biochemie/Molekül/Cytoskelett]
+tags: [Modul/m03, Fach/Biochemie/Cytoskelett]
 title: Mikrotubuli
 ---
 - **Aufbau**:: α-Tubulin + β-T. → Tubulindimer → polymerisiert zu Protofilament → x13 = Hohlzylinder
