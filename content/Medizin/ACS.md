@@ -1,6 +1,7 @@
 ---
 aliases: Akutes Koronarsyndrom
 tags: [m/m11, f/🫀, Pathologie]
+title: "ACS"
 ---
 - **Symptome**
 	- [[Brustschmerz]], Brustenge, Brennen, Stechen, Ausstrahlen
