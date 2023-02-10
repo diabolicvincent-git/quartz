@@ -1,5 +1,5 @@
 ---
-aliases: Schmerzwahrnehmung
+bazinga: Schmerzwahrnehmung
 tags: m/m09
 ---
 ### Nozizeption / Schmerzwahrnehmung

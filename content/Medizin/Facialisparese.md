@@ -1,5 +1,5 @@
 ---
-aliases: Bell Pallsy
+bazinga: Bell Pallsy
 tags: m/m30, f/🧠, a/Pathologie
 ---
 > (Abstract::Periphere Facialisparese)

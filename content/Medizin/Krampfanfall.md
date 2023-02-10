@@ -1,5 +1,5 @@
 ---
-aliases: Epileptischer Anfall
+bazinga: Epileptischer Anfall
 tags: m/m15, m/m21, f/🧠, a/Pathologie, a/Pathologie
 ---
 ### Krampfanfall / Epileptischer Anfall

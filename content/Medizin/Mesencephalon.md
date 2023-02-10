@@ -1,5 +1,5 @@
 ---
-aliases: Mittelhirn
+bazinga: Mittelhirn
 tags: m/m15, f/🧠, f/💀
 ---
 ### Mesencephalon 

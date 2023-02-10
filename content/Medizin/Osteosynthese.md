@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m27, a/Intervention/Therapie, f/🦴
 ---
 ### Osteosynthese

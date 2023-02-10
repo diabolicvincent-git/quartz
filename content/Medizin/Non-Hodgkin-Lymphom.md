@@ -1,5 +1,5 @@
 ---
-aliases: NHL
+bazinga: NHL
 tags: m/m19, f/🦀, f/🩸
 ---
 ### Non-Hodgkin-Lymphom

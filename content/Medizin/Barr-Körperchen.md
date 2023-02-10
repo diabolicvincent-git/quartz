@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m03, f/🧬, f/🧪
 ---
 > Inaktiviertes, als [[Heterochromatin]] verpacktes, zweites X-[[Chromosom]] in den Zellen eines weiblichen Organismus.

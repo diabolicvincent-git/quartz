@@ -1,5 +1,5 @@
 ---
-aliases: Brachium
+bazinga: Brachium
 tags: 
 ---
 - **[[Körperregionen]]**

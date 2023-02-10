@@ -1,5 +1,5 @@
 ---
-aliases: Hormone, hormonell
+bazinga: Hormone, hormonell
 tags: m/m04, m/m22
 ---
 ### Hormone

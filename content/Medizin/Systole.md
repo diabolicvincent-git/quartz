@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - systolisch
 tags:
   - m/m11

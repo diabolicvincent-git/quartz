@@ -1,5 +1,5 @@
 ---
-aliases: Cholinesteraseinhibitoren
+bazinga: Cholinesteraseinhibitoren
 tags: m/m13, f/🫁, f/🍄
 ---
 ### Cholinesteraseinhibitoren

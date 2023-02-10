@@ -1,5 +1,5 @@
 ---
-aliases: Atriales natriuretisches Peptid
+bazinga: Atriales natriuretisches Peptid
 tags: m/m11, m/m14, f/🫀, f/🍺, f/⚙️, f/🧪/Molekül, f/🧪, f/🧪/Molekül/Hormon
 ---
 (Abstract::**Atriales [[Natriuretisches Peptid]].** ↑↑ bei [[Herzinsuffizienz]].)

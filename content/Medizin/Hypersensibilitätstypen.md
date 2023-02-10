@@ -1,5 +1,5 @@
 ---
-aliases: Coombs & Gell
+bazinga: Coombs & Gell
 tags: m/m09, m/m17, f/💉, f/🧴
 ---
 ### Hypersensibilitätstypen n. Coombs & Gell (Tabelle)

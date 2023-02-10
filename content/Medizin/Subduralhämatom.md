@@ -1,5 +1,5 @@
 ---
-aliases: Subdurales Hämatom, Subduralblutung, SDH
+bazinga: Subdurales Hämatom, Subduralblutung, SDH
 tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Subduralhämatom / SDH

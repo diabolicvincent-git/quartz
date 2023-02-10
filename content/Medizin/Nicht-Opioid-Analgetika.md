@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m20, f/💤, f/💊/Medikament
 ---
 ### Nicht-Opioid-Analgetika

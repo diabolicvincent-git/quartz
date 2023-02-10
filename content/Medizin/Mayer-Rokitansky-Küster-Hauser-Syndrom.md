@@ -1,5 +1,5 @@
 ---
-aliases: MRKHS
+bazinga: MRKHS
 tags: m/m22, f/🦩, f/🐣, a/Pathologie
 ---
 ### Mayer-Rokitansky-Küster-Hauser-Syndrom / MRKHS

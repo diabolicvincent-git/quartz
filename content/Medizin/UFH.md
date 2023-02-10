@@ -1,5 +1,5 @@
 ---
-aliases: Unfraktioniertes Heparin
+bazinga: Unfraktioniertes Heparin
 tags: m/m08, m/m17, f/🩸, f/💊/Medikament
 ---
 ### Unfraktioniertes [[Heparin]] / UFH

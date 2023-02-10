@@ -1,5 +1,5 @@
 ---
-aliases: Conn-Syndrom, M. Conn
+bazinga: Conn-Syndrom, M. Conn
 tags: m/m14, f/🗞️, a/Pathologie
 ---
 ### Primärer [[Hyperaldosteronismus]] / M. Conn

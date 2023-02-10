@@ -1,5 +1,5 @@
 ---
-aliases: HMV, Herzzeitvolumen, Herzminutenvolumen
+bazinga: HMV, Herzzeitvolumen, Herzminutenvolumen
 tags: m/m11, f/🫀, f/⚙️
 ---
 ### Herzzeitvolumen / HZV

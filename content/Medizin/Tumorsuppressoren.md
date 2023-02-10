@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m19, f/🧬/Gen, f/🦀, f/🧬
 ---
 ### Tumorsuppressorgene

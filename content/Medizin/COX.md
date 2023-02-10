@@ -1,5 +1,5 @@
 ---
-aliases: Cyclooxygenase, COX1, COX2
+bazinga: Cyclooxygenase, COX1, COX2
 tags: m/m08, m/m20, f/🧪, f/🧪/Molekül
 ---
 ### Cyclooxygenase / COX

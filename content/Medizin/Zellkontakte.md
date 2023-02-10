@@ -1,5 +1,5 @@
 ---
-aliases: Zell-Kontakt, Zell-Kontakte, Zellkontakt
+bazinga: Zell-Kontakt, Zell-Kontakte, Zellkontakt
 tags: m/m04, m/m05, f/🧪, f/🔬
 ---
 ### Zellkontakte 

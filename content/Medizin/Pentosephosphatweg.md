@@ -1,5 +1,5 @@
 ---
-aliases: Hexosemonophosphatweg
+bazinga: Hexosemonophosphatweg
 tags: m/m03, f/🧪
 ---
 ### Pentosephosphatweg / Hexosemonophosphatweg

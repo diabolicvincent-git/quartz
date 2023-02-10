@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, m/m16, m/m17, f/🧠, a/Pathologie
 ---
 ### Dysarthrie

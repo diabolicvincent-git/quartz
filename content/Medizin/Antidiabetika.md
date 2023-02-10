@@ -1,5 +1,5 @@
 ---
-aliases: Metformin
+bazinga: Metformin
 tags: m/m17, f/💊/Medikament/Übergruppe, f/🗞️
 ---
 - **Wirkprinzipien**

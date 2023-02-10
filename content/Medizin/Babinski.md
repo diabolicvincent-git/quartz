@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, m/m21, f/🧠, f/⚙️, a/Pathologie
 ---
 ### Babinski-[[Reflex]]

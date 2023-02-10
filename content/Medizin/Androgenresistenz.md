@@ -1,5 +1,5 @@
 ---
-aliases: Androgenrezeptor-Defekt, Androgenrezeptordefekt
+bazinga: Androgenrezeptor-Defekt, Androgenrezeptordefekt
 tags: m/m22, f/🦩, a/Pathologie, f/🗞️
 ---
 (Abstract::46,XY-[[DSD]] (♂ Genotyp, [[♀]] Phänotyp))

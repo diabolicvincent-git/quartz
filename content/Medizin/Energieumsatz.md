@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m10, m/m12, f/⚙️
 ---
 ### Energieumsatz 

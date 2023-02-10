@@ -1,5 +1,5 @@
 ---
-aliases: ABCDE-Regel
+bazinga: ABCDE-Regel
 tags: m/m09, f/🧴, a/Intervention/Diagnostik
 ---
 > [[Melanom]] [[Krebsvorsorgeuntersuchung]]

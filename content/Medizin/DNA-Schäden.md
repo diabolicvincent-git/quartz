@@ -1,5 +1,5 @@
 ---
-aliases: DNA-Schädigung
+bazinga: DNA-Schädigung
 tags: m/m19, f/🧬, f/🧪
 ---
 ### [[DNA]]-Schäden

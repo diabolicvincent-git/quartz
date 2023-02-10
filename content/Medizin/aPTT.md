@@ -1,5 +1,5 @@
 ---
-aliases: PTT, partielle Thromboplastinzeit
+bazinga: PTT, partielle Thromboplastinzeit
 tags: m/m08, f/🩸, f/🥼
 ---
 > (Abstract::**(aktivierte) partielle Thromboplastinzeit.** )

@@ -1,5 +1,5 @@
 ---
-aliases: Kleinzelliges Lungen-Ca, Kleinzelliges Lungenkarzinom
+bazinga: Kleinzelliges Lungen-Ca, Kleinzelliges Lungenkarzinom
 tags: m/m19, f/🦀, f/🫁, a/Pathologie
 ---
 ### Kleinzelliges [[Lungen-Ca]] / SCLC

@@ -1,5 +1,5 @@
 ---
-aliases: Absolute Risikoreduktion
+bazinga: Absolute Risikoreduktion
 tags: m/m07, f/📊
 ---
 ### Absolute [[Risikoreduktion]] / ARR

@@ -1,5 +1,5 @@
 ---
-aliases: Interferon, Interferone
+bazinga: Interferon, Interferone
 tags: m/m08, m/m17, f/⚙️, f/🧪, f/🦠, f/🧪/Molekül
 ---
 ### Interferon / IFN

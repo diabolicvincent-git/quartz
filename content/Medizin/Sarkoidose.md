@@ -1,5 +1,5 @@
 ---
-aliases: M. Boeck
+bazinga: M. Boeck
 tags: m/m09
 ---
 ### Sarkoidose / M. Boeck

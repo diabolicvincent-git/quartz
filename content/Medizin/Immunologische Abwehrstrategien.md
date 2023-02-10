@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m08, m/m13
 ---
 ### Immunologische Abwehrstrategien

@@ -1,5 +1,5 @@
 ---
-aliases: Lumbalpunktion
+bazinga: Lumbalpunktion
 tags: m/m15
 ---
 ### Liquorpunktion / Lumbalpunktion

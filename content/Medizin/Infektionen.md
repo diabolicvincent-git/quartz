@@ -1,5 +1,5 @@
 ---
-aliases: Infektion, infektiös
+bazinga: Infektion, infektiös
 tags: m/m18, f/🦠
 ---
 ### Infektion

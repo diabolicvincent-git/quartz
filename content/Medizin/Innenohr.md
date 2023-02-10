@@ -1,5 +1,5 @@
 ---
-aliases: Labyrinth
+bazinga: Labyrinth
 tags: m/m16, f/👂, f/💀, f/⚙️
 ---
 ### Innenohr 

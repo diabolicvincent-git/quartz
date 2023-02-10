@@ -1,5 +1,5 @@
 ---
-aliases: Magnetresonanztomographie
+bazinga: Magnetresonanztomographie
 tags: m/m00, a/Intervention/Diagnostik, f/🕶️/Standardbildgebung
 ---
 ### Magnetresonanztomographie / MRT

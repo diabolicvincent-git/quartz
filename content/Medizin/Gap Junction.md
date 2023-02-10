@@ -1,5 +1,5 @@
 ---
-aliases: Nexus
+bazinga: Nexus
 tags: m/m04, m/m05
 ---
 ### Gap Junction / Nexus

@@ -1,5 +1,5 @@
 ---
-aliases: Herzmuskulatur, Herzmuskel
+bazinga: Herzmuskulatur, Herzmuskel
 tags: m/m05, m/m11, f/🫀, f/🔬
 ---
 ### Myokard / Herzmuskel

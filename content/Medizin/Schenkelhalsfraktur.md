@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m10, a/Pathologie
 ---
 ### Schenkelhalsfraktur

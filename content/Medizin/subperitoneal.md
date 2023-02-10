@@ -1,5 +1,5 @@
 ---
-aliases: Subperitonealraum
+bazinga: Subperitonealraum
 tags: m/m12
 ---
 ### Subperitonealraum

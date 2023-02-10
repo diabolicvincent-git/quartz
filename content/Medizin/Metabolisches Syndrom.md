@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m02, m/m12, a/Pathologie, f/🫀
 ---
 ### Metabolisches Syndrom

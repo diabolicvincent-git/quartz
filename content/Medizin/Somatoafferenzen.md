@@ -1,5 +1,5 @@
 ---
-aliases: Somatoafferenz, somatoafferent
+bazinga: Somatoafferenz, somatoafferent
 tags: m/m15, f/🧠, f/⚙️
 ---
 > (Abstract::[[Afferenzen]])

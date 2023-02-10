@@ -1,5 +1,5 @@
 ---
-aliases: MPN
+bazinga: MPN
 tags: m/m19
 ---
 ### Myeloproliferative Neoplasien / MPN

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m12, m/m20, f/💩, f/💊/Medikament/Übergruppe
 ---
 - **Wirkstoffe**

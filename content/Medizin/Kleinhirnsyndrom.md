@@ -1,5 +1,5 @@
 ---
-aliases: Cerebelläre Störungen, Cerebelläre Ataxie
+bazinga: Cerebelläre Störungen, Cerebelläre Ataxie
 tags: m/m15, f/🧠
 ---
 ### Symptome

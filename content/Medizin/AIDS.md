@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m18, f/🦠, a/Pathologie/Erkrankung
 ---
 (Abstract::**Acquiriertes Immundefizienz Syndrom.** Klinik von unbehandeltem [[HIV]]. [[AIDS]]-definierende Erkrankungen + ==CD4+ [[T-Zellen]]↓==.)

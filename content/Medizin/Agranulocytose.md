@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m09, m/m19, f/🦀, f/🩸, a/Pathologie, f/⛑️
 ---
 (Abstract::**Schwere [[Neutropenie]]** mit [[Granulocyten]]-Zahl <500 [[Zellen]]/μl)

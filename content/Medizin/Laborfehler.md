@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m21, f/🥼
 ---
 ### Laborfehler

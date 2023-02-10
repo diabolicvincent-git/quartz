@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m30, f/🫀, f/🔪, f/🧠, a/Pathologie
 ---
 - **Ätiologie**:: [[Hypertonie]], Trauma, Marfan-Syndrom, Atherosklerose

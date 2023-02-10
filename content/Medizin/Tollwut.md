@@ -1,5 +1,5 @@
 ---
-aliases: Rabies, Lyssa
+bazinga: Rabies, Lyssa
 tags: m/m24, f/🦠, a/Pathologie
 ---
 ### Tollwut / Rabies

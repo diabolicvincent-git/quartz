@@ -1,5 +1,5 @@
 ---
-aliases: Shaken-Baby-Syndrom
+bazinga: Shaken-Baby-Syndrom
 tags: m/m00, f/🦄, f/💭, f/⚰️, a/Pathologie
 ---
 ### Shaken-Baby-Syndrom / Schütteltrauma

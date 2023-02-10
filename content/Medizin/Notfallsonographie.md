@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m21, f/💤, f/🕶️
 ---
 ### Notfallsonographie

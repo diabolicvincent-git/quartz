@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m02, m/m08, m/m11, f/🧪, f/🫀, a/Pathologie
 ---
 - **Pathophysiologie**

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m10, m/m21, f/🦴, f/💤, a/Intervention/Diagnostik, a/Intervention/Diagnostik/Score
 ---
 ### NEXUS-Kriterien

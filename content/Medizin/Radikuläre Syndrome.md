@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m27, m/m15
 ---
 ### Radikuläre Syndrome

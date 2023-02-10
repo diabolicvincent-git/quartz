@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m20, m/m22, f/⚙️, f/🧪/Molekül, f/🧪, f/💤
 ---
 ### Dynorphine

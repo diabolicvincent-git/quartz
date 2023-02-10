@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m21, f/💤, f/🫁, a/Intervention/Therapie
 ---
 **vv[[ECMO]]**:: Ersatz von [[Lunge]]

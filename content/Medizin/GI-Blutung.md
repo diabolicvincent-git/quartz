@@ -1,5 +1,5 @@
 ---
-aliases: GIB, Gastrointestinale Blutung
+bazinga: GIB, Gastrointestinale Blutung
 tags: m/m26, f/💩, a/Pathologie
 ---
 ### Gastrointestinale Blutung / GIB

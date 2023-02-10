@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m16, f/👂, a/Intervention/Diagnostik
 ---
 - **Subjektive Verfahren**

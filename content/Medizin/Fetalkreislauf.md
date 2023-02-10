@@ -1,5 +1,5 @@
 ---
-aliases: Fetaler Kreislauf
+bazinga: Fetaler Kreislauf
 tags: m/m11, m/m05, f/🐣, f/⚙️
 ---
 

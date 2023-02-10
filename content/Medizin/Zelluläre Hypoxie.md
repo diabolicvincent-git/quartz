@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, m/m03, f/🧪
 ---
 ## Sauerstoffverwertung

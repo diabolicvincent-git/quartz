@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: [f/🫁, a/Pathologie, m/m13]
 ---
 - **Pathophysiologie**:: Bronchospasmus + [[Ödeme]] + Remodeling + Mucus↑ → Atemfluss↓

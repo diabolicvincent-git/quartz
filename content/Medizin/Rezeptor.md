@@ -1,5 +1,5 @@
 ---
-aliases: Rezeptoren
+bazinga: Rezeptoren
 tags: m/m03
 ---
 

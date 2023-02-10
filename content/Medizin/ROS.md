@@ -1,5 +1,5 @@
 ---
-aliases: Reaktive Sauerstoffspezies
+bazinga: Reaktive Sauerstoffspezies
 tags: m/m08, m/m13
 ---
 ### Reaktive Sauerstoffspezies / ROS

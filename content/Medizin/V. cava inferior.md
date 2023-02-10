@@ -1,5 +1,5 @@
 ---
-aliases: Vena cava inferior
+bazinga: Vena cava inferior
 tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene
 ---
 ### [[V. cava]] inferior

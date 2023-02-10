@@ -1,5 +1,5 @@
 ---
-aliases: Lungenarterienembolie, Lungenembolie
+bazinga: Lungenarterienembolie, Lungenembolie
 tags: m/m11, m/m13, m/m21, f/🫁, f/🫀, a/Pathologie
 ---
 ### Lungenarterienembolie / LAE

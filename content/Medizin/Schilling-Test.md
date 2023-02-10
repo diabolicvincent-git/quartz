@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m26
 ---
 ### Schilling Test

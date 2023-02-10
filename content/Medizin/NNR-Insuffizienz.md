@@ -1,5 +1,5 @@
 ---
-aliases: Hypocortisolismus, Nebennierenrindeninsuffizienz
+bazinga: Hypocortisolismus, Nebennierenrindeninsuffizienz
 tags: m/m22, f/🗞️, a/Pathologie
 ---
 ### Nebennierenrindeninsuffizienz / Hypocortisolismus

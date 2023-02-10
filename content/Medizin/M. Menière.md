@@ -1,5 +1,5 @@
 ---
-aliases: Morbus Menière
+bazinga: Morbus Menière
 tags: m/m16, f/👂, a/Pathologie
 ---
 > (Abstract::**Anfallsartige Trias (Drehschwindel, [[Hörstörung]], Tinnitus).** Ätiologie unklar.)

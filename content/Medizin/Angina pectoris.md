@@ -1,5 +1,5 @@
 ---
-aliases: AP
+bazinga: AP
 tags: m/m11, f/🫀, a/Pathologie
 ---
 (Abstract::Anfallsartige, reversible Schmerzen infolge Myokardischämie bei [[KHK]])

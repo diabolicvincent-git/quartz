@@ -1,5 +1,5 @@
 ---
-aliases: von-Willebrand-Faktor
+bazinga: von-Willebrand-Faktor
 tags: m/m08, f/🩸, f/⚙️, f/🧪/Molekül
 ---
 

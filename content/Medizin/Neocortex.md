@@ -1,5 +1,5 @@
 ---
-aliases: Isocortex
+bazinga: Isocortex
 tags: m/m15
 ---
 ## Zelltypen

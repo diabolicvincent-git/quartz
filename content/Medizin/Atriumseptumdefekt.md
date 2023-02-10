@@ -1,5 +1,5 @@
 ---
-aliases: ASD
+bazinga: ASD
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 - **Pathophysiologie** 

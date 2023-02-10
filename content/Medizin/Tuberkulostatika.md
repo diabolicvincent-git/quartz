@@ -1,5 +1,5 @@
 ---
-aliases: Isoniazid, Ethambutol, Pyrazinamid
+bazinga: Isoniazid, Ethambutol, Pyrazinamid
 tags: m/m18, f/🦠, f/💊/Medikament
 ---
 ### Tuberkulostatika

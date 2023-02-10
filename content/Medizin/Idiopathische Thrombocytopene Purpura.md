@@ -1,5 +1,5 @@
 ---
-aliases: ITP
+bazinga: ITP
 tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Idiopathische Thrombocytopene [[Purpura]] / ITP 

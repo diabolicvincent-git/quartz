@@ -1,5 +1,5 @@
 ---
-aliases: Serotonerges Syndrom
+bazinga: Serotonerges Syndrom
 tags: 
 ---
 ### Serotonin-Syndrom

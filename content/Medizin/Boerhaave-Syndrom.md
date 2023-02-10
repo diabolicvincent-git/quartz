@@ -1,5 +1,5 @@
 ---
-aliases: Spontane Ösophagusruptur
+bazinga: Spontane Ösophagusruptur
 tags: m/m26, f/🔪
 ---
 ### Boerhaave-Syndrom / Spontane Ösophagusruptur

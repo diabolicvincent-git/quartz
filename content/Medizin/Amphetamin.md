@@ -1,5 +1,5 @@
 ---
-aliases: Amphetaminderivate
+bazinga: Amphetaminderivate
 tags: [f/🍄, f/💭]
 ---
 (Abstract::[[Psychostimulanzien]] (Amphetamin, Methylphenidat, Ecstasy/MDMA))

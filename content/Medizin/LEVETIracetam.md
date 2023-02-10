@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/💊/Medikament, m/m30, f/🧠
 ---
  ### Levetiracetam

@@ -1,5 +1,5 @@
 ---
-aliases: intramuskulär
+bazinga: intramuskulär
 tags: m/m00, f/💊/Medikament
 ---
 ### intramuskulär / i.m.

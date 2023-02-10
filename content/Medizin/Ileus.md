@@ -1,5 +1,5 @@
 ---
-aliases: Darmverschluss, Subileus, Bridenileus
+bazinga: Darmverschluss, Subileus, Bridenileus
 tags: m/m12, f/💩, a/Pathologie
 ---
 ### Ileus / Darmverschluss

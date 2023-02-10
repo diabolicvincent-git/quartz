@@ -1,5 +1,5 @@
 ---
-aliases: Allgemeinzustand
+bazinga: Allgemeinzustand
 tags: m/m00, a/Intervention/Diagnostik, f/🩺
 ---
 ### Allgemeinzustand / AZ

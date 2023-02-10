@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m08, m/m17, a/Pathologie, f/🩸, a/Pathologie
 ---
 (Abstract::Verminderung von [[Hb]], [[Erythrocyten]]-Zahl und/oder [[Hkt]])

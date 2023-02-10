@@ -1,5 +1,5 @@
 ---
-aliases: Insula
+bazinga: Insula
 tags: m/m15, f/💀, f/🧠
 ---
 ### Insellappen / Insula

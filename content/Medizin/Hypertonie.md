@@ -1,5 +1,5 @@
 ---
-aliases: Hypertonus
+bazinga: Hypertonus
 tags: m/m11, m/m14, f/🫀, a/Pathologie
 ---
 ### Hypertonie / Bluthochdruck

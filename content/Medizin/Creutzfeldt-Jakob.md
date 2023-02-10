@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m00, f/🧠, a/Pathologie
 ---
 ### Creutzfeldt-Jakob-Krankheit

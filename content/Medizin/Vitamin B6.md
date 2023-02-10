@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - VitB6
   - Pyridoxin
   - PALP

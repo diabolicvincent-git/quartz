@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m05, f/🔬
 ---
 ### Bindegewebe

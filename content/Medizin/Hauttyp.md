@@ -1,5 +1,5 @@
 ---
-aliases: Hauttypen
+bazinga: Hauttypen
 tags: m/m09, f/🧴, a/Intervention/Diagnostik
 ---
 ### Hauttypen n. Flitzpatrick

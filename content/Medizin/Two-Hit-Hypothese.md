@@ -1,5 +1,5 @@
 ---
-aliases: Knudson-Hypothese
+bazinga: Knudson-Hypothese
 tags: m/m19, f/🦀
 ---
 ### Knudson Two-Hit-Hypothese

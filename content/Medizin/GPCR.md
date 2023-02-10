@@ -1,5 +1,5 @@
 ---
-aliases: G-Protein-gekoppelter Rezeptor, G-Protein
+bazinga: G-Protein-gekoppelter Rezeptor, G-Protein
 tags: m/m04, f/🧪, f/⚙️
 ---
 ### G-Protein-gekoppelter Rezeptor / GPCR

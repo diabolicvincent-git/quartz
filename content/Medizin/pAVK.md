@@ -1,5 +1,5 @@
 ---
-aliases: Periphere arterielle Verschlusskrankheit
+bazinga: Periphere arterielle Verschlusskrankheit
 tags: m/m27
 ---
 ### Periphere arterielle Verschlusskrankheit / pAVK

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m11, m/m21, f/🫀, a/Pathologie
 ---
 ### Perikardtamponade

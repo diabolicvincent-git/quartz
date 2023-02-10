@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m03, m/m19, f/🧪/Molekül/Enzym
 ---
 ### Telomerase

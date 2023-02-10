@@ -1,5 +1,5 @@
 ---
-aliases: Syndrom der inadäquaten ADH-Sekretion
+bazinga: Syndrom der inadäquaten ADH-Sekretion
 tags: m/m14
 ---
 > (Abstract::**Syndrom der inadäquaten ADH-Sekretion / Schwartz-Bartter-Syndrom.**)

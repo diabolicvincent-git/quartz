@@ -1,5 +1,5 @@
 ---
-aliases: Faserriss
+bazinga: Faserriss
 tags: m/m27, a/Pathologie
 ---
 ### Muskelfaserriss

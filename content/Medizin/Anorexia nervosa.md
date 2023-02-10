@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: [m/m31, f/💭, a/Pathologie]
 ---
 - **Epidemiologie**:: [[♀]]>>[[♂]] 10:1, Häufigkeitsgipfel 13-16 J.

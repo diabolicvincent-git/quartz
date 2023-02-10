@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m25, f/💤, a/Intervention/Therapie
 ---
 ### Perioperative Antibiotikaprophylaxe

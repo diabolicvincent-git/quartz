@@ -1,6 +1,6 @@
 ---
 tags: f/⛑️, f/💤, a/intervention/therapie
-aliases: Oropharyngealtubus
+bazinga: Oropharyngealtubus
 ---
 > (Abstract::**Oropharyngealtubus.**)
 - **KI**:: Erhaltene Schutzreflexe, schwere Kieferverletzung

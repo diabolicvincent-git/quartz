@@ -1,5 +1,5 @@
 ---
-aliases: Riechen
+bazinga: Riechen
 tags: m/m16, f/👂, f/⚙️
 ---
 

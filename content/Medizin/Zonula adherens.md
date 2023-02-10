@@ -1,5 +1,5 @@
 ---
-aliases: Gürteldesmosom
+bazinga: Gürteldesmosom
 tags: m/m04, m/m05, f/🔬, f/🔬/Zellkontakt
 ---
 ### Zonula Adhaerens / Gürteldesmosom

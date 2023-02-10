@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m13, f/🫁, a/Pathologie
 ---
 (Abstract::Luft im Pleuraspalt, traumatisch/spontan, Komplikation [[Spannungspneumothorax]])

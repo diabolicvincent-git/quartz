@@ -1,5 +1,5 @@
 ---
-aliases: Body Mass Index, Body-Mass-Index
+bazinga: Body Mass Index, Body-Mass-Index
 tags: m/m02, a/Intervention/Diagnostik, f/🩺
 ---
 ### Body Mass Index / BMI

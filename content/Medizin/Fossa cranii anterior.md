@@ -1,5 +1,5 @@
 ---
-aliases: Vordere Schädelgrube
+bazinga: Vordere Schädelgrube
 tags: m/m15, f/🧠, f/💀
 ---
 ## Fossa cranii anterior

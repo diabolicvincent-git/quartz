@@ -1,5 +1,5 @@
 ---
-aliases: Granulocytopenie
+bazinga: Granulocytopenie
 tags: m/m08, m/m19
 ---
 ### Neutropenie

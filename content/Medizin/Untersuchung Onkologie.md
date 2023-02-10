@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m19, f/🦀, a/Intervention/Diagnostik
 ---
 ## DD Leitsymptome

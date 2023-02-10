@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m14, a/Intervention/Diagnostik
 ---
 ### Schellong-Test

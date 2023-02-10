@@ -1,5 +1,5 @@
 ---
-aliases: Harnröhre
+bazinga: Harnröhre
 tags: m/m22, f/🍆, f/💀, f/💀/Organ
 ---
 ### Urethra / Harnröhre

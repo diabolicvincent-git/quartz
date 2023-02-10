@@ -1,5 +1,5 @@
 ---
-aliases: Harnwegsinfektion
+bazinga: Harnwegsinfektion
 tags: m/m14, m/m18, a/Pathologie
 ---
 ### Harnwegsinfektion / HWI

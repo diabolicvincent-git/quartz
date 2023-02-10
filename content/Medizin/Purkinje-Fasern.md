@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Rami subendocardiales
 tags:
   - m/m11

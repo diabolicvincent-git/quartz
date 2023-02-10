@@ -1,5 +1,5 @@
 ---
-aliases: Zungenmandel
+bazinga: Zungenmandel
 tags: f/💀/Organ/Tonsillen, f/💀, f/👂
 ---
 > (Abstract::**Zungenmandel ([[Tonsillen]]).**)

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, f/🦴, a/Intervention/Diagnostik
 ---
 ### Kraftgrade (nach Janda)

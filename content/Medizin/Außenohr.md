@@ -1,5 +1,5 @@
 ---
-aliases: Auris externa
+bazinga: Auris externa
 tags: m/m16, f/👂, f/💀
 ---
 ### Außenohr 

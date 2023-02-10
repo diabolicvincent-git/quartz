@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m09, f/💤, a/Pathologie
 ---
 ### Verbrennung

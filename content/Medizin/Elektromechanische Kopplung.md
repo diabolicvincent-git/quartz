@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - null
 tags: m/m11, m/m10, m/m03, f/⚙️
 ---

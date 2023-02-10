@@ -1,5 +1,5 @@
 ---
-aliases: Gleichgewichtsorgan
+bazinga: Gleichgewichtsorgan
 tags: [m/m16, ToDo, f/⚙️, f/👁️]
 ---
 > Wahrnehmung mittels *sekundärer Sinneshaarzellen* mit *Daueraktivität* im Ruhezustand (gesteigert/verlangsamt bei Bewegung)

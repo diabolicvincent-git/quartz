@@ -1,5 +1,5 @@
 ---
-aliases: Zwischenhirn
+bazinga: Zwischenhirn
 tags: m/m15, f/🧠, f/💀
 kleiner: "[[Thalamus]], [[Subthalamus]], [[Hypothalamus]], [[Metathalamus]], [[Epithalamus]]"
 ---

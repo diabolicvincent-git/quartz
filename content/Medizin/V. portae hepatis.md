@@ -1,5 +1,5 @@
 ---
-aliases: Pfortader
+bazinga: Pfortader
 tags: m/m12, f/💩, f/💀, f/💀/Leitungsbahn/Vene
 ---
 ### V. portae hepatis / Pfortader

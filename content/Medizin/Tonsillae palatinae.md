@@ -1,5 +1,5 @@
 ---
-aliases: Gaumenmandeln
+bazinga: Gaumenmandeln
 tags: f/💀/Organ/Tonsillen, f/💀, f/👂
 ---
 > (Abstract::**Gaumenmandel ([[Tonsillen]]).**)

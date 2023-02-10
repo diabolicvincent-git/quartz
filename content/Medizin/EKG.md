@@ -1,5 +1,5 @@
 ---
-aliases: Elektrokardiogramm
+bazinga: Elektrokardiogramm
 tags: m/m11, f/🫀, a/Intervention/Diagnostik
 ---
 > (Abstract::**Elektrokardiogramm.**)

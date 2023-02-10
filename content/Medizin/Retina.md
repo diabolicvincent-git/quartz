@@ -1,5 +1,5 @@
 ---
-aliases: Netzhaut, Retinae
+bazinga: Netzhaut, Retinae
 tags: m/m16
 ---
 - **Funktion**:: Visuelle Wahrnehmung

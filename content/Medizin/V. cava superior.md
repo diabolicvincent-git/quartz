@@ -1,5 +1,5 @@
 ---
-aliases: Vena cava superior
+bazinga: Vena cava superior
 tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene
 ---
 ### [[V. cava]] superior

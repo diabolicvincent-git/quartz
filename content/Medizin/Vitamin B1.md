@@ -1,5 +1,5 @@
 ---
-aliases: Thiamin, Beri-Beri-Krankheit
+bazinga: Thiamin, Beri-Beri-Krankheit
 tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
 ---
 ### Vitamin B1 / Thiamin 

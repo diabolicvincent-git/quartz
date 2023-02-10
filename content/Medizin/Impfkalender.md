@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m18, f/🦠, a/Intervention/Therapie, f/🦄
 ---
 | [[Impfung]]                                                                        | Dosen                          | Besonderheiten                           |

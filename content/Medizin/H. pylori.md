@@ -1,5 +1,5 @@
 ---
-aliases: Helicobacter pylori
+bazinga: Helicobacter pylori
 tags: m/m18
 ---
 ### Helicobacter pylori

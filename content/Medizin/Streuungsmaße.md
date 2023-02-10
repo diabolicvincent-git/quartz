@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m07, f/📊
 ---
 ### Streuungsmaße

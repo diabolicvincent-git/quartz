@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m14, f/🗞️, f/🍺, f/🫀, f/🧪/Molekül/Hormon
 ---
 - **Synthese**:: [[Nebenniere]] ([[Zona glomerulosa]])

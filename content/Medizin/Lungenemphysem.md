@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m25, f/🫁
 ---
 ### Lungen[[Emphysem]]

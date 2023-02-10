@@ -1,5 +1,5 @@
 ---
-aliases: Intrakranieller Druck, Hirndruck
+bazinga: Intrakranieller Druck, Hirndruck
 tags: m/m15, f/🧠, a/Intervention/Diagnostik
 ---
 > (Abstract::**Intrakranieller Druck.**)

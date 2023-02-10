@@ -1,5 +1,5 @@
 ---
-aliases: Depressive Störung
+bazinga: Depressive Störung
 tags: m/m20, a/Pathologie, f/💭, a/Intervention/Diagnostik
 ---
 ### Depression

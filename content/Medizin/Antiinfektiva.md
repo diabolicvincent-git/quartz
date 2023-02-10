@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m18, f/🦠, f/💊/Medikament/Übergruppe
 ---
 - **Entitäten**:: ==[[Antibiotika]]==, ==[[Virostatika]],== [[Antihelminthika]], [[Antimykotika]], [[Antiprotozoika]]

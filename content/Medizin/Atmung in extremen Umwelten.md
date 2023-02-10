@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m13, f/⚙️, f/🫁
 ---
 # Fraktionen und Partialdrücke

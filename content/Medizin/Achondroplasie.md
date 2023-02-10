@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, m/m17, f/🧬, a/Pathologie
 ---
 > (Abstract::Häufigste genetisch-bedingte Kleinwuchs-Form (1:40.000))

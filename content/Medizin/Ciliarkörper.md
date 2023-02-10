@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Strahlenkörper
 tags: m/m16, f/💀, f/👁️
 ---

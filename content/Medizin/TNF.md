@@ -1,5 +1,5 @@
 ---
-aliases: Tumornekrosefaktor, TNF-α
+bazinga: Tumornekrosefaktor, TNF-α
 tags: m/m19, f/🦀, f/🧪, f/🧪/Molekül/Hormon
 ---
 ### Tumornekrosefaktor / TNF

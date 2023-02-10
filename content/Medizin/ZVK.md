@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m21, f/💤, a/Intervention/Therapie
 ---
 > (Abstract::**Zentraler Venenkatheter.** Bis kurz vor [[Rechter Vorhof]] in [[V. cava]] superior/inferior.)

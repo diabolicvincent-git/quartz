@@ -1,5 +1,5 @@
 ---
-aliases: Antibiogramm
+bazinga: Antibiogramm
 tags: m/m18
 ---
 ### Resistogramm / Antibiogramm

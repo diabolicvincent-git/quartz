@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m11, f/💀, f/🧠, f/🫀
 ---
 ### Plexus cardiacus

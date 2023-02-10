@@ -1,5 +1,5 @@
 ---
-aliases: Schwangerschaftswoche
+bazinga: Schwangerschaftswoche
 tags: m/m05, m/m22, f/🦩, a/Intervention/Diagnostik
 ---
 ### Schwangerschaftswoche / SSW

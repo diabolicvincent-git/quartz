@@ -1,5 +1,5 @@
 ---
-aliases: Strecksynergismus, Decerebrationsstarre
+bazinga: Strecksynergismus, Decerebrationsstarre
 tags: m/m15, a/Pathologie, f/🧠
 ---
 ### Strecksynergismen / Decerebrationsstarre

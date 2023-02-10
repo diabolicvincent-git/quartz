@@ -1,5 +1,5 @@
 ---
-aliases: Glomeruläre Filtrationsbarriere
+bazinga: Glomeruläre Filtrationsbarriere
 tags: m/m14, f/🍺, f/⚙️, f/🔬
 ---
 ### Blut-Harn-Schranke / Glomeruläre Filtrationsbarriere

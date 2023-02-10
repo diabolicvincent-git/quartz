@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, f/⚙️, a/Intervention/Diagnostik
 ---
 ### Spirometrie

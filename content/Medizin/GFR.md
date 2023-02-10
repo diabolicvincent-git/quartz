@@ -1,5 +1,5 @@
 ---
-aliases: Glomeruläre Filtrationsrate
+bazinga: Glomeruläre Filtrationsrate
 tags: m/m14
 ---
 ### Glomeruläre Filtrationsrate / GFR

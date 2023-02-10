@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05
 ---
 Umhüllung: Faszie (Kraftübertragung, Reibung¯) > Epimysium (lockeres BG) > Perimysium (BG-Septen; **Sekundärbündel**) > (**Primärbündel**) > Endomysium (**Muskelfaser**)

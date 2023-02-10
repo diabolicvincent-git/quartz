@@ -1,5 +1,5 @@
 ---
-aliases: Klimakterium, Wechseljahre, Postmenopause, Perimenopause
+bazinga: Klimakterium, Wechseljahre, Postmenopause, Perimenopause
 tags: m/m22, f/🦩
 ---
 ### Menopause / Klimakterium / Wechseljahre

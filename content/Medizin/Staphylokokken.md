@@ -1,5 +1,5 @@
 ---
-aliases: Staphylococcus, Staphylococcen
+bazinga: Staphylococcus, Staphylococcen
 tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
 ---
 > [[grampositiv]] > Kokken > [[Staphylokokken]] (Katalase+)

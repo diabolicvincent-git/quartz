@@ -1,5 +1,5 @@
 ---
-aliases: Genital, Genitale
+bazinga: Genital, Genitale
 tags: m/m22, f/🦩, f/🍆, f/💀
 ---
 ### Geschlechtsorgane

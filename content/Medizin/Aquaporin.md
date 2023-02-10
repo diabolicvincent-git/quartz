@@ -1,5 +1,5 @@
 ---
-aliases: AQP
+bazinga: AQP
 tags: m/m03, m/m14, f/🍺, f/🧪, f/⚙️, f/🧪/Molekül
 ---
 ### Aquaporin / AQP

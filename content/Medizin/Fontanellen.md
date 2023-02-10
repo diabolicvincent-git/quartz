@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Fontanelle
 tags: m/m15
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: Reversibles cerebrales Vasokonstriktionssyndrom
+bazinga: Reversibles cerebrales Vasokonstriktionssyndrom
 tags: m/m30, f/🧠, a/Pathologie
 ---
 ### Reversibles cerebrales Vasokonstriktionssyndrom / RCVS

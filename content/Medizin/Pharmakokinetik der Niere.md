@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m14, ToDo, f/🍺, f/💊/Medikament
 ---
 ## die wesentlichen Vorgänge mit Einfluss auf die Pharmakokinetik von Arzneimitteln sowie die klinisch relevanten Kenngrößen der Plasmakonzentrationszeitkurve erklären

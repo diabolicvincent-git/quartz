@@ -1,5 +1,5 @@
 ---
-aliases: Cremaster, Hodenhebermuskel, Hodenheber
+bazinga: Cremaster, Hodenhebermuskel, Hodenheber
 tags: m/m22, f/💀, f/🍆
 ---
 ### M. cremaster / Hodenhebermuskel

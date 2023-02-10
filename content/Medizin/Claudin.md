@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m04, m/m05, m/m14, f/🍺, f/⚙️
 ---
 ### Claudin

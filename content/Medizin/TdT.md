@@ -1,5 +1,5 @@
 ---
-aliases: Terminale Desoxyribonucleotidtransferase
+bazinga: Terminale Desoxyribonucleotidtransferase
 tags: m/m19, f/🧪, f/🧪/Molekül/Enzym
 ---
 ### Terminale Desoxyribonucleotidtransferase / TdT

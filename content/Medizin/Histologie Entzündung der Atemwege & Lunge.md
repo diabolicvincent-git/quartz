@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, f/🔬, f/🫁
 ---
 ## typische histopathologische Merkmale von Entzündungen der oberen Atemwege am Beispiel von Sinusitits und Tracheitis erkennen

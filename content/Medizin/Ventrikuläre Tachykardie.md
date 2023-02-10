@@ -1,5 +1,5 @@
 ---
-aliases: VT, pVT
+bazinga: VT, pVT
 tags: m/m11, f/🫀, a/Pathologie, a/Pathologie
 ---
 ### Ventrikuläre [[Tachykardie]] / VT

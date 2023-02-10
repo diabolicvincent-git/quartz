@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m10, f/🦴, f/⚙️, f/💀
 ---
 # den histologischen Bau und die Funktion der neuromuskulären Synapse als morphologische Nervenkontaktstellen zur Muskelfaser beschreiben können (weiterentwickelt)

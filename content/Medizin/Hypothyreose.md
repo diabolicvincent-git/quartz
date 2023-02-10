@@ -1,5 +1,5 @@
 ---
-aliases: Kretinismus
+bazinga: Kretinismus
 tags: m/m04, m/m17, m/m22, f/🗞️, a/Pathologie
 ---
 ### Hypothyreose / Schilddrüsenunterfunktion 

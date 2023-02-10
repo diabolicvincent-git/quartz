@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m11, m/m05, f/🧴, a/Pathologie
 ---
 ### Venöse Insuffizienz

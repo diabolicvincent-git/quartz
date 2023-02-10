@@ -1,8 +1,8 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m27, a/Intervention/Diagnostik, f/🦴
 ---
-> > (Abstract::Allgemeine [[Fraktur]]klassifikation der Arbeitsgemeinschaft für Osteosynthese)
+> (Abstract::Allgemeine [[Fraktur]]klassifikation der Arbeitsgemeinschaft für Osteosynthese)
 - **Körperregion**
 	1. [[Oberarm]]
 	2. [[Unterarm]]

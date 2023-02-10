@@ -1,5 +1,5 @@
 ---
-aliases: arteriell, arterielle
+bazinga: arteriell, arterielle
 tags: m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Arterie
 ---
 - **Funktion**:: Führen [[Blut]] vom [[Herz]] weg ([[Hochdrucksystem]])

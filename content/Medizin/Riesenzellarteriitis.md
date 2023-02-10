@@ -1,5 +1,5 @@
 ---
-aliases: M. Horton, Morbus Horton, Arteriitis temporalis, Arteriitis cranialis
+bazinga: M. Horton, Morbus Horton, Arteriitis temporalis, Arteriitis cranialis
 tags: m/m17
 ---
 ### Riesenzellarteriitis

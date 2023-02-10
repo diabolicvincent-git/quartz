@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m22, f/🗞️, a/Pathologie
 ---
 (Abstract::**Akute [[NNR-Insuffizienz]]** → Hydrocortison hochdosiert [[i.v.]])

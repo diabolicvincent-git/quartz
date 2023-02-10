@@ -1,5 +1,5 @@
 ---
-aliases: PDA
+bazinga: PDA
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Persistierender [[Ductus arteriosus Botalli]] / PDA

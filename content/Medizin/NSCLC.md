@@ -1,5 +1,5 @@
 ---
-aliases: Nicht-kleinzelliges Lungen-Ca, Nicht-kleinzelliges Lungenkarzinom
+bazinga: Nicht-kleinzelliges Lungen-Ca, Nicht-kleinzelliges Lungenkarzinom
 tags: m/m19, f/🦀, f/🫁, a/Pathologie
 ---
 ### Nicht-kleinzelliges [[Lungen-Ca]] / NSCLC

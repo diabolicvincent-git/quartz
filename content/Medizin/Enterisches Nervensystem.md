@@ -1,5 +1,5 @@
 ---
-aliases: Intramurales Nervensystem
+bazinga: Intramurales Nervensystem
 tags: m/m12, f/💩, f/🧠, f/⚙️
 ---
 ### Enterisches Nervensystem

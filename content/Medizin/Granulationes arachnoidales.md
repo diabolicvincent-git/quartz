@@ -1,5 +1,5 @@
 ---
-aliases: Pacchioni-Granulationen
+bazinga: Pacchioni-Granulationen
 tags: m/m15, f/🧠
 ---
 ### Granulationes arachnoidales / Pacchioni-Granulationen

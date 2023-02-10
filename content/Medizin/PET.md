@@ -1,5 +1,5 @@
 ---
-aliases: Positronen-Emissions-Tomographie
+bazinga: Positronen-Emissions-Tomographie
 tags: m/m19
 ---
 ### Positronen-Emissions-Tomographie / PET

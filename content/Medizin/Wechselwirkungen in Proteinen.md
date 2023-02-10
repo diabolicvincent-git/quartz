@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m02, f/🧪
 ---
 - **H-Brücken**:: Schwache, gerichtete Dipol-Dipol-Wechselwirkung zwischen Donor (Proton in Wasserstoffverbindung) [δ+] und Akzeptor (freies Elektronenpaar: z.B. O, N) [δ-]

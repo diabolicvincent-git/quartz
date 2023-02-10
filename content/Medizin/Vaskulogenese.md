@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, f/🔬, f/💀, f/🐣
 ---
 > (Abstract::Neubildung von [[Blutgefäße]] aus *Angioblasten* (Endothel-Vorläufer) innerhalb der *[[Embryonalentwicklung]]*)

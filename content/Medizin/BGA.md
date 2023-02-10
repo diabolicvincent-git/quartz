@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Blutgasanalyse
 tags: m/m13, f/🫁, f/💤, a/Intervention/Diagnostik, f/🥼
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: Antineoplastische Therapie
+bazinga: Antineoplastische Therapie
 tags: m/m19, f/🦀, a/Intervention/Therapie
 ---
 ### Antineoplastische Therapie / Tumortherapie

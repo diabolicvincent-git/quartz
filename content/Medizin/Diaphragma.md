@@ -1,5 +1,5 @@
 ---
-aliases: Zwerchfell
+bazinga: Zwerchfell
 tags: m/m13, f/💀, f/🫁
 ---
 ### Diaphragma / Zwerchfell

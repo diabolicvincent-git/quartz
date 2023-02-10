@@ -1,5 +1,5 @@
 ---
-aliases: Antiepileptika
+bazinga: Antiepileptika
 tags: m/m15, f/🧠, f/💊/Medikament/Übergruppe
 ---
 - **Klassische Antikonvulsiva**

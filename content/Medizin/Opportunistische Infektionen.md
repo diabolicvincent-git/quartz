@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m18, f/🦠
 ---
 ### Opportunistische Infektionen

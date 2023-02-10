@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
  - Bronchien
 tags: m/m13, f/🫁, f/💀, f/⚙️
 ---

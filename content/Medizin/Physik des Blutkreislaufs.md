@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Physik des Kreislaufs
   - Kreislaufphysik
 tags:

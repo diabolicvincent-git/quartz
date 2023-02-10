@@ -1,5 +1,5 @@
 ---
-aliases: New York Heart Association
+bazinga: New York Heart Association
 tags: m/m11, f/🫀, f/🫁, a/Intervention/Diagnostik
 ---
 ### NYHA / New York Heart Association

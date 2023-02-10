@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/🩸, f/💀, m/m08, f/💀/Organ
 ---
 ### Thymus

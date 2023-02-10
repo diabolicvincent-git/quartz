@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m16, f/👁️
 ---
 > (Abstract::Entzündung [[N. opticus (II)]] → prächiasmale [[Sehbahn]]-Schädigung → ==einseitiger [[Gesichtsfeldausfall]] ipsilateral==)

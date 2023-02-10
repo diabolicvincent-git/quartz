@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m09, f/🧴, a/Pathologie, f/🔪
 ---
 > (Abstract::Abgekapselte Gewebeeinschmelzung und Eiteransammlung)

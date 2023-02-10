@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, f/🫁, a/Intervention/Diagnostik
 ---
 - Bestimmung von *maximaler Atemmuskelkraft* und *Beanspruchung der [[Atemmuskulatur]]*

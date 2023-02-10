@@ -1,5 +1,5 @@
 ---
-aliases: Intracerebrale Blutung
+bazinga: Intracerebrale Blutung
 tags: m/m15, f/🧠
 ---
 ### Intracerebrale Blutung / ICB

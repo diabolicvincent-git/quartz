@@ -1,5 +1,5 @@
 ---
-aliases: Akutes Nierenversagen, ANV, AKI, Nierenschädigung
+bazinga: Akutes Nierenversagen, ANV, AKI, Nierenschädigung
 tags: m/m14, f/🍺, a/Pathologie
 ---
 ### Akute Nierenschädigung / Acute Kidney Injury

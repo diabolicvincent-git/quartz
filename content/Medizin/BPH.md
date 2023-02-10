@@ -1,5 +1,5 @@
 ---
-aliases: Benigne Prostatahyperplasie, BPS, Benignes Prostatasyndrom
+bazinga: Benigne Prostatahyperplasie, BPS, Benignes Prostatasyndrom
 tags: m/m22, f/🍆, a/Pathologie
 ---
 ### Benignes Prostatasyndrom / BPS

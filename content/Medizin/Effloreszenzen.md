@@ -1,5 +1,5 @@
 ---
-aliases: Effloreszenz
+bazinga: Effloreszenz
 tags: m/m09, f/🧴, a/Pathologie
 ---
 ### Effloreszenzen

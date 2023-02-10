@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m10, ToDo, f/⚙️, f/💀, f/🔬
 ---
 ## die verschiedenen Muskelformen (platter, spindelförmiger-, mehrbäuchigerMuskel) exemplarisch beschreiben

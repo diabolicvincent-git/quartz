@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m17, f/🗞️, f/🧠, a/Pathologie
 ---
 ### Coma diabeticum

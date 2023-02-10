@@ -1,5 +1,5 @@
 ---
-aliases: Kreatinkinase
+bazinga: Kreatinkinase
 tags: m/m10, f/🧪, f/🫀, f/🧪/Molekül, f/🥼
 ---
 ### Kreatinkinase / CK

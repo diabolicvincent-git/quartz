@@ -1,5 +1,5 @@
 ---
-aliases: Vascular Endothelial Growth Factor
+bazinga: Vascular Endothelial Growth Factor
 tags: m/m19, f/🦀, f/🧪, f/🧪/Molekül/Hormon
 ---
 ### Vascular Endothelial Growth Factor / VEGF

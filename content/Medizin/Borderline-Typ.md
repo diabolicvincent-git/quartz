@@ -1,4 +1,4 @@
 ---
-aliases: 
+bazinga: 
 tags: f/💭
 ---

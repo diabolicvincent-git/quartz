@@ -1,5 +1,5 @@
 ---
-aliases: Wirbelkörper, Vertebrae
+bazinga: Wirbelkörper, Vertebrae
 tags: m/m10, f/💀, f/🦴/Knochen
 ---
 ### Wirbel

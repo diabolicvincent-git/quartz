@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Regenbogenhaut
 tags:
   - m/m16

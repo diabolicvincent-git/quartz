@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m04
 ---
 ### Rezeptor-Tyrosinkinasen

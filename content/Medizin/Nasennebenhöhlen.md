@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Sinus paranasales
 tags: m/m16, f/👂, f/💀
 ---

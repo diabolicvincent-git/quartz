@@ -1,5 +1,5 @@
 ---
-aliases: Subakute Sklerosierende Panencephalitis
+bazinga: Subakute Sklerosierende Panencephalitis
 tags: m/m18
 ---
 ### Subakute Sklerosierende Panencephalitis / SSPE

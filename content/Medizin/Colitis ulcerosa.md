@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m17, m/m12, f/💩, f/💉, a/Pathologie
 ---
 ### Colitis ulcerosa

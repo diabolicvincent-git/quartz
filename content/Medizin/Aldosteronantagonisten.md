@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m25, f/🫀, f/💊/Medikament/Untergruppe
 ---
 > **[[Kaliumsparende Diuretika]]**

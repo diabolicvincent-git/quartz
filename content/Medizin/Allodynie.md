@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m20, f/💤, f/🧠, a/Pathologie
 ---
 (Abstract::[[Schmerz]]auslösung durch normalerweise nicht-noxische (z.B. taktile) Reize)

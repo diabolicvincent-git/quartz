@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m13, f/💀, f/🫁, f/💀/Organ
 ---
 - **Funktion**:: Weiterleitung der Atemluft von der Epiglottis zu den Hauptbronchien und umgekehrt, Anfeuchten und Erwärmen der Atemluft, Immunabwehr, Transport von Schmutz und Schleim aus den Atemwegen (mukoziliäre Clearance)

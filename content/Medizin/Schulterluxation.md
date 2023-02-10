@@ -1,5 +1,5 @@
 ---
-aliases: Schultergelenkluxation
+bazinga: Schultergelenkluxation
 tags: m/m27, f/🦴, a/Pathologie
 ---
 ### Schulterluxation

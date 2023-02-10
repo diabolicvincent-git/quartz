@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - HN V
 tags: m/m15, f/🧠
 ---

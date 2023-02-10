@@ -1,5 +1,5 @@
 ---
-aliases: Magnesium
+bazinga: Magnesium
 tags: m/m14
 ---
 ### Magnesium / Mg2+

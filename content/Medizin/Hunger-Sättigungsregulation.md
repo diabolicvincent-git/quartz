@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Hunger
 tags: m/m12, f/💩, f/⚙️
 ---

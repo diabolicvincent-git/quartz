@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m16, f/👁️, f/💀
 ---
 > Knöcherne Schutzhülle um den [[Bulbus oculi]], gefüllt mit Fett-/[[Bindegewebe]]. Enhält [[N. opticus (II)]], [[Augenmuskulatur]], [[Tränendrüse]] sowie [[Gefäße]] und Nerven.

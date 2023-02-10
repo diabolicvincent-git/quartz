@@ -1,5 +1,5 @@
 ---
-aliases: Vomex
+bazinga: Vomex
 tags: m/m12, m/m20, f/💊/Medikament/PIM
 ---
 ### Dimenhydrinat / Vomex®

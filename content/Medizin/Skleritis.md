@@ -1,5 +1,5 @@
 ---
-aliases: Episkleritis
+bazinga: Episkleritis
 tags: m/m17, m/m16, f/💉, a/Pathologie
 ---
 ### (Epi-)Skleritis

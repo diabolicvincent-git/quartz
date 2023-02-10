@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m36, f/💊/Medikament, f/💤
 ---
 ### Propofol

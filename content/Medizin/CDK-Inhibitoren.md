@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, m/m03, f/🧪, f/⚙️, f/🧪/Molekül
 ---
 ### CDK-Inhibitoren

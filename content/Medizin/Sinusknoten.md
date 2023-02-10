@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Nodus sinuatrialis
 tags: m/m11, f/🫀, f/⚙️
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: Eizellreifung
+bazinga: Eizellreifung
 tags: m/m22, f/🦩, f/🧪
 ---
 ### Oogenese / Eizellreifung

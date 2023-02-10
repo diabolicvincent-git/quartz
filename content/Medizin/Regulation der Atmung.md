@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - null
 tags:
   - m/m13

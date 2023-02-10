@@ -1,5 +1,5 @@
 ---
-aliases: Hämosiderose
+bazinga: Hämosiderose
 tags: m/m17, a/Pathologie
 ---
 ### Hämochromatose / Hämosiderose 

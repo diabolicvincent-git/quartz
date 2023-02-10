@@ -1,5 +1,5 @@
 ---
-aliases: Harnsteine
+bazinga: Harnsteine
 tags: m/m26, a/Pathologie, f/🍆
 ---
 ### Urolithiasis / Harnsteine

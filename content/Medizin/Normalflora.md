@@ -1,5 +1,5 @@
 ---
-aliases: Standortflora, Hautflora, Darmflora
+bazinga: Standortflora, Hautflora, Darmflora
 tags: m/m09, m/m18, f/🧴, f/🦠, f/⚙️
 ---
 ### Normalflora

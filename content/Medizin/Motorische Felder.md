@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m15
 ---
 (Abstract::Primärer [[Motorcortex]] (Aktivierung), Prämotorischer Cortex (Initiierung), Supplementärmotorischer Cortex (komplexe Sequenzen))

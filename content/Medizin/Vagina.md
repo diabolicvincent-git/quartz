@@ -1,5 +1,5 @@
 ---
-aliases: Scheide
+bazinga: Scheide
 tags: m/m22, f/🦩, f/💀, f/💀/Organ
 ---
 ### Vagina ([[♀]])

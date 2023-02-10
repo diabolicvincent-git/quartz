@@ -1,5 +1,5 @@
 ---
-aliases: Verbrauchskoagulopathie, Disseminierte intravasale Gerinnung
+bazinga: Verbrauchskoagulopathie, Disseminierte intravasale Gerinnung
 tags: m/m17, m/m21, f/🩸, a/Pathologie
 ---
 ### Verbrauchskoagulopathie / Disseminierte intravasale Gerinnung / DIC 

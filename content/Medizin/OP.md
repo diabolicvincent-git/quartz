@@ -1,5 +1,5 @@
 ---
-aliases: Operation
+bazinga: Operation
 tags: m/m26
 ---
 ### Operation / OP

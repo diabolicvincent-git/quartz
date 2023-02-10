@@ -1,5 +1,5 @@
 ---
-aliases: Bipolarzelle
+bazinga: Bipolarzelle
 tags: m/m16, f/⚙️, f/👁️
 ---
 ### On-[[Zapfen]]bipolarzellen

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m26, m/m21, f/💤, a/Intervention/Diagnostik/Score
 ---
 > American Society of Anesthesiologists Physical Status Classification System

@@ -1,5 +1,5 @@
 ---
-aliases: Durale Sinus
+bazinga: Durale Sinus
 tags: m/m15, f/🧠, f/💀/Leitungsbahn/Vene
 ---
 ### Sinus durae matris

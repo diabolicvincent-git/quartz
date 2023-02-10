@@ -1,5 +1,5 @@
 ---
-aliases: A. coronaria sinistra
+bazinga: A. coronaria sinistra
 tags: m/m11, f/🫀, f/💀
 ---
 ### A. coronaria sinistra / LCA

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m08, f/🩸/Transfusion, a/Intervention/Diagnostik
 ---
 > Prüfung von [[AB0]]-Verträglichkeit unmittelbar vor [[Transfusion]]

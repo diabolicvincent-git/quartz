@@ -1,5 +1,5 @@
 ---
-aliases: Imipenem, Meropenem, Ertapenem
+bazinga: Imipenem, Meropenem, Ertapenem
 tags: m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament/Übergruppe
 ---
 - **Wirkmechanismus**:: [[Störung der Zellwandsynthese]] ([[β-Lactam-Antibiotika]])

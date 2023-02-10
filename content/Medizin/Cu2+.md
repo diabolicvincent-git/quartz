@@ -1,5 +1,5 @@
 ---
-aliases: Kupfer
+bazinga: Kupfer
 tags: m/m21, f/🧪, f/⚙️, f/🧪/Molekül
 ---
 > (Abstract::**Kupfer.** [[Spurenelemente]].)

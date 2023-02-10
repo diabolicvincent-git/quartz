@@ -1,5 +1,5 @@
 ---
-aliases: Digital-rektale Untersuchung
+bazinga: Digital-rektale Untersuchung
 tags: m/m19 m/m22, f/💩, f/🍆
 ---
 ### Digital-rektale Untersuchung / DRU

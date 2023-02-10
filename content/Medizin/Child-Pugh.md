@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m12, f/💩, a/Intervention/Diagnostik, a/Intervention/Diagnostik/Score
 ---
 ### Child-Pugh

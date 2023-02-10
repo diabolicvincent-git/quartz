@@ -1,5 +1,5 @@
 ---
-aliases: Growth Hormone, Somatotropin, somatotropes Hormon, Wachstumshormon,
+bazinga: Growth Hormone, Somatotropin, somatotropes Hormon, Wachstumshormon,
   Wachstumshormone
 tags: m/m22, f/🗞️, f/⚙️, f/🧪/Molekül
 ---

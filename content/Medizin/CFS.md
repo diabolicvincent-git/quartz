@@ -1,5 +1,5 @@
 ---
-aliases: Chronisches Fatigue Syndrom, Chronic Fatigue Syndrom
+bazinga: Chronisches Fatigue Syndrom, Chronic Fatigue Syndrom
 tags: m/m21, f/💭, a/Pathologie
 ---
 ### Chronisches Fatigue Syndrom

@@ -1,5 +1,5 @@
 ---
-aliases: Vitamin B9
+bazinga: Vitamin B9
 tags: [m/m12, f/🧪/Molekül/Vitamin]
 ---
 > **Aktive Form**:: Tetrahydrofolsäure / THF (wasserlöslich)

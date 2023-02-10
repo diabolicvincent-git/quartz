@@ -1,5 +1,5 @@
 ---
-aliases: Herzfrequenz
+bazinga: Herzfrequenz
 tags: m/m00, a/Intervention/Diagnostik, f/🫀
 ---
 ### Herzfrequenz / HF

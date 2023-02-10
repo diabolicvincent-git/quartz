@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/🫁, m/m13
 ---
 # Inspiration

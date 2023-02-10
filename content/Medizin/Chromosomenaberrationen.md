@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/🧬
 ---
 - **Strukturelle Chromosomenaberrationen**:: Durch fehlerhaftes Crossing Over oder falsche Reparatur von Doppelstrangbrüchen

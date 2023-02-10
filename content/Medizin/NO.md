@@ -1,5 +1,5 @@
 ---
-aliases: Stickstoffmonoxid
+bazinga: Stickstoffmonoxid
 tags: m/m04, f/🧪
 ---
 ### Stickstoffmonoxid / [[NO]]

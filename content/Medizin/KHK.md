@@ -1,5 +1,5 @@
 ---
-aliases: Koronare Herzkrankheit
+bazinga: Koronare Herzkrankheit
 tags: m/m11
 ---
 ### Koronare Herzkrankheit / KHK

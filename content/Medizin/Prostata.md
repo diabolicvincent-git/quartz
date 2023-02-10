@@ -1,5 +1,5 @@
 ---
-aliases: Vorsteherdrüse
+bazinga: Vorsteherdrüse
 tags: m/m22, m/m19, f/💀, f/🍆
 ---
 ### Prostata (♂)

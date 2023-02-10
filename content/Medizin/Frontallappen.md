@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, f/💀, f/🧠
 ---
 - **Funktion**:: Höhere kognitive Prozesse, Bewegungsplanung

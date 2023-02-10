@@ -1,5 +1,5 @@
 ---
-aliases: Fasciculus atrioventricularis
+bazinga: Fasciculus atrioventricularis
 tags: m/m11, f/🫀, f/⚙️
 ---
 ### His-Bündel

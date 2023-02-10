@@ -1,5 +1,5 @@
 ---
-aliases: Cordarex
+bazinga: Cordarex
 tags: m/m11, f/🫀, f/💊/Medikament/Wirkstoff
 ---
 > (Abstract::Klasse-III-[[Antiarrhythmika]])

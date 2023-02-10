@@ -1,5 +1,5 @@
 ---
-aliases: M. Raynaud
+bazinga: M. Raynaud
 tags: m/m17, f/💉, a/Pathologie, f/🧴
 ---
 ### Raynaud-Syndrom

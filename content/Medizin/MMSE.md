@@ -1,5 +1,5 @@
 ---
-aliases: Mini-Mental-State-Examination
+bazinga: Mini-Mental-State-Examination
 tags: [a/Intervention/Diagnostik, m/m31, f/💭, f/🧠]
 ---
 - **Indikation**:: v.a. [[Demenz]]

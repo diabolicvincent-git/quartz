@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m21, m/m08, f/🩸, a/Intervention/Diagnostik
 ---
 ### Coombs-Test

@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
  - Sehschärfe
 tags: m/m16, f/👁️, f/⚙️
 ---

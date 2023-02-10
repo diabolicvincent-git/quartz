@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m11, f/🫀, a/Intervention/Diagnostik
 ---
 > (Abstract::**V3-V6 spiegelbildlich rechtsthorakal.** Bei V.a. [[Myokardinfarkt]] in [[Rechter Ventrikel]] )

@@ -1,5 +1,5 @@
 ---
-aliases: Bauchspeicheldrüse
+bazinga: Bauchspeicheldrüse
 tags: m/m12, f/💩, f/💀
 ---
 ### Pankreas / Bauchspeicheldrüse

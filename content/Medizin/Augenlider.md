@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Augenlid
   - Lider
   - Lid

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m11, m/m13, f/🫀, f/🫁, f/⚙️
 ---
 - Steigern [[Sympathikus]]-Aktivität bei [[CO2]]-Anstieg, [[O2]]-Abfall oder [[pH]]-Abfall

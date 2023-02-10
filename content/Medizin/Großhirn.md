@@ -1,5 +1,5 @@
 ---
-aliases: Telencephalon, Cerebrum
+bazinga: Telencephalon, Cerebrum
 tags: m/m15, f/🧠, f/💀
 ---
 ## Sulci

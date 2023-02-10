@@ -1,5 +1,5 @@
 ---
-aliases: Sumpffieber, Wechselfieber
+bazinga: Sumpffieber, Wechselfieber
 tags: m/m18, a/Pathologie, a/Pathologie, f/🦠
 ---
 ### Malaria

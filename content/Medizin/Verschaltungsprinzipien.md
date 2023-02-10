@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, f/🧠, f/⚙️
 ---
 - **Rückwärtshemmung**:: Aktivität 1 → Aktivität 2 → Hemmung 1

@@ -1,5 +1,5 @@
 ---
-aliases: Müller-Gänge, Ductus paramesonephricus
+bazinga: Müller-Gänge, Ductus paramesonephricus
 tags: m/m22, f/🐣, f/🦩, f/🍆
 ---
 ### Müller-Gang / Ductus paramesonephricus

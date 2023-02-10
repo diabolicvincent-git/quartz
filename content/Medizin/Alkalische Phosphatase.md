@@ -1,5 +1,5 @@
 ---
-aliases: AP
+bazinga: AP
 tags: m/m12, f/💩, f/🥼, a/Intervention/Diagnostik, f/🧪/Molekül/Enzym
 ---
 > **[[Leberwerte]]**

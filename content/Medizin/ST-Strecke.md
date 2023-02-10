@@ -1,5 +1,5 @@
 ---
-aliases: ST-Strecken
+bazinga: ST-Strecken
 tags: m/m11, f/🫀, a/Intervention/Diagnostik
 ---
 ### ST-Strecke

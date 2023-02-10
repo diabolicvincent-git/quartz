@@ -1,5 +1,5 @@
 ---
-aliases: Supraventrikuläre Tachykardie
+bazinga: Supraventrikuläre Tachykardie
 tags: m/m25, f/🫀, a/Pathologie
 ---
 ### Supraventrikuläre Tachykardie / SVT

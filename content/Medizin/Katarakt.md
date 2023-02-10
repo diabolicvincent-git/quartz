@@ -1,5 +1,5 @@
 ---
-aliases: Grauer Star
+bazinga: Grauer Star
 tags: m/m16, a/Pathologie, f/👁️
 ---
 > (Abstract::**Trübung der [[Augenlinse]].** Auch: Grauer Star.)

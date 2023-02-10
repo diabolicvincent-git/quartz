@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m17, f/💉, a/Pathologie, f/⚙️
 ---
 > (Abstract::Erworbene [[Thrombophilie]] mit Bildung von [[Auto-Antikörper]]n gegen Phospholipid-gebundene [[Proteine]])

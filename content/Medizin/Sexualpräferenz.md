@@ -1,5 +1,5 @@
 ---
-aliases: Paraphilie, Paraphilien
+bazinga: Paraphilie, Paraphilien
 tags: m/m22, f/🦩, f/🍆, f/💭
 ---
 ### Störungen der Sexualpräferenz / Paraphilien

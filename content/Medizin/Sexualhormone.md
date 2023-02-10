@@ -1,5 +1,5 @@
 ---
-aliases: Geschlechtshormone
+bazinga: Geschlechtshormone
 tags: m/m22, f/🦩, f/🗞️
 ---
 ### Sexualhormone / Geschlechtshormone

@@ -1,5 +1,5 @@
 ---
-aliases: Prostatakarzinom
+bazinga: Prostatakarzinom
 tags: m/m19, f/🍆, a/Pathologie, f/🦀
 ---
 ### Prostatakarzinom

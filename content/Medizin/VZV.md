@@ -1,5 +1,5 @@
 ---
-aliases: Varizella-Zoster-Virus
+bazinga: Varizella-Zoster-Virus
 tags: m/m09, f/🦠, f/🦄, f/🦠/Erreger/Viren
 ---
 ### Varizella-Zoster-Virus / VZV

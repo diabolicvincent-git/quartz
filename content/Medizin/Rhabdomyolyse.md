@@ -1,5 +1,5 @@
 ---
-aliases: Crush-Syndrom
+bazinga: Crush-Syndrom
 tags: m/m10, m/m14, f/🦴, f/🍺, a/Pathologie
 ---
 ### Rhabdomyolyse / Crush-Syndrom

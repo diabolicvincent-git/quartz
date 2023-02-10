@@ -1,5 +1,5 @@
 ---
-aliases: Alaninaminotransferase, ALAT, GPT
+bazinga: Alaninaminotransferase, ALAT, GPT
 tags: m/m12, f/🧪, f/🥼, f/🧪/Molekül/Enzym
 ---
 - **Funktion**:: [[Transaminierung]], [[Alaninzyklus]]

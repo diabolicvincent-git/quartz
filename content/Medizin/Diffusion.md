@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m03, m/m13, f/⚙️, f/🫁
 ---
 ### Diffusion der Atemgase

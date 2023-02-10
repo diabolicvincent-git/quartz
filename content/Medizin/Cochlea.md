@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m16, f/💀, f/⚙️, f/👂
 ---
 ### Cochlea 

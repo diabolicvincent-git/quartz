@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m09, f/🧴, a/Intervention/Therapie
 ---
 

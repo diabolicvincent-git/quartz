@@ -1,5 +1,5 @@
 ---
-aliases: Endoprothetik
+bazinga: Endoprothetik
 tags: m/m27, f/🦴, a/Intervention/Therapie
 ---
 ### Endoprothese

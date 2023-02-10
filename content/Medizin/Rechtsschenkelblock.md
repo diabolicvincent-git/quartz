@@ -1,5 +1,5 @@
 ---
-aliases: RSB
+bazinga: RSB
 tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Rechtsschenkelblock / RSB

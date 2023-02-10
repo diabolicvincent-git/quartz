@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, m/m22, f/🧠, f/💀
 kleiner: [[Neurohypophyse]]
 ---

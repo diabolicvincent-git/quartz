@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: [a/Pathologie, f/🗞️]
 ---
 ### Hyperglycämie

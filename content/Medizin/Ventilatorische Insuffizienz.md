@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, f/🫁, a/Pathologie
 ---
 Insuffizienz der Atemmuskelpumpe (Missverhältnis zwischen Kapazität & Last)

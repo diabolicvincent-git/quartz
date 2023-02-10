@@ -1,5 +1,5 @@
 ---
-aliases: ALS
+bazinga: ALS
 tags: m/m15, f/🧠, a/Pathologie
 ---
 (Abstract::[[Neurodegenerative Erkrankungen]] des ==1. und 2. Motoneurons== (TDP-43 Aggregation))

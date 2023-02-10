@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: [a/Pathologie, f/💭, m/m31]
 ICD: "F41.0"
 ---

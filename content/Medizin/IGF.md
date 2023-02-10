@@ -1,5 +1,5 @@
 ---
-aliases: Insulin-like Growth Factor
+bazinga: Insulin-like Growth Factor
 tags: m/m04, m/m22, f/🗞️, f/🧪, f/🧪/Molekül
 ---
 ### Insulin-like Growth Factor / IGF

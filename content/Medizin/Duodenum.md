@@ -1,5 +1,5 @@
 ---
-aliases: Zwölffingerdarm
+bazinga: Zwölffingerdarm
 tags: m/m12, f/💀, f/💩
 ---
 ### Duodenum / Zwölffingerdarm

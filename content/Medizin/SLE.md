@@ -1,5 +1,5 @@
 ---
-aliases: SLE, Systemischer Lupus erythematodes
+bazinga: SLE, Systemischer Lupus erythematodes
 tags: m/m17, a/Pathologie, f/💉
 ---
 - **Epidemiologie**:: 20. – 40. LJ, [[♀]] >> [[♂]] 

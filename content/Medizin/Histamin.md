@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, m/m08, m/m09, f/⚙️, f/🦠
 ---
 ### Histamin 

@@ -1,5 +1,5 @@
 ---
-aliases: CD-Marker, Clusters of differentiation
+bazinga: CD-Marker, Clusters of differentiation
 tags: [m/m08, m/m19, f/💉]
 ---
 ### CD-Marker

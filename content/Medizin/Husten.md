@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m19, m/m13, f/🫁, f/🦠, f/🦀
 ---
 ### Husten

@@ -1,5 +1,5 @@
 ---
-aliases: Gastroduodenale Ulkuskrankheit, Ulcus ventriculi, Ulcus duodeni
+bazinga: Gastroduodenale Ulkuskrankheit, Ulcus ventriculi, Ulcus duodeni
 tags: m/m26, f/💩, a/Pathologie
 ---
 ### Gastroduodenale Ulcera

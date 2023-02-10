@@ -1,5 +1,5 @@
 ---
-aliases: Gerinnungsneigung
+bazinga: Gerinnungsneigung
 tags: m/m17, a/Pathologie, f/🩸
 ---
 

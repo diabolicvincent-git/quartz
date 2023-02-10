@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, f/⚙️, f/🧬
 ---
 ### Hardy-Weinberg-Gesetz

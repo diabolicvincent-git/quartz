@@ -1,5 +1,5 @@
 ---
-aliases: Gravidität
+bazinga: Gravidität
 tags: m/m05, m/m22
 ---
 - **Diagnostik**

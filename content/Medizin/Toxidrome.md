@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m00, f/🍄, a/Pathologie
 ---
 ### Toxikologische Syndrome / Toxidrome 

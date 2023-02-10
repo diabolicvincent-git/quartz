@@ -1,5 +1,5 @@
 ---
-aliases: VSD
+bazinga: VSD
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Ventrikelseptumdefekt / VSD

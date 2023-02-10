@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
 ---
 ### Escherichia coli

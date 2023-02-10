@@ -1,5 +1,5 @@
 ---
-aliases: Procalcitonin
+bazinga: Procalcitonin
 tags: m/m17, f/🥼, f/🧪, f/🗞️, f/🧪/Molekül
 ---
 ### Procalcitonin / PCT

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m08, m/m21, f/⚙️
 ---
 ### Vasodilatation / Gefäßerweiterung

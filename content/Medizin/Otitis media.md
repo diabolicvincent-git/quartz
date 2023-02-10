@@ -1,5 +1,5 @@
 ---
-aliases: Mittelohrentzündung
+bazinga: Mittelohrentzündung
 tags: m/m16, f/👂, a/Pathologie
 ---
 > (Abstract::**Mittelohrentzündung.**)

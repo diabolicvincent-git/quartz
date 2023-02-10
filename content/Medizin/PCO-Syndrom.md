@@ -1,5 +1,5 @@
 ---
-aliases: Polycystisches Ovarsyndrom, Polycystisches ovarielles Syndrom
+bazinga: Polycystisches Ovarsyndrom, Polycystisches ovarielles Syndrom
 tags: m/m22, f/🦩, a/Pathologie
 ---
 ### Polycystisches Ovarsyndrom / PCO-Syndrom

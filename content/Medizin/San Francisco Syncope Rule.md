@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m21, m/m11, f/🫀, f/💤, a/Intervention/Diagnostik, a/Intervention/Diagnostik/Score
 ---
 ### San Francisco Syncope Rule / CHESS

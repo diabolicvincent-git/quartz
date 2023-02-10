@@ -1,5 +1,5 @@
 ---
-aliases: Adrenocorticotropes Hormon
+bazinga: Adrenocorticotropes Hormon
 tags: m/m04, m/m22, f/🗞️, f/🧪/Molekül/Hormon
 ---
 > *[[Hypothalamus-Hypophysen-Achse]]:* [[CRH]] → [[ACTH]] → [[Cortisol]]

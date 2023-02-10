@@ -1,5 +1,5 @@
 ---
-aliases: Hören
+bazinga: Hören
 tags: m/m16, f/👂, f/🧠
 ---
 ## Akustische Signale

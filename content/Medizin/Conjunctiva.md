@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Bindehaut
   - Konjunktiven
   - Konjunktiva

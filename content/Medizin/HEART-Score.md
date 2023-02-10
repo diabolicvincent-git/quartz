@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m00, m/m11, f/🫀, a/Intervention/Diagnostik/Score, f/⛑️
 ---
 ### HEART-Score

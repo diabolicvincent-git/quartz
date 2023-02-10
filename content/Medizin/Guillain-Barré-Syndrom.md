@@ -1,5 +1,5 @@
 ---
-aliases: GBS
+bazinga: GBS
 tags: m/m15, f/🧠, a/Pathologie
 ---
 > Akute demyelinisierende Polyneuroradikulopathie

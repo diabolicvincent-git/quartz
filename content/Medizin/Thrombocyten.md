@@ -1,5 +1,5 @@
 ---
-aliases: Thrombocyt
+bazinga: Thrombocyt
 tags: m/m08, f/🩸, f/🔬/Zelle
 ---
 ### Thrombocyten / Blutplättchen 

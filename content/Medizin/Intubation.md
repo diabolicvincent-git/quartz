@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m21, m/m29, f/💤, f/⛑️, a/Intervention/Therapie
 ---
 ### Intubation

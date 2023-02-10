@@ -1,5 +1,5 @@
 ---
-aliases: Blutkreislauf
+bazinga: Blutkreislauf
 tags: m/m11
 ---
 # Anatomische Gliederung

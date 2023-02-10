@@ -1,5 +1,5 @@
 ---
-aliases: AGS
+bazinga: AGS
 tags: m/m22, f/🦩, f/🗞️, a/Pathologie, f/🦄, f/🦄, ToDo
 ---
 - **Epidemiologie**:: [[Inzidenz]] 1:10.000[^1]

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m16, f/👁️, f/⚙️, ToDo
 ---
 > (Abstract::**Linsenkrümmung** → Veränderung Gesamtbrechkraft (ermöglicht scharfes Sehen unabhängig der Gegenstandsweite))

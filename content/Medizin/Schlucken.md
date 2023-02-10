@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m12, f/⚙️
 ---
 ### Physiologie des Schluckvorgangs

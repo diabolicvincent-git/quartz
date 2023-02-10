@@ -1,5 +1,5 @@
 ---
-aliases: Zelle, Zell
+bazinga: Zelle, Zell
 tags: m/m03, f/🧪, f/🔬/Zelle
 ---
 ### Zelle

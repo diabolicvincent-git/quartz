@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m24, a/Pathologie, f/🫁
 ---
 ### Bronchitis

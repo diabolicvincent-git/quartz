@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m14, f/🍺, f/⚙️
 ---
 > "Fiktives" Plasma[[Volumen]], das von der [[Niere]] innerhalb einer Zeit von einer Substanz gereinigt wird

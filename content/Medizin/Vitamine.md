@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m12, f/🧪/Molekül
 ---
 > Fettlösliche Vitamine: E, D, K, A

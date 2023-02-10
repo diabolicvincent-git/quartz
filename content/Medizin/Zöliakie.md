@@ -1,5 +1,5 @@
 ---
-aliases: Glutensensitive Enteropathie, Heubner-Herter-Krankheit, Nichttropische Sprue
+bazinga: Glutensensitive Enteropathie, Heubner-Herter-Krankheit, Nichttropische Sprue
 tags: m/m26, f/💩, a/Pathologie
 ---
 ### Zöliakie / Glutensensitive Enteropathie

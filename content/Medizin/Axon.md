@@ -1,5 +1,5 @@
 ---
-aliases: Nervenfaser, Axone, Nervenfasern
+bazinga: Nervenfaser, Axone, Nervenfasern
 tags: m/m05, f/🧠, f/💀
 ---
 > Nervenfaser = [[Axon]] eines [[Neuron]] + [[Gliazellen]]

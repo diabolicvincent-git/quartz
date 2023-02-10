@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/🫀, a/Pathologie
 ---
 ### Kardiomyopathie

@@ -1,5 +1,5 @@
 ---
-aliases: HPA
+bazinga: HPA
 tags: m/m04, m/m22, f/⚙️, f/🗞️
 ---
 ### Hypothalamus-Hypophysen-Achse / HPA

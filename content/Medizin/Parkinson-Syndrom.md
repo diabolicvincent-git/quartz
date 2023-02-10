@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
 tags: m/m15, f/🧠, a/Pathologie
 ---
 Klinik aus [[Akinese]], [[Rigor]], [[Ruhetremor]], [[Posturale Instabilität]] durch [[DOPamin]]-Mangel

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m20, f/💭, f/🧠, f/💤, a/Pathologie
 ---
 - **Epidemiologie**:: 30% [[ITS]]-Pat, 30% Ü65, 80% Beatmete

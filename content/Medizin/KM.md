@@ -1,5 +1,5 @@
 ---
-aliases: Kontrastmittel
+bazinga: Kontrastmittel
 tags: m/m00, a/Intervention/Diagnostik
 ---
 > (Abstract::**Kontrastmittel.**)

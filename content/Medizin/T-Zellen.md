@@ -1,5 +1,5 @@
 ---
-aliases: T-Zell, T-Lymphocyt, T-Lymphocyten
+bazinga: T-Zell, T-Lymphocyt, T-Lymphocyten
 tags: m/m08, m/m18
 ---
 ### T-Lymphocyten

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: [f/💀/Leitungsbahn/Vene/Punktabel/ZVK]
 ---
 - **Ursprung**:: Zusammenfluss [[Sinus sigmoideus]] + [[Sinus petrosus inferior]]

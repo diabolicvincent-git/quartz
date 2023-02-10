@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Hornhaut
 tags: m/m16, f/💀, f/👁️
 ---

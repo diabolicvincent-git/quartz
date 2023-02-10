@@ -1,5 +1,5 @@
 ---
-aliases: Head-Zone
+bazinga: Head-Zone
 tags: m/m20, f/💤, a/Intervention/Diagnostik
 ---
 ### Head'sche Zonen

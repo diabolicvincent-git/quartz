@@ -1,5 +1,5 @@
 ---
-aliases: Vancomycin, Teicoplanin
+bazinga: Vancomycin, Teicoplanin
 tags: m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament
 ---
 - **Wirkmechanismus**:: [[Störung der Zellwandsynthese]] (Komplexbildung mit Murein)

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m14, m/m21, f/⚙️
 ---
 ### Kompartimente

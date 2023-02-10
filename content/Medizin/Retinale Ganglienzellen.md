@@ -1,5 +1,5 @@
 ---
-aliases: Retinale Ganglienzelle
+bazinga: Retinale Ganglienzelle
 tags: m/m16, f/👁️
 ---
 > Ihre [[Axon]] bilden [[N. opticus (II)]]

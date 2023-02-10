@@ -1,5 +1,5 @@
 ---
-aliases: Vaskulitiden
+bazinga: Vaskulitiden
 tags: m/m17, a/Pathologie, f/💉, a/Pathologie
 ---
 ### Vaskulitis / Vaskulitiden

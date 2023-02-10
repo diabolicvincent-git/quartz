@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m22, f/🦄, f/🍆, f/🦩, f/🗞️
 ---
 ### Pubertät

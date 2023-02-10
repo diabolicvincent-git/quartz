@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m26, m/m17, f/💊/Medikament, f/💉
 ---
 > **[[Immunsuppressiva]], [[Cytostatika]]**

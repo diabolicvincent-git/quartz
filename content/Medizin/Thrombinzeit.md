@@ -1,5 +1,5 @@
 ---
-aliases: PTZ, TZ
+bazinga: PTZ, TZ
 tags: m/m08, f/🩸, f/🥼, a/Intervention/Diagnostik
 ---
 ### (Plasma-)Thrombinzeit / PTZ / TZ 

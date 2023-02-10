@@ -1,5 +1,5 @@
 ---
-aliases: intravenös
+bazinga: intravenös
 tags: m/m00
 ---
 ### intravenös / i.v.

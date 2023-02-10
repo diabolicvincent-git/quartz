@@ -1,5 +1,5 @@
 ---
-aliases: Neuroleptika
+bazinga: Neuroleptika
 tags: m/m20, f/💭, f/💊/Medikament/Übergruppe
 ---
 > (Abstract::Veraltet: Neuroleptika)

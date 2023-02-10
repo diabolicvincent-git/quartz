@@ -1,5 +1,5 @@
 ---
-aliases: Glasgow-Coma-Scale
+bazinga: Glasgow-Coma-Scale
 tags: m/m15
 ---
 ### Glasgow-Coma-Scale / GCS

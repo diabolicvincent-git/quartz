@@ -1,5 +1,5 @@
 ---
-aliases: Chromosomen
+bazinga: Chromosomen
 tags: m/m02, f/🧬, f/🧪
 ---
 ### Chromosom

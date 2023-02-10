@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: ToDo, f/🧠, f/🔬
 ---
 

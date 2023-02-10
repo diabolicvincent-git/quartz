@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Diuretikum
 tags: m/m14, f/💊/Medikament, f/🍺, f/🫀
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: Bland-White-Garland-Syndrom, ALCAPA
+bazinga: Bland-White-Garland-Syndrom, ALCAPA
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Koronararterienanomalien

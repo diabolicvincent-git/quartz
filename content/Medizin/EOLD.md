@@ -1,5 +1,5 @@
 ---
-aliases: End of Life Decision, End of Life Decisions
+bazinga: End of Life Decision, End of Life Decisions
 tags: m/m20, m/m23, f/💤
 ---
 ### End of Life Decisions / EOLD

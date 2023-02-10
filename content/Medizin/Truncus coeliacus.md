@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m12, m/m26, f/💀, f/💀/Leitungsbahn/Arterie
 ---
 ### Truncus coeliacus

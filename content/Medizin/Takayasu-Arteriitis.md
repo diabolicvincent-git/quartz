@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m17, f/💉, a/Pathologie
 ---
 ### Takayasu-Arteriitis

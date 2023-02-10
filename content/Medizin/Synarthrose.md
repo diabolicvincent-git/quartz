@@ -1,5 +1,5 @@
 ---
-aliases: Synarthrosen
+bazinga: Synarthrosen
 tags: m/m10, f/🦴, f/💀
 ---
 ### Synarthrosen / Unechte [[Gelenke]]

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: [a/Pathologie/Symptom, f/💭/Psychopathologischer-Befund/Affektivität, m/m31]
 ICD: ""
 ---

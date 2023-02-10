@@ -1,5 +1,5 @@
 ---
-aliases: TKI
+bazinga: TKI
 tags: m/m19, f/🦀, f/💊/Medikament
 ---
 ### Tyrosinkinaseinhibitoren / TKI

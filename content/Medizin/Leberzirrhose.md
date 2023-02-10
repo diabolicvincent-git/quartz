@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m12, m/m17, f/💩
 ---
 ### Leberzirrhose 

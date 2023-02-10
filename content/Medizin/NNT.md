@@ -1,5 +1,5 @@
 ---
-aliases: Number Needed To Treat
+bazinga: Number Needed To Treat
 tags: m/m07, f/📊
 ---
 (Abstract::**Number needed to treat**, Kehrwert der [[ARR]])

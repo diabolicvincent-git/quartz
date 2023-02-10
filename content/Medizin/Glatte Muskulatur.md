@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, f/🔬/Gewebe
 ---
 - **Vorkommen**:: Wandungen von Hohlorganen, [[Gefäße]] und [[Lymphgefäße]], [[Auge]], Haut

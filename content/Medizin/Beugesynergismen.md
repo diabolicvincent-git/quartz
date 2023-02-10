@@ -1,5 +1,5 @@
 ---
-aliases: Beugesynergismus, Decorticationsstarre
+bazinga: Beugesynergismus, Decorticationsstarre
 tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Beugesynergismen / Decorticationsstarre

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, m/m19, f/🦀, f/🧪, f/🔬
 ---
 ### Neoplasie

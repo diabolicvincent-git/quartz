@@ -1,5 +1,5 @@
 ---
-aliases: LSB
+bazinga: LSB
 tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Linksschenkelblock / LSB

@@ -1,5 +1,5 @@
 ---
-aliases: Thrombocytopenie
+bazinga: Thrombocytopenie
 tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Thrombopenie 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m13, a/Intervention/Diagnostik, f/🫁
 ---
 ### Tiffeneau-Test

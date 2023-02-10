@@ -1,5 +1,5 @@
 ---
-aliases: MAO-Inhibitoren
+bazinga: MAO-Inhibitoren
 tags: m/m20
 ---
 ### MAO-Inhibitoren

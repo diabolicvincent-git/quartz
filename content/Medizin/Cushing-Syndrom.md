@@ -1,5 +1,5 @@
 ---
-aliases: Hypercortisolismus
+bazinga: Hypercortisolismus
 tags: m/m04 m/m22 ToDo, f/🗞️
 ---
 > (Abstract::**Hypercortisolismus.** Durch [[Glucocorticoide]] oder [[ACTH]]-Tumor. [[Adipositas]], Striae, [[Diabetes mellitus]] etc.)

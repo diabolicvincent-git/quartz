@@ -1,5 +1,5 @@
 ---
-aliases: R. circumflexus, Ramus circumflexus
+bazinga: R. circumflexus, Ramus circumflexus
 tags: m/m11, f/🫀, f/💀
 ---
 ### R. circumflexus / RCX

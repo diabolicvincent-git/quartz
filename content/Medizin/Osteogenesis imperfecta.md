@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Glasknochenkrankheit
 tags:
   - m/m05

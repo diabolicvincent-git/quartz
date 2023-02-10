@@ -1,5 +1,5 @@
 ---
-aliases: Gangstörung
+bazinga: Gangstörung
 tags: m/m10, m/m15, f/🦴, f/🧠
 ---
 # Beschreibung von Gangstörungen

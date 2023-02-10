@@ -1,5 +1,5 @@
 ---
-aliases: Sonic Hedgehog, SHH, HH
+bazinga: Sonic Hedgehog, SHH, HH
 tags: m/m05, f/🧪, f/🐣, f/🧪/Molekül
 ---
 ### Sonic Hedgehog / SHH

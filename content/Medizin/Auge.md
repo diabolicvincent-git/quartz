@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Augen
 tags: m/m16, f/👁️, f/💀
 ---

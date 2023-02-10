@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Kurzsichtigkeit
 tags: m/m16, f/👁️, a/Pathologie
 ---

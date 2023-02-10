@@ -1,5 +1,5 @@
 ---
-aliases: Akute-Phase-Reaktion
+bazinga: Akute-Phase-Reaktion
 tags: m/m08, m/m17
 ---
 ### Entzündung 

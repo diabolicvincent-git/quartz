@@ -1,5 +1,5 @@
 ---
-aliases: Adrenorezeptoren, adrenerg
+bazinga: Adrenorezeptoren, adrenerg
 tags: m/m21, f/⚙️, f/🫀, f/🧪/Molekül/Rezeptor
 ---
 > [[GPCR]] der [[Katecholamine]] außerhalb des [[ZNS]]

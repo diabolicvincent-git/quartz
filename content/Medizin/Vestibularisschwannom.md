@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
  - Akustikusneurinom
 tags: m/m16, f/👂, f/🧠, f/🦀, a/Pathologie
 ---

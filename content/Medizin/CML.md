@@ -1,5 +1,5 @@
 ---
-aliases: Chronische myeloische Leukämie
+bazinga: Chronische myeloische Leukämie
 tags: m/m19, f/🦀, f/🩸
 ---
 ### Chronische myeloische Leukämie / CML

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m11, a/Intervention/Diagnostik/Score, a/Intervention/Diagnostik, f/🫀
 ---
 > (Abstract::Thromboembolie-[[Risiko]] bei [[VHF]])

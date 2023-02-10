@@ -1,5 +1,5 @@
 ---
-aliases: Verrenkung
+bazinga: Verrenkung
 tags: m/m27, f/🦴, a/Pathologie
 ---
 ### Luxation / Verrenkung

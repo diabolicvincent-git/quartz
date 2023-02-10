@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m15, f/🧠
 ---
 - **Hirnnervenkerne**:: In [[Mesencephalon]], [[Pons]] und [[Medulla oblongata]] (insg. 18)

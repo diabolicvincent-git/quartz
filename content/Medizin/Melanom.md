@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m09, m/m19, a/Pathologie
 ---
 ### Malignes Melanom

@@ -1,5 +1,5 @@
 ---
-aliases: Selbstverletzendes Verhalten
+bazinga: Selbstverletzendes Verhalten
 tags: [f/💭, a/Pathologie, m/m31]
 ---
 - **Epidemiologie**:: Beginn frühe Adoleszenz, Prävalenz 17%, [[♀]]>[[♂]]

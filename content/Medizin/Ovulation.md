@@ -1,5 +1,5 @@
 ---
-aliases: Eisprung
+bazinga: Eisprung
 tags: m/m22, f/🦩, f/⚙️
 ---
 ### Ovulation / Eisprung

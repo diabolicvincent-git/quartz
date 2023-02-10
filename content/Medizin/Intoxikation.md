@@ -1,5 +1,5 @@
 ---
-aliases: Vergiftung
+bazinga: Vergiftung
 tags: m/m00, m/m13
 ---
 ### Intoxikation / Vergiftung

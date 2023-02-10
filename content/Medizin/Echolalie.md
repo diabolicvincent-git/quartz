@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: a/Pathologie
 ---
 Automatisches Nachsprechen von Gesagtem, ohne Rücksicht auf Inhalt und Sinn

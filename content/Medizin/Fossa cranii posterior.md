@@ -1,5 +1,5 @@
 ---
-aliases: Hintere Schädelgrube
+bazinga: Hintere Schädelgrube
 tags: m/m15, f/💀, f/🧠
 ---
 ## Fossa cranii posterior

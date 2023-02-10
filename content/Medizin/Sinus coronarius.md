@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m11, f/🫀, f/💀/Leitungsbahn/Vene
 ---
 ### Sinus coronarius

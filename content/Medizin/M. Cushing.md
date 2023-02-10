@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m04, m/m22, f/🗞️, a/Pathologie, f/🧠, f/🔪
 ---
 ### M. Cushing

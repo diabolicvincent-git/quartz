@@ -1,5 +1,5 @@
 ---
-aliases: Akute myeloische Leukämie
+bazinga: Akute myeloische Leukämie
 tags: m/m19, f/🦀, f/🩸, a/Pathologie
 ---
 - **FAB-Klassifikation**

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m13, f/🫁, f/⛑️, a/Pathologie/Erkrankung
 ---
 > (Abstract::**Akut exerzabierte [[COPD]].**)

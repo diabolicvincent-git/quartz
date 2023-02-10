@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m14, a/Intervention/Therapie
 ---
 ### NaCl 0,9%

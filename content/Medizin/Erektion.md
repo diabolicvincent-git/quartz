@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m22, f/🍆, f/⚙️
 ---
 ### Erektion

@@ -1,5 +1,5 @@
 ---
-aliases: Minimale Hemmkonzentration
+bazinga: Minimale Hemmkonzentration
 tags: m/m18
 ---
 ### Minimale Hemmkonzentration / MHK

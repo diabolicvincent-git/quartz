@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m05, f/🧬, a/Pathologie, f/🍺
 ---
 **Gruppe**:: [[Genetische Erkrankungen]]

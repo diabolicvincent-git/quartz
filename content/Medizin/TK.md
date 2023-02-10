@@ -1,5 +1,5 @@
 ---
-aliases: Thrombocytenkonzentrat
+bazinga: Thrombocytenkonzentrat
 tags: m/m08, m/m21, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament
 ---
 > (Abstract::**Thrombocytenkonzentrat.**)

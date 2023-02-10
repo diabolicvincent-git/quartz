@@ -1,5 +1,5 @@
 ---
-aliases: Lymphknotenschwellung
+bazinga: Lymphknotenschwellung
 tags: m/m19
 ---
 ### Lymphadenopathie

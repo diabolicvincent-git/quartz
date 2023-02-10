@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m10, f/🦴, f/⚙️
 ---
 ### Hoffmann-[[Reflex]] 

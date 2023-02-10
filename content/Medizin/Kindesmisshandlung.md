@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m00, f/🦄, f/💭, a/Pathologie, f/⚰️
 ---
 > Stationäre Aufnahme erwirken! (z.B. "Grunderkrankung abklären, die Verletzung mit diesem Mechanismus erklären kann, etwa Knochenstoffwechsel") + Info Kinderschutzgruppe

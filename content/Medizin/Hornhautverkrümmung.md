@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Astigmatismus
 tags:
   - m/m16

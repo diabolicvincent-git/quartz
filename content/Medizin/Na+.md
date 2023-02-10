@@ -1,5 +1,5 @@
 ---
-aliases: Natrium
+bazinga: Natrium
 tags: m/m14, f/🧪, f/⚙️, f/🧪/Molekül, f/🍺
 ---
 ### Natrium / Na+

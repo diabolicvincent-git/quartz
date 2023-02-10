@@ -1,5 +1,5 @@
 ---
-aliases: TGA
+bazinga: TGA
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Transposition der großen Arterien / TGA

@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/💩, f/🐣, a/Pathologie, m/m26
 ---
 ### Volvulus

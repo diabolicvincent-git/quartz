@@ -1,5 +1,5 @@
 ---
-aliases: Plasmakonzentrat, Fresh Frozen Plasma
+bazinga: Plasmakonzentrat, Fresh Frozen Plasma
 tags: m/m08, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament
 ---
 > (Abstract::**Fresh Frozen Plasma.**)

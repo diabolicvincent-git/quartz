@@ -1,5 +1,5 @@
 ---
-aliases: Metastasierung
+bazinga: Metastasierung
 tags: m/m19, f/🦀
 ---
 ### Metastasen

@@ -1,5 +1,5 @@
 ---
-aliases: Carboanhydrase-Inhibitoren, Acetacolamid
+bazinga: Carboanhydrase-Inhibitoren, Acetacolamid
 tags: m/m14, f/💊/Medikament, f/🍺, f/🫀
 ---
 ### Carboanhydrase-Hemmer

@@ -1,5 +1,5 @@
 ---
-aliases: Hamilton-Depressionsskala, HAMD
+bazinga: Hamilton-Depressionsskala, HAMD
 tags: m/m20, f/💭, a/Intervention/Diagnostik
 ---
 ### Hamilton-Depressionsskala

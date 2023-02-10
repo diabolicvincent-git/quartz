@@ -1,5 +1,5 @@
 ---
-aliases: Verlängertes Rückenmark
+bazinga: Verlängertes Rückenmark
 tags: m/m15, f/🧠, f/💀
 ---
 ### Medulla oblongata 

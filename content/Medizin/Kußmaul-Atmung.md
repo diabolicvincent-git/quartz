@@ -1,5 +1,5 @@
 ---
-aliases: Kussmaul-Atmung
+bazinga: Kussmaul-Atmung
 tags: m/m13, f/🫁, a/Pathologie
 ---
 ### Kußmaul-Atmung

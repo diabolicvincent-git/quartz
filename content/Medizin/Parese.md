@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Parese

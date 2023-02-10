@@ -1,5 +1,5 @@
 ---
-aliases: Luteinisierendes Hormon
+bazinga: Luteinisierendes Hormon
 tags: m/m22, f/🗞️, f/🦩, f/🧪/Molekül
 ---
 ### Luteinisierendes Hormon / LH

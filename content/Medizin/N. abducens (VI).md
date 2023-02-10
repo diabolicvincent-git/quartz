@@ -1,5 +1,5 @@
 ---
-aliases: HN VI
+bazinga: HN VI
 tags: m/m15, f/🧠/Hirnnerv
 ---
 - **Nr**:: 6

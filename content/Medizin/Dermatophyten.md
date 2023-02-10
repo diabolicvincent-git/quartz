@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m09, m/m18, f/🦠, f/🦠/Erreger/Pilze
 ---
 ### Dermatophyten

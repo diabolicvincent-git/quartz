@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, m/m21, f/⚰️, a/Intervention/Diagnostik
 ---
 ### Äußere Leichenschau

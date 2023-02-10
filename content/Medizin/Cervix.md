@@ -1,5 +1,5 @@
 ---
-aliases: Gebärmutterhals
+bazinga: Gebärmutterhals
 tags: m/m22, f/🦩, f/💀
 ---
 ### Cervix / Gebärmutterhals

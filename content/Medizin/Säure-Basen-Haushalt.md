@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, m/m14, f/🍺, f/🫁, f/⚙️
 ---
 

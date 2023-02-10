@@ -1,5 +1,5 @@
 ---
-aliases: Epidermal Growth Factor
+bazinga: Epidermal Growth Factor
 tags: m/m19, f/🧪, f/🦀
 ---
 ### Epidermal Growth Factor / EGF 

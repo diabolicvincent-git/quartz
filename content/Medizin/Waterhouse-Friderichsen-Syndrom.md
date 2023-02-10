@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m17, m/m18, f/🦠, a/Pathologie, f/💤
 ---
 ### Waterhouse-Friderichsen-Syndrom

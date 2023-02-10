@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m26
 ---
 > (Abstract::**Selektive Schmerzausschaltung in einer Körperregion.**)

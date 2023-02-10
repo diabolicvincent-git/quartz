@@ -1,5 +1,5 @@
 ---
-aliases: Kalium
+bazinga: Kalium
 tags: m/m14
 ---
 ### Kalium / K+

@@ -1,5 +1,5 @@
 ---
-aliases: Intraperitonealraum
+bazinga: Intraperitonealraum
 tags: m/m12
 ---
 ### Intraperitonealraum

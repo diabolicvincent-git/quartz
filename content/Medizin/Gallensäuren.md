@@ -1,5 +1,5 @@
 ---
-aliases: Cholsäuren
+bazinga: Cholsäuren
 tags: m/m12, f/💩, f/💩
 ---
 ### Gallensäuren

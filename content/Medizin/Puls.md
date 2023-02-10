@@ -1,5 +1,5 @@
 ---
-aliases: Pulswelle
+bazinga: Pulswelle
 tags: m/m11
 ---
 ### Puls

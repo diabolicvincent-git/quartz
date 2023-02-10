@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m11, f/🫀, f/💊/Medikament
 ---
 ### Calciumantagonisten / [[Ca2+]] Kanal-Blocker

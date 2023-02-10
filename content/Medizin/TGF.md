@@ -1,5 +1,5 @@
 ---
-aliases: TGF-β
+bazinga: TGF-β
 tags: m/m19, f/🧪/Molekül/Hormon
 ---
 ### Transforming Growth Factor / TGF-β

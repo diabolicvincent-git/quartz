@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m00, m/m21, a/Intervention/Diagnostik, f/🩺
 ---
 > (Abstract::**Differentialdiagnostik.**)

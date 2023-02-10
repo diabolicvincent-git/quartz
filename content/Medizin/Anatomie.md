@@ -1,3 +1,6 @@
+---
+title: "Anatomie"
+---
 - [[Körperebene]]
 - [[Körperachse]]
 - [[Gefäße]]

@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m13, f/🫁, a/Pathologie
 ---
 > Durch chronische Inhalation von (an-)organischem Staub verursachte Veränderung der [[Bronchien]] und des Lungenparenchyms ("Staublunge")

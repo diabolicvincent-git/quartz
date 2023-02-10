@@ -1,5 +1,5 @@
 ---
-aliases: Ejektionsfraktion
+bazinga: Ejektionsfraktion
 tags: m/m11, f/🫀, f/⚙️
 ---
 ### Ejektionsfraktion / EF

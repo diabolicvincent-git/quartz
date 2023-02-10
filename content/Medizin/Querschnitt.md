@@ -1,5 +1,5 @@
 ---
-aliases: Querschnittslähmung, Querschnittssyndrom
+bazinga: Querschnittslähmung, Querschnittssyndrom
 tags: m/m10, f/🧠, f/🦴, a/Pathologie
 ---
 ### Komplettes Querschnittssyndrom

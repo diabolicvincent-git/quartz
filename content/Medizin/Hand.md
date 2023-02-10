@@ -1,5 +1,5 @@
 ---
-aliases: Manus
+bazinga: Manus
 tags: 
 ---
 - **[[Körperregionen]]**

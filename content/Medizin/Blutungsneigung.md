@@ -1,5 +1,5 @@
 ---
-aliases: Hämorrhagische Diathese, Gerinnungsstörung
+bazinga: Hämorrhagische Diathese, Gerinnungsstörung
 tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Blutungsneigung / Gerinnungsstörung / Hämorrhagische Diathese
@@ -79,7 +79,7 @@ tags: m/m08, m/m17, f/🩸, a/Pathologie
 
 
 ---
-aliases: 
+bazinga: 
 tags: m17
 ---
 ### Gerinnungsstörungen

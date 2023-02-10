@@ -1,5 +1,5 @@
 ---
-aliases:
+bazinga:
   - Linse
   - Lens
 tags: m/m16, f/👁️, f/💀

@@ -1,5 +1,5 @@
 ---
-aliases: NAST
+bazinga: NAST
 tags: m/m14
 ---
 ### Nierenarterienstenose

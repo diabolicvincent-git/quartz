@@ -1,5 +1,5 @@
 ---
-aliases: Herzmuskelentzündung
+bazinga: Herzmuskelentzündung
 tags: m/m11, f/🫀, f/🦠, a/Pathologie
 ---
 ### Myokarditis / Herzmuskelentzündung

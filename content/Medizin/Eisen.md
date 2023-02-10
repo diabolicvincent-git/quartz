@@ -1,5 +1,5 @@
 ---
-aliases: Fe2+, Fe3+
+bazinga: Fe2+, Fe3+
 tags: m/m08, f/⚙️, f/🧪, f/🍄/Gift
 ---
 ### Eisen / Fe2+ / Fe3+ 

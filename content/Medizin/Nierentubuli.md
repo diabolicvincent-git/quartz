@@ -1,5 +1,5 @@
 ---
-aliases: Nierentubulus, Tubulussystem,
+bazinga: Nierentubulus, Tubulussystem,
 tags: m/m14
 ---
 ### Nierentubuli 

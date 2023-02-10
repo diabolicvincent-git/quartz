@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m12, f/💩, f/⚙️
 ---
 ### Verdauung

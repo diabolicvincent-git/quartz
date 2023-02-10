@@ -1,5 +1,5 @@
 ---
-aliases: Darminvagination
+bazinga: Darminvagination
 tags: m/m26, f/💩, f/🔪
 ---
 ### Darminvagination

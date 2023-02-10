@@ -1,5 +1,5 @@
 ---
-aliases: Herzglykoside
+bazinga: Herzglykoside
 tags: m/m11, f/🫀, f/💊/Medikament/PIM, f/🍄/Gift
 ---
 - **Gruppe**:: [[Antiarrhythmika]]

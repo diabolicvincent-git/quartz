@@ -1,5 +1,5 @@
 ---
-aliases: Metabolismus
+bazinga: Metabolismus
 tags: m/m03, f/🧪
 ---
 ### Stoffwechsel / Metabolismus

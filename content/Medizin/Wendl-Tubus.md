@@ -1,6 +1,6 @@
 ---
 tags: f/⛑️, f/💤, a/intervention/therapie
-aliases: Nasopharyngealtubus
+bazinga: Nasopharyngealtubus
 ---
 > (Abstract::**Nasopharyngealtubus.**)
 - **KI**:: Schwere Verletzung [[Viscerocranium]], [[M. Osler]]

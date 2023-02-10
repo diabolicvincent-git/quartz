@@ -1,5 +1,5 @@
 ---
-aliases: Neurone, Nervenzelle
+bazinga: Neurone, Nervenzelle
 tags: m/m05, m/m15, f/🧠, f/🔬
 ---
 ### Neurone

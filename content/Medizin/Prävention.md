@@ -1,5 +1,5 @@
 ---
-aliases: Gesundheitsförderung
+bazinga: Gesundheitsförderung
 tags: m/m06, m/m19, f/📊, a/Intervention/Therapie
 ---
 ### Prävention / Gesundheitsförderung

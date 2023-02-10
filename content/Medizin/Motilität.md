@@ -1,5 +1,5 @@
 ---
-aliases: Motilität
+bazinga: Motilität
 tags: m/m12
 ---
 ### Motilität

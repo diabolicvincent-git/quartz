@@ -1,5 +1,5 @@
 ---
-aliases: Platelet Function Analyzer
+bazinga: Platelet Function Analyzer
 tags: m/m17, f/🩸, a/Intervention/Diagnostik
 ---
 ### Platelet Function Analyzer / PFA 

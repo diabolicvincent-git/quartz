@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m17, f/💉, a/Pathologie
 ---
 - **Pathophysiologie**:: [[Mutation]] der Adenosin-Desaminase-2 → unklare Modulation der Funktion von [[Makrophagen]] und [[Neutrophile Granulocyten]] sowie des Endothels

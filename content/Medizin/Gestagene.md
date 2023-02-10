@@ -1,5 +1,5 @@
 ---
-aliases: Gestagen, Progesteron
+bazinga: Gestagen, Progesteron
 tags: m/m22, f/🦩, f/🗞️, f/🧪/Molekül
 ---
 ### Gestagene

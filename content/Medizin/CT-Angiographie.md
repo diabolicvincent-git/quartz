@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m00, a/Intervention/Diagnostik, f/🕶️
 ---
 ### [[CT]]-Angiographie

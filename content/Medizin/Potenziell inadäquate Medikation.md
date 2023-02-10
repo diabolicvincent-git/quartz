@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: a/Intervention/Therapie
 ---
 - Arzneistoffe, die bei geriatrischen Patienten

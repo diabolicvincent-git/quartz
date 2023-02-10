@@ -1,5 +1,5 @@
 ---
-aliases: M. Gilbert, Icterus intermittens juvenilis
+bazinga: M. Gilbert, Icterus intermittens juvenilis
 tags: m/m12, f/💩, a/Pathologie
 ---
 ### M. Meulengracht / M. Gilbert

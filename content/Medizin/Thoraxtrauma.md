@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m01, f/🔪, f/💤, a/Pathologie
 ---
 ### Thoraxtrauma

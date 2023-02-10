@@ -1,5 +1,5 @@
 ---
-aliases: Sentinel Events
+bazinga: Sentinel Events
 tags: 
 ---
 > (Abstract::**Vermeidbare unerwünschte Ereignisse, die nie vorkommen sollten.** National Quality Forum USA, 2002.)

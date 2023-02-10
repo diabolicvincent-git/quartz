@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m33, a/Intervention/Therapie
 ---
 ### Medikamente in der [[Schwangerschaft]]

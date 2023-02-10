@@ -1,5 +1,5 @@
 ---
-aliases: Bronchial-Ca, Lungenkarzinom, Bronchialkarzinom
+bazinga: Bronchial-Ca, Lungenkarzinom, Bronchialkarzinom
 tags: m/m19, a/Pathologie, f/🦀, f/🫁
 ---
 ### Lungenkarzinom / Bronchialkarzinom

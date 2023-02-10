@@ -1,5 +1,5 @@
 ---
-aliases: Sauerstoffsättigung, O2-Sättigung
+bazinga: Sauerstoffsättigung, O2-Sättigung
 tags: m/m13, a/Intervention/Diagnostik, f/🫁
 ---
 ### Pulsoxymetrische Sauerstoffsättigung / SpO2

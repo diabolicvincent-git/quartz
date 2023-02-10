@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m12, f/💀, f/💩, f/🐣
 ---
 > Peritonealduplikaturen, die die intraperitonealen Organe an der Rückwand der Bauchhöhle befestigen  

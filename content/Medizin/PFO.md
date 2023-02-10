@@ -1,5 +1,5 @@
 ---
-aliases: Persistierendes Foramen ovale
+bazinga: Persistierendes Foramen ovale
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Persistierendes Foramen ovale (PFO)

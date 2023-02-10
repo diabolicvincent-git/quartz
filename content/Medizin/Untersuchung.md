@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: a/Intervention/Diagnostik, f/🩺, f/🩺/Befundbaustein
 ---
 ### Körperliche Untersuchung

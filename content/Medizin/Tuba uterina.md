@@ -1,5 +1,5 @@
 ---
-aliases: Eileiter
+bazinga: Eileiter
 tags: m/m22, f/🦩, f/💀, f/💀/Organ
 ---
 ### Tuba uterina / Eileiter

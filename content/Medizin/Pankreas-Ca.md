@@ -1,5 +1,5 @@
 ---
-aliases: Pankreaskarzinom
+bazinga: Pankreaskarzinom
 tags: m/m19
 ---
 ### Pankreaskarzinom

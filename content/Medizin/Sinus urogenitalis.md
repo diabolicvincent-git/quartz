@@ -1,5 +1,5 @@
 ---
-aliases: Urogenitalkanal
+bazinga: Urogenitalkanal
 tags: m/m22, f/🐣, f/🦩, f/🍆
 ---
 ### Sinus urogenitalis / Urogenitalkanal

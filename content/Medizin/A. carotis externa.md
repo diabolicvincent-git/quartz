@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: f/💀/Leitungsbahn/Arterie, f/💀 
 ---
 - **Ursprung**:: [[A. carotis communis]]

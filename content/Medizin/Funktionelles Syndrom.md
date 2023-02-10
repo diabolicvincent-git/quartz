@@ -1,5 +1,5 @@
 ---
-aliases: null
+bazinga: null
 tags: m/m21, ToDo, f/💭, a/Pathologie
 ---
 # VL "Ihnen fehlt nichts"

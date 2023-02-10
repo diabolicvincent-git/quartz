@@ -1,5 +1,5 @@
 ---
-aliases: 
+bazinga: 
 tags: m/m30, f/🧠, a/Intervention/Diagnostik
 ---
 ### Hunt und Hess

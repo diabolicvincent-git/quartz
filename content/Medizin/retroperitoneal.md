@@ -1,5 +1,5 @@
 ---
-aliases: Retroperitonealraum
+bazinga: Retroperitonealraum
 tags: m/m12
 ---
 ### Retroperitonealraum
