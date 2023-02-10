@@ -1,5 +1,5 @@
 ---
-bazinga: Sexuelle Funktionsstörung, Sexuelle Funktionsstörungen
+aliases: Sexuelle Funktionsstörung, Sexuelle Funktionsstörungen
 tags: m/m22, f/🦩, f/🍆, f/⚙️, a/Pathologie
 ---
 - **Störungen der sexuellen Appetenz**:: Lust↑↓ 

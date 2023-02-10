@@ -1,5 +1,5 @@
 ---
-bazinga: Quantitative Bewusstseinsstörung
+aliases: Quantitative Bewusstseinsstörung
 tags: m/m15, m/m20, f/🧠, a/Pathologie
 ---
 > (Abstract::**Quantitative Bewusstseinsstörung.** [[Somnolenz]] > [[Sopor]] > [[Koma]])

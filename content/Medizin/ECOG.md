@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m00, f/🩺
 ---
 ### ECOG Index zur Lebensqualität

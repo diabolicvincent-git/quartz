@@ -1,5 +1,5 @@
 ---
-bazinga: Spinnengewebshaut
+aliases: Spinnengewebshaut
 tags: m/m15, f/🧠, f/💀
 ---
 - Feine Bindegewebsausiehungen ("Spinnengewebshaut")

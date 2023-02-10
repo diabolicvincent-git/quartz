@@ -1,5 +1,5 @@
 ---
-bazinga: Transient loss of consciousness
+aliases: Transient loss of consciousness
 tags: a/Pathologie
 ---
 ### Transient loss of consciousness / TLOC

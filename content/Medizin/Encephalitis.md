@@ -1,5 +1,5 @@
 ---
-bazinga: Enzephalitis
+aliases: Enzephalitis
 tags: m/m15, m/m18, f/🧠, f/🦠, a/Pathologie
 ---
 ### Encephalitis

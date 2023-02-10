@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m22, f/🗞️, f/⚙️, f/🧪, f/🧪/Molekül
 ---
 ### Wachstumsfaktoren

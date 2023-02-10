@@ -1,5 +1,5 @@
 ---
-bazinga: Herzbeutel
+aliases: Herzbeutel
 tags: m/m11
 ---
 ### Perikard 

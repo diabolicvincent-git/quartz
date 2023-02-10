@@ -1,5 +1,5 @@
 ---
-bazinga: Erythrocytenkonzentrat
+aliases: Erythrocytenkonzentrat
 tags: m/m08, f/💊/Medikament, f/🩸/Transfusion/Blutprodukt
 gruppe: "[[Transfusion]]"
 ---

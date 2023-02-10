@@ -1,5 +1,5 @@
 ---
-bazinga: Lactatdehydrogenase, Lactat-Dehydrogenase
+aliases: Lactatdehydrogenase, Lactat-Dehydrogenase
 tags: m/m02, f/🧪, f/🥼
 ---
 ### Lactatdehydrogenase / LDH

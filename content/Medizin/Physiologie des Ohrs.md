@@ -1,3 +1,5 @@
+---
+---
 - **Menschliches Gehör**
     - Frequenzbereich 16 - 20.000 Hz
     - Druckamplitude

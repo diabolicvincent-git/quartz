@@ -1,5 +1,5 @@
 ---
-bazinga: Wolff-Parkinson-White-Syndrom
+aliases: Wolff-Parkinson-White-Syndrom
 tags: f/🫀, a/Pathologie
 ---
 ### Wolff-Parkinson-White / WPW-Syndrom

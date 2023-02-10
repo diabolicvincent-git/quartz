@@ -1,5 +1,5 @@
 ---
-bazinga: Norfloxacin, Ciprofloxacin, Levofloxacin, Moxifloxacin
+aliases: Norfloxacin, Ciprofloxacin, Levofloxacin, Moxifloxacin
 tags: m/m18, f/💊/Medikament, f/🦠/Antiinfektiva/Antibiotika
 ---
 - **Wirkmechanismus**:: [[Störung der Nucleinsäuresynthese]] (Gyrase-Hemmer)

@@ -1,5 +1,5 @@
 ---
-bazinga: Auris media
+aliases: Auris media
 tags: m/m16, f/👂
 ---
 ### Mittelohr 

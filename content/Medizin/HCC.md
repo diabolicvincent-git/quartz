@@ -1,5 +1,5 @@
 ---
-bazinga: Leberzellkarzinom, Hepatozelluläres Ca, Leber-Ca
+aliases: Leberzellkarzinom, Hepatozelluläres Ca, Leber-Ca
 tags: m/m19, a/Pathologie, a/Pathologie, f/💩, f/🦀
 ---
 ### Hepatozelluläres Ca / HCC

@@ -1,5 +1,5 @@
 ---
-bazinga: Allergische Reaktion
+aliases: Allergische Reaktion
 tags: m/m12, m/m17, f/🧴, f/💉, a/Pathologie, ToDo
 ---
 > Überschießende Immunreaktion ggü. ungefährlichen Stoffen

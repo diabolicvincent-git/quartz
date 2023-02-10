@@ -1,5 +1,5 @@
 ---
-bazinga: bakteriell
+aliases: bakteriell
 tags: m/m03, m/m09, m/m18, f/🦠, f/🦠/Erreger/Bakterien
 ---
 > ==[[Bakteriensystematik]]==

@@ -1,5 +1,5 @@
 ---
-bazinga: Schlaf-Apnoe-Syndrom, OSAS
+aliases: Schlaf-Apnoe-Syndrom, OSAS
 tags: m/m13, f/🫁, a/Pathologie
 ---
 

@@ -1,5 +1,5 @@
 ---
-bazinga: Vesica urinaria
+aliases: Vesica urinaria
 tags: m/m14, f/🍺, f/🍆
 ---
 ### Harnblase / Vesica urinaria

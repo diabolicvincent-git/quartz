@@ -1,5 +1,5 @@
 ---
-bazinga: Parathormon
+aliases: Parathormon
 tags: m/m05, m/m14, f/🧪, f/⚙️, f/🗞️, f/🧪/Molekül
 ---
 ### Synthese

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, m/m14, f/⚙️, f/🍺, f/🫁
 ---
 Ca. 99% der freien Protonen werden über Puffersysteme "abgefangen".

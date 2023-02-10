@@ -1,5 +1,5 @@
 ---
-bazinga: Humanes Papillomavirus
+aliases: Humanes Papillomavirus
 tags: m/m09, m/m18, m/m19, f/🦠, f/🦩, f/🦀, f/🦠/Erreger/Viren
 ---
 ### Humanes Papillomavirus / HPV

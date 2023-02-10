@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m27, a/Pathologie
 ---
 ### Muskelkater

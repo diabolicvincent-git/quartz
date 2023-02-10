@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m29, f/💤, a/Intervention/Therapie
 ---
 ### Larynxmaske

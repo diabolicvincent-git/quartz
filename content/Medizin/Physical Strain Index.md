@@ -1,5 +1,5 @@
 ---
-bazinga: PSI
+aliases: PSI
 tags: m/m25
 ---
 ### Physical Strain Index / PSI

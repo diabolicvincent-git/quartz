@@ -1,5 +1,5 @@
 ---
-bazinga: Multiorganversagen
+aliases: Multiorganversagen
 tags: m/m21, f/💤, a/Pathologie
 ---
 ### Multiorganversagen / MOV

@@ -1,3 +1,5 @@
+---
+---
 Bildet [[Mundboden]], hebt beim Schlucken [[Os hyoideum]] an
 - [[M. stylohyoideus]]
 - [[M. digastricus]]

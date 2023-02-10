@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitA
   - Retinoide
 tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m00, a/Intervention/Diagnostik, f/💤, f/🩺
 ---
 ### Vitalparameter

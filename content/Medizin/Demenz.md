@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
 tags: [m/m15, f/🧠, f/💭, a/Pathologie, m/m31, m/m30]
 ---
 - **Ätiologie**:: Primär neurodegenerativ/vaskulär ↔︎ Sekundär Hirnschädigung

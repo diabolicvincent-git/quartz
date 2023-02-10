@@ -1,3 +1,5 @@
+---
+---
 1. Lokal-invasives, destruierendes Wachstum → Lösen von [[Zellkontakte]]n und proteolytisches Degradieren der [[EZM]]
 2. *Epithel-Mesenchym-Transition (EMT)* → [[Aktin]]gestützte amöboide Lokomotion
 3. *Intravasation* in Metastasierungswege ([[Lymphgefäße]], [[Gefäße]], Körperhöhlen)

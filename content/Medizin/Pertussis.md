@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Keuchhusten
 tags: m/m03, f/🫁, f/🦠, a/Pathologie
 ---

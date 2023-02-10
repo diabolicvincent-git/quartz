@@ -1,5 +1,5 @@
 ---
-bazinga: Gensequenzierung, DNA-Sequenzierung
+aliases: Gensequenzierung, DNA-Sequenzierung
 tags: m/m02
 ---
 

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/🫁, f/⚙️
 ---
 1. **Inspirationsphase (I)**:: Crescendo der Nervenaktivität der inspiratorischen [[Atemmuskulatur]] ([[N. phrenicus (C3-C5)]])

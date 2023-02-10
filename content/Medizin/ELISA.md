@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m17, f/🧬, a/Intervention/Diagnostik
 ---
 ### [[Enzyme]]-linked immunoabsorbent assay / ELISA

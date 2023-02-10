@@ -1,5 +1,5 @@
 ---
-bazinga: PKU
+aliases: PKU
 tags: m/m02, m/m17, f/🧬, a/Pathologie
 ---
 ### Phenylketonurie / PKU 

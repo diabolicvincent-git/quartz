@@ -1,5 +1,5 @@
 ---
-bazinga: Cerebellum
+aliases: Cerebellum
 tags: m/m15, f/💀, f/🧠
 ---
 ### Kleinhirn / Cerebellum

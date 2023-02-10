@@ -1,5 +1,5 @@
 ---
-bazinga: Truncus encephali, Hirnstamms
+aliases: Truncus encephali, Hirnstamms
 tags: m/m15, f/🧠, f/💀
 ---
 

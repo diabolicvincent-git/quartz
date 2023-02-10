@@ -1,5 +1,5 @@
 ---
-bazinga: Nichtsteroidale Antirheumatika
+aliases: Nichtsteroidale Antirheumatika
 tags: m/m20, f/💊/Medikament, f/💤
 ---
 ### Nichtsteroidale Antirheumatika / NSAR

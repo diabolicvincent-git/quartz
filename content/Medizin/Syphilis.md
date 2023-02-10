@@ -1,5 +1,5 @@
 ---
-bazinga: Lues
+aliases: Lues
 tags: m/m22, f/🦠, f/🦩, f/🍆, a/Pathologie
 ---
 ### Syphilis / Lues

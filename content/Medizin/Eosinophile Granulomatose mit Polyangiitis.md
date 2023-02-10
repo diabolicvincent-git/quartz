@@ -1,5 +1,5 @@
 ---
-bazinga: Churg-Strauss-Syndrom
+aliases: Churg-Strauss-Syndrom
 tags: m/m14, m/m17, f/💉
 ---
 ### Eosinophile Granulomatose mit Polyangiitis / Churg-Strauss-Syndrom 

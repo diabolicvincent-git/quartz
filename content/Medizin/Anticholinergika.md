@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - ACh-Rezeptor-Antagonisten
   - Parasympatholytika
 tags: m/m13, f/💊/Medikament/Untergruppe, f/🫀, f/💤, f/🍄/Gift

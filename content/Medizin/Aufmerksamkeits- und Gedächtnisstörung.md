@@ -1,3 +1,5 @@
+---
+---
 - **Diagnostik**:: Beobachtung, [[d2-Konzentrationstest]]
 - **Entitäten**
 	- [[Auffassungsstörung]]

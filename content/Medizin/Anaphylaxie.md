@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m09, f/🧴, f/⛑️/SOP, a/Pathologie
 ---
 (Abstract::Akute, lebensgefährliche [[Allergie]])

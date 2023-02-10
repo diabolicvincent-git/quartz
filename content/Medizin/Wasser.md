@@ -1,4 +1,4 @@
 ---
-bazinga: H2O
+aliases: H2O
 tags: m/m14, f/🧪, f/🧪/Molekül
 ---

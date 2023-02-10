@@ -1,5 +1,5 @@
 ---
-bazinga: Bipolare affektive Störung
+aliases: Bipolare affektive Störung
 tags: m/m20, f/💭, a/Pathologie
 ---
 ### Bipolare [[Affektive Störung]]

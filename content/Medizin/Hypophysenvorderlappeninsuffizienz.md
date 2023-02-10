@@ -1,5 +1,5 @@
 ---
-bazinga: Hypopituitarismus, M. Simmonds, Empty-Sella-Syndrom
+aliases: Hypopituitarismus, M. Simmonds, Empty-Sella-Syndrom
 tags: m/m22, f/🗞️, a/Pathologie
 ---
 ### Hypophysenvorderlappeninsuffizienz / Hypopituitarismus / M. Simmonds

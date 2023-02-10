@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, f/🍺, f/🗞️
 ---
 - 75% der Pat. mit [[Diabetes mellitus]] entwickeln im Verlaufe eine [[CKD]]

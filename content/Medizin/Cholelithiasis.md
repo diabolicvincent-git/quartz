@@ -1,5 +1,5 @@
 ---
-bazinga: Gallensteine
+aliases: Gallensteine
 tags: m/m12, f/💩, f/💩, a/Pathologie
 ---
 ### Cholelithiasis / Gallensteine

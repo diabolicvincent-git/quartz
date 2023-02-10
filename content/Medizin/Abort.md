@@ -1,5 +1,5 @@
 ---
-bazinga: Fehlgeburt, Fehlgeburtlichkeit, Abortus
+aliases: Fehlgeburt, Fehlgeburtlichkeit, Abortus
 tags: m/m22, f/🦩, a/Pathologie
 ---
 - **Einteilung**

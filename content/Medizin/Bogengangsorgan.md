@@ -1,5 +1,5 @@
 ---
-bazinga: Bogengänge, Bogengang
+aliases: Bogengänge, Bogengang
 tags: m/m16, f/💀, f/⚙️, f/👂
 ---
 ### Bogengangsorgan

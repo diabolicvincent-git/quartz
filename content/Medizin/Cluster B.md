@@ -1,3 +1,5 @@
+---
+---
 > (Abstract::**Dramatisch, Emotional, Impulsiv.**)
 - [[Emotional instabile Persönlichkeitsstörung]]
 - [[Histrionische Persönlichkeitsstörung]]

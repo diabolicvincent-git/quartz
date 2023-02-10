@@ -1,5 +1,5 @@
 ---
-bazinga: Glucose-6-phosphat-Dehydrogenase-Mangel, Favismus
+aliases: Glucose-6-phosphat-Dehydrogenase-Mangel, Favismus
 tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Glucose-6-phosphat-Dehydrogenase Mangel / G6PD-Mangel / Favismus 

@@ -1,5 +1,5 @@
 ---
-bazinga: Rhesus, Rhesusfaktor, Anti-D
+aliases: Rhesus, Rhesusfaktor, Anti-D
 tags: m/m08, m/m21, f/🩸
 ---
 ### Rhesus- / [[Rh]]-[[Blutgruppen]]

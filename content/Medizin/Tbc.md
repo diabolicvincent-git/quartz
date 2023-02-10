@@ -1,5 +1,5 @@
 ---
-bazinga: Tuberkulose
+aliases: Tuberkulose
 tags: m/m18, a/Pathologie, a/Pathologie, f/🫁, f/🦠
 ---
 ### Tuberkulose / Tbc

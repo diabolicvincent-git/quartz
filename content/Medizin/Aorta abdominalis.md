@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m12, m/m26, f/💀, f/💀/Leitungsbahn/Arterie
 ---
 > Aus [[Aorta]] thoracica nach [[Diaphragma]]-Durchtritt bis Aa. iliacae communes

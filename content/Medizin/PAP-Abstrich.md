@@ -1,5 +1,5 @@
 ---
-bazinga: Cervixabstrich
+aliases: Cervixabstrich
 tags: m/m22, f/🦩, a/Intervention/Diagnostik
 ---
 ### Cervixabstrich / PAP-Abstrich

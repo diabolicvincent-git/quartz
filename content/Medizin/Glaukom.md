@@ -1,5 +1,5 @@
 ---
-bazinga: Grüner Star
+aliases: Grüner Star
 tags: m/m16, f/👁️, a/Pathologie
 ---
 ### Glaukom / Grüner Star

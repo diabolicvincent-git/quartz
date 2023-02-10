@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitB3
   - Niacin
   - NAD

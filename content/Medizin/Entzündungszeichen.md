@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m08, m/m17, f/🦠, a/Pathologie
 ---
 ### Entzündungszeichen

@@ -1,5 +1,5 @@
 ---
-bazinga: Neurodermitis
+aliases: Neurodermitis
 tags: m/m09, f/🧴, a/Pathologie
 ---
 > (Abstract::Chronisch-entzündliche Hauterkrankung mit genetischer Disposition. Veraltet: Neurodermitis.)

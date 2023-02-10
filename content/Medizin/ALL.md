@@ -1,5 +1,5 @@
 ---
-bazinga: Akute lymphatische Leukämie
+aliases: Akute lymphatische Leukämie
 tags: m/m19, f/🦀, f/🩸, a/Pathologie
 ---
 - **Einteilung** nach Immuntypisierung

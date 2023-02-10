@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m03, m/m05, f/🧪, f/🧬
 ---
 ### Regulation des Zellzyklus

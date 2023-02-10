@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m30, f/🧠, f/🕶️, a/intervention/therapie
 ---
 - **Indikation**:: [[Stroke]] mit großem Gefäßverschluss (==[[A. carotis interna]] & [[A. cerebri media]] bis 6h, [[A. basilaris]] jederzeit==)

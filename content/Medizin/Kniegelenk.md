@@ -1,3 +1,5 @@
+---
+---
 Das Kniegelenk  verbindet Ober- und [[Unterschenkel]] und ist eines der größten [[Gelenke]] des menschlichen Körpers. Man kann das Kniegelenk in ein Femorotibial- und ein Femoropatellargelenk einteilen, welche im Folgenden gemeinsam besprochen werden.
 
 - **Gelenktyp**:: Drehscharniergelenk

@@ -1,5 +1,5 @@
 ---
-bazinga: Visuelle Wahrnehmung, Sehen
+aliases: Visuelle Wahrnehmung, Sehen
 tags: m/m16, f/👁️, f/⚙️
 ---
 

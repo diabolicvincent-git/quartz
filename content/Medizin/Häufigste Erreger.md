@@ -1,3 +1,5 @@
+---
+---
  Erkrankung|[[Bakterien]]|Sonstige|[[Viren]]
 -|-|-|-|
 [[Encephalitis]]|Borrelia burgdorferi||"FSME-Virus, Influenzaviren, Jap. B-Enz.-Virus"

@@ -1,5 +1,5 @@
 ---
-bazinga: vWS
+aliases: vWS
 tags: m/m08, m/m17, a/Pathologie, f/🩸, a/Pathologie
 ---
 ### von-Willebrand-Jürgens-Syndrom / vWS 

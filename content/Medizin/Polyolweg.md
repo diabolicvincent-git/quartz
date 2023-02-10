@@ -1,5 +1,5 @@
 ---
-bazinga: Fructosesynthese
+aliases: Fructosesynthese
 tags: m/m02, f/🧪
 ---
 ### Polyolweg / Fructosesynthese

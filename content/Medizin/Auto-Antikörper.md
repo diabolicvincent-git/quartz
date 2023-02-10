@@ -1,5 +1,5 @@
 ---
-bazinga: Autoantikörper
+aliases: Autoantikörper
 tags: m/m17, f/💉
 ---
 > (Abstract::**[[Antikörper]] gegen körpereigene Strukturen bei [[Autoimmunität]].**)

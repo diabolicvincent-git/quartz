@@ -1,5 +1,5 @@
 ---
-bazinga: Kollagene
+aliases: Kollagene
 tags: m/m05
 ---
 ### Kollagen

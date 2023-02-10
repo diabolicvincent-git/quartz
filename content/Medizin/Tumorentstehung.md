@@ -1,5 +1,5 @@
 ---
-bazinga: Karzinogenese
+aliases: Karzinogenese
 tags: m/m19, f/🦀, f/⚙️
 ---
 ### Tumorentstehung / Karzinogenese

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m03, m/m17, f/🧪, f/⚰️
 ---
 ### Zellschädigung 

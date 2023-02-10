@@ -1,5 +1,5 @@
 ---
-bazinga: Skotom
+aliases: Skotom
 tags: m/m16
 ---
 ### Gesichtsfeldausfall / Skotom

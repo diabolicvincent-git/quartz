@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Mutationen
 tags: m/m02, m/m19
 ---

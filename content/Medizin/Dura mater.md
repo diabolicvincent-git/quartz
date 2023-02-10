@@ -1,5 +1,5 @@
 ---
-bazinga: Harte Hirnhaut
+aliases: Harte Hirnhaut
 tags: m/m15, f/🧠, f/💀
 ---
 ### Dura mater / Harte Hirnhaut

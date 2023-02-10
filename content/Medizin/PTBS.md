@@ -1,5 +1,5 @@
 ---
-bazinga: Posttraumatische Belastungsstörung
+aliases: Posttraumatische Belastungsstörung
 tags: m/m20
 ---
 ### Posttraumatische Belastungsstörung / PTBS

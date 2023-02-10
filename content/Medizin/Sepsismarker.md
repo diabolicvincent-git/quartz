@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m21, f/💤, f/🦠, f/🥼, a/Intervention/Diagnostik
 ---
 ### Sepsismarker

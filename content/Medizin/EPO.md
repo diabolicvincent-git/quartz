@@ -1,5 +1,5 @@
 ---
-bazinga: Erythropoetin
+aliases: Erythropoetin
 tags: m/m08, m/m14, f/🩸, f/🍺, f/🧪/Molekül, f/⚙️
 ---
 ### Erythropoetin / EPO

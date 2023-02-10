@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m18, m/m24, f/🦠, f/🧪, f/🧪/Zellorganell
 ---
 ### Bakterielle Zellwand

@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Computertomographie
 tags: m/m00, f/🕶️/Standardbildgebung, a/Intervention/Diagnostik, m/m30
 ---

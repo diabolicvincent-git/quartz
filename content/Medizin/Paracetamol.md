@@ -1,5 +1,5 @@
 ---
-bazinga: Acetaminophen
+aliases: Acetaminophen
 tags: m/m20, f/💊/Medikament, f/🍄/Gift
 ---
 ### Paracetamol / PCM / Acetaminophen

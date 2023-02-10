@@ -1,5 +1,5 @@
 ---
-bazinga: Hepar
+aliases: Hepar
 tags: m/m12, f/💩, f/💀
 ---
 ### Leber 

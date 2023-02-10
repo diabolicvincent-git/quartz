@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/💤, f/🫁, a/Intervention/Therapie
 ---
 ### Nicht-Invasive [[Beatmung]]

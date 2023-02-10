@@ -1,5 +1,5 @@
 ---
-bazinga: Acetylcholin
+aliases: Acetylcholin
 tags: m/m15, f/🧠, f/🧪, f/🧪/Molekül/Transmitter
 ---
 (Abstract::**Acetylcholin**. Wichtigster [[Transmitter]] im [[PNS]].)

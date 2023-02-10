@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/💭, f/🍄/Gift/Droge
 ---
 - **Entitäten**:: [[Amphetamin]], [[Methamphetamin]], [[Methylphenidat]], [[Ecstasy (MDMA)]], [[Kokain]]

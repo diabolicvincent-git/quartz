@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m08
 ---
 - **[[Neutrophile Granulocyten]] (60%)**:: [[Bakterien]]-[[Infektionen]], [[Phagocytose]]

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m22, f/🐣, f/🧬/gen, f/🧪, f/⚙️, f/🧪/Molekül, f/🦩, f/🍆
 ---
 ### Sex determining region of Y / SRY-Gen

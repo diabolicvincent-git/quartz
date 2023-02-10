@@ -1,5 +1,5 @@
 ---
-bazinga: Quick-Wert, Thromboplastinzeit, TPZ, Prothrombinzeit
+aliases: Quick-Wert, Thromboplastinzeit, TPZ, Prothrombinzeit
 tags: m/m08, f/🩸, a/Intervention/Diagnostik
 ---
 ### Quick-Wert / Thromboplastinzeit / TPZ 

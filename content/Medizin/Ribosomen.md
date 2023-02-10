@@ -1,5 +1,5 @@
 ---
-bazinga: Ribosom
+aliases: Ribosom
 tags: m/m03, f/🧪, f/🧬
 ---
 ### Ribosomen

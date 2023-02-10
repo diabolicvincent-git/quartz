@@ -1,3 +1,5 @@
+---
+---
 - **Ätiologie**:: [[Bakterien]] ([[Pseudomonas aeruginosa]], [[Staph. aureus]]), [[Pilze]] ([[Candida albicans]]), Allergene
 - **Symptome**:: [[Pruritus]], starke Otalgie, Tragusdruckschmerz
 	- *diffusa:* Periaurikuläre Schwellung/Rötung, fötides Sekret, [[Hörstörung]]

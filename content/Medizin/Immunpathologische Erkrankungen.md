@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m08, f/🦠, a/Pathologie, f/💉
 ---
 ## Klassifizierung immunpathologischer Reaktionen

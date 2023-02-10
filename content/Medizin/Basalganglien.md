@@ -1,5 +1,5 @@
 ---
-bazinga: Ncll. basalis, Nuclei basales
+aliases: Ncll. basalis, Nuclei basales
 tags: m/m15, f/🧠, f/💀, f/⚙️
 ---
 > [[Subcorticale Kerne]] in- und außerhalb des [[Großhirn]] zur Steuerung von Bewegungen

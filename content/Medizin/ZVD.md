@@ -1,5 +1,5 @@
 ---
-bazinga: Zentraler Venendruck
+aliases: Zentraler Venendruck
 tags: m/m11, f/🫀, f/💤, a/Intervention/Diagnostik
 ---
 ### Zentraler Venendruck / ZVD

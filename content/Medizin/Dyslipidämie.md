@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Hyperlipidämie
   - Hypercholesterinämie
 tags: m/m11, m/m12, f/🫀, a/Pathologie

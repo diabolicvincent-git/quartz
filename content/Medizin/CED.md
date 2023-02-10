@@ -1,5 +1,5 @@
 ---
-bazinga: Chronisch-entzündliche Darmerkrankung
+aliases: Chronisch-entzündliche Darmerkrankung
 tags: m/m17, m/m12, a/Pathologie, a/Pathologie, f/💉, f/💩
 ---
 ### Chronisch-entzündliche Darmerkrankung / CED

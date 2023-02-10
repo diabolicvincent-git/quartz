@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m16, f/👂, f/⚙️
 ---
 ## in Grundzügen die funktionelle Anatomie des peripheren Vestibularorgans beschreiben

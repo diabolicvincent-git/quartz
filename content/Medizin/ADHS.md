@@ -1,5 +1,5 @@
 ---
-bazinga: Aufmerksamkeitsdefizit-Hyperaktivitätssyndrom
+aliases: Aufmerksamkeitsdefizit-Hyperaktivitätssyndrom
 tags: m/m20, f/💭, a/Pathologie 
 ---
 - **Epidemiologie**:: ♂:[[♀]] 6:1, Beginn <6. LJ

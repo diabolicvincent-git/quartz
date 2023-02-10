@@ -1,5 +1,5 @@
 ---
-bazinga: Coarctatio aortae
+aliases: Coarctatio aortae
 tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 > (Abstract::**[[Herzfehler]].** Stenose der [[Aorta]] am Übergang [[Aortenbogen]] zu [[Aorta descendens]])

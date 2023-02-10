@@ -1,5 +1,5 @@
 ---
-bazinga: Protein
+aliases: Protein
 tags: m/m02
 ---
 

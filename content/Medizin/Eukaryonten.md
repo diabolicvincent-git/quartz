@@ -1,4 +1,4 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m03
 ---

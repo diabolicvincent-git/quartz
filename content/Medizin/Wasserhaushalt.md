@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, f/🍺, f/⚙️
 ---
 - Wasseranteil 75% (Säuglinge) – 60% (Erwachsene [[♂]]) – 50% (Senioren)

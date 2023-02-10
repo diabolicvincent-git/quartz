@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m26, f/💩, f/⛑️, a/Pathologie
 ---
 (Abstract::Akute [[Bauchschmerzen]] mit dringender Behandlungsbedürftigkeit)

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m20, a/Pathologie, f/💭, f/🧠
 ---
 - **Parasomnie**:: [[Schlafstörung]] aus dem Schlaf heraus / beim Erwachen

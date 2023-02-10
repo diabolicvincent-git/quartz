@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m09, f/🧴, f/⚙️
 ---
 # SEM Knallrot oder kreidebleich

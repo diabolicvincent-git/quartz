@@ -1,3 +1,5 @@
+---
+---
 Name|Beschreibung|Lokal / Global|Status
 -|-|-|-|
 [[Verbrennung]] / Verbrühung|Schädigung von Haut oder Schleimhaut|lokal|Hitzeeinwirkung

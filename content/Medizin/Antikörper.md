@@ -1,5 +1,5 @@
 ---
-bazinga: Immunglobuline
+aliases: Immunglobuline
 tags: m/m08, f/🩸, f/🦠, f/🧪/Molekül/Antikörper
 ---
 > (Abstract::Auch: Immunglobuline)

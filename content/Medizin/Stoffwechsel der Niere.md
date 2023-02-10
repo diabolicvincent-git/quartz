@@ -1,3 +1,5 @@
+---
+---
 > Energiebedarf abhängig von Natriumresorption (v.a. [[Na+ K+ ATPase]]) abhängig von der [[GFR]] abhängig von der [[Renale Perfusion]]
 
 - 80% der Energie für [[Na+ K+ ATPase]], 15% Selbsterhalt/Synthese, 5% [[Renale Gluconeogenese]]

@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitD
   - Calciferol
 tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪

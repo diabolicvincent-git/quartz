@@ -1,5 +1,5 @@
 ---
-bazinga: Lungengrenze
+aliases: Lungengrenze
 tags: m/m13
 ---
 ## Lungengrenzen

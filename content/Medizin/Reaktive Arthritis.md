@@ -1,5 +1,5 @@
 ---
-bazinga: M. Reiter
+aliases: M. Reiter
 tags: m/m17, f/💉
 ---
 ### Reaktive Arthritis / M. Reiter 

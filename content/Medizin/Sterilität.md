@@ -1,5 +1,5 @@
 ---
-bazinga: Unfruchtbarkeit
+aliases: Unfruchtbarkeit
 tags: m/m22, f/🦩, f/🍆, a/Pathologie, a/Pathologie
 ---
 ### Sterilität / Unfruchtbarkeit / Zeugungsunfähigkeit

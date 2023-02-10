@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m04, f/🧪, f/🧪/Molekül
 ---
 ### cAMP / Cyclisches Adenosinmonophosphat

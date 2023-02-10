@@ -1,5 +1,5 @@
 ---
-bazinga: Ovarialfollikel
+aliases: Ovarialfollikel
 tags: m/m22, f/🦩, f/🔬, f/⚙️
 ---
 ### Ovarialfollikel

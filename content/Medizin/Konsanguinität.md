@@ -1,5 +1,5 @@
 ---
-bazinga: Inzucht, Blutsverwandschaft
+aliases: Inzucht, Blutsverwandschaft
 tags: m/m17, f/🧬
 ---
 ### Konsanguinität / Blutsverwandschaft

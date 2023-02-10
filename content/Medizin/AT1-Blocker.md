@@ -1,5 +1,5 @@
 ---
-bazinga: Sartane
+aliases: Sartane
 tags: m/m14, f/🫀, f/🍺, f/💊/Medikament/Untergruppe
 ---
 > (Abstract::Auch: Sartane)

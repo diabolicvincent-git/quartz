@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Nodus atrioventricularis
 tags: m/m11, f/🫀
 ---

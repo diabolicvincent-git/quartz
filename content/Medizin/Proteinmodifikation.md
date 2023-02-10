@@ -1,3 +1,5 @@
+---
+---
 ## Glycosylierung
 
 Kovalente Bindung von Oligosacchariden, oft bei Membran- & Serumproteinen

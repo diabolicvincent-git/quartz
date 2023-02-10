@@ -1,5 +1,5 @@
 ---
-bazinga: M. Kahler, Plasmocytom
+aliases: M. Kahler, Plasmocytom
 tags: m/m19, f/🦀, f/🩸, a/Pathologie
 ---
 > (Abstract::**B-Zell-[[Non-Hodgkin-Lymphom]].** Auch: M. Kahler, systemischer Plasmazelltumor.)

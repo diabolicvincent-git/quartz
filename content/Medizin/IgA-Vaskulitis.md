@@ -1,5 +1,5 @@
 ---
-bazinga: Purpura Schoenlein-Henoch
+aliases: Purpura Schoenlein-Henoch
 tags: m/m17
 ---
 ### [[IgA]]-[[Vaskulitis]] / [[Purpura]] Schoenlein-Henoch

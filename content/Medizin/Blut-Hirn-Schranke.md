@@ -1,5 +1,5 @@
 ---
-bazinga: BHS
+aliases: BHS
 tags: m/m15, f/🧠, f/🔬, f/⚙️
 ---
 ### Blut-Hirn-Schranke 

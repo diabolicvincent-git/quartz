@@ -1,5 +1,5 @@
 ---
-bazinga: Tendo
+aliases: Tendo
 tags: m/m10, f/🦴, f/💀
 ---
 ### Sehne / Tendo

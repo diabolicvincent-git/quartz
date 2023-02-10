@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, ToDo, f/🍺, f/🕶️, a/Intervention/Diagnostik
 ---
 [[Röntgen]]

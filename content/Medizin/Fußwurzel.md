@@ -1,5 +1,5 @@
 ---
-bazinga: Tarsus, Fußwurzelknochen
+aliases: Tarsus, Fußwurzelknochen
 tags: m/m27, f/💀, f/🦴
 ---
 ### Fußwurzel / Tarsus

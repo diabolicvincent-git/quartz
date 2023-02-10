@@ -1,5 +1,5 @@
 ---
-bazinga: Augenkammern, Glaskörper
+aliases: Augenkammern, Glaskörper
 tags: m/m16, f/👁️
 ---
 ### Augenkammer / Glaskörper

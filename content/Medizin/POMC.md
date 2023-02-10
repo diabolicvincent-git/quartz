@@ -1,5 +1,5 @@
 ---
-bazinga: Proopiomelanocorticotropin
+aliases: Proopiomelanocorticotropin
 tags: m/m04, m/m09, f/🧪, f/⚙️, f/🗞️
 ---
 ### POMC / Proopiomelanocorticotropin

@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitB5
   - Pantothensäure
   - Coenzym A

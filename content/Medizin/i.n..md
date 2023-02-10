@@ -1,5 +1,5 @@
 ---
-bazinga: intranasal
+aliases: intranasal
 tags: m/m00
 ---
 ### intranasal / i.n.

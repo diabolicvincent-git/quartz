@@ -1,5 +1,5 @@
 ---
-bazinga: Regelschmerzen
+aliases: Regelschmerzen
 tags: m/m22, f/🦩, a/Pathologie
 ---
 ### Dysmenorrhoe / Regelschmerzen

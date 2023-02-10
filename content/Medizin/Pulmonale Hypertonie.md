@@ -1,5 +1,5 @@
 ---
-bazinga: Pulmonaler Hypertonus
+aliases: Pulmonaler Hypertonus
 tags: m/m13
 ---
 ### Pulmonale Hypertonie

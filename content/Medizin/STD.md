@@ -1,5 +1,5 @@
 ---
-bazinga: STI, STDs, Geschlechtskrankheit, Geschlechtskrankheiten
+aliases: STI, STDs, Geschlechtskrankheit, Geschlechtskrankheiten
 tags: m/m22, f/🦠, f/🦩, f/🍆, a/Pathologie, f/🧴
 ---
 ### Geschlechtskrankheiten / STDs

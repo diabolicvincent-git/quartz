@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Inotropie
 tags:
   - m/m11

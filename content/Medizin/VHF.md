@@ -1,5 +1,5 @@
 ---
-bazinga: Vorhofflimmern
+aliases: Vorhofflimmern
 tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Vorhofflimmern / VHF

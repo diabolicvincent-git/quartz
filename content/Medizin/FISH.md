@@ -1,5 +1,5 @@
 ---
-bazinga: Fluoreszenz-in-situ-Hybridisierung
+aliases: Fluoreszenz-in-situ-Hybridisierung
 tags: m/m02, f/🧬, f/🧪
 ---
 (Abstract::[[Gendiagnostik]]: Spezifische Anfärbung von [[DNA]]-Sequenzen)

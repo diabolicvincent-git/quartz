@@ -1,5 +1,5 @@
 ---
-bazinga: Macula Adhaerens, Desmosomen
+aliases: Macula Adhaerens, Desmosomen
 tags: m/m04, m/m05, f/🔬, f/🧪
 ---
 ### Desmosom / Macula Adhaerens

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: [m/m18, m/m24, f/🦠, f/🦠/Erreger/Bakterien]
 ---
 ### Methicillin-resistenter [[Staph. aureus]] / MRSA

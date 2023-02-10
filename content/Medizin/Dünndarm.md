@@ -1,5 +1,5 @@
 ---
-bazinga: Intestinum
+aliases: Intestinum
 tags: m/m12, f/💩, f/💀
 ---
 ### Dünndarm 

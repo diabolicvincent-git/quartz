@@ -1,5 +1,5 @@
 ---
-bazinga: Niereninsuffizienz, CKD
+aliases: Niereninsuffizienz, CKD
 tags: [m/m14, f/🍺]
 ---
 ### Chronische Nierenerkrankung / CKD

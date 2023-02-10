@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitC
   - Ascorbinsäure
 tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]

@@ -1,5 +1,5 @@
 ---
-bazinga: Arthralgien, Gelenkschmerzen
+aliases: Arthralgien, Gelenkschmerzen
 tags: m/m17, f/💉, f/🦴, a/Pathologie
 ---
 ### DD Arthralgie / Gelenkschmerzen

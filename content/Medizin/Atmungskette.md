@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m03, f/🧪
 ---
 - **Ziel**:: Elektronenübertragungen → elektrochemischer Gradient → [[Oxidative Phosphorylierung]] (ATP-Synthese)

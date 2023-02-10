@@ -1,5 +1,5 @@
 ---
-bazinga: Bilharziose
+aliases: Bilharziose
 tags: m/m18, a/Pathologie, f/🦠
 ---
 ### Schistosomiasis / Bilharziose

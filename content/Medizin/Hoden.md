@@ -1,5 +1,5 @@
 ---
-bazinga: Testis
+aliases: Testis
 tags: m/m22, f/🍆, f/💀
 ---
 ### Hoden / Testis

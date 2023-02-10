@@ -1,5 +1,5 @@
 ---
-bazinga: Tranexamsäure
+aliases: Tranexamsäure
 tags: m/m17, f/🩸, f/💤, f/💊/Medikament
 ---
 > (Abstract::Tranexamsäure)

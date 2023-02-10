@@ -1,5 +1,5 @@
 ---
-bazinga: Zerrung
+aliases: Zerrung
 tags: m/m27, a/Pathologie, f/🦴
 ---
 ### Zerrung / Distension

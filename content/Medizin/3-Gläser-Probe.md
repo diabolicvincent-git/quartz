@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m30, f/🧠, a/Intervention/Diagnostik
 ---
 > (Abstract::Diagnostik der [[SAB]] durch Blut in [[Liquorpunktion]])

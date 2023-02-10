@@ -1,5 +1,5 @@
 ---
-bazinga: TLR
+aliases: TLR
 tags: m/m18, m/m08, f/🧪/Molekül/Rezeptor, f/🧪, f/🦠
 ---
 ### Toll-like-[[Rezeptor]] / TLR

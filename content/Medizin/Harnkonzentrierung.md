@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, f/🍺, f/⚙️
 ---
 > Aufbau eines corticomedullären [[Osmolarität]]sgradienten, der im Sammelrohr zur Wasserresoprion genutzt wird

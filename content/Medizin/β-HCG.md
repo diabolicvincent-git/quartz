@@ -1,5 +1,5 @@
 ---
-bazinga: beta-HCG
+aliases: beta-HCG
 tags: m/m22, f/🗞️, f/🥼, f/🦩, a/Intervention/Diagnostik, f/🧪/Molekül
 ---
 ### β-HCG / Humanes Choriongonadotropin

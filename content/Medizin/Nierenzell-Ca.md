@@ -1,5 +1,5 @@
 ---
-bazinga: Nierenzellkarzinom
+aliases: Nierenzellkarzinom
 tags: m/m14, m/m19, a/Pathologie
 ---
 ### Nierenzellkarzinom

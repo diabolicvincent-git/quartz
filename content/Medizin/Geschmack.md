@@ -1,5 +1,5 @@
 ---
-bazinga: Schmecken
+aliases: Schmecken
 tags: m/m16
 ---
 - 10-50 *Sinneszellen* bilden eine *Knospe*, sitzen in Papillen

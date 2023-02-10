@@ -1,5 +1,5 @@
 ---
-bazinga: Harnmenge
+aliases: Harnmenge
 tags: m/m14, f/🍆, f/🍺
 ---
 ### Urinmenge / Harnmenge

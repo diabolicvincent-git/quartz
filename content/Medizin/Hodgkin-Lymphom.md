@@ -1,5 +1,5 @@
 ---
-bazinga: M. Hodgkin
+aliases: M. Hodgkin
 tags: m/m19, f/🦀, f/🩸
 ---
 ### Hodgkin-Lymphom

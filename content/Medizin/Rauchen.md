@@ -1,3 +1,5 @@
+---
+---
 # Wirkstoffe
 - **[[Nikotin]]** → *psychische* und *[[vegetative]]* Wirkungen des Tabaks
 	- **Wirkmechanismus**:: Stimulation nicotinerger [[ACh]]-[[Rezeptor]] → Freisetzung von [[Serotonin]] und [[DOPamin]] im [[ZNS]] → Aktivierung des endogenen Belohnungssystems

@@ -1,5 +1,5 @@
 ---
-bazinga: Melanocyten-stimulierendes Hormon
+aliases: Melanocyten-stimulierendes Hormon
 tags: m/m09, f/🧪, f/🧴, f/🗞️
 ---
 ### Melanocyten-stimulierendes [[Hormon]] / MSH

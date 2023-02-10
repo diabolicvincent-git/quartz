@@ -1,5 +1,5 @@
 ---
-bazinga: Tubenmandeln
+aliases: Tubenmandeln
 tags: f/💀/Organ/Tonsillen, f/💀, f/👂
 ---
 > (Abstract::**Tubenmandeln ([[Tonsillen]]).**)

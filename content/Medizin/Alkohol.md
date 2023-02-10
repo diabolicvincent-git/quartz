@@ -1,5 +1,5 @@
 ---
-bazinga: Alkoholabusus, Alkoholabhängigkeit, Alkoholintoxikation
+aliases: Alkoholabusus, Alkoholabhängigkeit, Alkoholintoxikation
 tags: m/m20, f/🍄, f/🧪/Molekül, ToDo
 ---
 - **Pathophysiologie**

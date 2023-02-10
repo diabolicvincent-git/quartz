@@ -1,5 +1,5 @@
 ---
-bazinga: Relative Risikoreduktion
+aliases: Relative Risikoreduktion
 tags: m/m07, f/📊
 ---
 ### Relative [[Risikoreduktion]] / RRR

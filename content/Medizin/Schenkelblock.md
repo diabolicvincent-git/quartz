@@ -1,5 +1,5 @@
 ---
-bazinga: Schenkelblöcke, Blockbild
+aliases: Schenkelblöcke, Blockbild
 tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Schenkelblock

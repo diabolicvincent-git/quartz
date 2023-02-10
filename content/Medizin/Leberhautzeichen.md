@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m12, m/m21, f/💩, a/Pathologie
 ---
 ### Leberhautzeichen

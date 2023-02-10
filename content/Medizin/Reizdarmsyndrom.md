@@ -1,5 +1,5 @@
 ---
-bazinga: Colon irritabile, funktionelle Abdominalbeschwerden, Irritable Bowel Syndrome, Irritables Darmsyndrom, Nervöser Darm, Reizkolon, Spastisches Kolon
+aliases: Colon irritabile, funktionelle Abdominalbeschwerden, Irritable Bowel Syndrome, Irritables Darmsyndrom, Nervöser Darm, Reizkolon, Spastisches Kolon
 tags: m/m26, f/💩, f/💭
 ---
 ### Reizdarmsyndrom

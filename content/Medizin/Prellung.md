@@ -1,5 +1,5 @@
 ---
-bazinga: Kontusion
+aliases: Kontusion
 tags: m/m27, f/🦴, a/Pathologie
 ---
 ### Prellung / Kontusion

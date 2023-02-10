@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, m/m14, f/⚙️, f/🍺, f/🗞️
 ---
 ![[Ca2+]]

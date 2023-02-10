@@ -1,5 +1,5 @@
 ---
-bazinga: Akutes Koronarsyndrom
+aliases: Akutes Koronarsyndrom
 tags: [m/m11, f/🫀, a/Pathologie]
 ---
 - **Symptome**

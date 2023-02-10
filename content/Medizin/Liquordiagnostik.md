@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m30, f/🧠, f/🥼, a/Intervention/Diagnostik
 ---
 ### Liquordiagnostik

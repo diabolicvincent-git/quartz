@@ -1,5 +1,5 @@
 ---
-bazinga: A. coronaria dextra
+aliases: A. coronaria dextra
 tags: m/m11, f/🫀, f/💀
 ---
 ## A. coronaria dextra / RCA

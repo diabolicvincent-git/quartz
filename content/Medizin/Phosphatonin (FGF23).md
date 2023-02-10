@@ -1,3 +1,5 @@
+---
+---
 - Aus dem [[Knochen]] freigesetzt bei hohem [[Phosphat]]- und [[Calcitriol]]-Spiegel
 
 > Ziel: Vermehrte renale [[Phosphat]] Exkretion ↑ – [[Calcitriol]]-Aktivierung ↓ 

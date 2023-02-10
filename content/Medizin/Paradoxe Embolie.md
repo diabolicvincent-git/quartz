@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m25, f/🫀, a/Pathologie
 ---
 ### Paradoxe Embolie

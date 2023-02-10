@@ -1,5 +1,5 @@
 ---
-bazinga: MDS
+aliases: MDS
 tags: m/m17, a/Pathologie
 ---
 ### Myelodysplastisches Syndrom / MDS

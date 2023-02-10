@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/💊/Medikament, f/🫀
 ---
 - **Einteilung**

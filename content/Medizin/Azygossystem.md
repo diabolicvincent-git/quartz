@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Azygos
 tags: m/m11, f/💀
 ---

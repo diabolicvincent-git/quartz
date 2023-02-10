@@ -1,5 +1,5 @@
 ---
-bazinga: National Early Warning Score
+aliases: National Early Warning Score
 tags: m/m00, f/💤, a/Intervention/Diagnostik
 ---
 ### National Early Warning Score / NEWS2

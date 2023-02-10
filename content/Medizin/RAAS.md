@@ -1,5 +1,5 @@
 ---
-bazinga: Renin-Angiotensin-Aldosteron-System
+aliases: Renin-Angiotensin-Aldosteron-System
 tags: m/m14, m/m11
 ---
 ### Renin-Angiotensin-Aldosteron-System / RAAS

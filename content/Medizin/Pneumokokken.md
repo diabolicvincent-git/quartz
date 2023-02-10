@@ -1,5 +1,5 @@
 ---
-bazinga: Str. pneumoniae, Streptococcus pneumoniae
+aliases: Str. pneumoniae, Streptococcus pneumoniae
 tags: [m/m18, f/🦠/Erreger/Bakterien]
 ---
 ### Streptococcus pneumoniae / Pneumokokken

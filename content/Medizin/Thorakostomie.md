@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/⛑️, f/🔪, a/Intervention/Therapie
 ---
 ### Thorakostomie

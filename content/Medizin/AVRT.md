@@ -1,5 +1,5 @@
 ---
-bazinga: Präexzitationssyndrom, Atrioventrikuläre Reentrytachykardie
+aliases: Präexzitationssyndrom, Atrioventrikuläre Reentrytachykardie
 tags: f/🫀, a/Pathologie
 ---
 ### Atrioventrikuläre Reentrytachykardie / AVRT

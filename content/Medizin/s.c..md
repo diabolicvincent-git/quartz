@@ -1,5 +1,5 @@
 ---
-bazinga: subcutan
+aliases: subcutan
 tags: m/m00, m/m09
 ---
 ### subcutan / s.c.

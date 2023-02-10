@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Kohlenmonoxid
   - Kohlenstoffmonoxid
 tags: m/m03, m/m08, m/m13, f/🧪, f/🫁, f/🍄, f/🧪/Molekül, a/Pathologie

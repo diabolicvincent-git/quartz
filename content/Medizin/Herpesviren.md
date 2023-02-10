@@ -1,5 +1,5 @@
 ---
-bazinga: Herpes
+aliases: Herpes
 tags: m/m09, m/m18, f/🦠, f/🧴, f/🦠/Erreger/Viren
 ---
 ### Herpesviren

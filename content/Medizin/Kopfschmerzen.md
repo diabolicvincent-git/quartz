@@ -1,5 +1,5 @@
 ---
-bazinga: Cephalgie
+aliases: Cephalgie
 tags: m/m15, a/Pathologie, f/🧠
 ---
 ### Kopfschmerzen / Cephalgie

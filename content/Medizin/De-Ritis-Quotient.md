@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m12, f/💩, a/Intervention/Diagnostik
 ---
 > (Abstract::[[AST]] > [[ALT]] = Schwere Leberzellschädigung.)

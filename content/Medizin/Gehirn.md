@@ -1,5 +1,5 @@
 ---
-bazinga: Hirn
+aliases: Hirn
 tags: m/m15
 kleiner: "[[Rhombencephalon]], [[Mesencephalon]], [[Prosencephalon]]"
 ---

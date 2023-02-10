@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Aktionspotentials
   - Aktionspotential
   - AP

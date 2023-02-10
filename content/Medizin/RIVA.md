@@ -1,5 +1,5 @@
 ---
-bazinga: R. interventricularis anterior, LAD
+aliases: R. interventricularis anterior, LAD
 tags: m/m11
 ---
 ### R. interventricularis anterior / RIVA / LAD

@@ -1,5 +1,5 @@
 ---
-bazinga: vegetatives Nervensystem, vegetativ, vegetatives, Autonomes Nervensystem
+aliases: vegetatives Nervensystem, vegetativ, vegetatives, Autonomes Nervensystem
 tags: m/m15, f/🧠, f/⚙️
 ---
 

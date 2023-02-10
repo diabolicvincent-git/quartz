@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, m/m10, f/💀, f/🦴
 ---
 ### Knochen

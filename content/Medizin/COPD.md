@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/🫁, a/Pathologie
 ---
 > (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Bronchitis]] + [[Lungenemphysem]].)

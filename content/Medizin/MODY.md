@@ -1,5 +1,5 @@
 ---
-bazinga: Maturity-onset Diabetes of the Young
+aliases: Maturity-onset Diabetes of the Young
 tags: m/m17, f/🗞️, a/Pathologie
 ---
 ### MODY / Maturity-onset Diabetes of the Young

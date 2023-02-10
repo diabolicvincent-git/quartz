@@ -1,5 +1,5 @@
 ---
-bazinga: Rachitis
+aliases: Rachitis
 tags: m/m05, m/m10, a/Pathologie, f/🦴
 ---
 ### Osteomalazie / Rachitis

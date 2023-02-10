@@ -1,5 +1,5 @@
 ---
-bazinga: Urea
+aliases: Urea
 tags: m/m14, f/🧪, f/🍺, f/⚙️
 ---
 ### Harnstoff 

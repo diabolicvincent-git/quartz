@@ -1,5 +1,5 @@
 ---
-bazinga: Vorhofdehnungsreflex
+aliases: Vorhofdehnungsreflex
 tags: m/m11, f/🫀, f/🍺, f/🧪/Molekül/Rezeptor
 ---
 ### Volumenrezeptoren

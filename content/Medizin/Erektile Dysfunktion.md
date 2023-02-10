@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m22, f/🍆, a/Pathologie
 ---
 ### Erektile Dysfunktion

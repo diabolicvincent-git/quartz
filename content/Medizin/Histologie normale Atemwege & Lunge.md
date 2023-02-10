@@ -1,3 +1,5 @@
+---
+---
 ## Allgemeiner Wandaufbau
 
 - **Tunica mucosa**

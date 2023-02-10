@@ -1,5 +1,5 @@
 ---
-bazinga: Thalamus ventralis
+aliases: Thalamus ventralis
 tags: m/m15, f/🧠, f/💀
 ---
 ### Subthalamus 

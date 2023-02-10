@@ -1,5 +1,5 @@
 ---
-bazinga: Arias-Syndrom
+aliases: Arias-Syndrom
 tags: m/m26, a/Pathologie, f/💩
 ---
 ### Cirgler-Najjar-Syndrom

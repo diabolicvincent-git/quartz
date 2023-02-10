@@ -1,5 +1,5 @@
 ---
-bazinga: GSH
+aliases: GSH
 tags: m/m08, m/m17, f/🩸, f/💀
 ---
 ### Glutathion / GSH

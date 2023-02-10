@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m25, a/Intervention/Diagnostik, a/Intervention/Therapie, f/🫀
 ---
 ### Linksherzkatheter

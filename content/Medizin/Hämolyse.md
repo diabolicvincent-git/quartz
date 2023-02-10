@@ -1,5 +1,5 @@
 ---
-bazinga: Hämolytische Anämie
+aliases: Hämolytische Anämie
 tags: m/m08, m/m17, f/🩸
 ---
 ### Hämolyse / Hämolytische [[Anämie]] 

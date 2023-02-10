@@ -1,3 +1,5 @@
+---
+---
 - Fibrosierung von Haut und inneren Organen, [[Pulmonale Hypertonie]] und [[Lungenfibrose]] als Spätfolge 
 ### „Morphea“
 - nicht systemische, rein kutane, zirkumskripte Form 

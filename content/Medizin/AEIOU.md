@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m14, a/Intervention/Therapie, f/🍺
 ---
 (Abstract::**Akute [[Dialyse]]-Indikationen**.)

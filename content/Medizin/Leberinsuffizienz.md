@@ -1,5 +1,5 @@
 ---
-bazinga: Leberfunktionsstörung
+aliases: Leberfunktionsstörung
 tags: m/m12, f/💩, a/Pathologie
 ---
 - **Synthese↓**

@@ -1,5 +1,5 @@
 ---
-bazinga: Motorcortex
+aliases: Motorcortex
 tags: m/m15
 ---
 ### Motorischer Cortex

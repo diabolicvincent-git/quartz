@@ -1,5 +1,5 @@
 ---
-bazinga: Regulation des Wärmehaushalts, Thermoregulation, Thermogenese,
+aliases: Regulation des Wärmehaushalts, Thermoregulation, Thermogenese,
   Temperaturregulation
 tags: m/m09, ToDo, f/🧴, f/⚙️
 ---

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m21, f/⛑️, a/Intervention/Diagnostik, a/Intervention/Therapie
 ---
 > (Abstract::[[Airway]], [[Breathing]], [[Circulation]], [[Disability]], [[Exposure]])

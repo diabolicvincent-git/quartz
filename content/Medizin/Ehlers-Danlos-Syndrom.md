@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, f/🧬, a/Pathologie
 ---
 ### Ehlers-Danlos-Syndrom

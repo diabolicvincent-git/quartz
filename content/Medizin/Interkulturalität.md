@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m20, m/m06
 ---
 ### Interkulturalität

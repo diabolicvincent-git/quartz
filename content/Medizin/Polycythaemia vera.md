@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m19, f/🩸, a/Pathologie
 ---
 ### Polycythaemia vera / PV

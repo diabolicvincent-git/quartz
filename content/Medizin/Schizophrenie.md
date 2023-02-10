@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: [a/Pathologie, m/m31, f/💭]
 ---
 

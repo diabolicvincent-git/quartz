@@ -1,5 +1,5 @@
 ---
-bazinga: Aspartataminotransferase, ASAT, GOT
+aliases: Aspartataminotransferase, ASAT, GOT
 tags: m/m12, f/🧪, f/💩, f/🧪/Molekül
 ---
 > (Abstract::**Aspartataminotransferase.** Auch: ASAT, GOT.)

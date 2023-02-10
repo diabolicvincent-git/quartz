@@ -1,5 +1,5 @@
 ---
-bazinga: Genetische Diagnostik
+aliases: Genetische Diagnostik
 tags: m/m02, m/m17, f/🧬, a/Intervention/Diagnostik
 ---
 ### Gendiagnostik / Genetische Diagnostik 

@@ -1,5 +1,5 @@
 ---
-bazinga: ATPasen
+aliases: ATPasen
 tags: m/m03, f/🧪, f/🧪/Molekül
 ---
 > Aktiver [[Stofftransport]]

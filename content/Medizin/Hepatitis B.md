@@ -1,5 +1,5 @@
 ---
-bazinga: HBV
+aliases: HBV
 tags: m/m19, f/🦠/Reiseimpfung, f/💩, a/Pathologie, f/🦠/Erreger/Viren
 ---
 - **Epidemiologie**:: Ubiquitär verbreitet, insb. Afrika+Asien

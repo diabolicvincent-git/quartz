@@ -1,5 +1,5 @@
 ---
-bazinga: International Normalized Ratio
+aliases: International Normalized Ratio
 tags: m/m08, f/🩸
 ---
 ### International Normalized Ratio / INR 

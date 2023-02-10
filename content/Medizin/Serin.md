@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m02
 ---
 **Serin (Ser, S)**:: Alkoholische [[AS]]

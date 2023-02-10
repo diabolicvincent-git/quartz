@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/💀/Leitungsbahn/Arterie, f/💀 
 ---
 - **Ursprung**:: [[Aortenbogen]] (links), [[Truncus brachiocephalicus]] (rechts)

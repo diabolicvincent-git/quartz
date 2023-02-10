@@ -1,3 +1,5 @@
+---
+---
 
 Kategorie|Diphterie / Krupp|Pseudokrupp|Epiglottitis
 -|-|-|-|

@@ -1,5 +1,5 @@
 ---
-bazinga: Dermatom
+aliases: Dermatom
 tags: m/m09, f/🧴, f/🧠, f/💀
 ---
 - *Sensibel* innverviertes Hautareal genau eines [[Spinalnerven]]

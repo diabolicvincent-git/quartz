@@ -1,5 +1,5 @@
 ---
-bazinga: M. Wegener
+aliases: M. Wegener
 tags: m/m14, m/m17, f/🍺, f/💉
 ---
 ### Granulomatose mit Polyangiitis 

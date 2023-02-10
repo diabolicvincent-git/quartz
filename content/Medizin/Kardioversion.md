@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m11, f/🫀, f/⛑️
 ---
 ### Kardioversion

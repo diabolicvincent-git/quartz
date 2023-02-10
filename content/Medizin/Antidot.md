@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m13, m/m21, f/💤, f/🍄, f/💊/Medikament/Übergruppe, a/Intervention/Therapie
 ---
 ```dataview

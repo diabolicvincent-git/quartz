@@ -1,5 +1,5 @@
 ---
-bazinga: QT, QTc, QTc-Zeit
+aliases: QT, QTc, QTc-Zeit
 tags: m/m11, f/🫀, a/Intervention/Diagnostik
 ---
 ### QT-Zeit / QTc

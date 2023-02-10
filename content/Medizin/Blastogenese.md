@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, f/🐣, f/💀
 ---
 > Woche 1 p.c. ([[SSW]] 3 p.m.)

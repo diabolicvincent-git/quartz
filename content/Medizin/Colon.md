@@ -1,5 +1,5 @@
 ---
-bazinga: Caecum
+aliases: Caecum
 tags: m/m12, f/💩, f/💀
 ---
 ## Funktion

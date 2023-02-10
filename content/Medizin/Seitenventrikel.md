@@ -1,5 +1,5 @@
 ---
-bazinga: Ventrikel I + II, Ventrikel I, Ventrikel II
+aliases: Ventrikel I + II, Ventrikel I, Ventrikel II
 tags: m/m15, f/🧠, f/💀
 ---
 ### Seitenventrikel

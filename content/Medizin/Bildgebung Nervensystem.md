@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m15, f/🕶️, f/🧠, m/m30
 ---
 

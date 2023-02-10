@@ -1,5 +1,5 @@
 ---
-bazinga: Betablocker
+aliases: Betablocker
 tags: m/m11, f/💊/Medikament, f/🫀
 ---
 ### β-Blocker

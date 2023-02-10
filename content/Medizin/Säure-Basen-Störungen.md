@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, m/m13, f/⚙️, f/🍺, f/🫀
 ---
 ### Säure-Basen-Störungen

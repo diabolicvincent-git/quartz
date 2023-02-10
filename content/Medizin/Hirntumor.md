@@ -1,5 +1,5 @@
 ---
-bazinga: Intrakranielle Neoplasie, Tumor cerebri
+aliases: Intrakranielle Neoplasie, Tumor cerebri
 tags: m/m30, f/🧠, f/🦀, a/Pathologie
 ---
 - **Entitäten**

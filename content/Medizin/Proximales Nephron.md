@@ -1,3 +1,5 @@
+---
+---
 >  **Funktion**:: Massenrückresorption
 - **Anatomische Abschnitte**
 	- [[Proximaler Tubulus]] Pars convoluta

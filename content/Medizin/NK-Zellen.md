@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m08
 ---
 ### Natürliche Killerzellen / NK-Zellen

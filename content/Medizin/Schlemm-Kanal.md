@@ -1,5 +1,5 @@
 ---
-bazinga: Sinus venosus sclerae
+aliases: Sinus venosus sclerae
 tags: m/m16, f/👁️, f/💀
 ---
 ### Schlemm-Kanal / Sinus venosus sclerae

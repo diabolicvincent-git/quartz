@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m11, f/🫀, f/⚙️
 ---
 > Zeit, die eine ([[Herz]]‑)Muskelzelle nach Erregung gar nicht (*absolut*) oder schwerer (*relativ*) erneut zu erregen ist.

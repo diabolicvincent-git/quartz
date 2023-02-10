@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m14, f/🍺
 ---
 ## Antidiurese

@@ -1,3 +1,5 @@
+---
+---
 - **Mykologie**:: Lehre von humanpathogenen Pilzen
 - **Mykose**:: [[Infektionen]] durch Pilztoxine
 - **Mykid**:: Typ-IV-Reaktion Pilzantigene

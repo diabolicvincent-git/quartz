@@ -1,5 +1,5 @@
 ---
-bazinga: Mandeln
+aliases: Mandeln
 tags: f/💀/Organ, f/💀, f/👂
 ---
 > (Abstract::**[[MALT]] in [[Oropharynx]]/[[Nasopharynx]].**)

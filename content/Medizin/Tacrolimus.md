@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m17, m/m26, f/💊/Medikament
 ---
 ### Tacrolimus

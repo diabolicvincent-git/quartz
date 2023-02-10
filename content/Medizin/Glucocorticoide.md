@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m04 m/m09 m/m13 m/m16 f/💊/Medikament m/m22, f/🗞️
 ---
 ### Glucocorticoide

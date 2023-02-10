@@ -1,5 +1,5 @@
 ---
-bazinga: Intravenöse Immunglobuline
+aliases: Intravenöse Immunglobuline
 tags: m/m17, f/💉, a/Intervention/Therapie
 ---
 ### Intravenöse Immunglobuline / IVIG

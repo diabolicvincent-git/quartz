@@ -1,5 +1,5 @@
 ---
-bazinga: Acetylsalicylsäure
+aliases: Acetylsalicylsäure
 tags: m/m20, m/m08, f/💊/Medikament, f/🫀, f/🩸
 ---
 > (Abstract::**Acetylsalicylsäure.** [[Thrombocytenaggregationshemmer]] und [[NSAR]])

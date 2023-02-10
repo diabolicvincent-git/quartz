@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Cystische Fibrose
 tags: m/m03
 ---

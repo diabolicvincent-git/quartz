@@ -1,5 +1,5 @@
 ---
-bazinga: Kontraindikation, Kontraindikationen, kontraindiziert
+aliases: Kontraindikation, Kontraindikationen, kontraindiziert
 tags: m/m00, f/💊/Medikament, m/m24
 ---
 ### Häufige Kontraindikationen

@@ -1,5 +1,5 @@
 ---
-bazinga: Angiotensinogen
+aliases: Angiotensinogen
 tags: m/m14, f/🍺, f/🫀, f/🧪, f/⚙️, f/🧪/Molekül/Hormon
 ---
 - **Synthese**:: [[Leber]], Fettgewebe (*Angiotensinogen*)

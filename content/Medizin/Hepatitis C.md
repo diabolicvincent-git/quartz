@@ -1,5 +1,5 @@
 ---
-bazinga: Hepatitis-C-Virus, HCV, HepC
+aliases: Hepatitis-C-Virus, HCV, HepC
 tags: m/m18, f/🦠, f/💩, a/Pathologie
 ---
 ### Hepatitis C

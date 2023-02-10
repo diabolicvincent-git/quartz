@@ -1,5 +1,5 @@
 ---
-bazinga: Bandscheibenvorfall, Diskusprolaps
+aliases: Bandscheibenvorfall, Diskusprolaps
 tags: m/m27, f/🦴, f/🧠
 ---
 ### Bandscheibenprolaps / -vorfall

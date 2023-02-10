@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m12, f/💩, a/Pathologie, m/m26
 ---
 ### Gastritis

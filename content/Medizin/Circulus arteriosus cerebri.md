@@ -1,5 +1,5 @@
 ---
-bazinga: Circle of Willis
+aliases: Circle of Willis
 tags: m/m15, f/🧠, f/💀
 ---
 ### Circulus arteriosus cerebri / Circle of Willis

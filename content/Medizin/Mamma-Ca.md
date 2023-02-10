@@ -1,5 +1,5 @@
 ---
-bazinga: Mammakarzinom, Brustkrebs
+aliases: Mammakarzinom, Brustkrebs
 tags: m/m19, a/Pathologie
 ---
 ### Mammakarzinom / Brustkrebs

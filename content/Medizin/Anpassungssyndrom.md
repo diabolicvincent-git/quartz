@@ -1,5 +1,5 @@
 ---
-bazinga: Selye
+aliases: Selye
 tags: m/m20, f/💭, a/Pathologie
 ---
 > (Abstract::Auch: Selye-Syndrom)

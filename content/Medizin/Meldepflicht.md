@@ -1,5 +1,5 @@
 ---
-bazinga: meldepflichtig
+aliases: meldepflichtig
 tags: m/m18
 ---
 ### Meldepflicht

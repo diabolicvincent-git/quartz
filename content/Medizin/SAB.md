@@ -1,5 +1,5 @@
 ---
-bazinga: Subarachnoidalblutung
+aliases: Subarachnoidalblutung
 tags: m/m15, f/🧠
 ---
 ### Subarachnoidalblutung / SAB

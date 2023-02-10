@@ -1,3 +1,5 @@
+---
+---
 ## Sensorisches Gedächtnis
 - **Inhalt**:: Bilder, Geräusche etc.
 - **Dauer**:: Wenige Sekunden, es sei denn die Eindrücke erreichen die Aufmerksamkeit

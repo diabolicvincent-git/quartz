@@ -1,5 +1,5 @@
 ---
-bazinga: diastolisch
+aliases: diastolisch
 tags: m/m11, f/🫀, f/⚙️
 ---
 ## Entspannungsphase

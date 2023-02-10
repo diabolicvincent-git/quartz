@@ -1,5 +1,5 @@
 ---
-bazinga: Autoimmunerkrankung
+aliases: Autoimmunerkrankung
 tags: m/m17, f/💉
 ---
 ### Autoimmunität 

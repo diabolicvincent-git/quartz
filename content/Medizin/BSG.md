@@ -1,5 +1,5 @@
 ---
-bazinga: Blutsenkungsgeschwindigkeit
+aliases: Blutsenkungsgeschwindigkeit
 tags: m/m08, f/🩸, f/🥼
 ---
 ### Blutsenkungsgeschwindigkeit / BSG

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m12, f/💩, f/⚙️
 ---
 > (Abstract::Nahrungsbestandteile, die im [[Dünndarm]] weder verdaut noch absorbiert werden (i.d.R. [[Kohlenhydrate]]))

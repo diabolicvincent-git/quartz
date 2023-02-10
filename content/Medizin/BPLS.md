@@ -1,5 +1,5 @@
 ---
-bazinga: Benigner paroxysmaler Lagerungsschwindel
+aliases: Benigner paroxysmaler Lagerungsschwindel
 tags: m/m16, f/👂
 ---
 > (Abstract::**Benigner paroxysmaler Lagerungsschwindel.**)

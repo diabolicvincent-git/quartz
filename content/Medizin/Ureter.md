@@ -1,5 +1,5 @@
 ---
-bazinga: Harnleiter
+aliases: Harnleiter
 tags: m/m14, f/🍺, f/🍆, f/💀, f/💀/Organ
 ---
 ### Harnleiter / Ureter

@@ -1,5 +1,5 @@
 ---
-bazinga: Kreislaufregulation, Blutdruckregulation
+aliases: Kreislaufregulation, Blutdruckregulation
 tags: m/m11, f/🫀, f/🍺
 ---
 ### Sensoren

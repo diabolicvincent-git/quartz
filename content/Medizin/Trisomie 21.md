@@ -1,5 +1,5 @@
 ---
-bazinga: Down-Syndrom
+aliases: Down-Syndrom
 tags: m/m02, f/🧬, a/Pathologie
 ---
 ### Trisomie 21 / Down-Syndrom 

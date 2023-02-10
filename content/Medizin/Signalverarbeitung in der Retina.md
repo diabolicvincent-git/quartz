@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m16, f/👁️, f/⚙️
 ---
 > [[Photorezeptoren]] sind in Ruhe *depolarisiert*, ein Lichtreiz *hyperpolarisiert* sie (Glutamatfreisetzung↓)

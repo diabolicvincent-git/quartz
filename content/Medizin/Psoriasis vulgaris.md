@@ -1,5 +1,5 @@
 ---
-bazinga: Schuppenflechte
+aliases: Schuppenflechte
 tags: m/m09, f/🧴
 ---
 > Chronisch-entzündliche, schubweise Hauterkrankung mit genetischer Prädisposition

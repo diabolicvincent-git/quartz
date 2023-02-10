@@ -1,5 +1,5 @@
 ---
-bazinga: VF
+aliases: VF
 tags: m/m11, m/m21, f/🫀, f/💤
 ---
 ### Kammerflimmern / VF

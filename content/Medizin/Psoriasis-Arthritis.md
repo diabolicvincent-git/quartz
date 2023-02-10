@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m09, m/m17, f/💉, f/🧴
 ---
 ### [[Psoriasis vulgaris]]-Arthritis 

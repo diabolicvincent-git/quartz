@@ -1,5 +1,5 @@
 ---
-bazinga: Atemnot
+aliases: Atemnot
 tags: m/m11, m/m13, f/🫁
 ---
 ### Dyspnoe / Atemnot

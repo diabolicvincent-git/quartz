@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m15, m/m00, f/🧠, a/Intervention/Diagnostik
 ---
 ### 

@@ -1,5 +1,5 @@
 ---
-bazinga: Herpes-Simplex-Virus
+aliases: Herpes-Simplex-Virus
 tags: m/m09, f/🦠/Erreger/Viren
 ---
 ### Herpes-Simplex-Virus / HSV-1/2

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m09, f/🧴, a/Pathologie, m/m26
 ---
 ### Nekrotisierende Fasziitis

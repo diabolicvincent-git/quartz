@@ -1,5 +1,5 @@
 ---
-bazinga: PDH
+aliases: PDH
 tags: m/m03
 ---
 ### Pyruvatdehydrogenase / PDH

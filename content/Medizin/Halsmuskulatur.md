@@ -1,3 +1,5 @@
+---
+---
 - **Oberflächliche Halsmuskulatur:** Innervation durch [[Hirnnerven]]
 	- [[M. sternocleidomastoideus]]
 	- [[Platysma]]

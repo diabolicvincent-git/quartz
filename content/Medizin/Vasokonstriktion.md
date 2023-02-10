@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m08, m/m21, f/⚙️
 ---
 ### Vasokonstriktion / Gefäßverengung

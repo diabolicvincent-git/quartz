@@ -1,5 +1,5 @@
 ---
-bazinga: Major Histocompatibility Complex
+aliases: Major Histocompatibility Complex
 tags: m/m08, m/m17, f/⚙️, f/🦠, f/🩸
 ---
 ### Major Histocompatibility Complex / MHC 

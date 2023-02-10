@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m13, f/🫁, f/💤, a/Intervention/Therapie
 ---
 ### Continuous Positive Airway Pressure / CPAP

@@ -1,5 +1,5 @@
 ---
-bazinga: Mechanische Reanimationshilfe
+aliases: Mechanische Reanimationshilfe
 tags: f/⛑️, a/Intervention/Therapie
 ---
 ### mCPR

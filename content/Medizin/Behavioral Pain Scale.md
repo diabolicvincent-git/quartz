@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m36, f/💤, a/Intervention/Diagnostik
 ---
 ### Behavioral Pain Scale / BPS

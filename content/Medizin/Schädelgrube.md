@@ -1,5 +1,5 @@
 ---
-bazinga: Schädelgruben
+aliases: Schädelgruben
 tags: m/m15, f/💀, f/🧠
 ---
 - **[[Fossa cranii anterior]]**

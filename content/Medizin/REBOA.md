@@ -1,5 +1,5 @@
 ---
-bazinga: Resuscitative Endocascular Balloon Occlusion of the Aorta
+aliases: Resuscitative Endocascular Balloon Occlusion of the Aorta
 tags: m/m00, f/💤, a/Intervention/Therapie
 ---
 ### Resuscitative Endocascular Balloon Occlusion of the [[Aorta]] / REBOA

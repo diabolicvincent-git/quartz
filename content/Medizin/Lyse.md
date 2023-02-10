@@ -1,5 +1,5 @@
 ---
-bazinga: Thrombolyse
+aliases: Thrombolyse
 tags: m/m30, f/🧠, f/💊/Medikament, a/Intervention/Therapie
 ---
 > (Abstract::Thrombolyse-Therapie)

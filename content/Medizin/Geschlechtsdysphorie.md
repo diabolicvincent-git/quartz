@@ -1,5 +1,5 @@
 ---
-bazinga: Transsexualität, Transgeschlechtlichkeit, Genderidentitätsstörung
+aliases: Transsexualität, Transgeschlechtlichkeit, Genderidentitätsstörung
 tags: m/m22, f/🦩, f/🍆, f/💭, f/🗞️, a/Pathologie
 ---
 ### Geschlechtsdysphorie

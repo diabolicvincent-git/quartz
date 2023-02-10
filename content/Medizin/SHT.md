@@ -1,5 +1,5 @@
 ---
-bazinga: Schädel-Hirn-Trauma, Schädelhirntrauma
+aliases: Schädel-Hirn-Trauma, Schädelhirntrauma
 tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Schädel-Hirn-Trauma / SHT

@@ -1,5 +1,5 @@
 ---
-bazinga: Gehirnvenen
+aliases: Gehirnvenen
 tags: m/m15, f/💀, f/🧠
 ---
 > [[Hirnvenen]] haben keine [[Venenklappen]] und kein Muskelgewebe in der Gefäßwand

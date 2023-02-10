@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m11, m/m14, f/🫀, a/Pathologie
 ---
 > (Abstract::**Arterielle [[Hypertonie]]** [[RR]] >140/90 mmHg)

@@ -1,5 +1,5 @@
 ---
-bazinga: Thalamus dorsalis
+aliases: Thalamus dorsalis
 tags: m/m15, f/🧠, f/💀, f/💀/Organ
 ---
 ### Thalamus 

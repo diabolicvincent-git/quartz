@@ -1,5 +1,5 @@
 ---
-bazinga: Ovarien, Eierstock, Eierstöcke
+aliases: Ovarien, Eierstock, Eierstöcke
 tags: m/m22, f/🦩, f/💀
 ---
 ### Ovar / Eierstock ([[♀]])

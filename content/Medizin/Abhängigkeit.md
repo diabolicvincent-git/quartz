@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m31, f/💭, a/Pathologie/Erkrankung
 ---
 - **Einteilung**

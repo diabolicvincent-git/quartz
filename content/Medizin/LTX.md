@@ -1,5 +1,5 @@
 ---
-bazinga: Lebertransplantation
+aliases: Lebertransplantation
 tags: m/m26
 ---
 ### Lebertransplantation / LTX

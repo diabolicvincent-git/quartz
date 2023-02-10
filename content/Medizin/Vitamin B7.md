@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitB7
   - Biotin
 tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪

@@ -1,5 +1,5 @@
 ---
-bazinga: Proteindenaturierung
+aliases: Proteindenaturierung
 tags: m/m02, f/🧪
 ---
 ### Denaturierung

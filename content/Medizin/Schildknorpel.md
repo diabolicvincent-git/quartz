@@ -1,3 +1,5 @@
+---
+---
 ## Schildknorpel
 > Auch: *Cartilago thyroidea*
 - **Lage und Aufbau**:: Zwei Platten, die in der Mitte winklig miteinander verbunden sind:

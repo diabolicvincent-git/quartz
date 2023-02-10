@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m13, f/🫁, f/🦠, a/Pathologie
 ---
 # Bei eigener [[Infektionen]]

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m01, a/Intervention/Therapie, f/🔪
 ---
 - **Indikation**:: *Ultima ratio* bei [[pAVK]], Infizierte Gangrän (z.B. [[Diabetische Nephropathie]]), [[Kompartmentsyndrom]], [[Gasbrand]], Malignom

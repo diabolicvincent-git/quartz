@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Hirnhäute
   - Hirnhaut
   - Rückenmarkshäute

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m20, f/💭/Antidepressiva, f/💊/Medikament/PIM
 ---
 **Gruppe**:: [[Antidepressiva]]

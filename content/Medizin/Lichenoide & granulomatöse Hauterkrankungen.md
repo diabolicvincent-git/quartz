@@ -1,3 +1,5 @@
+---
+---
 # die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
 
 - **Endogen**:: Genetische Determinante der [[Entzündung]]

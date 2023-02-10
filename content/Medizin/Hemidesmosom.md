@@ -1,5 +1,5 @@
 ---
-bazinga: Hemidesmosomen
+aliases: Hemidesmosomen
 tags: m/m04, m/m05, f/🧪, f/🔬
 ---
 ### Hemidesmosom

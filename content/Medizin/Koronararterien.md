@@ -1,5 +1,5 @@
 ---
-bazinga: Koronarien
+aliases: Koronarien
 tags: m/m11
 ---
 ### Koronarien / Koronararterien

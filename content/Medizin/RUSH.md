@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m00, m/m21, f/💤, f/🕶️
 ---
 ### RUSH

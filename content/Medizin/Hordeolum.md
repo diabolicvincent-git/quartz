@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Gerstenkorn
 tags: m/m16, f/👁️, a/Pathologie
 ---

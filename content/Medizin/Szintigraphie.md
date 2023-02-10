@@ -1,5 +1,5 @@
 ---
-bazinga: SPECT
+aliases: SPECT
 tags: m/m19, f/🦀, f/🕶️, a/Intervention/Diagnostik
 ---
 ### Szintigraphie

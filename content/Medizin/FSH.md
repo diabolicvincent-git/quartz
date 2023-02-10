@@ -1,5 +1,5 @@
 ---
-bazinga: Follikel stimulierendes Hormon, Follikelstimulierendes Hormon
+aliases: Follikel stimulierendes Hormon, Follikelstimulierendes Hormon
 tags: m/m22, f/🗞️, f/🦩, f/🧪/Molekül
 ---
 ### [[Follikel]] stimulierendes Hormon / FSH

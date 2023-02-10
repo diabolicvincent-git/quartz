@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitB2
   - Riboflavin
   - FADH2

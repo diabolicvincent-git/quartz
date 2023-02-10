@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m06, m/m22
 ---
 ### Sexualanamnese

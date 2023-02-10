@@ -1,5 +1,5 @@
 ---
-bazinga: sympathisch, sympathische
+aliases: sympathisch, sympathische
 tags: m/m15, f/🧠
 ---
 ### Sympathikus

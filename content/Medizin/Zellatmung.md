@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m03, f/🧪, f/⚙️/Stoffwechsel
 ---
 ![[Untitled 115.png]]

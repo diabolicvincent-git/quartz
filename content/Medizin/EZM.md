@@ -1,5 +1,5 @@
 ---
-bazinga: Extrazellulärmatrix
+aliases: Extrazellulärmatrix
 tags: m/m05
 ---
 ### Extrazellulärmatrix / EZM

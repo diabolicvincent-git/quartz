@@ -1,5 +1,5 @@
 ---
-bazinga: Spinale Muskelatrophie
+aliases: Spinale Muskelatrophie
 tags: m/m30, f/🧠, f/🦄
 ---
 ### Spinale Muskelatrophie / SMA

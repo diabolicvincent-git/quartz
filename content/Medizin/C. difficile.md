@@ -1,5 +1,5 @@
 ---
-bazinga: Chlostridium difficile
+aliases: Chlostridium difficile
 tags: [m/m24, f/🦠, f/🦠/Erreger/Bakterien]
 ---
 ### Chlostridium difficile

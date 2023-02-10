@@ -1,3 +1,5 @@
+---
+---
 ### Endokrinologische Diagnostik
 - Direkte Messung Hormonkonzentration (z.B. Prolactin bei V.a. [[Prolactinom]])
 - Stimulation einer Drüse bei V.a. Unterfunktion (z.B. [[ACTH]]-Kurztest bei V.a. [[NNR-Insuffizienz]])

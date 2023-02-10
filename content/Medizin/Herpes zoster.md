@@ -1,5 +1,5 @@
 ---
-bazinga: Gürtelrose
+aliases: Gürtelrose
 tags: m/m09, m/m18, f/🦠, f/🧴, a/Pathologie
 ---
 > (Abstract::**Gürtelrose.** Reaktivierung [[VZV]] nach [[Windpocken]] im Kindesalter und Persistenz in Ganglien.)

@@ -1,5 +1,5 @@
 ---
-bazinga: Gebärmutter
+aliases: Gebärmutter
 tags: m/m05, m/m22, f/🦩, f/💀, f/💀/Organ
 ---
 ### Uterus / Gebärmutter

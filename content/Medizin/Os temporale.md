@@ -1,3 +1,5 @@
+---
+---
 Schläfenbein
 - *[[Neurocranium]]*
 	- Pars squamosa ossis temporalis

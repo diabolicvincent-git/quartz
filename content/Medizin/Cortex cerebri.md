@@ -1,5 +1,5 @@
 ---
-bazinga: Cortex, Großhirnrinde
+aliases: Cortex, Großhirnrinde
 tags: m/m15, f/🧠, f/💀
 ---
 > #Wichtig Prinzip: Alles, was aus dem Cortex rausgeht ist exzitatorisch und [[Glutamat]]

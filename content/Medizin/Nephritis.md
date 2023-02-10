@@ -1,5 +1,5 @@
 ---
-bazinga: Nephritisches Syndrom
+aliases: Nephritisches Syndrom
 tags: m/m14, f/🍺
 ---
 ### Nephritis / Nephritisches Syndrom

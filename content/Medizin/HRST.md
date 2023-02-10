@@ -1,5 +1,5 @@
 ---
-bazinga: Herzrhythmusstörung, Herzrhythmusstörungen
+aliases: Herzrhythmusstörung, Herzrhythmusstörungen
 tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Herzrhythmusstörungen / HRST

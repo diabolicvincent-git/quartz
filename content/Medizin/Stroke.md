@@ -1,5 +1,5 @@
 ---
-bazinga: Schlaganfall
+aliases: Schlaganfall
 tags: m/m15, f/🧠, a/Pathologie, m/m30
 ---
 > (Abstract::**90% ischämisch, 10% hämorrhagisch ([[ICB]]/[[SAB]]).** Auch: Ischämischer Schlaganfall, Apoplex [sic].)

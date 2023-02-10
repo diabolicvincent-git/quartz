@@ -1,5 +1,5 @@
 ---
-bazinga: Zonula occludens
+aliases: Zonula occludens
 tags: m/m04, m/m05, f/🔬, f/🧪
 ---
 ### Tight Juncton / Zonula occludens

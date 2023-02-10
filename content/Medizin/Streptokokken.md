@@ -1,5 +1,5 @@
 ---
-bazinga: Streptococcus
+aliases: Streptococcus
 tags: m/m18
 ---
 > [[gramnegativ]] > Kokken > [[Streptokokken]] (Katalase–)

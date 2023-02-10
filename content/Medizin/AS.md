@@ -1,5 +1,5 @@
 ---
-bazinga: Aminosäure, Aminosäuren
+aliases: Aminosäure, Aminosäuren
 tags: m/m02, f/🧪, f/🧪/Molekül/Aminosäure
 ---
 ### Aminosäuren / AS

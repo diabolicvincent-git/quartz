@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, f/🍺
 ---
 > (Abstract::Abnahme der Körperflüssigkeit, führt zu [[Exsikkose]])

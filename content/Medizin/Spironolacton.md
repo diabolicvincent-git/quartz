@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/💊/Medikament, f/🍺, f/🫀, f/💩, m/m14
 ---
  ### Spironolacton

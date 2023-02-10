@@ -1,5 +1,5 @@
 ---
-bazinga: Direkte orale Antikoagulantien, Neue orale Antikoagulantien, NOAK, Dabigatran, Apixaban, Rivaroxaban, Edoxaban
+aliases: Direkte orale Antikoagulantien, Neue orale Antikoagulantien, NOAK, Dabigatran, Apixaban, Rivaroxaban, Edoxaban
 tags: m/m17, f/🩸, f/💊/Medikament
 ---
 ### Direkte orale Antikoagulantien / DOAK

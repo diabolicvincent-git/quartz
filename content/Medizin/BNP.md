@@ -1,5 +1,5 @@
 ---
-bazinga: NT-proBNP, NT-pro BNP
+aliases: NT-proBNP, NT-pro BNP
 tags: m/m11, f/🍺, f/🫀, f/🧪/Molekül, f/🥼
 ---
 ### BNP / NT-proBNP / Brain [[Natriuretisches Peptid]]

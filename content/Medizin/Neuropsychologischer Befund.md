@@ -1,3 +1,5 @@
+---
+---
 ## Sonstiges
 
 ## bei einer/m gegebenen Patientin die verschiedenen Qualitäten der Orientierung (Situation, Ort, Zeit, Person) untersuchen, dokumentieren und hinsichtlich eines Normalbefundes einordnen

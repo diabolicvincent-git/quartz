@@ -1,5 +1,5 @@
 ---
-bazinga: C-reaktives Protein
+aliases: C-reaktives Protein
 tags: m/m18, f/🥼, f/🧪, f/🦠, f/🧪/Molekül
 ---
 ### C-reaktives Protein / CRP

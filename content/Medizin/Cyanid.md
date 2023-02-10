@@ -1,5 +1,5 @@
 ---
-bazinga: Cyanwasserstoff
+aliases: Cyanwasserstoff
 tags: m/m03 m/m13, f/🧪, f/🫁, f/🍄/Gift
 ---
 > (Abstract::Blockade [[Atmungskette]]. [[Antidot]]: 4-DMAP oder Hydroxycobalamin.)

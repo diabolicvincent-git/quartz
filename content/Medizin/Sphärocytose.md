@@ -1,5 +1,5 @@
 ---
-bazinga: Kugelzellanämie
+aliases: Kugelzellanämie
 tags: m/m03, m/m08, m/m17
 ---
 ### Sphärocytose / Kugelzellanämie 

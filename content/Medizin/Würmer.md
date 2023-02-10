@@ -1,5 +1,5 @@
 ---
-bazinga: Helminthen
+aliases: Helminthen
 tags: m/m18, f/🦠, f/🦠/Erreger/Parasiten
 ---
 ### Würmer / Helminthen

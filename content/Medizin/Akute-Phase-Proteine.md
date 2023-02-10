@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m08, m/m17, f/🦠, f/🥼, a/Intervention/Diagnostik, f/🧪/Molekül
 ---
 (Abstract::[[Proteine]], deren Konzentration sich bei [[Entzündung]] um >25 % verändert (positiv/negativ))

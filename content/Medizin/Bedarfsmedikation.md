@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m20, a/Intervention/Therapie, f/🩺
 ---
 ### Bedarfsmedikation

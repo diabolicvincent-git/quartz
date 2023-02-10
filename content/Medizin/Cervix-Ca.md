@@ -1,5 +1,5 @@
 ---
-bazinga: Cervixkarzinom
+aliases: Cervixkarzinom
 tags: m/m19, f/🦩, f/🦀
 ---
 ### Cervixkarzinom

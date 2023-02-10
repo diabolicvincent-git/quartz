@@ -1,5 +1,5 @@
 ---
-bazinga: Blutstillung, Blutgerinnung, Gerinnung
+aliases: Blutstillung, Blutgerinnung, Gerinnung
 tags: m/m08, f/🩸, f/⚙️
 ---
 ### Hämostase / Blutstillung und Blutgerinnung 

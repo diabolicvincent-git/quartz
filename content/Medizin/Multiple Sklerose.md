@@ -1,5 +1,5 @@
 ---
-bazinga: MS
+aliases: MS
 tags: m/m15, a/Pathologie, Wichtig, m/m17
 ---
 ### Multiple Sklerose / MS 

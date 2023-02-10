@@ -1,5 +1,5 @@
 ---
-bazinga: Bluterbrechen
+aliases: Bluterbrechen
 tags: m/m26, a/Pathologie
 ---
 ### Hämatemesis / Bluterbrechen

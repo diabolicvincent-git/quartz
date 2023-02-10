@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m04, f/🗞️, f/⚙️
 ---
 ### Schilddrüsenhormone [[T3]]/T4 

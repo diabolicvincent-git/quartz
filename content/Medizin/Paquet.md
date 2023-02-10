@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m26, a/Intervention/Diagnostik
 ---
 ### Paquet-Klassifikation

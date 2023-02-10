@@ -1,5 +1,5 @@
 ---
-bazinga: LQTS, Jervell-Lange-Nielsen-Syndrom, Romano-Ward-Syndrom
+aliases: LQTS, Jervell-Lange-Nielsen-Syndrom, Romano-Ward-Syndrom
 tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Long-QT-Syndrom / LQTS

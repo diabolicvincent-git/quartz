@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, m/m15, m/m04, f/🧠, f/🔬
 ---
 ### Nervengewebe

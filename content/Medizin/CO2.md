@@ -1,5 +1,5 @@
 ---
-bazinga: Kohlendioxid, Kohlenstoffdioxid
+aliases: Kohlendioxid, Kohlenstoffdioxid
 tags: m/m13, f/🧪, f/🧪/Molekül
 ---
 ### Kohlenstoffdioxid / CO2

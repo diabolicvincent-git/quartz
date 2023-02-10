@@ -1,5 +1,5 @@
 ---
-bazinga: SKS
+aliases: SKS
 tags: m/m27
 ---
 ### Spinalkanalstenose / SKS

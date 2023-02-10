@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
  - Bodyplethysmographie
  - Plethysmographie
 ---

@@ -1,3 +1,5 @@
+---
+---
 
 Diffusionsstörung (s. Fick'sches Diffusionsgesetz) durch Veränderung
 

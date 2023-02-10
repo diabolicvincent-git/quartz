@@ -1,5 +1,5 @@
 ---
-bazinga: Nitro, Nitrolingual, Nitroglycerin, Glycerolnitrat, Molsidomin
+aliases: Nitro, Nitrolingual, Nitroglycerin, Glycerolnitrat, Molsidomin
 tags: m/m11, m/m13, f/💊/Medikament, f/🫀
 ---
 ### Nitrate

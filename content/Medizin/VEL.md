@@ -1,5 +1,5 @@
 ---
-bazinga: Vollelektrolytlösung
+aliases: Vollelektrolytlösung
 tags: m/m14, f/💊/Medikament
 ---
 ### Vollelektrolytlösung / VEL

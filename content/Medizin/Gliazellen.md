@@ -1,5 +1,5 @@
 ---
-bazinga: Gliazelle, Gliascheide
+aliases: Gliazelle, Gliascheide
 tags: m/m05, m/m15
 ---
 ### Gliazellen / Supportzellen

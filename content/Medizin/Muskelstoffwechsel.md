@@ -1,3 +1,5 @@
+---
+---
 - **Aerob**
     - Glycose über Citratcyklus und [[Atmungskette]]
 - **Anaerob**

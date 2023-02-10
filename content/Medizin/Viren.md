@@ -1,5 +1,5 @@
 ---
-bazinga: Virus, viral
+aliases: Virus, viral
 tags: m/m03, m/m18, f/🦠, f/🦠/Erreger/Viren
 ---
 ### Viren

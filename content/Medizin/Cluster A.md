@@ -1,3 +1,5 @@
+---
+---
 > (Abstract::**Sonderbar, Exzentrisch.**)
 ```dataview
 TABLE Abstract

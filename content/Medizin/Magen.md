@@ -1,5 +1,5 @@
 ---
-bazinga: Gaster
+aliases: Gaster
 tags: m/m12
 ---
 ### Magen / Gaster

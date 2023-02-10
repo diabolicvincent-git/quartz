@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Lederhaut
 tags:
   - m/m16

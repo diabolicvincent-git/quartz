@@ -1,5 +1,5 @@
 ---
-bazinga: splen
+aliases: splen
 tags: m/m08, f/💀, f/🩸
 ---
 ### Milz

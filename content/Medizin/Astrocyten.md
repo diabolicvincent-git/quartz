@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: [m/m15, m/m30, f/🧠, f/🔬, f/🔬/Zelle]
 ---
 (Abstract::[[Gliazellen]] im [[ZNS]])

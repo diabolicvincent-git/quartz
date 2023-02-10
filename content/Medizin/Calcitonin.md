@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m14, f/🗞️, f/⚙️, f/🧪, f/🧪/Molekül
 ---
 ### Calcitonin

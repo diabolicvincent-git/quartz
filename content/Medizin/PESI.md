@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m21, f/💤, f/🫁
 ---
 ### Simplified Pulmonary Embolism Severity Index / sPESI

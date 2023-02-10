@@ -1,3 +1,5 @@
+---
+---
 
 
 bei einer gegebenen Patientin, einem gegebenen Patienten eine auf die oberen Luftwege fokussierte [[Anamnese]] und körperliche [[Untersuchung]] durchführen, den Befund dokumentieren und im Vergleich zu einem Normalbefund einordnen können. 

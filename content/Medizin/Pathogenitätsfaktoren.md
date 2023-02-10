@@ -1,5 +1,5 @@
 ---
-bazinga: Virulenzfaktoren
+aliases: Virulenzfaktoren
 tags: m/m18, f/🦠
 ---
 ### Pathogenitätsfaktoren / Virulenzfaktoren

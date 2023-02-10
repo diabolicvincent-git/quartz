@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m17, f/🗞️, a/Pathologie
 ---
 ### Diabetisches Fußsyndrom

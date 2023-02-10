@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Windkessel
 tags: m/m11, f/🫀, f/⚙️
 ---

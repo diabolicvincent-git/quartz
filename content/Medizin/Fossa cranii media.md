@@ -1,5 +1,5 @@
 ---
-bazinga: Mittlere Schädelgrube
+aliases: Mittlere Schädelgrube
 tags: m/m15, f/🧠, f/💀
 ---
 ## Fossa cranii media

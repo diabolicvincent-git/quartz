@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m18, f/🦠/Antiinfektiva, f/💊/Medikament/Übergruppe
 ---
 - **Hauptgruppen**

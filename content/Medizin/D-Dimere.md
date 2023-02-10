@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/🥼
 ---
 [[Fibrin]]-/[[Fibrinogen]]-Spaltprodukte bei [[Fibrinolyse]] = Biomarker bei [[Thrombose]]

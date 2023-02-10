@@ -1,5 +1,5 @@
 ---
-bazinga: Furosemid, Torasemid
+aliases: Furosemid, Torasemid
 tags: m/m14, f/🍺, f/🫀, f/💊/Medikament
 ---
 ### Schleifendiuretika

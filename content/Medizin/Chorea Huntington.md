@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - null
 tags: m/m15, m/m03, f/🧠, f/🧬, a/Pathologie
 ---

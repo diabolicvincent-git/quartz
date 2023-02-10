@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m27, f/💉, a/Pathologie
 ---
 ### Erythema nodosum

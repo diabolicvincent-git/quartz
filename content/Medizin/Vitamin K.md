@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitK
   - Phyllochinon
 tags: m/m12, f/⚙️, f/🧪, f/🧪/Molekül/Vitamin 

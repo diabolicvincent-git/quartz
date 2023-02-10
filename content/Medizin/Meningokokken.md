@@ -1,5 +1,5 @@
 ---
-bazinga: N. meningitidis, Neisseria meningitidis
+aliases: N. meningitidis, Neisseria meningitidis
 tags: m/m18, f/🦠/Erreger/Bakterien, f/🦠/Reiseimpfung
 ---
 > (Abstract::**Neisseria meningitidis.** [[gramnegativ]] > Kokken > Neisserien > [[Meningokokken]])

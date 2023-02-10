@@ -1,1 +1,3 @@
+---
+---
 > (Abstract::Elastische Verformung eines Kristalls → elektrische Spannungen (und umgekehrt))

@@ -1,5 +1,5 @@
 ---
-bazinga: Funiculus spermaticus
+aliases: Funiculus spermaticus
 tags: m/m22, f/💀, f/🍆
 ---
 ### Samenstrang / Funiculus spermaticus

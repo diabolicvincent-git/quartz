@@ -1,5 +1,5 @@
 ---
-bazinga: Lungenentzündung
+aliases: Lungenentzündung
 tags: m/m18, a/Pathologie
 ---
 ### Pneumonie / Lungenentzündung

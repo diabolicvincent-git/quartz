@@ -1,5 +1,5 @@
 ---
-bazinga: MTX
+aliases: MTX
 tags: m/m17
 ---
 ### Methotrexat / MTX 

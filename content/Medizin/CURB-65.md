@@ -1,5 +1,5 @@
 ---
-bazinga: CURB65, CRB-65, CRB65
+aliases: CURB65, CRB-65, CRB65
 tags: m/m18, f/🫁, f/🦠, a/Intervention/Diagnostik, a/Intervention/Diagnostik/Score
 ---
 > (Abstract::**Risikostratifizierung bei [[Pneumonie]].** Confusion, Urea, Respiratory Rate, Blood Pressure, >65 Jahre.)

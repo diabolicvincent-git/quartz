@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m00, f/💊/Medikament
 ---
 ### Adrenerges System

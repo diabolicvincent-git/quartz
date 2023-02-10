@@ -1,5 +1,5 @@
 ---
-bazinga: Gigantismus
+aliases: Gigantismus
 tags: m/m22, f/🗞️, a/Pathologie/Erkrankung
 ---
 > (Abstract::**[[Hypophysenadenom]] → [[GH]]↑ → Akromegalie.** Auch: Gigantismus. OP.)

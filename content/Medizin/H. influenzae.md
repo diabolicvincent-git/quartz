@@ -1,5 +1,5 @@
 ---
-bazinga: Haemophilus influenzae
+aliases: Haemophilus influenzae
 tags: m/m18
 ---
 ### Haemophilus influenzae

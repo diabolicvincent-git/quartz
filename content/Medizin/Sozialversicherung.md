@@ -1,3 +1,5 @@
+---
+---
 > (Abstract::**Gesetzliche Pflichtversicherung.** [[GKV]], Rentenversicherung, Unfallversicherung, Arbeitslosenversicherung, Pflegeversicherung)
 - **Prinzipien**
 	- [[Subsidiaritätsprinzip]]

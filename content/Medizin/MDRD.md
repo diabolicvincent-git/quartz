@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: a/Intervention/Diagnostik
 ---
 - **Faktoren**

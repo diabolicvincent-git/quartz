@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Cobalamin
 tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
 ---

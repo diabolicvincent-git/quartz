@@ -1,5 +1,5 @@
 ---
-bazinga: Richmond Agitation and Sedation Scale
+aliases: Richmond Agitation and Sedation Scale
 tags: m/m36, f/💤
 ---
 ### Richmond Agitation and Sedation Scale / RASS

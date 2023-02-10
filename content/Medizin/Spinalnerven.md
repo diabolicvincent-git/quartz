@@ -1,5 +1,5 @@
 ---
-bazinga: Spinalnerv
+aliases: Spinalnerv
 tags: m/m15, f/🧠, f/💀, f/⚙️
 ---
 ### Spinalnerven 

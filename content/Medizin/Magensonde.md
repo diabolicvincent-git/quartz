@@ -1,5 +1,5 @@
 ---
-bazinga: Nasogastrale Sonde
+aliases: Nasogastrale Sonde
 tags: m/m12, f/💩
 ---
 ### Magensonde / Nasogastrale Sonde

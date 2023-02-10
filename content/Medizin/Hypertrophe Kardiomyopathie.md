@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/🫀, a/Pathologie
 ---
 ### Hypertrophe [[Kardiomyopathie]]

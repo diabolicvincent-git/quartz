@@ -1,5 +1,5 @@
 ---
-bazinga: extended focused assesment with sonography for trauma
+aliases: extended focused assesment with sonography for trauma
 tags: m/m21, f/💤, a/Intervention/Diagnostik
 ---
 ### eFAST

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/💊/Medikament, m/m11, f/🫀
 ---
  ### Metoprolol

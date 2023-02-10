@@ -1,5 +1,5 @@
 ---
-bazinga: Calcium
+aliases: Calcium
 tags: m/m14, f/🧪, f/⚙️, f/🧪/Molekül
 ---
 ### Calcium / Ca2+

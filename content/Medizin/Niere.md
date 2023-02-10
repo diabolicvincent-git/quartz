@@ -1,5 +1,5 @@
 ---
-bazinga: Nieren, Ren
+aliases: Nieren, Ren
 tags: m/m14, f/🍺, f/💀
 ---
 ### Niere / Ren

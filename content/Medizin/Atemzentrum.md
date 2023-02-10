@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/🧠, f/💀, f/⚙️
 ---
 - **Lage**:: v.a. in der *[[Medulla oblongata]]*, insb. im *Prä-Bötzinger-Komplex* und *Bötzinger-Komplex*

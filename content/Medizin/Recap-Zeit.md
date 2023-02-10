@@ -1,5 +1,5 @@
 ---
-bazinga: Rekapillarisierungszeit
+aliases: Rekapillarisierungszeit
 tags: m/m00, a/Intervention/Diagnostik
 ---
 ### Rekapillarisierungszeit / Recap-Zeit / Nagelbettprobe

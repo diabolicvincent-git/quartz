@@ -1,3 +1,5 @@
+---
+---
 ## Nahakkommodation
 > Kontraktion [[M. ciliaris]] → Zonulafasern entspannen sich → Abkugelung der [[Augenlinse]] → *Brechkraft↑* (bis 73 dpt)
 

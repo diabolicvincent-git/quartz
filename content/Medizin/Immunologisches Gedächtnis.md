@@ -1,3 +1,5 @@
+---
+---
 
 
 Die erste [[Infektionen]] mit einem Pathogen löst eine primäre Immunantwort aus, bei der sich sog. Gedächtniszellen bilden. Wird der Körper erneut von diesem Pathogen angegriffen, können die Gedächtniszellen schneller und effektiver als naive [[Lymphocyten]] reagieren und erzeugen die sog. sekundäre Immunantwort. Mit jeder erneuten [[Infektionen]] werden neue Gedächtniszellen gebildet, die schneller, effektiver und spezifischer gegen die nächste [[Infektionen]] vorgehen können.

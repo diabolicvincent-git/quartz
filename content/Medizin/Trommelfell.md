@@ -1,5 +1,5 @@
 ---
-bazinga: Membrana tympani
+aliases: Membrana tympani
 tags: m/m16, f/👂, f/💀, f/💀/Organ
 ---
 ### Trommelfell 

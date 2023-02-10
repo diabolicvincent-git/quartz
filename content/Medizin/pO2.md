@@ -1,5 +1,5 @@
 ---
-bazinga: Sauerstoffpartialdruck
+aliases: Sauerstoffpartialdruck
 tags: m/m13, f/🫁, a/Intervention/Diagnostik
 ---
 ### Sauerstoffpartialdruck / pO2

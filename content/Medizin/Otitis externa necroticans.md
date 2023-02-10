@@ -1,3 +1,5 @@
+---
+---
 Nekrotisierende [[Otitis externa]]
 - **Ätiologie**:: Meist [[Pseudomonas aeruginosa]], Risikofaktor ==[[DMT2]]==
 - **Symptome**:: Wie [[Otitis externa]] + Otorrhoe, [[Schalleitungsstörung]], [[Facialisparese]], ggf. [[Osteomyelitis]]

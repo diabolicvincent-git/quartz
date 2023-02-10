@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m11, f/🫀, a/Pathologie, f/⛑️/SOP
 ---
 (Abstract::**Notfall mit Störung der [[Aorta]]-Gefäßintegrität**. [[Aortendissektion]], Aortenverletzung, Intramurales Hämatom, Penetrierendes Aortenulcus.)

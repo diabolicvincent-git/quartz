@@ -1,5 +1,5 @@
 ---
-bazinga: Verdauungstrakt, Magen-Darm-Trakt, Gastrointestinaltrakt
+aliases: Verdauungstrakt, Magen-Darm-Trakt, Gastrointestinaltrakt
 tags: m/m12
 ---
 ### Gastrointestinaltrakt / GI-Trakt

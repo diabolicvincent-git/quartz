@@ -1,5 +1,5 @@
 ---
-bazinga: P. aeruginosa
+aliases: P. aeruginosa
 tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
 ---
 > [[gramnegativ]] > Stäbchen > Pseudomonaden > Pseudomonas aeruginosa

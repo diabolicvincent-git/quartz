@@ -1,5 +1,5 @@
 ---
-bazinga: Niedermolekulares Heparin
+aliases: Niedermolekulares Heparin
 tags: m/m08, m/m17, f/🩸, f/💊/Medikament
 ---
 ### Niedermolekulares [[Heparin]] / NMH

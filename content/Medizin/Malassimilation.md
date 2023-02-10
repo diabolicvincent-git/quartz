@@ -1,5 +1,5 @@
 ---
-bazinga: Malabsorption, Maldigestion
+aliases: Malabsorption, Maldigestion
 tags: m/m26
 ---
 ### Malassimilation

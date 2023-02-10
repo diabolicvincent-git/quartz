@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m20, a/Pathologie, f/🦀, a/Pathologie
 ---
 ### Tumor

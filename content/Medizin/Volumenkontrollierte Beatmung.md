@@ -1,5 +1,5 @@
 ---
-bazinga: VCV
+aliases: VCV
 tags: m/m13, f/🫁, f/💤, a/Intervention/Therapie
 ---
 ### Volumenkontrollierte [[Beatmung]] / VCV

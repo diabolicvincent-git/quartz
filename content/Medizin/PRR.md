@@ -1,5 +1,5 @@
 ---
-bazinga: Pattern-Recognition-Rezeptoren
+aliases: Pattern-Recognition-Rezeptoren
 tags: m/m08, f/⚙️, f/🧪, f/🦠
 ---
 ### Pattern-Recognition-Rezeptoren / PRR

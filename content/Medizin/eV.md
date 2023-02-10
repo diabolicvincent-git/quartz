@@ -1,5 +1,5 @@
 ---
-bazinga: Elektronenvolt
+aliases: Elektronenvolt
 tags: m/m19, f/🧪
 ---
 ### Elektronenvolt / eV

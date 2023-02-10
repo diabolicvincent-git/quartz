@@ -1,5 +1,5 @@
 ---
-bazinga: Insuline
+aliases: Insuline
 tags: m/m17, m/m04, f/🗞️
 ---
 ### Insulin als Hormon (Abstract I)

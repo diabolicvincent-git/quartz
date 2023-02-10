@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, f/🐣, f/💀, f/🔬
 ---
 > Woche 2-8 p.c. ([[SSW]] 4-10 p.m.)

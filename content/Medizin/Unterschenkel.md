@@ -1,5 +1,5 @@
 ---
-bazinga: Crus
+aliases: Crus
 tags: 
 ---
 - - **[[Körperregionen]]**

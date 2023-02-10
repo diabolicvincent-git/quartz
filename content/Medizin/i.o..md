@@ -1,5 +1,5 @@
 ---
-bazinga: intraossär
+aliases: intraossär
 tags: m/m00, m/m21, f/💊/Medikament
 ---
 ### intraossär / i.o.

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m15, m/m21, f/🧠, a/Intervention/Diagnostik, f/⚙️
 ---
 ### Hirnstammreflexe

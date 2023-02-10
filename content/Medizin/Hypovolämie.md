@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m19, f/🫀, f/🍺, a/Pathologie, a/Pathologie
 ---
 ### Hypovolämie

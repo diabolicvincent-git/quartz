@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m25, a/Pathologie, f/🫀, f/🔪
 ---
 > (Abstract::Maximalausprägung von **[[Akutes Aortensyndrom]]** mit Intima-Einriss, intramurale Einblutung, Bildung eines zweiten Lumens)

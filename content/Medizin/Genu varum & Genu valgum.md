@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m10, f/🦴, a/Pathologie
 ---
 Problem im passiven Bewegungsapparat → unphysiologische Stellung → frühere Abnutzungserscheinungen

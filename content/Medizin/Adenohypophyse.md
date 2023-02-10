@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m15, f/🗞️, f/🧠, f/💀, f/💀/Organ
 ---
 (Abstract::[[endokrin]]er Teil der [[Hypophyse]] mit Portalkreislauf → ==[[Hypothalamus-Hypophysen-Achse]]==)

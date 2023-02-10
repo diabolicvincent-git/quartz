@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/🫁
 ---
 ## die Auswirkung von thorakoabdominellen anatomischen Veränderungen auf die Atemmechanik ableiten

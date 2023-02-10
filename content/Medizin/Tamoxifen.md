@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m19, m/m22, f/🦀, f/🦩, f/💊/Medikament
 ---
 ### Tamoxifen

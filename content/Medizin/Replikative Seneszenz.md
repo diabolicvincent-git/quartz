@@ -1,5 +1,5 @@
 ---
-bazinga: Hayflick, Seneszenz
+aliases: Hayflick, Seneszenz
 tags: m/m19, f/⚙️, f/🧪, f/🦀
 ---
 ### Replikative Seneszenz

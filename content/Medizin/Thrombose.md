@@ -1,5 +1,5 @@
 ---
-bazinga: TVT, Phlebothrombose, Tiefe Beinvenenthrombose
+aliases: TVT, Phlebothrombose, Tiefe Beinvenenthrombose
 tags: m/m17, a/Pathologie, f/🩸, f/🫀, a/Pathologie
 ---
 ### Thrombose / Phlebothrombose / TVT 

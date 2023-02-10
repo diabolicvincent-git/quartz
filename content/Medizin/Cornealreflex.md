@@ -1,5 +1,5 @@
 ---
-bazinga: Kornealreflex, Lidschlussreflex
+aliases: Kornealreflex, Lidschlussreflex
 tags: m/m15, m/m16, m/m21, f/🧠, f/👁️, a/Intervention/Diagnostik
 ---
 ### Cornealreflex / Lidschlussreflex

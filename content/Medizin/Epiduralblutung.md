@@ -1,5 +1,5 @@
 ---
-bazinga: Epidurales Hämatom, Epiduralhämatom, EDH
+aliases: Epidurales Hämatom, Epiduralhämatom, EDH
 tags: m/m15, f/🧠, a/Pathologie
 ---
 > *Arterielle [[Blutung]]* im [[Epiduralraum]]

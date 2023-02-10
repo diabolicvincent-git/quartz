@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/🫁
 ---
 ## relevante Erkrankungen mit Obstruktion der oberen Atemwege benennen und zuordnen

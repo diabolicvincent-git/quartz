@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m04, m/m17, f/🗞️
 ---
 ### M. Basedow 

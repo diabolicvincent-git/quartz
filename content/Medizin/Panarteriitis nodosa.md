@@ -1,5 +1,5 @@
 ---
-bazinga: Polyarteriitis nodosa
+aliases: Polyarteriitis nodosa
 tags: m/m17, f/💉, a/Pathologie
 ---
 ### Panarteriitis nodosa

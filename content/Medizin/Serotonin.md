@@ -1,5 +1,5 @@
 ---
-bazinga: 5-Hydroxytryptamin, LSD, 5-HT, 5-HT3
+aliases: 5-Hydroxytryptamin, LSD, 5-HT, 5-HT3
 tags: m/m15
 ---
 ### Serotonin 

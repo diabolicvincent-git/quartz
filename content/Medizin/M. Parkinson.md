@@ -1,5 +1,5 @@
 ---
-bazinga: Idiopathisches Parkinson-Syndrom, IPS, Morbus Parkinson
+aliases: Idiopathisches Parkinson-Syndrom, IPS, Morbus Parkinson
 tags: [m/m15, a/Pathologie, f/🧠]
 ---
 > (Abstract::75% von [[Parkinson-Syndrom]])

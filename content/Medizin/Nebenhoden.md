@@ -1,5 +1,5 @@
 ---
-bazinga: Epididymis
+aliases: Epididymis
 tags: m/m22, f/💀, f/🍆
 ---
 ### Nebenhoden / Epididymis

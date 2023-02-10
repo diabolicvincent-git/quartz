@@ -1,5 +1,5 @@
 ---
-bazinga: Spitzenumkehrtachykardie
+aliases: Spitzenumkehrtachykardie
 tags: m/m11, m/m21, f/🫀, a/Pathologie
 ---
 ### Torsade de Pointes / Spitzenumkehrtachykardie

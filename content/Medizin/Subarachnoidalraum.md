@@ -1,5 +1,5 @@
 ---
-bazinga: Äußerer Liquorraum
+aliases: Äußerer Liquorraum
 tags: m/m15, f/🧠, f/💀
 ---
 ### Subarachnoidalraum

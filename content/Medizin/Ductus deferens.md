@@ -1,5 +1,5 @@
 ---
-bazinga: Samenleiter
+aliases: Samenleiter
 tags: m/m22, f/🍆, f/💀
 ---
 ### Ductus deferens / Samenleiter

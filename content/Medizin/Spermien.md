@@ -1,5 +1,5 @@
 ---
-bazinga: Spermium, Spermatozoon
+aliases: Spermium, Spermatozoon
 tags: m/m22, f/🍆, f/🧬, f/⚙️, f/🔬/Zelle
 ---
 > [[Spermatogenese]]

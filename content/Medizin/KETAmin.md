@@ -1,5 +1,5 @@
 ---
-bazinga: Esketamin, S-Ketamin, Ketanest
+aliases: Esketamin, S-Ketamin, Ketanest
 tags: m/m21, f/💊/Medikament, f/💤
 ---
 ### (Es-)Ketamin

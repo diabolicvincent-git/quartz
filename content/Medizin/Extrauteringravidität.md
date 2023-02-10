@@ -1,5 +1,5 @@
 ---
-bazinga: Ektope Schwangerschaft, EUG
+aliases: Ektope Schwangerschaft, EUG
 tags: m/m22, f/🦩
 ---
 ### Extrauteringravidität / EUG

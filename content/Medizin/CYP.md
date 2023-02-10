@@ -1,5 +1,5 @@
 ---
-bazinga: Cytochrom-P450-System
+aliases: Cytochrom-P450-System
 tags: m/m12, f/💩, f/🧪, f/💊/Medikament
 ---
 > (Abstract::**Cytochrom-P450-System.** [[Häm]]-[[Enzyme]] zur [[Biotransformation]].)

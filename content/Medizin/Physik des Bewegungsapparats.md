@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m10, f/🦴, f/⚙️
 ---
 - **Kraft [N]**:: Vektorielle Größe → Beschleunigung oder Verformung

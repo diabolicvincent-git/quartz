@@ -1,5 +1,5 @@
 ---
-bazinga: Novalgin, Novaminsulfon
+aliases: Novalgin, Novaminsulfon
 tags: m/m20, f/💊/Medikament, f/💤
 ---
 ### Metamizol / Novaminsulfon

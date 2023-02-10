@@ -1,5 +1,5 @@
 ---
-bazinga: parasympathisch, parasympathische
+aliases: parasympathisch, parasympathische
 tags: m/m15, f/🧠, f/⚙️
 ---
 ### Parasymphatikus

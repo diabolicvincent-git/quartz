@@ -1,5 +1,5 @@
 ---
-bazinga: Humanes Immundefizienzvirus
+aliases: Humanes Immundefizienzvirus
 tags: m/m18, a/Pathologie, f/🦠, a/Pathologie, f/🦠/Erreger/Viren
 ---
 ### Humanes Immundefizienzvirus / HIV

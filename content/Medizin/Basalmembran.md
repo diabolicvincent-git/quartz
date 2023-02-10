@@ -1,5 +1,5 @@
 ---
-bazinga: Basallamina
+aliases: Basallamina
 tags: m/m05, f/🔬
 ---
 ## Funktion

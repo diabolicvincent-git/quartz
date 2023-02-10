@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m11, f/🫀, f/🧠, f/⚙️, a/Pathologie
 ---
 ### Carotissinussyndrom

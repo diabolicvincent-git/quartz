@@ -1,5 +1,5 @@
 ---
-bazinga: Lungenhilii
+aliases: Lungenhilii
 tags: m/m13, f/🫁, f/💀
 ---
 ## Rechts

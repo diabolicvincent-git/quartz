@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m20, f/💊/Medikament, f/💤/Opioide
 ---
 - **Gruppe**:: [[Opioide]]

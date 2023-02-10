@@ -1,5 +1,5 @@
 ---
-bazinga: Peritonealverhältnisse
+aliases: Peritonealverhältnisse
 tags: m/m12
 ---
 ### Peritoneum

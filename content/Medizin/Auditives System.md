@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m16, f/👂, f/⚙️
 ---
 - **Periphere Hörwahrnehmung** im [[Corti-Organ]] in der [[Cochlea]] via [[Innere Haarzellen]]

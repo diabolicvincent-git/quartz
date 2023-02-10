@@ -1,5 +1,5 @@
 ---
-bazinga: Meläna, Melaena
+aliases: Meläna, Melaena
 tags: m/m26, a/Pathologie
 ---
 ### Teerstuhl / Meläna

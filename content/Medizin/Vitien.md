@@ -1,5 +1,5 @@
 ---
-bazinga: Klappenfehler, Herzklappenfehler, Herzklappenvitien, Klappenvitien, Herzklappenerkrankungen, Klappenerkrankungen
+aliases: Klappenfehler, Herzklappenfehler, Herzklappenvitien, Klappenvitien, Herzklappenerkrankungen, Klappenerkrankungen
 tags: m/m25, f/🫀, a/Pathologie
 ---
 ### Herzklappenvitien

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m10, m/m15, f/🦴, f/🧠, f/⚙️, a/Intervention/Diagnostik
 ---
 ### Fremdreflex

@@ -1,5 +1,5 @@
 ---
-bazinga: Canalis inguinalis
+aliases: Canalis inguinalis
 tags: m/m26, f/💀
 ---
 ### Leistenkanal

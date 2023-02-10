@@ -1,5 +1,5 @@
 ---
-bazinga: Corpus amygdaloideum, Mandelkern
+aliases: Corpus amygdaloideum, Mandelkern
 tags: m/m15, f/🧠, f/💀, f/💀/Organ
 ---
 (Abstract::Telencephale Kerngruppen im vorderen [[Temporallappen]])

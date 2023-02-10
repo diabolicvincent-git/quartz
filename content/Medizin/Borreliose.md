@@ -1,5 +1,5 @@
 ---
-bazinga: Lyme-Borreliose
+aliases: Lyme-Borreliose
 tags: m/m18, f/🦠, a/Pathologie
 ---
 ### Lyme-Borreliose

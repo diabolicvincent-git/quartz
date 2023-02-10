@@ -1,5 +1,5 @@
 ---
-bazinga: Tränen
+aliases: Tränen
 tags: m/m16, f/👁️
 ---
 # Bestandteile

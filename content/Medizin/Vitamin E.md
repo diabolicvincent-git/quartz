@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - VitE
   - Tocopherol
 tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪

@@ -1,5 +1,5 @@
 ---
-bazinga: Thiazide, Hydrochlorothiazid, HCT
+aliases: Thiazide, Hydrochlorothiazid, HCT
 tags: m/m14, f/💊/Medikament, f/🍺, f/🫀
 ---
 ### Thiaziddiuretika

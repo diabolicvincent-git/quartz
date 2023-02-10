@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m05, f/💀, f/🔬, f/⚙️
 ---
 (Abstract::Entstehung neuer [[Gefäße]] aus ==*vorbestehenden [[Gefäße]]n*== durch Endothelproliferation/-migration)

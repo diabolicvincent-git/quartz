@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m27, a/Intervention/Diagnostik, f/🦴
 ---
 > (Abstract::Allgemeine [[Fraktur]]klassifikation der Arbeitsgemeinschaft für Osteosynthese)

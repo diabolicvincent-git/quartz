@@ -1,5 +1,5 @@
 ---
-bazinga: Spondylitis ankylosans
+aliases: Spondylitis ankylosans
 tags: m/m17
 ---
 ### M. Bechterew / Spondylitis ankylosans 

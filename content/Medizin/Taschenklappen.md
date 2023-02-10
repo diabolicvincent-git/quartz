@@ -1,5 +1,5 @@
 ---
-bazinga: Taschenklappe
+aliases: Taschenklappe
 tags: m/m11, f/🫀, f/💀
 ---
 ## Taschenklappen

@@ -1,5 +1,5 @@
 ---
-bazinga: Strahlentherapie, Radiotherapie
+aliases: Strahlentherapie, Radiotherapie
 tags: m/m19
 ---
 ### Radiatio / Strahlentherapie

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m26, m/m22, f/🐣
 ---
 ### Fehlbildungen

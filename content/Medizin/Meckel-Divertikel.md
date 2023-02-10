@@ -1,5 +1,5 @@
 ---
-bazinga: Meckel-Divertikulitis
+aliases: Meckel-Divertikulitis
 tags: m/m26
 ---
 ### Meckel-Divertikel

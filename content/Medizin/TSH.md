@@ -1,5 +1,5 @@
 ---
-bazinga: Thyreoidea-stimulierendes-Hormon, Thyreotropin
+aliases: Thyreoidea-stimulierendes-Hormon, Thyreotropin
 tags: m/m04, m/m17, f/🗞️, f/🧪/Molekül/Hormon
 ---
 ### Thyreoidea-stimulierendes-Hormon / Thyreotropin / TSH

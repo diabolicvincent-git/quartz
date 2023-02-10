@@ -1,3 +1,5 @@
+---
+---
 ## Störung der Proteinbiosynthese
 - [[Makrolide]]
 - [[Aminoglycoside]]

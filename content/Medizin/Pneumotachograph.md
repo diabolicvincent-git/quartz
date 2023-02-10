@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m13, f/🫁
 ---
 > (Abstract::Ermittlung *statischer **und** dynamische Atemvolumina*)

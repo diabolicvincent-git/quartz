@@ -1,5 +1,5 @@
 ---
-bazinga: Adenosintriphosphat
+aliases: Adenosintriphosphat
 tags: m/m02, f/🧪, f/🧪/Molekül
 ---
 > (Abstract::**Adenosintriphosphat.** Universeller Energieträger.)

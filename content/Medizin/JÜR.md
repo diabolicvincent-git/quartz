@@ -1,5 +1,5 @@
 ---
-bazinga: Jahres-Überlebensrate
+aliases: Jahres-Überlebensrate
 tags: m/m07, m/m06
 ---
 ### Jahres-Überlebensrate / JÜR

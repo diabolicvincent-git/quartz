@@ -1,5 +1,5 @@
 ---
-bazinga: Koronarangiographie
+aliases: Koronarangiographie
 tags: m/m25, a/Intervention/Diagnostik, a/Intervention/Therapie
 ---
 ### Herzkatheter / Koronarangiographie

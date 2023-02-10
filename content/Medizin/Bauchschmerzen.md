@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m12, m/m21, ToDo m/m22, f/💩, a/Pathologie, f/🦩, f/💩, m/m26
 ---
 ### Bauchschmerzen

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m20, a/Intervention/Therapie, f/💤
 ---
 (Abstract::[[Analgetika]] + Narkotika → Toleranzerhöhung, Spontanatmung erhalten)

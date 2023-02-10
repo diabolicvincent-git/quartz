@@ -1,5 +1,5 @@
 ---
-bazinga: 4H + HITS
+aliases: 4H + HITS
 tags: m/m21, f/💤
 ---
 ### 4H + HITS

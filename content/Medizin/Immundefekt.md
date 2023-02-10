@@ -1,5 +1,5 @@
 ---
-bazinga: Immundefizienz
+aliases: Immundefizienz
 tags: m/m17
 ---
 ### Immundefekte

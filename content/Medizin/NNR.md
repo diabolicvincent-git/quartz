@@ -1,5 +1,5 @@
 ---
-bazinga: Nebennierenrinde
+aliases: Nebennierenrinde
 tags: m/m14, m/m22, f/💀, f/🗞️
 ---
 ### Nebennierenrinde / NNR

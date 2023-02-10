@@ -1,5 +1,5 @@
 ---
-bazinga: Antebrachium
+aliases: Antebrachium
 tags: 
 ---
 - **[[Körperregionen]]**

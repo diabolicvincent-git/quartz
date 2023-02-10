@@ -1,3 +1,5 @@
+---
+---
 ## Wirkmechanismus
 - Stimulation prä-/postsynaptischer nicotinergen [[ACh]]-[[Rezeptor]] →[[vegetative]] Wirkung*
 	-  **Nicotinerg [[ACh]]-R**:: [[Nebennierenmark]] (Katecholaminsekretion),[[Parasympathikus]]-Ganglien, [[ZNS]], motorische Endplatte

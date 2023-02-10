@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m11, m/m15, f/💊/Medikament, f/💤
 ---
 ### Katecholamine

@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m04, m/m09, f/🧴, f/🗞️, f/🧪
 ---
 # Wirkung und Metabolisierung von Steroidhormonen und Vitamin A in der Haut

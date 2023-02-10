@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m19, a/Pathologie, f/🦀, f/🩸
 ---
 ### Malignes Lymphom

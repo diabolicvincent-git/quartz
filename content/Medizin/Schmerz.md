@@ -1,5 +1,5 @@
 ---
-bazinga: Schmerzen
+aliases: Schmerzen
 tags: m/m20, a/Pathologie
 ---
 ### Schmerz

@@ -1,5 +1,5 @@
 ---
-bazinga: Leistungsminderung, Müdigkeit
+aliases: Leistungsminderung, Müdigkeit
 tags: m/m21, ToDo, f/💭, a/Pathologie
 ---
 ### Erschöpfung (Psychosomatik)

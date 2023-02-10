@@ -1,3 +1,5 @@
+---
+---
 ## Otoakustische Emissionen (OAE)
 > **Otoakustische Emissionen**:: Physiologische Schallaussendungen der [[Cochlea]] (spontan oder bei akustischer Reizung)
 - **Indikation**:: [[Neugeborenenscreening]]

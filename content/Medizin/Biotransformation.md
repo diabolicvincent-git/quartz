@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m12, f/💩, f/⚙️, f/🧪
 ---
 ### Biotransformation 

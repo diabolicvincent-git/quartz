@@ -1,5 +1,5 @@
 ---
-bazinga: Cor
+aliases: Cor
 tags: m/m11, f/🫀, f/💀
 ---
 ### Herz / Cor

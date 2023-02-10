@@ -1,5 +1,5 @@
 ---
-bazinga: Radioaktive Strahlung
+aliases: Radioaktive Strahlung
 tags: m/m19, f/🕶️
 ---
 - **Arten radioaktiver Zerfälle**

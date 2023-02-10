@@ -1,5 +1,5 @@
 ---
-bazinga: Chemotherapeutika
+aliases: Chemotherapeutika
 tags: m/m19, f/🦀, f/💊/Medikament
 ---
 - **Wirkstoffe**

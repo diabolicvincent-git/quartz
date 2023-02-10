@@ -1,5 +1,5 @@
 ---
-bazinga: Hämoglobin
+aliases: Hämoglobin
 tags: m/m02, m/m08, f/🩸
 ---
 ### Hämoglobin / Hb

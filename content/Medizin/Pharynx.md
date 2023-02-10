@@ -1,3 +1,5 @@
+---
+---
 - **Funktion**:: Weiterleitung von Luft und Nahrung; Schluckakt
 - **Verlauf**:: Von [[Schädelbasis]] bis Cartilago cricoidea des [[Larynx]]
 

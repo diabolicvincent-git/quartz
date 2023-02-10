@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: f/👁️
 ---
 - Güte des dioptischen Apparats

@@ -1,5 +1,5 @@
 ---
-bazinga: Blutbildung
+aliases: Blutbildung
 tags: m/m08, m/m17, f/🩸, f/⚙️
 ---
 ### Hämatopoese / Blutbildung  

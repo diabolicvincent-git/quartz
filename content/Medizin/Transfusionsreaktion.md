@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m21, f/🩸, a/Pathologie
 ---
 ### Transfusionsreaktion

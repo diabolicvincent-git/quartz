@@ -1,5 +1,5 @@
 ---
-bazinga: Staphylococcus aureus, S. auerus
+aliases: Staphylococcus aureus, S. auerus
 tags: m/m18, f/🦠
 ---
 ### Staphylococcus aureus

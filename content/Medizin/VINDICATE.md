@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m21, f/🩺, a/Intervention/Diagnostik
 ---
 ### VINDICATE

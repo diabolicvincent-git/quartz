@@ -1,5 +1,5 @@
 ---
-bazinga: Lymphocyt
+aliases: Lymphocyt
 tags: m/m08, f/🩸, f/🩸, f/🔬/Zelle
 ---
 ### Lymphocyten

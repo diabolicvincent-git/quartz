@@ -1,5 +1,5 @@
 ---
-bazinga: HN XI
+aliases: HN XI
 tags: m/m15, f/🧠/Hirnnerv
 ---
 - **Nr**:: 11

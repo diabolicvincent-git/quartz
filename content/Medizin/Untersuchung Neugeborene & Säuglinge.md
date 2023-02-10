@@ -1,3 +1,5 @@
+---
+---
 ## allgemeine Fremdanamnese für Neugeborene und Säuglinge mit den Eltern, sinnvoll strukturiert erheben
 
 Begrüßung/ Vorstellung, aktuelle [[Anamnese]]/aktuelle Beschwerden, Eigen- und frühere [[Anamnese]], [[Schwangerschaft]]- und Geburtsanamnese, Medikamenten-, Familien- und Sozialanamnese, geschlechterspezifische [[Anamnese]], allgemeine, inklusive Ernährungsanamnese, Stillanamnese (-dauer), vegetativer [[Anamnese]], Impfanamnese, Konsultationsende

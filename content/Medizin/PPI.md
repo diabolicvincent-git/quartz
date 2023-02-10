@@ -1,5 +1,5 @@
 ---
-bazinga: Pantoprazol, Omeprazol, Protonenpumpeninhibitoren, Protonenpumpenhemmer
+aliases: Pantoprazol, Omeprazol, Protonenpumpeninhibitoren, Protonenpumpenhemmer
 tags: m/m26, f/💊/Medikament, f/💊/Medikament
 ---
 ### Protonenpumpeninhibitoren / PPI

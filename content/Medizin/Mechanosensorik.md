@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
  - Mechanozeption
 ---
 

@@ -1,5 +1,5 @@
 ---
-bazinga: Polyglanduläres Autoimmunsyndrom, Polyendokrines Autoimmunsyndrom,
+aliases: Polyglanduläres Autoimmunsyndrom, Polyendokrines Autoimmunsyndrom,
   Polyglanduläre Insuffizienz, Schmidt-Syndrom, APECED-Syndrom
 tags: m/m22, f/🗞️, a/Pathologie, f/💉
 ---

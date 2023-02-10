@@ -1,5 +1,5 @@
 ---
-bazinga: Wasserharnruhr
+aliases: Wasserharnruhr
 tags: m/m14, f/🍺, f/🗞️
 ---
 ### Diabetes insipidus

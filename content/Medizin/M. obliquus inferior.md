@@ -1,3 +1,5 @@
+---
+---
 ##### M. obliquus inferior
 *   Mediale Orbitawand in der Nähe der Fossa lacrimalis
 *   Unten im hinteren lateralen Quadranten am [[Bulbus oculi]] (hinter dem Äquator)

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m07, f/📊
 ---
 ### Risiko

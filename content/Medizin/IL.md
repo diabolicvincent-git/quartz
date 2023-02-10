@@ -1,5 +1,5 @@
 ---
-bazinga: Interleukin, Interleukine
+aliases: Interleukin, Interleukine
 tags: m/m08
 ---
 ### Interleukine / IL

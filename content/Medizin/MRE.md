@@ -1,5 +1,5 @@
 ---
-bazinga: Multiresistente Erreger
+aliases: Multiresistente Erreger
 tags: m/m18, f/🦠/Erreger/Bakterien, f/🦠
 ---
 ### Multiresistente Erreger / MRE

@@ -1,5 +1,5 @@
 ---
-bazinga: Digitale Subtraktionsangiographie
+aliases: Digitale Subtraktionsangiographie
 tags: m/m15, a/Intervention/Diagnostik, f/🕶️
 ---
 ### Digitale Subtraktions[[Angiographie]] / DSA

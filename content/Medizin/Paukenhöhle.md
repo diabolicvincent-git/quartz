@@ -1,5 +1,5 @@
 ---
-bazinga: Cavum tympani
+aliases: Cavum tympani
 tags: m/m16
 ---
 ### Paukenhöhle / Cavum tympani

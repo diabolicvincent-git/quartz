@@ -1,5 +1,5 @@
 ---
-bazinga: Blinddarmentzündung
+aliases: Blinddarmentzündung
 tags: m/m12, f/💩, a/Pathologie
 ---
 ### Appendizitis / "Blinddarmentzündung"

@@ -1,5 +1,5 @@
 ---
-bazinga: Weitsichtigkeit
+aliases: Weitsichtigkeit
 tags: m/m16, f/👁️
 ---
 ### Hyperopie / Weitsichtigkeit

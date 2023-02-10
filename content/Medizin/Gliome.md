@@ -1,5 +1,5 @@
 ---
-bazinga: Neuroepitheliale Tumoren
+aliases: Neuroepitheliale Tumoren
 tags: m/m30, f/🧠, f/🦀, a/Pathologie
 ---
 > (Abstract::**[[Hirntumor]] mit Ähnlichkeit zu [[Gliazellen]].** Auch: Neuroepitheliale Tumoren.)

@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m19, f/🩸, f/💀, f/🔬
 ---
 ### Gelbes [[Knochenmark]]

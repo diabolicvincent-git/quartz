@@ -1,5 +1,5 @@
 ---
-bazinga: Östrogen, Östradiol, Östron, Östriol
+aliases: Östrogen, Östradiol, Östron, Östriol
 tags: m/m22, f/🦩
 ---
 ### Östrogene

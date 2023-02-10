@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Aderhaut
 tags: m/m16, f/💀, f/👁️
 ---

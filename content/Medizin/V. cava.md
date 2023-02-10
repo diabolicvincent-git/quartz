@@ -1,5 +1,5 @@
 ---
-bazinga: Vena cava
+aliases: Vena cava
 tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene
 ---
 ### V. cava

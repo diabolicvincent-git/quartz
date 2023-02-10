@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m21, m/m10, f/⚙️, a/Intervention/Diagnostik, f/🫁
 ---
 ### Maximale Sauerstoffaufnahme / VO2max

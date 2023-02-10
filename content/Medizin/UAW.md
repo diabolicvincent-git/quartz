@@ -1,5 +1,5 @@
 ---
-bazinga: Unerwünschte Arzneimittelwirkungen
+aliases: Unerwünschte Arzneimittelwirkungen
 tags: m/m00, m/m24, f/💊/Medikament
 ---
 > (Abstract::**Unerwünschte Arzneimittelwirkungen.** *Schädliche* und *unbeabsichtigte* Reaktion auf Arzneimittel.)

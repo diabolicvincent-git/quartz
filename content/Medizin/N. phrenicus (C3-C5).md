@@ -1,3 +1,5 @@
+---
+---
 - **Verlauf**:: Auf [[M. scalenus anterior]] → Im [[Mediastinum]] zwischen [[Pleura]] und [[Perikard]] zum [[Diaphragma]]
 - **Motorische Innervation**:: [[Diaphragma]]
 - **Sensible Innervation**:: ==[[Perikard]], [[Pleura]], [[Peritoneum]]==

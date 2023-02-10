@@ -1,5 +1,5 @@
 ---
-bazinga: Mycose, Pilzinfektionen
+aliases: Mycose, Pilzinfektionen
 tags: m/m18, f/🦠, a/Pathologie
 ---
 ### Pilzinfektionen / Mycosen

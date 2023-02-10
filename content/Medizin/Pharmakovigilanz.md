@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m07, m/m16, f/💊/Medikament
 ---
 ### Pharmakovigilanz

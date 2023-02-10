@@ -1,5 +1,5 @@
 ---
-bazinga: Colon-Ca, Rektum-Ca
+aliases: Colon-Ca, Rektum-Ca
 tags: m/m19, a/Pathologie, f/🦀, f/💩, a/Pathologie
 ---
 ### Colorektales Karzinom

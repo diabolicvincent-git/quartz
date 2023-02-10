@@ -1,5 +1,5 @@
 ---
-bazinga: Ultraschall, POCUS
+aliases: Ultraschall, POCUS
 tags: m/m00, f/🕶️/Standardbildgebung, a/Intervention/Diagnostik
 ---
 > (Abstract::[[Piezoelektrischer Effekt]] → hochfrequenter Ultraschall)

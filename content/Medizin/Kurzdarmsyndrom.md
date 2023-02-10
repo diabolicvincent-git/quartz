@@ -1,5 +1,5 @@
 ---
-bazinga: Darmversagen
+aliases: Darmversagen
 tags: m/m26, f/💩
 ---
 ### Kurzdarmsyndrom / Darmversagen

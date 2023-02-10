@@ -1,5 +1,5 @@
 ---
-bazinga: Crus dextrum et sinistrum
+aliases: Crus dextrum et sinistrum
 tags: m/m11
 ---
 ### Tawara-Schenkel

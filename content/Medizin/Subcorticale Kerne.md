@@ -1,5 +1,5 @@
 ---
-bazinga: Subcorticale Kerngebiete
+aliases: Subcorticale Kerngebiete
 tags: m/m15, f/🧠, f/💀, f/⚙️
 ---
 

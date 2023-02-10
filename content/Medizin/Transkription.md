@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m02, f/🧪
 ---
 **Grundlegendes**

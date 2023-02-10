@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m26, f/💩
 ---
 ### Ösophagusvarizen

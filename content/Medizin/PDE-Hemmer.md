@@ -1,5 +1,5 @@
 ---
-bazinga: Phosphodiesterase-Hemmer
+aliases: Phosphodiesterase-Hemmer
 tags: m/m21, f/💊/Medikament, f/🍆, f/🫀, f/💊/Medikament
 ---
 ### Phosphodiesterase-Hemmer

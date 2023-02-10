@@ -1,5 +1,5 @@
 ---
-bazinga: Lungenfell
+aliases: Lungenfell
 tags: m/m13
 ---
 ### Pleura / Lungenfell

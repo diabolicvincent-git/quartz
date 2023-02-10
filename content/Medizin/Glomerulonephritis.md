@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
 tags: 
 ---
 > **Rapid-progressive Glomerulonephritis (RPGN)**:: Sehr seltene, rasch-destruktive Nierenerkrankung

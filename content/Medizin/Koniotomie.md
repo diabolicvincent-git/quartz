@@ -1,5 +1,5 @@
 ---
-bazinga: 
+aliases: 
 tags: m/m29, f/💤, f/⛑️, a/Intervention/Therapie
 ---
 (Abstract::Durchtrennung [[Lig. cricothyroideum medianum]] als Ultima Ratio im [[Atemwegsmanagement]])

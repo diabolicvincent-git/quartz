@@ -1,5 +1,5 @@
 ---
-bazinga: PNH
+aliases: PNH
 tags: m/m17
 ---
 ### Paroxysmale nächtliche Hämoglobinurie / PNH 

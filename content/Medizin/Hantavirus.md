@@ -1,5 +1,5 @@
 ---
-bazinga: Hantaviren
+aliases: Hantaviren
 tags: m/m18, f/🦠, f/🦠/Erreger/Viren
 ---
 ### Hantavirus

@@ -1,3 +1,5 @@
+---
+---
 ## Fernakkommodation
 > Passive Zugkräfte von Bruch-Membran und[[Sklera]] → Zonulafasern im *Ruhezustand* straff, [[Augenlinse]] flach → *Brechkraft↓*
 

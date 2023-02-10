@@ -1,5 +1,5 @@
 ---
-bazinga: Rachenmandel
+aliases: Rachenmandel
 tags: f/💀/Organ/Tonsillen, f/💀, f/👂
 ---
 > (Abstract::**Rachenmandel ([[Tonsillen]]).**)

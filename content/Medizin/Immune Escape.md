@@ -1,5 +1,5 @@
 ---
-bazinga: null
+aliases: null
 tags: m/m18, m/m19, f/🦀
 ---
 - **Mechanismen von [[Tumor]]en**

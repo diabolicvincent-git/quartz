@@ -1,5 +1,5 @@
 ---
-bazinga: Kehlkopf
+aliases: Kehlkopf
 tags: m/m13
 ---
 - **[[Knorpel]]**

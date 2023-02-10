@@ -1,5 +1,5 @@
 ---
-bazinga: Liquor cerebrospinalis
+aliases: Liquor cerebrospinalis
 tags: m/m15
 ---
 ### Liquor cerebrospinalis

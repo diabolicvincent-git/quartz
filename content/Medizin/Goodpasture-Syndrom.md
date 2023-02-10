@@ -1,5 +1,5 @@
 ---
-bazinga: Anti-GBM-Glomerulonephritis
+aliases: Anti-GBM-Glomerulonephritis
 tags: m/m14, f/🍺, f/🫁
 ---
 ### Goodpasture-Syndrom  / Anti-GBM-[[Glomerulonephritis]] 

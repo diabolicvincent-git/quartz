@@ -1,5 +1,5 @@
 ---
-bazinga: Bruch
+aliases: Bruch
 tags: m/m05, m/m10, f/🦴, a/Pathologie, m/m27
 ---
 ### Fraktur

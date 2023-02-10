@@ -1,5 +1,5 @@
 ---
-bazinga: Epstein-Barr-Virus
+aliases: Epstein-Barr-Virus
 tags: m/m19, f/🦠, f/🦠/Erreger/Viren
 ---
 ### Epstein-Barr-Virus / EBV

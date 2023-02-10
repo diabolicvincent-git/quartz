@@ -1,5 +1,5 @@
 ---
-bazinga:
+aliases:
   - Photorezeptor
 tags: m/m16, f/⚙️, f/👁️
 ---

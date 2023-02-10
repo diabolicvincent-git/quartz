@@ -1,5 +1,5 @@
 ---
-bazinga: Interstitielle Lungenparenchymerkrankung, ILD
+aliases: Interstitielle Lungenparenchymerkrankung, ILD
 tags: m/m13, f/🫁, a/Pathologie
 ---
 ### Lungenfibrose
