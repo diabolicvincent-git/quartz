@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: [f/🧠, f/🧪]
+tags: 
+- f/🧠
+- f/🧪
 ---
 
 - Erhöhte Offenwahrscheinlichkeit K+ Kanäle → Hyperpolarisation
