@@ -1,7 +1,8 @@
 ---
 aliases:
   - Azygos
-tags: m/m11, f/💀
+tags: [m/m11, f/💀]
+title: Azygossystem
 ---
 ## V. azygos
 > Nur auf der *rechten* Körperseite

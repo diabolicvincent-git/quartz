@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: a/Pathologie
+tags: [a/Pathologie]
+title: Echolalie
 ---
 Automatisches Nachsprechen von Gesagtem, ohne Rücksicht auf Inhalt und Sinn
 - **Ätiologie**

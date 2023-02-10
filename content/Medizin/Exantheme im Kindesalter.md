@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, m/m18
+tags: [m/m09, m/m18]
+title: Exantheme im Kindesalter
 ---
 ```dataview
 TABLE WITHOUT ID Abstract, link(file.link, title) AS Erkrankung, Inkubationszeit, Kontagiosität, Exanthem, Begleitend

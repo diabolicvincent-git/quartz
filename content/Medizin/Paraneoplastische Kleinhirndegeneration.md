@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags: []
+title: Paraneoplastische Kleinhirndegeneration
 ---
 ### Paraneoplastische Kleinhirndegeneration
 > [[Paraneoplastisches Syndrom]]

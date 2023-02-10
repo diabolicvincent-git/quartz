@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👂, f/⚙️
+tags: [m/m16, f/👂, f/⚙️]
+title: Auditives System
 ---
 - **Periphere Hörwahrnehmung** im [[Corti-Organ]] in der [[Cochlea]] via [[Innere Haarzellen]]
 - **Zentrale [[Hörbahn]]** via [[N. vestibulocochlearis (VIII)]] → Corpus geniculatum mediale im [[Metathalamus]]

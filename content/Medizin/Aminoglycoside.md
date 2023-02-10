@@ -1,5 +1,6 @@
 ---
-tags: m/m03, m/m16, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament, ToDo
+tags: [m/m03, m/m16, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament, ToDo]
+title: Aminoglycoside
 ---
 - **Entitäten**:: [[Gentamicin]], [[Tobramycin]], [[Streptomycin]]
 - **Wirkmechanismus**:: [[Störung der Proteinbiosynthese]] ([[O2]]-abh. Bindung 30S-[[Ribosomen]])

@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. olfactorius (I)
 ---
 - **Nr**:: 1
 - **Kerngebiete**:: [[Großhirn]]

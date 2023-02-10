@@ -1,6 +1,7 @@
 ---
 aliases: Harte Hirnhaut
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Dura mater
 ---
 ### Dura mater / Harte Hirnhaut
 - **Stratum periostale**:: Äußeres Durablatt

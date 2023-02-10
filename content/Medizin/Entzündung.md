@@ -1,6 +1,7 @@
 ---
 aliases: Akute-Phase-Reaktion
-tags: m/m08, m/m17
+tags: [m/m08, m/m17]
+title: Mechanismen
 ---
 ### Entzündung 
 > Immunologische Antwort auf Gewebe-/[[Zellschädigung]]

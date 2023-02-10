@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Pathologie
+tags: [m/m30, f/🧠, a/Pathologie]
+title: Spastische Parese
 ---
 ### Spastische [[Parese]]
 - **Ätiologie**:: ==Zentral (1. Motoneuron)==

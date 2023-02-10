@@ -1,6 +1,7 @@
 ---
 aliases: Spontane Ösophagusruptur
-tags: m/m26, f/🔪
+tags: [m/m26, f/🔪]
+title: Boerhaave-Syndrom
 ---
 ### Boerhaave-Syndrom / Spontane Ösophagusruptur
 > Erbrechen (Barotrauma) → 

@@ -1,6 +1,7 @@
 ---
 aliases: Vena cava
-tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene
+tags: [m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene]
+title: V. cava
 ---
 ### V. cava
 - **Einteilung**

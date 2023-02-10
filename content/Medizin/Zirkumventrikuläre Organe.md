@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15, f/🧠, f/💀/Organ
+tags: [m/m15, f/🧠, f/💀/Organ]
+title: Zirkumventrikuläre Organe
 ---
 ### Zirkumventrikuläre Organe
 > Ventrikelnahe Areale, wo die [[Blut-Hirn-Schranke]] permeabler oder gar nicht vorhanden ist

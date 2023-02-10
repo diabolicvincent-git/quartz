@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, a/Pathologie
+tags: [m/m15, f/🧠, a/Pathologie]
+title: Intrakraniell-extracerebrale Blutungen
 ---
 ### Intrakranielle Blutung
 - [[Epiduralblutung]]

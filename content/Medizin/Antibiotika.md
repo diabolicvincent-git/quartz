@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, f/💊/Medikament/Übergruppe
+tags: [m/m18, f/🦠, f/💊/Medikament/Übergruppe]
+title: Wirkmechanismen
 ---
 - **Einteilung nach Wirkmechanismen**
 	1. **[[Störung der Zellwandsynthese]]**:: *[[β-Lactam-Antibiotika]]* ([[Penicilline]], [[Cephalosporine]], [[Carbapeneme]], [[Monobactame]]), [[Glycopeptide]], [[Fosfomycin]]

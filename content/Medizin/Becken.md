@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, m/m22, f/💀
+tags: [m/m10, m/m22, f/💀]
+title: Becken
 ---
 - **[[Körperregionen]]**
 	- Regio urogenitalis

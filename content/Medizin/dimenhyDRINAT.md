@@ -1,6 +1,7 @@
 ---
 aliases: Vomex
-tags: m/m12, m/m20, f/💊/Medikament/PIM
+tags: [m/m12, m/m20, f/💊/Medikament/PIM]
+title: dimenhyDRINAT
 ---
 ### Dimenhydrinat / Vomex®
 > [[Antiemetika]] & [[Antihistaminika]]

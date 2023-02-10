@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀
+tags: [m/m19, f/🦀]
+title: Ewing-Sarkom
 ---
 ### Ewing-Sarkom
 > Hochmaligner [[Tumor]] aus [[Knochenmark]]

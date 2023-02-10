@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/💩, f/⛑️, a/Pathologie
+tags: [m/m26, f/💩, f/⛑️, a/Pathologie]
+title: Akutes Abdomen
 ---
 (Abstract::Akute [[Bauchschmerzen]] mit dringender Behandlungsbedürftigkeit)
 - **Symptome**:: Plötzliche, stärkste [[Bauchschmerzen]], Abwehrspannung, ggf. Begleitsymptome

@@ -1,6 +1,7 @@
 ---
 aliases: Verdauungstrakt, Magen-Darm-Trakt, Gastrointestinaltrakt
-tags: m/m12
+tags: [m/m12]
+title: GI-Trakt
 ---
 ### Gastrointestinaltrakt / GI-Trakt
 - **Einteilung**

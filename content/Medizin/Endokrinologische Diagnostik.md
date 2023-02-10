@@ -1,4 +1,5 @@
 ---
+title: Endokrinologische Diagnostik
 ---
 ### Endokrinologische Diagnostik
 - Direkte Messung Hormonkonzentration (z.B. Prolactin bei V.a. [[Prolactinom]])

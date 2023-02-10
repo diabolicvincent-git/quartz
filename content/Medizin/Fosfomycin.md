@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/💊/Medikament, f/🦠
+tags: [m/m18, f/💊/Medikament, f/🦠]
+title: Fosfomycin
 ---
 ### Fosfomycin
 - **Wirkmechanismus**:: [[Störung der Zellwandsynthese]]

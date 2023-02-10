@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/💩, f/⚙️, f/⚙️
+tags: [m/m12, f/💩, f/⚙️, f/⚙️]
+title: Weg der Nahrung
 ---
 ### Weg der Nahrung
 > [[Verdauung]]

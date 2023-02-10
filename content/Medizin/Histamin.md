@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m08, m/m09, f/⚙️, f/🦠
+tags: [m/m15, m/m08, m/m09, f/⚙️, f/🦠]
+title: Histamin
 ---
 ### Histamin 
 > [[Biogene Amine]] aus [[Histidin]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/⚙️
+tags: [m/m14, f/🍺, f/⚙️]
+title: Harnkonzentrierung
 ---
 > Aufbau eines corticomedullären [[Osmolarität]]sgradienten, der im Sammelrohr zur Wasserresoprion genutzt wird
 

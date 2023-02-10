@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/💉, a/Pathologie
+tags: [m/m17, f/💉, a/Pathologie]
+title: ADA-2-Defizienz
 ---
 - **Pathophysiologie**:: [[Mutation]] der Adenosin-Desaminase-2 → unklare Modulation der Funktion von [[Makrophagen]] und [[Neutrophile Granulocyten]] sowie des Endothels
 - **Symptome**

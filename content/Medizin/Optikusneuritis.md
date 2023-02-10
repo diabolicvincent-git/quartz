@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Optikusneuritis
 ---
 > (Abstract::Entzündung [[N. opticus (II)]] → prächiasmale [[Sehbahn]]-Schädigung → ==einseitiger [[Gesichtsfeldausfall]] ipsilateral==)
 - **Ätiologie**:: ==[[Multiple Sklerose]]==, idiopathisch, [[Autoimmunität]], [[Infektionen]] (z.B. [[Tbc]])

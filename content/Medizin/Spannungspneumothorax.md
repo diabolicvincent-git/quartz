@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Pathologie, f/💤
+tags: [m/m13, f/🫁, a/Pathologie, f/💤]
+title: Spannungspneumothorax
 ---
 ### Spannungspneumothorax
 > [[Pneumothorax]] mit Ventilmechanismus → Druck↑, Mediastinalverlagerung

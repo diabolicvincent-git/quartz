@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/🗞️, f/⚙️, f/🧠
+tags: [m/m20, f/🗞️, f/⚙️, f/🧠]
+title: Endorphine
 ---
 ### Endorphine / Endogene Opioide
 > Zentrale [[Neuropeptide]] zur Modulation von [[Schmerz]]wahrnehmung und Stimmungslage

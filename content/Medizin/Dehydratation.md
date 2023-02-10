@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺
+tags: [m/m14, f/🍺]
+title: Dehydratation
 ---
 > (Abstract::Abnahme der Körperflüssigkeit, führt zu [[Exsikkose]])
 - **Einteilung**

@@ -1,4 +1,5 @@
 ---
+title: QT-Zeit-verlängernde Medikamente
 ---
 ### QT-Zeit-verlängernde Medikamente
 - **[[Antiarrhythmika]]**:: Sotalol, [[aMIOdaron]], Chinidin, Disopyramid, Ibutilide

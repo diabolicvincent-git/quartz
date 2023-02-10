@@ -1,5 +1,6 @@
 ---
-tags: m/m17, f/💉, a/Pathologie
+tags: [m/m17, f/💉, a/Pathologie]
+title: Sjögren-Syndrom
 ---
 > (Abstract::**[[Autoimmunität]] gegen [[Tränenapparat]] & [[Speicheldrüsen]].** [[♀]]. Leitsymptom [[Sicca-Syndrom]].)
 - **Epidemiologie**:: v.a. [[♀]] in [[Menopause]]

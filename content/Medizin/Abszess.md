@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/🧴, a/Pathologie, f/🔪
+tags: [m/m09, f/🧴, a/Pathologie, f/🔪]
+title: Abszess
 ---
 > (Abstract::Abgekapselte Gewebeeinschmelzung und Eiteransammlung)
 - **Ätiologie**:: [[Staphylokokken]], [[Streptokokken]], [[E. coli]]

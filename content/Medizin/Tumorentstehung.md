@@ -1,6 +1,7 @@
 ---
 aliases: Karzinogenese
-tags: m/m19, f/🦀, f/⚙️
+tags: [m/m19, f/🦀, f/⚙️]
+title: Tumorentstehung
 ---
 ### Tumorentstehung / Karzinogenese
 - **Ätiologie**

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, m/m17, f/🗞️, a/Pathologie
+tags: [m/m04, m/m17, f/🗞️, a/Pathologie]
+title: Hyperthyreose
 ---
 ### Hyperthyreose / Schilddrüsenüberfunktion 
 - **Epidemiologie**:: 0,6-7%; [[♂]]:[[♀]] 1:5

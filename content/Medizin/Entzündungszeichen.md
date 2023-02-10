@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m17, f/🦠, a/Pathologie
+tags: [m/m08, m/m17, f/🦠, a/Pathologie]
+title: Entzündungszeichen
 ---
 ### Entzündungszeichen
 - **Lokale, akute Entzündungszeichen**

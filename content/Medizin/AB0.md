@@ -1,5 +1,6 @@
 ---
-tags: m/m08, m/m21, f/🩸
+tags: [m/m08, m/m21, f/🩸]
+title: AB0
 ---
 > (Abstract::Wichtigstes [[Blutgruppen]]-System. A & B dominant, 0/H stumm)
 - **Antigene**:: A und B codieren codominant für spez. Glycosyltransferasen; 0 (H) ist stumm

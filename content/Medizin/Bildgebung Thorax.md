@@ -2,7 +2,8 @@
 aliases:
   - Bildgebung Lunge
   - Bildgebung Herz
-tags: m/m13, m/m11, f/🕶️, f/🫀, f/🫁, a/Intervention
+tags: [m/m13, m/m11, f/🕶️, f/🫀, f/🫁, a/Intervention]
+title: Randgebende Strukturen des Herz im Röntgenbild
 ---
 
 # Randgebende Strukturen des [[Herz]] im [[Röntgen]]bild

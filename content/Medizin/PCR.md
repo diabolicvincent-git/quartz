@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03
+tags: [m/m03]
+title: PCR
 ---
 ### Polymerase-Kettenreaktion / PCR
 1. [[Denaturierung]] bei ca. 90°C

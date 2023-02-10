@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/💩, f/⚙️
+tags: [m/m12, f/💩, f/⚙️]
+title: Enteroendokrine Zellen
 ---
 ### Enteroendokrine Zellen
 > Kooperation mit [[Enterisches Nervensystem]] und [[Pankreas]]-Langerhans-Inseln

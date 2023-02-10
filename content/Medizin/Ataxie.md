@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, a/Pathologie
+tags: [m/m15, f/🧠, a/Pathologie]
+title: Diagnostik
 ---
 > Oberbegriff für Störungen der Bewegungskoordination
 

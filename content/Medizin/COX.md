@@ -1,6 +1,7 @@
 ---
 aliases: Cyclooxygenase, COX1, COX2
-tags: m/m08, m/m20, f/🧪, f/🧪/Molekül
+tags: [m/m08, m/m20, f/🧪, f/🧪/Molekül]
+title: COX
 ---
 ### Cyclooxygenase / COX
 - **Funktion**:: Synthese von ==[[Prostaglandin]]== und [[Thromboxan A2]] aus [[Arachidonsäure]]

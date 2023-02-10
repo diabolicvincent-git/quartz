@@ -1,6 +1,7 @@
 ---
 aliases: Subakute Sklerosierende Panencephalitis
-tags: m/m18
+tags: [m/m18]
+title: SSPE
 ---
 ### Subakute Sklerosierende Panencephalitis / SSPE
 > Ausgelöst durch Masernvirus, 6-8 Jahre nach [[Infektionen]]

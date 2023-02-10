@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, m/m20, f/💩, f/💊/Medikament/Übergruppe
+tags: [m/m12, m/m20, f/💩, f/💊/Medikament/Übergruppe]
+title: Antiemetika
 ---
 - **Wirkstoffe**
 	- **Dopamin-R-Agonisten / Prokinetika**:: Domperidon, Metoclopramid / MCP ([[UAW]]: EPS)

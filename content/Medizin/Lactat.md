@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, f/🧪
+tags: [m/m02, f/🧪]
+title: Lactat
 ---
 ### Lactat / Milchsäure
 > $CH_{3} – HCOH – COO^{–}$

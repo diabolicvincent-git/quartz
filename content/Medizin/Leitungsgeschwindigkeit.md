@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, m/m15
+tags: [m/m05, m/m15]
+title: Leitungsgeschwindigkeit
 ---
 ### Leitungsgeschwindigkeit (Tabelle)
 > Klassifikation von [[Axon]]en nach Leitungsgeschwindigkeit

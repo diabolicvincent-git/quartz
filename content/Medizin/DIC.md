@@ -1,6 +1,7 @@
 ---
 aliases: Verbrauchskoagulopathie, Disseminierte intravasale Gerinnung
-tags: m/m17, m/m21, f/🩸, a/Pathologie
+tags: [m/m17, m/m21, f/🩸, a/Pathologie]
+title: VL DD Akute Gerinnungsstörung
 ---
 ### Verbrauchskoagulopathie / Disseminierte intravasale Gerinnung / DIC 
 - **Pathophysiologie**:: ==Systemische Gerinnungsaktivierung==

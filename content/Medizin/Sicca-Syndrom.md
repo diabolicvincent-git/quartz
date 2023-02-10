@@ -1,5 +1,6 @@
 ---
-tags: f/👂, f/👁️, f/💉, a/Pathologie
+tags: [f/👂, f/👁️, f/💉, a/Pathologie]
+title: Sicca-Syndrom
 ---
 > (Abstract::**Leitsymptom [[Sjögren-Syndrom]].** Trockener [[Mund]] + Trockenes [[Auge]].)
 

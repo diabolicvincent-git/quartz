@@ -1,6 +1,7 @@
 ---
 aliases: Alkoholabusus, Alkoholabhängigkeit, Alkoholintoxikation
-tags: m/m20, f/🍄, f/🧪/Molekül, ToDo
+tags: [m/m20, f/🍄, f/🧪/Molekül, ToDo]
+title: Alkohol
 ---
 - **Pathophysiologie**
 	- *Wirkmechanismus:* Aktiviert (GABAa, [[Glycin]], Öffnet GIRKs), inhibiert (NMDA, L-Typ [[Ca2+]]-Kanäle)

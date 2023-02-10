@@ -1,6 +1,7 @@
 ---
 aliases: Strecksynergismus, Decerebrationsstarre
-tags: m/m15, a/Pathologie, f/🧠
+tags: [m/m15, a/Pathologie, f/🧠]
+title: Strecksynergismen
 ---
 ### Strecksynergismen / Decerebrationsstarre
 > Spastische Extremitäten-Streckhaltung ([[GCS]])

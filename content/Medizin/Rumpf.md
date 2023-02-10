@@ -1,4 +1,5 @@
 ---
+title: Rumpf
 ---
 - **[[Körperregionen]]**
 	- [[Thorax]]

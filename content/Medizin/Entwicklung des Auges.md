@@ -1,8 +1,8 @@
 ---
 aliases:
   - null
-tags:
-  - m/m16
+tags: [m/m16]
+title: LV-Notizen
 ---
 ### Entwicklung des Auges 
 > Entwicklungsgeschichtlich Teil des [[Gehirn]]s, daher [[N. opticus (II)]] und [[Retina]] von [[Oligodendrocyten]] ummantelt ([[ZNS]])

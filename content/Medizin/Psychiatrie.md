@@ -1,4 +1,5 @@
 ---
+title: Psychiatrie
 ---
 - [[Antidepressiva]]
 - [[Antipsychotika]]

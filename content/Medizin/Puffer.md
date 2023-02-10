@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, m/m14, f/⚙️, f/🍺, f/🫁
+tags: [m/m13, m/m14, f/⚙️, f/🍺, f/🫁]
+title: Puffer
 ---
 Ca. 99% der freien Protonen werden über Puffersysteme "abgefangen".
 ![[HCO3-]]

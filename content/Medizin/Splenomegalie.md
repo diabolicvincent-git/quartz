@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🩸
+tags: [m/m19, f/🩸]
+title: Splenomegalie
 ---
 ### Splenomegalie
 - **Ätiologie**

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, f/⚙️
+tags: [m/m13, f/🫁, f/⚙️]
+title: Intrapleuraler Druck
 ---
 # Intrapleuraler Druck
 > Druckdifferenz zwischen Pleuraspalt und Außenraum (-0,3 bis -0,7 kPa)

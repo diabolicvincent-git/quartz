@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/💀, f/🧠, f/💀/Organ
+tags: [m/m15, f/💀, f/🧠, f/💀/Organ]
+title: Ventrikel III
 ---
 ### [[Ventrikelsystem]] III
 - **Lage**:: Vertikal im [[Diencephalon]] zwischen [[Thalamus]]hemisphären

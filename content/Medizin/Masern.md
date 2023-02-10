@@ -1,5 +1,6 @@
 ---
-tags: m/m18, f/🦠, a/Pathologie, f/🦄/Exantheme
+tags: [m/m18, f/🦠, a/Pathologie, f/🦄/Exantheme]
+title: Masern
 ---
 > (Abstract::**1st disease**)
 - **Epidemiologie**::

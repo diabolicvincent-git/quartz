@@ -1,7 +1,8 @@
 ---
 aliases: Polyglanduläres Autoimmunsyndrom, Polyendokrines Autoimmunsyndrom,
   Polyglanduläre Insuffizienz, Schmidt-Syndrom, APECED-Syndrom
-tags: m/m22, f/🗞️, a/Pathologie, f/💉
+tags: [m/m22, f/🗞️, a/Pathologie, f/💉]
+title: PAS
 ---
 ### Polyendokrines Autoimmunsyndrom / PAS
 > [[Autoimmunität]] gegen verschiedene endokrine Organe → Insuffizienz

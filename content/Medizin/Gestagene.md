@@ -1,6 +1,7 @@
 ---
 aliases: Gestagen, Progesteron
-tags: m/m22, f/🦩, f/🗞️, f/🧪/Molekül
+tags: [m/m22, f/🦩, f/🗞️, f/🧪/Molekül]
+title: Gestagene
 ---
 ### Gestagene
 > [[♀]] [[Sexualhormone]]: [[Steroidhormone]] mit 21 C-Atomen

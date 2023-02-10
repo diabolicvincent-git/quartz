@@ -1,6 +1,7 @@
 ---
 aliases: Gebärmutterhals
-tags: m/m22, f/🦩, f/💀
+tags: [m/m22, f/🦩, f/💀]
+title: Cervix
 ---
 ### Cervix / Gebärmutterhals
 > Unteres ⅓ des **[[Uterus]]**

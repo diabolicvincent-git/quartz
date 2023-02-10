@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🫀, a/Intervention, m/m11
+tags: [f/🫀, a/Intervention, m/m11]
+title: Schrittmacher
 ---
 ### Schrittmacher
 

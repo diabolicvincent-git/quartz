@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26
+tags: [m/m26]
+title: Empyem
 ---
 ### Empyem
 > Eiteransammlung in ==bestehendem== Hohlraum (z.B. Pleuraempyem, Gallenblasenempyem, Gelenkempyem)

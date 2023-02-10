@@ -1,5 +1,6 @@
 ---
-tags: m/m17, f/🩸, f/💊/Medikament, f/🍄/Gift
+tags: [m/m17, f/🩸, f/💊/Medikament, f/🍄/Gift]
+title: Vitamin-K-Antagonisten
 ---
 > (Abstract::Auch: Cumarine.)
 - **Wirkmechanismus**:: Kompetitiver Antagonist von [[Vitamin K]] → Synthese↓ Faktoren II, VII, IX, X (und Protein C/S)

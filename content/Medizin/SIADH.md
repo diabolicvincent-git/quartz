@@ -1,6 +1,7 @@
 ---
 aliases: Syndrom der inadäquaten ADH-Sekretion
-tags: m/m14
+tags: [m/m14]
+title: SIADH
 ---
 > (Abstract::**Syndrom der inadäquaten ADH-Sekretion / Schwartz-Bartter-Syndrom.**)
 - **Ätiologie**

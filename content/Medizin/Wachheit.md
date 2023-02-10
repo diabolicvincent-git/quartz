@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/⚙️, f/⚙️
+tags: [m/m15, f/🧠, f/⚙️, f/⚙️]
+title: Lernziele
 ---
 
 ## Weckzentrum in der Formatio reticularis

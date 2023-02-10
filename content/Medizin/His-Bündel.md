@@ -1,6 +1,7 @@
 ---
 aliases: Fasciculus atrioventricularis
-tags: m/m11, f/🫀, f/⚙️
+tags: [m/m11, f/🫀, f/⚙️]
+title: His-Bündel
 ---
 ### His-Bündel
 - **Lokalisation**:: Fortsetzung des [[AV-Knoten]]s

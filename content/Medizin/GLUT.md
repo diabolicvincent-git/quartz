@@ -1,6 +1,7 @@
 ---
 aliases: GLUT1, GLUT2, GLUT3, GLUT4, GLUT5
-tags: m/m08, m/m03, f/🧪
+tags: [m/m08, m/m03, f/🧪]
+title: GLUT
 ---
 ### Glucosetransporter / GLUT 
 > Spezifische, ==passive== [[Glucose]]transporter in [[Zellmembran]] fast aller Zellen

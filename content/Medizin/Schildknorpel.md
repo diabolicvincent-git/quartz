@@ -1,4 +1,5 @@
 ---
+title: Schildknorpel
 ---
 ## Schildknorpel
 > Auch: *Cartilago thyroidea*

@@ -1,5 +1,5 @@
 ---
-title: "Anatomie"
+title: Anatomie
 ---
 - [[Körperebene]]
 - [[Körperachse]]

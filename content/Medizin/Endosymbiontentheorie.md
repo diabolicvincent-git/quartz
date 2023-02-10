@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪
+tags: [m/m03, f/🧪]
+title: Endosymbiontentheorie
 ---
 ### Endosymbiontentheorie 
 > Aufnahme (Phagocytose) von [[Zellen]] ([[Mitochondrien]]/Plastide) durch andere→ Entwicklung einer ==obligaten Endosymbiose==

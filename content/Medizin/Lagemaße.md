@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m07, f/📊
+tags: [m/m07, f/📊]
+title: Lagemaße
 ---
 ### Lagemaße
 - **Modalwert / Modus**:: Häufigster Wert einer Verteilung (jedes [[Skalenniveau]])

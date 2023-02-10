@@ -1,6 +1,7 @@
 ---
 aliases: Sinus venosus sclerae
-tags: m/m16, f/👁️, f/💀
+tags: [m/m16, f/👁️, f/💀]
+title: Schlemm-Kanal
 ---
 ### Schlemm-Kanal / Sinus venosus sclerae
 > Zirkulär ums [[Auge]] verlaufender Kanal im skleralen Teil des [[Kammerwinkel]]s

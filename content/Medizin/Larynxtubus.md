@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💤, f/⛑️, a/Intervention
+tags: [f/💤, f/⛑️, a/Intervention]
+title: Larynxtubus
 ---
 ### Larynxtubus
 ## SOP

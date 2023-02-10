@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Limbisches System
 ---
 ### Limbisches System 
 > Funktionell zusammengehörige Strukturen aus verschiedenen Hirnabschnitten mit Hauptaufgaben: *[[Gedächtnis]]bildung, [[Emotionen]], [[vegetative]] Funktionen*

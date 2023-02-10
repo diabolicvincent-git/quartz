@@ -1,6 +1,7 @@
 ---
 aliases: AP
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Angina pectoris
 ---
 (Abstract::Anfallsartige, reversible Schmerzen infolge Myokardischämie bei [[KHK]])
 - **Pathophysiologie**:: [[O2]]-Angebot↓ aufgrund verschiedener Genese

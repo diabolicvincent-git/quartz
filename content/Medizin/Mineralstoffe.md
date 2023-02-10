@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/🧪, f/⚙️
+tags: [m/m21, f/🧪, f/⚙️]
+title: Mineralstoffe
 ---
 ### Mineralstoffe
 > Essentielle Nahrungsbestandteile 

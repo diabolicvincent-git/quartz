@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/💊/Medikament
+tags: [m/m14, f/💊/Medikament]
+title: Kristalloide
 ---
 ### Kristalloide
 > [[Infusionslösung]] mit [[Glucose]] und/oder [[Elektrolyte]] ohne Makromoleküle

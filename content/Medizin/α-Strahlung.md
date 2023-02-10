@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🕶️
+tags: [m/m19, f/🕶️]
+title: α-Strahlung
 ---
 ### α-Strahlung
 > Emission eines Helium-Kerns: $^{4}_{2}He$

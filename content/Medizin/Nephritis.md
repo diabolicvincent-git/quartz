@@ -1,6 +1,7 @@
 ---
 aliases: Nephritisches Syndrom
-tags: m/m14, f/🍺
+tags: [m/m14, f/🍺]
+title: Nephritis
 ---
 ### Nephritis / Nephritisches Syndrom
 > Teils synonym zur [[Glomerulonephritis]] verwendet

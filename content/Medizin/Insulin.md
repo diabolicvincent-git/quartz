@@ -1,6 +1,7 @@
 ---
 aliases: Insuline
-tags: m/m17, m/m04, f/🗞️
+tags: [m/m17, m/m04, f/🗞️]
+title: Pharmakologie
 ---
 ### Insulin als Hormon (Abstract I)
 - **Synthese**

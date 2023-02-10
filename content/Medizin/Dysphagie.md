@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/💩
+tags: [m/m12, f/💩]
+title: Dysphagie
 ---
 ### Dysphagie
 - **[[Inzidenz]]**

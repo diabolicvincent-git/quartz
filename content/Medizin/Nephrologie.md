@@ -1,4 +1,5 @@
 ---
+title: Nephrologie
 ---
 - [[Akute Erkrankungen der Niere]]
 	- [[Nierenversagen]]

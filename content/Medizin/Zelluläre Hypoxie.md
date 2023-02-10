@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, m/m03, f/🧪
+tags: [m/m13, m/m03, f/🧪]
+title: Veränderungen bei Hypoxie
 ---
 ## Sauerstoffverwertung
 - 70% [[Oxidative Phosphorylierung]]

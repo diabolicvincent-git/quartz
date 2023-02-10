@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/💀, f/🦩, f/🍆
+tags: [m/m22, f/💀, f/🦩, f/🍆]
+title: Beckenboden
 ---
 ### Beckenboden
 - **Funktion**:: Muskulärer Verschluss des [[Becken]], ==Kontinenz==

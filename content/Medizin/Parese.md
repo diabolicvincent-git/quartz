@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15, f/🧠, a/Pathologie
+tags: [m/m15, f/🧠, a/Pathologie]
+title: Parese
 ---
 ### Parese
 > Unvollständige Lähmung einzelner/mehrer [[Muskeln]] (vollständig: [[Plegie]])

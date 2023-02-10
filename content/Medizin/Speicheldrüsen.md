@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Organ, f/👂, f/💀
+tags: [f/💀/Organ, f/👂, f/💀]
+title: Speicheldrüsen
 ---
 > (Abstract::**Exokrine [[Drüsen]] zur Speichelproduktion.** Mündung in [[Mundhöhle]]. [[Vegetative]] Steuerung.)
 - **Funktion**:: Speichelproduktion

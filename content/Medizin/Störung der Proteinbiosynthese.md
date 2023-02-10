@@ -1,4 +1,5 @@
 ---
+title: Störung der Proteinbiosynthese
 ---
 ## Störung der Proteinbiosynthese
 - [[Makrolide]]

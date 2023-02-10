@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, m/m19, a/Pathologie, f/🧴, f/🦀, a/Pathologie
+tags: [m/m09, m/m19, a/Pathologie, f/🧴, f/🦀, a/Pathologie]
+title: Basalzell-Ca
 ---
 ### Basalzellkarzinom / Basaliom
 > Semimaligner [[Tumor]]

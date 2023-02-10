@@ -1,6 +1,7 @@
 ---
 aliases: International Normalized Ratio
-tags: m/m08, f/🩸
+tags: [m/m08, f/🩸]
+title: INR
 ---
 ### International Normalized Ratio / INR 
 - **Normwert**:: 0,85 - 1,15 (↑ = verlängerte [[Hämostase]])

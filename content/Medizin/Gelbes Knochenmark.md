@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m19, f/🩸, f/💀, f/🔬
+tags: [m/m19, f/🩸, f/💀, f/🔬]
+title: Gelbes Knochenmark
 ---
 ### Gelbes [[Knochenmark]]
 - **Aussehen**:: Gelblich-braun (hoher [[Lipide]]-Gehalt)

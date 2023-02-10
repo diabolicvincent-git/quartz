@@ -1,6 +1,7 @@
 ---
 aliases: Testis
-tags: m/m22, f/🍆, f/💀
+tags: [m/m22, f/🍆, f/💀]
+title: Hoden
 ---
 ### Hoden / Testis
 - **Funktion**:: [[Spermatogenese]], [[Androgene]]synthese

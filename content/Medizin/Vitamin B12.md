@@ -1,7 +1,8 @@
 ---
 aliases:
   - Cobalamin
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin B12
 ---
 ### Vitamin B12 / Cobalamin 
 > **Aktive Form**:: Methylcobalamin, Adenosylcobalamin (wasserlöslich)

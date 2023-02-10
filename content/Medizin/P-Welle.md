@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Intervention
+tags: [m/m11, f/🫀, a/Intervention]
+title: P-Welle
 ---
 ### P-Welle
 > **[[EKG]]**:: Erregungsausbreitung im Vorhof

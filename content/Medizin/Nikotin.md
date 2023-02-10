@@ -1,4 +1,5 @@
 ---
+title: Wirkung
 ---
 ## Wirkmechanismus
 - Stimulation prä-/postsynaptischer nicotinergen [[ACh]]-[[Rezeptor]] →[[vegetative]] Wirkung*

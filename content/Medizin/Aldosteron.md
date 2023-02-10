@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🗞️, f/🍺, f/🫀, f/🧪/Molekül/Hormon
+tags: [m/m14, f/🗞️, f/🍺, f/🫀, f/🧪/Molekül/Hormon]
+title: Aldosteron
 ---
 - **Synthese**:: [[Nebenniere]] ([[Zona glomerulosa]])
 	- **Stimulation**:: [[Angiotensin]] II, [[Na+]]↓ oder K+↑, [[ACTH]] ([[Hypothalamus-Hypophysen-Achse]])

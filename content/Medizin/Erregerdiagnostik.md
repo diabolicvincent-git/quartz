@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠
+tags: [m/m18, f/🦠]
+title: Erregerdiagnostik
 ---
 ### Erregerdiagnostik
 - **Direkter Erregernachweis**:: Identifikation des Erregers bzw. seiner Bestandteile

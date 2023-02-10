@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m18, m/m24, f/🦠, f/🦠/Erreger/Bakterien
+tags: [m/m18, m/m24, f/🦠, f/🦠/Erreger/Bakterien]
+title: Bakteriensystematik
 ---
 ### [[Bakterien]]systematik
 - **[[grampositiv]]**

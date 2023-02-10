@@ -1,6 +1,7 @@
 ---
 aliases: Vorsteherdrüse
-tags: m/m22, m/m19, f/💀, f/🍆
+tags: [m/m22, m/m19, f/💀, f/🍆]
+title: Prostata
 ---
 ### Prostata (♂)
 - **Funktion**:: Produktion von Prostatasekret (sauer [[pH]]↓, PSA)

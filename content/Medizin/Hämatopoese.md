@@ -1,6 +1,7 @@
 ---
 aliases: Blutbildung
-tags: m/m08, m/m17, f/🩸, f/⚙️
+tags: [m/m08, m/m17, f/🩸, f/⚙️]
+title: Hämatopoese
 ---
 ### Hämatopoese / Blutbildung  
 - **Unterteilung**

@@ -1,6 +1,7 @@
 ---
 aliases: Sentinel Events
-tags: 
+tags: []
+title: Never Events
 ---
 > (Abstract::**Vermeidbare unerwünschte Ereignisse, die nie vorkommen sollten.** National Quality Forum USA, 2002.)
 

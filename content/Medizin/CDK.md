@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🧪, f/🧬, f/🧪/Molekül
+tags: [m/m05, f/🧪, f/🧬, f/🧪/Molekül]
+title: CDK
 ---
 ### Cyclin-abhängige Kinasen / CDK
 - **Aktivierung**:: Durch Bindung an [[Cyclin]] → *Cyclin-CDK-Komplex*

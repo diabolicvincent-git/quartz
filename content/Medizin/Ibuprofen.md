@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [f/💊/Medikament, f/💊/Medikament]
+title: Ibuprofen
 ---
 (Abstract::[[NSAR]])
 > Gruppe:: [[NSAR]], [[Nicht-Opioid-Analgetika]], [[Analgetika]]

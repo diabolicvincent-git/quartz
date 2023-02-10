@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🕶️
+tags: [m/m19, f/🕶️]
+title: Energiedosis
 ---
 ### Energiedosis
 > Übertragene Strahlungsenergie pro Masse ($D = E/m$)

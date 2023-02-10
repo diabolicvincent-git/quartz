@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, a/Pathologie, m/m21, f/🦠, f/💤, a/Pathologie
+tags: [m/m18, a/Pathologie, m/m21, f/🦠, f/💤, a/Pathologie]
+title: PV Septischer Schock
 ---
 ### Sepsis
 > [[Infektionen]] → dysregulierte Immunantwort → [[MOV]]

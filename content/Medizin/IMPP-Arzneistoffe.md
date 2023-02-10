@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m00, f/💊/Medikament
+tags: [m/m00, f/💊/Medikament]
+title: IMPP-Arzneistoffe
 ---
 ### Adrenerges System
 - **α1-[[Adrenozeptoren]]-Agonisten / α1-Sympathomimetika**:: Xylometazolin

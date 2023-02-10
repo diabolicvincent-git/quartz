@@ -1,4 +1,5 @@
 ---
+title: M. obliquus superior
 ---
 ##### M. obliquus superior
 *   Anulus tendineus und Os sphenoidale

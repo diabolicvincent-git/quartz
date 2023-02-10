@@ -1,5 +1,6 @@
 ---
-tags: f/🦴/Knochen, f/💀, f/👂
+tags: [f/🦴/Knochen, f/💀, f/👂]
+title: Viscerocranium
 ---
 > (Abstract::)
 - **Schläfenregion**:: [[Os temporale]], [[Os cygomaticum]]

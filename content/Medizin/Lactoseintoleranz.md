@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/💩, f/⚙️
+tags: [m/m12, f/💩, f/⚙️]
+title: Lactoseintoleranz
 ---
 ### Lactoseintoleranz
 > β-Galactosidase (Lactase) nicht in ausreichender Menge zur [[Verdauung]] von Lactose exprimiert

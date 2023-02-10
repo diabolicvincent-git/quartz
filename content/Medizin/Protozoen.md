@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18
+tags: [m/m18]
+title: Protozoen
 ---
 ### Protozoen
 > [[Parasiten]]; einzellige [[Eukaryonten]]

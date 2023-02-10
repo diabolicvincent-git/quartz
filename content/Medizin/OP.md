@@ -1,6 +1,7 @@
 ---
 aliases: Operation
-tags: m/m26
+tags: [m/m26]
+title: OP
 ---
 ### Operation / OP
 - **Indikation**:: Facharztstandard

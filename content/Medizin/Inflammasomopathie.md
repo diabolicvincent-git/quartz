@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17
+tags: [m/m17]
+title: Inflammasomopathie
 ---
 
 > Unprovozierte Entzündungsreaktion der angeborenen Immunität (*==[[Autoinflammation]]==*)

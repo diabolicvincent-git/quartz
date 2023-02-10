@@ -1,6 +1,7 @@
 ---
 aliases: Tumornekrosefaktor, TNF-α
-tags: m/m19, f/🦀, f/🧪, f/🧪/Molekül/Hormon
+tags: [m/m19, f/🦀, f/🧪, f/🧪/Molekül/Hormon]
+title: TNF
 ---
 ### Tumornekrosefaktor / TNF
 - **Wichtigster Vertreter**:: *[[TNF]]-α*

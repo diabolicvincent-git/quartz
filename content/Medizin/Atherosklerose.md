@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, m/m08, m/m11, f/🧪, f/🫀, a/Pathologie
+tags: [m/m02, m/m08, m/m11, f/🧪, f/🫀, a/Pathologie]
+title: Atherosklerose
 ---
 - **Pathophysiologie**
 	1. Hohe LDL-[[Cholesterol]]-Konz.

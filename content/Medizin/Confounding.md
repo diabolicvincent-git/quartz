@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Confounding
 ---
 > (Abstract::**Verzerrung durch Störgröße** → falsche Zusammenhänge (v.a. [[Beobachtungsstudie]]))
 - **Lösungsansätze**

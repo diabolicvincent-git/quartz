@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [a/Pathologie, m/m31, f/💭]
+title: Schizophrenie
 ---
 
 - **Epidemiologie**:: Lebenszeitprävalenz 1%, Altersgipfel 20-30 J.

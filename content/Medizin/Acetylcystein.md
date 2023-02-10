@@ -1,5 +1,6 @@
 ---
-tags: m/m12, m/m20, f/💩, f/💊/Medikament, f/🍄, f/💊/Medikament/Wirkstoff
+tags: [m/m12, m/m20, f/💩, f/💊/Medikament, f/🍄, f/💊/Medikament/Wirkstoff]
+title: Acetylcystein
 ---
 > (Abstract::[[Antidot]] bei [[Paracetamol]]-[[Intoxikation]]) 
 - **Entitäten**:: NAC, ACC, Fluimucil

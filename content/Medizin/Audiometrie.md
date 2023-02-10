@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m16, f/👂, a/Intervention
+tags: [m/m16, f/👂, a/Intervention]
+title: Audiometrie
 ---
 - **Subjektive Verfahren**
 	 - [[Rinne]] (Schalleitung) und [[Weber]] (Schalleitung vs. Schallempfindung)

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/⚙️
+tags: [m/m12, f/⚙️]
+title: Schlucken
 ---
 ### Physiologie des Schluckvorgangs
 - Semireflektorisch-sensomotorischer Vorgang

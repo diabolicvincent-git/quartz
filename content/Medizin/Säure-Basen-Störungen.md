@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, m/m13, f/⚙️, f/🍺, f/🫀
+tags: [m/m14, m/m13, f/⚙️, f/🍺, f/🫀]
+title: Säure-Basen-Störungen
 ---
 ### Säure-Basen-Störungen
 > Einteilung je in respiratorische und metabolische Störungen. Kompensation erfolgt über das nicht betroffene System

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, f/🧪, f/🧪/Molekül
+tags: [m/m04, f/🧪, f/🧪/Molekül]
+title: cAMP
 ---
 ### cAMP / Cyclisches Adenosinmonophosphat
 - **Synthese**:: [[Gαs]]-[[GPCR]] → membranständige Adenylatcylase ([[ATP]] → [[cAMP]])

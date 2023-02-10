@@ -1,6 +1,7 @@
 ---
 aliases: M. Boeck
-tags: m/m09
+tags: [m/m09]
+title: Sarkoidose
 ---
 ### Sarkoidose / M. Boeck
 - **Epidemiologie**:: 20.-40. LJ

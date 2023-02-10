@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m24, f/💊/Medikament
+tags: [m/m24, f/💊/Medikament]
+title: Pharmakokinetik
 ---
 ### Pharmakokinetik
 > Wirkung des Körpers auf das Arzneimittel

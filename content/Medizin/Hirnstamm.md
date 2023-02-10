@@ -1,6 +1,7 @@
 ---
 aliases: Truncus encephali, Hirnstamms
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Lernziele
 ---
 
 ### Hirnstamm 

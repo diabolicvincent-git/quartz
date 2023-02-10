@@ -4,7 +4,8 @@ aliases:
   - Pantothensäure
   - Coenzym A
   - CoA
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin B5
 ---
 ### Vitamin B5 / Pantothensäure 
 - **Aktive Form**:: Coenzym A, Phosphopantethein

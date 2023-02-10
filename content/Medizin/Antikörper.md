@@ -1,6 +1,7 @@
 ---
 aliases: Immunglobuline
-tags: m/m08, f/🩸, f/🦠, f/🧪/Molekül/Antikörper
+tags: [m/m08, f/🩸, f/🦠, f/🧪/Molekül/Antikörper]
+title: Antikörper
 ---
 > (Abstract::Auch: Immunglobuline)
 - **Antikörperklassen**

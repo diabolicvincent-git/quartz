@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18
+tags: [m/m18]
+title: Ergosterol
 ---
 ### Ergosterol / Provitamin D2
 - **Funktion**

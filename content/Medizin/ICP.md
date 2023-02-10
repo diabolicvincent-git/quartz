@@ -1,6 +1,7 @@
 ---
 aliases: Intrakranieller Druck, Hirndruck
-tags: m/m15, f/🧠, a/Intervention
+tags: [m/m15, f/🧠, a/Intervention]
+title: ICP
 ---
 > (Abstract::**Intrakranieller Druck.**)
 - **Normwert**:: <15 mmHg im Liegen

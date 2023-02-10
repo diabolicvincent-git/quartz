@@ -1,5 +1,6 @@
 ---
-tags: m/m06
+tags: [m/m06]
+title: MDK
 ---
 > (Abstract::**Medizinischer Dienst der Krankenversicherung.**)
 - Arbeitsgemeinschaft der [[GKV]]en auf Landesebene, koordiniert durch den Spitzenverband Bund der Krankenkassen

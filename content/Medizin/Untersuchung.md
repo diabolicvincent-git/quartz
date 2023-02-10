@@ -1,7 +1,6 @@
 ---
-tags: 
-- a/Intervention
-- f/🩺/Befundbaustein
+tags: [a/Intervention, f/🩺/Befundbaustein]
+title: Untersuchung
 ---
 ### Körperliche Untersuchung
 1. **Ersteindruck**

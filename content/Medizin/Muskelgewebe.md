@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, m/m10
+tags: [m/m05, m/m10]
+title: Muskelgewebe
 ---
 ### Muskelgewebe
 > Verschiebung der kontraktilen Myofilamente [[Aktin]] + Myosin gegeneinander → Kraftentwicklung

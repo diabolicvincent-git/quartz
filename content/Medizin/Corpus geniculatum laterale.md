@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🧠
+tags: [f/🧠]
+title: Corpus geniculatum laterale
 ---
 
 - **Funktion**:: Teil der [[Sehbahn]] ("L" wie "Licht")

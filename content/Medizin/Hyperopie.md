@@ -1,6 +1,7 @@
 ---
 aliases: Weitsichtigkeit
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Hyperopie
 ---
 ### Hyperopie / Weitsichtigkeit
 - **Pathophysiologie**:: Der [[Bulbus oculi]] ist zu kurz bzw. die Brechkraft des Auges zu schwach. Die Lichtstrahlen eines Lichtpunktes vereinigen sich erst hinter der [[Retina]] wieder zu einem Punkt.

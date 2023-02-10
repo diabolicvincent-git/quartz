@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, m/m19, f/🧪
+tags: [m/m03, m/m19, f/🧪]
+title: Apoptose
 ---
 ### Apoptose / Programmierter Zelltod
 - **Allgemeine Signalkaskade**

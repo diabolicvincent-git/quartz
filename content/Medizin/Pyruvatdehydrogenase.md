@@ -1,6 +1,7 @@
 ---
 aliases: PDH
-tags: m/m03
+tags: [m/m03]
+title: Pyruvatdehydrogenase
 ---
 ### Pyruvatdehydrogenase / PDH
 > Irreversible Reaktion (daher Umwandlung von Fetten in Kohlenhydrate nicht möglich)

@@ -1,6 +1,7 @@
 ---
 aliases: Helicobacter pylori
-tags: m/m18
+tags: [m/m18]
+title: H. pylori
 ---
 ### Helicobacter pylori
 > [[gramnegativ]] > Stäbchen > [[H. pylori]]

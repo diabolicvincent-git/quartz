@@ -3,7 +3,8 @@ aliases:
   - Augenlid
   - Lider
   - Lid
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Augenlider
 ---
 - **Funktionen**
 	- Mechanischer Schutz des [[Bulbus oculi]]

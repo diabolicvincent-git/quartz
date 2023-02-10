@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/🔪, a/Intervention
+tags: [m/m26, f/🔪, a/Intervention]
+title: Abdominelle Zugangswege
 ---
 > Möglichst [[Hautspaltlinien]] folgen → bessere Wundheilung
 

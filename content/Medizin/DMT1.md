@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m17, f/🗞️, a/Pathologie
+tags: [m/m17, f/🗞️, a/Pathologie]
+title: DMT1
 ---
 ### Diabetes mellitus Typ 1
 > Genetische Prädisposition/Suszeptibilität + Trigger → Autoimmun-Insulinitis

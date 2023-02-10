@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠
+tags: [m/m18, f/🦠]
+title: Intrazelluläre Erreger
 ---
 ### Intrazelluläre Erreger
 > Umfasst theoretisch auch [[Viren]], bezieht sich hier jedoch auf fakultativ intrazelluläre [[Bakterien]]

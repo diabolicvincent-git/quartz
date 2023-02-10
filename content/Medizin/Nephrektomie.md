@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26
+tags: [m/m26]
+title: Nephrektomie
 ---
 ### Nephrektomie
 - **Indikation**:: [[Nierenzell-Ca]]

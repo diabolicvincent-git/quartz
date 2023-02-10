@@ -1,6 +1,7 @@
 ---
 aliases: Acetylcholin
-tags: m/m15, f/🧠, f/🧪, f/🧪/Molekül/Transmitter
+tags: [m/m15, f/🧠, f/🧪, f/🧪/Molekül/Transmitter]
+title: ACh
 ---
 (Abstract::**Acetylcholin**. Wichtigster [[Transmitter]] im [[PNS]].)
 - **Wirkung**:: Erregend (Ausnahme: [[Herz]])

@@ -1,4 +1,5 @@
 ---
+title: Dermatologie
 ---
 - [[Dermatologische Tumoren]]
 	- [[Aktinische Keratose]]

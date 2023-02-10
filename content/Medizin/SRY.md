@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🐣, f/🧬/gen, f/🧪, f/⚙️, f/🧪/Molekül, f/🦩, f/🍆
+tags: [m/m22, f/🐣, f/🧬/gen, f/🧪, f/⚙️, f/🧪/Molekül, f/🦩, f/🍆]
+title: SRY
 ---
 ### Sex determining region of Y / SRY-Gen
 - **Funktion**:: Induziert Bildung von Testisdeterminierender Faktor / TDF → [[Geschlechtsentwicklung]]

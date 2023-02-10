@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/💉
+tags: [m/m17, f/💉]
+title: Autoinflammation
 ---
 ### Autoinflammation 
 > Systemische Entzündungsvorgänge aufgr. Fehlaktivierung des ==angeborenen Immunsystems== via TLRs und NLRs mit Schlüsselrolle des *==[[IL-1]]==*

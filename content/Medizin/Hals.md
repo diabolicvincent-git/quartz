@@ -1,4 +1,5 @@
 ---
+title: Hals
 ---
 - **Körperregionen**
 	- Regio cervicalis anterior

@@ -1,6 +1,7 @@
 ---
 aliases: Canalis inguinalis
-tags: m/m26, f/💀
+tags: [m/m26, f/💀]
+title: Leistenkanal
 ---
 ### Leistenkanal
 > Verbindung zwischen Bauchhöhle und Bauchwand

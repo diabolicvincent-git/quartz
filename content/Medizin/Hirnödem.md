@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🧠
+tags: [a/Pathologie, f/🧠]
+title: Hirnödem
 ---
 > (Abstract::Cerebrale Flüssigkeitseinlagerung)
 - **Entitäten**

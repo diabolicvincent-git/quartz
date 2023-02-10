@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁
+tags: [m/m13, f/🫁]
+title: Kardiogenes Lungenödem
 ---
 ### Lungenödem
 - **Ätiologie**

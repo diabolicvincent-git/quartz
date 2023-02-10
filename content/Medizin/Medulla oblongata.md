@@ -1,6 +1,7 @@
 ---
 aliases: Verlängertes Rückenmark
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Medulla oblongata
 ---
 ### Medulla oblongata 
 - **Gliederung (ventral → dorsal)**

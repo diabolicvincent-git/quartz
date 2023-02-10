@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, a/Intervention, a/Intervention, f/🫀
+tags: [m/m11, a/Intervention, a/Intervention, f/🫀]
+title: CHA2DS2VASc
 ---
 > (Abstract::Thromboembolie-[[Risiko]] bei [[VHF]])
 - **Faktoren**

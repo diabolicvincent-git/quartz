@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/⚙️
+tags: [m/m15, f/🧠, f/⚙️]
+title: Cerebrale Ischämie
 ---
 ### Cerebrale Ischämie 
 - **Pathomechanismus**:: z.B. [[Arterien]]-Okklusion → [[Zelluläre Hypoxie]] → nur anaerobe [[Glycolyse]] → [[ATP]]↓ → Ausfall von Ionenpumpen → [[Ca2+]]-Einstrom, Depolarisation → [[Ca2+]] vermittelte Enzymaktivierungen → Zelltod, [[Nekrose]], Ödembildung

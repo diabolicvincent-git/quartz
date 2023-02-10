@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, m/m12, f/💩, f/💉, a/Pathologie
+tags: [m/m17, m/m12, f/💩, f/💉, a/Pathologie]
+title: Colitis ulcerosa
 ---
 ### Colitis ulcerosa
 > **[[CED]]** unklarer Genese

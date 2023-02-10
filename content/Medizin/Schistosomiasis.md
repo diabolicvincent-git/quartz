@@ -1,6 +1,7 @@
 ---
 aliases: Bilharziose
-tags: m/m18, a/Pathologie, f/🦠
+tags: [m/m18, a/Pathologie, f/🦠]
+title: Schistosomiasis
 ---
 ### Schistosomiasis / Bilharziose
 > Wurmerkrankung durch Saug[[Würmer]] der Gattung *Schistosoma* (Pärchenegel)

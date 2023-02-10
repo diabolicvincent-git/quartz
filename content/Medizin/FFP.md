@@ -1,6 +1,7 @@
 ---
 aliases: Plasmakonzentrat, Fresh Frozen Plasma
-tags: m/m08, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament
+tags: [m/m08, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament]
+title: FFP
 ---
 > (Abstract::**Fresh Frozen Plasma.**)
 - **Indikation**:: Substitution von [[Gerinnungsfaktoren]]

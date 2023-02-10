@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, f/⚙️, f/💤
+tags: [m/m13, f/🫁, f/⚙️, f/💤]
+title: FiO2
 ---
 ### Inspiratorische Sauerstofffraktion / FiO2
 - **Einstellung [[Beatmungsparameter]]**

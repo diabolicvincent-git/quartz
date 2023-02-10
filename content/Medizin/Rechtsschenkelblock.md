@@ -1,6 +1,7 @@
 ---
 aliases: RSB
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Rechtsschenkelblock
 ---
 ### Rechtsschenkelblock / RSB
 > [[Schenkelblock]] der rechten [[Tawara-Schenkel]]

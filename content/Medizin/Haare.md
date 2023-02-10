@@ -1,6 +1,7 @@
 ---
 aliases:
  - Haar
+title: Haare
 ---
 
 ## Haarfollikel & Haare

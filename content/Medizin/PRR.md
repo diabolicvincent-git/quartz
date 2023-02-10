@@ -1,6 +1,7 @@
 ---
 aliases: Pattern-Recognition-Rezeptoren
-tags: m/m08, f/⚙️, f/🧪, f/🦠
+tags: [m/m08, f/⚙️, f/🧪, f/🦠]
+title: PRR
 ---
 ### Pattern-Recognition-Rezeptoren / PRR
 > Erkennen von [[PAMPs]] → Immunreaktion

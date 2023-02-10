@@ -1,6 +1,7 @@
 ---
 aliases: Lumbalpunktion
-tags: m/m15
+tags: [m/m15]
+title: Liquorpunktion
 ---
 ### Liquorpunktion / Lumbalpunktion
 > Gewinnung von [[Liquor]] für [[Liquordiagnostik]]

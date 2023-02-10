@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💀, f/💩, f/🐣
+tags: [m/m12, f/💀, f/💩, f/🐣]
+title: Mesenterium
 ---
 > Peritonealduplikaturen, die die intraperitonealen Organe an der Rückwand der Bauchhöhle befestigen  
 

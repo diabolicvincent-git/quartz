@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: m/m14, f/🍆, f/🍺
+tags: [m/m14, f/🍆, f/🍺]
+title: Polyurie
 ---
 ### Polyurie
 > [[Urinmenge]] > 1,5-2 L/d

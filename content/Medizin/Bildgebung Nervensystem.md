@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🕶️, f/🧠, m/m30
+tags: [m/m15, f/🕶️, f/🧠, m/m30]
+title: Bildgebung Nervensystem
 ---
 
 - Rechts-Links immer vertauscht

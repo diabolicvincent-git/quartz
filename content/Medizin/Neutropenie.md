@@ -1,6 +1,7 @@
 ---
 aliases: Granulocytopenie
-tags: m/m08, m/m19
+tags: [m/m08, m/m19]
+title: Neutropenie
 ---
 ### Neutropenie
 > Verringerung der Zahl [[Neutrophile Granulocyten]]

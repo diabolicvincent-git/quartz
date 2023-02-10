@@ -1,6 +1,7 @@
 ---
 aliases: Gastroduodenale Ulkuskrankheit, Ulcus ventriculi, Ulcus duodeni
-tags: m/m26, f/💩, a/Pathologie
+tags: [m/m26, f/💩, a/Pathologie]
+title: Gastroduodenale Ulcera
 ---
 ### Gastroduodenale Ulcera
 - **Ätiologie**

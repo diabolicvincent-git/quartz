@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💤, f/🧪/Molekül, f/🧠, f/⚙️
+tags: [m/m20, f/💤, f/🧪/Molekül, f/🧠, f/⚙️]
+title: Enkephaline
 ---
 ### Enkephaline
 > Endogene [[Analgetika]]

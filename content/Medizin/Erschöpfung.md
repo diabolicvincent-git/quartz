@@ -1,6 +1,7 @@
 ---
 aliases: Leistungsminderung, Müdigkeit
-tags: m/m21, ToDo, f/💭, a/Pathologie
+tags: [m/m21, ToDo, f/💭, a/Pathologie]
+title: Uak ausarbeiten
 ---
 ### Erschöpfung (Psychosomatik)
 - **Diagnostik**

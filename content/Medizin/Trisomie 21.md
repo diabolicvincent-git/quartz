@@ -1,6 +1,7 @@
 ---
 aliases: Down-Syndrom
-tags: m/m02, f/🧬, a/Pathologie
+tags: [m/m02, f/🧬, a/Pathologie]
+title: Trisomie 21
 ---
 ### Trisomie 21 / Down-Syndrom 
 > Andere Trisomien/Monosomien i.d.R. nicht lebensfähig (Tri13: 5% >6, Tri18: 5% >12 Monate)

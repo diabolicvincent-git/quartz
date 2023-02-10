@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Organ/Speicheldrüsen, f/👂, f/💀
+tags: [f/💀/Organ/Speicheldrüsen, f/👂, f/💀]
+title: Gl. parotidea
 ---
 > (Abstract::**[[Speicheldrüsen]].**)
 - **Lage**:: Fossa retromandibularis

@@ -1,7 +1,8 @@
 ---
 aliases:
   - Augen
-tags: m/m16, f/👁️, f/💀
+tags: [m/m16, f/👁️, f/💀]
+title: Bulbus oculi
 ---
 # Bulbus oculi
 ![[Bulbus oculi]]

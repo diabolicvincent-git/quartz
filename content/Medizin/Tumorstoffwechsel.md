@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/⚙️, f/🦀
+tags: [m/m19, f/⚙️, f/🦀]
+title: Tumorstoffwechsel
 ---
 ### Tumorstoffwechsel
 - **==Warburg-Effekt==**:: Energiegewinnung trotz [[O2]]-Verfügbarkeit v.a. *anaerobe [[Glycolyse]]* → ==[[Lactat]]↑==

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🧪, f/⚙️, f/🍺, f/🧪/Molekül
+tags: [m/m14, f/🧪, f/⚙️, f/🍺, f/🧪/Molekül]
+title: Calcitriol
 ---
 ### Calcitriol
 > Aktiviertes [[Vitamin D]]

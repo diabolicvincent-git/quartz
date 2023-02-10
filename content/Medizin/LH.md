@@ -1,6 +1,7 @@
 ---
 aliases: Luteinisierendes Hormon
-tags: m/m22, f/🗞️, f/🦩, f/🧪/Molekül
+tags: [m/m22, f/🗞️, f/🦩, f/🧪/Molekül]
+title: LH
 ---
 ### Luteinisierendes Hormon / LH
 - **Wirkung**

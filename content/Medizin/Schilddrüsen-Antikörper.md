@@ -1,5 +1,6 @@
 ---
-tags: m/m29, f/🗞️, f/🧪/Molekül/Antikörper
+tags: [m/m29, f/🗞️, f/🧪/Molekül/Antikörper]
+title: Schilddrüsen-Antikörper
 ---
 > (Abstract::[[Auto-Antikörper]])
 - **Entitäten**:: [[TSH-Rezeptor-Antikörper]], [[TPO-Antikörper]], [[Tg-Antikörper]]

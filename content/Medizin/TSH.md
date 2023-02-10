@@ -1,6 +1,7 @@
 ---
 aliases: Thyreoidea-stimulierendes-Hormon, Thyreotropin
-tags: m/m04, m/m17, f/🗞️, f/🧪/Molekül/Hormon
+tags: [m/m04, m/m17, f/🗞️, f/🧪/Molekül/Hormon]
+title: TSH
 ---
 ### Thyreoidea-stimulierendes-Hormon / Thyreotropin / TSH
 - **Wirkung**:: Stimulation der Iod-Aufnahme und [[T3]]/[[T4]]-Synthese/-Ausschüttung

@@ -1,6 +1,7 @@
 ---
 aliases: Insulin-like Growth Factor
-tags: m/m04, m/m22, f/🗞️, f/🧪, f/🧪/Molekül
+tags: [m/m04, m/m22, f/🗞️, f/🧪, f/🧪/Molekül]
+title: IGF
 ---
 ### Insulin-like Growth Factor / IGF
 - **Wirkung**:: Zellteilung↑, Längenwachstum [[Knochen]]

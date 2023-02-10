@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🦩
+tags: [m/m22, f/🦩]
+title: Menstruation
 ---
 ### Menstruation
 > Regelblutung zu Beginn des **[[Menstruationszyklus]]**

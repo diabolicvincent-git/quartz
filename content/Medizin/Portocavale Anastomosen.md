@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12
+tags: [m/m12]
+title: Portocavale Anastomosen
 ---
 ### Portocavale Anastomosen 
 - Anastomose via Vv. gastricae → **[[Ösophagus]][[Venen]]** → [[Azygossystem]] (*[[Ösophagusvarizen]]*)

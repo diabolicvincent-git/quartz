@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🥼, f/💉
+tags: [a/Pathologie, f/🥼, f/💉]
+title: Hyperurikämie
 ---
 > (Abstract::[[Serum]]-[[Harnsäure]] ≥6.5 mg/dl → Klinik der ==[[Gicht]]==)
 - **Epidemiologie**:: 15-25%, [[♂]]>[[♀]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, f/🧪
+tags: [m/m02, f/🧪]
+title: Biogene Amine
 ---
 **Biogene Amine**
 - **Entstehung**:: Decarboxylierung von [[AS]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🦴, a/Intervention
+tags: [m/m15, f/🦴, a/Intervention]
+title: Kraftgrad
 ---
 ### Kraftgrade (nach Janda)
 - **0°**:: Keine Muskelaktivität (*==[[Plegie]]==*)

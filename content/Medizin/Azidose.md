@@ -1,6 +1,7 @@
 ---
 aliases: null
 tags: [m/m13, f/🍺, f/🥼]
+title: Respiratorische Azidose
 ---
 # Respiratorische Azidose
 ## Ätiologie

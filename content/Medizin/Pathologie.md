@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, ToDo, f/⚰️
+tags: [m/m21, ToDo, f/⚰️]
+title: VL Verdacht Bildgebung Gewebeprobe Diagnose
 ---
 ### Makroskopische Beschreibung
 - **Verteilungsmuster**

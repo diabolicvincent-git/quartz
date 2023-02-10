@@ -1,6 +1,7 @@
 ---
 aliases: Proopiomelanocorticotropin
-tags: m/m04, m/m09, f/🧪, f/⚙️, f/🗞️
+tags: [m/m04, m/m09, f/🧪, f/⚙️, f/🗞️]
+title: POMC
 ---
 ### POMC / Proopiomelanocorticotropin
 > Pro-[[Hormon]]

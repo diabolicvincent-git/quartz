@@ -1,6 +1,7 @@
 ---
 aliases: Blutsenkungsgeschwindigkeit
-tags: m/m08, f/🩸, f/🥼
+tags: [m/m08, f/🩸, f/🥼]
+title: BSG
 ---
 ### Blutsenkungsgeschwindigkeit / BSG
 - **Normwert**:: [[♂]] <20 mm, [[♀]] <15 mm in der ersten Stunde

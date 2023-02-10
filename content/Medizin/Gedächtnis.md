@@ -1,4 +1,5 @@
 ---
+title: Gedächtniskonsolidierung
 ---
 ## Sensorisches Gedächtnis
 - **Inhalt**:: Bilder, Geräusche etc.

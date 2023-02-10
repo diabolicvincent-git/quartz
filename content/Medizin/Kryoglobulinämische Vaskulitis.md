@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/💉
+tags: [m/m17, f/💉]
+title: Kryoglobulinämische Vaskulitis
 ---
 ### Kryoglobulinämische [[Vaskulitis]]
 > [[Vaskulitis]], ausgelöst durch [[Kryoglobuline]] ([[Hepatitis C]]-assoziiert)

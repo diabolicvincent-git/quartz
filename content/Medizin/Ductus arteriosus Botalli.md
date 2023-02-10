@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/🫀, f/🦄
+tags: [m/m25, f/🫀, f/🦄]
+title: Ductus arteriosus Botalli
 ---
 ### Ductus arteriosus Botalli
 > ==Verbindet im [[Fetalkreislauf]] [[A. pulmonalis sinistra]] mit [[Aorta]]==

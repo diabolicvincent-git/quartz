@@ -1,6 +1,7 @@
 ---
 aliases: Autoantikörper
-tags: m/m17, f/💉
+tags: [m/m17, f/💉]
+title: Auto-Antikörper
 ---
 > (Abstract::**[[Antikörper]] gegen körpereigene Strukturen bei [[Autoimmunität]].**)
 

@@ -1,6 +1,7 @@
 ---
 aliases: Nichtsteroidale Antirheumatika
-tags: m/m20, f/💊/Medikament, f/💤
+tags: [m/m20, f/💊/Medikament, f/💤]
+title: NSAR
 ---
 ### Nichtsteroidale Antirheumatika / NSAR
 - **Wirkung**:: Analgetisch, antipyretisch, antiphlogistisch

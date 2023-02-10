@@ -1,6 +1,7 @@
 ---
 aliases: Ribosom
-tags: m/m03, f/🧪, f/🧬
+tags: [m/m03, f/🧪, f/🧬]
+title: Ribosomen
 ---
 ### Ribosomen
 > Komplexe aus [[rRNA]] und [[Proteine]]n

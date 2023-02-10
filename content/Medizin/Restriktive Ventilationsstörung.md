@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Pathologie
+tags: [m/m13, f/🫁, a/Pathologie]
+title: Restriktive Ventilationsstörung
 ---
 ### Restriktive Ventilationsstörung
 - Dehnbarkeit von [[Lunge]] und/oder Thorax ↓ → [[Compliance]] ↓ Vitalkapazität ↓ 

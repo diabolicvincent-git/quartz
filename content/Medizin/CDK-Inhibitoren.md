@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, m/m03, f/🧪, f/⚙️, f/🧪/Molekül
+tags: [m/m05, m/m03, f/🧪, f/⚙️, f/🧪/Molekül]
+title: CDK-Inhibitoren
 ---
 ### CDK-Inhibitoren
 - Gegenspieler von [[CDK]]

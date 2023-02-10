@@ -1,6 +1,7 @@
 ---
 aliases: Coarctatio aortae
-tags: m/m25, f/🫀, f/🦄, a/Pathologie
+tags: [m/m25, f/🫀, f/🦄, a/Pathologie]
+title: Aortenisthmusstenose
 ---
 > (Abstract::**[[Herzfehler]].** Stenose der [[Aorta]] am Übergang [[Aortenbogen]] zu [[Aorta descendens]])
 - **Klassifikation**

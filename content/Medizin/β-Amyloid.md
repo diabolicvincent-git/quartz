@@ -1,8 +1,7 @@
 ---
 aliases: 
-tags: 
-- f/🧠
-- f/🧪
+tags: [f/🧠, f/🧪]
+title: β-Amyloid
 ---
 
 - Erhöhte Offenwahrscheinlichkeit K+ Kanäle → Hyperpolarisation

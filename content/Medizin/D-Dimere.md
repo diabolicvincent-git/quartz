@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🥼
+tags: [f/🥼]
+title: D-Dimere
 ---
 [[Fibrin]]-/[[Fibrinogen]]-Spaltprodukte bei [[Fibrinolyse]] = Biomarker bei [[Thrombose]]
 - **Eigenschaften**

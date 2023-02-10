@@ -1,6 +1,7 @@
 ---
 aliases: Kohlendioxid, Kohlenstoffdioxid
-tags: m/m13, f/🧪, f/🧪/Molekül
+tags: [m/m13, f/🧪, f/🧪/Molekül]
+title: CO2-Produktion im Körper
 ---
 ### Kohlenstoffdioxid / CO2
 > Farb-, geruch und geschmackloses Gas

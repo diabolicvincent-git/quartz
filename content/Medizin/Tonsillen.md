@@ -1,6 +1,7 @@
 ---
 aliases: Mandeln
-tags: f/💀/Organ, f/💀, f/👂
+tags: [f/💀/Organ, f/💀, f/👂]
+title: Tonsillen
 ---
 > (Abstract::**[[MALT]] in [[Oropharynx]]/[[Nasopharynx]].**)
 - **Entitäten**:: [[Tonsilla pharyngealis]], [[Tonsillae palatinae]], [[Tonsilla lingualis]], [[Tonsillae tubariae]], [[Seitenstränge]]

@@ -1,6 +1,7 @@
 ---
 aliases: Herzrhythmusstörung, Herzrhythmusstörungen
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: HRST
 ---
 ### Herzrhythmusstörungen / HRST
 - **Ätiologie** 

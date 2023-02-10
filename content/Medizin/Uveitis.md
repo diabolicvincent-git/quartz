@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/👁️, m/m29
+tags: [a/Pathologie, f/👁️, m/m29]
+title: Uveitis
 ---
 > (Abstract::**Entzündung [[Uvea]].**)
 - **Ätiologie**:: [[Systemische Störungen]]

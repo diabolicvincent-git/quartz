@@ -1,6 +1,7 @@
 ---
-tags: f/⛑️, f/💤, a/Intervention
+tags: [f/⛑️, f/💤, a/Intervention]
 aliases: Oropharyngealtubus
+title: Guedel-Tubus
 ---
 > (Abstract::**Oropharyngealtubus.**)
 - **KI**:: Erhaltene Schutzreflexe, schwere Kieferverletzung

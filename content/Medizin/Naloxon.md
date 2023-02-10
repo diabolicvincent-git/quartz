@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💤, f/🍄, f/💊/Medikament
+tags: [m/m20, f/💤, f/🍄, f/💊/Medikament]
+title: Naloxon
 ---
 ### Naloxon
 - **Indikation**:: [[Opioidintoxikation]], -überdosierung

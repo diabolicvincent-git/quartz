@@ -1,6 +1,7 @@
 ---
 alias: Struma maligna
-tags: a/Pathologie
+tags: [a/Pathologie]
+title: Schilddrüsen-Ca
 ---
 > (Abstract::)
 - **Epidemiologie**:: [[♀]]>[[♂]]

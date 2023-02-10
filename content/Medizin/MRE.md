@@ -1,6 +1,7 @@
 ---
 aliases: Multiresistente Erreger
-tags: m/m18, f/🦠/Erreger/Bakterien, f/🦠
+tags: [m/m18, f/🦠/Erreger/Bakterien, f/🦠]
+title: MRE
 ---
 ### Multiresistente Erreger / MRE
 - **Allg. Risikofaktoren**:: Krankenhausaufenthalt vor <12 Monaten, [[Antibiotika]]-Therapie vor <6 Monaten, [[Infektionsrisiken]]

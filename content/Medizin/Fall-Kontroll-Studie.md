@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Fall-Kontroll-Studie
 ---
 - **Einteilung**:: [[Beobachtungsstudie]], [[Retrospektive Studie]]
 - **Beschreibung**:: Fälle (erkrankt) und Kontrollen (gesund)

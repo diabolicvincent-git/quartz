@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/🧴, a/Pathologie, m/m26
+tags: [m/m09, f/🧴, a/Pathologie, m/m26]
+title: Nekrotisierende Fasziitis
 ---
 ### Nekrotisierende Fasziitis
 > Weichteilinfektion bis unter die Faszie mit fulminantem Verlauf

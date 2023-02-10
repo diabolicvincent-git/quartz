@@ -1,6 +1,7 @@
 ---
 aliases: Lymphocyt
-tags: m/m08, f/🩸, f/🩸, f/🔬/Zelle
+tags: [m/m08, f/🩸, f/🩸, f/🔬/Zelle]
+title: Lymphocyten
 ---
 ### Lymphocyten
 > [[Leukocyten]] des [[Spezifisches Immunsystem]]

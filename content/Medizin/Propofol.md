@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m36, f/💊/Medikament, f/💤
+tags: [m/m36, f/💊/Medikament, f/💤]
+title: Propofol
 ---
 ### Propofol
 > [[Narkotika]] (kurz wirksam, ca. 5 min)

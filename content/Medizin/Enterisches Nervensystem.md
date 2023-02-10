@@ -1,6 +1,7 @@
 ---
 aliases: Intramurales Nervensystem
-tags: m/m12, f/💩, f/🧠, f/⚙️
+tags: [m/m12, f/💩, f/🧠, f/⚙️]
+title: Enterisches Nervensystem
 ---
 ### Enterisches Nervensystem
 > Weitgehend autonom, in Grundaktivität vom [[vegetative]]n Nervensystem moduliert

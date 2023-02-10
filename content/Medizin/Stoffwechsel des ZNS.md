@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/⚙️
+tags: [m/m15, f/🧠, f/⚙️]
+title: Lernziele
 ---
 ### Stoffwechsel des ZNS
 - **Energieliefernde Substrate**:: ==[[Glucose]]==, [[Glycogen]], [[AS]], Ketonkörper (keine [[Fettsäuren]])

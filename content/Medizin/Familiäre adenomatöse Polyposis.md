@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, f/💩
+tags: [m/m19, f/🦀, f/💩]
+title: Familiäre adenomatöse Polyposis
 ---
 ### Familiäre adenomatöse Polyposis / FAP
 - **Genetik**:: *APC-[[Mutation]]* ([[Tumorsuppressoren]])

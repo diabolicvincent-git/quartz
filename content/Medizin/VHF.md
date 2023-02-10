@@ -1,6 +1,7 @@
 ---
 aliases: Vorhofflimmern
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: VHF
 ---
 ### Vorhofflimmern / VHF
 - **Epidemiologie**:: 1-2%, häufigste anhaltende [[HRST]], [[♂]]>[[♀]]

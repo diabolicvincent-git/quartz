@@ -1,6 +1,7 @@
 ---
 aliases: Telencephalon, Cerebrum
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Großhirn
 ---
 ## Sulci
 - Sulcus lateralis

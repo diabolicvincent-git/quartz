@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/💤, a/Pathologie
+tags: [m/m25, f/💤, a/Pathologie]
+title: Allgemeine OP-Komplikationen
 ---
 - **Komplikationen**
 	- [[Anämie]]

@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: 
+tags: []
+title: Ätiologie
 ---
 > **Rapid-progressive Glomerulonephritis (RPGN)**:: Sehr seltene, rasch-destruktive Nierenerkrankung
 

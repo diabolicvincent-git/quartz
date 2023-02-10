@@ -1,4 +1,5 @@
 ---
+title: Faszien des Halses
 ---
 - **Muskelfaszien**
 	- [[Lamina superficialis]]

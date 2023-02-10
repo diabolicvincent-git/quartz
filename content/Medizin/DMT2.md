@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/🗞️, a/Pathologie
+tags: [m/m17, f/🗞️, a/Pathologie]
+title: DMT2
 ---
 ### Diabetes mellitus Typ 2
 > Schleichender Beginn, oft Entstehung von Komplikationen vor Zufallsbefund T2DM

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21
+tags: [m/m21]
+title: Medizinethik
 ---
 ### Medizinethik
 - **Probandengruppen** (nach Zunahme der ethischen Problematik)

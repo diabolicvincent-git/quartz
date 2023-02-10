@@ -1,6 +1,7 @@
 ---
 aliases: Äußerer Liquorraum
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Subarachnoidalraum
 ---
 ### Subarachnoidalraum
 > Raum zwischen [[Pia mater]] und [[Arachnoidea mater]] ( = äußere [[Liquorräume]])

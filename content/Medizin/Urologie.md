@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🍆
+tags: [f/🍆]
+title: Urologie
 ---
 - [[Urologische Tumoren]]
 - [[Erektile Dysfunktion]]

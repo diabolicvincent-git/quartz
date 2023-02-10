@@ -1,8 +1,8 @@
 ---
 aliases:
   - null
-tags:
-  - m/m13
+tags: [m/m13]
+title: Regulation der Atmung
 ---
 ## Chemische Atemregulation
 - **Einflussgrößen des Atemantriebs**:: [[pO2]], pCO2, [[pH]]

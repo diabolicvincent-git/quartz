@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, f/⚙️, f/🧪
+tags: [m/m04, f/⚙️, f/🧪]
+title: IP3 (Inositol-1,4,5-triphosphat) und DAG (Diacylglycerol)
 ---
 ### Signaltransduktion
 - **Signalamplifikation**:: Vergrößerung der Zahl an Signalmolekülen bei jedem Schritt der Signalkaskade

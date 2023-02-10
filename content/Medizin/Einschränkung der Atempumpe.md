@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁
+tags: [m/m13, f/🫁]
+title: Einschränkung der Atempumpe
 ---
 ## die Auswirkung von thorakoabdominellen anatomischen Veränderungen auf die Atemmechanik ableiten
 

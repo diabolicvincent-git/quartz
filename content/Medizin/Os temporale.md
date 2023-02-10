@@ -1,4 +1,5 @@
 ---
+title: Os temporale
 ---
 Schläfenbein
 - *[[Neurocranium]]*

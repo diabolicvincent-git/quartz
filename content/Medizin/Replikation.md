@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪, f/🧬
+tags: [m/m03, f/🧪, f/🧬]
+title: Replikation
 ---
 ### Replikation
 - Semikonservativ

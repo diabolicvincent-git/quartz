@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🍆, f/🦀
+tags: [a/Pathologie, f/🍆, f/🦀]
+title: Urologische Tumoren
 ---
 - [[BPH]]
 - [[Primärer Hyperaldosteronismus]]

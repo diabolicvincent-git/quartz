@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27, f/🦄, f/🦴
+tags: [m/m27, f/🦄, f/🦴]
+title: Kindertraumatologie
 ---
 ### Kindertraumatologie
 - **Epidemiologie**:: Jährlich 3 Mio. Unfälle, ♂>>[[♀]]

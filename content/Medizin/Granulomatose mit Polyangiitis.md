@@ -1,6 +1,7 @@
 ---
 aliases: M. Wegener
-tags: m/m14, m/m17, f/🍺, f/💉
+tags: [m/m14, m/m17, f/🍺, f/💉]
+title: Granulomatose mit Polyangiitis
 ---
 ### Granulomatose mit Polyangiitis 
 > Nekrotisierende granulomatöse [[Vaskulitis]], i.d.R. Erstmanifestation oberer-unterer Respirationstrakt

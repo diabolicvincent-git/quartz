@@ -1,6 +1,7 @@
 ---
 aliases: Rabies, Lyssa
-tags: m/m24, f/🦠, a/Pathologie
+tags: [m/m24, f/🦠, a/Pathologie]
+title: Tollwut
 ---
 ### Tollwut / Rabies
 - **Epidemiologie**

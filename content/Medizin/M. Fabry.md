@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags: []
+title: M. Fabry
 ---
 ### M. Fabry
 - **Ätiologie**:: X-chromosomal-rezessive [[Genetische Erkrankungen]]

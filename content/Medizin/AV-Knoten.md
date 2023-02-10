@@ -1,7 +1,8 @@
 ---
 aliases:
   - Nodus atrioventricularis
-tags: m/m11, f/🫀
+tags: [m/m11, f/🫀]
+title: AV-Knoten
 ---
 ### AV-Knoten
 - **Lokalisation**:: Rechter Vorhof zwischen subepikardialem Fettgewebe und [[Endokard]] im *Koch-Dreieck* (Mündung des Sinus coronarius ↔ Todaro-[[Sehnen]] ↔ Septales Segel der [[Tricuspidalklappe]])

@@ -1,6 +1,7 @@
 ---
 aliases: Reversibles cerebrales Vasokonstriktionssyndrom
-tags: m/m30, f/🧠, a/Pathologie
+tags: [m/m30, f/🧠, a/Pathologie]
+title: RCVS
 ---
 ### Reversibles cerebrales Vasokonstriktionssyndrom / RCVS
 - **Epidemiologie**:: [[♀]] >> [[♂]]

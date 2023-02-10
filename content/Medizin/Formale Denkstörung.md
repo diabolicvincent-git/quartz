@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [a/Pathologie, m/m31, f/💭]
+title: Formale Denkstörung
 ---
 > (Abstract::**Störung des Denkablaufs.**)
 - [[Denkzerfahrenheit]]

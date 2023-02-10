@@ -1,6 +1,7 @@
 ---
 aliases: Strahlentherapie, Radiotherapie
-tags: m/m19
+tags: [m/m19]
+title: Radiatio
 ---
 ### Radiatio / Strahlentherapie
 > [[Ionisierende Strahlung]] → Hemmung Proliferation

@@ -1,6 +1,7 @@
 ---
 aliases: Liquor cerebrospinalis
-tags: m/m15
+tags: [m/m15]
+title: Liquor
 ---
 ### Liquor cerebrospinalis
 - **Funktion**:: mech. Schutz, Abfalltransport, Gewichtsreduktion, Versorgung mit Ionen/[[Vitamine]]

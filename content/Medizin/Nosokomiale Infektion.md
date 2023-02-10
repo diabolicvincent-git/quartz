@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m18, f/🦠, f/📊
+tags: [m/m18, f/🦠, f/📊]
+title: Nosokomiale Infektion
 ---
 ### Nosokomiale [[Infektionen]]
 > [[Infektionen]] >48h nach Krankenhausaufnahme

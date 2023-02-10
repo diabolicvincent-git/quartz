@@ -1,6 +1,7 @@
 ---
 aliases: Staphylococcus aureus, S. auerus
-tags: m/m18, f/🦠
+tags: [m/m18, f/🦠]
+title: Staph. aureus
 ---
 ### Staphylococcus aureus
 > [[grampositiv]] > Kokken > [[Staphylokokken]] (Katalase+) > [[Staph. aureus]] (==Koagulase+==)

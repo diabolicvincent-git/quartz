@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m06
+tags: [m/m06]
+title: Kinderarmut
 ---
 
 # Kinderarmut

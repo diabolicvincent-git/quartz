@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15
+tags: [m/m15]
+title: GABA
 ---
 ### ɣ-Aminobuttersäure / GABA
 > [[Transmitter]]

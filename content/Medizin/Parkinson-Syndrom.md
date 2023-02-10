@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: m/m15, f/🧠, a/Pathologie
+tags: [m/m15, f/🧠, a/Pathologie]
+title: Parkinson-Syndrom
 ---
 Klinik aus [[Akinese]], [[Rigor]], [[Ruhetremor]], [[Posturale Instabilität]] durch [[DOPamin]]-Mangel
 - **Epidemiologie**:: 40-60 Jahre, Prävalenz 0.2%

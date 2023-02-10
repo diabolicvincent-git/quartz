@@ -1,5 +1,6 @@
 ---
-tags: f/🦠/Erreger/Bakterien
+tags: [f/🦠/Erreger/Bakterien]
+title: Propioni-Bakterien
 ---
 > (Abstract::[[grampositiv]], [[Anaerobier]], [[Hautflora]])
 

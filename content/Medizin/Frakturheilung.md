@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m05, m/m10, m/m27, f/🦴
+tags: [m/m05, m/m10, m/m27, f/🦴]
+title: Frakturheilung
 ---
 ### Frakturheilung
 - **Primäre Frakturheilung**

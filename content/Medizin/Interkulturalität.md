@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, m/m06
+tags: [m/m20, m/m06]
+title: Interkulturalität
 ---
 ### Interkulturalität
 - **Klinische Probleme**

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💤, f/💊/Medikament/Übergruppe
+tags: [m/m20, f/💤, f/💊/Medikament/Übergruppe]
+title: Analgetika
 ---
 - **[[Nicht-Opioid-Analgetika]]** ([[WHO-Stufenschema]] Stufe I)
 	- **[[NSAR]]** (z.B. [[Ibuprofen]], [[Diclofenac]], [[Coxibe]], [[ASS]])

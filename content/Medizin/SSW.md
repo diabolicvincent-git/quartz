@@ -1,6 +1,7 @@
 ---
 aliases: Schwangerschaftswoche
-tags: m/m05, m/m22, f/🦩, a/Intervention
+tags: [m/m05, m/m22, f/🦩, a/Intervention]
+title: SSW
 ---
 ### Schwangerschaftswoche / SSW
 - **[[Schwangerschaft]]sdauer**

@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🧠
+tags: [a/Pathologie, f/🧠]
+title: Pupillenstarre
 ---
 > (Abstract::**Fehlen des [[Pupillenreflex]].** Meist einseitig.)
 - **Ätiologie**:: Schädigung [[Parasympathikus]]-[[Efferenzen]] ([[N. oculomotorius (III)]])

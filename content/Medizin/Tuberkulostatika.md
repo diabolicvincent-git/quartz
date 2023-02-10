@@ -1,6 +1,7 @@
 ---
 aliases: Isoniazid, Ethambutol, Pyrazinamid
-tags: m/m18, f/🦠, f/💊/Medikament
+tags: [m/m18, f/🦠, f/💊/Medikament]
+title: Tuberkulostatika
 ---
 ### Tuberkulostatika
 > **[[Tbc]]-Therapie**:: Pyrazinamid + Ethambutol (2 Mo.) + Isoniazid + [[Rifampicin]] (6 Mo.)

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, f/💊/Medikament
+tags: [m/m30, f/🧠, f/💊/Medikament]
+title: Triptane
 ---
 ### Triptane
 - **Indikation**:: Schwere [[Migräne]]

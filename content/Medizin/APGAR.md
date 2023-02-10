@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, f/🦄, a/Intervention, a/Intervention
+tags: [m/m00, f/🦄, a/Intervention, a/Intervention]
+title: APGAR
 ---
 > (Abstract::Beurteilung Neugeborene)
 

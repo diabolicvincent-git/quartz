@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/⚙️, f/🫁, f/⚙️
+tags: [m/m13, f/⚙️, f/🫁, f/⚙️]
+title: Ventilation
 ---
 > (Abstract::Verteilung der Atemluft in den Alveolen)
 - **Ventilationsbereiche**

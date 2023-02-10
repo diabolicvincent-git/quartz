@@ -1,6 +1,7 @@
 ---
 aliases: Bandscheibenvorfall, Diskusprolaps
-tags: m/m27, f/🦴, f/🧠
+tags: [m/m27, f/🦴, f/🧠]
+title: Bandscheibenprolaps
 ---
 ### Bandscheibenprolaps / -vorfall
 - **Epidemiologie**

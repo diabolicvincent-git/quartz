@@ -1,7 +1,8 @@
 ---
 aliases: Hirn
-tags: m/m15
+tags: [m/m15]
 kleiner: "[[Rhombencephalon]], [[Mesencephalon]], [[Prosencephalon]]"
+title: Gehirn
 ---
 - **Funktion**:: Integration und Regulation aller Organfunktionen, Bewegungen und Verhaltensweisen
 

@@ -1,4 +1,5 @@
 ---
+title: Notfallmedizin
 ---
 - [[Synkope]]
 	- [[Kardiale Synkope]]

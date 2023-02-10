@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. deltoideus
 ---
 ### M. deltoideus
 - Ursprung:: [[Clavicula]], [[Acromion]], [[Spina scapulae]]

@@ -1,6 +1,7 @@
 ---
 aliases: Ventrikel I + II, Ventrikel I, Ventrikel II
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Seitenventrikel
 ---
 ### Seitenventrikel
 > Auch: *[[Ventrikelsystem]] I & II*

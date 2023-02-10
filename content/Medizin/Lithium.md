@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💊/Medikament, f/💭
+tags: [m/m20, f/💊/Medikament, f/💭]
+title: Lithium
 ---
 ### Lithium
 - **Indikation**:: [[Bipolare Störung]], [[Manie]], therapierefraktäre [[Depression]], ==[[Suizidalität]]==

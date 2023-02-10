@@ -1,6 +1,7 @@
 ---
 aliases: Direkte orale Antikoagulantien, Neue orale Antikoagulantien, NOAK, Dabigatran, Apixaban, Rivaroxaban, Edoxaban
-tags: m/m17, f/🩸, f/💊/Medikament
+tags: [m/m17, f/🩸, f/💊/Medikament]
+title: DOAK
 ---
 ### Direkte orale Antikoagulantien / DOAK
 - **Wirkmechanismus**

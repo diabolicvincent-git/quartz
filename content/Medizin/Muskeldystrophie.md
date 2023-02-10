@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, f/🦄, a/Pathologie
+tags: [m/m30, f/🧠, f/🦄, a/Pathologie]
+title: Muskeldystrophie
 ---
 ### Muskeldystrophie
 - **Epidemiologie**:: ==fast ausschließlich [[♂]]==, [[Muskeldystrophie Duchenne]] 3-5 J. / Becker 6-20 J.

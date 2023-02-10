@@ -1,6 +1,7 @@
 ---
 aliases: Basallamina
-tags: m/m05, f/🔬
+tags: [m/m05, f/🔬]
+title: Basalmembran
 ---
 ## Funktion
 

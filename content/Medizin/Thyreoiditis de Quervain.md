@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🗞️ 
+tags: [a/Pathologie, f/🗞️]
+title: Thyreoiditis de Quervain
 ---
 > (Abstract::**Subakute Entzündung der [[Schilddrüse]].** Unklare Ätiologie, oft nach viralem Atemwegsinfekt bei jungen Frauen. AZ↓, [[Fieber]], Druckdolenz. Therapie: [[NSAR]], ggf. [[Glucocorticoide]].)
 - **Epidemiologie**:: v.a. junge Frauen

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, a/Pathologie
+tags: [m/m18, f/🦠, a/Pathologie]
+title: Wundinfektion
 ---
 ### Wundinfektion
 - **Pathophysiologie**:: [[Staphylokokken]] (50%)

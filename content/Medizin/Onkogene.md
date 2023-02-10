@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19
+tags: [m/m19]
+title: Onkogene
 ---
 ### (Proto-)Onkogene
 > Fördern physiologische Zellteilung, [[Tumorentstehung]]

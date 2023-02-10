@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/🩸, a/Pathologie
+tags: [m/m21, f/🩸, a/Pathologie]
+title: Transfusionsreaktion
 ---
 ### Transfusionsreaktion
 > [[UAW]] einer [[Transfusion]]

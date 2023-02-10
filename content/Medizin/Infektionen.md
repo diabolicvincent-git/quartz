@@ -1,6 +1,7 @@
 ---
 aliases: Infektion, infektiös
-tags: m/m18, f/🦠
+tags: [m/m18, f/🦠]
+title: Infektionen
 ---
 ### Infektion
 > Eindringen & Vermehren pathogener Erreger in Wirtsorganismus → [[Entzündung]], Immunreaktion

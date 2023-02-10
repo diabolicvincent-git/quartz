@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [f/🫁, a/Pathologie, m/m13]
+title: Asthma
 ---
 - **Pathophysiologie**:: Bronchospasmus + [[Ödeme]] + Remodeling + Mucus↑ → Atemfluss↓
 - **Entitäten**

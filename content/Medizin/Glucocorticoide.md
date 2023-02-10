@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04 m/m09 m/m13 m/m16 f/💊/Medikament m/m22, f/🗞️
+tags: [m/m04 m/m09 m/m13 m/m16 f/💊/Medikament m/m22, f/🗞️]
+title: UAW der Glucocorticoide
 ---
 ### Glucocorticoide
 > Entspricht endogenem ==[[Cortisol]]== ([[Corticosteroide]]) aus der [[NNR]]

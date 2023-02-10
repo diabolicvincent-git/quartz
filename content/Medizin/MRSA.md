@@ -1,6 +1,7 @@
 ---
 aliases: null
 tags: [m/m18, m/m24, f/🦠, f/🦠/Erreger/Bakterien]
+title: MRSA
 ---
 ### Methicillin-resistenter [[Staph. aureus]] / MRSA
 >25% der [[Staph. aureus]]-[[Infektionen]]

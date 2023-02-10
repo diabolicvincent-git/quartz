@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💭
+tags: [m/m20, f/💭]
+title: Somatisierung
 ---
 ### Somatisierung
 > Persistierende Symptome + *keine* suffiziente biomed. Erklärung

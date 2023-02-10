@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💊/Medikament, f/💤
+tags: [m/m20, f/💊/Medikament, f/💤]
+title: Lokalanästhetika
 ---
 ### Lokalanästhetika
 - **Wirkung**:: [[Vasodilatation]][^1] > [[Schmerz]]↓ > Temperatur > Druck > Motorik[^2]

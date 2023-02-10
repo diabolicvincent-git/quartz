@@ -1,6 +1,7 @@
 ---
 aliases: Leberzellkarzinom, Hepatozelluläres Ca, Leber-Ca
-tags: m/m19, a/Pathologie, a/Pathologie, f/💩, f/🦀
+tags: [m/m19, a/Pathologie, a/Pathologie, f/💩, f/🦀]
+title: HCC
 ---
 ### Hepatozelluläres Ca / HCC
 - **Ätiologie**:: Auf [[Leberzirrhose]] (80%) oder chronische [[Hepatitis]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/🩺
+tags: [m/m26, f/🩺]
+title: Ärzte im Nationalsozialismus
 ---
 ### Jüdische Ärzte
 - Deutsches Reich, 1933

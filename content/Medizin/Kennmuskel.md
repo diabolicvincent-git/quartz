@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10
+tags: [m/m10]
+title: Kennmuskel
 ---
 ### Kennmuskel
 > *Motorisch* innervierter Muskel, der sich genau einem [[Spinalnerven]]-Segment zuordnen lässt

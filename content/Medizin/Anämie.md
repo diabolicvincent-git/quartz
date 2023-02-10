@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m17, a/Pathologie, f/🩸, a/Pathologie
+tags: [m/m08, m/m17, a/Pathologie, f/🩸, a/Pathologie]
+title: Anämie
 ---
 (Abstract::Verminderung von [[Hb]], [[Erythrocyten]]-Zahl und/oder [[Hkt]])
 - **Einteilung**

@@ -1,6 +1,7 @@
 ---
 aliases: Furosemid, Torasemid
-tags: m/m14, f/🍺, f/🫀, f/💊/Medikament
+tags: [m/m14, f/🍺, f/🫀, f/💊/Medikament]
+title: Schleifendiuretika
 ---
 ### Schleifendiuretika
 - **Indikation**

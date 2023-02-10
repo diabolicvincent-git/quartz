@@ -1,6 +1,7 @@
 ---
 aliases: Vergiftung
-tags: m/m00, m/m13
+tags: [m/m00, m/m13]
+title: Intoxikation
 ---
 ### Intoxikation / Vergiftung
 

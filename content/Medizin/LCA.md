@@ -1,6 +1,7 @@
 ---
 aliases: A. coronaria sinistra
-tags: m/m11, f/🫀, f/💀
+tags: [m/m11, f/🫀, f/💀]
+title: LCA
 ---
 ### A. coronaria sinistra / LCA
 - **Versorgungsgebiete** ([[Normalversorgungstyp]])

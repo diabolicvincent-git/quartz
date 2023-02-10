@@ -1,6 +1,7 @@
 ---
 aliases: Gliazelle, Gliascheide
-tags: m/m05, m/m15
+tags: [m/m05, m/m15]
+title: Gliazellen
 ---
 ### Gliazellen / Supportzellen
 > Grundgerüst und [[Stoffwechsel]] für [[Neuron]]

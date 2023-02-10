@@ -1,6 +1,7 @@
 ---
 aliases: Melanocyten-stimulierendes Hormon
-tags: m/m09, f/🧪, f/🧴, f/🗞️
+tags: [m/m09, f/🧪, f/🧴, f/🗞️]
+title: MSH
 ---
 ### Melanocyten-stimulierendes [[Hormon]] / MSH
 - **Produktion**

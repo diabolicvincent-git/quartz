@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13
+tags: [m/m13]
+title: Resistance
 ---
 - **Resistance**:: Benötigter Druck, um bestimmtes Volumen zu inspirieren
 	- $Resistance = \frac{intrapulmonale Druckdifferenz}{Volumenstromstärke}$

@@ -1,6 +1,7 @@
 ---
 aliases: Niedermolekulares Heparin
-tags: m/m08, m/m17, f/🩸, f/💊/Medikament
+tags: [m/m08, m/m17, f/🩸, f/💊/Medikament]
+title: NMH
 ---
 ### Niedermolekulares [[Heparin]] / NMH
 - **Wirkmechanismus**:: Wirksteigerung von Antithrombin nur bei der Hemmung von *Faktor Xa*

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/🍄, f/💭
+tags: [m/m20, f/🍄, f/💭]
+title: Kokain
 ---
 ### Kokain
 > Indirektes Sympathomimetika

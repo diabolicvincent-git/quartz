@@ -1,6 +1,7 @@
 ---
 aliases: Cerebelläre Störungen, Cerebelläre Ataxie
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Neurophysiologie
 ---
 ### Symptome
 - **==Cerebelläre [[Ataxie]]==**

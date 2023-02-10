@@ -1,6 +1,7 @@
 ---
 aliases: Crus dextrum et sinistrum
-tags: m/m11
+tags: [m/m11]
+title: Tawara-Schenkel
 ---
 ### Tawara-Schenkel
 - **Lokalisation**:: Aufteilung des [[His-Bündel]]s

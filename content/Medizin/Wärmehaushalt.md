@@ -1,7 +1,8 @@
 ---
 aliases: Regulation des Wärmehaushalts, Thermoregulation, Thermogenese,
   Temperaturregulation
-tags: m/m09, ToDo, f/🧴, f/⚙️
+tags: [m/m09, ToDo, f/🧴, f/⚙️]
+title: Wärmehaushalt
 ---
 
 - **Körperkerntemperatur**:: ca. 36,5 °C

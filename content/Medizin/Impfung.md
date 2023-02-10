@@ -1,5 +1,6 @@
 ---
-tags: m/m08, m/m18, f/🦠, f/🦄, a/Intervention
+tags: [m/m08, m/m18, f/🦠, f/🦄, a/Intervention]
+title: die einer Impfung zugrunde liegenden Mechanismen erläutern
 ---
 - **Formen der Impfung**
 	- [[Aktivimpfung]]

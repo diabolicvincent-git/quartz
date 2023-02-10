@@ -1,5 +1,6 @@
 ---
-tags: m/m20, f/💤/Opioide
+tags: [m/m20, f/💤/Opioide]
+title: Morphin
 ---
 - **Potenz**:: 1 (Leitsubstanz)
 - **Praktische Anwendung**

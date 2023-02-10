@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/🫀, f/🦄, a/Pathologie
+tags: [m/m25, f/🫀, f/🦄, a/Pathologie]
+title: Ebstein-Anomalie
 ---
 ### Ebstein-Anomalie
 > **[[Herzfehler]]**:: Vergrößerte [[Tricuspidalklappe]], ragt ins Ventrikel-Lumen hinein

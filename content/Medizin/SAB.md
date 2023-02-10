@@ -1,6 +1,7 @@
 ---
 aliases: Subarachnoidalblutung
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: SAB
 ---
 ### Subarachnoidalblutung / SAB
 > *Aneurysmaruptur* der Hirnbasisarterien mit Einblutung in den liquorgefüllten [[Subarachnoidalraum]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m13
+tags: [m/m13]
+title: Bronchialatmen
 ---
 ### Bronchialatmen
 - Bei Kindern physiologisch über allen Lungenarealen!

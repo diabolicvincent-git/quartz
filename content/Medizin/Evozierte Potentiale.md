@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, m/m15
+tags: [m/m10, m/m15]
+title: Evozierte Potentiale
 ---
 ### Evozierte Potenziale
 - **Visuell (VEP)**

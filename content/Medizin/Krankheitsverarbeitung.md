@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/⚙️, f/💭
+tags: [m/m19, f/⚙️, f/💭]
+title: Krankheitsverarbeitung
 ---
 ### Krankheitsverarbeitung
 - **Phasen** n. Cullberg

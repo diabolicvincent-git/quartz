@@ -1,6 +1,7 @@
 ---
 aliases: Vordere Schädelgrube
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Fossa cranii anterior
 ---
 ## Fossa cranii anterior
 > Vordere [[Schädelgrube]]

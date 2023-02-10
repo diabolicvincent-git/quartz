@@ -1,6 +1,7 @@
 ---
 aliases: Multiorganversagen
-tags: m/m21, f/💤, a/Pathologie
+tags: [m/m21, f/💤, a/Pathologie]
+title: MOV
 ---
 ### Multiorganversagen / MOV
 - **Ätiologie**

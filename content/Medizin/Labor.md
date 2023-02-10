@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, f/🥼
+tags: [m/m00, f/🥼]
+title: Labor
 ---
 ### Laborwerte
 ## Allgemein

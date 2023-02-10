@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. pectoralis minor
 ---
 ### M. pectoralis minor
 - Ursprung:: [[Rippen]] 3-5

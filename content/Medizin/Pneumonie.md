@@ -1,6 +1,7 @@
 ---
 aliases: Lungenentzündung
-tags: m/m18, a/Pathologie
+tags: [m/m18, a/Pathologie]
+title: Pneumonie
 ---
 ### Pneumonie / Lungenentzündung
 - **Epidemiologie**:: v.a. Kinder und Senioren

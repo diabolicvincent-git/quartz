@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, m/m19
+tags: [m/m09, m/m19]
+title: Liposarkom
 ---
 ### Liposarkom
 > Maligner [[Tumor]] des [[Fettgewebe]]

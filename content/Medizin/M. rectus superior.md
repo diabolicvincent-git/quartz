@@ -1,4 +1,5 @@
 ---
+title: M. rectus superior
 ---
 *   Anulus tendineus
 *   Oben (mittig) am [[Bulbus oculi]] (vor dem Äquator)

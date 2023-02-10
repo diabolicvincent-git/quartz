@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10
+tags: [m/m10]
+title: Schulter
 ---
 ## [[Knochen]]
 ### Tastbare Knochenpunkte

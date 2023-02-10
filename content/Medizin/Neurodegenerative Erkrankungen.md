@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15
+tags: [m/m15]
+title: Neurodegenerative Erkrankungen
 ---
 ### Neurodegenerative Erkrankungen 
 > Nervengewebe ist, anders als sonstiges Gewebe, *nicht regenerierbar*

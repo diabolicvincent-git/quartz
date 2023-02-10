@@ -1,6 +1,7 @@
 ---
 aliases: PKU
-tags: m/m02, m/m17, f/🧬, a/Pathologie
+tags: [m/m02, m/m17, f/🧬, a/Pathologie]
+title: Phenylketonurie
 ---
 ### Phenylketonurie / PKU 
 - **Epidemiologie**:: Häufigster angeborener [[AS]]-[[Stoffwechseldefekte]]

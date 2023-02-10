@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁
+tags: [m/m13, f/🫁]
+title: Compliance
 ---
 ### Compliance
 > Passive Dehnbarkeit der [[Lunge]] (↓ bei *restriktiven* [[Ventilationsstörungen]])

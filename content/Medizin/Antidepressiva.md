@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💭, f/💊/Medikament/Übergruppe
+tags: [m/m20, f/💭, f/💊/Medikament/Übergruppe]
+title: Antidepressiva
 ---
 - **Wirkung**
 	1. Immer *Affektaufhellung* (erst nach 1-2 Wochen → ==initial Suizidgefahr↑==[^1])

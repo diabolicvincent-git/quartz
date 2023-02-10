@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/💀, f/🧠
+tags: [m/m15, f/💀, f/🧠]
+title: Schädelnähte
 ---
 Insg. ≈33 bandhafte unechte [[Gelenke]] (*Syndesmose*), davon 4 Haupt-Suturen:
 ## Sutura frontalis

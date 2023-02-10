@@ -1,6 +1,7 @@
 ---
 aliases: NHL
-tags: m/m19, f/🦀, f/🩸
+tags: [m/m19, f/🦀, f/🩸]
+title: Non-Hodgkin-Lymphom
 ---
 ### Non-Hodgkin-Lymphom
 - **Risikofaktoren**

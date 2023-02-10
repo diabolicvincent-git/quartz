@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/🗞️
+tags: [m/m14, f/🍺, f/🗞️]
+title: Pathophysiologie
 ---
 - 75% der Pat. mit [[Diabetes mellitus]] entwickeln im Verlaufe eine [[CKD]]
 

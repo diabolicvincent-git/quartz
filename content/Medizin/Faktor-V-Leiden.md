@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17
+tags: [m/m17]
+title: Faktor-V-Leiden
 ---
 ### Faktor-V-Leiden / APC-Resistenz
 > Resistenz des Faktor V gegen Proteolyse durch aktiviertes Protein C

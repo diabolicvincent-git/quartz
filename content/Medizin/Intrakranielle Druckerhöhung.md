@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🧠, f/⛑️, f/💤
+tags: [a/Pathologie, f/🧠, f/⛑️, f/💤]
+title: Intrakranielle Druckerhöhung
 ---
 > (Abstract::**[[ICP]]↑.**)
 - **Ätiologie**:: [[Abszess]], [[Intrakranielle Blutung]], [[Hirntumor]], [[Hydrocephalus]], ==[[Hirnödem]]==

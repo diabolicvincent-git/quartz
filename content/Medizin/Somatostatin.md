@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, m/m12, f/🗞️, f/🧪/Molekül/Hormon
+tags: [m/m22, m/m12, f/🗞️, f/🧪/Molekül/Hormon]
+title: Somatostatin
 ---
 > (Abstract::Gegenspieler vieler [[Hormon]]e, insb. [[GH]])
 - **Synthese**

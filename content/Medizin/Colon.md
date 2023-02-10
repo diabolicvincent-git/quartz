@@ -1,6 +1,7 @@
 ---
 aliases: Caecum
-tags: m/m12, f/💩, f/💀
+tags: [m/m12, f/💩, f/💀]
+title: Colon
 ---
 ## Funktion
 - Wasserresorption → Eindickung des Speisebreis

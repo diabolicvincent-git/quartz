@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, f/🕶️, a/Intervention, a/Intervention
+tags: [m/m19, f/🦀, f/🕶️, a/Intervention, a/Intervention]
+title: Theranostik
 ---
 ### Theranostik
 > Verknüpfung von Diagnostik und Therapie i.d. [[Nuklearmedizin]]

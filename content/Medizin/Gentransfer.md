@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, m/m18, f/🧬
+tags: [m/m03, m/m18, f/🧬]
+title: Gentransfer
 ---
 ### Gentransfer
 - **Verikaler Gentransfer**

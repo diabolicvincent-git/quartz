@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, a/Pathologie
+tags: [m/m17, a/Pathologie]
+title: Rheumatoide Arthritis
 ---
 ### Rheumatoide Arthritis / RA
 > Chronisch-entzündliche, degenerative [[Autoimmunität]] unklarer Genese

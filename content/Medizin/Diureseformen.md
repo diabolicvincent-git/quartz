@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m14, f/🍺
+tags: [m/m14, f/🍺]
+title: Diureseformen
 ---
 ## Antidiurese
 > "Physiologischer Normalzustand" unter [[ADH]]-Einfluss

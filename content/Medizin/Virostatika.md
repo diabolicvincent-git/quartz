@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, f/💊/Medikament
+tags: [m/m18, f/🦠, f/💊/Medikament]
+title: Virostatika
 ---
 ### Virostatika
 - **Herpes, Varizella-Zoster**

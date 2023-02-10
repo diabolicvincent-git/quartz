@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Bifaszikulärer Block
 ---
 ### Bifaszikulärer Block
 > [[Schenkelblock]] in 2 der 3 [[Tawara-Schenkel]][^1]

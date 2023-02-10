@@ -1,6 +1,7 @@
 ---
 aliases: Augenkammern, Glaskörper
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Augenkammer
 ---
 ### Augenkammer / Glaskörper
 - **Hintere Augenkammer**:: Aufnahme von [[Kammerwasser]] aus [[Ciliarkörper]]

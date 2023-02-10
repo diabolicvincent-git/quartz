@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, ToDo, f/🍺, f/💊/Medikament
+tags: [m/m14, ToDo, f/🍺, f/💊/Medikament]
+title: Pharmakokinetik der Niere
 ---
 ## die wesentlichen Vorgänge mit Einfluss auf die Pharmakokinetik von Arzneimitteln sowie die klinisch relevanten Kenngrößen der Plasmakonzentrationszeitkurve erklären
 

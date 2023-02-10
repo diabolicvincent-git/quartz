@@ -1,6 +1,7 @@
 ---
 aliases: Platelet Function Analyzer
-tags: m/m17, f/🩸, a/Intervention
+tags: [m/m17, f/🩸, a/Intervention]
+title: PFA
 ---
 ### Platelet Function Analyzer / PFA 
 - **Interpretation**

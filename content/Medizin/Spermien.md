@@ -1,6 +1,7 @@
 ---
 aliases: Spermium, Spermatozoon
-tags: m/m22, f/🍆, f/🧬, f/⚙️, f/🔬/Zelle
+tags: [m/m22, f/🍆, f/🧬, f/⚙️, f/🔬/Zelle]
+title: Spermien
 ---
 > [[Spermatogenese]]
 - **Aufbau**

@@ -1,4 +1,5 @@
 ---
+title: Halsmuskulatur
 ---
 - **Oberflächliche Halsmuskulatur:** Innervation durch [[Hirnnerven]]
 	- [[M. sternocleidomastoideus]]

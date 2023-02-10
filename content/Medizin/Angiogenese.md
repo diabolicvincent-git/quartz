@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/💀, f/🔬, f/⚙️
+tags: [m/m05, f/💀, f/🔬, f/⚙️]
+title: Angiogenese
 ---
 (Abstract::Entstehung neuer [[Gefäße]] aus ==*vorbestehenden [[Gefäße]]n*== durch Endothelproliferation/-migration)
 - **Vorkommen**

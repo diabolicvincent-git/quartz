@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, f/🩺, a/Intervention
+tags: [m/m21, f/🩺, a/Intervention]
+title: VINDICATE
 ---
 ### VINDICATE
 > [[DD]] Schema nach Ätiologie

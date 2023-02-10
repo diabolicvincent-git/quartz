@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, m/m13, f/🫁, f/🦠, f/🦀
+tags: [m/m19, m/m13, f/🫁, f/🦠, f/🦀]
+title: Husten
 ---
 ### Husten
 - **Malignität**:: Abklärung *"Maligner Husten"* v.a. [[Lungen-Ca]] bei

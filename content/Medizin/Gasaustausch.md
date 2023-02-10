@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/⚙️
+tags: [m/m13, f/🫁, f/⚙️]
+title: Gasaustausch
 ---
 ### Gasaustausch 
 > Diffusion der Atemgase durch die *[[Blut-Luft-Schranke]]* und An-/Abtransport mit dem [[Blut]]

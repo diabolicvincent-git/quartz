@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Pathologie
+tags: [m/m30, f/🧠, a/Pathologie]
+title: Sinusvenenthrombose
 ---
 ### Sinusvenenthrombose
 > Im Effekt wie ein [[Stroke]] durch Blutrückstau

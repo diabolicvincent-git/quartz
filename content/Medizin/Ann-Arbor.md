@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, a/Intervention
+tags: [m/m19, f/🦀, a/Intervention]
+title: Ann-Arbor
 ---
 (Abstract::**[[Staging]]** von [[Lymphom]]en, insb. [[Hodgkin-Lymphom]])
 - **I°**:: Lokal, eine [[Lymphknoten]]-Region

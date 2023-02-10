@@ -1,6 +1,7 @@
 ---
 aliases: Gangstörung
-tags: m/m10, m/m15, f/🦴, f/🧠
+tags: [m/m10, m/m15, f/🦴, f/🧠]
+title: Beschreibung von Gangstörungen
 ---
 # Beschreibung von Gangstörungen
 

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🕶️
+tags: [m/m19, f/🕶️]
+title: β-Strahlung
 ---
 ### β-Strahlung
 > Emission eines Elektrons/Positrons: $e^{–}/e^{+}$, Umwandlung eines Nucleons

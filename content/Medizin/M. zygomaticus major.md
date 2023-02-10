@@ -1,4 +1,5 @@
 ---
+title: M. zygomaticus major
 ---
 ##### M. zygomaticus major
 *   [[Os cygomaticum]], Facies lateralis

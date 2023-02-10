@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/💩, f/⚙️
+tags: [m/m12, f/💩, f/⚙️]
+title: Verdauung
 ---
 ### Verdauung
 > Siehe auch [[Weg der Nahrung]], [[Malabsorption]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. levator scapulae
 ---
 ### M. levator scapulae
 - Ursprung:: [[HWK]] 1-4

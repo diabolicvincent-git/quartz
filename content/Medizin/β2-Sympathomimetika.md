@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/💊/Medikament
+tags: [m/m13, f/🫁, f/💊/Medikament]
+title: β2-Sympathomimetika
 ---
 ### β2-Sympathomimetika
 - **Wirkung**:: Bronchospasmolyse, Mukociliäre Clearance↑, Mastzellen-Mediatoren↓ 

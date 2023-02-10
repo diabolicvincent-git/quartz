@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/🦠, f/⚙️, ToDo
+tags: [m/m13, f/🫁, f/🦠, f/⚙️, ToDo]
+title: Störungen der Abwehrmechanismen
 ---
 ![[Immunologische Abwehrstrategien]]
 

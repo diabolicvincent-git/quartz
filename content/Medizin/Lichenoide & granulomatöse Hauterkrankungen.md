@@ -1,4 +1,5 @@
 ---
+title: die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
 ---
 # die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
 

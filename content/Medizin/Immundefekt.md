@@ -1,6 +1,7 @@
 ---
 aliases: Immundefizienz
-tags: m/m17
+tags: [m/m17]
+title: Immundefekt
 ---
 ### Immundefekte
 - **Epidemiologie**:: Einzeln [[Seltene Erkrankungen]], in Kombination 1:1.000

@@ -2,7 +2,8 @@
 aliases:
   - Linse
   - Lens
-tags: m/m16, f/👁️, f/💀
+tags: [m/m16, f/👁️, f/💀]
+title: Augenlinse
 ---
 ### Augenlinse
 - **Funktion**:: Lichtbrechung (Sammellinse), [[Akkommodation]]

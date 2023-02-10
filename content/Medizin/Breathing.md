@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, f/💤
+tags: [m/m21, f/💤]
+title: Breathing
 ---
 ### Breathing ([[ABCDE]])
 - **Diagnostik**

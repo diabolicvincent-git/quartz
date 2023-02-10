@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Metaanalyse
 ---
 > (Abstract::**"Studie aus Studien".** Zuverlässigste Informationsquelle.)
 - **Beschreibung**:: Systematische Sichtung, Bewertung und quantitative Analyse von Studien zum Thema

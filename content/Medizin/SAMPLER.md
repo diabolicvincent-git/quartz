@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, f/💤, a/Intervention
+tags: [m/m00, f/💤, a/Intervention]
+title: SAMPLER
 ---
 ### SAMPLER
 > Notfall-[[Anamnese]]

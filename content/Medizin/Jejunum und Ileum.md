@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩, f/💀
+tags: [m/m12, f/💩, f/💀]
+title: Jejunum und Ileum
 ---
 ### Jejunum und Ileum
 - **Funktion**:: Resorption, Aufspaltung, Durchmischung der Nahrung

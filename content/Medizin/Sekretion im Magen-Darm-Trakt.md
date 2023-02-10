@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩, f/⚙️
+tags: [m/m12, f/💩, f/⚙️]
+title: Sekretion im Magen-Darm-Trakt
 ---
 - **Mundhöhle**:: Exokrine [[Sekretion]]
     - Glandula submandibularis 70%, Glandula parotis 25%, Glandula sublingualis 5% des Speichels

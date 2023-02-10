@@ -1,6 +1,7 @@
 ---
 aliases: Nervenfaser, Axone, Nervenfasern
-tags: m/m05, f/🧠, f/💀
+tags: [m/m05, f/🧠, f/💀]
+title: Axon
 ---
 > Nervenfaser = [[Axon]] eines [[Neuron]] + [[Gliazellen]]
 - **Myelinscheide**:: Mehrere Schichten [[Gliazellen]] mit Einschnürungen (*Ranvier-Schnürringe*) → *Saltatorische Erregungsleitung*

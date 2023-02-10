@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m22, f/🦩, a/Pathologie
+tags: [m/m22, f/🦩, a/Pathologie]
+title: Ovarialtumor
 ---
 ### Ovarialtumor
 - **Epidemiologie**:: Lebenszeitprävalenz 1-2%

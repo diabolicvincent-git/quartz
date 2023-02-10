@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, f/🗞️, f/⚙️
+tags: [m/m04, f/🗞️, f/⚙️]
+title: Schilddrüsenhormone
 ---
 ### Schilddrüsenhormone [[T3]]/T4 
 > **[[T3]]**:: Wirksamste Form (HWZ 1 d)<br>

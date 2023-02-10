@@ -1,6 +1,7 @@
 ---
 aliases: Lactatdehydrogenase, Lactat-Dehydrogenase
-tags: m/m02, f/🧪, f/🥼
+tags: [m/m02, f/🧪, f/🥼]
+title: LDH
 ---
 ### Lactatdehydrogenase / LDH
 > Ubiquitäre **[[Enzyme]]**:: ==[[Lactat]] ↔ Pyruvat== (reversibel)

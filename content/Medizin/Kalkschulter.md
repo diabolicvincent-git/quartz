@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴, a/Pathologie
+tags: [m/m10, f/🦴, a/Pathologie]
+title: Kalkschulter
 ---
 ### Kalkschulter / Tendinosis calcarea
 > Kalkeinlagerung in der Ansatzsehne des [[M. supraspinatus]] der [[Schulter]]

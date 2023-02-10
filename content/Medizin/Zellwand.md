@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m18, m/m24, f/🦠, f/🧪, f/🧪/Zellorganell
+tags: [m/m18, m/m24, f/🦠, f/🧪, f/🧪/Zellorganell]
+title: Zellwand
 ---
 ### Bakterielle Zellwand
 > Die meisten [[Bakterien]] besitzen Zellwand (Ausnahme z.B. Mycoplasmen)

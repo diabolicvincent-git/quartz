@@ -1,6 +1,7 @@
 ---
 aliases: Herzbeutel
-tags: m/m11
+tags: [m/m11]
+title: Perikard
 ---
 ### Perikard 
 > Feuchtigkeitsfilm (sezerniert vom [[Epikard]]) ermöglicht reibungsarme [[Herz]]bewegung in der serösen Höhle

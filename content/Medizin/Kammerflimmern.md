@@ -1,6 +1,7 @@
 ---
 aliases: VF
-tags: m/m11, m/m21, f/🫀, f/💤
+tags: [m/m11, m/m21, f/🫀, f/💤]
+title: Kammerflimmern
 ---
 ### Kammerflimmern / VF
 > [[Tachykardie]]-[[HRST]], stärkste Ausprägung der [[Ventrikuläre Tachykardie]]

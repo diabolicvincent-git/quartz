@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/⚙️
+tags: [m/m14, f/🍺, f/⚙️]
+title: Tubulärer Transport
 ---
 ### Tubulärer Transport 
 - **[[Proximales Nephron]]**:: *Massenrückresorption*

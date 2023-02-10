@@ -1,6 +1,7 @@
 ---
 aliases: Neurotransmitter
-tags: m/m15, m/m20, f/🧪, f/⚙️, f/🧠, f/🧪/Molekül/Transmitter
+tags: [m/m15, m/m20, f/🧪, f/⚙️, f/🧠, f/🧪/Molekül/Transmitter]
+title: Transmitter
 ---
 ### Neurotransmitter 
 - **PNS**

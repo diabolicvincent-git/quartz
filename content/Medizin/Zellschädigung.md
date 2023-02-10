@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, m/m17, f/🧪, f/⚰️
+tags: [m/m03, m/m17, f/🧪, f/⚰️]
+title: Zellschädigung
 ---
 ### Zellschädigung 
 > Noxe → [[Zellschädigung]] → Gewebeschädigung → Funktionsstörung → Symptom

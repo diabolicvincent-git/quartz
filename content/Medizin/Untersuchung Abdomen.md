@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, m/m12, f/💩, f/💩, a/Intervention
+tags: [m/m00, m/m12, f/💩, f/💩, a/Intervention]
+title: Untersuchung Abdomen
 ---
 ### [[Untersuchung]] Abdomen
 - **Inspektion**

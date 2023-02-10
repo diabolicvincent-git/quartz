@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/🫀
+tags: [m/m14, f/🍺, f/🫀]
+title: Ätiologie der Hyperkaliämie
 ---
 ### Hyperkaliämie
 > **[[K+]]** >5,2 mmol/L

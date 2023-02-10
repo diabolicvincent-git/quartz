@@ -1,7 +1,8 @@
 ---
 aliases:
   - Windkessel
-tags: m/m11, f/🫀, f/⚙️
+tags: [m/m11, f/🫀, f/⚙️]
+title: Windkesselfunktion
 ---
 ### Windkesselfunktion
 > Temporäre Speicherung eines Teils der in der [[Systole]] vom [[Herz]] ausgeworfenen Energie in den elastischen Fasern herznaher [[Gefäße]] (diastolischer art. [[Blutdruck]] auf Höhe des diastolischen Ventrikeldrucks gehalten)

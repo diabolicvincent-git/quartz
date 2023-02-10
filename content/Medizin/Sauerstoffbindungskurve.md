@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08
+tags: [m/m08]
+title: Sauerstoffbindungskurve
 ---
 ### Sauerstoffbindungskurve
 > Abhängigkeit der [[O2]]-Sättigung vom [[O2]]-[[Partialdruck]] (= Bindungsaffinität des [[Hb]])

@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Bias
 ---
 > (Abstract::**Kognitive Verzerrungen.**)
 - [[Selection Bias]]

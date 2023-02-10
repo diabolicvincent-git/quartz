@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27, a/Intervention
+tags: [m/m27, a/Intervention]
+title: Fontaine
 ---
 ### Fontaine-Stadien der [[pAVK]]
 - **I°**:: Beschwerdefreiheit

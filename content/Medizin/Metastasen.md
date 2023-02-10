@@ -1,6 +1,7 @@
 ---
 aliases: Metastasierung
-tags: m/m19, f/🦀
+tags: [m/m19, f/🦀]
+title: Metastasen
 ---
 ### Metastasen
 > Tochter-Absiedlungen eines malignen Primär-[[Tumor]]s[^1]

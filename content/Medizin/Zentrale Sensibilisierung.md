@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/🧠, f/💤, f/⚙️
+tags: [m/m20, f/🧠, f/💤, f/⚙️]
+title: Zentrale Sensibilisierung
 ---
 ### Zentrale Sensibilisierung
 > Chronisches [[Schmerz]][[Gedächtnis]], Sekundäre [[Hyperalgesie]], [[Allodynie]]

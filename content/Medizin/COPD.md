@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Pathologie
+tags: [m/m13, f/🫁, a/Pathologie]
+title: COPD
 ---
 > (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Bronchitis]] + [[Lungenemphysem]].)
 - **Epidemiologie**:: 13%, [[♂]] > [[♀]], ca. 70% undiagnostiziert

@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [m/m31, f/💭, a/Pathologie]
+title: Anorexia nervosa
 ---
 - **Epidemiologie**:: [[♀]]>>[[♂]] 10:1, Häufigkeitsgipfel 13-16 J.
 - **Ätiologie**:: Genetische Konkordanz 50% bei eineiigen Zwilligen

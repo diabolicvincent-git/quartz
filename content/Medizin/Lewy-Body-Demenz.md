@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🧠/Demenz, m/m30
+tags: [a/Pathologie, f/🧠/Demenz, m/m30]
+title: Lewy-Body-Demenz
 ---
 > (Abstract::**[[Demenz]] mit ==[[Parkinson-Syndrom]]==.** [[EPMS]], kognitive Defizite, [[Wahn]]. Lewy-Körperchen in [[Substantia nigra]].)
 - **Symptome**:: ==[[EPMS]], Psychose, früh kognitive Defizite, [[Halluzinationen]], [[Wahn]]==

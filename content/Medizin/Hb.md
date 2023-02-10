@@ -1,6 +1,7 @@
 ---
 aliases: Hämoglobin
-tags: m/m02, m/m08, f/🩸
+tags: [m/m02, m/m08, f/🩸]
+title: Hb
 ---
 ### Hämoglobin / Hb
 > Hauptprotein der [[Erythrocyten]], essentiell für [[Gastransport]], farbgebend für [[Blut]]

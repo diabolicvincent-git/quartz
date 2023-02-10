@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, a/Intervention, a/Intervention, f/🫀
+tags: [m/m25, a/Intervention, a/Intervention, f/🫀]
+title: Linksherzkatheter
 ---
 ### Linksherzkatheter
 > **[[Herzkatheter]]** via [[Arterien]] (oft: A. radialis) ins linke [[Herz]]

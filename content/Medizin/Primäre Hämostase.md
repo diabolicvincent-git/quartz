@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🩸, f/⚙️
+tags: [m/m08, f/🩸, f/⚙️]
+title: Primäre Hämostase
 ---
 ### Primäre [[Hämostase]]
 1. **Vaskuläre Blutstillung**:: [[Vasokonstriktion]] → Durchblutung↓, Scherkräfte↑, Adhäsion↑ 

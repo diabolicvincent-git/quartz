@@ -1,5 +1,5 @@
 ---
-title: "A. carotis externa"
+title: A. carotis externa
 aliases: 
 tags: [f/💀/Leitungsbahn/Arterie, f/💀]
 ---

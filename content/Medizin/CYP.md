@@ -1,6 +1,7 @@
 ---
 aliases: Cytochrom-P450-System
-tags: m/m12, f/💩, f/🧪, f/💊/Medikament
+tags: [m/m12, f/💩, f/🧪, f/💊/Medikament]
+title: CYP
 ---
 > (Abstract::**Cytochrom-P450-System.** [[Häm]]-[[Enzyme]] zur [[Biotransformation]].)
 - **Ort**:: Ubiquitär, insb. hepatisches ER

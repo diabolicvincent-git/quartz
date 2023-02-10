@@ -1,6 +1,7 @@
 ---
 aliases: Rachitis
-tags: m/m05, m/m10, a/Pathologie, f/🦴
+tags: [m/m05, m/m10, a/Pathologie, f/🦴]
+title: Osteomalazie
 ---
 ### Osteomalazie / Rachitis
 > Gestörte [[Knochen]]-Mineralisation ([[Ca2+]]/[[Phosphat]]) bei Erwachsenen (= Osteomalazie) und Kindern (= Rachitis)

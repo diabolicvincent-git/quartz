@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/⚙️
+tags: [m/m10, f/⚙️]
+title: Energiehaushalt
 ---
 
 ![[Energieumsatz]]

@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie
+tags: [m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie]
+title: A. vertebralis
 ---
 - **Ursprung**:: [[A. subclavia]]
 - **Verlauf**

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, m/m05
+tags: [m/m17, m/m05]
+title: Knochenmark
 ---
 ### Knochenmark 
 > *Primär-lymphatisches Organ* in den Hohlräumen aller [[Knochen]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m13, f/🫀, f/🫁, f/⚙️
+tags: [m/m11, m/m13, f/🫀, f/🫁, f/⚙️]
+title: Chemorezeptoren
 ---
 - Steigern [[Sympathikus]]-Aktivität bei [[CO2]]-Anstieg, [[O2]]-Abfall oder [[pH]]-Abfall
 - [[Regulation der Atmung]] und [[Regulation des Kreislaufs]]

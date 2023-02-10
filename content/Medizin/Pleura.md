@@ -1,6 +1,7 @@
 ---
 aliases: Lungenfell
-tags: m/m13
+tags: [m/m13]
+title: Pleura
 ---
 ### Pleura / Lungenfell
 > Verschiebeschicht und Reserveraum für Atmung

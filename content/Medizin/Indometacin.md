@@ -1,5 +1,6 @@
 ---
-tags: f/💊/Medikament/PIM
+tags: [f/💊/Medikament/PIM]
+title: Indometacin
 ---
 - **Gruppe**:: [[NSAR]]
 - **Begründung**:: Risiko [[GI-Blutung]] insb. bei Älteren

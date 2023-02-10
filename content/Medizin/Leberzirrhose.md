@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, m/m17, f/💩
+tags: [m/m12, m/m17, f/💩]
+title: Leberzirrhose
 ---
 ### Leberzirrhose 
 - **Ätiologie**

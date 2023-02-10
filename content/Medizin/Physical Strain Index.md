@@ -1,6 +1,7 @@
 ---
 aliases: PSI
-tags: m/m25
+tags: [m/m25]
+title: Physical Strain Index
 ---
 ### Physical Strain Index / PSI
 - [[HF]] und Körpertemperatur zum Zeitpunkt t

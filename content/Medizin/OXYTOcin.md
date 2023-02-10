@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🧠, f/🦩
+tags: [m/m22, f/🧠, f/🦩]
+title: OXYTOcin
 ---
 - **Wirkung**
 	- *[[Glatte Muskulatur]]:* Kontraktion von [[Uterus]] (Wehen↑) und [[Mamma]]drüsen

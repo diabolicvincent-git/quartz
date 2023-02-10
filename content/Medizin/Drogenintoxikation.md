@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30
+tags: [m/m30]
+title: Drogenintoxikation
 ---
 ### Drogenintoxikation
 Substanz|[[Pupillenreflex]]|[[RR]]|[[HF]]|Weitere Symptome

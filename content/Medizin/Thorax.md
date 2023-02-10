@@ -1,4 +1,5 @@
 ---
+title: Thorax
 ---
 - **[[Körperregionen]]**
 	- Trigonum clavipectorale

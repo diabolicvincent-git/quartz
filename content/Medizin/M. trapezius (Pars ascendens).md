@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. trapezius (Pars ascendens)
 ---
 ### M. trapezius (Pars ascendens)
 - Ursprung:: [[BWK]] 4-12

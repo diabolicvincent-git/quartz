@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m21, f/🧠, a/Intervention, f/⚙️
+tags: [m/m15, m/m21, f/🧠, a/Intervention, f/⚙️]
+title: Hirnstammreflexe
 ---
 ### Hirnstammreflexe
 - **[[Vestibulookulärer Reflex]]**:: [[N. vestibulocochlearis (VIII)]] → [[N. oculomotorius (III)]]/[[N. abducens (VI)]]

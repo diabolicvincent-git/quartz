@@ -1,6 +1,7 @@
 ---
 aliases: HMV, Herzzeitvolumen, Herzminutenvolumen
-tags: m/m11, f/🫀, f/⚙️
+tags: [m/m11, f/🫀, f/⚙️]
+title: HZV
 ---
 ### Herzzeitvolumen / HZV
 > ==Schlagvolumen x [[HF]]==

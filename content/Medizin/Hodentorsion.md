@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🍆, a/Pathologie
+tags: [m/m22, f/🍆, a/Pathologie]
+title: Hodentorsion
 ---
 ### Hodentorsion
 > Akute Verdrehung von Hoden und [[Samenstrang]] im Skrotum → Minderdurchblutung → [[Nekrose]]

@@ -1,6 +1,7 @@
 ---
 aliases: Bauchspeicheldrüse
-tags: m/m12, f/💩, f/💀
+tags: [m/m12, f/💩, f/💀]
+title: Pankreas
 ---
 ### Pankreas / Bauchspeicheldrüse
 - **Funktion**

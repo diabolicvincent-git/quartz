@@ -1,5 +1,6 @@
 ---
-tags: f/🔪/Instrumente/Pinzette
+tags: [f/🔪/Instrumente/Pinzette]
+title: Pinzette nach Potts-Smith
 ---
 - **Form**:: Gerade
 - **Maulfläche**:: Chirurgisch, ohne Riefelung

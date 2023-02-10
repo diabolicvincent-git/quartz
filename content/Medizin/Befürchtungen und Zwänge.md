@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💭, a/Pathologie
+tags: [f/💭, a/Pathologie]
+title: Befürchtungen und Zwänge
 ---
 > (Abstract::Reihe von Störungen, denen ängstliche Einstellungen, Verhaltensweisen oder Befürchtungen zugrunde liegen.)
 - [[Zwangsgedanken]]

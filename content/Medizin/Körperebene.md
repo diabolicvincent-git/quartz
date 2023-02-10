@@ -1,4 +1,5 @@
 ---
+title: Körperebene
 ---
 - [[Frontalebene]]
 - [[Saggitalebene]]

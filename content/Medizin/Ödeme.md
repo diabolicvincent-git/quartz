@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, f/🍺, a/Pathologie
+tags: [m/m11, f/🫀, f/🍺, a/Pathologie]
+title: Ödeme
 ---
 ### Ödeme
 >  Pathologische Flüssigkeitsansammlung im Interstitium

@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. vagus (X)
 ---
 - **Nr**:: 10
 - **Kerngebiete**:: [[Medulla oblongata]]

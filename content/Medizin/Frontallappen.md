@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/💀, f/🧠
+tags: [m/m15, f/💀, f/🧠]
+title: Frontallappen
 ---
 - **Funktion**:: Höhere kognitive Prozesse, Bewegungsplanung
 - **Wichtige Gyri**:: Gyrus frontalis superior/medius/inferior, Gyrus präcentralis

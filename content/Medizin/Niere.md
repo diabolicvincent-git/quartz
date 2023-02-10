@@ -1,6 +1,7 @@
 ---
 aliases: Nieren, Ren
-tags: m/m14, f/🍺, f/💀
+tags: [m/m14, f/🍺, f/💀]
+title: Niere
 ---
 ### Niere / Ren
 - **Topographie**:: [[retroperitoneal]], entlang der [[Wirbelsäule]] zwischen [[M. psoas major]] und [[M. quadratus lumborum]]

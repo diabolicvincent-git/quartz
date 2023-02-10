@@ -2,7 +2,8 @@
 aliases:
   - Hyperlipidämie
   - Hypercholesterinämie
-tags: m/m11, m/m12, f/🫀, a/Pathologie
+tags: [m/m11, m/m12, f/🫀, a/Pathologie]
+title: Dyslipidämie
 ---
 ### Dyslipidämie
 - **Ätiologie**

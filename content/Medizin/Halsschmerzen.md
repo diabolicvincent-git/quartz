@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18
+tags: [m/m18]
+title: Halsschmerzen
 ---
 - **Erreger**
 	- **[[Viren]] (50-80%)**:: Rhinoviren (20%), Coronaviren (5%), Adenoviren (5%), [[EBV]] (1%)

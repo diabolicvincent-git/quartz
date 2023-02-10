@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/🫀, a/Intervention
+tags: [m/m25, f/🫀, a/Intervention]
+title: Herzinsuffizienz-Therapie
 ---
 ### Medikamentöse [[Herzinsuffizienz]]-Therapie
 > Allgemeine und invasive Therapie siehe **[[Herzinsuffizienz]]**

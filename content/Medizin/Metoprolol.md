@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💊/Medikament, m/m11, f/🫀
+tags: [f/💊/Medikament, m/m11, f/🫀]
+title: Metoprolol
 ---
  ### Metoprolol
 > Gruppe:: Kardioselektive [[β-Blocker]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🕶️
+tags: [m/m19, f/🕶️]
+title: γ-Strahlung
 ---
 ### γ-Strahlung
 > Emission eines Photons aus angeregtem Kern

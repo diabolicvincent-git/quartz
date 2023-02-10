@@ -1,6 +1,7 @@
 ---
 aliases: Carboanhydrase-Inhibitoren, Acetacolamid
-tags: m/m14, f/💊/Medikament, f/🍺, f/🫀
+tags: [m/m14, f/💊/Medikament, f/🍺, f/🫀]
+title: Carboanhydrase-Hemmer
 ---
 ### Carboanhydrase-Hemmer
 - **Indikation** (*eher historisch*)

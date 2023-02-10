@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, f/💀
+tags: [m/m11, f/🫀, f/💀]
+title: Herzklappen
 ---
 ### Herzklappen 
 > Alle Klappen öffnen/schließen sich passiv aufgrund wechselnder Druckverhältnisse im [[Herzzyklus]]

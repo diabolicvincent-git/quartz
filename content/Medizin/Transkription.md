@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m02, f/🧪
+tags: [m/m02, f/🧪]
+title: Transkription
 ---
 **Grundlegendes**
 

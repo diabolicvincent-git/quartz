@@ -1,6 +1,7 @@
 ---
 aliases: Autoimmunerkrankung
-tags: m/m17, f/💉
+tags: [m/m17, f/💉]
+title: Autoimmunität
 ---
 ### Autoimmunität 
 > Pathologisch aktiviertes adaptives Immunsystem → Toleranzverlust ggü. Selbst-Antigenen (Bildung von *autoreaktiven [[T-Zellen]]* und *[[Auto-Antikörper]]n*)

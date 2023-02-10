@@ -1,6 +1,7 @@
 ---
 aliases: Kollagene
-tags: m/m05
+tags: [m/m05]
+title: Kollagen
 ---
 ### Kollagen
 > Hauptbestandteil der [[EZM]], von Fibroblasten sezerniert

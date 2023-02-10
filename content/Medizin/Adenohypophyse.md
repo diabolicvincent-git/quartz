@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🗞️, f/🧠, f/💀, f/💀/Organ
+tags: [m/m15, f/🗞️, f/🧠, f/💀, f/💀/Organ]
+title: Adenohypophyse
 ---
 (Abstract::[[endokrin]]er Teil der [[Hypophyse]] mit Portalkreislauf → ==[[Hypothalamus-Hypophysen-Achse]]==)
 - **Funktion**:: [[Hormon]]produktion (*[[Hypothalamus-Hypophysen-Achse]]*)

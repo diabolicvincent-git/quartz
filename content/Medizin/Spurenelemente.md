@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/⚙️
+tags: [m/m21, f/⚙️]
+title: Spurenelemente
 ---
 ### Spurenelemente
 | [[Spurenelemente]] | Funktion                                                                                                                                      | Mangelerscheinung                                                    |

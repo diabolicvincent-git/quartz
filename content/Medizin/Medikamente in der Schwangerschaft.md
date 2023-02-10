@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m33, a/Intervention
+tags: [m/m33, a/Intervention]
+title: Medikamente in der Schwangerschaft
 ---
 ### Medikamente in der [[Schwangerschaft]]
 > www.embryotox.de

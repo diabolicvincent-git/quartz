@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11
+tags: [m/m11]
+title: Mediastinum
 ---
 ### Mediastinum
 - **Oberes Mediastinum**:: Rückseite Manubrium sterni bis Vorderseite BWK 1-4

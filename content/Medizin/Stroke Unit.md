@@ -1,5 +1,6 @@
 ---
-tags: a/Intervention, f/🧠
+tags: [a/Intervention, f/🧠]
+title: Stroke Unit
 ---
 > (Abstract::Strukturierte Versorgung in Frühphase nach [[Stroke]])
 - **Besonderheiten**

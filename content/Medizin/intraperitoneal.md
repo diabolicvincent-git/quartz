@@ -1,6 +1,7 @@
 ---
 aliases: Intraperitonealraum
-tags: m/m12
+tags: [m/m12]
+title: intraperitoneal
 ---
 ### Intraperitonealraum
 - [[Ösophagus]], pars abdominalis

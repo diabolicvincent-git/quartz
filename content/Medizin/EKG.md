@@ -1,6 +1,7 @@
 ---
 aliases: Elektrokardiogramm
-tags: m/m11, f/🫀, a/Intervention
+tags: [m/m11, f/🫀, a/Intervention]
+title: EKG
 ---
 > (Abstract::**Elektrokardiogramm.**)
 - **Entitäten**

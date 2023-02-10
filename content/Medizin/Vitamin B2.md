@@ -4,7 +4,8 @@ aliases:
   - Riboflavin
   - FADH2
   - FAD
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin B2
 ---
 ### Vitamin B2 / Riboflavin 
 - **Aktive Form**:: FMN/FMNH2, FAD/FADH2

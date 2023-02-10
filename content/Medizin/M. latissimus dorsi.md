@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. latissimus dorsi
 ---
 ### M. latissimus dorsi
 - Ursprung:: Proc. spinosus [[BWK]] 7-12, [[Fascia thoracolumbalis]], [[Crista iliaca]], [[Rippen]] 9-12, [[Scapula]] (Angulus inferior)

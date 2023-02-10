@@ -1,6 +1,7 @@
 ---
 aliases: BHS
-tags: m/m15, f/🧠, f/🔬, f/⚙️
+tags: [m/m15, f/🧠, f/🔬, f/⚙️]
+title: Blut-Hirn-Schranke
 ---
 ### Blut-Hirn-Schranke 
 - **Aufbau**

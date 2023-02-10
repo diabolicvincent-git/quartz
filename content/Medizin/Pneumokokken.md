@@ -1,6 +1,7 @@
 ---
 aliases: Str. pneumoniae, Streptococcus pneumoniae
 tags: [m/m18, f/🦠/Erreger/Bakterien]
+title: Pneumokokken
 ---
 ### Streptococcus pneumoniae / Pneumokokken
 > [[grampositiv]] > Kokken > ==[[Streptokokken]] > α-[[Hämolyse]]== > [[Pneumokokken]]

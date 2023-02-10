@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15, f/🧠, f/💀/Leitungsbahn/Vene
+tags: [m/m15, f/🧠, f/💀/Leitungsbahn/Vene]
+title: Sinus marginalis
 ---
 Sinus|Zufluss|Abfluss|Charakteristika
 -|-|-|-

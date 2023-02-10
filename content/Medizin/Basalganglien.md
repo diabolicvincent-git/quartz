@@ -1,6 +1,7 @@
 ---
 aliases: Ncll. basalis, Nuclei basales
-tags: m/m15, f/🧠, f/💀, f/⚙️
+tags: [m/m15, f/🧠, f/💀, f/⚙️]
+title: Anteile
 ---
 > [[Subcorticale Kerne]] in- und außerhalb des [[Großhirn]] zur Steuerung von Bewegungen
 - **[[Striatum]]** (Afferenzeingang): D1-aktivierter Teil hemmt mediales Pallidum, D2-inhibierter Teil hemmt laterales Pallidum

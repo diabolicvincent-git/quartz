@@ -1,6 +1,7 @@
 ---
 aliases: Positronen-Emissions-Tomographie
-tags: m/m19
+tags: [m/m19]
+title: PET
 ---
 ### Positronen-Emissions-Tomographie / PET
 > Schnittbild ==([[CT]]==/[[MRT]]) mit Darstellung der Stoffwechselaktivität des Gewebes

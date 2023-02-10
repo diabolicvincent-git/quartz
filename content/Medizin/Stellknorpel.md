@@ -1,6 +1,7 @@
 ---
-tags: f/👂, f/💀/Knorpel
+tags: [f/👂, f/💀/Knorpel]
 aliases: Cartilago arytaenoidea
+title: Stellknorpel
 ---
 > (Abstract::Auch: *Cartilago arytaenoidea*)
 - **Lage und Aufbau**:: Paarig angeordnet, auf beiden Seiten dem Ringknorpel (an der Facies articularis arytaenoidea) aufliegend

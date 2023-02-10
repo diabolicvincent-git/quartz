@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/💊/Medikament/Übergruppe, f/🫀
+tags: [m/m25, f/💊/Medikament/Übergruppe, f/🫀]
+title: Antiarrhythmika
 ---
 - **Einteilung nach Vaughan-Williams**
 	- *I (Na+ Kanal Blocker):* Ajmalin, [[Lidocain]]

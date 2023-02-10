@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪, f/⚙️
+tags: [m/m03, f/🧪, f/⚙️]
+title: Oxidative Phosphorylierung
 ---
 (Abstract::[[Atmungskette]] + [[ATP-Synthese]])
 <!--SR:!2023-01-09,4,270-->

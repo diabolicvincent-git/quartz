@@ -1,6 +1,7 @@
 ---
 aliases: Cavum tympani
-tags: m/m16
+tags: [m/m16]
+title: Paukenhöhle
 ---
 ### Paukenhöhle / Cavum tympani
 - **Funktion**:: Schallübertragung ans [[Innenohr]], [[Impedanzanpassung]]

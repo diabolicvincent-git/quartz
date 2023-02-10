@@ -1,6 +1,7 @@
 ---
 aliases: Neuroepitheliale Tumoren
-tags: m/m30, f/🧠, f/🦀, a/Pathologie
+tags: [m/m30, f/🧠, f/🦀, a/Pathologie]
+title: Gliome
 ---
 > (Abstract::**[[Hirntumor]] mit Ähnlichkeit zu [[Gliazellen]].** Auch: Neuroepitheliale Tumoren.)
 - **Epidemiologie**:: 50% von [[Hirntumor]]

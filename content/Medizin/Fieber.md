@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/⚙️, f/🦠
+tags: [m/m09, f/⚙️, f/🦠]
+title: Fieber
 ---
 ### Fieber
 > Ausdruck einer systemischen Entzündungsreaktion

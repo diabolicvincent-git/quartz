@@ -1,6 +1,7 @@
 ---
 aliases: Thiamin, Beri-Beri-Krankheit
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin B1
 ---
 ### Vitamin B1 / Thiamin 
 - **Aktive Form**:: Thiaminpyrophosphat (TPP)

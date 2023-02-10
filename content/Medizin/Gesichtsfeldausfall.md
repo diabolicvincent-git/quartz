@@ -1,6 +1,7 @@
 ---
 aliases: Skotom
-tags: m/m16
+tags: [m/m16]
+title: Gesichtsfeldausfall
 ---
 ### Gesichtsfeldausfall / Skotom
 - **Einseitige Skotome** → Pathologie vor dem Chiasma opticum

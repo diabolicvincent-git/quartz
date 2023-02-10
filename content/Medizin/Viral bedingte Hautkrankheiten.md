@@ -1,4 +1,5 @@
 ---
+title: Viral bedingte Hautkrankheiten
 ---
 - Lokale [[Infektionen]] der Haut & Schleimhaut
     - Pockenviren

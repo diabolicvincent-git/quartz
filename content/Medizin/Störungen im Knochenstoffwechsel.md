@@ -1,4 +1,5 @@
 ---
+title: am Beispiel ausgewählter Erkrankungen (primärer und sekundärer Hyperparathyreoidismus, familiäre hypokalzurische Hyperkalzämie,Vitamin D-Mangel) prinzipielle Mechanismen von Störungen des Knochen- und Kalziumstoffwechsels erklären
 ---
 ![[Untitled 106.png]]
 

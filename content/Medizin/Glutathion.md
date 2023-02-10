@@ -1,6 +1,7 @@
 ---
 aliases: GSH
-tags: m/m08, m/m17, f/🩸, f/💀
+tags: [m/m08, m/m17, f/🩸, f/💀]
+title: Glutathion
 ---
 ### Glutathion / GSH
 - **Struktur**:: Tripeptid ([[Glutamat]], [[Cystein]], [[Glycin]])

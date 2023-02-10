@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🩸
+tags: [m/m08, f/🩸]
+title: Plasmaproteine
 ---
 ### Plasmaproteine
 - **[[Albumin]] (60%)**

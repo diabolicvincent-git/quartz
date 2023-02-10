@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [a/Pathologie, m/m31, f/💭]
+title: Katatonie
 ---
 - **Symptome**
 	- *Positivsymptomatik:* [[Stupor]], [[Akinese]], [[Negativismus]], [[Katalepsie]], [[Haltungsstereotypie]]

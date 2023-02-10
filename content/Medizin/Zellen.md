@@ -1,6 +1,7 @@
 ---
 aliases: Zelle, Zell
-tags: m/m03, f/🧪, f/🔬/Zelle
+tags: [m/m03, f/🧪, f/🔬/Zelle]
+title: Zellen
 ---
 ### Zelle
 - **Zelltypen**

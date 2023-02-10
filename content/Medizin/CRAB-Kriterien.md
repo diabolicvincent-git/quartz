@@ -1,4 +1,5 @@
 ---
+title: CRAB-Kriterien
 ---
 ## CRAB-Kriterien
 > Diagnostik [[Multiples Myelom]]

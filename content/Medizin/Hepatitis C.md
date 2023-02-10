@@ -1,6 +1,7 @@
 ---
 aliases: Hepatitis-C-Virus, HCV, HepC
-tags: m/m18, f/🦠, f/💩, a/Pathologie
+tags: [m/m18, f/🦠, f/💩, a/Pathologie]
+title: Hepatitis C
 ---
 ### Hepatitis C
 - **Epidemiologie**:: Bis 1% weltweit, insb. Afrika/Asien, DE 0.3%

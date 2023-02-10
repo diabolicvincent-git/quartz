@@ -2,7 +2,8 @@
 aliases:
   - VitK
   - Phyllochinon
-tags: m/m12, f/⚙️, f/🧪, f/🧪/Molekül/Vitamin 
+tags: [m/m12, f/⚙️, f/🧪, f/🧪/Molekül/Vitamin]
+title: Vitamin K
 ---
 ### Vitamin K / Phyllochinon 
 - **Aktive Form**:: Vitamin-K-Hydrochinon

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, m/m05, m/m14, f/🍺, f/⚙️
+tags: [m/m04, m/m05, m/m14, f/🍺, f/⚙️]
+title: Claudin
 ---
 ### Claudin
 > [[Proteine]], Bestandteil der [[Tight Junction]] ([[Zellkontakte]]) – je nach Typ für unterschiedliche Stoffe permeabel

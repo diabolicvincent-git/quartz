@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m15, f/💊/Medikament, f/💤
+tags: [m/m11, m/m15, f/💊/Medikament, f/💤]
+title: Katecholamine
 ---
 ### Katecholamine
 - **Einteilung**

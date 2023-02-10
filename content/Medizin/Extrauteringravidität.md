@@ -1,6 +1,7 @@
 ---
 aliases: Ektope Schwangerschaft, EUG
-tags: m/m22, f/🦩
+tags: [m/m22, f/🦩]
+title: Extrauteringravidität
 ---
 ### Extrauteringravidität / EUG
 > **Ektope [[Schwangerschaft]]** mit Einnistung außerhalb des [[Uterus]]

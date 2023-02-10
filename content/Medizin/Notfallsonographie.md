@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, f/💤, f/🕶️
+tags: [m/m21, f/💤, f/🕶️]
+title: Notfallsonographie
 ---
 ### Notfallsonographie
 - ![[eFAST]]

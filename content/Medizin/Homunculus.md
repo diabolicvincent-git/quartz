@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Homunculus
 ---
 ### Homunculus
 > Somatotopische Organisation von motorischem und sensiblem Cortex

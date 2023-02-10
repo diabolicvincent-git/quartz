@@ -1,4 +1,5 @@
 ---
+title: Synuclein
 ---
 #### Synuclein
 - ==[[Parkinson-Syndrom]]==

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🩸, f/⚙️
+tags: [m/m08, f/🩸, f/⚙️]
+title: Sekundäre Hämostase
 ---
 ### Sekundäre Hämostase
 - **Extrinsischer Weg**:: Tissue Factor III → aktiviert F.VII → ==extrinsische Tenase== (F.III, F.VIII, Phospholipide, [[Ca2+]])

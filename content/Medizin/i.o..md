@@ -1,6 +1,7 @@
 ---
 aliases: intraossär
-tags: m/m00, m/m21, f/💊/Medikament
+tags: [m/m00, m/m21, f/💊/Medikament]
+title: i.o.
 ---
 ### intraossär / i.o.
 - **Indikation**:: [[Reanimation]] oder vitale Bedrohung + [[i.v.]]-Zugang erschwert/unmöglich

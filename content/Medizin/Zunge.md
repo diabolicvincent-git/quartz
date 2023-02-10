@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Organ, f/💀, m/m29, f/👂
+tags: [f/💀/Organ, f/💀, m/m29, f/👂]
+title: Zunge
 ---
 > (Abstract::)
 - **Funktion**:: Zermahlen und Weiterleiten der Nahrung, [[Geschmack]], [[Sprechen]], [[MALT]]

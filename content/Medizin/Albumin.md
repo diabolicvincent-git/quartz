@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/🧪, f/⚙️, f/💩, f/🧪/Molekül
+tags: [m/m12, f/🧪, f/⚙️, f/💩, f/🧪/Molekül]
+title: Albumin
 ---
 - **Funktion**
 	- 60% der [[Plasmaproteine]] → ==Kolloidosmotischer Druck==

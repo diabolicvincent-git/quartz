@@ -1,6 +1,7 @@
 ---
 aliases: LSB
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Linksschenkelblock
 ---
 ### Linksschenkelblock / LSB
 > [[Schenkelblock]] der ==2== linken [[Tawara-Schenkel]] (nur 1 = Hemiblock)

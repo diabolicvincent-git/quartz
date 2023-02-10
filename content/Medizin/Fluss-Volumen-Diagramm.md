@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13
+tags: [m/m13]
+title: Fluss-Volumen-Diagramm
 ---
 ### Fluss-Volumen-Diagramm
 - Ermittlung z.B. mittels *[[Pneumotachograph]]*

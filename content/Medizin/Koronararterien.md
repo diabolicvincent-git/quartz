@@ -1,6 +1,7 @@
 ---
 aliases: Koronarien
-tags: m/m11
+tags: [m/m11]
+title: Koronararterien
 ---
 ### Koronarien / Koronararterien
 > **Cave**:: Variable [[Versorgungstypen]] insb. der Hinterwand

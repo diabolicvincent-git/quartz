@@ -1,6 +1,7 @@
 ---
 aliases: Aspartataminotransferase, ASAT, GOT
-tags: m/m12, f/🧪, f/💩, f/🧪/Molekül
+tags: [m/m12, f/🧪, f/💩, f/🧪/Molekül]
+title: AST
 ---
 > (Abstract::**Aspartataminotransferase.** Auch: ASAT, GOT.)
 - **Funktion**:: [[Transaminierung]], [[Malat-Aspartat-Shuttle]]

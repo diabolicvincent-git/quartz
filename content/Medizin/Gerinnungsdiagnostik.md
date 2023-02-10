@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m17, f/🩸
+tags: [m/m08, m/m17, f/🩸]
+title: Gerinnungsdiagnostik
 ---
 ### Gerinnungsdiagnostik 
 - **Allgemein**

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🧪
+tags: [f/🧪]
+title: ATP-Synthese
 ---
 
 > ==[[ATP]]-Synthase = $F_{0}F_{1}$-[[ATPase]]==

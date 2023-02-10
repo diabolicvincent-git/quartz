@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: ToDo, f/🧠, f/🔬
+tags: [ToDo, f/🧠, f/🔬]
+title: Histologie des ZNS
 ---
 
 ## Mikroskopischer Aufbau (Schichtung) und die zellulären Elemente (Pyramidalzellen, GABAerge Interneurone und [[Gliazellen]]) der [[Cortex cerebri]], des Iso- sowie des Allokortex beschreiben

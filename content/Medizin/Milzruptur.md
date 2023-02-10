@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/🔪, f/💤, a/Pathologie
+tags: [m/m26, f/🔪, f/💤, a/Pathologie]
+title: Milzruptur
 ---
 ### Milzruptur
 - **Epidemiologie**:: Mit 45% häufigste abdominelle Beteiligung bei [[Polytrauma]]

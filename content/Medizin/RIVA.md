@@ -1,6 +1,7 @@
 ---
 aliases: R. interventricularis anterior, LAD
-tags: m/m11
+tags: [m/m11]
+title: RIVA
 ---
 ### R. interventricularis anterior / RIVA / LAD
 - **Verlauf**:: Im Sulcus interventricularis anterior in Richtung Herzspitze → auf "Unterseite" (Facies diaphragmatica) des [[Herz]], anostomosiert häufig mit RIVP der [[RCA]]

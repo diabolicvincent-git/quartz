@@ -1,6 +1,7 @@
 ---
 aliases: Samenleiter
-tags: m/m22, f/🍆, f/💀
+tags: [m/m22, f/🍆, f/💀]
+title: Ductus deferens
 ---
 ### Ductus deferens / Samenleiter
 - **Verlauf**

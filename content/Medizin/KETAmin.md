@@ -1,6 +1,7 @@
 ---
 aliases: Esketamin, S-Ketamin, Ketanest
-tags: m/m21, f/💊/Medikament, f/💤
+tags: [m/m21, f/💊/Medikament, f/💤]
+title: KETAmin
 ---
 ### (Es-)Ketamin
 - **Wirkung**:: ==[[Dissoziative Anästhesie]]==, Analgesie, Amnesie, ==Sympathikus↑==, [[ICP]]↓

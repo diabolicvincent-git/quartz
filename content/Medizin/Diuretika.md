@@ -1,7 +1,8 @@
 ---
 aliases:
   - Diuretikum
-tags: m/m14, f/💊/Medikament, f/🍺, f/🫀
+tags: [m/m14, f/💊/Medikament, f/🍺, f/🫀]
+title: Diuretika
 ---
 ### Diuretika
 - **Einteilung**

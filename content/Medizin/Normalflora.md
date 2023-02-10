@@ -1,6 +1,7 @@
 ---
 aliases: Standortflora, Hautflora, Darmflora
-tags: m/m09, m/m18, f/🧴, f/🦠, f/⚙️
+tags: [m/m09, m/m18, f/🧴, f/🦠, f/⚙️]
+title: Normalflora
 ---
 ### Normalflora
 - **[[GI-Trakt]]**:: [[Enterokokken]], Lactobacillen, Hefen, [[Clostridien]], [[E. coli]]

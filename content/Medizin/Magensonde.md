@@ -1,6 +1,7 @@
 ---
 aliases: Nasogastrale Sonde
-tags: m/m12, f/💩
+tags: [m/m12, f/💩]
+title: Magensonde
 ---
 ### Magensonde / Nasogastrale Sonde
 - Vorher Abmessen: Xiphoideum bis [[Ohr]] bis Nasenspitze

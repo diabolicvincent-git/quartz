@@ -1,6 +1,7 @@
 ---
 aliases: Fructosesynthese
-tags: m/m02, f/🧪
+tags: [m/m02, f/🧪]
+title: Polyolweg
 ---
 ### Polyolweg / Fructosesynthese
 > [[Glucose]] → Fructose

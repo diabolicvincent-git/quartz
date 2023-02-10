@@ -1,6 +1,7 @@
 ---
 aliases: Richmond Agitation and Sedation Scale
-tags: m/m36, f/💤
+tags: [m/m36, f/💤]
+title: RASS
 ---
 ### Richmond Agitation and Sedation Scale / RASS
 > Goldstandard: Monitoring der [[Sedierung]] auf [[ITS]]

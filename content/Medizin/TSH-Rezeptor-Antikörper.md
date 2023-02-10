@@ -1,5 +1,6 @@
 ---
-tags: m/m29, f/🗞️, f/🧪/Molekül/Antikörper/SchilddrüsenAk
+tags: [m/m29, f/🗞️, f/🧪/Molekül/Antikörper/SchilddrüsenAk]
+title: TSH-Rezeptor-Antikörper
 ---
 > (Abstract:: [[Schilddrüsen-Antikörper]] v.a. bei [[M. Basedow]])
 - **Vorkommen**

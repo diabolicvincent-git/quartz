@@ -1,4 +1,5 @@
 ---
+title: M. depressor supercilii
 ---
 ##### M. depressor supercilii
 *   Processus frontalis ([[Maxilla]])

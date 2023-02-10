@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💭, a/Pathologie
+tags: [m/m20, f/💭, a/Pathologie]
+title: Suizidalität
 ---
 ### Suizidalität
 > Suizidgedanken + konkrete Suizidabsicht = akute Suizidhandlung droht

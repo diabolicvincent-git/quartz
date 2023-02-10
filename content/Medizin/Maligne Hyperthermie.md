@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, f/💤, a/Pathologie
+tags: [m/m00, f/💤, a/Pathologie]
+title: Maligne Hyperthermie
 ---
 ### Maligne Hyperthermie / MH
 - **Ätiologie**

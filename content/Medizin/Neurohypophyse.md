@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m22
+tags: [m/m15, m/m22]
+title: Neurohypophyse
 ---
 ### Neurohypophyse
 > **[[Hypophyse]]**, eigentlich Teil des [[Diencephalon]]

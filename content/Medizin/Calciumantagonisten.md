@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, f/💊/Medikament
+tags: [m/m11, f/🫀, f/💊/Medikament]
+title: Calciumantagonisten
 ---
 ### Calciumantagonisten / [[Ca2+]] Kanal-Blocker
 - **Indikation**:: [[Hypertonie]], stabile [[Angina pectoris]], [[HRST]] ([[SVT]]), [[Raynaud-Syndrom]], HOCM, Clusterkopfschmerz-Prophylaxe, [[SAB]]-Vasospasmusprophylaxe

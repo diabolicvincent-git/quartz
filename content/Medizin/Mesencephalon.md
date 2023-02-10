@@ -1,6 +1,7 @@
 ---
 aliases: Mittelhirn
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Mesencephalon
 ---
 ### Mesencephalon 
 - **Gliederung (ventral → dorsal)**

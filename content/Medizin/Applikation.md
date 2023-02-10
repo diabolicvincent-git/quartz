@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, f/💊/Medikament
+tags: [m/m00, f/💊/Medikament]
+title: Applikation
 ---
 ### Applikationswege
 - [[i.v.]]

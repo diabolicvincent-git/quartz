@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00
+tags: [m/m00]
+title: Kanofsky-Index
 ---
 ### Kanofsky-Index
 - 100%: Normale Aktivität, Beschwerdefreiheit, kein Hinweis auf Tumorleiden

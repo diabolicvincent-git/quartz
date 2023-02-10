@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Brodmann-Areal
 ---
 #### 1-3
 - Primärer somatosensorischer Kortex

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. trapezius (Pars transversa)
 ---
 ### M. trapezius (Pars transversa)
 - Ursprung:: [[HWK]] 7, [[BWK]] 1-3

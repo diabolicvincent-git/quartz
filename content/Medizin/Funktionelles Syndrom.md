@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, ToDo, f/💭, a/Pathologie
+tags: [m/m21, ToDo, f/💭, a/Pathologie]
+title: 'VL "Ihnen fehlt nichts"'
 ---
 # VL "Ihnen fehlt nichts"
 ### am Beispiel des Arztes, der Ärztin in der Notaufnahme oder der hausärztlichen Sprechstunde die Thematisierung psychosozialer Aspekte unter zeitlich begrenzten Bedingungen erläutern können.

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19
+tags: [m/m19]
+title: Knochenmarksbiopsie
 ---
 ### Knochenmarksbiopsie
 ![[Pasted image 20210621120952.png]]

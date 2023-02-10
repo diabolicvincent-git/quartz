@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🫀, f/🩸, a/Pathologie
+tags: [m/m19, f/🫀, f/🩸, a/Pathologie]
+title: Burkitt-Lymphom
 ---
 ### Burkitt-Lymphom
 > Aggressives [[B-Zellen]] [[Non-Hodgkin-Lymphom]]

@@ -2,7 +2,8 @@
 aliases:
   - VitE
   - Tocopherol
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin E
 ---
 ### Vitamin E / Tocopherol 
 - **Aktive Form**:: α-Tocopherol

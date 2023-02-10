@@ -1,8 +1,8 @@
 ---
 aliases:
   - null
-tags:
-  - m/m16
+tags: [m/m16]
+title: Physik der Optik
 ---
 ## Brechungsindex n
 - Beschreibt Materialeigenschaft (*optische Dichte*) = Abbremsen von Lichtstrahlen im Vergleich zum Vakuum

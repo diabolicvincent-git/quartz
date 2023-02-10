@@ -1,5 +1,6 @@
 ---
-tags: m/m14, f/🫀, f/🍺, f/💊/Medikament/Untergruppe
+tags: [m/m14, f/🫀, f/🍺, f/💊/Medikament/Untergruppe]
+title: ACE-Hemmer
 ---
 > (Abstract::Prognoseverbessernd bei [[Herzinsuffizienz]])
 - **Gruppe**:: [[RAAS-Inhibitoren]]

@@ -1,6 +1,7 @@
 ---
 aliases: Vollelektrolytlösung
-tags: m/m14, f/💊/Medikament
+tags: [m/m14, f/💊/Medikament]
+title: VEL
 ---
 ### Vollelektrolytlösung / VEL
 > [[Kristalloide]] [[Infusionslösung]], ähnlich wie Blutplasma, jedoch mehr [[Cl-]]↑ 

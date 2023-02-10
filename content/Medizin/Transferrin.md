@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🧪, f/⚙️, f/🧪/Molekül
+tags: [m/m08, f/🧪, f/⚙️, f/🧪/Molekül]
+title: Transferrin
 ---
 ### Transferrin
 - **Funktion**:: [[Eisen]]-Transportprotein

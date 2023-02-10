@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, ToDo, f/🦠, f/🦠/Erreger/Parasiten
+tags: [m/m18, ToDo, f/🦠, f/🦠/Erreger/Parasiten]
+title: Parasiten
 ---
 ### Parasiten
 - **Einteilung**

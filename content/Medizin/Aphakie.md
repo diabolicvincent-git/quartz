@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: m/m16, f/👁️, a/Pathologie
+tags: [m/m16, f/👁️, a/Pathologie]
+title: Aphakie
 ---
 ### Aphakie
 - **Pathophysiologie**:: [[Augenlinse]] fehlt (meist durch eine operative Entfernung bei einer Linsentrübung (= [[Katarakt]]))

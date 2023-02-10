@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Herzinsuffizienz
 ---
 ### Herzinsuffizienz
 - **Epidemiologie**:: Gesamtprävalenz 1%; >60. LJ 10%

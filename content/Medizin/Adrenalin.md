@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🗞️, f/🧪, f/🧪/Molekül/Hormon, f/💊/Medikament/Wirkstoff, ToDo
+tags: [m/m15, f/🗞️, f/🧪, f/🧪/Molekül/Hormon, f/💊/Medikament/Wirkstoff, ToDo]
+title: Adrenalin
 ---
 > (Abstract::Pharmakologisches Äquivalent: [[EPINEPHrin]])
 - Indikation:: [[Reanimation]]

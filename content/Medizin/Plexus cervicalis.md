@@ -1,4 +1,5 @@
 ---
+title: Plexus cervicalis
 ---
 Ventrale Äste der cervicalen [[Spinalnerven]]
 - **V.a. motorische Äste**

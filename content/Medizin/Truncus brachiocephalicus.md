@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/💀/Leitungsbahn/Arterie
+tags: [m/m11, f/💀/Leitungsbahn/Arterie]
+title: Truncus brachiocephalicus
 ---
 ### Truncus brachiocephalicus
 - **Ursprung**:: [[Aorta]] (Aortenbogen)

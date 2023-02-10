@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, f/🧠, f/💀, f/💀/Organ
+tags: [m/m10, f/🦴, f/🧠, f/💀, f/💀/Organ]
+title: Wirbelsäule
 ---
 ### Wirbelsäule
 - **Funktion**

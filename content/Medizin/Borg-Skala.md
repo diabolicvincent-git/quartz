@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Intervention
+tags: [m/m13, f/🫁, a/Intervention]
+title: Borg-Skala
 ---
 ### Borg-CR-Skala
 > Visuelle Analogskala zur Einschätzung des Schweregrads einer *[[Dyspnoe]]*

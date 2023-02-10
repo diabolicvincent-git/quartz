@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🫀
+tags: [m/m11, f/🫀]
+title: Herzvenen
 ---
 ### Venöser Abfluss
 > **Gemeinsame Endstrecke**:: *Sinus coronarius* mündet in *Rechter Vorhof* (¾), teils direkt trans-/endomural in Vorhöfe/Kammern (¼)

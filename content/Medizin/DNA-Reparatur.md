@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, m/m19, f/🧪, f/🧬
+tags: [m/m02, m/m19, f/🧪, f/🧬]
+title: DNA-Reparatur
 ---
 ### DNA-Reparaturmechanismen
 - **Proofreading**:: Exonuclease-Aktivität einiger Polymerasen

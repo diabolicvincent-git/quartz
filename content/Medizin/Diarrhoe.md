@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩
+tags: [m/m12, f/💩]
+title: Diarrhoe
 ---
 > (Abstract::**≥3 Stühle/d oder Wassergehalt ≥75% oder Stuhlgewicht >250 g/d.**)
 

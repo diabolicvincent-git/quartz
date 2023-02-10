@@ -1,6 +1,7 @@
 ---
 aliases: Serotonerges Syndrom
-tags: 
+tags: []
+title: Serotonin-Syndrom
 ---
 ### Serotonin-Syndrom
 - **Ätiologie**:: [[Serotonin]]↑ v.a. durch [[Antidepressiva]] (Kombination div. Substanzen, Überdosierung, Interaktionen, [[Intoxikation]], individuelle pharmakogenetische Disposition)

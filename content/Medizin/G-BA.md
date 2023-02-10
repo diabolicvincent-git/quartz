@@ -1,5 +1,6 @@
 ---
-tags: m/m06
+tags: [m/m06]
+title: G-BA
 ---
 > (Abstract::**Gemeinsamer Bundesausschuss.**)
 - Höchstes Selbstverwaltungsorgan im [[Gesundheitssystem]]

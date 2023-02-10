@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m00, f/🦄, f/💭, a/Pathologie, f/⚰️
+tags: [m/m00, f/🦄, f/💭, a/Pathologie, f/⚰️]
+title: Kindesmisshandlung
 ---
 > Stationäre Aufnahme erwirken! (z.B. "Grunderkrankung abklären, die Verletzung mit diesem Mechanismus erklären kann, etwa Knochenstoffwechsel") + Info Kinderschutzgruppe
 - **Psychische Misshandlung** 

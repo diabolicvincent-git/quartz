@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🦠, f/⚙️
+tags: [m/m08, f/🦠, f/⚙️]
+title: Leukocyten
 ---
 ### Leukocyten
 - **Normwert**:: 4.000 – 10.000 / μl

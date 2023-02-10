@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Lokalisation
 ---
 ### Okklusiver Myokardinfarkt / OMI
 - **Symptome**

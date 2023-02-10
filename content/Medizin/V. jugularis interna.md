@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [f/💀/Leitungsbahn/Vene/Punktabel/ZVK]
+title: V. jugularis interna
 ---
 - **Ursprung**:: Zusammenfluss [[Sinus sigmoideus]] + [[Sinus petrosus inferior]]
 - **Verlauf**

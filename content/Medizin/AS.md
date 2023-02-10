@@ -1,6 +1,7 @@
 ---
 aliases: Aminosäure, Aminosäuren
-tags: m/m02, f/🧪, f/🧪/Molekül/Aminosäure
+tags: [m/m02, f/🧪, f/🧪/Molekül/Aminosäure]
+title: AS
 ---
 ### Aminosäuren / AS
 - **Chemische Eigenschaften** 

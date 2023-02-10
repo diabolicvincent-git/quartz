@@ -1,6 +1,7 @@
 ---
 aliases: Cholinesteraseinhibitoren
-tags: m/m13, f/🫁, f/🍄
+tags: [m/m13, f/🫁, f/🍄]
+title: Cholinesterase-Hemmer
 ---
 ### Cholinesteraseinhibitoren
 - Eingesetzt in Pestiziden und chemischen Kampfstoffen wie Sarin  

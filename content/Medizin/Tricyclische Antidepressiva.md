@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m20, f/💭/Antidepressiva, f/💊/Medikament/PIM
+tags: [m/m20, f/💭/Antidepressiva, f/💊/Medikament/PIM]
+title: Tricyclische Antidepressiva
 ---
 **Gruppe**:: [[Antidepressiva]]
 > (Abstract::**Nicht-selektive Monoamin-Wideraufnahmehemmer.** Auch: Tricyclica)

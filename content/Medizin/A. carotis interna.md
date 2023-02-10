@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie
+tags: [m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie]
+title: A. carotis interna
 ---
 - **Ursprung**:: [[A. carotis communis]]
 - **Verlauf**:: Pars cervicalis → Pars petrosa → Pars cavernosa → Pars cerebralis

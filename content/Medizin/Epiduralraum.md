@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15
+tags: [m/m15]
+title: Epiduralraum
 ---
 ### Epiduralraum
 > Raum zwischen [[Stratum periostale]] und [[Schädel]][[Knochen]]

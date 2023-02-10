@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Organ, f/👂
+tags: [f/💀/Organ, f/👂]
+title: Zähne
 ---
 > (Abstract::**20 (Milchgebiss) – 32 (Dauergebiss).**)
 - **Funktion**:: Abbeißen (Schneidezahn), reißen (Eckzahn), kauen (Prämolar und Molar)

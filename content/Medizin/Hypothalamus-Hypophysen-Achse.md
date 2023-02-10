@@ -1,6 +1,7 @@
 ---
 aliases: HPA
-tags: m/m04, m/m22, f/⚙️, f/🗞️
+tags: [m/m04, m/m22, f/⚙️, f/🗞️]
+title: Hypothalamus-Hypophysen-Achse
 ---
 ### Hypothalamus-Hypophysen-Achse / HPA
 > [[Hypothalamus]] → [[Adenohypophyse]] → Zielorgan

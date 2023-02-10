@@ -1,6 +1,7 @@
 ---
 aliases: Follikel stimulierendes Hormon, Follikelstimulierendes Hormon
-tags: m/m22, f/🗞️, f/🦩, f/🧪/Molekül
+tags: [m/m22, f/🗞️, f/🦩, f/🧪/Molekül]
+title: FSH
 ---
 ### [[Follikel]] stimulierendes Hormon / FSH
 - **Wirkung**

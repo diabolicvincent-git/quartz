@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26
+tags: [m/m26]
+title: Schilling-Test
 ---
 ### Schilling Test
 > **[[Vitamin B12]]** Resorptionstest (veraltet)

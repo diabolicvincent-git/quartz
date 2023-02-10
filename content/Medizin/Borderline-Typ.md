@@ -1,4 +1,5 @@
 ---
 aliases: 
-tags: f/💭
+tags: [f/💭]
+title: Borderline-Typ
 ---

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15
+tags: [m/m15]
+title: Ganglien
 ---
 ### Ganglien 
 > Ansammlung von [[Neuron]]-Somata im [[PNS]][^1]

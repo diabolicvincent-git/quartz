@@ -1,6 +1,7 @@
 ---
 aliases: Kontraindikation, Kontraindikationen, kontraindiziert
-tags: m/m00, f/💊/Medikament, m/m24
+tags: [m/m00, f/💊/Medikament, m/m24]
+title: KI
 ---
 ### Häufige Kontraindikationen
 | Komorbidität        | Kontraindizierte Medikamente                | Grund                      |

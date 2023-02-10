@@ -1,6 +1,7 @@
 ---
 aliases: Hepar
-tags: m/m12, f/💩, f/💀
+tags: [m/m12, f/💩, f/💀]
+title: Leber
 ---
 ### Leber 
 - **Funktion**:: Energiestoffwechsel, Synthesen, Glucosehomöostase und Säure-Basen-Haushalt, Speicherfunktion, Entgiftung/Ausscheidung

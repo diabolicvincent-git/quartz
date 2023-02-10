@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🧬
+tags: [f/🧬]
+title: Chromosomenaberrationen
 ---
 - **Strukturelle Chromosomenaberrationen**:: Durch fehlerhaftes Crossing Over oder falsche Reparatur von Doppelstrangbrüchen
 	- **Deletion**:: Verlust von Basenpaaren oder ganzen Chromosomenabschnitten

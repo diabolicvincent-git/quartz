@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17
+tags: [m/m17]
+title: POMC-Gendefekt
 ---
 ### [[POMC]]-Gendefekt 
 - **Symptome** entsprechend der Funktionen von *[[POMC]]* ([[Hypothalamus-Hypophysen-Achse]])

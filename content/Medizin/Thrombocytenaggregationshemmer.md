@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💊/Medikament, f/🫀
+tags: [f/💊/Medikament, f/🫀]
+title: Thrombocytenaggregationshemmer
 ---
 - **Einteilung**
 	- **Irreversible COX-Hemmer ([[ASS]])**:: Primärprophylaxe [[ACS]] bei [[KHK]], Sekundärprophylaxe bei [[Stroke]], [[pAVK]], Stent

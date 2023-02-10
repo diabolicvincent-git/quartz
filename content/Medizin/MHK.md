@@ -1,6 +1,7 @@
 ---
 aliases: Minimale Hemmkonzentration
-tags: m/m18
+tags: [m/m18]
+title: MHK
 ---
 ### Minimale Hemmkonzentration / MHK
 > **MHK-Wert**:: Niedrigste [[Antibiotika]]konzentration, die sichtbares [[Bakterien]]wachstum verhindert

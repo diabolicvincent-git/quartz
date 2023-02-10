@@ -1,6 +1,7 @@
 ---
 aliases: AGS
-tags: m/m22, f/🦩, f/🗞️, a/Pathologie, f/🦄, f/🦄, ToDo
+tags: [m/m22, f/🦩, f/🗞️, a/Pathologie, f/🦄, f/🦄, ToDo]
+title: Adrenogenitales Syndrom
 ---
 - **Epidemiologie**:: [[Inzidenz]] 1:10.000[^1]
 - **Ätiologie**:: Autosomal-rezessive [[Stoffwechseldefekte]]

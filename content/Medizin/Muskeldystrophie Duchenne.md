@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m03, f/🦴, f/🧬, a/Pathologie
+tags: [m/m03, f/🦴, f/🧬, a/Pathologie]
+title: Muskeldystrophie Duchenne
 ---
 > Häufigste muskuläre Erbkrankheit im Kindesalter (1:5000) - siehe [[Muskeldystrophie]]
 - **Symptome**:: ==Progressive Muskelschwäche==

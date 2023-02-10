@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m20, f/🧠, f/⚙️, f/💀
+tags: [m/m15, m/m20, f/🧠, f/⚙️, f/💀]
+title: Präfrontaler Cortex
 ---
 ### Präfrontaler Cortex
 - **Funktion**:: Handlungsplanung, Arbeitsgedächtnis, Impuls-/Affektkontrolle, Verhaltenskontrolle, Antriebssteuerung

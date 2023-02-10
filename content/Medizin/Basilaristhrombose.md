@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠, a/Pathologie, m/m30
+tags: [m/m15, f/🧠, a/Pathologie, m/m30]
+title: Basilaristhrombose
 ---
 > (Abstract::Unbehandelt Letalität 80%)
 - **Lokalisation**:: [[A. basilaris]]

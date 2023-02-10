@@ -1,6 +1,7 @@
 ---
 aliases: Calcitonin-Gene-related Peptide
-tags: m/m20, m/m09, f/🧪, f/🧪/Molekül
+tags: [m/m20, m/m09, f/🧪, f/🧪/Molekül]
+title: CGRP
 ---
 ### [[Calcitonin]]-Gene-related Peptide / CGRP
 > [[Neuropeptide]] → Proinflammatorisch bei [[Periphere Sensibilisierung]]

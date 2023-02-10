@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/💊/Medikament, f/🦠
+tags: [m/m18, f/💊/Medikament, f/🦠]
+title: Linezolid
 ---
 ### Linezolid
 - **Wirkmechanismus**:: [[Störung der Proteinbiosynthese]] (Bindung an 50S-[[Ribosomen]]-UE)

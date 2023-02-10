@@ -1,4 +1,5 @@
 ---
+title: Claustrum
 ---
 ### Claustrum
 - **Lokalisation**:: Zwischen Putamen und [[Insellappen]]

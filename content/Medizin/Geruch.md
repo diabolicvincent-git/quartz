@@ -1,6 +1,7 @@
 ---
 aliases: Riechen
-tags: m/m16, f/👂, f/⚙️
+tags: [m/m16, f/👂, f/⚙️]
+title: Geruch
 ---
 
 - **Vomeronasales Organ**:: Pheromonwahrnehmung (Intraspezies), rückgebildet

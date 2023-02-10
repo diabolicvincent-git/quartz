@@ -2,7 +2,8 @@
 aliases:
   - ACh-Rezeptor-Antagonisten
   - Parasympatholytika
-tags: m/m13, f/💊/Medikament/Untergruppe, f/🫀, f/💤, f/🍄/Gift
+tags: [m/m13, f/💊/Medikament/Untergruppe, f/🫀, f/💤, f/🍄/Gift]
+title: Anticholinergika
 ---
 > (Abstract::Auch: Parasympatholytika)
 - **Wirkung**:: Kompetitive Inhibition des M3-[[ACh]]-[[Rezeptor]] (an der glatten Muskulatur) → Aktivierung von [[Gq]]-Protein / PLC unterbunden → [[Ca2+]] steigt nicht an, Muskel kontrahiert nicht

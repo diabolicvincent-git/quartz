@@ -1,6 +1,7 @@
 ---
 aliases: Schuppenflechte
-tags: m/m09, f/🧴
+tags: [m/m09, f/🧴]
+title: Psoriasisspezifische Phänomene an der Haut
 ---
 > Chronisch-entzündliche, schubweise Hauterkrankung mit genetischer Prädisposition
 - **Epidemiologie**:: 20.-30. LJ (Typ 1, schwer, familiär) bis 40.-60. LJ (Typ 2)

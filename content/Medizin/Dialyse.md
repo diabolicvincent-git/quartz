@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m14, f/🍺
+tags: [m/m08, m/m14, f/🍺]
+title: Dialyse
 ---
 - **Indikation**
 	- **Akutdialyse**:: [[AEIOU]]

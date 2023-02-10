@@ -1,4 +1,5 @@
 ---
+title: Halluzinationen
 ---
 > (Abstract::Sinneswahrnehmung ohne objektiv nachweisbaren Reiz, subjektiv nicht von realer Wahrnehmung unterscheidbar.)
 - **Akustische Halluzinationen:** v.a. bei [[Paranoide Schizophrenie]]

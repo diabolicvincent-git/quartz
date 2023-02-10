@@ -1,4 +1,5 @@
 ---
+title: Schallempfindungsstörung
 ---
 ## Schallempfindungsstörung
 > Störung des Innenohrs durch Verlust der Haarzellfunktion ([[Cochlea]])

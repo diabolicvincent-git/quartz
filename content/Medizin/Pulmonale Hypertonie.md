@@ -1,6 +1,7 @@
 ---
 aliases: Pulmonaler Hypertonus
-tags: m/m13
+tags: [m/m13]
+title: Lernziele
 ---
 ### Pulmonale Hypertonie
 > ∅ Lungenarteriendruck >25 mmHg in Ruhe

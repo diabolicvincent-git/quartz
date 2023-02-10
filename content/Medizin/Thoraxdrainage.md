@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🔪, f/💤, f/⛑️, a/Intervention
+tags: [f/🔪, f/💤, f/⛑️, a/Intervention]
+title: Thoraxdrainage
 ---
 ### Thoraxdrainage
 

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08
+tags: [m/m08]
+title: NK-Zellen
 ---
 ### Natürliche Killerzellen / NK-Zellen
 > [[Lymphocyten]]-Subtyp, jedoch antigenunabhängig, daher [[Unspezifisches Immunsystem]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20
+tags: [m/m20]
+title: Verhaltenstherapie
 ---
 ### Verhaltenstherapie
 - **Ziel**:: Modifikation dysfunktionaler Kognitionen / Verhaltensweisen

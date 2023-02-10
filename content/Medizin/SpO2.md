@@ -1,6 +1,7 @@
 ---
 aliases: Sauerstoffsättigung, O2-Sättigung
-tags: m/m13, a/Intervention, f/🫁
+tags: [m/m13, a/Intervention, f/🫁]
+title: SpO2
 ---
 ### Pulsoxymetrische Sauerstoffsättigung / SpO2
 > $\frac{O2}{O2-Kapazität}$

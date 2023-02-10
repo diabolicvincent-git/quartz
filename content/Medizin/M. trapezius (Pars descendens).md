@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. trapezius (Pars descendens)
 ---
 ### M. trapezius (Pars descendens)
 - Ursprung:: [[Os occipitale]], [[HWK]] 2-6

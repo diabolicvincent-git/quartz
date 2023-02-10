@@ -1,6 +1,7 @@
 ---
 aliases: null
 tags: [m/m18, f/🦠/Erreger/Bakterien, f/🦠]
+title: MRGN
 ---
 ### Multiresistente gramnegative Stäbchen / MRGN
 > [[Enterobakterien]] ([[E. coli]], Klebsiellen), Nonfermenter ([[Pseudomonas aeruginosa]], Acinetobacter baumanii)

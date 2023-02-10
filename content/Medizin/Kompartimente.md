@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, m/m21, f/⚙️
+tags: [m/m14, m/m21, f/⚙️]
+title: Kompartimente
 ---
 ### Kompartimente
 > [[Wasserhaushalt]]

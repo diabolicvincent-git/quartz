@@ -1,6 +1,7 @@
 ---
 aliases: Interleukin, Interleukine
-tags: m/m08
+tags: [m/m08]
+title: IL
 ---
 ### Interleukine / IL
 > [[Cytokine]] zur Kommunikation zwischen [[Leukocyten]]

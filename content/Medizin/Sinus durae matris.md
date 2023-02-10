@@ -1,6 +1,7 @@
 ---
 aliases: Durale Sinus
-tags: m/m15, f/🧠, f/💀/Leitungsbahn/Vene
+tags: [m/m15, f/🧠, f/💀/Leitungsbahn/Vene]
+title: Sinus durae matris
 ---
 ### Sinus durae matris
 - **Funktion**:: Auffangbecken für [[Venen]] aus Gehirn, [[Meningen]], Augenhöhle

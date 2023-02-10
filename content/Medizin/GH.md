@@ -1,7 +1,8 @@
 ---
 aliases: Growth Hormone, Somatotropin, somatotropes Hormon, Wachstumshormon,
   Wachstumshormone
-tags: m/m22, f/🗞️, f/⚙️, f/🧪/Molekül
+tags: [m/m22, f/🗞️, f/⚙️, f/🧪/Molekül]
+title: GH
 ---
 ### Wachstumshormon / Growth Hormone / GH / Somatotropin
 - **Wirkung**

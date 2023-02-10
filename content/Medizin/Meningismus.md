@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m21, f/🧠, a/Pathologie
+tags: [m/m15, m/m21, f/🧠, a/Pathologie]
+title: Meningismus
 ---
 ### Meningismus
 - **Normalbefund**:: Nackenbeugung im Liegen ohne Schmerz mit geringem Widerstand

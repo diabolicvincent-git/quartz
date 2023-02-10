@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/🩸, f/💀, f/🔬
+tags: [m/m17, f/🩸, f/💀, f/🔬]
+title: Rotes Knochenmark
 ---
 ### Rotes [[Knochenmark]]
 - **Aussehen**:: Rötlich-braun (hoher [[Hb]]-Gehalt)

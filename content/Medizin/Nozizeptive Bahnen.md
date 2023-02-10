@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19
+tags: [m/m19]
+title: Nozizeptive Bahnen
 ---
 ### Nozizeptive Bahnen
 - **Aufsteigende nozizeptive Bahnen** im [[Rückenmark]]

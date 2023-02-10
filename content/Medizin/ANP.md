@@ -1,6 +1,7 @@
 ---
 aliases: Atriales natriuretisches Peptid
-tags: m/m11, m/m14, f/🫀, f/🍺, f/⚙️, f/🧪/Molekül, f/🧪, f/🧪/Molekül/Hormon
+tags: [m/m11, m/m14, f/🫀, f/🍺, f/⚙️, f/🧪/Molekül, f/🧪, f/🧪/Molekül/Hormon]
+title: ANP
 ---
 (Abstract::**Atriales [[Natriuretisches Peptid]].** ↑↑ bei [[Herzinsuffizienz]].)
 - **Regulation**:: [[Volumenrezeptoren]] in den [[Herz]]-Vorhöfen

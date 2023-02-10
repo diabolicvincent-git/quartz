@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: RCT
 ---
 > (Abstract::**Randomisierte kontrollierte Studie.**)
 - **Einteilung**:: [[Interventionsstudie]], [[Prospektive Studie]]

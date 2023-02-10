@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Leitungsbahn/Arterie, f/💀 
+tags: [f/💀/Leitungsbahn/Arterie, f/💀]
+title: A. subclavia
 ---
 - **Ursprung**:: [[Truncus brachiocephalicus]] (rechts), [[Aorta]] (links)
 - **Verlauf**

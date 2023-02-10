@@ -1,6 +1,7 @@
 ---
 aliases: Glomeruläre Filtrationsrate
-tags: m/m14
+tags: [m/m14]
+title: GFR
 ---
 ### Glomeruläre Filtrationsrate / GFR
 > Plasmamenge, die von allen Glomeruli pro Minute filtriert wird [ml/min]

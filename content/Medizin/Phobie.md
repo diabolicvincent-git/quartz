@@ -2,6 +2,7 @@
 aliases: 
 tags: [a/Pathologie, f/💭, m/m31]
 ICD: "F40"
+title: Phobie
 ---
 > (Abstract::[[Angststörung]] in ==spezifischer Akutsituation==, oft Entstehen von Erwartungsangst und Vermeidungsverhalten)
 - **Entitäten**

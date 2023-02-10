@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/⚙️, f/🧪, f/🦴
+tags: [m/m05, f/⚙️, f/🧪, f/🦴]
+title: Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
 ---
 - **Knochenzellen**
     - Osteocyten (85%)

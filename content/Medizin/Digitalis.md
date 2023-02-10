@@ -1,6 +1,7 @@
 ---
 aliases: Herzglykoside
-tags: m/m11, f/🫀, f/💊/Medikament/PIM, f/🍄/Gift
+tags: [m/m11, f/🫀, f/💊/Medikament/PIM, f/🍄/Gift]
+title: Digitalis
 ---
 - **Gruppe**:: [[Antiarrhythmika]]
 - **Indikation**:: Frequenzkontrolle bei [[Tachykardie]]-[[HRST]]

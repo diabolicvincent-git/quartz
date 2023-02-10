@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m08, f/🦠, a/Pathologie, f/💉
+tags: [m/m08, f/🦠, a/Pathologie, f/💉]
+title: Allergien
 ---
 ## Klassifizierung immunpathologischer Reaktionen
 

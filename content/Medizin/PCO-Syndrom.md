@@ -1,6 +1,7 @@
 ---
 aliases: Polycystisches Ovarsyndrom, Polycystisches ovarielles Syndrom
-tags: m/m22, f/🦩, a/Pathologie
+tags: [m/m22, f/🦩, a/Pathologie]
+title: PCO-Syndrom
 ---
 ### Polycystisches Ovarsyndrom / PCO-Syndrom
 - **Epidemiologie**:: Prävalenz 3-5%

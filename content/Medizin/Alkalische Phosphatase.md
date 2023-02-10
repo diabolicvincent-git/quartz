@@ -1,6 +1,7 @@
 ---
 aliases: AP
-tags: m/m12, f/💩, f/🥼, a/Intervention, f/🧪/Molekül/Enzym
+tags: [m/m12, f/💩, f/🥼, a/Intervention, f/🧪/Molekül/Enzym]
+title: Alkalische Phosphatase
 ---
 > **[[Leberwerte]]**
 - **Vorkommen**:: Ubiquitär, insb. in [[Leber]], [[Knochen]], [[Plazenta]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, m/m17, f/🗞️
+tags: [m/m04, m/m17, f/🗞️]
+title: M. Basedow
 ---
 ### M. Basedow 
 > [[Hyperthyreose]]

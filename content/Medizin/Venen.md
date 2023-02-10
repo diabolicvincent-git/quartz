@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Vene
+tags: [m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Vene]
+title: Venen
 ---
 ### Venen
 - **Funktion**:: Blutrückfluss zum [[Herz]], Kapazitätsgefäße ([[Niederdrucksystem]])

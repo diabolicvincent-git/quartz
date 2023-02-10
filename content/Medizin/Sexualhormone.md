@@ -1,6 +1,7 @@
 ---
 aliases: Geschlechtshormone
-tags: m/m22, f/🦩, f/🗞️
+tags: [m/m22, f/🦩, f/🗞️]
+title: Sexualhormone
 ---
 ### Sexualhormone / Geschlechtshormone
 > Alle Geschlechter produzieren [[♂]] & [[♀]] [[Sexualhormone]], jedoch unterschiedlich viel. Steuerung via [[Hypothalamus-Hypophysen-Achse]]

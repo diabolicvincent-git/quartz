@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08
+tags: [m/m08]
+title: Granulocyten
 ---
 - **[[Neutrophile Granulocyten]] (60%)**:: [[Bakterien]]-[[Infektionen]], [[Phagocytose]]
 - **[[Eosinophile Granulocyten]] (3%)**:: [[Parasiten]]-[[Infektionen]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m05, f/💀, f/🐣, a/Pathologie
+tags: [m/m05, f/💀, f/🐣, a/Pathologie]
+title: Situs inversus
 ---
 ### Situs inversus
 > Spiegelbildliche Anordnung der Organe und [[Gefäße]]

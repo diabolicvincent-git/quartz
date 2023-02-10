@@ -1,4 +1,5 @@
 ---
+title: Störung der Sehbahn
 ---
 - **Lokalisation** 
 	- *Prächiasmal:* ==[[N. opticus (II)]]== (+ distalere [[Sehbahn]]-Anteile)

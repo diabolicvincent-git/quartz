@@ -1,7 +1,8 @@
 ---
 aliases:
   - null
-tags: m/m15, m/m03, f/🧠, f/🧬, a/Pathologie
+tags: [m/m15, m/m03, f/🧠, f/🧬, a/Pathologie]
+title: Chorea Huntington
 ---
 ### Chorea Huntington
 - Hyperkinetisch

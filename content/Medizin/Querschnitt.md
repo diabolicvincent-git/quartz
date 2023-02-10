@@ -1,6 +1,7 @@
 ---
 aliases: Querschnittslähmung, Querschnittssyndrom
-tags: m/m10, f/🧠, f/🦴, a/Pathologie
+tags: [m/m10, f/🧠, f/🦴, a/Pathologie]
+title: Querschnitt
 ---
 ### Komplettes Querschnittssyndrom
 > Läsion der gesamten auf- und absteigenden Leitungsbahnen des Rückenmarks

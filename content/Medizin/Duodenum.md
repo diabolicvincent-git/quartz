@@ -1,6 +1,7 @@
 ---
 aliases: Zwölffingerdarm
-tags: m/m12, f/💀, f/💩
+tags: [m/m12, f/💀, f/💩]
+title: Duodenum
 ---
 ### Duodenum / Zwölffingerdarm
 - **Funktion**

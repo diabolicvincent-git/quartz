@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🧪, f/🧪/Molekül
+tags: [m/m05, f/🧪, f/🧪/Molekül]
+title: Caspase
 ---
 ### Cysteinyl-Aspartasen / Caspasen
 - Enthalten [[Cystein]] im aktiven Zentrum, spalten Substrate immer nach [[Aspartat]]

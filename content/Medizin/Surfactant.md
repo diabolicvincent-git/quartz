@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m13, f/🫁
+tags: [m/m13, f/🫁]
+title: Surfactant
 ---
 ### Surfactant
 > Oberflächenaktive Substanz auf der Oberfläche des [[Alveolen]]-[[Epithel]]

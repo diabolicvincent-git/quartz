@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/🥼
+tags: [m/m14, f/🍺, f/🥼]
+title: Kreatinin
 ---
 ### Kreatinin
 - **Funktion**:: Abbauprodukt, abhängig von Muskelmasse

@@ -2,7 +2,8 @@
 aliases:
   - VitB7
   - Biotin
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin B7
 ---
 ### Vitamin B7 / Biotin 
 - **Aktive Form**:: Biotin

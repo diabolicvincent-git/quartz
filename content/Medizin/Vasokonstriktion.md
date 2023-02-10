@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m08, m/m21, f/⚙️
+tags: [m/m08, m/m21, f/⚙️]
+title: Vasokonstriktion
 ---
 ### Vasokonstriktion / Gefäßverengung
 - **Ätiologie**

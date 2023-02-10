@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, m/m19
+tags: [m/m18, m/m19]
+title: Kaposi-Sarkom
 ---
 ### Kaposi-Sarkom
 > [[AIDS]]- und HHV8-assoziiertes Malignom ([[Risiko]] bei [[HIV]] x20.000)

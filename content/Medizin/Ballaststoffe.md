@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, f/💩, f/⚙️
+tags: [m/m12, f/💩, f/⚙️]
+title: Ballaststoffe
 ---
 > (Abstract::Nahrungsbestandteile, die im [[Dünndarm]] weder verdaut noch absorbiert werden (i.d.R. [[Kohlenhydrate]]))
 - **Funktionen**

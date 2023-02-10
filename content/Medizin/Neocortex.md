@@ -1,6 +1,7 @@
 ---
 aliases: Isocortex
-tags: m/m15
+tags: [m/m15]
+title: Gliederung
 ---
 ## Zelltypen
 ### Pyramidenzellen

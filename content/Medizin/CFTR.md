@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪, f/🫁, f/🧪/Molekül
+tags: [m/m03, f/🧪, f/🫁, f/🧪/Molekül]
+title: CFTR
 ---
 ### Cystic Fibrosis Transmembrane Conductance Regulator / CFTR
 > [[cAMP]]-abhängiger Chloridkanal

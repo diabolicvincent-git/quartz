@@ -1,6 +1,7 @@
 ---
 aliases: Spitzenumkehrtachykardie
-tags: m/m11, m/m21, f/🫀, a/Pathologie
+tags: [m/m11, m/m21, f/🫀, a/Pathologie]
+title: Torsade de Pointes
 ---
 ### Torsade de Pointes / Spitzenumkehrtachykardie
 > Paroxysmale **[[Ventrikuläre Tachykardie]]** mit wechselnder [[QRS]]-Polarität um [[EKG]]-Nulllinie

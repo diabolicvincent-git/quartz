@@ -1,6 +1,7 @@
 ---
 aliases: Mycose, Pilzinfektionen
-tags: m/m18, f/🦠, a/Pathologie
+tags: [m/m18, f/🦠, a/Pathologie]
+title: Pilzinfektion
 ---
 ### Pilzinfektionen / Mycosen
 > *Invasive* und *oberflächliche* Mycosen durch [[Pilze]]

@@ -1,6 +1,7 @@
 ---
 aliases: Sympatholytika
-tags: m/m11, f/🫀, f/💊/Medikament
+tags: [m/m11, f/🫀, f/💊/Medikament]
+title: Antisympathotonika
 ---
 > (Abstract::Auch: Sympatholytika.)
 - **Wirkstoffe**

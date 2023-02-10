@@ -1,6 +1,7 @@
 ---
 aliases: Darminvagination
-tags: m/m26, f/💩, f/🔪
+tags: [m/m26, f/💩, f/🔪]
+title: Invagination
 ---
 ### Darminvagination
 > Hereinstülpen eines Darmabschnitts in aboralen Abschnitt → [[Ileus]], [[Ischämie]]

@@ -1,6 +1,7 @@
 ---
 aliases: Major Histocompatibility Complex
-tags: m/m08, m/m17, f/⚙️, f/🦠, f/🩸
+tags: [m/m08, m/m17, f/⚙️, f/🦠, f/🩸]
+title: MHC
 ---
 ### Major Histocompatibility Complex / MHC 
 > Rezeptoren zur Erkennung durch [[Unspezifisches Immunsystem]] ([[NK-Zellen]]) und Aktivierung des [[Spezifisches Immunsystem]] ([[Professionelle antigenpräsentierende Zellen]])

@@ -1,6 +1,7 @@
 ---
 aliases: Rekapillarisierungszeit
-tags: m/m00, a/Intervention
+tags: [m/m00, a/Intervention]
+title: Recap-Zeit
 ---
 ### Rekapillarisierungszeit / Recap-Zeit / Nagelbettprobe
 - **Normwert**:: 2-3 s

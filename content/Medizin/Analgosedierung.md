@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m20, a/Intervention, f/💤
+tags: [m/m20, a/Intervention, f/💤]
+title: Analgosedierung
 ---
 (Abstract::[[Analgetika]] + Narkotika → Toleranzerhöhung, Spontanatmung erhalten)
 - **Wirkstoffe**

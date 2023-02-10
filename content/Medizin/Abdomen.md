@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💀, f/💀/Organ
+tags: [f/💀, f/💀/Organ]
+title: Abdomen
 ---
 - **[[Körperregionen]]**
 	- Regio epigastrica

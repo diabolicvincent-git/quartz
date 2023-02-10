@@ -1,6 +1,7 @@
 ---
 aliases: Netzhaut, Retinae
-tags: m/m16
+tags: [m/m16]
+title: Retina
 ---
 - **Funktion**:: Visuelle Wahrnehmung
 - Embryologisch Teil des [[Diencephalon]]s

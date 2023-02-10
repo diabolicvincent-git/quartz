@@ -1,6 +1,7 @@
 ---
 aliases: Haemophilus influenzae
-tags: m/m18
+tags: [m/m18]
+title: H. influenzae
 ---
 ### Haemophilus influenzae
 > [[gramnegativ]] > Stäbchen > [[H. influenzae]]

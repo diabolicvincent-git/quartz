@@ -1,5 +1,6 @@
 ---
-tags: f/🦠/Antiinfektiva/Antimykotika
+tags: [f/🦠/Antiinfektiva/Antimykotika]
+title: Azole
 ---
 - **Wirkmechanismus**:: Hemmung [[Ergosterol]]-Synthese ([[Zellwand]])
 - **UAW**:: Interaktionen, Nierenfunktionsstörungen, Sehrstörungen (Voriconazol)

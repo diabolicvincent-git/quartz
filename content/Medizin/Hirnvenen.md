@@ -1,6 +1,7 @@
 ---
 aliases: Gehirnvenen
-tags: m/m15, f/💀, f/🧠
+tags: [m/m15, f/💀, f/🧠]
+title: Hirnvenen
 ---
 > [[Hirnvenen]] haben keine [[Venenklappen]] und kein Muskelgewebe in der Gefäßwand
 ## Oberflächliche Gehirnvenen (Vv. superficiales cerebri)

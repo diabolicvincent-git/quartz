@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m17, m/m26, f/💊/Medikament
+tags: [m/m17, m/m26, f/💊/Medikament]
+title: Tacrolimus
 ---
 ### Tacrolimus
 > **[[Immunsuppressiva]]**

@@ -1,6 +1,7 @@
 ---
 aliases:
 tags: [m/m15, f/🧠, f/💭, a/Pathologie, m/m31, m/m30]
+title: Ätiologie
 ---
 - **Ätiologie**:: Primär neurodegenerativ/vaskulär ↔︎ Sekundär Hirnschädigung
 	- **Primär:** [[Neurodegenerative Erkrankungen]] ([[M. Alzheimer]] (>50%), [[Frontotemporale Demenz]], [[Parkinson-Syndrom]], [[Lewy-Body-Demenz]]), [[Vaskuläre Demenz]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m22, f/🗞️, f/⚙️, f/🧪, f/🧪/Molekül
+tags: [m/m22, f/🗞️, f/⚙️, f/🧪, f/🧪/Molekül]
+title: Wachstumsfaktoren
 ---
 ### Wachstumsfaktoren
 > [[Cytokine]] zur Beeinflussung von Proliferation/Differenzierung

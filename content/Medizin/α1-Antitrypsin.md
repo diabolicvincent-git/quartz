@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🧪, f/🫁, f/🧪/Molekül/Enzym
+tags: [m/m13, f/🧪, f/🫁, f/🧪/Molekül/Enzym]
+title: Pathologie
 ---
 ### α1-Antitrypsin
 > *Antiprotease*, Teil der [[Entzündung]], schützt gesunde Zellen vor proteolytischem Abbau

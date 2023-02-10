@@ -1,6 +1,7 @@
 ---
 aliases:
  - Kohlenhydrat
+title: Kohlenhydrate
 ---
 
 # Kohlenhydrate

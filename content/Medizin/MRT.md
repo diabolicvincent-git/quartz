@@ -1,6 +1,7 @@
 ---
 aliases: Magnetresonanztomographie
-tags: m/m00, a/Intervention, f/🕶️/Standardbildgebung
+tags: [m/m00, a/Intervention, f/🕶️/Standardbildgebung]
+title: MRT
 ---
 ### Magnetresonanztomographie / MRT
 - **Indikation**:: Beurteilung von Weichteilen und [[Nervengewebe]]

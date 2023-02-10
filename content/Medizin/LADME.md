@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m24, f/💊/Medikament
+tags: [m/m24, f/💊/Medikament]
+title: LADME
 ---
 ### LADME / Schritte der [[Pharmakokinetik]]
 - **Liberation**:: Arzneiform, [[Applikation]]

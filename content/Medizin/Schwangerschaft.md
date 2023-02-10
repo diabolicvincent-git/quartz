@@ -1,6 +1,7 @@
 ---
 aliases: Gravidität
-tags: m/m05, m/m22
+tags: [m/m05, m/m22]
+title: Schwangerschaft
 ---
 - **Diagnostik**
 	- *Sichere Zeichen:* ==[[Schwangerschaftstest]]==

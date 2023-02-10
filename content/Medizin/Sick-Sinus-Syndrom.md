@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🫀
+tags: [a/Pathologie, f/🫀]
+title: Sick-Sinus-Syndrom
 ---
 > (Abstract::**[[HRST]] durch [[Sinusknoten]]-Störung.** Sinusbradykardie, intermittierend Sinusarrest / SA-Block oder abwechselnd Tachykardie-Bradykardie-Syndrom.)
 - **Ätiologie**:: [[KHK]], [[Myokarditis]], [[Kardiomyopathie]], Genetik (SCN5A, HCN4 Kanäle)

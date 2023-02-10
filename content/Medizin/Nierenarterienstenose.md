@@ -1,6 +1,7 @@
 ---
 aliases: NAST
-tags: m/m14
+tags: [m/m14]
+title: Nierenarterienstenose
 ---
 ### Nierenarterienstenose
 > Nierenarterienstenose → [[Renale Perfusion]]↓ → [[RAAS]]↑ → sekundärer [[Hyperaldosteronismus]]

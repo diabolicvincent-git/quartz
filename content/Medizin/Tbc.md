@@ -1,6 +1,7 @@
 ---
 aliases: Tuberkulose
-tags: m/m18, a/Pathologie, a/Pathologie, f/🫁, f/🦠
+tags: [m/m18, a/Pathologie, a/Pathologie, f/🫁, f/🦠]
+title: Tbc
 ---
 ### Tuberkulose / Tbc
 - **Epidemiologie**:: 25% latent infiziert, tödlichste Infektionskrankheit weltweit

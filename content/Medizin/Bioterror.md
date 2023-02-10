@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🍄, f/🦠, f/📊
+tags: [m/m18, f/🍄, f/🦠, f/📊]
+title: Bioterror
 ---
 ### Potentielle Bioterror-Agenzien / "Dirty Dozen"
 - **[[Bakterien]]**

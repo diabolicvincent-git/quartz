@@ -1,7 +1,8 @@
 ---
 aliases: Erythrocytenkonzentrat
-tags: m/m08, f/💊/Medikament, f/🩸/Transfusion/Blutprodukt
+tags: [m/m08, f/💊/Medikament, f/🩸/Transfusion/Blutprodukt]
 gruppe: "[[Transfusion]]"
+title: EK
 ---
 > (Abstract::**Erythrocytenkonzentrat.**)
 - **Indikation**:: [[Anämie]]bedingte Hypoxie

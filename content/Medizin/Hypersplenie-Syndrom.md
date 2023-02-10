@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19
+tags: [m/m19]
+title: Hypersplenie-Syndrom
 ---
 ### Hypersplenie-Syndrom
 > [[Splenomegalie]], [[Pancytopenie]], [[Knochenmark]]-[[Hyperplasie]]

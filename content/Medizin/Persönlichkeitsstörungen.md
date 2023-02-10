@@ -1,4 +1,5 @@
 ---
+title: Persönlichkeitsstörungen
 ---
 - **Klassifikation:** Clustereinteilung nach DSM-5
 	- [[Cluster A]]

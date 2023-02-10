@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m09, f/🧴, f/⛑️/SOP, a/Pathologie
+tags: [m/m09, f/🧴, f/⛑️/SOP, a/Pathologie]
+title: Anaphylaxie
 ---
 (Abstract::Akute, lebensgefährliche [[Allergie]])
 - **Ätiologie**:: Nahrungsmittel (v.a. Kinder), Insektengift, Medikamente

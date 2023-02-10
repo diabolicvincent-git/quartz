@@ -1,6 +1,7 @@
 ---
 aliases: Schmerzen
-tags: m/m20, a/Pathologie
+tags: [m/m20, a/Pathologie]
+title: Schmerz
 ---
 ### Schmerz
 > Unangenehme sensible/emotionale Erfahrung mit aktueller oder potentieller Gewebeschädigung

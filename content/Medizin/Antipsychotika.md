@@ -1,6 +1,7 @@
 ---
 aliases: Neuroleptika
-tags: m/m20, f/💭, f/💊/Medikament/Übergruppe
+tags: [m/m20, f/💭, f/💊/Medikament/Übergruppe]
+title: Antipsychotika
 ---
 > (Abstract::Veraltet: Neuroleptika)
 - **Wirkmechanismus**:: [[DOPamin]]-Antagonismten an D2 o.a. [[Rezeptor]]

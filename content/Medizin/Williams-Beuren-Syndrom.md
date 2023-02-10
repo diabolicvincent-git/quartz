@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/🧬, a/Pathologie
+tags: [m/m17, f/🧬, a/Pathologie]
+title: Williams-Beuren-Syndrom
 ---
 ### Williams-Beuren-Syndrom 
 - **Genetik**:: [[Deletion]] [[Chromosom]] 7, q-Arm

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, a/Intervention
+tags: [m/m11, f/🫀, a/Intervention]
+title: Rückwand-Ableitungen (V7-V9)
 ---
 > (Abstract::Bei V.a. [[Hinterwandinfarkt]])
 - **Elektroden**

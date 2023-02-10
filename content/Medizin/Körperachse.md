@@ -1,4 +1,5 @@
 ---
+title: Körperachse
 ---
 - [[Longitudinalachse]]
 - [[Sagittalachse]]

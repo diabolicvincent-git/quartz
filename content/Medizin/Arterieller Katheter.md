@@ -1,5 +1,6 @@
 ---
-tags: f/💤, f/⛑️, a/Intervention
+tags: [f/💤, f/⛑️, a/Intervention]
+title: Arterieller Katheter
 ---
 > (Abstract::Katheter in peripheren [[Arterien]])
 - **Indikation**:: [[Invasive Blutdruckmessung]], wiederholte [[BGA]], Pulskonturanalyse ([[Hämodynamische Instabilität]])

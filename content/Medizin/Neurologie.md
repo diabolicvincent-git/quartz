@@ -1,4 +1,5 @@
 ---
+title: Neurologie
 ---
 ```dataview
 TABLE Abstract

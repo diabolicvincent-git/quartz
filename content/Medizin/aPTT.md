@@ -1,6 +1,7 @@
 ---
 aliases: PTT, partielle Thromboplastinzeit
-tags: m/m08, f/🩸, f/🥼
+tags: [m/m08, f/🩸, f/🥼]
+title: aPTT
 ---
 > (Abstract::**(aktivierte) partielle Thromboplastinzeit.** )
 - **Normwert**:: 

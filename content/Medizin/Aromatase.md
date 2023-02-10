@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🗞️, f/🦩, f/🧪, f/🧪/Molekül
+tags: [m/m22, f/🗞️, f/🦩, f/🧪, f/🧪/Molekül]
+title: Aromatase
 ---
 ### Aromatase
 > [[CYP]]450

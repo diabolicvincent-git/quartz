@@ -1,6 +1,7 @@
 ---
 aliases: Bell Pallsy
-tags: m/m30, f/🧠, a/Pathologie
+tags: [m/m30, f/🧠, a/Pathologie]
+title: Facialisparese
 ---
 > (Abstract::Periphere Facialisparese)
 - **Ätiologie**

@@ -1,6 +1,7 @@
 ---
 aliases: Schmerzwahrnehmung
-tags: m/m09
+tags: [m/m09]
+title: Nozizeption
 ---
 ### Nozizeption / Schmerzwahrnehmung
 > Wahrnehmung, Modulation & Verarbeitung von *[[Schmerz]]*

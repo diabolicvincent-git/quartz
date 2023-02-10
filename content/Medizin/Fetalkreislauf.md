@@ -1,6 +1,7 @@
 ---
 aliases: Fetaler Kreislauf
-tags: m/m11, m/m05, f/🐣, f/⚙️
+tags: [m/m11, m/m05, f/🐣, f/⚙️]
+title: Kreislauf
 ---
 
 ## Fördernde Aspekte der Sauerstoffversorgung

@@ -1,6 +1,7 @@
 ---
 aliases: Hexosemonophosphatweg
-tags: m/m03, f/🧪
+tags: [m/m03, f/🧪]
+title: Pentosephosphatweg
 ---
 ### Pentosephosphatweg / Hexosemonophosphatweg
 > Abzweig der [[Glycolyse]]

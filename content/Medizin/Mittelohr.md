@@ -1,6 +1,7 @@
 ---
 aliases: Auris media
-tags: m/m16, f/👂
+tags: [m/m16, f/👂]
+title: Mittelohr
 ---
 ### Mittelohr 
 > =="Verstärker" für Gehör und Gleichgewichtswahrnehmung==

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/💉, a/Pathologie, f/⚙️
+tags: [m/m17, f/💉, a/Pathologie, f/⚙️]
+title: Antiphospholipid-Syndrom
 ---
 > (Abstract::Erworbene [[Thrombophilie]] mit Bildung von [[Auto-Antikörper]]n gegen Phospholipid-gebundene [[Proteine]])
 - **Ätiologie**:: Assoziation mit [[SLE]], [[HIV]] u.ä. oder idiopathisch

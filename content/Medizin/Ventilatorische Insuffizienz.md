@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, a/Pathologie
+tags: [m/m13, f/🫁, a/Pathologie]
+title: Ventilatorische Insuffizienz
 ---
 Insuffizienz der Atemmuskelpumpe (Missverhältnis zwischen Kapazität & Last)
 

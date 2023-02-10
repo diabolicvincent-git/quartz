@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m09, f/🧴, f/⚙️
+tags: [m/m09, f/🧴, f/⚙️]
+title: SEM Knallrot oder kreidebleich
 ---
 # SEM Knallrot oder kreidebleich
 

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, f/🧪, f/⚙️
+tags: [m/m02, f/🧪, f/⚙️]
+title: De novo Synthese von Purinbasen
 ---
 ## Strukturelemte von Nucleotiden
 

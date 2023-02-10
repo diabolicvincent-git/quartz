@@ -1,6 +1,7 @@
 ---
 aliases: ABCDE-Regel
-tags: m/m09, f/🧴, a/Intervention
+tags: [m/m09, f/🧴, a/Intervention]
+title: Dermatologische Malignitätskriterien
 ---
 > [[Melanom]] [[Krebsvorsorgeuntersuchung]]
 - **Asymmetrie**

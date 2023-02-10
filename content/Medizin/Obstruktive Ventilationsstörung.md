@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁
+tags: [m/m13, f/🫁]
+title: Obstruktive Ventilationsstörung
 ---
 - Strömungswiderstand im [[Bronchialbaum]] ↑ → [[Resistance]] ↑
 - **Ursachen**:: Erhöhte Mukusproduktion (z.B. [[Mukoviszidose]]), Schleimhautschwellung, Muskelspasmen (z.B. [[Asthma]], [[COPD]])

@@ -1,6 +1,7 @@
 ---
 aliases: Vancomycin, Teicoplanin
-tags: m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament
+tags: [m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament]
+title: Glycopeptide
 ---
 - **Wirkmechanismus**:: [[Störung der Zellwandsynthese]] (Komplexbildung mit Murein)
 - **Wirkspektrum**:: ==Nur [[grampositiv]]==

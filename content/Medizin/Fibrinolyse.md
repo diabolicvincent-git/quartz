@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🩸, f/⚙️
+tags: [m/m08, f/🩸, f/⚙️]
+title: Fibrinolyse
 ---
 ### Fibrinolyse
 - **Funktion**:: Verhindert unnötige Fibrinbildung, Abbau alter Thromben

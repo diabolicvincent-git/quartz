@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🧪, f/⚙️
+tags: [m/m14, f/🧪, f/⚙️]
+title: HCO3-
 ---
 ### Bicarbonat / HCO3-
 - Ca. 50% der Gesamtpufferkapazität des Bluts

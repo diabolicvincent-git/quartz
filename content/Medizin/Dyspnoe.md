@@ -1,6 +1,7 @@
 ---
 aliases: Atemnot
-tags: m/m11, m/m13, f/🫁
+tags: [m/m11, m/m13, f/🫁]
+title: Dyspnoe
 ---
 ### Dyspnoe / Atemnot
 

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Pathologie
+tags: [m/m30, f/🧠, a/Pathologie]
+title: Schlaffe Parese
 ---
 ### Schlaffe [[Parese]]
 - **Ätiologie**:: ==Peripher (2. Motoneuron)==

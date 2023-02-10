@@ -1,6 +1,7 @@
 ---
 aliases: Auris externa
-tags: m/m16, f/👂, f/💀
+tags: [m/m16, f/👂, f/💀]
+title: Außenohr
 ---
 ### Außenohr 
 - **Funktion**:: Schalltrichter ([[Richtungshören]]), Resonanzbildung, Schutz

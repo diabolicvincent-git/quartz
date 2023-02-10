@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/⚙️, f/🧬
+tags: [m/m05, f/⚙️, f/🧬]
+title: Hardy-Weinberg-Gesetz
 ---
 ### Hardy-Weinberg-Gesetz
 > Ermittlung der Heterocygotenfrequenz bei rezessiven Erkrankungen

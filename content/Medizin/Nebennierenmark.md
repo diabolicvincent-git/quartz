@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/💀, f/🍺
+tags: [m/m14, f/💀, f/🍺]
+title: Nebennierenmark
 ---
 **Nebennierenmark**:: Produziert [[Katecholamine]]
 - **[[ACh]]erge multipolare Ganglien**

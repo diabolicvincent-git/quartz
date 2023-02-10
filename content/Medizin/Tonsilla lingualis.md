@@ -1,6 +1,7 @@
 ---
 aliases: Zungenmandel
-tags: f/💀/Organ/Tonsillen, f/💀, f/👂
+tags: [f/💀/Organ/Tonsillen, f/💀, f/👂]
+title: Tonsilla lingualis
 ---
 > (Abstract::**Zungenmandel ([[Tonsillen]]).**)
 - **Lage**:: Lymphatisches Gewebe am [[Zungengrund]]

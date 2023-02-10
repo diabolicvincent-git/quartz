@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, m/m19, f/🦀
+tags: [m/m18, m/m19, f/🦀]
+title: Immune Escape
 ---
 - **Mechanismen von [[Tumor]]en**
 	- Keine Peptidpräsentation an [[MHC]]-I (*niedrige Immunogenität*)

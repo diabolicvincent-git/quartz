@@ -1,4 +1,5 @@
 ---
+title: M. levator palpebrae superioris
 ---
 ##### M. levator palpebrae superioris
 *   Ala minor des Os sphenoidale

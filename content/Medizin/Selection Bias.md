@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Selection Bias
 ---
 > (Abstract::[[Stichprobe]] ist nicht repräsentativ für [[Grundgesamtheit]])
 - **Beispiele** 

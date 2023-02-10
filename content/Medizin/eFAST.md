@@ -1,6 +1,7 @@
 ---
 aliases: extended focused assesment with sonography for trauma
-tags: m/m21, f/💤, a/Intervention
+tags: [m/m21, f/💤, a/Intervention]
+title: eFAST
 ---
 ### eFAST
 > [[Notfallsonographie]] bei Trauma

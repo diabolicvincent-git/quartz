@@ -1,6 +1,7 @@
 ---
 aliases: Cytogenetik
-tags: m/m02, f/🧬, a/Intervention
+tags: [m/m02, f/🧬, a/Intervention]
+title: Karyogramm
 ---
 
 ### Karyogramm / Cytogenetik 

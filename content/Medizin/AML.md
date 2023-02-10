@@ -1,6 +1,7 @@
 ---
 aliases: Akute myeloische Leukämie
-tags: m/m19, f/🦀, f/🩸, a/Pathologie
+tags: [m/m19, f/🦀, f/🩸, a/Pathologie]
+title: AML
 ---
 - **FAB-Klassifikation**
 	- M0: [[AML]] mit minimaler Differenzierung

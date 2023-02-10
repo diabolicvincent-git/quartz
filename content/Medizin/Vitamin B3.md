@@ -4,7 +4,8 @@ aliases:
   - Niacin
   - NAD
   - NADP
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin B3
 ---
 ### Vitamin B3 / Niacin 
 - **Aktive Form**:: NAD+/NADH, NADP+/NADPH

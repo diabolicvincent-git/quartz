@@ -1,6 +1,7 @@
 ---
 aliases: Differences of Sex Development, Disorders of Sex Development, Varianten der Geschlechtsentwicklung
-tags: m/m22, f/🦩, f/🍆, a/Pathologie
+tags: [m/m22, f/🦩, f/🍆, a/Pathologie]
+title: DSD
 ---
 ### Varianten der [[Geschlechtsentwicklung]] / Differences of Sex Development / DSD
 - **Einteilung**

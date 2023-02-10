@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/⚙️
+tags: [m/m10, f/⚙️]
+title: Energieversorgung der Muskulatur
 ---
 - Energiebereitstellung
     - Anaerob

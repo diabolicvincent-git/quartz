@@ -1,6 +1,7 @@
 ---
 aliases: Virulenzfaktoren
-tags: m/m18, f/🦠
+tags: [m/m18, f/🦠]
+title: Pathogenitätsfaktoren
 ---
 ### Pathogenitätsfaktoren / Virulenzfaktoren
 > [[Bakterien]]-Eigenschaften, die Krankheitsentwicklung begünstigen

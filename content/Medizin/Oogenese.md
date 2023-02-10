@@ -1,6 +1,7 @@
 ---
 aliases: Eizellreifung
-tags: m/m22, f/🦩, f/🧪
+tags: [m/m22, f/🦩, f/🧪]
+title: Oogenese
 ---
 ### Oogenese / Eizellreifung
 > Alle Eizellen sind pränatal angelegt

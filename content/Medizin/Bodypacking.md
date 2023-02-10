@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m31
+tags: [m/m31]
+title: Bodypacking
 ---
 ### Bodypacking
 > Transport von verpackten Drogen durch Schlucken bzw. sonstiges Einbringen in den Körper

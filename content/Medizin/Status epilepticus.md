@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m21, f/🧠, a/Pathologie, a/Pathologie
+tags: [m/m15, m/m21, f/🧠, a/Pathologie, a/Pathologie]
+title: Status epilepticus
 ---
 ### Status epilepticus
 > Jeder [[Krampfanfall]] ≥5 min oder 2 Anfälle ohne zwischenzeitliche Aufklarung

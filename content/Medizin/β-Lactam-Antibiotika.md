@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, f/💊/Medikament
+tags: [m/m18, f/🦠, f/💊/Medikament]
+title: β-Lactam-Antibiotika
 ---
 ### β-Lactam-[[Antibiotika]]
 - **Wirkmechanismus**:: Störung der Zellwandsynthese (Hemmung von *Transpeptidasen*[^1])

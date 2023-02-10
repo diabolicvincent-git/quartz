@@ -1,4 +1,5 @@
 ---
+title: Endokrinologie
 ---
 - [[Störungen der Sexualhormone]]
 	- [[Sterilität]]

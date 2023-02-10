@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💀, f/💀/Leitungsbahn/Arterie
+tags: [m/m15, f/🧠, f/💀, f/💀/Leitungsbahn/Arterie]
+title: A. cerebri anterior
 ---
 - **Ursprung**:: Aus [[A. carotis interna]]
 - **Infarkt**:: Beinbetonte sensomotorische Hemiparese kontralateral

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/💀, f/🧠, f/🦴
+tags: [m/m10, f/💀, f/🧠, f/🦴]
+title: Plexus brachialis
 ---
 ### Plexus brachialis
 ![[PlexusBrachialis_Schema.png]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/🧴, f/💀, f/🔬
+tags: [m/m09, f/🧴, f/💀, f/🔬]
+title: Haut
 ---
 ### Haut
 - **Funktion**:: Schutz ([[UV]], [[Immunsystem]]), Sinne (insb. [[Nozizeption]]), Synthese ([[Melanin]], [[Vitamin D]]), Homöostase ([[Volumen]], [[Wärmehaushalt]])

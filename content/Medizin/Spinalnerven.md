@@ -1,6 +1,7 @@
 ---
 aliases: Spinalnerv
-tags: m/m15, f/🧠, f/💀, f/⚙️
+tags: [m/m15, f/🧠, f/💀, f/⚙️]
+title: Spinalnerven
 ---
 ### Spinalnerven 
 > Vereinigung der ventral und dorsal aus dem [[Rückenmark]] entspringenden Nervenwurzeln

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19
+tags: [m/m19]
+title: Paraneoplastisches Syndrom
 ---
 ### Paraneoplastisches Syndrom
 > Neben [[Tumor]]-Erkrankung auftretende Phänomene, häufig bei [[SCLC]]

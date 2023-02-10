@@ -1,6 +1,7 @@
 ---
 aliases: Urea
-tags: m/m14, f/🧪, f/🍺, f/⚙️
+tags: [m/m14, f/🧪, f/🍺, f/⚙️]
+title: Harnstoff
 ---
 ### Harnstoff 
 - **Funktion**:: Stoffwechselendprodukt des Proteinabbaus → Stickstoff-Entsorgung

@@ -1,5 +1,6 @@
 ---
-tags: m/m14, f/🍺, f/🫀, f/🧪/Molekül/Hormon
+tags: [m/m14, f/🍺, f/🫀, f/🧪/Molekül/Hormon]
+title: ADH
 ---
 > (Abstract::Pharmakologisches Äquivalent: [[Vasopressin]])
 - **Synthese**:: Nonapeptid mit Disulfidbrücke

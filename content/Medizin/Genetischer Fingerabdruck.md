@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, f/🧬, a/Intervention
+tags: [m/m02, f/🧬, a/Intervention]
+title: Genetischer Fingerabdruck
 ---
 > Analyse der Länge hochrepetitiver Intron-Sequenzen → Beurteilung des Verwandschaftsgrades
 

@@ -1,6 +1,7 @@
 ---
 aliases: Kontrastmittel
-tags: m/m00, a/Intervention
+tags: [m/m00, a/Intervention]
+title: KM
 ---
 > (Abstract::**Kontrastmittel.**)
 - **Vorbereitung** vor Gabe von *iodhaltigem [[KM]]*

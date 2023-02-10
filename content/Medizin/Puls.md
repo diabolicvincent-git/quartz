@@ -1,6 +1,7 @@
 ---
 aliases: Pulswelle
-tags: m/m11
+tags: [m/m11]
+title: Puls
 ---
 ### Puls
 - **Pulswellen**

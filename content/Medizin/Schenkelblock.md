@@ -1,6 +1,7 @@
 ---
 aliases: Schenkelblöcke, Blockbild
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Schenkelblock
 ---
 ### Schenkelblock
 > Erregungsleitung-Störung in [[Tawara-Schenkel]] → verspätete Erregung der betroffenen Seite

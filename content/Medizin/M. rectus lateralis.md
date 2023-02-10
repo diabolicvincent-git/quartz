@@ -1,4 +1,5 @@
 ---
+title: M. rectus lateralis
 ---
 ##### M. rectus lateralis
 *   Anulus tendineus

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/💤, a/Intervention
+tags: [m/m21, f/💤, a/Intervention]
+title: NACA
 ---
 ### NACA
 - **0°**:: Keine Störung

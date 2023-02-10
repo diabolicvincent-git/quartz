@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. pectoralis major
 ---
 ### M. pectoralis major
 - Ursprung:: [[Clavicula]], [[Rippen]] 1-6, [[Rectusscheide]]

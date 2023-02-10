@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/⚙️, f/💤, f/🧠, f/🧴
+tags: [m/m09, f/⚙️, f/💤, f/🧠, f/🧴]
+title: Nozizeptoren
 ---
 > (Abstract::Primäre Sinneszellen der [[Nozizeption]] (freie Nervenenden))
 

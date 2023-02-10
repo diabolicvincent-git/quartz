@@ -1,6 +1,7 @@
 ---
 aliases: Ejektionsfraktion
-tags: m/m11, f/🫀, f/⚙️
+tags: [m/m11, f/🫀, f/⚙️]
+title: EF
 ---
 ### Ejektionsfraktion / EF
 > Schlagvolumen / enddiastolisches Volumen

@@ -1,6 +1,7 @@
 ---
 aliases: Interferon, Interferone
-tags: m/m08, m/m17, f/⚙️, f/🧪, f/🦠, f/🧪/Molekül
+tags: [m/m08, m/m17, f/⚙️, f/🧪, f/🦠, f/🧪/Molekül]
+title: IFN
 ---
 ### Interferon / IFN
 - **Typ-1-Interferone**:: *IFN-α* und *IFN-β* (Abwehrmechanismus ==[[Viren]]-infizierter Zellen==)

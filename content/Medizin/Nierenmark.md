@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: m/m14, f/💀, f/🍺
+tags: [m/m14, f/💀, f/🍺]
+title: Nierenmark
 ---
 ### Nierenmark 
 - Hier befinden sich hauptsächlich die [[Nierentubuli]] und die Sammelrohre

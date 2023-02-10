@@ -1,6 +1,7 @@
 ---
 aliases: Bipolarzelle
-tags: m/m16, f/⚙️, f/👁️
+tags: [m/m16, f/⚙️, f/👁️]
+title: Bipolarzellen
 ---
 ### On-[[Zapfen]]bipolarzellen
 - Dunkelheit: [[Zapfen]] setzen [[Glutamat]] frei → metabotroper Glutamatrezeptor (mGLUR) → *Hemmung bei Dunkelheit*

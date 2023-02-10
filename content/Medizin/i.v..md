@@ -1,6 +1,7 @@
 ---
 aliases: intravenös
-tags: m/m00
+tags: [m/m00]
+title: i.v.
 ---
 ### intravenös / i.v.
 > **[[Applikation]]** in [[Venen]]

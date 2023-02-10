@@ -1,6 +1,7 @@
 ---
 aliases: Persistierendes Foramen ovale
-tags: m/m25, f/🫀, f/🦄, a/Pathologie
+tags: [m/m25, f/🫀, f/🦄, a/Pathologie]
+title: PFO
 ---
 ### Persistierendes Foramen ovale (PFO)
 > [[Herzfehler]]

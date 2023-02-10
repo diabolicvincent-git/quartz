@@ -1,6 +1,7 @@
 ---
 aliases: Genital, Genitale
-tags: m/m22, f/🦩, f/🍆, f/💀
+tags: [m/m22, f/🦩, f/🍆, f/💀]
+title: Geschlechtsorgane
 ---
 ### Geschlechtsorgane
 > Primäre [[Geschlechtsmerkmale]] → zur Reproduktion

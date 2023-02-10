@@ -1,7 +1,8 @@
 ---
 aliases:
   - Sinus paranasales
-tags: m/m16, f/👂, f/💀
+tags: [m/m16, f/👂, f/💀]
+title: Nasennebenhöhlen
 ---
 ### Nasennebenhöhlen 
 > 4 paarige Nasennebenhöhlen (*Sinus paranasales*)

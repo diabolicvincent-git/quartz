@@ -1,5 +1,6 @@
 ---
-tags: 
+tags: []
+title: Delegation
 ---
 - **Grundsätzlich delegierbare Tätigkeiten**
 	- Blutentnahme (venös, kapillär, arteriell nach Anleitung)

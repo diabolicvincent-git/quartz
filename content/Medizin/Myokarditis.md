@@ -1,6 +1,7 @@
 ---
 aliases: Herzmuskelentzündung
-tags: m/m11, f/🫀, f/🦠, a/Pathologie
+tags: [m/m11, f/🫀, f/🦠, a/Pathologie]
+title: Myokarditis
 ---
 ### Myokarditis / Herzmuskelentzündung
 - **Ätiologie**:: *infektiös* (insb. [[Viren]], z.B. Coxsackie B1-B5) ↔ *nicht-infektiös* ([[Rheumatologie]], Toxisch z.B. [[Cytostatika]])

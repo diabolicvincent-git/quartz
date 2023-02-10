@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m13, f/💀, f/🫁, f/💀/Organ
+tags: [m/m13, f/💀, f/🫁, f/💀/Organ]
+title: Aufbau
 ---
 - **Funktion**:: Weiterleitung der Atemluft von der Epiglottis zu den Hauptbronchien und umgekehrt, Anfeuchten und Erwärmen der Atemluft, Immunabwehr, Transport von Schmutz und Schleim aus den Atemwegen (mukoziliäre Clearance)
 - **Beginn**:: Unterhalb des Ringknorpels des [[Larynx]]

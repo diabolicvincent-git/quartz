@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m20
+tags: [m/m15, m/m20]
+title: Neuropeptide
 ---
 ### Neuropeptide
 > Co-[[Transmitter]] und Peptidhormone

@@ -1,4 +1,5 @@
 ---
+title: Phosphatonin (FGF23)
 ---
 - Aus dem [[Knochen]] freigesetzt bei hohem [[Phosphat]]- und [[Calcitriol]]-Spiegel
 

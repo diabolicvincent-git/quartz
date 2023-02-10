@@ -1,5 +1,6 @@
 ---
-tags: f/🔪/Instrumente/Pinzette
+tags: [f/🔪/Instrumente/Pinzette]
+title: Chirurgische Pinzette nach Adson
 ---
 - **Form**:: Gerade
 - **Maulfläche**:: Chirurgisch, ohne Riefelung

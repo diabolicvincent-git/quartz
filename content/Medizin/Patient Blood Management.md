@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, ToDo, f/🩸, f/💤
+tags: [m/m21, ToDo, f/🩸, f/💤]
+title: Patient Blood Management
 ---
 ### Patient Blood Management
 > **Ziel**:: Vermeidung von perioperativer [[Anämie]] und (Fremd-)[[Transfusion]]

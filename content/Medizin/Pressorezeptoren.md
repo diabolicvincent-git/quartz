@@ -6,8 +6,8 @@ aliases:
   - Pressosensor
   - Pressosensoren
   - Pressosensorenreflex
-tags:
-  - m/m11
+tags: [m/m11]
+title: Pressorezeptoren
 ---
 - **Vorkommen**:: Proximale [[Aorta]], Carotissinus ([[Hochdrucksystem]])
 - **Mechanismus**:: Messen Dehnung der Gefäßwand[^1] (sowohl absolute Änderung als auch Geschwindigkeit der Änderung)

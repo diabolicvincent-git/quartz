@@ -1,6 +1,7 @@
 ---
 aliases: Pfortader
-tags: m/m12, f/💩, f/💀, f/💀/Leitungsbahn/Vene
+tags: [m/m12, f/💩, f/💀, f/💀/Leitungsbahn/Vene]
+title: V. portae hepatis
 ---
 ### V. portae hepatis / Pfortader
 - **Ursprung**:: V. splenica + V. mesenterica superior

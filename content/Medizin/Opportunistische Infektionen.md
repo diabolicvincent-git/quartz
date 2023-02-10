@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m18, f/🦠
+tags: [m/m18, f/🦠]
+title: Opportunistische Infektionen
 ---
 ### Opportunistische Infektionen
 > Sonst häufiges bleibt häufig, es kommt nur neues dazu!

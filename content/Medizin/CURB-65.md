@@ -1,6 +1,7 @@
 ---
 aliases: CURB65, CRB-65, CRB65
-tags: m/m18, f/🫁, f/🦠, a/Intervention, a/Intervention
+tags: [m/m18, f/🫁, f/🦠, a/Intervention, a/Intervention]
+title: CURB-65
 ---
 > (Abstract::**Risikostratifizierung bei [[Pneumonie]].** Confusion, Urea, Respiratory Rate, Blood Pressure, >65 Jahre.)
 - **Faktoren**

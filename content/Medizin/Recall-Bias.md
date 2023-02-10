@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Recall-Bias
 ---
 > (Abstract::Falsche Erinnerung der TN an Exposition (insb. in [[Fall-Kontroll-Studie]]).)
 - **Lösungsansatz**:: Möglichst auf dokumentierte Informationen zurückgreifen

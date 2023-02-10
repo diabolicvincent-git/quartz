@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩, f/🥼, a/Intervention
+tags: [m/m12, f/💩, f/🥼, a/Intervention]
+title: Leberwerte
 ---
 ### Leberwerte
 - **Leberzellschädigung-Parameter**

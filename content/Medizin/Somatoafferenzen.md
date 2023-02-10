@@ -1,6 +1,7 @@
 ---
 aliases: Somatoafferenz, somatoafferent
-tags: m/m15, f/🧠, f/⚙️
+tags: [m/m15, f/🧠, f/⚙️]
+title: Somatoafferenzen
 ---
 > (Abstract::[[Afferenzen]])
 ```dataview

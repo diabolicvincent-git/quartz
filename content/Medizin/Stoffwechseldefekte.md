@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, a/Pathologie
+tags: [m/m17, a/Pathologie]
+title: Lernziele
 ---
 ### Stoffwechseldefekte 
 > Physiologisch inadäquater (erhöhter/verminderter) Substratumsatz

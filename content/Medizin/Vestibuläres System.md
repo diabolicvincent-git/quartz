@@ -1,6 +1,7 @@
 ---
 aliases: Gleichgewichtsorgan
 tags: [m/m16, ToDo, f/⚙️, f/👁️]
+title: Peripheres vestibuläres System
 ---
 > Wahrnehmung mittels *sekundärer Sinneshaarzellen* mit *Daueraktivität* im Ruhezustand (gesteigert/verlangsamt bei Bewegung)
 - **[[Gleichgewichtsorgan]]** im [[Innenohr]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🗞️, f/🦩, a/Pathologie, f/🦀
+tags: [m/m22, f/🗞️, f/🦩, a/Pathologie, f/🦀]
+title: Prolactinom
 ---
 ### Prolactinom
 > Häufigstes endokrin-aktives [[Hypophysenadenom]]

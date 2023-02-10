@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Intervention
+tags: [m/m11, f/🫀, a/Intervention]
+title: Cabrera-Kreis
 ---
 > (Abstract::**Darstellung der Extremitätenableitungen.** Beurteilung des [[Lagetyp]] im [[EKG]].)
 

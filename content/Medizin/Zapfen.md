@@ -1,6 +1,7 @@
 ---
 aliases: null
 tags: [m/m16, f/👁️, f/⚙️, f/🔬/Zelle]
+title: Zapfen
 ---
 ### Zapfen
 - **Spektrum**:: *Phototopisches [[Sehen]]* (Tageslicht, Farbe)

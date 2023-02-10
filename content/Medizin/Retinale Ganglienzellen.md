@@ -1,6 +1,7 @@
 ---
 aliases: Retinale Ganglienzelle
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Retinale Ganglienzellen
 ---
 > Ihre [[Axon]] bilden [[N. opticus (II)]]
 

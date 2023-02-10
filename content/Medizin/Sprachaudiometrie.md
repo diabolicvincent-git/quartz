@@ -1,4 +1,5 @@
 ---
+title: Sprachaudiometrie
 ---
 ### Sprachaudiometrie
 - Neben Hörleistung auch Sprachverständnis erfasst (relevant für Anpassung von Hörgeräten)

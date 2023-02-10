@@ -1,6 +1,7 @@
 ---
 aliases: Vesica urinaria
-tags: m/m14, f/🍺, f/🍆
+tags: [m/m14, f/🍺, f/🍆]
+title: Aufbau
 ---
 ### Harnblase / Vesica urinaria
 - **Funktion**: Harntransport und -speicherung

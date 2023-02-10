@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, ToDo, f/🍺, f/🕶️, a/Intervention
+tags: [m/m14, ToDo, f/🍺, f/🕶️, a/Intervention]
+title: Bildgebung Niere
 ---
 [[Röntgen]]
 [[CT]]

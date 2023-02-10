@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, a/Intervention
+tags: [m/m10, a/Intervention]
+title: Spiroergometrie
 ---
 > Erweiterung der reinen [[Lungenfunktionsprüfung]] durch Messung ergometrischer Parameter ([[EKG]], [[HF]], [[RR]], [[BGA]])
 - **Parameter**

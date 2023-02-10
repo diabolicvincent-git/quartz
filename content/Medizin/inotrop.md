@@ -1,8 +1,8 @@
 ---
 aliases:
   - Inotropie
-tags:
-  - m/m11
+tags: [m/m11]
+title: inotrop
 ---
 **Inotropie**:: Veränderung der Kontraktionskraft
 

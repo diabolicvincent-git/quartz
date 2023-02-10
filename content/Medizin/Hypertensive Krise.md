@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m14, f/🫀, a/Pathologie
+tags: [m/m11, m/m14, f/🫀, a/Pathologie]
+title: Hypertensive Krise
 ---
 ### Hypertensive Krise
 > Akute [[Hypertonie]] >180/120 mmHg bzw. drohender [[Hypertensiver Notfall]]

@@ -1,6 +1,7 @@
 ---
-tags: a/Pathologie, f/👂, f/🦠 
+tags: [a/Pathologie, f/👂, f/🦠]
 alias: Pfeiffer-Drüsenfieber
+title: Infektiöse Mononukleose
 ---
 > (Abstract::Pfeiffer-Drüsenfieber, Kissing-Disease, [[EBV]]-Infektion)
 - **Epidemiologie**:: Durchseuchung Erwachsener mit [[EBV]] >90%

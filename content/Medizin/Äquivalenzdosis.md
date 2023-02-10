@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🕶️
+tags: [m/m19, f/🕶️]
+title: Äquivalenzdosis
 ---
 ### Äquivalenzdosis
 > Multiplikation von [[Energiedosis]] mit Strahlungsart-Faktor ($H=D*q$)

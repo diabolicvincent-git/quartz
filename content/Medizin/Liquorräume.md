@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Liquorräume
 ---
 ### [[Liquor]]räume
 - **Äußerer Liquorraum** = *[[Subarachnoidalraum]]* und seine Zisternen-Erweiterungen

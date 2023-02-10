@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, f/🔬
+tags: [m/m11, f/🫀, f/🔬]
+title: Epikard
 ---
 ### Epikard
 > Gleichzeitig *viscerales Blatt des [[Perikard]]*

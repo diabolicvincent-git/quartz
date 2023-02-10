@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. oculomotorius (III)
 ---
 - **Nr**:: 3
 - **Kerngebiete**:: [[Mesencephalon]]

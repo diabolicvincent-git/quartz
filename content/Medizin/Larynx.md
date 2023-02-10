@@ -1,6 +1,7 @@
 ---
 aliases: Kehlkopf
-tags: m/m13
+tags: [m/m13]
+title: Larynx
 ---
 - **[[Knorpel]]**
 	- [[Schildknorpel]] + [[Ringknorpel]] setzen [[Trachea]]-[[Knorpel]] nach kranial fort

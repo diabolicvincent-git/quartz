@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, f/⚰️, a/Pathologie, a/Intervention
+tags: [m/m21, f/⚰️, a/Pathologie, a/Intervention]
+title: Todeszeichen
 ---
 ### Todeszeichen
 - **Sichere Todeszeichen** → ==obligatorisch für Todesfeststellung== ([[Leichenschau]])

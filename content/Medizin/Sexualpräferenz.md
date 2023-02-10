@@ -1,6 +1,7 @@
 ---
 aliases: Paraphilie, Paraphilien
-tags: m/m22, f/🦩, f/🍆, f/💭
+tags: [m/m22, f/🦩, f/🍆, f/💭]
+title: Sexualpräferenz
 ---
 ### Störungen der Sexualpräferenz / Paraphilien
 - **Exhibitionismus**:: Eigenes Entblößen vor Fremden löst Erregung aus

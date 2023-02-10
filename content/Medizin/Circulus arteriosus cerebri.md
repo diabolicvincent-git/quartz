@@ -1,6 +1,7 @@
 ---
 aliases: Circle of Willis
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Circulus arteriosus cerebri
 ---
 ### Circulus arteriosus cerebri / Circle of Willis
 - **Funktion**:: Kollateralkreislauf bei Gefäßverschluss

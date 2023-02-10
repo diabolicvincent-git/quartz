@@ -1,7 +1,8 @@
 ---
 aliases:
   - Blutgasanalyse
-tags: m/m13, f/🫁, f/💤, a/Intervention, f/🥼
+tags: [m/m13, f/🫁, f/💤, a/Intervention, f/🥼]
+title: BGA
 ---
 ### Blutgasanalyse / BGA
 - **Parameter**

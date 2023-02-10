@@ -1,6 +1,7 @@
 ---
 aliases: Gebärmutter
-tags: m/m05, m/m22, f/🦩, f/💀, f/💀/Organ
+tags: [m/m05, m/m22, f/🦩, f/💀, f/💀/Organ]
+title: Uterus
 ---
 ### Uterus / Gebärmutter
 - **Funktion**:: [[Menstruation]], Nidation der befruchteten Eizelle, Beherbergung von Embryo/Fetus während [[Schwangerschaft]], Austreibung bei [[Geburt]]

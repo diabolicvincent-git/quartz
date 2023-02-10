@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/💩
+tags: [m/m26, f/💩]
+title: Ösophagusvarizen
 ---
 ### Ösophagusvarizen
 > Haupttodesursache bei [[Leberzirrhose]] / [[Portale Hypertension]]

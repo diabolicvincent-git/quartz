@@ -1,5 +1,6 @@
 ---
-tags: f/💊/Medikament/PIM
+tags: [f/💊/Medikament/PIM]
+title: Clonidin
 ---
 - **Gruppe**:: [[Antisympathotonika]]
 - **PIM**

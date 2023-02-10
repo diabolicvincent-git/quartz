@@ -1,6 +1,7 @@
 ---
 aliases: HN VI
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. abducens (VI)
 ---
 - **Nr**:: 6
 - **Kerngebiete**:: [[Pons]]

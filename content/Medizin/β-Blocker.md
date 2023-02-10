@@ -1,6 +1,7 @@
 ---
 aliases: Betablocker
-tags: m/m11, f/💊/Medikament, f/🫀
+tags: [m/m11, f/💊/Medikament, f/🫀]
+title: β-Blocker
 ---
 ### β-Blocker
 - **Wirkung**

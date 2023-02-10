@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. trochlearis (IV)
 ---
 - **Nr**:: 4
 - **Kerngebiete**:: [[Mesencephalon]]

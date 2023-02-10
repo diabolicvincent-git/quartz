@@ -1,4 +1,5 @@
 ---
+title: M. mentalis
 ---
 ##### M. mentalis
 *   [[Mandibula]], unterhalb des lateralen Schneidezahns

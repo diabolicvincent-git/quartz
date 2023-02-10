@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Organ/Speicheldrüsen, f/👂, f/💀
+tags: [f/💀/Organ/Speicheldrüsen, f/👂, f/💀]
+title: Gl. sublingualis
 ---
 > (Abstract::**[[Speicheldrüsen]].**)
 - **Lage**:: Regio sublingualis

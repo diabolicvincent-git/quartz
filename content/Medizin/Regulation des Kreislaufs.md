@@ -1,6 +1,7 @@
 ---
 aliases: Kreislaufregulation, Blutdruckregulation
-tags: m/m11, f/🫀, f/🍺
+tags: [m/m11, f/🫀, f/🍺]
+title: Kurzfristige Regulation
 ---
 ### Sensoren
 - **[[Pressorezeptoren]]**

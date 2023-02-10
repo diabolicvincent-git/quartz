@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Arterie
+tags: [m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Arterie]
+title: Aorta
 ---
 > (Abstract::**Hauptschlagader.**)
 1. **Aorta ascendens**:: Vom linken Ventrikel ausgehend, gerade nach kranial verlaufend

@@ -1,6 +1,7 @@
 ---
 aliases: Motorcortex
-tags: m/m15
+tags: [m/m15]
+title: Motorcortex
 ---
 ### Motorischer Cortex
 - **[[Afferenzen]]**

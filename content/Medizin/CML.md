@@ -1,6 +1,7 @@
 ---
 aliases: Chronische myeloische Leukämie
-tags: m/m19, f/🦀, f/🩸
+tags: [m/m19, f/🦀, f/🩸]
+title: CML
 ---
 ### Chronische myeloische Leukämie / CML
 - **Pathophysiologie**:: *Philadelphia-Translokation* t(9;22) → Fusionsgen BCR-ABL1

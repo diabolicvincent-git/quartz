@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💊/Medikament, m/m30, f/🧠
+tags: [f/💊/Medikament, m/m30, f/🧠]
+title: LEVETIracetam
 ---
  ### Levetiracetam
 > Gruppe:: [[Antikonvulsiva]]

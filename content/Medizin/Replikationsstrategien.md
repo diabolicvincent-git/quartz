@@ -1,4 +1,5 @@
 ---
+title: Replikationsstrategien
 ---
 ### Replikationsstrategien von [[Viren]]
 - **(+)ssRNA**:: Virusgenom dient als [[mRNA]]

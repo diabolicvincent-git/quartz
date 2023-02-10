@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👁️, f/⚙️, ToDo
+tags: [m/m16, f/👁️, f/⚙️, ToDo]
+title: Akkommodation
 ---
 > (Abstract::**Linsenkrümmung** → Veränderung Gesamtbrechkraft (ermöglicht scharfes Sehen unabhängig der Gegenstandsweite))
 - **[[Akkommodationsbreite]]**:: Fernsehen bis Nahsehen

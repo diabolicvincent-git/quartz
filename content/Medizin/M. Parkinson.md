@@ -1,6 +1,7 @@
 ---
 aliases: Idiopathisches Parkinson-Syndrom, IPS, Morbus Parkinson
 tags: [m/m15, a/Pathologie, f/🧠]
+title: M. Parkinson
 ---
 > (Abstract::75% von [[Parkinson-Syndrom]])
 - **Ätiologie**:: [[Neurodegenerative Erkrankungen]] ==dopaminerger Neurone in [[Substantia nigra]]==

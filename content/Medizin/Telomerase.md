@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, m/m19, f/🧪/Molekül/Enzym
+tags: [m/m03, m/m19, f/🧪/Molekül/Enzym]
+title: Telomerase
 ---
 ### Telomerase
 > Spezielle Polymerasen, die das 3-Ende der [[Telomer]] verlängern (Reverse-Transkriptase-Aktivität) und somit eine Verkürzung des 5' nach der [[Replikation]] verhindern

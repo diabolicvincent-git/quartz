@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Hirnnerven
 ---
 - **Hirnnervenkerne**:: In [[Mesencephalon]], [[Pons]] und [[Medulla oblongata]] (insg. 18)
 	- [[Somatoefferenzen]] am medialsten – [[Visceroefferenzen]] – [[Visceroafferenzen]] – [[Somatoafferenzen]] am lateralsten

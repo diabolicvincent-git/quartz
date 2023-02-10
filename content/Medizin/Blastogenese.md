@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🐣, f/💀
+tags: [m/m05, f/🐣, f/💀]
+title: Blastogenese
 ---
 > Woche 1 p.c. ([[SSW]] 3 p.m.)
 

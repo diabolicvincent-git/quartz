@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/🔪, a/Pathologie
+tags: [m/m26, f/🔪, a/Pathologie]
+title: Hernie
 ---
 ### Hernie
 > *Bruchsack* + *Bruchpforte* + *Bruchinhalt* (oft [[Dünndarm]])

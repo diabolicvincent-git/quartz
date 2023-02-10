@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. mandibularis (V3)
 ---
 > [[N. trigeminus (V)]]
 - **Nr**:: 5.3

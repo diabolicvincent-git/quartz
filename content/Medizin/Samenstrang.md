@@ -1,6 +1,7 @@
 ---
 aliases: Funiculus spermaticus
-tags: m/m22, f/💀, f/🍆
+tags: [m/m22, f/💀, f/🍆]
+title: Samenstrang
 ---
 ### Samenstrang / Funiculus spermaticus
 - **Verlauf**:: Durch den [[Leistenkanal]]

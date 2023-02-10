@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, ToDo, f/⚙️, f/💀, f/🔬
+tags: [m/m10, ToDo, f/⚙️, f/💀, f/🔬]
+title: Muskelarchitektur & Myofaszialer Apparat
 ---
 ## die verschiedenen Muskelformen (platter, spindelförmiger-, mehrbäuchigerMuskel) exemplarisch beschreiben
 

@@ -1,6 +1,7 @@
 ---
 aliases: Nexus
-tags: m/m04, m/m05
+tags: [m/m04, m/m05]
+title: Gap Junction
 ---
 ### Gap Junction / Nexus
 - **Aufbau**:: Zusammenlagerung der Connexone (je Pore aus 6 Connexinen) zweier Zellen

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, m/m05, m/m10, f/🦴, f/⚙️
+tags: [m/m03, m/m05, m/m10, f/🦴, f/⚙️]
+title: Elektrophysiologie
 ---
 # Elektrophysiologie
 - **Nicotinische Acetylcholinerge [[Synapse]] →** Endplattenpotential

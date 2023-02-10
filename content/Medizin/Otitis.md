@@ -1,4 +1,5 @@
 ---
+title: Otitis
 ---
 [[Entzündung]] des [[Ohr]]
 - [[Otitis interna]]

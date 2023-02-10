@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🦩, a/Intervention
+tags: [m/m22, f/🦩, a/Intervention]
+title: Gynäkologische Untersuchung
 ---
 ### Gynäkologische Untersuchung
 - **Inspektion**

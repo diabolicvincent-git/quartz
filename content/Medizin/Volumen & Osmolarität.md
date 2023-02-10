@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/⚙️
+tags: [m/m14, f/🍺, f/⚙️]
+title: Volumen & Osmolarität
 ---
 - **Volumenregulation**:: Salzmenge des EZR
 - **Osmoregulation**:: Osmolenfreie Wassermenge

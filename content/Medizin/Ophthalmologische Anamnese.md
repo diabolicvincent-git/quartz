@@ -1,4 +1,5 @@
 ---
+title: Ophthalmologische Anamnese
 ---
 - Symptome
 - Vorerkrankungen: [[Systemische Störungen]], [[Diabetes mellitus]], [[Hypertonie]], [[Rheumatologie]], [[Infektionen]]

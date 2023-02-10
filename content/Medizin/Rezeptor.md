@@ -1,6 +1,7 @@
 ---
 aliases: Rezeptoren
-tags: m/m03
+tags: [m/m03]
+title: Rezeptor
 ---
 
 ### Rezeptoren

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👂
+tags: [m/m16, f/👂]
+title: Nase
 ---
 ### Nase 
 - **Funktion**:: Befeuchtung, Erwärmung, Reinigung, Kontrolle der Atemluft

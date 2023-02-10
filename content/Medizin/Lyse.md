@@ -1,6 +1,7 @@
 ---
 aliases: Thrombolyse
-tags: m/m30, f/🧠, f/💊/Medikament, a/Intervention
+tags: [m/m30, f/🧠, f/💊/Medikament, a/Intervention]
+title: Lyse
 ---
 > (Abstract::Thrombolyse-Therapie)
 - **Indikation**:: ==[[Stroke]] (<4.5h)==, kritische [[LAE]]

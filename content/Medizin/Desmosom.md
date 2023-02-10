@@ -1,6 +1,7 @@
 ---
 aliases: Macula Adhaerens, Desmosomen
-tags: m/m04, m/m05, f/🔬, f/🧪
+tags: [m/m04, m/m05, f/🔬, f/🧪]
+title: Desmosom
 ---
 ### Desmosom / Macula Adhaerens
 - **Aufbau**:: IZ membranständige Desmoplakin-Plaques über [[Cadherin]] (Desmocollin, Desmoglein) miteinander verbunden

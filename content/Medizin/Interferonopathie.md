@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17
+tags: [m/m17]
+title: Interferonopathie
 ---
 ### Interferonopathie 
 > Hochregulation von Typ-1-[[IFN]]

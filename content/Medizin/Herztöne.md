@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, f/⚙️
+tags: [m/m11, f/🫀, f/⚙️]
+title: Herztöne
 ---
 ### Herztöne 
 1. **Erster Herzton**:: Wandanspannung, Schluss AV-Klappen ([[Systole]] [[Anspannungsphase]])

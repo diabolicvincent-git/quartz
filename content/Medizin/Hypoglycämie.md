@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/🧠
+tags: [m/m17, f/🧠]
+title: Hypoglycämie
 ---
 ### Hypoglycämie / Unterzuckerung 
 - **Ätiologie**:: [[Insulintherapie]] Überdosierung, [[Alkohol]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m07, f/📊
+tags: [m/m07, f/📊]
+title: Statistik
 ---
 ### Statistik
 - **Deskriptive Statistik**

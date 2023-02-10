@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14
+tags: [m/m14]
+title: Leitungsbahnen
 ---
 ### Nebenniere / Gl. adrenalis / Gl. suprarenalis
 - **Funktion**:: Synthese und [[endokrin]]e [[Sekretion]] der [[Corticosteroide]] und [[Katecholamine]]

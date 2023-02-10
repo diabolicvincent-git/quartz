@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👂, f/🧠
+tags: [m/m16, f/👂, f/🧠]
+title: Hörbahn
 ---
 ### Hörbahn
 0. [[Rezeptor]]: *Innere Haarzellen* (sekundäre Sinneszellen)

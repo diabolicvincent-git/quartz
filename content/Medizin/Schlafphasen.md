@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m06, m/m15, f/⚙️
+tags: [m/m06, m/m15, f/⚙️]
+title: Schlafphasen
 ---
 ### Schlafphasen
 |Phase|Beschreibung|[[EEG]]|

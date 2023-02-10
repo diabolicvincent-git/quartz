@@ -1,4 +1,5 @@
 ---
+title: Meldepflichtige Krankheiten
 ---
 ## Meldepflichtige Krankheiten
 ### Namentlich bei Verdacht, Erkrankung, Tod

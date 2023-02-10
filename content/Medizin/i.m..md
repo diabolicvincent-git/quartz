@@ -1,6 +1,7 @@
 ---
 aliases: intramuskulär
-tags: m/m00, f/💊/Medikament
+tags: [m/m00, f/💊/Medikament]
+title: i.m.
 ---
 ### intramuskulär / i.m.
 > **[[Applikation]]** in [[Muskelgewebe]]

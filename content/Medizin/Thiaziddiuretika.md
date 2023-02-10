@@ -1,6 +1,7 @@
 ---
 aliases: Thiazide, Hydrochlorothiazid, HCT
-tags: m/m14, f/💊/Medikament, f/🍺, f/🫀
+tags: [m/m14, f/💊/Medikament, f/🍺, f/🫀]
+title: Thiaziddiuretika
 ---
 ### Thiaziddiuretika
 - **Indikation**

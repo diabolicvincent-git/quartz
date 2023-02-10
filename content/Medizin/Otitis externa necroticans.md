@@ -1,4 +1,5 @@
 ---
+title: Otitis externa necroticans
 ---
 Nekrotisierende [[Otitis externa]]
 - **Ätiologie**:: Meist [[Pseudomonas aeruginosa]], Risikofaktor ==[[DMT2]]==

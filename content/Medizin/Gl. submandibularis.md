@@ -1,5 +1,6 @@
 ---
-tags: f/💀/Organ/Speicheldrüsen, f/👂, f/💀
+tags: [f/💀/Organ/Speicheldrüsen, f/👂, f/💀]
+title: Gl. submandibularis
 ---
 - **Lage**:: Trigonum submandibulare
 - **Topographie**:: [[A. facialis]], V. facialis, [[N. facialis (VII)]], M. mylohyoideus, M. digastricus

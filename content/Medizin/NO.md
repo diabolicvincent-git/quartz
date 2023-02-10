@@ -1,6 +1,7 @@
 ---
 aliases: Stickstoffmonoxid
-tags: m/m04, f/🧪
+tags: [m/m04, f/🧪]
+title: NO
 ---
 ### Stickstoffmonoxid / [[NO]]
 - **Wirkung**:: *[[Vasodilatation]]* kleiner [[Arterien]] und Arteriolen

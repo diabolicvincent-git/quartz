@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🦄
+tags: [a/Pathologie, f/🦄]
+title: Fieberkrampf
 ---
 > (Abstract::**[[Fieber]] + generalisierter [[Krampfanfall]] zw. 6 Monate – 5 Jahre.**)
 - **Epidemiologie**:: 6 Monate – 5 Jahre, Lebenszeitprävalenz 5%

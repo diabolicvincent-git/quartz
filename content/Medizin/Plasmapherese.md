@@ -1,5 +1,6 @@
 ---
-tags: 
+tags: []
+title: Plasmapherese
 ---
 > (Abstract::**Plasmaaustausch.** Blutentnahme → extrakorporale Auftrennung in Plasma und Restblut → Entfernen des Plasmas und Ersatz mit [[FFP]]/[[Albumin]])
 

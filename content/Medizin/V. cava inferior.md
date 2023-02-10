@@ -1,6 +1,7 @@
 ---
 aliases: Vena cava inferior
-tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene
+tags: [m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene]
+title: V. cava inferior
 ---
 ### [[V. cava]] inferior
 - **Ursprung**:: Zusammenfluss V. iliaca communis (bds.) Höhe LWK 5

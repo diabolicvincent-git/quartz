@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/🧪, f/⚙️, ToDo
+tags: [m/m12, f/🧪, f/⚙️, ToDo]
+title: Aminosäurestoffwechsel
 ---
 
 ![[Untitled 28.png]]

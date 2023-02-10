@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/💊/Medikament, f/🍺, f/🫀, f/💩, m/m14
+tags: [f/💊/Medikament, f/🍺, f/🫀, f/💩, m/m14]
+title: Spironolacton
 ---
  ### Spironolacton
 > Gruppe:: [[Aldosteronantagonisten]], [[Kaliumsparende Diuretika]], [[Diuretika]]

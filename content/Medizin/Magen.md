@@ -1,6 +1,7 @@
 ---
 aliases: Gaster
-tags: m/m12
+tags: [m/m12]
+title: Magen
 ---
 ### Magen / Gaster
 - **Funktion**:: Aufnahme, Zwischenspeicherung, Durchmengung, Fortleitung, Kontrolle von Nahrung

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04, m/m17, f/🗞️, f/💀
+tags: [m/m04, m/m17, f/🗞️, f/💀]
+title: Schilddrüse
 ---
 ### Schilddrüse
 - **Funktion**:: Produktion/[[Sekretion]] [[Schilddrüsenhormone]] und [[Calcitonin]]

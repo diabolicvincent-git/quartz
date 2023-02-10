@@ -1,7 +1,8 @@
 ---
 aliases:
  - Akustikusneurinom
-tags: m/m16, f/👂, f/🧠, f/🦀, a/Pathologie
+tags: [m/m16, f/👂, f/🧠, f/🦀, a/Pathologie]
+title: Vestibularisschwannom
 ---
 
 > Akustikusneurinom veraltet; eigentlich richtig: *[[Vestibularisschwannom]]* (gutartiger [[Tumor]] der Schwann-Zellen des [[N. vestibulocochlearis (VIII)]])

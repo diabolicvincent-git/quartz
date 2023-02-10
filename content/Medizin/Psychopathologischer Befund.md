@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, Wichtig
+tags: [m/m20, Wichtig]
+title: Psychopathologischer Befund
 ---
 ### Psychopathologischer Befund
 - **[[Bewusstseinsstörung]]**:: qualitativ (Trübung) ↔ quantitativ ([[GCS]]↓)

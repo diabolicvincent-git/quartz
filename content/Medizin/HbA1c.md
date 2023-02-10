@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17
+tags: [m/m17]
+title: HbA1c
 ---
 ### HbA1c / Glycohämoglobin
 > Glyciertes [[Hb]], gibt Aufschluss über [[BZ]] der letzten 6-8 Wochen

@@ -1,6 +1,7 @@
 ---
 aliases: Vena cava superior
-tags: m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene
+tags: [m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene]
+title: V. cava superior
 ---
 ### [[V. cava]] superior
 - **Ursprung**:: Zusammenfluss V. brachiocephalica (bds.)

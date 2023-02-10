@@ -1,6 +1,7 @@
 ---
 aliases: Helminthen
-tags: m/m18, f/🦠, f/🦠/Erreger/Parasiten
+tags: [m/m18, f/🦠, f/🦠/Erreger/Parasiten]
+title: Würmer
 ---
 ### Würmer / Helminthen
 > [[Parasiten]]

@@ -1,6 +1,7 @@
 ---
 aliases: splen
-tags: m/m08, f/💀, f/🩸
+tags: [m/m08, f/💀, f/🩸]
+title: Milz
 ---
 ### Milz
 - **Funktion**

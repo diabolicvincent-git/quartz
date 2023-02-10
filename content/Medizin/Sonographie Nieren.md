@@ -1,5 +1,6 @@
 ---
-tags: f/🕶️, f/🍆, f/🍺, a/Intervention
+tags: [f/🕶️, f/🍆, f/🍺, a/Intervention]
+title: Sonographie Nieren
 ---
 - **Indikation**:: Flankenschmerzen, [[Hämaturie]], V.a. [[Harnstau]], [[Nierensteine]], [[Tumor]]
 - **Schnitte::** [[Flankenschnitt rechts]], [[Flankenschnitt links]]

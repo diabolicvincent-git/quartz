@@ -1,6 +1,7 @@
 ---
 aliases: TLR
-tags: m/m18, m/m08, f/🧪/Molekül/Rezeptor, f/🧪, f/🦠
+tags: [m/m18, m/m08, f/🧪/Molekül/Rezeptor, f/🧪, f/🦠]
+title: Toll-like-Rezeptor
 ---
 ### Toll-like-[[Rezeptor]] / TLR
 > **[[PRR]]**:: Erkennen von extra- oder intrazellulären Pathogenen → [[Entzündung]]sreaktion↑ 

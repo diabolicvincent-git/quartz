@@ -1,5 +1,6 @@
 ---
 aliases: null
-tags: m/m17
+tags: [m/m17]
+title: ROTEM
 ---
 ### Rotationsthrombelastometrie / ROTEM

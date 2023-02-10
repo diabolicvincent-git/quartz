@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m11, f/💀
+tags: [m/m08, m/m11, f/💀]
+title: Kapillaren
 ---
 ### Kapillaren 
 > Hauptbestandteil der [[Mikrozirkulation]]

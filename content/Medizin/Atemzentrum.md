@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🧠, f/💀, f/⚙️
+tags: [m/m13, f/🧠, f/💀, f/⚙️]
+title: Atemzentrum
 ---
 - **Lage**:: v.a. in der *[[Medulla oblongata]]*, insb. im *Prä-Bötzinger-Komplex* und *Bötzinger-Komplex*
 	- **Ventrale Respiratorische Gruppe**:: Rhythmogenese

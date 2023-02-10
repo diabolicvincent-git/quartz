@@ -1,6 +1,7 @@
 ---
 aliases: Koronare Herzkrankheit
-tags: m/m11
+tags: [m/m11]
+title: KHK
 ---
 ### Koronare Herzkrankheit / KHK
 > Manifestation der [[Atherosklerose]] an [[Koronararterien]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, a/Pathologie
+tags: [m/m15, f/🧠, a/Pathologie]
+title: Hirndruckzeichen
 ---
 ### Hirndruckzeichen
 > Apnoe ([[Medulla oblongata]]), [[Cornealreflex]]↓ ([[Pons]]), [[Pupillenreflex]]↓ ([[Mesencephalon]])

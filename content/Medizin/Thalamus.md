@@ -1,6 +1,7 @@
 ---
 aliases: Thalamus dorsalis
-tags: m/m15, f/🧠, f/💀, f/💀/Organ
+tags: [m/m15, f/🧠, f/💀, f/💀/Organ]
+title: Aufbau
 ---
 ### Thalamus 
 > Paarige Ansammlung von >100 Kerngebieten

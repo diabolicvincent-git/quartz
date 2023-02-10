@@ -1,6 +1,7 @@
 ---
 aliases: Corpus amygdaloideum, Mandelkern
-tags: m/m15, f/🧠, f/💀, f/💀/Organ
+tags: [m/m15, f/🧠, f/💀, f/💀/Organ]
+title: Amygdala
 ---
 (Abstract::Telencephale Kerngruppen im vorderen [[Temporallappen]])
 - **Verschaltung mit**

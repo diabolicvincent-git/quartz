@@ -1,6 +1,7 @@
 ---
 aliases: Harnröhre
-tags: m/m22, f/🍆, f/💀, f/💀/Organ
+tags: [m/m22, f/🍆, f/💀, f/💀/Organ]
+title: Urethra
 ---
 ### Urethra / Harnröhre
 - **Funktion**:: Ableitung des Harns ([[♀]]/♂) und [[Spermien]]transport (♂)

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Histologie Rückenmark & PNS
 ---
 - **Färbetechnik** 
 		![[Untitled 62.png]]

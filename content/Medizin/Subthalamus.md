@@ -1,6 +1,7 @@
 ---
 aliases: Thalamus ventralis
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Subthalamus
 ---
 ### Subthalamus 
 > 2 paarige Kerngebiete: [[Ncl. subthalamicus]] und [[Pallidum]]

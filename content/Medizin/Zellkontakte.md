@@ -1,6 +1,7 @@
 ---
 aliases: Zell-Kontakt, Zell-Kontakte, Zellkontakt
-tags: m/m04, m/m05, f/🧪, f/🔬
+tags: [m/m04, m/m05, f/🧪, f/🔬]
+title: Zellkontakte
 ---
 ### Zellkontakte 
 - **Verschlusskontakte**

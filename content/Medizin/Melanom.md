@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m09, m/m19, a/Pathologie
+tags: [m/m09, m/m19, a/Pathologie]
+title: Melanom
 ---
 ### Malignes Melanom
 - **Risikofaktoren**:: [[Hauttyp]] I-III, ==[[UV]]-Exposition==, viele/große Nävuszellnävus, [[Familienanamnese]]

@@ -1,6 +1,7 @@
 ---
 aliases: HN XI
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. accessorius (XI)
 ---
 - **Nr**:: 11
 - **Kerngebiete**:: [[Medulla oblongata]]

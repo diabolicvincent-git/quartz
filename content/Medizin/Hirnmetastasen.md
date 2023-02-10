@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🧠, f/🦀, m/m30
+tags: [a/Pathologie, f/🧠, f/🦀, m/m30]
+title: Hirnmetastasen
 ---
 - **Ätiologie**:: [[Lungen-Ca]] > [[Mamma-Ca]] > [[Melanom]]
 - **Symptome**:: Akut, rasch progredient, [[Kopfschmerzen]], [[Parese]]

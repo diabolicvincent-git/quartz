@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, m/m11, f/🍺, f/⚙️, f/🧪/Molekül
+tags: [m/m14, m/m11, f/🍺, f/⚙️, f/🧪/Molekül]
+title: Renin
 ---
 ### Renin
 - **Synthese**:: Polkissenzellen im Juxtaglomerulären Apparat (Vas afferens)

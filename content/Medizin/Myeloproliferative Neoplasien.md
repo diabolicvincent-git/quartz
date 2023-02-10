@@ -1,6 +1,7 @@
 ---
 aliases: MPN
-tags: m/m19
+tags: [m/m19]
+title: Myeloproliferative Neoplasien
 ---
 ### Myeloproliferative Neoplasien / MPN
 > Proliferation ≥1 myeloischer Zellreihen im [[Knochenmark]] gesteigert, Differenzierung anfangs normal

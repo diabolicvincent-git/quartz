@@ -1,6 +1,7 @@
 ---
 aliases: Herpes
-tags: m/m09, m/m18, f/🦠, f/🧴, f/🦠/Erreger/Viren
+tags: [m/m09, m/m18, f/🦠, f/🧴, f/🦠/Erreger/Viren]
+title: Herpesviren aus M09
 ---
 ### Herpesviren
 > [[DNA]]-[[Viren]], die lange nach Erstinfektion persistieren

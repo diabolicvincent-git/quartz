@@ -1,6 +1,7 @@
 ---
 aliases: Calcium
-tags: m/m14, f/🧪, f/⚙️, f/🧪/Molekül
+tags: [m/m14, f/🧪, f/⚙️, f/🧪/Molekül]
+title: Ca2+
 ---
 ### Calcium / Ca2+
 - **Funktion**

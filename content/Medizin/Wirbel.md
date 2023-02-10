@@ -1,6 +1,7 @@
 ---
 aliases: Wirbelkörper, Vertebrae
-tags: m/m10, f/💀, f/🦴/Knochen
+tags: [m/m10, f/💀, f/🦴/Knochen]
+title: Wirbel
 ---
 ### Wirbel
 - **Aufbau**

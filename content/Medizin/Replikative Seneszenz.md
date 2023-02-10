@@ -1,6 +1,7 @@
 ---
 aliases: Hayflick, Seneszenz
-tags: m/m19, f/⚙️, f/🧪, f/🦀
+tags: [m/m19, f/⚙️, f/🧪, f/🦀]
+title: Replikative Seneszenz
 ---
 ### Replikative Seneszenz
 > Irreversibler Verlust der Teilungsfähigkeit

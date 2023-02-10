@@ -1,5 +1,6 @@
 ---
-tags: f/💊/Medikament, f/💭/Antidepressiva
+tags: [f/💊/Medikament, f/💭/Antidepressiva]
+title: SSRI
 ---
 **Gruppe**:: [[Antidepressiva]]
 > (Abstract::**Selektive Serotonin-Wideraufnahme-Hemmer.**) 

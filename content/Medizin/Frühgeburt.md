@@ -1,5 +1,6 @@
 ---
-tags: f/🦩, f/🦄, a/Pathologie
+tags: [f/🦩, f/🦄, a/Pathologie]
+title: Frühgeburt
 ---
 > (Abstract::**<37. [[SSW]].**)
 - **Risikofaktoren**

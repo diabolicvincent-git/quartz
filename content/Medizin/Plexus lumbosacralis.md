@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10
+tags: [m/m10]
+title: Plexus lumbosacralis
 ---
 ### Plexus lumbosacralis
 > Rr. anteriores der [[Spinalnerven]] Th12 - S3

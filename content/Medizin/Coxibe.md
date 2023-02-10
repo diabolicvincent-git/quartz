@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💊/Medikament, f/💤
+tags: [m/m20, f/💊/Medikament, f/💤]
+title: Coxibe
 ---
 (Abstract::[[NSAR]], ==selektive [[COX]]-2-Hemmer==)
 - **Wirkung**:: Analgetisch, antiphlogistisch

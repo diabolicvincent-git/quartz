@@ -2,7 +2,8 @@
 aliases:
   - VitA
   - Retinoide
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin A
 ---
 ### Vitamin A / Retinoide 
 - **Aktive Form**:: Retinal, Retinoat

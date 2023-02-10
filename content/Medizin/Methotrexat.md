@@ -1,6 +1,7 @@
 ---
 aliases: MTX
-tags: m/m17
+tags: [m/m17]
+title: Methotrexat
 ---
 ### Methotrexat / MTX 
 > [[Cytostatika]] > [[Antimetabolite]]

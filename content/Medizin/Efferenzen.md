@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠, f/⚙️
+tags: [m/m15, f/🧠, f/⚙️]
+title: Efferenzen
 ---
 > **[[Nervenfaserqualitäten]]**:: Informationen aus [[ZNS]] → Peripherie
 ```dataview

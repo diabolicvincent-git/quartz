@@ -1,5 +1,6 @@
 ---
-tags: f/💊/Medikament, f/🍄/Gift
+tags: [f/💊/Medikament, f/🍄/Gift]
+title: Barbiturate
 ---
 > (Abstract::) 
 - **Gruppe**:: 

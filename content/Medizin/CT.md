@@ -1,7 +1,8 @@
 ---
 aliases:
   - Computertomographie
-tags: m/m00, f/🕶️/Standardbildgebung, a/Intervention, m/m30
+tags: [m/m00, f/🕶️/Standardbildgebung, a/Intervention, m/m30]
+title: CT
 ---
 > (Abstract::**Computertomographie.**)
 - **Varianten**

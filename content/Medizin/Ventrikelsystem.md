@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠, f/💀, f/💀/Organ
+tags: [m/m15, f/🧠, f/💀, f/💀/Organ]
+title: Ventrikelsystem
 ---
 > (Abstract::Innere [[Liquorräume]])
 - **Anteile**

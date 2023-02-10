@@ -1,4 +1,5 @@
 ---
+title: Peak-Flow-Meter
 ---
 - Bestimmung der *maximalen Strömungsgeschwindigkeit* während forcierter Ausatmung
 - **Nutzen**:: Verlaufskontrolle bei [[Asthma]] durch Pat. selbst

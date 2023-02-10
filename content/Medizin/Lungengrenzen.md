@@ -1,6 +1,7 @@
 ---
 aliases: Lungengrenze
-tags: m/m13
+tags: [m/m13]
+title: Lungengrenzen
 ---
 ## Lungengrenzen
 

@@ -1,6 +1,7 @@
 ---
 aliases: Subcorticale Kerngebiete
-tags: m/m15, f/🧠, f/💀, f/⚙️
+tags: [m/m15, f/🧠, f/💀, f/⚙️]
+title: Subcorticale Kerne
 ---
 
 ### Subcorticale Kerne 

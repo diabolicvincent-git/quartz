@@ -1,6 +1,7 @@
 ---
 aliases: Glomeruläre Filtrationsbarriere
-tags: m/m14, f/🍺, f/⚙️, f/🔬
+tags: [m/m14, f/🍺, f/⚙️, f/🔬]
+title: Blut-Harn-Schranke
 ---
 ### Blut-Harn-Schranke / Glomeruläre Filtrationsbarriere
 >  Filtration der [[Blut]]bestandteile nach Größe & Ladung

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, a/Pathologie
+tags: [m/m19, f/🦀, a/Pathologie]
+title: Chondrosarkom
 ---
 ### Chondrosarkom
 > [[Knorpel]]-bildender [[Tumor]]

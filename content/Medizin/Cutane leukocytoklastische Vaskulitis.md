@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/💉, a/Pathologie
+tags: [m/m17, f/💉, a/Pathologie]
+title: Cutane leukocytoklastische Vaskulitis
 ---
 ### Cutane leukocytoklastische Vaskulitis
 > Segmentale [[Vaskulitis]] von Venolen in der [[Dermis]] mit fibrinoider Endothelnekrose

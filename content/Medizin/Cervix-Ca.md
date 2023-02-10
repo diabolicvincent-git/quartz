@@ -1,6 +1,7 @@
 ---
 aliases: Cervixkarzinom
-tags: m/m19, f/🦩, f/🦀
+tags: [m/m19, f/🦩, f/🦀]
+title: Cervix-Ca
 ---
 ### Cervixkarzinom
 - **Epidemiologie**:: Zweithäufigstes [[Karzinom]] bei Frauen

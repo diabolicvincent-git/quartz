@@ -1,6 +1,7 @@
 ---
 aliases: CD-Marker, Clusters of differentiation
 tags: [m/m08, m/m19, f/💉]
+title: CD
 ---
 ### CD-Marker
 > Auswahl der wichtigsten CD-Marker (*Clusters of differentiation*)

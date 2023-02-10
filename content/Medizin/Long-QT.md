@@ -1,6 +1,7 @@
 ---
 aliases: LQTS, Jervell-Lange-Nielsen-Syndrom, Romano-Ward-Syndrom
-tags: m/m11, f/🫀, a/Pathologie
+tags: [m/m11, f/🫀, a/Pathologie]
+title: Long-QT
 ---
 ### Long-QT-Syndrom / LQTS
 > **[[QT-Zeit]]** [[♀]] >470 ms, ♂ >450 ms

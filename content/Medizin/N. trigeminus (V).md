@@ -1,7 +1,8 @@
 ---
 aliases:
   - HN V
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: N. trigeminus (V)
 ---
 - **Nr**:: 5
 - **Kerngebiete**:: [[Pons]]

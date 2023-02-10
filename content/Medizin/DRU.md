@@ -1,6 +1,7 @@
 ---
 aliases: Digital-rektale Untersuchung
-tags: m/m19 m/m22, f/💩, f/🍆
+tags: [m/m19 m/m22, f/💩, f/🍆]
+title: DRU
 ---
 ### Digital-rektale Untersuchung / DRU
 - **Normalbefund**:: Prall-elastische, kastaniengroße, schmerzfreie [[Prostata]]

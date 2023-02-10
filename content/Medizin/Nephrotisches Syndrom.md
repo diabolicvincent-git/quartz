@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺
+tags: [m/m14, f/🍺]
+title: Nephrotisches Syndrom
 ---
 ### Nephrotisches Syndrom
 > **Massiver renaler Proteinverlust >3,5 g** (vgl. [[Albuminurie]])

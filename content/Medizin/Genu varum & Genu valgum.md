@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, a/Pathologie
+tags: [m/m10, f/🦴, a/Pathologie]
+title: Genu varum & Genu valgum
 ---
 Problem im passiven Bewegungsapparat → unphysiologische Stellung → frühere Abnutzungserscheinungen
 

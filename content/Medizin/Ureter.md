@@ -1,6 +1,7 @@
 ---
 aliases: Harnleiter
-tags: m/m14, f/🍺, f/🍆, f/💀, f/💀/Organ
+tags: [m/m14, f/🍺, f/🍆, f/💀, f/💀/Organ]
+title: Ureter
 ---
 ### Harnleiter / Ureter
 > Harntransport vom [[Nierenbeckenkelchsystem]] zur [[Harnblase]]

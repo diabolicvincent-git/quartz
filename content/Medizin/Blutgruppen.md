@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🩸
+tags: [m/m08, f/🩸]
+title: Blutgruppen
 ---
 ### Blutgruppen
 > Antigene auf [[Erythrocyten]] → [[Antikörper]]-Bildung

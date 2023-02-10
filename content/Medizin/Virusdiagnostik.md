@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, a/Intervention
+tags: [m/m18, f/🦠, a/Intervention]
+title: Virusdiagnostik
 ---
 ## Virologische Diagnostik
 - **Direkter Nachweis** von Virusbestandteilen

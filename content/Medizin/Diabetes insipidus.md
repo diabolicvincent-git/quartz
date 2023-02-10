@@ -1,6 +1,7 @@
 ---
 aliases: Wasserharnruhr
-tags: m/m14, f/🍺, f/🗞️
+tags: [m/m14, f/🍺, f/🗞️]
+title: Diabetes insipidus
 ---
 ### Diabetes insipidus
 - **Ätiologie**

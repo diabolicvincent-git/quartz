@@ -1,6 +1,7 @@
 ---
 aliases: von-Willebrand-Faktor
-tags: m/m08, f/🩸, f/⚙️, f/🧪/Molekül
+tags: [m/m08, f/🩸, f/⚙️, f/🧪/Molekül]
+title: vWF
 ---
 
 ### von-Willebrand-Faktor / vWF 

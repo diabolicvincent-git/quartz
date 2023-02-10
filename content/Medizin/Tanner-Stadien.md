@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/🗞️, f/🦄, a/Intervention, f/🦩, f/🍆
+tags: [m/m21, f/🗞️, f/🦄, a/Intervention, f/🦩, f/🍆]
+title: Tanner-Stadien
 ---
 ### Tanner-Stadien
 > Einteilung physiologischer Entwicklungsstufen der **[[Pubertät]]**

@@ -1,5 +1,6 @@
 ---
-tags: m/m20, f/💭, f/💭, a/Pathologie
+tags: [m/m20, f/💭, f/💭, a/Pathologie]
+title: Anpassungsstörung
 ---
 > (Abstract::Reaktion ≤6 Monate auf Lebenskrise/Veränderung (z.B. Trennung, Tod))
 

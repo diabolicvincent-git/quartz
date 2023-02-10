@@ -1,4 +1,5 @@
 ---
+title: M. rectus medialis
 ---
 ##### M. rectus medialis
 *   Anulus tendineus

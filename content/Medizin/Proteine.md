@@ -1,6 +1,7 @@
 ---
 aliases: Protein
-tags: m/m02
+tags: [m/m02]
+title: Proteine
 ---
 
 ## Proteinstruktur

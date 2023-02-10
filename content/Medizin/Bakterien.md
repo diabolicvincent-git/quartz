@@ -1,6 +1,7 @@
 ---
 aliases: bakteriell
-tags: m/m03, m/m09, m/m18, f/🦠, f/🦠/Erreger/Bakterien
+tags: [m/m03, m/m09, m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+title: Bakterien
 ---
 > ==[[Bakteriensystematik]]==
 - **Aufbau**:: ==[[Prokaryonten]]== i.d.R. mit [[Zellwand]]

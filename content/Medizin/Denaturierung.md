@@ -1,6 +1,7 @@
 ---
 aliases: Proteindenaturierung
-tags: m/m02, f/🧪
+tags: [m/m02, f/🧪]
+title: Denaturierung
 ---
 ### Denaturierung
 > Reversibler / Irreversibler Verlust der (Sekundär-, Tertiär-, Quartär-)Struktur → Funktionsverlust

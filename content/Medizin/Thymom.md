@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/🦀, f/🩸
+tags: [m/m25, f/🦀, f/🩸]
+title: Thymom
 ---
 ### Thymom
 > [[Tumor]] des [[Thymus]]

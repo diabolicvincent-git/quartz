@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🔬/Gewebe
+tags: [m/m05, f/🔬/Gewebe]
+title: Glatte Muskulatur
 ---
 - **Vorkommen**:: Wandungen von Hohlorganen, [[Gefäße]] und [[Lymphgefäße]], [[Auge]], Haut
 - **Struktur**:: spindelförmige Zellen im engen, netzartigen Verbund; umgeben von [[Basallamina]] (Verwechslungsgefahr mit straffem [[Bindegewebe]])

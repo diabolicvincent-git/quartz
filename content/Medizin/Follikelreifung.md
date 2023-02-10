@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🦩, f/⚙️, f/🔬
+tags: [m/m22, f/🦩, f/⚙️, f/🔬]
+title: Follikelreifung
 ---
 (Abstract::**Zyklusunabhängig:** Primordialfollikel → Tertiärfollikel, **[[Menstruationszyklus]]:** → Graaf-[[Follikel]])
 

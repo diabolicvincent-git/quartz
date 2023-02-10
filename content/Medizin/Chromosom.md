@@ -1,6 +1,7 @@
 ---
 aliases: Chromosomen
-tags: m/m02, f/🧬, f/🧪
+tags: [m/m02, f/🧬, f/🧪]
+title: Chromosom
 ---
 ### Chromosom
 - **Aufbau**

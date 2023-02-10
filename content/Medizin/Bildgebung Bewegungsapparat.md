@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴, f/🕶️
+tags: [m/m10, f/🦴, f/🕶️]
+title: Struktur und Verlauf der Binnenstrukturen (Ligg. cruciata et collateralia, Meniscus, Capsula) des Kniegelenks beschreiben
 ---
 
 - **Knochenverbindungen**

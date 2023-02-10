@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/⚙️, f/🫁
+tags: [m/m13, f/⚙️, f/🫁]
+title: Partialdruck
 ---
 ### Partialdruck
 > Druck, den ein Gas ausübt, wäre es alleine im betrachteten Volumen

@@ -1,8 +1,8 @@
 ---
 aliases:
   - Lederhaut
-tags:
-  - m/m16
+tags: [m/m16]
+title: Sklera
 ---
 ### Sklera / Lederhaut
 - Lichtundurchlässig, "Weißer" teil des Auges

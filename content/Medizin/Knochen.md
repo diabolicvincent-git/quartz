@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, m/m10, f/💀, f/🦴
+tags: [m/m05, m/m10, f/💀, f/🦴]
+title: Knochen
 ---
 ### Knochen
 - **Funktion**:: Stützung, Schutz, Speicher ([[Ca2+]]), [[Hämatopoese]]

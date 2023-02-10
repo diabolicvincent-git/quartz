@@ -1,6 +1,7 @@
 ---
 aliases: Coombs & Gell
-tags: m/m09, m/m17, f/💉, f/🧴
+tags: [m/m09, m/m17, f/💉, f/🧴]
+title: Hypersensibilitätstypen
 ---
 ### Hypersensibilitätstypen n. Coombs & Gell (Tabelle)
 Klassifikation|Mechanismus|[[Allergie]]|[[Autoimmunität]]

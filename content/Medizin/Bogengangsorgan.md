@@ -1,6 +1,7 @@
 ---
 aliases: Bogengänge, Bogengang
-tags: m/m16, f/💀, f/⚙️, f/👂
+tags: [m/m16, f/💀, f/⚙️, f/👂]
+title: Bogengangsorgan
 ---
 ### Bogengangsorgan
 > Dreh-/Winkelbeschleunigung

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/👁️
+tags: [f/👁️]
+title: Determinanten der Sehschärfe
 ---
 - Güte des dioptischen Apparats
 - Größe, Dichte & Anordnung der [[Rezeptor]]en

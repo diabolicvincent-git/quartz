@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👁️, f/⚙️
+tags: [m/m16, f/👁️, f/⚙️]
+title: Kammerwasser
 ---
 ### Kammerwasser
 - **Funktion**:: Versorgung der gefäßfreien [[Augenlinse]] und [[Cornea]] + Erhalt [[Intraokulärer Druck]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: a/Intervention, Wichtig
+tags: [a/Intervention, Wichtig]
+title: Anamnese
 ---
 - **Allgemeines**
 	- Vorstellung

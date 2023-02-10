@@ -1,6 +1,7 @@
 ---
 aliases: GBS
-tags: m/m15, f/🧠, a/Pathologie
+tags: [m/m15, f/🧠, a/Pathologie]
+title: Guillain-Barré-Syndrom
 ---
 > Akute demyelinisierende Polyneuroradikulopathie
 - **Epidemiologie**

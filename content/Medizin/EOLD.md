@@ -1,6 +1,7 @@
 ---
 aliases: End of Life Decision, End of Life Decisions
-tags: m/m20, m/m23, f/💤
+tags: [m/m20, m/m23, f/💤]
+title: EOLD
 ---
 ### End of Life Decisions / EOLD
 > Ethisch gleichbedeutend, Therapie nicht zu beginnen, wie sie wieder zu beenden

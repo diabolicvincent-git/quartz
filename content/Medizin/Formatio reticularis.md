@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💀, f/⚙️
+tags: [m/m15, f/🧠, f/💀, f/⚙️]
+title: Formatio reticularis
 ---
 ### Formatio reticularis 
 > Netz aus grauer Substanz über gesamten [[Hirnstamm]] bis ins [[Rückenmark]]

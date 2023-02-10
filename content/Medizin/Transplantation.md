@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, a/Intervention, f/🔪
+tags: [m/m26, a/Intervention, f/🔪]
+title: Transplantation
 ---
 ### Transplantation
 - **Matching Formen**

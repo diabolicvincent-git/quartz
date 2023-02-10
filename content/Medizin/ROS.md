@@ -1,6 +1,7 @@
 ---
 aliases: Reaktive Sauerstoffspezies
-tags: m/m08, m/m13
+tags: [m/m08, m/m13]
+title: ROS
 ---
 ### Reaktive Sauerstoffspezies / ROS
 > [[O2]]-enthaltende Moleküle mit großer Reaktionsbereitschaft

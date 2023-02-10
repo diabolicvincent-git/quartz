@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/⚙️
+tags: [m/m14, f/🍺, f/⚙️]
+title: Regulation
 ---
 - Wasseranteil 75% (Säuglinge) – 60% (Erwachsene [[♂]]) – 50% (Senioren)
  - Wasseranteil maßgeblich vom Fettgewebsanteil abhängig, da dieses kaum [[Wasser]] enthält

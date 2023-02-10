@@ -1,6 +1,7 @@
 ---
 aliases: Cerebellum
-tags: m/m15, f/💀, f/🧠
+tags: [m/m15, f/💀, f/🧠]
+title: Kleinhirn
 ---
 ### Kleinhirn / Cerebellum
 > Cerebellum macht 10% des Hirngewichts aus und enthält >50% der [[Neuron]]

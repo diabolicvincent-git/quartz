@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m21, f/🫀, a/Pathologie
+tags: [m/m11, m/m21, f/🫀, a/Pathologie]
+title: Perikardtamponade
 ---
 ### Perikardtamponade
 > [[Perikarderguss]] → Kompression des [[Herz]]ens → obstruktiver [[Schock]]

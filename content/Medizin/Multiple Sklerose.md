@@ -1,6 +1,7 @@
 ---
 aliases: MS
-tags: m/m15, a/Pathologie, Wichtig, m/m17
+tags: [m/m15, a/Pathologie, Wichtig, m/m17]
+title: Multiple Sklerose
 ---
 ### Multiple Sklerose / MS 
 - **Epidemiologie**:: ~30. LJ, [[♀]]>[[♂]]

@@ -1,7 +1,8 @@
 ---
 aliases:
  - Bronchien
-tags: m/m13, f/🫁, f/💀, f/⚙️
+tags: [m/m13, f/🫁, f/💀, f/⚙️]
+title: Bronchialbaum
 ---
 - **Funktion der Bronchien**
         - Reinigung (Härchen, Schleim, Zilien, [[Husten]])

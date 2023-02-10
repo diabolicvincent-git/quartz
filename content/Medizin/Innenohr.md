@@ -1,6 +1,7 @@
 ---
 aliases: Labyrinth
-tags: m/m16, f/👂, f/💀, f/⚙️
+tags: [m/m16, f/👂, f/💀, f/⚙️]
+title: Innenohr
 ---
 ### Innenohr 
 - **Funktion**:: Hörorgan ([[Auditives System]]) und Gleichgewichtsorgan ([[Vestibuläres System]])

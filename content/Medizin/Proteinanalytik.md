@@ -1,4 +1,5 @@
 ---
+title: Proteinanalytik
 ---
 ## Analyse von Membranproteinen
 

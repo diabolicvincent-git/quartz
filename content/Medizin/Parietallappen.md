@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Parietallappen
 ---
 ### Parietallappen
 - **Funktion**:: Integration sensorischer Informationen

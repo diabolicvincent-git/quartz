@@ -1,8 +1,8 @@
 ---
 aliases:
   - Astigmatismus
-tags:
-  - m/m16
+tags: [m/m16]
+title: Hornhautverkrümmung
 ---
 ### Hornhautverkrümmung / Astigmatismus
 - **Pathophysiologie**:: Hierbei ist die [[Cornea]] nicht gleichmäßig gekrümmt, wodurch das Licht unterschiedlich stark gebrochen wird und ein verzerrtes Bild entsteht.

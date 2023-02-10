@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/⚙️, f/🧠, f/💭
+tags: [m/m20, f/⚙️, f/🧠, f/💭]
+title: Emotionen
 ---
 ### Emotionen
 - ==**Basisemotionen**:: Freude, Trauer, Ekel, Furcht, Ärger==[^2]

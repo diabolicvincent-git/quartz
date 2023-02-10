@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🧪/Molekül, f/🧪, f/⚙️
+tags: [m/m08, f/🧪/Molekül, f/🧪, f/⚙️]
+title: Ferritin
 ---
 ### Ferritin
 - **Funktion**:: Intrazellulärer [[Eisen]]-Speicher

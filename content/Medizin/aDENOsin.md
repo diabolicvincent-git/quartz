@@ -1,5 +1,6 @@
 ---
-tags: m/m25, f/🫀, f/💊/Medikament/Wirkstoff/P-Drug, f/⛑️
+tags: [m/m25, f/🫀, f/💊/Medikament/Wirkstoff/P-Drug, f/⛑️]
+title: aDENOsin
 ---
 - **Gruppe**:: [[Antiarrhythmika]]
 - **Wirkung**:: Kurzzeitig kompletter [[AV-Block]] (neg. [[dromotrop]])

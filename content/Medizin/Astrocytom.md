@@ -1,5 +1,6 @@
 ---
-tags: m/m30, f/🧠, f/🦀/Hirntumor
+tags: [m/m30, f/🧠, f/🦀/Hirntumor]
+title: Astrocytom
 ---
 > (Abstract::**[[Gliome]].** Häufigster [[Hirntumor]].)
 - **Klassifikation**

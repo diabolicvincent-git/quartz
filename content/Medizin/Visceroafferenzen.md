@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m15, f/🧠/Faserqualität, f/⚙️
+tags: [m/m15, f/🧠/Faserqualität, f/⚙️]
+title: Visceroafferenzen
 ---
 > (Abstract::**[[Afferenzen]].**)
 ```dataview

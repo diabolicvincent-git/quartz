@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Aufbau
 ---
 ### Hypothalamus 
 > Oberstes Regulationszentrum des vegetativen und endokrinen Systems

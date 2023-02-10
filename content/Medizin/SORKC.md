@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💭
+tags: [m/m20, f/💭]
+title: SORKC
 ---
 ### SORKC-Modell
 > Analyse in der [[Verhaltenstherapie]]

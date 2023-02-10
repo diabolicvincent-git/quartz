@@ -1,6 +1,7 @@
 ---
 aliases: Prostatakarzinom
-tags: m/m19, f/🍆, a/Pathologie, f/🦀
+tags: [m/m19, f/🍆, a/Pathologie, f/🦀]
+title: Prostata-Ca
 ---
 ### Prostatakarzinom
 - **Epidemiologie**:: Häufigster maligner [[Tumor]] bei älteren Männern

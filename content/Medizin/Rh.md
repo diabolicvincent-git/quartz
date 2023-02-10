@@ -1,6 +1,7 @@
 ---
 aliases: Rhesus, Rhesusfaktor, Anti-D
-tags: m/m08, m/m21, f/🩸
+tags: [m/m08, m/m21, f/🩸]
+title: Rh
 ---
 ### Rhesus- / [[Rh]]-[[Blutgruppen]]
 - **Gene**:: C, c, D, d[^1], E, e (codominant)

@@ -1,4 +1,5 @@
 ---
+title: Wirkstoffe
 ---
 # Wirkstoffe
 - **[[Nikotin]]** → *psychische* und *[[vegetative]]* Wirkungen des Tabaks

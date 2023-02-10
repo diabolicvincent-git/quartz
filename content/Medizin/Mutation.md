@@ -1,7 +1,8 @@
 ---
 aliases:
   - Mutationen
-tags: m/m02, m/m19
+tags: [m/m02, m/m19]
+title: Mutation
 ---
 ### Mutationen
 - **Genmutationen**

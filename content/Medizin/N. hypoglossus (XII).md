@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. hypoglossus (XII)
 ---
 - **Nr**:: 12
 - **Kerngebiete**:: [[Medulla oblongata]]

@@ -1,6 +1,7 @@
 ---
 aliases: Thrombocyt
-tags: m/m08, f/🩸, f/🔬/Zelle
+tags: [m/m08, f/🩸, f/🔬/Zelle]
+title: Thrombocyten
 ---
 ### Thrombocyten / Blutplättchen 
 - **Konzentration**:: 150.000 - 400.000 / μl

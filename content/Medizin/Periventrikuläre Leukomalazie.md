@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🧠, f/🦄
+tags: [a/Pathologie, f/🧠, f/🦄]
+title: Periventrikuläre Leukomalazie
 ---
 > (Abstract::**Ischämie in weißer Substanz (Fasern des [[Motorcortex]]).** Komplikation von perinataler Asphyxie.)
 - **Ätiologie**:: Perinatale Asphyxie

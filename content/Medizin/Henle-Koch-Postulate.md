@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18
+tags: [m/m18]
+title: Henle-Koch-Postulate
 ---
 ### Henle-Koch-Postulate
 > Veraltete Kriterien für Infektionserreger

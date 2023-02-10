@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, a/Intervention
+tags: [m/m00, a/Intervention]
+title: OPQRST
 ---
 ### OPQRST
 > [[Schmerz]]-[[Anamnese]]

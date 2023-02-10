@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/💀, f/💀/Leitungsbahn/Lymphe
+tags: [m/m05, f/💀, f/💀/Leitungsbahn/Lymphe]
+title: Lymphgefäße
 ---
 ### Lymphgefäße
 - **Funktion**:: Drainage von Flüssigkeit aus Gewebe

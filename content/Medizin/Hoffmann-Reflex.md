@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, f/⚙️
+tags: [m/m10, f/🦴, f/⚙️]
+title: Hoffmann-Reflex
 ---
 ### Hoffmann-[[Reflex]] 
 > *Monosynaptischer [[Eigenreflex]]* kann statt Sehnenbeklopfen (T-Relfex) auch durch elektrische Stimulation (H-[[Reflex]] nach Hoffmann) ausgelöst werden

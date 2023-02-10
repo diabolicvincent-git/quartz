@@ -1,6 +1,7 @@
 ---
 aliases: Kreatinkinase
-tags: m/m10, f/🧪, f/🫀, f/🧪/Molekül, f/🥼
+tags: [m/m10, f/🧪, f/🫀, f/🧪/Molekül, f/🥼]
+title: CK
 ---
 ### Kreatinkinase / CK
 > **[[Enzyme]]**:: Phosphokreatin + [[ADP]] ↔ Kreatin + [[ATP]]

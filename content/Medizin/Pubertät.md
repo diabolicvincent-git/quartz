@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🦄, f/🍆, f/🦩, f/🗞️
+tags: [m/m22, f/🦄, f/🍆, f/🦩, f/🗞️]
+title: Pubertät
 ---
 ### Pubertät
 > Ausreifung von Gonaden/Genitalien, Bildung sekundärer [[Geschlechtsmerkmale]], Wachstum

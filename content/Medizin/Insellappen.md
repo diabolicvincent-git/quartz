@@ -1,6 +1,7 @@
 ---
 aliases: Insula
-tags: m/m15, f/💀, f/🧠
+tags: [m/m15, f/💀, f/🧠]
+title: Insellappen
 ---
 ### Insellappen / Insula
 - **Funktion**:: Multisensorik, überwiegend Geschmack

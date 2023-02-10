@@ -1,7 +1,8 @@
 ---
 aliases:
   - Fontanelle
-tags: m/m15
+tags: [m/m15]
+title: Fontanellen
 ---
 ## Fonticulus anterior („große Fontanelle“)
 - Rautenförmig

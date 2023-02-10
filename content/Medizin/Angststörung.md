@@ -2,6 +2,7 @@
 aliases: 
 tags: [a/Pathologie, f/💭, m/m31]
 ICD: "F40-F41"
+title: Angststörung
 ---
 - **Entitäten**
 	- [[Phobie]]

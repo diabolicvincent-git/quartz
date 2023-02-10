@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👁️, a/Intervention
+tags: [m/m16, f/👁️, a/Intervention]
+title: Ophthalmoskopie
 ---
 ### Ophthalmoskopie
 > Beurteilung des Augenhintergrunds

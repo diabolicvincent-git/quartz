@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m14, f/🫀, a/Pathologie
+tags: [m/m11, m/m14, f/🫀, a/Pathologie]
+title: aHTN
 ---
 > (Abstract::**Arterielle [[Hypertonie]]** [[RR]] >140/90 mmHg)
 - **Epidemiologie**:: Ab 65. LJ ~50%

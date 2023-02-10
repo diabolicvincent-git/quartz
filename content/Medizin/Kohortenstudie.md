@@ -1,5 +1,6 @@
 ---
-tags: f/📊, m/m07
+tags: [f/📊, m/m07]
+title: Kohortenstudie
 ---
 - **Einteilung**:: [[Beobachtungsstudie]], [[Prospektive Studie]]
 - **Beschreibung**:: Kohorte (Gruppe mit gemeinsamen Eigenschaften)

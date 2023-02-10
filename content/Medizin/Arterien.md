@@ -1,6 +1,7 @@
 ---
 aliases: arteriell, arterielle
-tags: m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Arterie
+tags: [m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Arterie]
+title: Arterien
 ---
 - **Funktion**:: Führen [[Blut]] vom [[Herz]] weg ([[Hochdrucksystem]])
 - **Verlauf**:: Sukzessive kleiner ([[Aorta]] → [[Arterien]] → Arteriolen → Metarteriolen → [[Kapillaren]])

@@ -1,6 +1,7 @@
 ---
 aliases: Kupfer
-tags: m/m21, f/🧪, f/⚙️, f/🧪/Molekül
+tags: [m/m21, f/🧪, f/⚙️, f/🧪/Molekül]
+title: Cu2+
 ---
 > (Abstract::**Kupfer.** [[Spurenelemente]].)
 - **Funktion**

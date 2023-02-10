@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, m/m18, f/🦠, a/Pathologie, f/💤
+tags: [m/m17, m/m18, f/🦠, a/Pathologie, f/💤]
+title: Waterhouse-Friderichsen-Syndrom
 ---
 ### Waterhouse-Friderichsen-Syndrom
 > Komplikation v.a. von [[Sepsis]] / ==[[Meningokokken]]-[[Meningitis]]==

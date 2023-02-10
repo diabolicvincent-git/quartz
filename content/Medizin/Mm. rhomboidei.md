@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: Mm. rhomboidei
 ---
 ### Mm. rhomboidei
 - Ursprung:: [[HWK]] 6-7, [[BWK]] 1-4

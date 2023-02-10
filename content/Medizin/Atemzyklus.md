@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/⚙️
+tags: [m/m13, f/🫁, f/⚙️]
+title: Atemzyklus
 ---
 1. **Inspirationsphase (I)**:: Crescendo der Nervenaktivität der inspiratorischen [[Atemmuskulatur]] ([[N. phrenicus (C3-C5)]])
 2. **Postinspirationsphase (PI)**:: Relaxation der inspiratorischen Muskulatur - ca. 1 Sekunde "Pause"; wird bereits zur Exspiration gezählt (hier: [[Phonation]])

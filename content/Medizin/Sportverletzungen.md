@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27
+tags: [m/m27]
+title: Sportverletzungen
 ---
 ### Sportverletzungen
 - **Epidemiologie**

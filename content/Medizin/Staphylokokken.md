@@ -1,6 +1,7 @@
 ---
 aliases: Staphylococcus, Staphylococcen
 tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+title: Staphylokokken
 ---
 > [[grampositiv]] > Kokken > [[Staphylokokken]] (Katalase+)
 - **Übertragung**:: Haut, Schmierinfektion

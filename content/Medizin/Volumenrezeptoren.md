@@ -1,6 +1,7 @@
 ---
 aliases: Vorhofdehnungsreflex
-tags: m/m11, f/🫀, f/🍺, f/🧪/Molekül/Rezeptor
+tags: [m/m11, f/🫀, f/🍺, f/🧪/Molekül/Rezeptor]
+title: Volumenrezeptoren
 ---
 ### Volumenrezeptoren
 - **Vorkommen**:: A. pulmonalis, [[Herz]]-Vorhöfe ([[Niederdrucksystem]])

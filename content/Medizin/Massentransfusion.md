@@ -1,5 +1,6 @@
 ---
-tags: f/⛑️, f/💤, a/Intervention, f/🩸/Transfusion
+tags: [f/⛑️, f/💤, a/Intervention, f/🩸/Transfusion]
+title: Massentransfusion
 ---
 - **Indikation**:: Schwerste akute Blutung mit [[Hämorrhagischer Schock]] + [[Hämodynamische Instabilität]], [[Azidose]], unkontrollierte Blutung oder Blutverlust erwartet >1x Blutvolumen
 - **Durchführung**

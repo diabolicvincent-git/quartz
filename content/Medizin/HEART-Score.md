@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, m/m11, f/🫀, a/Intervention, f/⛑️
+tags: [m/m00, m/m11, f/🫀, a/Intervention, f/⛑️]
+title: HEART-Score
 ---
 ### HEART-Score
 - **0-3 Pkt.**:: Ambulant (1.9% Kardiales Ereignis, 0.05% Letalität)

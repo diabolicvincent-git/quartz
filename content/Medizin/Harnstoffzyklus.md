@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/⚙️, f/🧪, f/💩
+tags: [m/m12, f/⚙️, f/🧪, f/💩]
+title: Harnstoffzyklus
 ---
 ### Harnstoffzyklus
 > NH3$^{+}$ + HCO3$^{–}$ → [[Harnstoff]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27, m/m15
+tags: [m/m27, m/m15]
+title: Radikuläre Syndrome
 ---
 ### Radikuläre Syndrome
 | Syndrom | [[Kennmuskel]] ([[Parese]])                                                       | [[Dermatome]] (Sensibilität↓, [[Schmerz]])                                         | [[Reflex]]↓                               |

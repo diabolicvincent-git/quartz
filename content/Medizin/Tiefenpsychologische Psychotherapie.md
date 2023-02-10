@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💭, a/Intervention
+tags: [m/m20, f/💭, a/Intervention]
+title: Tiefenpsychologische Psychotherapie
 ---
 ### Tiefenpsychologisch fundierte [[Psychotherapie]]
 - Weiterentwicklung von [[Psychoanalyse]]

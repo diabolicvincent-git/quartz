@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🦀, f/🧪, f/🧪/Molekül
+tags: [m/m05, f/🦀, f/🧪, f/🧪/Molekül]
+title: pRb
 ---
 ### Retinoblastom-Protein / pRb
 - **Funktion**:: [[Tumorsuppressoren]], [[Regulation des Zellzyklus]]

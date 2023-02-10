@@ -1,4 +1,5 @@
 ---
+title: Pharmakologie
 ---
 - [[Pharmakodynamik]]
 - [[Pharmakokinetik]]

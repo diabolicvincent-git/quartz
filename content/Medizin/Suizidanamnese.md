@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags: []
+title: Suizidanamnese
 ---
 ### Suizidanamnese
 - **Indikation**:: Nicht nur bei V.a. [[Suizidalität]] sondern jede psych. Anamnese

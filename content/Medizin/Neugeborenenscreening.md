@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00
+tags: [m/m00]
+title: Neugeborenenscreening
 ---
 ### Neugeborenenscreening 
 > Sekundärprävention schwerer, behandelbarer Erkrankungen bei präsymptomatischen Neugeborenen

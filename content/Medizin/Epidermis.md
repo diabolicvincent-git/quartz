@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/🔬
+tags: [m/m09, f/🔬]
+title: Epidermis
 ---
 ### Epidermis
 > Mehrschichtiges, verhorntes Plattenepithel, v.a. *Keratinocyten*

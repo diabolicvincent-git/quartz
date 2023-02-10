@@ -1,5 +1,6 @@
 ---
-tags: m/m12
+tags: [m/m12]
+title: Divertikulitis
 ---
 > (Abstract::**Akute [[Entzündung]] von [[Divertikulose]].**)
 - **Epidemiologie**:: Prävalenz Ü70 50%

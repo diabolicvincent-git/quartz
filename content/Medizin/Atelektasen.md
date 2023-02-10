@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/🫁, a/Pathologie
+tags: [m/m25, f/🫁, a/Pathologie]
+title: Atelektasen
 ---
 > (Abstract::Unvollständig entfalteter, luftleerer [[Lunge]]nanteil)
 - **Ätiologie**

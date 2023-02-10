@@ -1,4 +1,5 @@
 ---
+title: Stoffwechsel der Niere
 ---
 > Energiebedarf abhängig von Natriumresorption (v.a. [[Na+ K+ ATPase]]) abhängig von der [[GFR]] abhängig von der [[Renale Perfusion]]
 

@@ -1,4 +1,5 @@
 ---
+title: M. obliquus inferior
 ---
 ##### M. obliquus inferior
 *   Mediale Orbitawand in der Nähe der Fossa lacrimalis

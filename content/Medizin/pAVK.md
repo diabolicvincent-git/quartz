@@ -1,6 +1,7 @@
 ---
 aliases: Periphere arterielle Verschlusskrankheit
-tags: m/m27
+tags: [m/m27]
+title: pAVK
 ---
 ### Periphere arterielle Verschlusskrankheit / pAVK
 - **Ätiologie**

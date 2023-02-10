@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. infraspinatus
 ---
 ### M. infraspinatus
 - Ursprung:: [[Scapula]] (Fossa infraspinata)

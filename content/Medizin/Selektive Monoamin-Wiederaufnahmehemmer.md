@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m20, f/💭, f/💊/Medikament
+tags: [m/m20, f/💭, f/💊/Medikament]
+title: Selektive Monoamin-Wiederaufnahmehemmer
 ---
 - **Gruppen**
 	- **SSRI ([[Serotonin]]) & SSNRI ([[Serotonin]]+[[Noradrenalin]])**:: ==*1. Wahl* bei antriebsgeminderter [[Depression]]==; [[Angststörung]], [[Zwangsstörung]], div. weitere

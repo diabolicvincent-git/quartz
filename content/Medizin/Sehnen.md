@@ -1,6 +1,7 @@
 ---
 aliases: Tendo
-tags: m/m10, f/🦴, f/💀
+tags: [m/m10, f/🦴, f/💀]
+title: Sehnen
 ---
 ### Sehne / Tendo
 > Bindegewebige Verbindung zwischen Muskel und [[Knochen]]

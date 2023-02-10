@@ -1,6 +1,7 @@
 ---
 aliases: Depressive Störung
-tags: m/m20, a/Pathologie, f/💭, a/Intervention
+tags: [m/m20, a/Pathologie, f/💭, a/Intervention]
+title: Depression
 ---
 ### Depression
 - **Epidemiologie**:: ⅓ vor 25. LJ, [[♀]]>[[♂]]

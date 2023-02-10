@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/🧴, a/Intervention
+tags: [m/m09, f/🧴, a/Intervention]
+title: Arten von Wunden
 ---
 
 

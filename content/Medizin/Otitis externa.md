@@ -1,4 +1,5 @@
 ---
+title: Otitis externa
 ---
 - **Ätiologie**:: [[Bakterien]] ([[Pseudomonas aeruginosa]], [[Staph. aureus]]), [[Pilze]] ([[Candida albicans]]), Allergene
 - **Symptome**:: [[Pruritus]], starke Otalgie, Tragusdruckschmerz

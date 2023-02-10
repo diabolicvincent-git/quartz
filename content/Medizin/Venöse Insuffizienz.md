@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m05, f/🧴, a/Pathologie
+tags: [m/m11, m/m05, f/🧴, a/Pathologie]
+title: Venöse Insuffizienz
 ---
 ### Venöse Insuffizienz
 - Reticuläre Varikosis und Besenreiser nur kosmetisch relevant

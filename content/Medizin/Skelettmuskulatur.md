@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05
+tags: [m/m05]
+title: Skelettmuskulatur
 ---
 Umhüllung: Faszie (Kraftübertragung, Reibung¯) > Epimysium (lockeres BG) > Perimysium (BG-Septen; **Sekundärbündel**) > (**Primärbündel**) > Endomysium (**Muskelfaser**)
 

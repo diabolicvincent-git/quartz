@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05
+tags: [m/m05]
+title: Integrine
 ---
 ### Integrine
 > Adhäsionsproteine in [[Desmosom]]/[[Hemidesmosom]]

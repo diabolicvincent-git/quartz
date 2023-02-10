@@ -1,6 +1,7 @@
 ---
 aliases: Gaumenmandeln
-tags: f/💀/Organ/Tonsillen, f/💀, f/👂
+tags: [f/💀/Organ/Tonsillen, f/💀, f/👂]
+title: Tonsillae palatinae
 ---
 > (Abstract::**Gaumenmandel ([[Tonsillen]]).**)
 - **Lage**:: Paarig in Fossa tonsillaris am Isthmus faucium (zwischen Arcus palatoglossus und Arcus palatopharyngeus)

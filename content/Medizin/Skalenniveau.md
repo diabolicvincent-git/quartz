@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m07, f/📊
+tags: [m/m07, f/📊]
+title: Skalenniveau
 ---
 ### Skalenniveau
 | Skalenniveau        | Eigenschaften                                                                     | Beispiel                               | [[Lagemaße]]                          |

@@ -1,3 +1,6 @@
+---
+title: Magensaftsekretion
+---
 ## Anatomische Grundlagen
 
 - **Anatomische Abschnitte des Magens**

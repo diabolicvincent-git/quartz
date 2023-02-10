@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠, a/Pathologie, m/m30
+tags: [m/m15, f/🧠, a/Pathologie, m/m30]
+title: Anteriorinfarkt
 ---
 - **Epidemiologie**:: Selten
 - **Lokalisation**:: [[A. cerebri anterior]]

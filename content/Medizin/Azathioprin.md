@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, m/m17, f/💊/Medikament, f/💉
+tags: [m/m26, m/m17, f/💊/Medikament, f/💉]
+title: Azathioprin
 ---
 > **[[Immunsuppressiva]], [[Cytostatika]]**
 - **Wirkmechanismus**:: Prodrug metabolisiert zu 6-Mercaptopurin → Purin-Analoga (Antimetabolit) → [[Replikation]]↓

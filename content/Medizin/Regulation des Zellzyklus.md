@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, m/m05, f/🧪, f/🧬
+tags: [m/m03, m/m05, f/🧪, f/🧬]
+title: Regulation des Zellzyklus
 ---
 ### Regulation des Zellzyklus
 - siehe [[Zellzyklus]]

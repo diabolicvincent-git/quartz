@@ -1,8 +1,8 @@
 ---
 aliases:
   - systolisch
-tags:
-  - m/m11
+tags: [m/m11]
+title: Systole
 ---
 
 ## Anspannungsphase

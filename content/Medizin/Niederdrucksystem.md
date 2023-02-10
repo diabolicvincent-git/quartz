@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, f/⚙️
+tags: [m/m11, f/🫀, f/⚙️]
+title: Niederdrucksystem
 ---
 ### Niederdrucksystem
 - **Bestandteile**:: [[Kapillaren]], [[Venen]], rechter Vorhof, rechter Ventrikel, [[Lungenkreislauf]], linker Vorhof, linker Ventrikel ([[Diastole]])

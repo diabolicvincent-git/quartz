@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, f/🦠, a/Pathologie
+tags: [m/m13, f/🫁, f/🦠, a/Pathologie]
+title: Bei eigener Infektionen
 ---
 # Bei eigener [[Infektionen]]
 

@@ -1,6 +1,7 @@
 ---
 aliases: SKS
-tags: m/m27
+tags: [m/m27]
+title: Spinalkanalstenose
 ---
 ### Spinalkanalstenose / SKS
 - **Epidemiologie**:: 60-70 Jahre

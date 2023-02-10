@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🧪, f/🧪/Molekül
+tags: [m/m08, f/🧪, f/🧪/Molekül]
+title: Leukotriene
 ---
 ### Leukotriene
 > [[Eicosanoide]]

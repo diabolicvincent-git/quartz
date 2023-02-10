@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/💤
+tags: [a/Pathologie, f/💤]
+title: Akzidentielle intraarterielle Injektion
 ---
 > (Abstract::)
 - **Ätiologie**:: [[Nekrose]] insb. bei [[Barbiturate]], [[Benzodiazepine]], [[Cytostatika]], [[Antibiotika]], [[Glucocorticoide]]

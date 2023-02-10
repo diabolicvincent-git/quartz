@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, f/🦠/Erreger/Pilze
+tags: [m/m18, f/🦠, f/🦠/Erreger/Pilze]
+title: Schimmelpilze
 ---
 ### Schimmelpilze
 - **Übertragung**:: via Sporen

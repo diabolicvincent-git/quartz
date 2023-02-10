@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💤, f/💊/Medikament, f/🍄/Gift
+tags: [m/m15, f/🧠, f/💤, f/💊/Medikament, f/🍄/Gift]
+title: Benzodiazepine
 ---
 ### Benzodiazepine
 - **Wirkung**:: Anxiolytisch, hypnotisch, sedierend, antikonvulsiv, amnestisch, muskelrelaxierend

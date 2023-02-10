@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, f/⛑️, f/🔪, a/Intervention
+tags: [m/m21, f/⛑️, f/🔪, a/Intervention]
+title: Tourniquet
 ---
 - **Teaching**
 	- Selbstapplikation am Oberschenkel statt Oberarm (schmerzhafter)

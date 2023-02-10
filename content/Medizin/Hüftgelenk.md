@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, f/💀
+tags: [m/m10, f/🦴, f/💀]
+title: Hüftgelenk
 ---
 ### Hüftgelenk
 > Nussgelenk (spezielles Kugelgelenk, stärker eingefasst), bandhaft stark stabilisert

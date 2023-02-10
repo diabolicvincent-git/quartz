@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: [m/m15, m/m30, f/🧠, f/🔬, f/🔬/Zelle]
+title: Astrocyten
 ---
 (Abstract::[[Gliazellen]] im [[ZNS]])
 - **Funktion**:: Stützfunktion, [[Blut-Hirn-Schranke]], [[Stoffwechsel des ZNS]]

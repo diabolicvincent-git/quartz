@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, f/🧴, f/🧪, f/🧪/Molekül
+tags: [m/m09, f/🧴, f/🧪, f/🧪/Molekül]
+title: Melanin
 ---
 ### Melanin
 

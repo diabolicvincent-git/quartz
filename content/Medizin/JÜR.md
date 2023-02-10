@@ -1,6 +1,7 @@
 ---
 aliases: Jahres-Überlebensrate
-tags: m/m07, m/m06
+tags: [m/m07, m/m06]
+title: JÜR
 ---
 ### Jahres-Überlebensrate / JÜR
 > Wie viel % sind nach 5 bzw. 10 Jahren noch ereignisfrei?

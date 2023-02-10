@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🫁, m/m13
+tags: [f/🫁, m/m13]
+title: Inspiration
 ---
 # Inspiration
 

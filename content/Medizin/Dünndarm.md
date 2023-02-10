@@ -1,6 +1,7 @@
 ---
 aliases: Intestinum
-tags: m/m12, f/💩, f/💀
+tags: [m/m12, f/💩, f/💀]
+title: Dünndarm
 ---
 ### Dünndarm 
 - **[[Duodenum]]**

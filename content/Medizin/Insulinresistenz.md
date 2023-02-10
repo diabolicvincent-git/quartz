@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/🗞️, f/⚙️
+tags: [m/m17, f/🗞️, f/⚙️]
+title: Insulinresistenz
 ---
 ### Insulinresistenz
 > [[DMT2]]

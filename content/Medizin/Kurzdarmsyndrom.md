@@ -1,6 +1,7 @@
 ---
 aliases: Darmversagen
-tags: m/m26, f/💩
+tags: [m/m26, f/💩]
+title: Kurzdarmsyndrom
 ---
 ### Kurzdarmsyndrom / Darmversagen
 > Gestörte intestinale Resorption nach Darmverlust

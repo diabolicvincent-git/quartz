@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, m/m12
+tags: [m/m26, m/m12]
+title: Omentum majus
 ---
 ### Omentum majus
 - **Funktion**

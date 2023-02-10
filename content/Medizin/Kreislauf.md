@@ -1,6 +1,7 @@
 ---
 aliases: Blutkreislauf
-tags: m/m11
+tags: [m/m11]
+title: Anatomische Gliederung
 ---
 # Anatomische Gliederung
 ## Körperkreislauf

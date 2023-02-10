@@ -1,6 +1,7 @@
 ---
 aliases: Benigner paroxysmaler Lagerungsschwindel
-tags: m/m16, f/👂
+tags: [m/m16, f/👂]
+title: BPLS
 ---
 > (Abstract::**Benigner paroxysmaler Lagerungsschwindel.**)
 - **Pathophysiologie**:: Rasche Kopfdrehung → Ablösen von Otholithen-Fragmenten

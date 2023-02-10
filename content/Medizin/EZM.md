@@ -1,6 +1,7 @@
 ---
 aliases: Extrazellulärmatrix
-tags: m/m05
+tags: [m/m05]
+title: EZM
 ---
 ### Extrazellulärmatrix / EZM
 > 3D-Netzwerk verschiedener Makromoleküle

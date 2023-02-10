@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m06, m/m20, f/💭, f/⚙️
+tags: [m/m06, m/m20, f/💭, f/⚙️]
+title: Stress
 ---
 ### Stress
 > Subjektive Bedrohung der körperlichen, seelischen oder funktionellen Integrität

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, f/🧪
+tags: [m/m21, f/🧪]
+title: Selen
 ---
 ### Selen
 > [[Spurenelemente]]

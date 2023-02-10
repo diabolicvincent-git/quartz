@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie
+tags: [m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie]
+title: A. meningea media
 ---
 - **Ursprung**:: A. maxillaris
 - **Verlauf**

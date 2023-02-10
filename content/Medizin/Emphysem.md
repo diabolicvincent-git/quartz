@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m25, f/🫁
+tags: [m/m25, f/🫁]
+title: Emphysem
 ---
 ### Emphysem
 > Unphysiologisch erhöhtes Vorkommen von Gas/[[O2]] im Gewebe

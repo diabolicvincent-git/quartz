@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/🔪
+tags: [m/m26, f/🔪]
+title: Serom
 ---
 ### Serom
 > Ansammlung seröser Flüssigkeit in Wundhöhle

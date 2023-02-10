@@ -1,6 +1,7 @@
 ---
 aliases: PNH
-tags: m/m17
+tags: [m/m17]
+title: Paroxysmale nächtliche Hämoglobinurie
 ---
 ### Paroxysmale nächtliche Hämoglobinurie / PNH 
 - **Epidemiologie**:: [[♂]] = [[♀]] 

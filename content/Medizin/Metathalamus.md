@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15
+tags: [m/m15]
+title: Metathalamus
 ---
 ### Metathalamus 
 > 2 paarige Strukturen ("Kniehöcker"): [[Corpus geniculatum laterale]] und [[Corpus geniculatum mediale]]

@@ -1,6 +1,7 @@
 ---
 aliases: Neurodermitis
-tags: m/m09, f/🧴, a/Pathologie
+tags: [m/m09, f/🧴, a/Pathologie]
+title: Atopische Dermatitis
 ---
 > (Abstract::Chronisch-entzündliche Hauterkrankung mit genetischer Disposition. Veraltet: Neurodermitis.)
 - **Epidemiologie**:: ==Kinder== (3-6 Monate), Rückgang im Erwachsenenalter

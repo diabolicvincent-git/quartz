@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💤, f/💊/Medikament
+tags: [m/m20, f/💤, f/💊/Medikament]
+title: Nicht-Opioid-Analgetika
 ---
 ### Nicht-Opioid-Analgetika
 > (Abstract::[[WHO-Stufenschema]] Stufe I [[Analgetika]])

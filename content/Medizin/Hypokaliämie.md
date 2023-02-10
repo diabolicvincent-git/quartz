@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m14
+tags: [m/m14]
+title: Hypokaliämie
 ---
 ### Hypokaliämie
 - **Ätiologie**

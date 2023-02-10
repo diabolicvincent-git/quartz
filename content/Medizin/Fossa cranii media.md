@@ -1,6 +1,7 @@
 ---
 aliases: Mittlere Schädelgrube
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Fossa cranii media
 ---
 ## Fossa cranii media
 > Mittlere [[Schädelgrube]]

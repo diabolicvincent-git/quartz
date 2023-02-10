@@ -1,6 +1,7 @@
 ---
 aliases: Chemotherapeutika
-tags: m/m19, f/🦀, f/💊/Medikament
+tags: [m/m19, f/🦀, f/💊/Medikament]
+title: Cytostatika
 ---
 - **Wirkstoffe**
 	- **[[Alkylanzien]]**:: ==Alkylierung von [[DNA]]/[[RNA]]==

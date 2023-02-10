@@ -1,6 +1,7 @@
 ---
 aliases: Hintere Schädelgrube
-tags: m/m15, f/💀, f/🧠
+tags: [m/m15, f/💀, f/🧠]
+title: Fossa cranii posterior
 ---
 ## Fossa cranii posterior
 > Hintere [[Schädelgrube]]

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴, f/⚙️
+tags: [m/m10, f/🦴, f/⚙️]
+title: Physik des Bewegungsapparats
 ---
 - **Kraft [N]**:: Vektorielle Größe → Beschleunigung oder Verformung
     1. Beschleunigung von Körpern: F = m ∙ a

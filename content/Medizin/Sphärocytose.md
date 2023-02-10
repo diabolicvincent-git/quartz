@@ -1,6 +1,7 @@
 ---
 aliases: Kugelzellanämie
-tags: m/m03, m/m08, m/m17
+tags: [m/m03, m/m08, m/m17]
+title: Sphärocytose
 ---
 ### Sphärocytose / Kugelzellanämie 
 - **Epidemiologie**:: Prävalenz 1:2.000

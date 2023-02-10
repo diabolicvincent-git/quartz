@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🐣, f/🧪/Molekül/Hormon
+tags: [m/m05, f/🐣, f/🧪/Molekül/Hormon]
+title: Wnt
 ---
 ### Wnt
 > [[Signalweg]] der [[Embryonalentwicklung]], insb. [[Körperachse]] (Primitivstreifen) und Organanlagen

@@ -1,4 +1,5 @@
 ---
+title: Pneumologie
 ---
 - [[Strukturelle Atemwegserkrankungen]]
 	- [[Asthma]]

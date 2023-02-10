@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, f/👁️
+tags: [m/m30, f/🧠, f/👁️]
+title: Augenbewegung
 ---
 ### Augenbewegung
 > Siehe [[Nystagmus]]

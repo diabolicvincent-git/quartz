@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👂
+tags: [m/m16, f/👂]
+title: Ätiologie
 ---
 ### Rhinosinusitis
 > *[[Sinusitis]]* wird oft von *[[Rhinitis]]* begleitet

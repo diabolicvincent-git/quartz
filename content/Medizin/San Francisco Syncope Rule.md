@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m21, m/m11, f/🫀, f/💤, a/Intervention, a/Intervention
+tags: [m/m21, m/m11, f/🫀, f/💤, a/Intervention, a/Intervention]
+title: San Francisco Syncope Rule
 ---
 ### San Francisco Syncope Rule / CHESS
 > Evaluation von Patienten mit transienter [[Synkope]] → Workup notwendig?

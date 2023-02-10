@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🫀, f/🔪, f/🧠, a/Pathologie
+tags: [m/m30, f/🫀, f/🔪, f/🧠, a/Pathologie]
+title: Aneurysma
 ---
 - **Ätiologie**:: [[Hypertonie]], Trauma, Marfan-Syndrom, Atherosklerose
 - **Formen**

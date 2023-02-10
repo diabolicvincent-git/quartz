@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m14, f/🍺, f/⚙️
+tags: [m/m14, f/🍺, f/⚙️]
+title: Clearance
 ---
 > "Fiktives" Plasma[[Volumen]], das von der [[Niere]] innerhalb einer Zeit von einer Substanz gereinigt wird
 

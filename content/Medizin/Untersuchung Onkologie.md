@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, a/Intervention
+tags: [m/m19, f/🦀, a/Intervention]
+title: Untersuchung Onkologie
 ---
 ## DD Leitsymptome
 - **Schwellung**

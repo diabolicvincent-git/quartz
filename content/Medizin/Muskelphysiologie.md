@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, f/⚙️
+tags: [m/m10, f/🦴, f/⚙️]
+title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 ---
 
 - Sarkomeraufbau

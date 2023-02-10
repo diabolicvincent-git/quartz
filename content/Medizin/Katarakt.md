@@ -1,6 +1,7 @@
 ---
 aliases: Grauer Star
-tags: m/m16, a/Pathologie, f/👁️
+tags: [m/m16, a/Pathologie, f/👁️]
+title: Katarakt
 ---
 > (Abstract::**Trübung der [[Augenlinse]].** Auch: Grauer Star.)
 - **Epidemiologie**:: >75 Jahre 40% [[Prävalenz]]

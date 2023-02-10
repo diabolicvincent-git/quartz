@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11
+tags: [m/m11]
+title: Kardiale Pharmakotherapie
 ---
 ## [[Herzinsuffizienz]]
 

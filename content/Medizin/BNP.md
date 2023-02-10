@@ -1,6 +1,7 @@
 ---
 aliases: NT-proBNP, NT-pro BNP
-tags: m/m11, f/🍺, f/🫀, f/🧪/Molekül, f/🥼
+tags: [m/m11, f/🍺, f/🫀, f/🧪/Molekül, f/🥼]
+title: BNP
 ---
 ### BNP / NT-proBNP / Brain [[Natriuretisches Peptid]]
 - **Regulation**:: [[Volumenrezeptoren]] in [[Herz]]-Ventrikel

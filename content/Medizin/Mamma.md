@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🦩, f/💀
+tags: [m/m05, f/🦩, f/💀]
+title: Mamma
 ---
 ### Mamma
 - **Aufbau**

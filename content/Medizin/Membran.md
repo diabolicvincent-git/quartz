@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪
+tags: [m/m03, f/🧪]
+title: Membran
 ---
 ## Membranarten
 - **Einfachmembran**:: [[Zellmembran]], ER, [[Lysosomen]], Golgi-Apparat

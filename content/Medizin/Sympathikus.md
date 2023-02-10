@@ -1,6 +1,7 @@
 ---
 aliases: sympathisch, sympathische
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Sympathikus
 ---
 ### Sympathikus
 > Teil des [[vegetative]]n Nervensystems mit *ergotroper* Wirkung

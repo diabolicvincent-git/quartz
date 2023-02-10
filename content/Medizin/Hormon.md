@@ -1,6 +1,7 @@
 ---
 aliases: Hormone, hormonell
-tags: m/m04, m/m22
+tags: [m/m04, m/m22]
+title: Hormon
 ---
 ### Hormone
 > Körpereigene Stoffe, von [[Drüsen]] oder Einzelzellen abgegeben, dienen der Signalübertragung, in geringer Konzentration bereits wirksam

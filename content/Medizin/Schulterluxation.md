@@ -1,6 +1,7 @@
 ---
 aliases: Schultergelenkluxation
-tags: m/m27, f/🦴, a/Pathologie
+tags: [m/m27, f/🦴, a/Pathologie]
+title: Schulterluxation
 ---
 ### Schulterluxation
 - **Epidemiologie**:: 50% aller Luxationen, ♂>[[♀]]

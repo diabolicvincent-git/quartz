@@ -1,6 +1,7 @@
 ---
 aliases: Synarthrosen
-tags: m/m10, f/🦴, f/💀
+tags: [m/m10, f/🦴, f/💀]
+title: Synarthrose
 ---
 ### Synarthrosen / Unechte [[Gelenke]]
 - **Syndesmose**:: Aus [[Bindegewebe]] (z.B. [[Fontanellen]], Gomphosis, [[Wirbel]], Membrana interossea antebrachii/cruris, Syndesmosis tibiofibularis)

@@ -1,4 +1,5 @@
 ---
+title: Pulmonale Insuffizienz
 ---
 
 Diffusionsstörung (s. Fick'sches Diffusionsgesetz) durch Veränderung

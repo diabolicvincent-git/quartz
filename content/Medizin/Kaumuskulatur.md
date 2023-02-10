@@ -1,5 +1,6 @@
 ---
-tags: m/m29
+tags: [m/m29]
+title: Kaumuskulatur
 ---
 > (Abstract::4 Kaumuskeln, alle aus [[N. mandibularis (V3)]] innerviert.)
 - **Kieferschluss**

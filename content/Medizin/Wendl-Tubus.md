@@ -1,6 +1,7 @@
 ---
-tags: f/⛑️, f/💤, a/Intervention
+tags: [f/⛑️, f/💤, a/Intervention]
 aliases: Nasopharyngealtubus
+title: Wendl-Tubus
 ---
 > (Abstract::**Nasopharyngealtubus.**)
 - **KI**:: Schwere Verletzung [[Viscerocranium]], [[M. Osler]]

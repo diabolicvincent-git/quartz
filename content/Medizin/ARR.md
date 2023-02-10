@@ -1,6 +1,7 @@
 ---
 aliases: Absolute Risikoreduktion
-tags: m/m07, f/📊
+tags: [m/m07, f/📊]
+title: ARR
 ---
 ### Absolute [[Risikoreduktion]] / ARR
 > [[Risiko]] Kontrollgruppe – [[Risiko]] Interventionsgruppe 

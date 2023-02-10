@@ -1,5 +1,6 @@
 ---
-tags: m/m11, m/m21, f/💤, f/💊/Medikament, f/🫀
+tags: [m/m11, m/m21, f/💤, f/💊/Medikament, f/🫀]
+title: DOBUTamin
 ---
 - **Indikation**:: Kardiogener Schock, akute kardiale Dekompensation
 - **Wirkmechanismus**:: Agonismus insb. an ==β1-[[Adrenozeptoren]]==, weniger β2

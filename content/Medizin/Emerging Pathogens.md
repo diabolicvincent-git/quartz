@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, f/📊
+tags: [m/m18, f/🦠, f/📊]
+title: Emerging Pathogens
 ---
 - **Emergenz**:: Neu auftretende oder an Bedeutung gewinnende Krankheitserreger
 ## Erreger

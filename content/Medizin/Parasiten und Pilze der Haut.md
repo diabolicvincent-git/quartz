@@ -1,4 +1,5 @@
 ---
+title: in Grundzügen den Lebens- und Vermehrungszyklus von Läusen und Krätzemilben (Phasen der Entwicklung, Entwicklungsdauer, Formen bzw. Stadien, die übertragen werden) erläutern
 ---
 - **Mykologie**:: Lehre von humanpathogenen Pilzen
 - **Mykose**:: [[Infektionen]] durch Pilztoxine

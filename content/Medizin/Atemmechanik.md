@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/⚙️
+tags: [m/m13, f/🫁, f/⚙️]
+title: Lungenvolumina und Kapazitäten
 ---
 # Lungenvolumina und Kapazitäten
 

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, a/Pathologie, f/🦀, a/Pathologie
+tags: [m/m20, a/Pathologie, f/🦀, a/Pathologie]
+title: Tumor
 ---
 ### Tumor
 > Jede abnormale Gewebe-Größenzunahme ("Schwellung"), vgl. [[Neoplasie]]

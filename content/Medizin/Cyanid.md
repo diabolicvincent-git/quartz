@@ -1,6 +1,7 @@
 ---
 aliases: Cyanwasserstoff
-tags: m/m03 m/m13, f/🧪, f/🫁, f/🍄/Gift
+tags: [m/m03 m/m13, f/🧪, f/🫁, f/🍄/Gift]
+title: Cyanid
 ---
 > (Abstract::Blockade [[Atmungskette]]. [[Antidot]]: 4-DMAP oder Hydroxycobalamin.)
 - Aufnahme über [[Lunge]], [[GI-Trakt]] oder Haut  

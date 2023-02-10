@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, m/m17, f/🧬
+tags: [m/m02, m/m17, f/🧬]
+title: Genetische Erkrankungen
 ---
 ## Charakteristika genetischer Krankheitsbilder
 > Die meisten monogenetischen Erkrankungen sind [[Seltene Erkrankungen]] (<1:2.000), es gibt jedoch viele Seltene (>7.000)

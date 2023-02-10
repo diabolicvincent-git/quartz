@@ -1,5 +1,6 @@
 ---
-tags: m/m15, m/m30, f/🧠/Demenz
+tags: [m/m15, m/m30, f/🧠/Demenz]
+title: M. Alzheimer
 ---
 > (Abstract::**50% der [[Demenz]]en.** Unklare Ätiologie. ==EZ β-Amyloid, IZ Tau-Protein==. Gedächtnis/Orientierungsstörung.)
 - **Epidemiologie**:: 50% aller [[Demenz]], [[♀]]>[[♂]]

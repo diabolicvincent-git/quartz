@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27, a/Intervention, f/🦴
+tags: [m/m27, a/Intervention, f/🦴]
+title: AO-Klassifikation
 ---
 > (Abstract::Allgemeine [[Fraktur]]klassifikation der Arbeitsgemeinschaft für Osteosynthese)
 - **Körperregion**

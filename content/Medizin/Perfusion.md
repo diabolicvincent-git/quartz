@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, m/m11, f/⚙️, f/🫁
+tags: [m/m13, m/m11, f/⚙️, f/🫁]
+title: Perfusion
 ---
 ### Perfusion der [[Lunge]]
 > [[Gasaustausch]] ist perfusionslimitiert

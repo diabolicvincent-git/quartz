@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀
+tags: [m/m19, f/🦀]
+title: Monoklonale Antikörper
 ---
 ### Monoklonale Antikörper
 - **Beispiele**

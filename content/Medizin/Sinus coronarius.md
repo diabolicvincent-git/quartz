@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, f/💀/Leitungsbahn/Vene
+tags: [m/m11, f/🫀, f/💀/Leitungsbahn/Vene]
+title: Sinus coronarius
 ---
 ### Sinus coronarius
 > Nimmt folgende [[Herzvenen]] auf und mündet in Rechter Vorhof

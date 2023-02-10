@@ -1,4 +1,5 @@
 ---
+title: Gynaekologie
 ---
 
 - [[Gynäkologische Infektionen]]

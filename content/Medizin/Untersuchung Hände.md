@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, m/m17, f/🧴, f/💉, a/Intervention
+tags: [m/m00, m/m17, f/🧴, f/💉, a/Intervention]
+title: Untersuchung Hände
 ---
 ### [[Untersuchung]] Hände
 - **Inspektion**

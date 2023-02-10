@@ -1,5 +1,6 @@
 ---
-tags: f/🔪/Instrumente/Pinzette
+tags: [f/🔪/Instrumente/Pinzette]
+title: Anatomische Pinzette
 ---
 - **Form**:: Gerade
 - **Maulfläche**:: Anatomisch

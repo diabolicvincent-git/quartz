@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/🗞️, a/Pathologie
+tags: [m/m14, f/🗞️, a/Pathologie]
+title: Primärer Hyperparathyreoidismus
 ---
 ### Hyperparathyreoidismus / Nebenschilddrüsenüberfunktion
 > [[PTH]]↑↑

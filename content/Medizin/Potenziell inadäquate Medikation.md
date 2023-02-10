@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: a/Intervention
+tags: [a/Intervention]
+title: Potenziell inadäquate Medikation
 ---
 - Arzneistoffe, die bei geriatrischen Patienten
 	- hohes Risiko für UAW bergen und für die es besser geeignete Alternativen gibt

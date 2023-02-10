@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m05, f/🔬
+tags: [m/m05, f/🔬]
+title: Bindegewebe
 ---
 ### Bindegewebe
 - **Aufbau**

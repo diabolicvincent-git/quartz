@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, m/m23, f/💤
+tags: [m/m20, m/m23, f/💤]
+title: Patientenverfügung
 ---
 ### Patientenverfügung
 - Verbindlich (§ 1901a Abs. 1 BGB)

@@ -1,6 +1,7 @@
 ---
 aliases: Cor
-tags: m/m11, f/🫀, f/💀
+tags: [m/m11, f/🫀, f/💀]
+title: Herz
 ---
 ### Herz / Cor
 - **Funktion**:: [[Herzerregung]], [[Muskelkontraktion]] → Auswurf in Körper- bzw. Lungenkreislauf

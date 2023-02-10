@@ -1,6 +1,7 @@
 ---
 aliases: Akutes Nierenversagen, ANV, AKI, Nierenschädigung
-tags: m/m14, f/🍺, a/Pathologie
+tags: [m/m14, f/🍺, a/Pathologie]
+title: Nierenversagen
 ---
 ### Akute Nierenschädigung / Acute Kidney Injury
 > Plötzlicher Funktionsverlust mit Abfall der [[GFR]] mit Letalität ≈ 60%

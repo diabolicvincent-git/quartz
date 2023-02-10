@@ -1,7 +1,8 @@
 ---
 aliases:
   - Augapfel
-tags: m/m16, f/👁️, f/💀
+tags: [m/m16, f/👁️, f/💀]
+title: Wandschichten
 ---
 ## Orientierungslinien
 ![Orientierungslinien des Bulbus oculi](https://media-de.amboss.com/media/thumbs/big_57ecce33782cb.jpg)

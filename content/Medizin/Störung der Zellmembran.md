@@ -1,4 +1,5 @@
 ---
+title: Störung der Zellmembran
 ---
 ## Störung der [[Zellmembran]]
 - **Präparate**

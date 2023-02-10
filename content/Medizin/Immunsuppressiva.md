@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, m/m17, f/💊/Medikament
+tags: [m/m26, m/m17, f/💊/Medikament]
+title: Immunsuppressiva
 ---
 ### Immunsuppressiva
 > Medikamentenspiegel komplett patientenabhängig!

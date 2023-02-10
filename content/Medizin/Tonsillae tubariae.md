@@ -1,6 +1,7 @@
 ---
 aliases: Tubenmandeln
-tags: f/💀/Organ/Tonsillen, f/💀, f/👂
+tags: [f/💀/Organ/Tonsillen, f/💀, f/👂]
+title: Tonsillae tubariae
 ---
 > (Abstract::**Tubenmandeln ([[Tonsillen]]).**)
 - **Lage**:: Paarig Anhäufung von [[Lymphfollikel]] in Mucosa des Tubenwulsts, Übergang in [[Seitenstränge]] an lateraler [[Pharynx]]-Wand

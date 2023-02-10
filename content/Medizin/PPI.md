@@ -1,6 +1,7 @@
 ---
 aliases: Pantoprazol, Omeprazol, Protonenpumpeninhibitoren, Protonenpumpenhemmer
-tags: m/m26, f/💊/Medikament, f/💊/Medikament
+tags: [m/m26, f/💊/Medikament, f/💊/Medikament]
+title: PPI
 ---
 ### Protonenpumpeninhibitoren / PPI
 - **Wirkmechanismus**:: Irreversible ==Hemmung [[H+]]/[[K+]] [[ATPase]]== der Parietalzellen → [[Magen]] [[pH]]↑

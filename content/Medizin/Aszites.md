@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩, a/Pathologie
+tags: [m/m12, f/💩, a/Pathologie]
+title: Aszites
 ---
 - **Ätiologie**
 	- **[[Leber]]**:: [[Leberzirrhose]], [[Leberversagen]], [[Portale Hypertension]]

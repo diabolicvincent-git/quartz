@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. serratus anterior
 ---
 ### M. serratus anterior
 - Ursprung:: [[Rippen]] 1-9

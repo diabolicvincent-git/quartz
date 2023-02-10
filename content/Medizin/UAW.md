@@ -1,6 +1,7 @@
 ---
 aliases: Unerwünschte Arzneimittelwirkungen
-tags: m/m00, m/m24, f/💊/Medikament
+tags: [m/m00, m/m24, f/💊/Medikament]
+title: UAW
 ---
 > (Abstract::**Unerwünschte Arzneimittelwirkungen.** *Schädliche* und *unbeabsichtigte* Reaktion auf Arzneimittel.)
 - **Häufigkeitsangaben**

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m24, f/💊/Medikament, f/🦠
+tags: [m/m24, f/💊/Medikament, f/🦠]
+title: Bakteriostatisch
 ---
 > Gegenteil von [[Bakterizid]]
 - [[Clindamycin]]

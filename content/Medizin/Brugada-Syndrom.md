@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: f/🫀, a/Pathologie
+tags: [f/🫀, a/Pathologie]
+title: Brugada-Syndrom
 ---
 ### Brugada-Syndrom
 - **Symptome**

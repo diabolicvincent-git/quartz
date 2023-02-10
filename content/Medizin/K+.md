@@ -1,6 +1,7 @@
 ---
 aliases: Kalium
-tags: m/m14
+tags: [m/m14]
+title: K+
 ---
 ### Kalium / K+
 > Intrazellulär wichtigstes Kation

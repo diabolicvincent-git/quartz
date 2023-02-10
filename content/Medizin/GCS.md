@@ -1,6 +1,7 @@
 ---
 aliases: Glasgow-Coma-Scale
-tags: m/m15
+tags: [m/m15]
+title: GCS
 ---
 ### Glasgow-Coma-Scale / GCS
 > Monitoring der [[Vigilanzminderung]] (bei [[SHT]])

@@ -1,6 +1,7 @@
 ---
 aliases: M. Hodgkin
-tags: m/m19, f/🦀, f/🩸
+tags: [m/m19, f/🦀, f/🩸]
+title: Hodgkin-Lymphom
 ---
 ### Hodgkin-Lymphom
 > [[B-Zellen]]-[[Lymphom]]

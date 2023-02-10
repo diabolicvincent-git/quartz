@@ -1,4 +1,5 @@
 ---
+title: Gastroenterologie
 ---
 - [[Erkrankungen der Leber]]
 	- [[Leberinsuffizienz]]

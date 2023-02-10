@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14, f/💀, f/🍺
+tags: [m/m14, f/💀, f/🍺]
+title: Nierenrinde
 ---
 ### Nierenrinde 
 - ca. 1 cm breite Schicht direkt unter der Nierenkapsel

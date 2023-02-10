@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, m/m20
+tags: [m/m09, m/m20]
+title: Periphere Sensibilisierung
 ---
 > (Abstract::Primäre [[Hyperalgesie]])
 - **[[Neuropeptide]] aus antidromen Faserteilen (*Axonreflex*)**:: Substanz P, [[CGRP]] → Mastzell-Aktivierung, [[Vasodilatation]]

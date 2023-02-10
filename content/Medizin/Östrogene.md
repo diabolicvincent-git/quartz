@@ -1,6 +1,7 @@
 ---
 aliases: Östrogen, Östradiol, Östron, Östriol
-tags: m/m22, f/🦩
+tags: [m/m22, f/🦩]
+title: Östrogene
 ---
 ### Östrogene
 > [[♀]] [[Sexualhormone]]: [[Steroidhormone]] mit 18 C-Atomen

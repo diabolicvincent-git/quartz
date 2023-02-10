@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👂, f/🧠, f/👁️
+tags: [m/m16, f/👂, f/🧠, f/👁️]
+title: Quantitative vestibuläre Sinnesorgandiagnostik
 ---
 - [[BPLS]]
 - Neuropathia vestibularis

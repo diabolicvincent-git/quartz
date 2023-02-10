@@ -1,6 +1,7 @@
 ---
 aliases: Niereninsuffizienz, CKD
 tags: [m/m14, f/🍺]
+title: CKD
 ---
 ### Chronische Nierenerkrankung / CKD
 > Irreversible Abnahme der [[Nierenfunktion]] über >3 Monate (e[[GFR]] <60)

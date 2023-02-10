@@ -4,6 +4,7 @@ aliases:
   - Ascorbinsäure
 tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
 Löslichkeit: Wasserlöslich
+title: Vitamin C
 ---
 ### Vitamin C / Ascorbinsäure 
 - **Aktive Form**:: Ascorbat

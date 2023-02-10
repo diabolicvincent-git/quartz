@@ -1,6 +1,7 @@
 ---
 aliases: Nebennierenrinde
-tags: m/m14, m/m22, f/💀, f/🗞️
+tags: [m/m14, m/m22, f/💀, f/🗞️]
+title: NNR
 ---
 ### Nebennierenrinde / NNR
 > Produziert [[Corticosteroide]] ([[Steroidhormone]])

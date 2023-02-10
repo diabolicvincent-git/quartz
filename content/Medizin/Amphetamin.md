@@ -1,6 +1,7 @@
 ---
 aliases: Amphetaminderivate
 tags: [f/🍄, f/💭]
+title: Amphetamin
 ---
 (Abstract::[[Psychostimulanzien]] (Amphetamin, Methylphenidat, Ecstasy/MDMA))
 - **Wirkdauer**:: 3-8h

@@ -2,8 +2,8 @@
 aliases:
   - Physik des Kreislaufs
   - Kreislaufphysik
-tags:
-  - m/m11
+tags: [m/m11]
+title: Physik des Blutkreislaufs
 ---
 ### Volumenstromstärke
 - Volumen, das pro Zeiteinheit durchs System strömt

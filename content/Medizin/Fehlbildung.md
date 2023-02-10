@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, m/m22, f/🐣
+tags: [m/m26, m/m22, f/🐣]
+title: Fehlbildung
 ---
 ### Fehlbildungen
 - **Arten**

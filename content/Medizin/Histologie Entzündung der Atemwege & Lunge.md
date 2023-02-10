@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🔬, f/🫁
+tags: [m/m13, f/🔬, f/🫁]
+title: Histologie Entzündung der Atemwege & Lunge
 ---
 ## typische histopathologische Merkmale von Entzündungen der oberen Atemwege am Beispiel von Sinusitits und Tracheitis erkennen
 

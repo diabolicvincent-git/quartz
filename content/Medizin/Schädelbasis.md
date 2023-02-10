@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15
+tags: [m/m15]
+title: Innere Schädelbasis
 ---
 ### Schädelbasis 
 - **[[Fossa cranii anterior]]**

@@ -1,6 +1,7 @@
 ---
 aliases: Antiepileptika
-tags: m/m15, f/🧠, f/💊/Medikament/Übergruppe
+tags: [m/m15, f/🧠, f/💊/Medikament/Übergruppe]
+title: Antikonvulsiva
 ---
 - **Klassische Antikonvulsiva**
 	- Carbamazepin

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, a/Intervention
+tags: [m/m11, f/🫀, a/Intervention]
+title: Rechtsthorakale Ableitungen (V3r-V6r)
 ---
 > (Abstract::**V3-V6 spiegelbildlich rechtsthorakal.** Bei V.a. [[Myokardinfarkt]] in [[Rechter Ventrikel]] )
 - **Elektroden**

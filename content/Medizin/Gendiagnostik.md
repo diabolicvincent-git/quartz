@@ -1,6 +1,7 @@
 ---
 aliases: Genetische Diagnostik
-tags: m/m02, m/m17, f/🧬, a/Intervention
+tags: [m/m02, m/m17, f/🧬, a/Intervention]
+title: Praktikum
 ---
 ### Gendiagnostik / Genetische Diagnostik 
 > Humangenetische Verfahren zur Diagnose von *monogenen* [[Genetische Erkrankungen]]

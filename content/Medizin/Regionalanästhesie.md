@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26
+tags: [m/m26]
+title: Regionalanästhesie
 ---
 > (Abstract::**Selektive Schmerzausschaltung in einer Körperregion.**)
 - **Verfahren**

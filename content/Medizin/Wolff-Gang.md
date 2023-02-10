@@ -1,6 +1,7 @@
 ---
 aliases: Ductus mesonephricus, Wolff-Gänge
-tags: m/m22, f/🐣, f/💀, f/🦩, f/🍆, f/💀/Organ
+tags: [m/m22, f/🐣, f/💀, f/🦩, f/🍆, f/💀/Organ]
+title: Wolff-Gang
 ---
 ### Wolff-Gang / Ductus mesonephricus
 > Paarige Urnierengänge → ==[[Ureter]]== + ==[[♂]]== innere [[Geschlechtsorgane]]

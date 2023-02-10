@@ -1,6 +1,7 @@
 ---
 aliases: null
 tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+title: VRE
 ---
 ### [[Vancomycin]]-resistente Enterokokken
 > Selten; häufigster Erreger *Enterococcus faecium*

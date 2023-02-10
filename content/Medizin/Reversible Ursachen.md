@@ -1,6 +1,7 @@
 ---
 aliases: 4H + HITS
-tags: m/m21, f/💤
+tags: [m/m21, f/💤]
+title: Reversible Ursachen
 ---
 ### 4H + HITS
 > Reversible Ursachen ([[Reanimation]])

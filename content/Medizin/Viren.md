@@ -1,6 +1,7 @@
 ---
 aliases: Virus, viral
-tags: m/m03, m/m18, f/🦠, f/🦠/Erreger/Viren
+tags: [m/m03, m/m18, f/🦠, f/🦠/Erreger/Viren]
+title: SEM Pathogenese viraler Erkrankungen
 ---
 ### Viren
 > Kleine leblose Partikel (20-350 nm), ==obligate [[Parasiten]]==

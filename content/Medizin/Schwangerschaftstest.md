@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m22
+tags: [m/m22]
+title: Schwangerschaftstest
 ---
 ### Schwangerschaftstest
 > ==[[β-HCG]]==-Bestimmung zum [[Schwangerschaft]]snachweis

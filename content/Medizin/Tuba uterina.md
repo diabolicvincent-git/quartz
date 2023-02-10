@@ -1,6 +1,7 @@
 ---
 aliases: Eileiter
-tags: m/m22, f/🦩, f/💀, f/💀/Organ
+tags: [m/m22, f/🦩, f/💀, f/💀/Organ]
+title: Tuba uterina
 ---
 ### Tuba uterina / Eileiter
 - **Funktion**:: Aufnahme, Befruchtungsort, Transport der reifen Eizelle

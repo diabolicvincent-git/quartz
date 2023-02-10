@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/🦠, f/🦩, f/🍆
+tags: [a/Pathologie, f/🦠, f/🦩, f/🍆]
+title: Chlamydien-Infektion
 ---
 > (Abstract::)
 - **Entitäten**

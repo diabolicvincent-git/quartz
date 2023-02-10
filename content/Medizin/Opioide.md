@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/🍄/Gift/Droge, f/💤, f/💊/Medikament/Übergruppe
+tags: [m/m20, f/🍄/Gift/Droge, f/💤, f/💊/Medikament/Übergruppe]
+title: Opioide
 ---
 ### Opioide 
 - **Wirkung**:: Analgetisch

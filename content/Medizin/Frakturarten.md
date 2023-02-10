@@ -1,4 +1,5 @@
 ---
+title: Frakturarten
 ---
 - *Einfache Fraktur* (spiral/schräg/quer)
 - *Mehrfragmentfraktur* (≥3 Fragmente)

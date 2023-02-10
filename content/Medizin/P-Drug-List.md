@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m00, ToDo
+tags: [m/m00, ToDo]
+title: P-Drug-List
 ---
 
 | Gruppe                     | Wirkstoff          | Wirkung                                                                                                           | [[UAW]]                                                                                                    | Indikation                                                                                                          | [[KI]]                                                     | Anmerkung                   |

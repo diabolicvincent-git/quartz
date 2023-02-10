@@ -1,6 +1,7 @@
 ---
 aliases: Herzmuskulatur, Herzmuskel
-tags: m/m05, m/m11, f/🫀, f/🔬
+tags: [m/m05, m/m11, f/🫀, f/🔬]
+title: Myokard
 ---
 ### Myokard / Herzmuskel
 > *Funktionelles Syncytium* aus Kardiomyocyten im [[Herz]]

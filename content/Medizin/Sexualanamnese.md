@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m06, m/m22
+tags: [m/m06, m/m22]
+title: Elli Anamnesegruppe
 ---
 ### Sexualanamnese
 - **5x3 der Sexualanamnese**

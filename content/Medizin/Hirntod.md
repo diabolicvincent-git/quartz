@@ -1,6 +1,7 @@
 ---
 aliases: Irreversibler Hirnfunktionsausfall
-tags: m/m15, m/m21, f/💤, a/Intervention, f/🧠
+tags: [m/m15, m/m21, f/💤, a/Intervention, f/🧠]
+title: Hirntod
 ---
 ### Irreversibler Hirnfunktionsausfall / Hirntod
 > Folgt auf "Herztod" oder im [[ITS]]-Setting mit [[Herz]]-Kreislaufunterstützung

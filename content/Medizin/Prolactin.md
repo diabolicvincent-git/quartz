@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, m/m04, f/🗞️, f/🧪/Molekül
+tags: [m/m05, m/m04, f/🗞️, f/🧪/Molekül]
+title: Prolactin
 ---
 ### Prolactin
 - **Wirkung**:: Milchdrüsenproliferation, Milchproduktion in der [[Mamma]]

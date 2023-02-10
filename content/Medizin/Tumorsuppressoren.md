@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🧬/Gen, f/🦀, f/🧬
+tags: [m/m19, f/🧬/Gen, f/🦀, f/🧬]
+title: Tumorsuppressoren
 ---
 ### Tumorsuppressorgene
 > Hemmen Proliferation, verhindern [[Tumorentstehung]]

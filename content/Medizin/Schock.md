@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, m/m17, m/m21, ToDo, f/💤, a/Pathologie, f/⛑️
+tags: [m/m11, m/m17, m/m21, ToDo, f/💤, a/Pathologie, f/⛑️]
+title: VL Septischer Schock
 ---
 ### Schock
 > Generalisierte Hypoxie ([[HZV]] < [[O2]]-Bedarf)

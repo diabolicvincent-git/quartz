@@ -1,6 +1,7 @@
 ---
 aliases: Acetaminophen
-tags: m/m20, f/💊/Medikament, f/🍄/Gift
+tags: [m/m20, f/💊/Medikament, f/🍄/Gift]
+title: Paracetamol
 ---
 ### Paracetamol / PCM / Acetaminophen
 > [[Nicht-Opioid-Analgetika]]

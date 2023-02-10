@@ -1,7 +1,8 @@
 ---
 aliases:
   - Strahlenkörper
-tags: m/m16, f/💀, f/👁️
+tags: [m/m16, f/💀, f/👁️]
+title: Ciliarkörper
 ---
 ### Ciliarkörper
 - *Zonulafasern:* Aufhängung der [[Augenlinse]], Kraftübertragung [[M. ciliaris]]

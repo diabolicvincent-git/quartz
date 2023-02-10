@@ -1,6 +1,7 @@
 ---
 aliases: Erythropoetin
-tags: m/m08, m/m14, f/🩸, f/🍺, f/🧪/Molekül, f/⚙️
+tags: [m/m08, m/m14, f/🩸, f/🍺, f/🧪/Molekül, f/⚙️]
+title: EPO
 ---
 ### Erythropoetin / EPO
 - **Funktion**:: Stimulation der [[Erythropoese]] im [[Knochenmark]]

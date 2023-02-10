@@ -3,6 +3,7 @@ aliases:
  - Nucleinsäure
  - Nucleinsäuren
  - Nucleotid
+title: Nucleotide
 ---
 
 ## **Aufbau von Nucleotiden**

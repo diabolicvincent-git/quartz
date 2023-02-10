@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦠, f/🦠/Erreger
+tags: [m/m19, f/🦠, f/🦠/Erreger]
+title: Vektor
 ---
 ### Vektor
 > Beteiligt an der Übertragung von Erregern (v.a. [[Parasiten]]) zwischen Wirten

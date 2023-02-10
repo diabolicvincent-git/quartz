@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m18, f/🦠/Antiinfektiva, f/💊/Medikament/Übergruppe
+tags: [m/m18, f/🦠/Antiinfektiva, f/💊/Medikament/Übergruppe]
+title: Antimykotika
 ---
 - **Hauptgruppen**
 	- **[[Azole]]** ==hemmen [[Ergosterol]]-Synthese für [[Zellwand]]==

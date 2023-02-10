@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/⚙️, f/🧠
+tags: [m/m15, f/⚙️, f/🧠]
+title: Basale Neurotransmission
 ---
 ![[Verschaltungsprinzipien]]
 

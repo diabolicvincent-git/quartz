@@ -1,7 +1,7 @@
 ---
-title: "3-Gläser-Probe"
+title: 3-Gläser-Probe
 aliases: 
-tags: m/m30, f/🧠, a/Intervention
+tags: [m/m30, f/🧠, a/Intervention]
 ---
 > (Abstract::Diagnostik der [[SAB]] durch Blut in [[Liquorpunktion]])
 - Abnahme von 3 Röhrchen [[Liquor]]

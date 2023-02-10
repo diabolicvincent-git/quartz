@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩, f/💀
+tags: [m/m12, f/💩, f/💀]
+title: Rektum
 ---
 ### Rektum (Etagen)
 | Etage       | Abstand von Anocutanlinie | Blutversorgung                                                | [[Metastasen]] bei [[Colorektales Ca]] |

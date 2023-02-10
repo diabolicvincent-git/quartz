@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27, f/🦴
+tags: [m/m27, f/🦴]
+title: Pathologische Fraktur
 ---
 ### Pathologische [[Fraktur]]
 > Spontane [[Fraktur]] ohne adäquates Trauma

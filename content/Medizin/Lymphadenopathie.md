@@ -1,6 +1,7 @@
 ---
 aliases: Lymphknotenschwellung
-tags: m/m19
+tags: [m/m19]
+title: Lymphadenopathie
 ---
 ### Lymphadenopathie
 - **Ätiologie**

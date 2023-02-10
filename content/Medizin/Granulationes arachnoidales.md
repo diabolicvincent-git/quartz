@@ -1,6 +1,7 @@
 ---
 aliases: Pacchioni-Granulationen
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Granulationes arachnoidales
 ---
 ### Granulationes arachnoidales / Pacchioni-Granulationen
 > Resorption des [[Liquor]] im [[Subarachnoidalraum]]

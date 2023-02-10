@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m18
+tags: [m/m18]
+title: Entzündungsparameter
 ---
 ### Entzündungsparameter
 > **Typisch**:: [[CRP]]↑, [[Leukocytose]], [[BSG]]↑ 

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, m/m17, f/🦠, f/🥼, a/Intervention, f/🧪/Molekül
+tags: [m/m08, m/m17, f/🦠, f/🥼, a/Intervention, f/🧪/Molekül]
+title: Akute-Phase-Proteine
 ---
 (Abstract::[[Proteine]], deren Konzentration sich bei [[Entzündung]] um >25 % verändert (positiv/negativ))
 - **Haupt-APP**:: ==*[[CRP]]*== (schneller, starker Anstieg), Amyloid-A

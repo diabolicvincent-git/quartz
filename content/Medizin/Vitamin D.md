@@ -2,7 +2,8 @@
 aliases:
   - VitD
   - Calciferol
-tags: m/m12, f/🧪/Molekül/Vitamin, f/🧪
+tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+title: Vitamin D
 ---
 ### Vitamin D / Calciferol 
 - **Aktive Form**:: [[Calcitriol]] (1,25-Dihydroxycholecalciferol)

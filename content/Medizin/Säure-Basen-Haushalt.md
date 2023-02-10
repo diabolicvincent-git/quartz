@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, m/m14, f/🍺, f/🫁, f/⚙️
+tags: [m/m13, m/m14, f/🍺, f/🫁, f/⚙️]
+title: pH-Regulation in der Lunge
 ---
 
 - **Bedeutung**:: Biochemische Prozesse sind auf [[pH]]-Konstanz angewiesen; bei Abweichung kommt es z.B. zur [[Denaturierung]]

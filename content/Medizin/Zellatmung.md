@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪, f/⚙️/Stoffwechsel
+tags: [m/m03, f/🧪, f/⚙️/Stoffwechsel]
+title: Zellatmung
 ---
 ![[Untitled 115.png]]
 

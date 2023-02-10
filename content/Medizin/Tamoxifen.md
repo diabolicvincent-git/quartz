@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m19, m/m22, f/🦀, f/🦩, f/💊/Medikament
+tags: [m/m19, m/m22, f/🦀, f/🦩, f/💊/Medikament]
+title: Tamoxifen
 ---
 ### Tamoxifen
 > Selektiver [[Östrogene]]-[[Rezeptor]]-Modulator ([[Cytostatika]])

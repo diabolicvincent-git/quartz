@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, m/m12, a/Pathologie, f/🫀
+tags: [m/m02, m/m12, a/Pathologie, f/🫀]
+title: Metabolisches Syndrom
 ---
 ### Metabolisches Syndrom
 - **Epidemiologie**:: ==20%==

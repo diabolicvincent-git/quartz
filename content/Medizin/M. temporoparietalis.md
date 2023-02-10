@@ -1,4 +1,5 @@
 ---
+title: M. temporoparietalis
 ---
 ##### M. temporoparietalis
 *   Schläfenbereich

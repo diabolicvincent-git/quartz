@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m02, f/🧪
+tags: [m/m02, f/🧪]
+title: Glycolyse
 ---
 ### Glycolyse
 > [[Glucose]] → Pyruvat + 2 [[ATP]] + 2 NADH+H+

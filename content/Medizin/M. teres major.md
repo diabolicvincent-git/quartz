@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m10, f/🦴/Muskel
+tags: [m/m10, f/🦴/Muskel]
+title: M. teres major
 ---
 ### M. teres major
 - Ursprung:: [[Scapula]] (Angulus inferior, Margo lateralis)

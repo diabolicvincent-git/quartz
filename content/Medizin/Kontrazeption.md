@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/🦩, f/💊/Medikament
+tags: [m/m21, f/🦩, f/💊/Medikament]
+title: Kontrazeption
 ---
 ### Kontrazeption (nicht-hormonell)
 - **Natürliche Kontrazeption**

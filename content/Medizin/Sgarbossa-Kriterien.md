@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, a/Intervention
+tags: [m/m11, f/🫀, a/Intervention]
+title: Sgarbossa-Kriterien
 ---
 ### Sgarbossa-Kriterien
 > Ermöglicht [[OMI]]-Diagnose bei bekanntem [[Linksschenkelblock]]

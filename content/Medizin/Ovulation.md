@@ -1,6 +1,7 @@
 ---
 aliases: Eisprung
-tags: m/m22, f/🦩, f/⚙️
+tags: [m/m22, f/🦩, f/⚙️]
+title: Ovulation
 ---
 ### Ovulation / Eisprung
 > [[Follikel]] gibt Oocyte frei

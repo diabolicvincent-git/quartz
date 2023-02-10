@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: m/m08, f/🩸
+tags: [m/m08, f/🩸]
+title: NADPH-unabhängig
 ---
 
 > Bezogen auf [[Antioxidative Schutzsysteme]] von [[Erythrocyten]]

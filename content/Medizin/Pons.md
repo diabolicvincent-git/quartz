@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💀
+tags: [m/m15, f/🧠, f/💀]
+title: Pons
 ---
 ### Pons 
 > Quer verlaufende Fasern; enge Beziehung zum [[Kleinhirn]]

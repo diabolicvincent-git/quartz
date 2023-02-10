@@ -1,6 +1,7 @@
 ---
 aliases: Visuelle Wahrnehmung, Sehen
-tags: m/m16, f/👁️, f/⚙️
+tags: [m/m16, f/👁️, f/⚙️]
+title: Visuelles System
 ---
 
 ### Funktionseinheiten

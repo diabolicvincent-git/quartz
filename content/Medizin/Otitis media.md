@@ -1,6 +1,7 @@
 ---
 aliases: Mittelohrentzündung
-tags: m/m16, f/👂, a/Pathologie
+tags: [m/m16, f/👂, a/Pathologie]
+title: Otitis media
 ---
 > (Abstract::**Mittelohrentzündung.**)
 - **Epidemiologie**:: Prävalenz 60% der Kinder bis 6. LJ

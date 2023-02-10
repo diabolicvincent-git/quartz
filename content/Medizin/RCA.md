@@ -1,6 +1,7 @@
 ---
 aliases: A. coronaria dextra
-tags: m/m11, f/🫀, f/💀
+tags: [m/m11, f/🫀, f/💀]
+title: RCA
 ---
 ## A. coronaria dextra / RCA
 > [[Koronararterien]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, a/Intervention
+tags: [m/m20, a/Intervention]
+title: Red Flags
 ---
 ### Red Flags
 > Zeichen eines dringend behandlungsbedürftigen Krankheitsbilds

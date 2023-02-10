@@ -1,6 +1,7 @@
 ---
 aliases: Thrombocytenkonzentrat
-tags: m/m08, m/m21, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament
+tags: [m/m08, m/m21, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament]
+title: TK
 ---
 > (Abstract::**Thrombocytenkonzentrat.**)
 - **Indikation**:: Prophylaxe/Therapie von Blutungen durch [[Thrombopenie]] (z.B. [[DIC]], Z.n. [[Chemotherapie]])

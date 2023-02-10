@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m00, a/Intervention, f/🕶️
+tags: [m/m00, a/Intervention, f/🕶️]
+title: CT-Angiographie
 ---
 ### [[CT]]-Angiographie
 - **Durchführung**

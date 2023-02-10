@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💤, f/💊/Medikament
+tags: [m/m15, f/🧠, f/💤, f/💊/Medikament]
+title: DOPamin
 ---
 ### Dopamin 
 - *[[Katecholamine]]*

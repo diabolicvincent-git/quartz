@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. glossopharyngeus (IX)
 ---
 - **Nr**:: 8
 - **Kerngebiete**:: [[Medulla oblongata]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💊/Medikament, f/💤/Opioide
+tags: [m/m20, f/💊/Medikament, f/💤/Opioide]
+title: fentaNYL
 ---
 - **Gruppe**:: [[Opioide]]
 - **Potenz**:: 100

@@ -1,6 +1,7 @@
 ---
 aliases: Hämolytische Anämie
-tags: m/m08, m/m17, f/🩸
+tags: [m/m08, m/m17, f/🩸]
+title: Hämolyse
 ---
 ### Hämolyse / Hämolytische [[Anämie]] 
 

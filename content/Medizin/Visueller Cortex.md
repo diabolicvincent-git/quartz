@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/🧠, f/👁️, f/💀, f/⚙️
+tags: [m/m16, f/🧠, f/👁️, f/💀, f/⚙️]
+title: Visueller Cortex
 ---
 ## Primäre Sehrinde (Area striata)
 - **Lage**:: [[Occipitallappen]], [[Brodmann-Areal]] 17, bds. des Sulcus calcarinus

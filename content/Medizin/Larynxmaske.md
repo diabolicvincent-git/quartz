@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m29, f/💤, a/Intervention
+tags: [m/m29, f/💤, a/Intervention]
+title: Larynxmaske
 ---
 ### Larynxmaske
 

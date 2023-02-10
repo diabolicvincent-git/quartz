@@ -1,5 +1,6 @@
 ---
-tags: f/🔬/Gewebe, m/m05
+tags: [f/🔬/Gewebe, m/m05]
+title: Drüsen
 ---
 > (Abstract::**[[Epithel]].**)
 - **Pathologien**

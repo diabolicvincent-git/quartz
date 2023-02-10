@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, a/Intervention, f/🩺
+tags: [m/m20, a/Intervention, f/🩺]
+title: Bedarfsmedikation
 ---
 ### Bedarfsmedikation
 > ≥2x tgl. [[Bedarfsmedikation]] nötig → insuffiziente [[Analgesie]]

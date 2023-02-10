@@ -1,4 +1,5 @@
 ---
+title: Muskelstoffwechsel
 ---
 - **Aerob**
     - Glycose über Citratcyklus und [[Atmungskette]]

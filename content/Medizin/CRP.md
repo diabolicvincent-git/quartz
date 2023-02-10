@@ -1,6 +1,7 @@
 ---
 aliases: C-reaktives Protein
-tags: m/m18, f/🥼, f/🧪, f/🦠, f/🧪/Molekül
+tags: [m/m18, f/🥼, f/🧪, f/🦠, f/🧪/Molekül]
+title: CRP
 ---
 ### C-reaktives Protein / CRP
 > [[Akute-Phase-Proteine]]

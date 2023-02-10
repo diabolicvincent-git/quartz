@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m14
+tags: [m/m14]
+title: Nierenhüllen
 ---
 ## Nierenhüllen
 1. **Capsula fibrosa renis / Nierenkapsel)**:: Straffes kollagenes [[Bindegewebe]], ==sensibel innerviert== (innen)

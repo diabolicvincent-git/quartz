@@ -1,6 +1,7 @@
 ---
 aliases: PTZ, TZ
-tags: m/m08, f/🩸, f/🥼, a/Intervention
+tags: [m/m08, f/🩸, f/🥼, a/Intervention]
+title: Thrombinzeit
 ---
 ### (Plasma-)Thrombinzeit / PTZ / TZ 
 - **Beurteilung** Nur [[Sekundäre Hämostase]] [[Endstrecke]] (Fibrinogen/Fibrin)

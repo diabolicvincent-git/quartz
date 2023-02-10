@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, m/m10
+tags: [m/m15, m/m10]
+title: Aufbau
 ---
 ### Rückenmark 
 > Teil des [[ZNS]], der [[Gehirn]] mit [[PNS]] verbindet und teils Informationen eigenständig verschaltet (*spinale [[Reflex]]*)

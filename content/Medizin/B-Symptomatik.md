@@ -1,6 +1,7 @@
 ---
 aliases: Begleitsymptomatik
-tags: m/m19, f/🦀, a/Pathologie
+tags: [m/m19, f/🦀, a/Pathologie]
+title: B-Symptomatik
 ---
 > (Abstract::**[[Fieber]], [[Nachtschweiß]], [[Gewichtsverlust]].** Unspez. Begleitsymptome bei konsumierenden Erkrankungen (z.B. [[Lymphom]], [[Tbc]], [[Entzündung]].)
 

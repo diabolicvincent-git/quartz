@@ -1,6 +1,7 @@
 ---
 aliases: Antibiogramm
-tags: m/m18
+tags: [m/m18]
+title: Resistogramm
 ---
 ### Resistogramm / Antibiogramm
 - **Indikation**:: Alle behandlungsbedürftigen [[Infektionen]], insb. Versagen der antimikrobiellen Therapie[^1]

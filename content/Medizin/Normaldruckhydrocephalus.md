@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, a/Pathologie
+tags: [m/m30, f/🧠, a/Pathologie]
+title: Normaldruckhydrocephalus
 ---
 ### Normaldruckhydrocephalus
 - **Symptome**:: *==Hakim-Trias== (50%)*

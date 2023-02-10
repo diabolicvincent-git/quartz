@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags: []
+title: Plexus chorioideus
 ---
 ### Plexus chorioideus
 > Gefäßreiches Geflecht im inneren Liquorraum ([[Seitenventrikel]] pars centralis und Unterhorn, [[Ventrikel III]], [[Ventrikel IV]]), das aus Blutplasma [[Liquor]] herstellt

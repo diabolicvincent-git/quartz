@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m12, m/m26, f/💀, f/💀/Leitungsbahn/Arterie
+tags: [m/m12, m/m26, f/💀, f/💀/Leitungsbahn/Arterie]
+title: Aorta abdominalis
 ---
 > Aus [[Aorta]] thoracica nach [[Diaphragma]]-Durchtritt bis Aa. iliacae communes
 - **Abgänge**

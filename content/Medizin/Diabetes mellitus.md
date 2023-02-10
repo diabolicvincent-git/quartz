@@ -1,5 +1,6 @@
 ---
-tags: m/m02, m/m17, a/Pathologie, f/🗞️
+tags: [m/m02, m/m17, a/Pathologie, f/🗞️]
+title: Diabetes mellitus
 ---
 ### Diabetes mellitus 
 > [[Stoffwechseldefekte]] mit Leitbefund: *chronische [[Hyperglycämie]]*

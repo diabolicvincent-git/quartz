@@ -1,6 +1,7 @@
 ---
 aliases: Colon-Ca, Rektum-Ca
-tags: m/m19, a/Pathologie, f/🦀, f/💩, a/Pathologie
+tags: [m/m19, a/Pathologie, f/🦀, f/💩, a/Pathologie]
+title: Colorektales Ca
 ---
 ### Colorektales Karzinom
 - **Epidemiologie**:: Zweithäufigste Krebs-[[Todesursache]], i.d.R. >55. LJ

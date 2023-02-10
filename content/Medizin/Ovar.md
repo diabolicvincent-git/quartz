@@ -1,6 +1,7 @@
 ---
 aliases: Ovarien, Eierstock, Eierstöcke
-tags: m/m22, f/🦩, f/💀
+tags: [m/m22, f/🦩, f/💀]
+title: Ovar
 ---
 ### Ovar / Eierstock ([[♀]])
 - **Funktion**:: [[Oogenese]], [[Follikelreifung]], [[Ovulation]], [[Sexualhormone]]-Synthese

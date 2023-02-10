@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m08, f/🩸, f/🦠, f/⚙️
+tags: [m/m08, f/🩸, f/🦠, f/⚙️]
+title: Komplementsystem
 ---
 ### Komplementsystem
 > [[Plasmaproteine]] – Teil des angeborenen, humoralen [[Immunsystem]]s

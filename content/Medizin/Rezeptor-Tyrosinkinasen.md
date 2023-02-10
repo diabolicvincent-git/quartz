@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m04
+tags: [m/m04]
+title: Rezeptor-Tyrosinkinasen
 ---
 ### Rezeptor-Tyrosinkinasen
 - **Liganden**:: [[Insulin]], [[Wachstumsfaktoren]] ([[EGF]], [[IGF]])

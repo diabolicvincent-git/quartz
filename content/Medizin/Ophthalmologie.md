@@ -1,4 +1,5 @@
 ---
+title: Ophthalmologie
 ---
 - **Diagnostik**
 	- [[Ophthalmologische Anamnese]]

@@ -1,6 +1,7 @@
 ---
 aliases: R. circumflexus, Ramus circumflexus
-tags: m/m11, f/🫀, f/💀
+tags: [m/m11, f/🫀, f/💀]
+title: RCX
 ---
 ### R. circumflexus / RCX
 - **Verlauf**:: Im Sulcus coronarius → Rückseite des linken [[Herz]]

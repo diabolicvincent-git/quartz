@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m29, f/💤, f/⛑️, a/Intervention
+tags: [m/m29, f/💤, f/⛑️, a/Intervention]
+title: Koniotomie
 ---
 (Abstract::Durchtrennung [[Lig. cricothyroideum medianum]] als Ultima Ratio im [[Atemwegsmanagement]])
 

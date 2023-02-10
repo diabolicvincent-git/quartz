@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26, f/🔪, a/Pathologie
+tags: [m/m26, f/🔪, a/Pathologie]
+title: Mallory-Weiss-Syndrom
 ---
 ### Mallory-Weiss-Syndrom
 > Longitudinale Schleimhauteinrisse (Mucosa + Submucosa) am gastroösophagealen Übergang

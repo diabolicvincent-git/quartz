@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m27, a/Intervention
+tags: [m/m27, a/Intervention]
+title: PECH
 ---
 ### PECH-Regel
 > Akutmaßnahmen bei **[[Sportverletzungen]]**

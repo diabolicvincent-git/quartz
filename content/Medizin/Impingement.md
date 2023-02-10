@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, a/Pathologie
+tags: [m/m10, f/🦴, a/Pathologie]
+title: Impingement
 ---
 ### Impingement-Syndrom
 > Einklemmung von [[Sehnen]] (oft: [[M. supraspinatus]]) im Subacromialraum

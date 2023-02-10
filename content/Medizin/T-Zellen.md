@@ -1,6 +1,7 @@
 ---
 aliases: T-Zell, T-Lymphocyt, T-Lymphocyten
-tags: m/m08, m/m18
+tags: [m/m08, m/m18]
+title: T-Zellen
 ---
 ### T-Lymphocyten
 - **Subtypen**

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, f/🔬
+tags: [m/m05, f/🔬]
+title: Oberflächenepithel
 ---
 
 - Grundgewebeart; Vorkommen in fast allen Organen an inneren/äußeren Körperoberflächen als Deckschicht & [[Drüsen]]

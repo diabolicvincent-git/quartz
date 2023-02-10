@@ -1,6 +1,7 @@
 ---
 aliases: meldepflichtig
-tags: m/m18
+tags: [m/m18]
+title: Meldepflicht
 ---
 ### Meldepflicht
 - **Meldeweg**:: Gesundheitsamt → Landesbehörde → RKI

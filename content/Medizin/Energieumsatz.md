@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, m/m12, f/⚙️
+tags: [m/m10, m/m12, f/⚙️]
+title: Energieumsatz
 ---
 ### Energieumsatz 
 |Umsatz (kcal/d)|[[♂]]|[[♀]]|

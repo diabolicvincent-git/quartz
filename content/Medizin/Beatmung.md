@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/💤, a/Intervention
+tags: [m/m13, f/🫁, f/💤, a/Intervention]
+title: Praxis
 ---
 ### Beatmung
 - **Beatmungsformen**

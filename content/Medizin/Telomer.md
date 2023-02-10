@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m03, f/🧪, f/🧬
+tags: [m/m03, f/🧪, f/🧬]
+title: Telomer
 ---
 ### Telomer
 > Nicht-codierende, hochrepetitive [[DNA]]-Sequenzen am [[Chromosom]]-Ende → verhindert Verlust von Strukturgenen bei [[Replikation]]

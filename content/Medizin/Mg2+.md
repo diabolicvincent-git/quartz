@@ -1,6 +1,7 @@
 ---
 aliases: Magnesium
-tags: m/m14
+tags: [m/m14]
+title: Mg2+
 ---
 ### Magnesium / Mg2+
 - **Funktion**

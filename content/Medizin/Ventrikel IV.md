@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, f/💀, f/💀/Organ
+tags: [m/m15, f/🧠, f/💀, f/💀/Organ]
+title: Ventrikel IV
 ---
 ### [[Ventrikelsystem]] IV
 - **Lage**:: Dorsal von [[Pons]] und [[Medulla oblongata]] im [[Rhombencephalon]]

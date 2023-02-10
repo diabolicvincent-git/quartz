@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m17, f/💉, a/Pathologie
+tags: [m/m17, f/💉, a/Pathologie]
+title: Systemische Störungen
 ---
 ## Autoinflammation vs. Autoimmunität
 Eigenschaft|[[Autoinflammation]]|Autoimmunität

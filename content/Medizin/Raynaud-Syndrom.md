@@ -1,6 +1,7 @@
 ---
 aliases: M. Raynaud
-tags: m/m17, f/💉, a/Pathologie, f/🧴
+tags: [m/m17, f/💉, a/Pathologie, f/🧴]
+title: Raynaud-Syndrom
 ---
 ### Raynaud-Syndrom
 - **Epidemiologie**:: [[♀]]>>[[♂]] 

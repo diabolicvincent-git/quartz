@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/🧪/Molekül
+tags: [m/m12, f/🧪/Molekül]
+title: Tabelle
 ---
 > Fettlösliche Vitamine: E, D, K, A
 ---

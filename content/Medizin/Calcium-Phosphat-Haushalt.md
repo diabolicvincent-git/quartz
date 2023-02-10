@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m05, m/m14, f/⚙️, f/🍺, f/🗞️
+tags: [m/m05, m/m14, f/⚙️, f/🍺, f/🗞️]
+title: Regulierende Hormon
 ---
 ![[Ca2+]]
 

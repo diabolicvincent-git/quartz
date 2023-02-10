@@ -1,5 +1,6 @@
 ---
-tags: m/m06
+tags: [m/m06]
+title: Gesundheitssystem
 ---
 - **Modelle**
 	- Sozialversicherungssystem / Bismarck-Modell (🇩🇪)

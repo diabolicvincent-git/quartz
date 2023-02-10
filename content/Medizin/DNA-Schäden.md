@@ -1,6 +1,7 @@
 ---
 aliases: DNA-Schädigung
-tags: m/m19, f/🧬, f/🧪
+tags: [m/m19, f/🧬, f/🧪]
+title: DNA-Schäden
 ---
 ### [[DNA]]-Schäden
 > Täglich 55.000 Einzelstrangbrüche und 9 Doppelstrangbrüche pro [[Zellen]]

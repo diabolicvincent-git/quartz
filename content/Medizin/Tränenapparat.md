@@ -1,6 +1,7 @@
 ---
 aliases: Tränen
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Bestandteile
 ---
 # Bestandteile
 ## Tränendrüse (Gl. lacrimalis)

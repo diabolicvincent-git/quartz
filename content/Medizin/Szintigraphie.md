@@ -1,6 +1,7 @@
 ---
 aliases: SPECT
-tags: m/m19, f/🦀, f/🕶️, a/Intervention
+tags: [m/m19, f/🦀, f/🕶️, a/Intervention]
+title: Szintigraphie
 ---
 ### Szintigraphie
 - **Durchführung**

@@ -1,5 +1,6 @@
 ---
-tags: f/💊/Medikament/Wirkstoff/P-Drug, f/⛑️, f/💤
+tags: [f/💊/Medikament/Wirkstoff/P-Drug, f/⛑️, f/💤]
+title: EPINEPHrin
 ---
 > (Abstract::Äquivalent zu [[Adrenalin]]) 
 - **Gruppe**:: [[Katecholamine]]

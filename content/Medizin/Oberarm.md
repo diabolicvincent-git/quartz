@@ -1,6 +1,7 @@
 ---
 aliases: Brachium
-tags: 
+tags: []
+title: Oberarm
 ---
 - **[[Körperregionen]]**
 	- Regio deltoidea

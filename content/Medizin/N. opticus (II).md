@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠/Hirnnerv
+tags: [m/m15, f/🧠/Hirnnerv]
+title: N. opticus (II)
 ---
 - **Nr**:: 2
 - **Kerngebiete**:: [[Diencephalon]]

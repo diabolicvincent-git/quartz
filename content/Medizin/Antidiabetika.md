@@ -1,6 +1,7 @@
 ---
 aliases: Metformin
-tags: m/m17, f/💊/Medikament/Übergruppe, f/🗞️
+tags: [m/m17, f/💊/Medikament/Übergruppe, f/🗞️]
+title: Antidiabetika
 ---
 - **Wirkprinzipien**
 	- *Insulinotrop:* Insulin-Freisetzung↑ (abhängig von [[Pankreas]]-Restfunktion)

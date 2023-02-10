@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m09, m/m17, f/💉, f/🧴
+tags: [m/m09, m/m17, f/💉, f/🧴]
+title: Psoriasis-Arthritis
 ---
 ### [[Psoriasis vulgaris]]-Arthritis 
 - Destruierend-proliferierende Gelenkentzündung v.a. der Hände, Füße und [[Wirbelsäule]]

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m10, f/⚙️, f/🦴
+tags: [m/m10, f/⚙️, f/🦴]
+title: Eigenreflex
 ---
 ### Eigenreflex
 > **[[Reflex]]** mit Sensor (*Muskelspindel*) und Effektor (*Muskel*) im selben Organ

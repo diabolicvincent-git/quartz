@@ -1,6 +1,7 @@
 ---
 aliases: Lebertransplantation
-tags: m/m26
+tags: [m/m26]
+title: LTX
 ---
 ### Lebertransplantation / LTX
 - **Vergleich**

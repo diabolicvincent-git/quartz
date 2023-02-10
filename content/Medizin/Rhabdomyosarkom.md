@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m19, f/🦀
+tags: [m/m19, f/🦀]
+title: Rhabdomyosarkom
 ---
 ### Rhabdomyosarkom
 > Maligner [[Tumor]] aus quergestreifter Muskulatur

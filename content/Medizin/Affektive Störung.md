@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/💭/Psychopathologischer-Befund, a/Pathologie
+tags: [m/m20, f/💭/Psychopathologischer-Befund, a/Pathologie]
+title: Affektive Störung
 ---
 - **Stimmung↓**: [[Depression]]
 - **Stimmung↑**: [[Manie]]

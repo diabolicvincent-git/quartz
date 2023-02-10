@@ -1,6 +1,7 @@
 ---
 aliases: ATPasen
-tags: m/m03, f/🧪, f/🧪/Molekül
+tags: [m/m03, f/🧪, f/🧪/Molekül]
+title: ATPase
 ---
 > Aktiver [[Stofftransport]]
 - **P-ATPasen**:: Autophosphorylierung (z.B. sarkoplasmatisches Reticulum, [[Ca2+]])

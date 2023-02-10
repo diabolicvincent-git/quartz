@@ -1,6 +1,7 @@
 ---
 aliases: Chlostridium difficile
 tags: [m/m24, f/🦠, f/🦠/Erreger/Bakterien]
+title: C. difficile
 ---
 ### Chlostridium difficile
 > [[grampositiv]] > Stäbchen > obligat anaerob > [[Chlostridien]] > C. difficile

@@ -1,5 +1,6 @@
 ---
-tags: m/m15, f/🧠, f/⚙️
+tags: [m/m15, f/🧠, f/⚙️]
+title: Somatoefferenzen
 ---
 > (Abstract::[[Efferenzen]])
 - [[Allgemeine Somatoefferenzen]]

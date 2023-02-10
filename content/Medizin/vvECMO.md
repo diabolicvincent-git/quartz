@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m21, f/💤, f/🫁, a/Intervention
+tags: [m/m21, f/💤, f/🫁, a/Intervention]
+title: vvECMO
 ---
 **vv[[ECMO]]**:: Ersatz von [[Lunge]]
 - **Entnahme**:: [[V. cava inferior]] via V. femoralis

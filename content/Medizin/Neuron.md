@@ -1,6 +1,7 @@
 ---
 aliases: Neurone, Nervenzelle
-tags: m/m05, m/m15, f/🧠, f/🔬
+tags: [m/m05, m/m15, f/🧠, f/🔬]
+title: Neuron
 ---
 ### Neurone
 > Gerichtete Aufnahme, Verarbeitungs & Weiterleitung von Reizen

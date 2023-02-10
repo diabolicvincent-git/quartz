@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m20, f/🧪, f/⚙️, f/💤, f/🧠
+tags: [m/m20, f/🧪, f/⚙️, f/💤, f/🧠]
+title: Endocannabinoide
 ---
 ### Endocannabinoide
 > Endogene Lipidmediatoren mit modulatorischer Wirkung an Cannabinoidrezeptoren

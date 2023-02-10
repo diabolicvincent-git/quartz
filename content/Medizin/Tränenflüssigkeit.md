@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👁️
+tags: [m/m16, f/👁️]
+title: Tränenflüssigkeit
 ---
 ### Tränenflüssigkeit
 - **Zusammensetzung**:: Isotone Salzlösung ([[Na+]], K+, Cl−, [[HCO3-]]), [[Proteine]] (z.B. Lysozym, Lactoferrin, α- und β-Defensine), [[EGF]], [[IgA]]

@@ -1,6 +1,7 @@
 ---
 aliases: Tarsus, Fußwurzelknochen
-tags: m/m27, f/💀, f/🦴
+tags: [m/m27, f/💀, f/🦴]
+title: Fußwurzel
 ---
 ### Fußwurzel / Tarsus
 - **Proximaler Tarsus** (proximal → distal)

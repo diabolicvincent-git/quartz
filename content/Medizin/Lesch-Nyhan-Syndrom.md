@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m12, f/💩
+tags: [m/m12, f/💩]
+title: Lesch-Nyhan-Syndrom
 ---
 
 ### Lesch-Nyhan-Syndrom 

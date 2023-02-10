@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m26
+tags: [m/m26]
+title: Ösophagusatresie
 ---
 ### Ösophagusatresie
 - Keine direkte pränatale Diagnostik, nur indirekt

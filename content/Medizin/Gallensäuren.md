@@ -1,6 +1,7 @@
 ---
 aliases: Cholsäuren
-tags: m/m12, f/💩, f/💩
+tags: [m/m12, f/💩, f/💩]
+title: Gallensäuren
 ---
 ### Gallensäuren
 > ==Amphiphile== Bestandteile der **[[Galle]]** zur ==Micellen-Bildung==

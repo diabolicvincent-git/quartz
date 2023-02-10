@@ -1,4 +1,5 @@
 ---
+title: M. buccinator
 ---
 ##### M. buccinator
 *   [[Maxilla]]

@@ -1,6 +1,7 @@
 ---
 aliases: Ovarialfollikel
-tags: m/m22, f/🦩, f/🔬, f/⚙️
+tags: [m/m22, f/🦩, f/🔬, f/⚙️]
+title: Follikel
 ---
 ### Ovarialfollikel
 > Eizelle + umgebende Follikelepithelzellen + [[Bindegewebe]]

@@ -1,6 +1,7 @@
 ---
 aliases: Gürteldesmosom
-tags: m/m04, m/m05, f/🔬, f/🔬/Zellkontakt
+tags: [m/m04, m/m05, f/🔬, f/🔬/Zellkontakt]
+title: Zonula adherens
 ---
 ### Zonula Adhaerens / Gürteldesmosom
 - **Aufbau**:: Adapterproteine + Transmembranäre Cadherine

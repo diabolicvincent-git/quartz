@@ -1,6 +1,7 @@
 ---
 aliases: Natrium
-tags: m/m14, f/🧪, f/⚙️, f/🧪/Molekül, f/🍺
+tags: [m/m14, f/🧪, f/⚙️, f/🧪/Molekül, f/🍺]
+title: Na+
 ---
 ### Natrium / Na+
 > Extrazellulär wichtigstes Kation

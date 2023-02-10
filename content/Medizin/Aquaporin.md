@@ -1,6 +1,7 @@
 ---
 aliases: AQP
-tags: m/m03, m/m14, f/🍺, f/🧪, f/⚙️, f/🧪/Molekül
+tags: [m/m03, m/m14, f/🍺, f/🧪, f/⚙️, f/🧪/Molekül]
+title: Aquaporin
 ---
 ### Aquaporin / AQP
 > Transmembran-[[Proteine]] zum [[Wasser]]transport

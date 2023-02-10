@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m16, f/👁️, f/⚙️
+tags: [m/m16, f/👁️, f/⚙️]
+title: Dioptrischer Apparat
 ---
 - **Bestandteile**:: [[Cornea]], [[Kammerwasser]], [[Augenlinse]] und [[Glaskörper]]
 - Siehe [[Physik der Optik]]

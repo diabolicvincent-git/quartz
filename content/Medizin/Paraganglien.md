@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: m/m11, f/🧠, f/⚙️, f/🫀
+tags: [m/m11, f/🧠, f/⚙️, f/🫀]
+title: Paraganglien
 ---
 ### Paraganglien
 > Anhäufung ganglienartiger, *[[endokrin]]er* Zellen

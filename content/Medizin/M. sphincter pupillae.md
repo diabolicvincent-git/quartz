@@ -1,4 +1,5 @@
 ---
+title: M. sphincter pupillae
 ---
 ##### M. sphincter pupillae
 *   Umkreist die Pupille im [[Bindegewebe]] der [[Iris]]

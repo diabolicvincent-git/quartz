@@ -1,5 +1,6 @@
 ---
-tags: a/Pathologie, f/👁️
+tags: [a/Pathologie, f/👁️]
+title: Netzhautablösung
 ---
 > (Abstract::**Ablösung [[Retina]] von Pigmentepithel → [[Gesichtsfeldausfall]].**)
 - **Epidemiologie**::

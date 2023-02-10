@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m15, f/🧠
+tags: [m/m15, f/🧠]
+title: Mechanismen neuronaler Plastizität
 ---
 > Änderung neuronaler Strukturen in Abhängigkeit ihrer Aktivität
 

@@ -1,6 +1,7 @@
 ---
 aliases: null
-tags: m/m22, f/🦄, a/Intervention
+tags: [m/m22, f/🦄, a/Intervention]
+title: Meilensteine der Entwicklung
 ---
 ### Meilensteine der kindlichen Entwicklung
 | Alter       | Motorik                                                                               | Sprache                                                                       | Sozialverhalten                                                             |
