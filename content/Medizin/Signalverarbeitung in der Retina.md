@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👁️, f/⚙️]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Physiologie]
 title: Signalverarbeitung in der Retina
 ---
 > [[Photorezeptoren]] sind in Ruhe *depolarisiert*, ein Lichtreiz *hyperpolarisiert* sie (Glutamatfreisetzung↓)

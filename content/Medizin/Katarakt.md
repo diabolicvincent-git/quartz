@@ -1,6 +1,6 @@
 ---
 aliases: Grauer Star
-tags: [m/m16, a/Pathologie, f/👁️]
+tags: [Modul/m16, Art/Pathologie, Fach/Ophthalmologie]
 title: Katarakt
 ---
 > (Abstract::**Trübung der [[Augenlinse]].** Auch: Grauer Star.)

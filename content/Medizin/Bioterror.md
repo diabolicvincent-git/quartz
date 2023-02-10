@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🍄, f/🦠, f/📊]
+tags: [Modul/m18, Fach/Toxikologie, Fach/Infektiologie, Fach/Epidemiologie]
 title: Bioterror
 ---
 ### Potentielle Bioterror-Agenzien / "Dirty Dozen"

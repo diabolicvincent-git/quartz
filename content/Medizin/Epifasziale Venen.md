@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, f/🧴, f/💀, f/💀/Leitungsbahn]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn]
 title: Epifasziale Venen
 ---
 ### Epifasziale Venen
@@ -45,4 +45,4 @@ title: Epifasziale Venen
         3. Begleitvene des N. suralis
         4. **Kniekehle**:: Mündung in V. poplitea
 
-#m/m09
+#Modul/m09

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, m/m11, f/🫀, a/Intervention, f/⛑️]
+tags: [Modul/m00, Modul/m11, Fach/Kardiologie, Art/Intervention, Fach/Notfallmedizin]
 title: HEART-Score
 ---
 ### HEART-Score

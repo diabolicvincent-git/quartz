@@ -1,6 +1,6 @@
 ---
 aliases: Hypopituitarismus, M. Simmonds, Empty-Sella-Syndrom
-tags: [m/m22, f/🗞️, a/Pathologie]
+tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Hypophysenvorderlappeninsuffizienz
 ---
 ### Hypophysenvorderlappeninsuffizienz / Hypopituitarismus / M. Simmonds

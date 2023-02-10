@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, f/💀, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Formatio reticularis
 ---
 ### Formatio reticularis 

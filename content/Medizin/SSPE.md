@@ -1,6 +1,6 @@
 ---
 aliases: Subakute Sklerosierende Panencephalitis
-tags: [m/m18]
+tags: [Modul/m18]
 title: SSPE
 ---
 ### Subakute Sklerosierende Panencephalitis / SSPE

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, m/m19, f/🧪, f/🧬]
+tags: [Modul/m02, Modul/m19, Fach/Biochemie, Fach/Genetik]
 title: DNA-Reparatur
 ---
 ### DNA-Reparaturmechanismen

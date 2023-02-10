@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, m/m17, f/💩]
+tags: [Modul/m12, Modul/m17, Fach/Gastroenterologie]
 title: Leberzirrhose
 ---
 ### Leberzirrhose 

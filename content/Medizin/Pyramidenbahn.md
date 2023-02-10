@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, f/🧠]
+tags: [Modul/m15, Fach/Neurologie]
 title: Pyramidenbahn
 ---
 ### Pyramidenbahn

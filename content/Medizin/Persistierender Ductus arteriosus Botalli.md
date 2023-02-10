@@ -1,6 +1,6 @@
 ---
 aliases: PDA
-tags: [m/m25, f/🫀, f/🦄, a/Pathologie]
+tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Persistierender Ductus arteriosus Botalli
 ---
 ### Persistierender [[Ductus arteriosus Botalli]] / PDA

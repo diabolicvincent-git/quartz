@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10]
+tags: [Modul/m10]
 title: Kopf und Hals
 ---
 ```dataview
@@ -2105,5 +2105,5 @@ Innervation
 *   Zieht Os metatarsi V nach plantar und medial
 Abkürzungen: Dig. = Digitus
 
-#m/m10 #m/m00 
+#Modul/m10 #Modul/m00 
 aus: [Amboss-Muskeltrainer](https://next.amboss.com/de/article/Mr0M3h?q=muskeltrainer#Zf8f938012f5b856b8aafd738a4ef2cbb)

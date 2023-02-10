@@ -1,6 +1,6 @@
 ---
 aliases: Malabsorption, Maldigestion
-tags: [m/m26]
+tags: [Modul/m26]
 title: Malassimilation
 ---
 ### Malassimilation

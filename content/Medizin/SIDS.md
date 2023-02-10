@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦄]
+tags: [Art/Pathologie, Fach/Pädiatrie]
 title: SIDS
 ---
 > (Abstract::**Sudden Infant Death Syndrome, Plötzlicher Säuglingstod.** Unvermittelt, meist im Schlaf. ==<1 Jahr==.)

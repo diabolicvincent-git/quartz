@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/⚙️, f/🦴]
+tags: [Modul/m10, Fach/Physiologie, Fach/Orthopädie]
 title: Eigenreflex
 ---
 ### Eigenreflex

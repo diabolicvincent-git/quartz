@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08]
+tags: [Modul/m08]
 title: IgM
 ---
 ### IgM

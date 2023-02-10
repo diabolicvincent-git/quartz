@@ -22,4 +22,4 @@ Die erste [[Infektionen]] mit einem Pathogen löst eine primäre Immunantwort au
 
 Obwohl Gedächtniszellen schneller und effektiver sind als naive [[Lymphocyten]], benötigen sie dennoch Kontakt zum passenden Antigen um reaktiviert zu werden!
 
-#m/m08
+#Modul/m08

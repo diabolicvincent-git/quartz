@@ -2,7 +2,7 @@
 aliases:
   - VitC
   - Ascorbinsäure
-tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
 Löslichkeit: Wasserlöslich
 title: Vitamin C
 ---

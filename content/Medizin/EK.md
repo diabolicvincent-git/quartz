@@ -1,6 +1,6 @@
 ---
 aliases: Erythrocytenkonzentrat
-tags: [m/m08, f/💊/Medikament, f/🩸/Transfusion/Blutprodukt]
+tags: [Modul/m08, Fach/Pharmakologie/Medikament, Fach/Hämatologie/Transfusion/Blutprodukt]
 gruppe: "[[Transfusion]]"
 title: EK
 ---

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m09, m/m19, a/Pathologie]
+tags: [Modul/m09, Modul/m19, Art/Pathologie]
 title: Melanom
 ---
 ### Malignes Melanom

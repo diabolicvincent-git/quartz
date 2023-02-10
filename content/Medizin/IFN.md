@@ -1,6 +1,6 @@
 ---
 aliases: Interferon, Interferone
-tags: [m/m08, m/m17, f/⚙️, f/🧪, f/🦠, f/🧪/Molekül]
+tags: [Modul/m08, Modul/m17, Fach/Physiologie, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: IFN
 ---
 ### Interferon / IFN

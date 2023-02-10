@@ -1,6 +1,6 @@
 ---
 aliases: Intraperitonealraum
-tags: [m/m12]
+tags: [Modul/m12]
 title: intraperitoneal
 ---
 ### Intraperitonealraum

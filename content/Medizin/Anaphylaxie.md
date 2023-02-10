@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m09, f/🧴, f/⛑️/SOP, a/Pathologie]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Notfallmedizin/SOP, Art/Pathologie]
 title: Anaphylaxie
 ---
 (Abstract::Akute, lebensgefährliche [[Allergie]])

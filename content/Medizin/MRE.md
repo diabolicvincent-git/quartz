@@ -1,6 +1,6 @@
 ---
 aliases: Multiresistente Erreger
-tags: [m/m18, f/🦠/Erreger/Bakterien, f/🦠]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Fach/Infektiologie]
 title: MRE
 ---
 ### Multiresistente Erreger / MRE

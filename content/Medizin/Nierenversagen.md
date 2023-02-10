@@ -1,6 +1,6 @@
 ---
 aliases: Akutes Nierenversagen, ANV, AKI, Nierenschädigung
-tags: [m/m14, f/🍺, a/Pathologie]
+tags: [Modul/m14, Fach/Nephrologie, Art/Pathologie]
 title: Nierenversagen
 ---
 ### Akute Nierenschädigung / Acute Kidney Injury

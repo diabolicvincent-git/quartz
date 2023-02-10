@@ -1,6 +1,6 @@
 ---
 aliases: Cholesterin
-tags: [m/m02, f/🧪, f/🫀, f/🧪/Molekül]
+tags: [Modul/m02, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül]
 title: Cholesterol
 ---
 ### Cholesterol / Cholesterin

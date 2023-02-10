@@ -1,6 +1,6 @@
 ---
 aliases: M. Wegener
-tags: [m/m14, m/m17, f/🍺, f/💉]
+tags: [Modul/m14, Modul/m17, Fach/Nephrologie, Fach/Rheumatologie]
 title: Granulomatose mit Polyangiitis
 ---
 ### Granulomatose mit Polyangiitis 

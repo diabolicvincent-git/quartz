@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/💉]
+tags: [Art/Pathologie, Fach/Rheumatologie]
 title: Chronische Gicht
 ---
 > (Abstract::**Selten, nur bei unbehandelter [[Gicht]].**)

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/🫀, f/💤, a/Intervention]
+tags: [Modul/m21, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: vaECMO
 ---
 **va[[ECMO]]**:: Ersatz von [[Herz]] und [[Lunge]]

@@ -1,6 +1,6 @@
 ---
 aliases: Elektrokardiogramm
-tags: [m/m11, f/🫀, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: EKG
 ---
 > (Abstract::**Elektrokardiogramm.**)

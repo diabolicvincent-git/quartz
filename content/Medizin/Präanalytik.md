@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m24, f/🦠, f/🥼]
+tags: [Modul/m24, Fach/Infektiologie, Fach/Laboratoriumsmedizin]
 title: Präanalytik
 ---
 ### Präanalytik

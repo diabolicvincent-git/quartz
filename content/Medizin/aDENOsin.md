@@ -1,5 +1,5 @@
 ---
-tags: [m/m25, f/🫀, f/💊/Medikament/Wirkstoff/P-Drug, f/⛑️]
+tags: [Modul/m25, Fach/Kardiologie, Fach/Pharmakologie/Medikament/Wirkstoff/P-Drug, Fach/Notfallmedizin]
 title: aDENOsin
 ---
 - **Gruppe**:: [[Antiarrhythmika]]

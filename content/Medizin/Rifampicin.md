@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, f/💊/Medikament]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament]
 title: Rifampicin
 ---
 ### Rifampicin

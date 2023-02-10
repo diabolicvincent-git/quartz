@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30]
+tags: [Modul/m30]
 title: Drogenintoxikation
 ---
 ### Drogenintoxikation

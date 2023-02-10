@@ -1,6 +1,6 @@
 ---
 aliases: Imipenem, Meropenem, Ertapenem
-tags: [m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament/Übergruppe]
+tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva/Antibiotika, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Carbapeneme
 ---
 - **Wirkmechanismus**:: [[Störung der Zellwandsynthese]] ([[β-Lactam-Antibiotika]])

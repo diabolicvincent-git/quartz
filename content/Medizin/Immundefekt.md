@@ -1,6 +1,6 @@
 ---
 aliases: Immundefizienz
-tags: [m/m17]
+tags: [Modul/m17]
 title: Immundefekt
 ---
 ### Immundefekte

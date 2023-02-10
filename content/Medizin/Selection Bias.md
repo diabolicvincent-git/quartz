@@ -1,5 +1,5 @@
 ---
-tags: [f/📊, m/m07]
+tags: [Fach/Epidemiologie, Modul/m07]
 title: Selection Bias
 ---
 > (Abstract::[[Stichprobe]] ist nicht repräsentativ für [[Grundgesamtheit]])

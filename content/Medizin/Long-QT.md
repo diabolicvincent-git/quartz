@@ -1,6 +1,6 @@
 ---
 aliases: LQTS, Jervell-Lange-Nielsen-Syndrom, Romano-Ward-Syndrom
-tags: [m/m11, f/🫀, a/Pathologie]
+tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Long-QT
 ---
 ### Long-QT-Syndrom / LQTS

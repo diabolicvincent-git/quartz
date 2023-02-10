@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, m/m29, f/👁️]
+tags: [Art/Pathologie, Modul/m29, Fach/Ophthalmologie]
 title: Uveitis anterior
 ---
 > (Abstract::**[[Uveitis]]. Entzündung [[Iris]], ggf. + [[Ciliarkörper]].**)

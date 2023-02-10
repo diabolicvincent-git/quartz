@@ -1,6 +1,6 @@
 ---
 aliases: Hirn
-tags: [m/m15]
+tags: [Modul/m15]
 kleiner: "[[Rhombencephalon]], [[Mesencephalon]], [[Prosencephalon]]"
 title: Gehirn
 ---

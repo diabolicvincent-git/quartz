@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14, f/⚙️]
+tags: [Modul/m14, Fach/Physiologie]
 title: Volumenregulation
 ---
 

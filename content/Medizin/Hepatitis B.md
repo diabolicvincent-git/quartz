@@ -1,6 +1,6 @@
 ---
 aliases: HBV
-tags: [m/m19, f/🦠/Reiseimpfung, f/💩, a/Pathologie, f/🦠/Erreger/Viren]
+tags: [Modul/m19, Fach/Infektiologie/Reiseimpfung, Fach/Gastroenterologie, Art/Pathologie, Fach/Infektiologie/Erreger/Viren]
 title: Hepatitis B
 ---
 - **Epidemiologie**:: Ubiquitär verbreitet, insb. Afrika+Asien

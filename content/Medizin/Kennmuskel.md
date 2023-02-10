@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10]
+tags: [Modul/m10]
 title: Kennmuskel
 ---
 ### Kennmuskel

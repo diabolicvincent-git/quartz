@@ -1,6 +1,6 @@
 ---
 aliases: Bronchial-Ca, Lungenkarzinom, Bronchialkarzinom
-tags: [m/m19, a/Pathologie, f/🦀, f/🫁]
+tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Pneumologie]
 title: Lungen-Ca
 ---
 ### Lungenkarzinom / Bronchialkarzinom

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m05, f/🧪, f/⚙️]
+tags: [Modul/m03, Modul/m05, Fach/Biochemie, Fach/Physiologie]
 title: Zellzyklusphasen
 ---
 

@@ -16,4 +16,4 @@ Schluckbeschwerden|+,-/-|+
 Therapie|"Diphterie-Antitoxin, [[Antibiotika]]"|"Symptomatisch ([[Glucocorticoide]], [[Adrenalin]])"|"[[Antibiotika]], Symptomatisch ([[Glucocorticoide]], [[Adrenalin]])"
 Prävention|"[[Impfung]] vorhanden, in DE selten"|Sehr häufig|[[Impfung]] vorhanden (HiB)
 
-#m/m13
+#Modul/m13

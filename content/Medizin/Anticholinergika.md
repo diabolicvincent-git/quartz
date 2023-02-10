@@ -2,7 +2,7 @@
 aliases:
   - ACh-Rezeptor-Antagonisten
   - Parasympatholytika
-tags: [m/m13, f/💊/Medikament/Untergruppe, f/🫀, f/💤, f/🍄/Gift]
+tags: [Modul/m13, Fach/Pharmakologie/Medikament/Untergruppe, Fach/Kardiologie, Fach/Anästhesie, Fach/Toxikologie/Gift]
 title: Anticholinergika
 ---
 > (Abstract::Auch: Parasympatholytika)

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/🫀, f/🦄]
+tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie]
 title: Eisenmenger-Reaktion
 ---
 ### Eisenmenger-Reaktion

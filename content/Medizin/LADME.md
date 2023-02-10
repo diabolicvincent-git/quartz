@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m24, f/💊/Medikament]
+tags: [Modul/m24, Fach/Pharmakologie/Medikament]
 title: LADME
 ---
 ### LADME / Schritte der [[Pharmakokinetik]]

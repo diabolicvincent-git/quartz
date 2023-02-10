@@ -1,6 +1,6 @@
 ---
 aliases: Chronische myeloische Leukämie
-tags: [m/m19, f/🦀, f/🩸]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: CML
 ---
 ### Chronische myeloische Leukämie / CML

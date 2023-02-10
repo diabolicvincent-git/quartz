@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/⚰️, a/Pathologie, a/Intervention]
+tags: [Modul/m21, Fach/Rechtsmedizin, Art/Pathologie, Art/Intervention]
 title: Todeszeichen
 ---
 ### Todeszeichen

@@ -1,6 +1,6 @@
 ---
 aliases: Ala
-tags: [m/m02, f/🧪, f/🧪/Molekül/Aminosäure]
+tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Molekül/Aminosäure]
 title: Alanin
 ---
 [[AS]]

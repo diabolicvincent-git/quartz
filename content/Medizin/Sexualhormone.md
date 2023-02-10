@@ -1,6 +1,6 @@
 ---
 aliases: Geschlechtshormone
-tags: [m/m22, f/🦩, f/🗞️]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie]
 title: Sexualhormone
 ---
 ### Sexualhormone / Geschlechtshormone

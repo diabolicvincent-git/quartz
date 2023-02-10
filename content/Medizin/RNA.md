@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, m/m03, f/🧪]
+tags: [Modul/m02, Modul/m03, Fach/Biochemie]
 title: RNA
 ---
 - [[hnRNA]]

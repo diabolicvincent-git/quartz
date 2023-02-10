@@ -1,5 +1,5 @@
 ---
-tags: [f/🍄/Gift]
+tags: [Fach/Toxikologie/Gift]
 title: pHYSostigmin
 ---
 > (Abstract::)

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🧪, f/🧪/Molekül]
+tags: [Modul/m05, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Caspase
 ---
 ### Cysteinyl-Aspartasen / Caspasen

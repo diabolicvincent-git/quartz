@@ -1,5 +1,5 @@
 ---
-tags: [f/📊, m/m07]
+tags: [Fach/Epidemiologie, Modul/m07]
 title: Confounding
 ---
 > (Abstract::**Verzerrung durch Störgröße** → falsche Zusammenhänge (v.a. [[Beobachtungsstudie]]))

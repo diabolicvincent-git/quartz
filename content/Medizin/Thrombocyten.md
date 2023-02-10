@@ -1,6 +1,6 @@
 ---
 aliases: Thrombocyt
-tags: [m/m08, f/🩸, f/🔬/Zelle]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Thrombocyten
 ---
 ### Thrombocyten / Blutplättchen 

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💤, f/💭]
+tags: [Modul/m20, Fach/Anästhesie, Fach/Psychiatrie]
 title: Gebershagen
 ---
 ### Stadieneinteilung des Schmerzes nach Gebershagen

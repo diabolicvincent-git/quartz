@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, a/Intervention, f/🦴]
+tags: [Modul/m27, Art/Intervention, Fach/Orthopädie]
 title: Osteosynthese
 ---
 ### Osteosynthese

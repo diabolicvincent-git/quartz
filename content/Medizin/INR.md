@@ -1,6 +1,6 @@
 ---
 aliases: International Normalized Ratio
-tags: [m/m08, f/🩸]
+tags: [Modul/m08, Fach/Hämatologie]
 title: INR
 ---
 ### International Normalized Ratio / INR 

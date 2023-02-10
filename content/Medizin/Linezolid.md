@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/💊/Medikament, f/🦠]
+tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie]
 title: Linezolid
 ---
 ### Linezolid

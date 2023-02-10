@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m03, f/🦴, f/🧬, a/Pathologie]
+tags: [Modul/m03, Fach/Orthopädie, Fach/Genetik, Art/Pathologie]
 title: Muskeldystrophie Duchenne
 ---
 > Häufigste muskuläre Erbkrankheit im Kindesalter (1:5000) - siehe [[Muskeldystrophie]]

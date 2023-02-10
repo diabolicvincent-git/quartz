@@ -1,6 +1,6 @@
 ---
 aliases: MDS
-tags: [m/m17, a/Pathologie]
+tags: [Modul/m17, Art/Pathologie]
 title: Myelodysplastisches Syndrom
 ---
 ### Myelodysplastisches Syndrom / MDS

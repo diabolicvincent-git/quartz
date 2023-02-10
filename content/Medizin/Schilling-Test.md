@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26]
+tags: [Modul/m26]
 title: Schilling-Test
 ---
 ### Schilling Test

@@ -1,6 +1,6 @@
 ---
 aliases: Esketamin, S-Ketamin, Ketanest
-tags: [m/m21, f/💊/Medikament, f/💤]
+tags: [Modul/m21, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: KETAmin
 ---
 ### (Es-)Ketamin

@@ -1,6 +1,6 @@
 ---
 aliases: Gaster
-tags: [m/m12]
+tags: [Modul/m12]
 title: Magen
 ---
 ### Magen / Gaster

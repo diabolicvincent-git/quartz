@@ -1,6 +1,6 @@
 ---
 aliases: Cervixkarzinom
-tags: [m/m19, f/🦩, f/🦀]
+tags: [Modul/m19, Fach/Gynäkologie, Fach/Onkologie]
 title: Cervix-Ca
 ---
 ### Cervixkarzinom

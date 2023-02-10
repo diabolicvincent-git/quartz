@@ -1,5 +1,5 @@
 ---
-tags: [m/m17, f/🩸, f/💊/Medikament, f/🍄/Gift]
+tags: [Modul/m17, Fach/Hämatologie, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
 title: Vitamin-K-Antagonisten
 ---
 > (Abstract::Auch: Cumarine.)

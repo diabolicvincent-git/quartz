@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💊/Medikament, f/🍺, f/🫀, f/💩, m/m14]
+tags: [Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie, Fach/Gastroenterologie, Modul/m14]
 title: Spironolacton
 ---
  ### Spironolacton

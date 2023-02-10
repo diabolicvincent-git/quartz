@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m18, m/m24, f/🦠, f/🦠/Erreger/Bakterien]
+tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Bakteriensystematik
 ---
 ### [[Bakterien]]systematik

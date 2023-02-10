@@ -1,6 +1,6 @@
 ---
 aliases: Bruch
-tags: [m/m05, m/m10, f/🦴, a/Pathologie, m/m27]
+tags: [Modul/m05, Modul/m10, Fach/Orthopädie, Art/Pathologie, Modul/m27]
 title: Fraktur
 ---
 ### Fraktur

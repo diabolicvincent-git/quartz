@@ -1,6 +1,6 @@
 ---
 aliases: Vollelektrolytlösung
-tags: [m/m14, f/💊/Medikament]
+tags: [Modul/m14, Fach/Pharmakologie/Medikament]
 title: VEL
 ---
 ### Vollelektrolytlösung / VEL

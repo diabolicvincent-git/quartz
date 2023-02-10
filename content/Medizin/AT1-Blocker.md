@@ -1,6 +1,6 @@
 ---
 aliases: Sartane
-tags: [m/m14, f/🫀, f/🍺, f/💊/Medikament/Untergruppe]
+tags: [Modul/m14, Fach/Kardiologie, Fach/Nephrologie, Fach/Pharmakologie/Medikament/Untergruppe]
 title: AT1-Blocker
 ---
 > (Abstract::Auch: Sartane)

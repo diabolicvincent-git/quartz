@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, a/Pathologie, f/🫀, f/🔪]
+tags: [Modul/m25, Art/Pathologie, Fach/Kardiologie, Fach/Chirurgie]
 title: Aortendissektion
 ---
 > (Abstract::Maximalausprägung von **[[Akutes Aortensyndrom]]** mit Intima-Einriss, intramurale Einblutung, Bildung eines zweiten Lumens)

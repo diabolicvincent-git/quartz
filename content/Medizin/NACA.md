@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/💤, a/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: NACA
 ---
 ### NACA

@@ -1,6 +1,6 @@
 ---
 aliases: Interleukin, Interleukine
-tags: [m/m08]
+tags: [Modul/m08]
 title: IL
 ---
 ### Interleukine / IL

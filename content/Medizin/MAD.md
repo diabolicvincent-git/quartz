@@ -1,6 +1,6 @@
 ---
 aliases: MAP, Arterieller Mitteldruck
-tags: [m/m11, f/🫀, f/💤, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: MAD
 ---
 siehe [[Blutdruck]], [[RR]]

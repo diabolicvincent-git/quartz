@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🧪, f/⚙️]
+tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie]
 title: HCO3-
 ---
 ### Bicarbonat / HCO3-

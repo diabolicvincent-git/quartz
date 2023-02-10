@@ -1,6 +1,6 @@
 ---
 aliases: Querschnittslähmung, Querschnittssyndrom
-tags: [m/m10, f/🧠, f/🦴, a/Pathologie]
+tags: [Modul/m10, Fach/Neurologie, Fach/Orthopädie, Art/Pathologie]
 title: Querschnitt
 ---
 ### Komplettes Querschnittssyndrom

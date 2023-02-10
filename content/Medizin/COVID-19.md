@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, f/🫁, f/🦠, a/Pathologie]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
 title: Bei eigener Infektionen
 ---
 # Bei eigener [[Infektionen]]

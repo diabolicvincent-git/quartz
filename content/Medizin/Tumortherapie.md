@@ -1,6 +1,6 @@
 ---
 aliases: Antineoplastische Therapie
-tags: [m/m19, f/🦀, a/Intervention]
+tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: Tumortherapie
 ---
 ### Antineoplastische Therapie / Tumortherapie

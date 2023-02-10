@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, m/m21, ToDo m/m22, f/💩, a/Pathologie, f/🦩, f/💩, m/m26]
+tags: [Modul/m12, Modul/m21, ToDo Modul/m22, Fach/Gastroenterologie, Art/Pathologie, Fach/Gynäkologie, Fach/Gastroenterologie, Modul/m26]
 title: SEM4 Propädeutik DD Bauchschmerzen
 ---
 ### Bauchschmerzen

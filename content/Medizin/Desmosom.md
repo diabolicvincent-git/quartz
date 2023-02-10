@@ -1,6 +1,6 @@
 ---
 aliases: Macula Adhaerens, Desmosomen
-tags: [m/m04, m/m05, f/🔬, f/🧪]
+tags: [Modul/m04, Modul/m05, Fach/Histologie, Fach/Biochemie]
 title: Desmosom
 ---
 ### Desmosom / Macula Adhaerens

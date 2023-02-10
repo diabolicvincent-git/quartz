@@ -1,6 +1,6 @@
 ---
 aliases: Richmond Agitation and Sedation Scale
-tags: [m/m36, f/💤]
+tags: [Modul/m36, Fach/Anästhesie]
 title: RASS
 ---
 ### Richmond Agitation and Sedation Scale / RASS

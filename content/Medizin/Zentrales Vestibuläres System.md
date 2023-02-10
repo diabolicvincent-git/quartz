@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👂, f/⚙️]
+tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Zentrales Vestibuläres System
 ---
 - Vestibuläres Kerngebiet der [[Medulla oblongata]]

@@ -1,6 +1,6 @@
 ---
 aliases: C-reaktives Protein
-tags: [m/m18, f/🥼, f/🧪, f/🦠, f/🧪/Molekül]
+tags: [Modul/m18, Fach/Laboratoriumsmedizin, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: CRP
 ---
 ### C-reaktives Protein / CRP

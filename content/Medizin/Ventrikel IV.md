@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, f/💀, f/💀/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Ventrikel IV
 ---
 ### [[Ventrikelsystem]] IV

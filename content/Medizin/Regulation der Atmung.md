@@ -1,7 +1,7 @@
 ---
 aliases:
   - null
-tags: [m/m13]
+tags: [Modul/m13]
 title: Regulation der Atmung
 ---
 ## Chemische Atemregulation

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, m/m17, f/💊/Medikament, f/💉]
+tags: [Modul/m26, Modul/m17, Fach/Pharmakologie/Medikament, Fach/Rheumatologie]
 title: Azathioprin
 ---
 > **[[Immunsuppressiva]], [[Cytostatika]]**

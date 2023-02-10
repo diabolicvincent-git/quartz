@@ -1,5 +1,5 @@
 ---
-tags: [f/🔪/Instrumente/Pinzette]
+tags: [Fach/Chirurgie/Instrumente/Pinzette]
 title: Atrauma-Pinzette nach DeBakey
 ---
 - **Form**:: Gerade

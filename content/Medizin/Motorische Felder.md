@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15]
+tags: [Modul/m15]
 title: Motorische Felder
 ---
 (Abstract::Primärer [[Motorcortex]] (Aktivierung), Prämotorischer Cortex (Initiierung), Supplementärmotorischer Cortex (komplexe Sequenzen))

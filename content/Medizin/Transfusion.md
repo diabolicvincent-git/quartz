@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m21, f/🩸/Transfusion, f/💤, a/Intervention]
+tags: [Modul/m08, Modul/m21, Fach/Hämatologie/Transfusion, Fach/Anästhesie, Art/Intervention]
 title: Transfusion
 ---
 - **Wichtigste [[Blutprodukte]]**

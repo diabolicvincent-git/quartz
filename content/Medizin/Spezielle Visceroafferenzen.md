@@ -1,5 +1,5 @@
 ---
-tags: [f/🧠/Faserqualität/Afferenzen/Viscero]
+tags: [Fach/Neurologie/Faserqualität/Afferenzen/Viscero]
 title: Spezielle Visceroafferenzen
 ---
 > (Abstract::[[Visceroafferenzen]]. Leiten Informationen für den Riech- und Geschmackssinn.)

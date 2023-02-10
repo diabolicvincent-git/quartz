@@ -1,6 +1,6 @@
 ---
 aliases: Cerebelläre Störungen, Cerebelläre Ataxie
-tags: [m/m15, f/🧠]
+tags: [Modul/m15, Fach/Neurologie]
 title: Neurophysiologie
 ---
 ### Symptome
@@ -81,4 +81,4 @@ title: Neurophysiologie
 - eine zerebellär bedingte Stand- und Gangataxie erkennen und ihre klinischen Charakteristika beschreiben
 - die allgemeinen funktionellen Anforderungen des Kleinhirns (Generierung präziser raum-zeitlicher Aktivitätsmuster, Lernfähigkeit) im Kontext seiner spezifischen Mikroanatomie und Cytoarchitektur erläutern
 
-#m/m15
+#Modul/m15

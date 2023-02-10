@@ -1,6 +1,6 @@
 ---
 aliases: Major Histocompatibility Complex
-tags: [m/m08, m/m17, f/⚙️, f/🦠, f/🩸]
+tags: [Modul/m08, Modul/m17, Fach/Physiologie, Fach/Infektiologie, Fach/Hämatologie]
 title: MHC
 ---
 ### Major Histocompatibility Complex / MHC 

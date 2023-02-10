@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02]
+tags: [Modul/m02]
 title: Glutamin
 ---
 **Glutamin (Gln, Q)**:: Amid [[AS]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/🗞️, f/🦄, a/Intervention, f/🦩, f/🍆]
+tags: [Modul/m21, Fach/Endokrinologie, Fach/Pädiatrie, Art/Intervention, Fach/Gynäkologie, Fach/Urologie]
 title: Tanner-Stadien
 ---
 ### Tanner-Stadien

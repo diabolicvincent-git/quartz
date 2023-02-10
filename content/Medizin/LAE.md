@@ -1,6 +1,6 @@
 ---
 aliases: Lungenarterienembolie, Lungenembolie
-tags: [m/m11, m/m13, m/m21, f/🫁, f/🫀, a/Pathologie]
+tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie]
 title: eVL
 ---
 ### Lungenarterienembolie / LAE

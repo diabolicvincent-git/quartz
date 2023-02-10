@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17]
+tags: [Modul/m17]
 title: Hyperhomocysteinämie
 ---
 

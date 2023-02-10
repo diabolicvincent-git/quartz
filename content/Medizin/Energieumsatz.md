@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, m/m12, f/⚙️]
+tags: [Modul/m10, Modul/m12, Fach/Physiologie]
 title: Energieumsatz
 ---
 ### Energieumsatz 

@@ -1,6 +1,6 @@
 ---
 aliases: Kupfer
-tags: [m/m21, f/🧪, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m21, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Cu2+
 ---
 > (Abstract::**Kupfer.** [[Spurenelemente]].)

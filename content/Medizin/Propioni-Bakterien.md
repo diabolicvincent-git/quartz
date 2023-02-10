@@ -1,5 +1,5 @@
 ---
-tags: [f/🦠/Erreger/Bakterien]
+tags: [Fach/Infektiologie/Erreger/Bakterien]
 title: Propioni-Bakterien
 ---
 > (Abstract::[[grampositiv]], [[Anaerobier]], [[Hautflora]])

@@ -1,5 +1,5 @@
 ---
-tags: [f/💊/Medikament, f/💭/Antidepressiva]
+tags: [Fach/Pharmakologie/Medikament, Fach/Psychiatrie/Antidepressiva]
 title: SSRI
 ---
 **Gruppe**:: [[Antidepressiva]]

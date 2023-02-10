@@ -1,6 +1,6 @@
 ---
 aliases: Kontrastmittel
-tags: [m/m00, a/Intervention]
+tags: [Modul/m00, Art/Intervention]
 title: KM
 ---
 > (Abstract::**Kontrastmittel.**)

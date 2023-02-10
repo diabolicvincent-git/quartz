@@ -1,9 +1,8 @@
 ---
 aliases: null
-tags: [m/m19, f/🕶️]
+tags: [Modul/m19, Fach/Radiologie]
 title: Äquivalenzdosis
 ---
-### Äquivalenzdosis
 > Multiplikation von [[Energiedosis]] mit Strahlungsart-Faktor ($H=D*q$)
 - **Einheit**:: Sv (Sievert) = J/kg
 - **Faktor q**

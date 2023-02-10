@@ -1,6 +1,6 @@
 ---
 aliases: Varizella-Zoster-Virus
-tags: [m/m09, f/🦠, f/🦄, f/🦠/Erreger/Viren]
+tags: [Modul/m09, Fach/Infektiologie, Fach/Pädiatrie, Fach/Infektiologie/Erreger/Viren]
 title: VZV
 ---
 ### Varizella-Zoster-Virus / VZV

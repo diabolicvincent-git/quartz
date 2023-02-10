@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m09, f/💤, a/Pathologie]
+tags: [Modul/m09, Fach/Anästhesie, Art/Pathologie]
 title: Verbrennung
 ---
 ### Verbrennung

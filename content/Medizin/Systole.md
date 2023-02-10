@@ -1,7 +1,7 @@
 ---
 aliases:
   - systolisch
-tags: [m/m11]
+tags: [Modul/m11]
 title: Systole
 ---
 

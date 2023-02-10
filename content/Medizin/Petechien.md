@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m08, m/m17]
+tags: [Modul/m09, Modul/m08, Modul/m17]
 title: Petechien
 ---
 ### Petechien

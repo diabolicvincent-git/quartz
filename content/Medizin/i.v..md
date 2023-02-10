@@ -1,6 +1,6 @@
 ---
 aliases: intravenös
-tags: [m/m00]
+tags: [Modul/m00]
 title: i.v.
 ---
 ### intravenös / i.v.

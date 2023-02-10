@@ -1,6 +1,6 @@
 ---
 aliases: Gangstörung
-tags: [m/m10, m/m15, f/🦴, f/🧠]
+tags: [Modul/m10, Modul/m15, Fach/Orthopädie, Fach/Neurologie]
 title: Beschreibung von Gangstörungen
 ---
 # Beschreibung von Gangstörungen

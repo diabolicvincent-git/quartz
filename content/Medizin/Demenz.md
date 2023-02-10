@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [m/m15, f/🧠, f/💭, a/Pathologie, m/m31, m/m30]
+tags: [Modul/m15, Fach/Neurologie, Fach/Psychiatrie, Art/Pathologie, Modul/m31, Modul/m30]
 title: Ätiologie
 ---
 - **Ätiologie**:: Primär neurodegenerativ/vaskulär ↔︎ Sekundär Hirnschädigung

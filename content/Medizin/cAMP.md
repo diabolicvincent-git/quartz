@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, f/🧪, f/🧪/Molekül]
+tags: [Modul/m04, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: cAMP
 ---
 ### cAMP / Cyclisches Adenosinmonophosphat

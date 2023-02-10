@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🦩]
+tags: [Modul/m22, Fach/Gynäkologie]
 title: Menstruationszyklus
 ---
 ### Menstruationszyklus ([[♀]])

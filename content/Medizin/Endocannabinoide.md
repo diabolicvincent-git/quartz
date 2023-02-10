@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/🧪, f/⚙️, f/💤, f/🧠]
+tags: [Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Anästhesie, Fach/Neurologie]
 title: Endocannabinoide
 ---
 ### Endocannabinoide

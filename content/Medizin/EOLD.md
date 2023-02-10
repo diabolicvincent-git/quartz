@@ -1,6 +1,6 @@
 ---
 aliases: End of Life Decision, End of Life Decisions
-tags: [m/m20, m/m23, f/💤]
+tags: [Modul/m20, Modul/m23, Fach/Anästhesie]
 title: EOLD
 ---
 ### End of Life Decisions / EOLD

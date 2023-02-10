@@ -1,6 +1,6 @@
 ---
 aliases: Chronotropie
-tags: [m/m11, f/🫀]
+tags: [Modul/m11, Fach/Kardiologie]
 title: chronotrop
 ---
 **Chronotropie**:: Veränderung der [[HF]]

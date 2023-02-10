@@ -1,6 +1,6 @@
 ---
 aliases: Vena cava superior
-tags: [m/m11, f/🫀, f/💀, f/💀/Leitungsbahn/Vene]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
 title: V. cava superior
 ---
 ### [[V. cava]] superior

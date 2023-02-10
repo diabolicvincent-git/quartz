@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m07, m/m16, f/💊/Medikament]
+tags: [Modul/m07, Modul/m16, Fach/Pharmakologie/Medikament]
 title: Pharmakovigilanz
 ---
 ### Pharmakovigilanz

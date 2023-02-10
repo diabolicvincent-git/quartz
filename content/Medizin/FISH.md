@@ -1,6 +1,6 @@
 ---
 aliases: Fluoreszenz-in-situ-Hybridisierung
-tags: [m/m02, f/🧬, f/🧪]
+tags: [Modul/m02, Fach/Genetik, Fach/Biochemie]
 title: FISH
 ---
 (Abstract::[[Gendiagnostik]]: Spezifische Anfärbung von [[DNA]]-Sequenzen)

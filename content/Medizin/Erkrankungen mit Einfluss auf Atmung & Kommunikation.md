@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁]
+tags: [Modul/m13, Fach/Pneumologie]
 title: Erkrankungen mit Einfluss auf Atmung & Kommunikation
 ---
 ## relevante Erkrankungen mit Obstruktion der oberen Atemwege benennen und zuordnen

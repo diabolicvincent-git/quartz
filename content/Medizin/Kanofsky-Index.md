@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00]
+tags: [Modul/m00]
 title: Kanofsky-Index
 ---
 ### Kanofsky-Index

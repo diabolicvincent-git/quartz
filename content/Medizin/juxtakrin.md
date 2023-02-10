@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, f/🗞️, f/⚙️]
+tags: [Modul/m04, Fach/Endokrinologie, Fach/Physiologie]
 title: juxtakrin
 ---
 **Juxtakrin**:: In [[Zellmembran]] verankertes [[Hormon]] via [[Zellkontakte]] (z.B. [[Notch]])

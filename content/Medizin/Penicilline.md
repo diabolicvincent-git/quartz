@@ -1,5 +1,5 @@
 ---
-tags: [m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament/Übergruppe]
+tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva/Antibiotika, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Penicilline
 ---
 - **Wirkspektrum**:: Insb. ==[[grampositiv]]==, [[Streptokokken]], [[Neisserien]], Spirochäten

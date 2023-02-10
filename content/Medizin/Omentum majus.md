@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, m/m12]
+tags: [Modul/m26, Modul/m12]
 title: Omentum majus
 ---
 ### Omentum majus

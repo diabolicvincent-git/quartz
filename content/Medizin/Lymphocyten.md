@@ -1,6 +1,6 @@
 ---
 aliases: Lymphocyt
-tags: [m/m08, f/🩸, f/🩸, f/🔬/Zelle]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Lymphocyten
 ---
 ### Lymphocyten

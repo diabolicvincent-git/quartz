@@ -1,6 +1,6 @@
 ---
 aliases: Gürteldesmosom
-tags: [m/m04, m/m05, f/🔬, f/🔬/Zellkontakt]
+tags: [Modul/m04, Modul/m05, Fach/Histologie, Fach/Histologie/Zellkontakt]
 title: Zonula adherens
 ---
 ### Zonula Adhaerens / Gürteldesmosom

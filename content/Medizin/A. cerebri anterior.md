@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, f/💀, f/💀/Leitungsbahn/Arterie]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. cerebri anterior
 ---
 - **Ursprung**:: Aus [[A. carotis interna]]

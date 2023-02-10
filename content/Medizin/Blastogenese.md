@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🐣, f/💀]
+tags: [Modul/m05, Fach/Embryologie, Fach/Anatomie]
 title: Blastogenese
 ---
 > Woche 1 p.c. ([[SSW]] 3 p.m.)

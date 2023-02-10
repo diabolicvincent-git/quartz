@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m03, f/🧬, f/🧪]
+tags: [Modul/m03, Fach/Genetik, Fach/Biochemie]
 title: Barr-Körperchen
 ---
 > Inaktiviertes, als [[Heterochromatin]] verpacktes, zweites X-[[Chromosom]] in den Zellen eines weiblichen Organismus.

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/🦩, f/💊/Medikament]
+tags: [Modul/m21, Fach/Gynäkologie, Fach/Pharmakologie/Medikament]
 title: Kontrazeption
 ---
 ### Kontrazeption (nicht-hormonell)

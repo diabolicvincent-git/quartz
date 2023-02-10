@@ -1,6 +1,6 @@
 ---
 aliases: Vorsteherdrüse
-tags: [m/m22, m/m19, f/💀, f/🍆]
+tags: [Modul/m22, Modul/m19, Fach/Anatomie, Fach/Urologie]
 title: Prostata
 ---
 ### Prostata (♂)

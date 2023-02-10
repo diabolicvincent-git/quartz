@@ -1,6 +1,6 @@
 ---
 aliases: LSB
-tags: [m/m11, f/🫀, a/Pathologie]
+tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Linksschenkelblock
 ---
 ### Linksschenkelblock / LSB

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m17, m/m26, f/💊/Medikament]
+tags: [Modul/m17, Modul/m26, Fach/Pharmakologie/Medikament]
 title: Tacrolimus
 ---
 ### Tacrolimus

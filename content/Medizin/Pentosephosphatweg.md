@@ -1,6 +1,6 @@
 ---
 aliases: Hexosemonophosphatweg
-tags: [m/m03, f/🧪]
+tags: [Modul/m03, Fach/Biochemie]
 title: Pentosephosphatweg
 ---
 ### Pentosephosphatweg / Hexosemonophosphatweg

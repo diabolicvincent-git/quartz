@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, a/Pathologie]
+tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Wundinfektion
 ---
 ### Wundinfektion

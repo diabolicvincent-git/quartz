@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, a/Intervention]
+tags: [Modul/m11, Art/Intervention]
 title: RR
 ---
 **RR**:: Auskultatorische Messung des [[Blutdruck]] nach *Riva Rocci*

@@ -1,6 +1,6 @@
 ---
 aliases: Eizellreifung
-tags: [m/m22, f/🦩, f/🧪]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Biochemie]
 title: Oogenese
 ---
 ### Oogenese / Eizellreifung

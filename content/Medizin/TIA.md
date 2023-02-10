@@ -1,6 +1,6 @@
 ---
 alias: Transitorische ischämische Attacke
-tags: [a/Pathologie, f/🧠]
+tags: [Art/Pathologie, Fach/Neurologie]
 title: TIA
 ---
 > (Abstract::**Transitorische ischämische Attacke.** Fokale Ischämie → passageres [[Neurologisches Defizit]] *ohne* Infarkt)

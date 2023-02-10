@@ -1,6 +1,6 @@
 ---
 aliases: Periphere arterielle Verschlusskrankheit
-tags: [m/m27]
+tags: [Modul/m27]
 title: pAVK
 ---
 ### Periphere arterielle Verschlusskrankheit / pAVK

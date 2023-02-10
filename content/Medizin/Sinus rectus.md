@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, f/🧠, f/💀/Leitungsbahn/Vene]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus rectus
 ---
 Sinus|Zufluss|Abfluss|Charakteristika

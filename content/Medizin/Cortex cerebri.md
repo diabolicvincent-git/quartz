@@ -1,6 +1,6 @@
 ---
 aliases: Cortex, Großhirnrinde
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Cortex cerebri
 ---
 > #Wichtig Prinzip: Alles, was aus dem Cortex rausgeht ist exzitatorisch und [[Glutamat]]

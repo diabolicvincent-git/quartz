@@ -1,6 +1,6 @@
 ---
 aliases: Circle of Willis
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Circulus arteriosus cerebri
 ---
 ### Circulus arteriosus cerebri / Circle of Willis

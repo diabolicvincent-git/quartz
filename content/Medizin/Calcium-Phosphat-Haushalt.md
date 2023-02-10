@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m14, f/⚙️, f/🍺, f/🗞️]
+tags: [Modul/m05, Modul/m14, Fach/Physiologie, Fach/Nephrologie, Fach/Endokrinologie]
 title: Regulierende Hormon
 ---
 ![[Ca2+]]

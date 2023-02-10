@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, m/m14, f/⚙️, f/🍺, f/🫁]
+tags: [Modul/m13, Modul/m14, Fach/Physiologie, Fach/Nephrologie, Fach/Pneumologie]
 title: Puffer
 ---
 Ca. 99% der freien Protonen werden über Puffersysteme "abgefangen".

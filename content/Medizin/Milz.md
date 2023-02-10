@@ -1,6 +1,6 @@
 ---
 aliases: splen
-tags: [m/m08, f/💀, f/🩸]
+tags: [Modul/m08, Fach/Anatomie, Fach/Hämatologie]
 title: Milz
 ---
 ### Milz

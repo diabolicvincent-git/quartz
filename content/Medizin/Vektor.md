@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦠, f/🦠/Erreger]
+tags: [Modul/m19, Fach/Infektiologie, Fach/Infektiologie/Erreger]
 title: Vektor
 ---
 ### Vektor

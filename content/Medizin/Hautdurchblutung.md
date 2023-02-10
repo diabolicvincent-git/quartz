@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m09, f/🧴, f/⚙️]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Physiologie]
 title: SEM Knallrot oder kreidebleich
 ---
 # SEM Knallrot oder kreidebleich

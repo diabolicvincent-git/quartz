@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10, a/Pathologie]
+tags: [Modul/m10, Art/Pathologie]
 title: Schenkelhalsfraktur
 ---
 ### Schenkelhalsfraktur

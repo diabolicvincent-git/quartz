@@ -1,6 +1,6 @@
 ---
 aliases: ALS
-tags: [m/m15, f/🧠, a/Pathologie]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Pathogenese
 ---
 (Abstract::[[Neurodegenerative Erkrankungen]] des ==1. und 2. Motoneurons== (TDP-43 Aggregation))

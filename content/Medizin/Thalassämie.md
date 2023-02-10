@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, f/🩸, a/Pathologie]
+tags: [Modul/m02, Fach/Hämatologie, Art/Pathologie]
 title: Thalassämie
 ---
 ### Thalassämie 

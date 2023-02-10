@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m13, f/⚙️, f/🫁]
+tags: [Modul/m03, Modul/m13, Fach/Physiologie, Fach/Pneumologie]
 title: Diffusion
 ---
 ### Diffusion der Atemgase

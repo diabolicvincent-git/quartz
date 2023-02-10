@@ -1,6 +1,6 @@
 ---
 aliases: Spitzenumkehrtachykardie
-tags: [m/m11, m/m21, f/🫀, a/Pathologie]
+tags: [Modul/m11, Modul/m21, Fach/Kardiologie, Art/Pathologie]
 title: Torsade de Pointes
 ---
 ### Torsade de Pointes / Spitzenumkehrtachykardie

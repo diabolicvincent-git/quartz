@@ -1,6 +1,6 @@
 ---
 aliases: Radioaktive Strahlung
-tags: [m/m19, f/🕶️]
+tags: [Modul/m19, Fach/Radiologie]
 title: Radioaktivität
 ---
 - **Arten radioaktiver Zerfälle**

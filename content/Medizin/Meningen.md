@@ -4,7 +4,7 @@ aliases:
   - Hirnhaut
   - Rückenmarkshäute
   - Rückenmarkshaut
-tags: [m/m15]
+tags: [Modul/m15]
 title: Meningen
 ---
 ### Meningen / Hirnhäute

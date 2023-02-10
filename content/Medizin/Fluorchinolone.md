@@ -1,6 +1,6 @@
 ---
 aliases: Norfloxacin, Ciprofloxacin, Levofloxacin, Moxifloxacin
-tags: [m/m18, f/💊/Medikament, f/🦠/Antiinfektiva/Antibiotika]
+tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie/Antiinfektiva/Antibiotika]
 title: Fluorchinolone
 ---
 - **Wirkmechanismus**:: [[Störung der Nucleinsäuresynthese]] (Gyrase-Hemmer)

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mutationen
-tags: [m/m02, m/m19]
+tags: [Modul/m02, Modul/m19]
 title: Mutation
 ---
 ### Mutationen

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, f/🧬, f/🧪]
+tags: [Modul/m03, Fach/Genetik, Fach/Biochemie]
 title: Chromosomenanomalien
 ---
 ### Chromosomenanomalien

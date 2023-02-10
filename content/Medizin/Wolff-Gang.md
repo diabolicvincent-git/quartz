@@ -1,6 +1,6 @@
 ---
 aliases: Ductus mesonephricus, Wolff-Gänge
-tags: [m/m22, f/🐣, f/💀, f/🦩, f/🍆, f/💀/Organ]
+tags: [Modul/m22, Fach/Embryologie, Fach/Anatomie, Fach/Gynäkologie, Fach/Urologie, Fach/Anatomie/Organ]
 title: Wolff-Gang
 ---
 ### Wolff-Gang / Ductus mesonephricus

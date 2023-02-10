@@ -1,6 +1,6 @@
 ---
 aliases: Number Needed To Treat
-tags: [m/m07, f/📊]
+tags: [Modul/m07, Fach/Epidemiologie]
 title: NNT
 ---
 (Abstract::**Number needed to treat**, Kehrwert der [[ARR]])

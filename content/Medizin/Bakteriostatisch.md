@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m24, f/💊/Medikament, f/🦠]
+tags: [Modul/m24, Fach/Pharmakologie/Medikament, Fach/Infektiologie]
 title: Bakteriostatisch
 ---
 > Gegenteil von [[Bakterizid]]

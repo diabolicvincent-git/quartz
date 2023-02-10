@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, m/m14, f/🍺, f/🫁, f/⚙️]
+tags: [Modul/m13, Modul/m14, Fach/Nephrologie, Fach/Pneumologie, Fach/Physiologie]
 title: pH-Regulation in der Lunge
 ---
 

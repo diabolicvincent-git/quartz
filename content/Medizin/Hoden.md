@@ -1,6 +1,6 @@
 ---
 aliases: Testis
-tags: [m/m22, f/🍆, f/💀]
+tags: [Modul/m22, Fach/Urologie, Fach/Anatomie]
 title: Hoden
 ---
 ### Hoden / Testis

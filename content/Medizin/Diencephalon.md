@@ -1,6 +1,6 @@
 ---
 aliases: Zwischenhirn
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 kleiner: "[[Thalamus]], [[Subthalamus]], [[Hypothalamus]], [[Metathalamus]], [[Epithalamus]]"
 title: Diencephalon
 ---

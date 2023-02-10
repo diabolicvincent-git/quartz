@@ -1,6 +1,6 @@
 ---
 aliases: MTX
-tags: [m/m17]
+tags: [Modul/m17]
 title: Methotrexat
 ---
 ### Methotrexat / MTX 

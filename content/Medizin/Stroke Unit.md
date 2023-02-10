@@ -1,5 +1,5 @@
 ---
-tags: [a/Intervention, f/🧠]
+tags: [Art/Intervention, Fach/Neurologie]
 title: Stroke Unit
 ---
 > (Abstract::Strukturierte Versorgung in Frühphase nach [[Stroke]])

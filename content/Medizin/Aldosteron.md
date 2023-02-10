@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🗞️, f/🍺, f/🫀, f/🧪/Molekül/Hormon]
+tags: [Modul/m14, Fach/Endokrinologie, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül/Hormon]
 title: Aldosteron
 ---
 - **Synthese**:: [[Nebenniere]] ([[Zona glomerulosa]])

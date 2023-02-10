@@ -1,5 +1,5 @@
 ---
-tags: [f/🦴/Knochen, f/💀, f/👂]
+tags: [Fach/Orthopädie/Knochen, Fach/Anatomie, Fach/HNO]
 title: Viscerocranium
 ---
 > (Abstract::)

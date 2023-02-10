@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/🦀, a/Pathologie, f/💤]
+tags: [Modul/m20, Fach/Onkologie, Art/Pathologie, Fach/Anästhesie]
 title: Tumorschmerz
 ---
 ### Tumorschmerz

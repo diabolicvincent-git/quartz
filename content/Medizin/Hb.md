@@ -1,6 +1,6 @@
 ---
 aliases: Hämoglobin
-tags: [m/m02, m/m08, f/🩸]
+tags: [Modul/m02, Modul/m08, Fach/Hämatologie]
 title: Hb
 ---
 ### Hämoglobin / Hb

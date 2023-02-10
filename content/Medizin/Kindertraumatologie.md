@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, f/🦄, f/🦴]
+tags: [Modul/m27, Fach/Pädiatrie, Fach/Orthopädie]
 title: Kindertraumatologie
 ---
 ### Kindertraumatologie

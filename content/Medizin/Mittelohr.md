@@ -1,6 +1,6 @@
 ---
 aliases: Auris media
-tags: [m/m16, f/👂]
+tags: [Modul/m16, Fach/HNO]
 title: Mittelohr
 ---
 ### Mittelohr 

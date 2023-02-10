@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, a/Pathologie, f/🦀, a/Pathologie]
+tags: [Modul/m20, Art/Pathologie, Fach/Onkologie, Art/Pathologie]
 title: Tumor
 ---
 ### Tumor

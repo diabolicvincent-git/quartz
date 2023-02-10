@@ -1,5 +1,5 @@
 ---
-tags: [f/🦠/Antiinfektiva/Antimykotika]
+tags: [Fach/Infektiologie/Antiinfektiva/Antimykotika]
 title: Polyene
 ---
 - **Wirkmechanismus**:: Komplexbildung mit [[Ergosterol]] in [[Zellmembran]] → Membranporen

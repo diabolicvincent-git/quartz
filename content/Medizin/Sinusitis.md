@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👂, a/Pathologie]
+tags: [Modul/m16, Fach/HNO, Art/Pathologie]
 title: Sinusitis
 ---
 ### Sinusitis

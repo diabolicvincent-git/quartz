@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m17, f/🧪, f/⚰️]
+tags: [Modul/m03, Modul/m17, Fach/Biochemie, Fach/Rechtsmedizin]
 title: Zellschädigung
 ---
 ### Zellschädigung 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m20, f/💭/Antidepressiva, f/💊/Medikament/PIM]
+tags: [Modul/m20, Fach/Psychiatrie/Antidepressiva, Fach/Pharmakologie/Medikament/PIM]
 title: Tricyclische Antidepressiva
 ---
 **Gruppe**:: [[Antidepressiva]]

@@ -1,6 +1,6 @@
 ---
 aliases: Lumbalpunktion
-tags: [m/m15]
+tags: [Modul/m15]
 title: Liquorpunktion
 ---
 ### Liquorpunktion / Lumbalpunktion

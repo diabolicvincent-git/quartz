@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11]
+tags: [Modul/m11]
 title: Erregungsbildungs- und Erregungsleitungssystem
 ---
 ### Erregungsbildungs- und Erregungsleitungssystem 

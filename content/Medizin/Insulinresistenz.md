@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🗞️, f/⚙️]
+tags: [Modul/m17, Fach/Endokrinologie, Fach/Physiologie]
 title: Insulinresistenz
 ---
 ### Insulinresistenz

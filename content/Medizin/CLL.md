@@ -1,5 +1,5 @@
 ---
 aliases: Chronische lymphatische Leukämie
-tags: [m/m19, f/🦀, f/🩸]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: CLL
 ---

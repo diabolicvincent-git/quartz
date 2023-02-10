@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💊/Medikament, f/💤]
+tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Coxibe
 ---
 (Abstract::[[NSAR]], ==selektive [[COX]]-2-Hemmer==)

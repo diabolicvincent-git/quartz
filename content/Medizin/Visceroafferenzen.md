@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, f/🧠/Faserqualität, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie/Faserqualität, Fach/Physiologie]
 title: Visceroafferenzen
 ---
 > (Abstract::**[[Afferenzen]].**)

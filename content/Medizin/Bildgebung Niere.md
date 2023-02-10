@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, ToDo, f/🍺, f/🕶️, a/Intervention]
+tags: [Modul/m14, ToDo, Fach/Nephrologie, Fach/Radiologie, Art/Intervention]
 title: Bildgebung Niere
 ---
 [[Röntgen]]

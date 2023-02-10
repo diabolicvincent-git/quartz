@@ -1,6 +1,6 @@
 ---
 aliases: Mandeln
-tags: [f/💀/Organ, f/💀, f/👂]
+tags: [Fach/Anatomie/Organ, Fach/Anatomie, Fach/HNO]
 title: Tonsillen
 ---
 > (Abstract::**[[MALT]] in [[Oropharynx]]/[[Nasopharynx]].**)

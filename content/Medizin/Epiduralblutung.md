@@ -1,6 +1,6 @@
 ---
 aliases: Epidurales Hämatom, Epiduralhämatom, EDH
-tags: [m/m15, f/🧠, a/Pathologie]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Epiduralblutung
 ---
 > *Arterielle [[Blutung]]* im [[Epiduralraum]]

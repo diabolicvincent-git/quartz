@@ -1,5 +1,5 @@
 ---
-tags: [f/🧠/Faserqualität/Afferenzen/Somato]
+tags: [Fach/Neurologie/Faserqualität/Afferenzen/Somato]
 title: Allgemeine Somatoafferenzen
 ---
 > (Abstract::Leiten Informationen aus der Haut und der quergestreiften Muskulatur)

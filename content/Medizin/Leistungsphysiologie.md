@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/⚙️]
+tags: [Modul/m10, Fach/Physiologie]
 title: Ausdauer
 ---
 
@@ -268,4 +268,4 @@ title: Ausdauer
 
     **hinreichender Konsens, doch noch geringe Anzahl von [[Studien]],weitere Untersuchungen sind notwendig
 
-#m/m10
+#Modul/m10

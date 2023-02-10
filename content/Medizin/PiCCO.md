@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/💤, f/🫀, a/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Fach/Kardiologie, Art/Intervention]
 title: PiCCO
 ---
 ### Pulse Contour Cardiac Output / PiCCO

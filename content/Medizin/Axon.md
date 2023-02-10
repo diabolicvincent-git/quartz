@@ -1,6 +1,6 @@
 ---
 aliases: Nervenfaser, Axone, Nervenfasern
-tags: [m/m05, f/🧠, f/💀]
+tags: [Modul/m05, Fach/Neurologie, Fach/Anatomie]
 title: Axon
 ---
 > Nervenfaser = [[Axon]] eines [[Neuron]] + [[Gliazellen]]

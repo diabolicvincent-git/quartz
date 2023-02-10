@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m06, f/🦠, f/📊]
+tags: [Modul/m06, Fach/Infektiologie, Fach/Epidemiologie]
 title: STIKO
 ---
 ### Ständige Imfpkommission

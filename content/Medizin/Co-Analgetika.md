@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💊/Medikament, f/💊/Medikament]
+tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
 title: Co-Analgetika
 ---
 ### Co-[[Analgetika]]

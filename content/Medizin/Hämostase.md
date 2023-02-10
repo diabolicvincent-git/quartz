@@ -1,6 +1,6 @@
 ---
 aliases: Blutstillung, Blutgerinnung, Gerinnung
-tags: [m/m08, f/🩸, f/⚙️]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Hämostase
 ---
 ### Hämostase / Blutstillung und Blutgerinnung 

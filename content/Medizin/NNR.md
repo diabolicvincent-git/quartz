@@ -1,6 +1,6 @@
 ---
 aliases: Nebennierenrinde
-tags: [m/m14, m/m22, f/💀, f/🗞️]
+tags: [Modul/m14, Modul/m22, Fach/Anatomie, Fach/Endokrinologie]
 title: NNR
 ---
 ### Nebennierenrinde / NNR

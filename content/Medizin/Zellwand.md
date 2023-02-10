@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m18, m/m24, f/🦠, f/🧪, f/🧪/Zellorganell]
+tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Biochemie, Fach/Biochemie/Zellorganell]
 title: Zellwand
 ---
 ### Bakterielle Zellwand

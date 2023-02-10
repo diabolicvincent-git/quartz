@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m19, f/🦀, f/🩸, a/Pathologie, f/⛑️]
+tags: [Modul/m09, Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie, Fach/Notfallmedizin]
 title: Agranulocytose
 ---
 (Abstract::**Schwere [[Neutropenie]]** mit [[Granulocyten]]-Zahl <500 [[Zellen]]/μl)

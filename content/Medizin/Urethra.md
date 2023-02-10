@@ -1,6 +1,6 @@
 ---
 aliases: Harnröhre
-tags: [m/m22, f/🍆, f/💀, f/💀/Organ]
+tags: [Modul/m22, Fach/Urologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Urethra
 ---
 ### Urethra / Harnröhre

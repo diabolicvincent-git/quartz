@@ -6,7 +6,7 @@ aliases:
   - Pressosensor
   - Pressosensoren
   - Pressosensorenreflex
-tags: [m/m11]
+tags: [Modul/m11]
 title: Pressorezeptoren
 ---
 - **Vorkommen**:: Proximale [[Aorta]], Carotissinus ([[Hochdrucksystem]])

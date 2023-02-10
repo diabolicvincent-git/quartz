@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👁️, f/⚙️, f/🔬/Zelle]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Physiologie, Fach/Histologie/Zelle]
 title: Zapfen
 ---
 ### Zapfen

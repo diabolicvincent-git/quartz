@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, m/m23, f/💤]
+tags: [Modul/m20, Modul/m23, Fach/Anästhesie]
 title: Patientenverfügung
 ---
 ### Patientenverfügung

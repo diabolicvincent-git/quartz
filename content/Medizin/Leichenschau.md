@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, m/m21, f/⚰️, a/Intervention]
+tags: [Modul/m13, Modul/m21, Fach/Rechtsmedizin, Art/Intervention]
 title: Leichenschau
 ---
 ### Äußere Leichenschau

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🍺, f/🥼]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Laboratoriumsmedizin]
 title: Nierenparameter
 ---
 ![[GFR]]

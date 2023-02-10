@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, f/🧪, f/⚙️/Stoffwechsel]
+tags: [Modul/m03, Fach/Biochemie, Fach/Physiologie/Stoffwechsel]
 title: Zellatmung
 ---
 ![[Untitled 115.png]]

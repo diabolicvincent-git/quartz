@@ -1,6 +1,6 @@
 ---
 aliases: Neurotransmitter
-tags: [m/m15, m/m20, f/🧪, f/⚙️, f/🧠, f/🧪/Molekül/Transmitter]
+tags: [Modul/m15, Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Neurologie, Fach/Biochemie/Molekül/Transmitter]
 title: Transmitter
 ---
 ### Neurotransmitter 

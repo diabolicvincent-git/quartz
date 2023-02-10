@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/💭]
+tags: [Art/Pathologie, Fach/Psychiatrie]
 title: Artifizielle Störung
 ---
 > (Abstract::**Bewusstes Erzeugen/Vortäuschen von Symptomen.** [[Münchhausen-Syndrom]] und [[Münchhausen-by-proxy-Syndrom]].)

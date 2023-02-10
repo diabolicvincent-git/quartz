@@ -1,6 +1,6 @@
 ---
 aliases: NT-proBNP, NT-pro BNP
-tags: [m/m11, f/🍺, f/🫀, f/🧪/Molekül, f/🥼]
+tags: [Modul/m11, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Laboratoriumsmedizin]
 title: BNP
 ---
 ### BNP / NT-proBNP / Brain [[Natriuretisches Peptid]]

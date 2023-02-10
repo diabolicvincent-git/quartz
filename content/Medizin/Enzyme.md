@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, f/🧪, ToDo]
+tags: [Modul/m02, Fach/Biochemie, ToDo]
 title: Enzyme
 ---
 ### Enzyme

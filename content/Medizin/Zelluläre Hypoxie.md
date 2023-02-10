@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, m/m03, f/🧪]
+tags: [Modul/m13, Modul/m03, Fach/Biochemie]
 title: Veränderungen bei Hypoxie
 ---
 ## Sauerstoffverwertung

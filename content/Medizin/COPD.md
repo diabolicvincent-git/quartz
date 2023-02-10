@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, a/Pathologie]
+tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: COPD
 ---
 > (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Bronchitis]] + [[Lungenemphysem]].)

@@ -1,6 +1,6 @@
 ---
 aliases: National Early Warning Score
-tags: [m/m00, f/💤, a/Intervention]
+tags: [Modul/m00, Fach/Anästhesie, Art/Intervention]
 title: NEWS
 ---
 ### National Early Warning Score / NEWS2

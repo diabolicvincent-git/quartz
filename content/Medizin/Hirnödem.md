@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🧠]
+tags: [Art/Pathologie, Fach/Neurologie]
 title: Hirnödem
 ---
 > (Abstract::Cerebrale Flüssigkeitseinlagerung)

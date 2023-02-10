@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🧠]
+tags: [Art/Pathologie, Fach/Neurologie]
 title: Polyneuropathie
 ---
 > (Abstract::**Systemisch bedingte Schädigung [[PNS]].**)

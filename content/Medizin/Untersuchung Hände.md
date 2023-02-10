@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, m/m17, f/🧴, f/💉, a/Intervention]
+tags: [Modul/m00, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Intervention]
 title: Untersuchung Hände
 ---
 ### [[Untersuchung]] Hände

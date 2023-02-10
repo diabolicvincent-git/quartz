@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠/Erreger/Bakterien, f/🦠]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Fach/Infektiologie]
 title: MRGN
 ---
 ### Multiresistente gramnegative Stäbchen / MRGN

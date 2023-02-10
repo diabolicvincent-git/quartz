@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦀, f/👂]
+tags: [Art/Pathologie, Fach/Onkologie, Fach/HNO]
 title: Kopf-Hals-Tumoren
 ---
 > (Abstract::v.a. [[Plattenepithel-Ca]] abgesehen von [[Speicheldrüsentumoren]])

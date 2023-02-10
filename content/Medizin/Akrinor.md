@@ -1,5 +1,5 @@
 ---
-tags: [f/💊/Medikament/Wirkstoff/P-Drug, f/💤]
+tags: [Fach/Pharmakologie/Medikament/Wirkstoff/P-Drug, Fach/Anästhesie]
 title: Akrinor
 ---
 > (Abstract::**1 Ampulle (2ml) = 10mg Theodrenalin + 200mg Cafedrin.**) 

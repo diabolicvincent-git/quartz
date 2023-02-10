@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, a/Intervention]
+tags: [Modul/m20, Art/Intervention]
 title: Red Flags
 ---
 ### Red Flags

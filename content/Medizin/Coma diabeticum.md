@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m17, f/🗞️, f/🧠, a/Pathologie]
+tags: [Modul/m17, Fach/Endokrinologie, Fach/Neurologie, Art/Pathologie]
 title: Coma diabeticum
 ---
 ### Coma diabeticum

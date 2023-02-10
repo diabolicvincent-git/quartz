@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m05, m/m14, f/🍺, f/⚙️]
+tags: [Modul/m04, Modul/m05, Modul/m14, Fach/Nephrologie, Fach/Physiologie]
 title: Claudin
 ---
 ### Claudin

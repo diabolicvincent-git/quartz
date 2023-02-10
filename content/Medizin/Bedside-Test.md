@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/🩸/Transfusion, a/Intervention]
+tags: [Modul/m08, Fach/Hämatologie/Transfusion, Art/Intervention]
 title: Bedside-Test
 ---
 > Prüfung von [[AB0]]-Verträglichkeit unmittelbar vor [[Transfusion]]

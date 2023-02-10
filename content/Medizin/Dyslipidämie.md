@@ -2,7 +2,7 @@
 aliases:
   - Hyperlipidämie
   - Hypercholesterinämie
-tags: [m/m11, m/m12, f/🫀, a/Pathologie]
+tags: [Modul/m11, Modul/m12, Fach/Kardiologie, Art/Pathologie]
 title: Dyslipidämie
 ---
 ### Dyslipidämie

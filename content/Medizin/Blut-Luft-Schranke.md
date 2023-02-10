@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, f/🔬, f/⚙️]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Histologie, Fach/Physiologie]
 title: Blut-Luft-Schranke
 ---
 ### Blut-Luft-Schranke

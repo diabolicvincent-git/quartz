@@ -1,6 +1,6 @@
 ---
 aliases: Tarsus, Fußwurzelknochen
-tags: [m/m27, f/💀, f/🦴]
+tags: [Modul/m27, Fach/Anatomie, Fach/Orthopädie]
 title: Fußwurzel
 ---
 ### Fußwurzel / Tarsus

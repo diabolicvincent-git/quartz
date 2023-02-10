@@ -1,6 +1,6 @@
 ---
 aliases: Lungenfell
-tags: [m/m13]
+tags: [Modul/m13]
 title: Pleura
 ---
 ### Pleura / Lungenfell

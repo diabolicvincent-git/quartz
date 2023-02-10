@@ -1,6 +1,6 @@
 ---
 aliases: Cytochrom-P450-System
-tags: [m/m12, f/💩, f/🧪, f/💊/Medikament]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Biochemie, Fach/Pharmakologie/Medikament]
 title: CYP
 ---
 > (Abstract::**Cytochrom-P450-System.** [[Häm]]-[[Enzyme]] zur [[Biotransformation]].)

@@ -1,6 +1,6 @@
 ---
 aliases: Angiotensinogen
-tags: [m/m14, f/🍺, f/🫀, f/🧪, f/⚙️, f/🧪/Molekül/Hormon]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül/Hormon]
 title: Angiotensin
 ---
 - **Synthese**:: [[Leber]], Fettgewebe (*Angiotensinogen*)

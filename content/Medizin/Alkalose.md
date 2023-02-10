@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🍺, f/🫁, a/Pathologie]
+tags: [Modul/m13, Fach/Nephrologie, Fach/Pneumologie, Art/Pathologie]
 title: Alkalose
 ---
 - [[Respiratorische Alkalose]]

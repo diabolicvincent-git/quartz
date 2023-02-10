@@ -1,6 +1,6 @@
 ---
 aliases: Bronchoalveoläre Lavage
-tags: [m/m13, m/m18, f/🫁, f/💤, a/Intervention]
+tags: [Modul/m13, Modul/m18, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
 title: BAL
 ---
 > (Abstract::**Bronchoalveoläre Lavage.**)

@@ -1,6 +1,6 @@
 ---
 aliases: Digitale Subtraktionsangiographie
-tags: [m/m15, a/Intervention, f/🕶️]
+tags: [Modul/m15, Art/Intervention, Fach/Radiologie]
 title: DSA
 ---
 ### Digitale Subtraktions[[Angiographie]] / DSA

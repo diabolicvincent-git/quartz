@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, a/Pathologie, f/🦴]
+tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Frakturzeichen
 ---
 ### Frakturzeichen

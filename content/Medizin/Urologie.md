@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🍆]
+tags: [Fach/Urologie]
 title: Urologie
 ---
 - [[Urologische Tumoren]]

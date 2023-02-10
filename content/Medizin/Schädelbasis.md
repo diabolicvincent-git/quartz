@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15]
+tags: [Modul/m15]
 title: Innere Schädelbasis
 ---
 ### Schädelbasis 

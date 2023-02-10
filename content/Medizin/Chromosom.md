@@ -1,6 +1,6 @@
 ---
 aliases: Chromosomen
-tags: [m/m02, f/🧬, f/🧪]
+tags: [Modul/m02, Fach/Genetik, Fach/Biochemie]
 title: Chromosom
 ---
 ### Chromosom

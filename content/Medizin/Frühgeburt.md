@@ -1,5 +1,5 @@
 ---
-tags: [f/🦩, f/🦄, a/Pathologie]
+tags: [Fach/Gynäkologie, Fach/Pädiatrie, Art/Pathologie]
 title: Frühgeburt
 ---
 > (Abstract::**<37. [[SSW]].**)

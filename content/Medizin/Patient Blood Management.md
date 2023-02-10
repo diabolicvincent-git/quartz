@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, ToDo, f/🩸, f/💤]
+tags: [Modul/m21, ToDo, Fach/Hämatologie, Fach/Anästhesie]
 title: Patient Blood Management
 ---
 ### Patient Blood Management

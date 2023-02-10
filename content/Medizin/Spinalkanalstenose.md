@@ -1,6 +1,6 @@
 ---
 aliases: SKS
-tags: [m/m27]
+tags: [Modul/m27]
 title: Spinalkanalstenose
 ---
 ### Spinalkanalstenose / SKS

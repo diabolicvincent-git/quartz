@@ -1,6 +1,6 @@
 ---
 aliases: Jahres-Überlebensrate
-tags: [m/m07, m/m06]
+tags: [Modul/m07, Modul/m06]
 title: JÜR
 ---
 ### Jahres-Überlebensrate / JÜR

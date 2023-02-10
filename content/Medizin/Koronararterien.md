@@ -1,6 +1,6 @@
 ---
 aliases: Koronarien
-tags: [m/m11]
+tags: [Modul/m11]
 title: Koronararterien
 ---
 ### Koronarien / Koronararterien

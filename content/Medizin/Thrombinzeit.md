@@ -1,6 +1,6 @@
 ---
 aliases: PTZ, TZ
-tags: [m/m08, f/🩸, f/🥼, a/Intervention]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Thrombinzeit
 ---
 ### (Plasma-)Thrombinzeit / PTZ / TZ 

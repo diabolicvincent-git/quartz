@@ -1,6 +1,6 @@
 ---
 aliases: Pacchioni-Granulationen
-tags: [m/m15, f/🧠]
+tags: [Modul/m15, Fach/Neurologie]
 title: Granulationes arachnoidales
 ---
 ### Granulationes arachnoidales / Pacchioni-Granulationen

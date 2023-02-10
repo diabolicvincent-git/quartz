@@ -1,6 +1,6 @@
 ---
 aliases: Cordarex
-tags: [m/m11, f/🫀, f/💊/Medikament/Wirkstoff]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Pharmakologie/Medikament/Wirkstoff]
 title: aMIOdaron
 ---
 > (Abstract::Klasse-III-[[Antiarrhythmika]])

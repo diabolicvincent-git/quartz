@@ -1,6 +1,6 @@
 ---
 aliases: Ovarien, Eierstock, Eierstöcke
-tags: [m/m22, f/🦩, f/💀]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie]
 title: Ovar
 ---
 ### Ovar / Eierstock ([[♀]])

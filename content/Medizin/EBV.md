@@ -1,6 +1,6 @@
 ---
 aliases: Epstein-Barr-Virus
-tags: [m/m19, f/🦠, f/🦠/Erreger/Viren]
+tags: [Modul/m19, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
 title: EBV
 ---
 ### Epstein-Barr-Virus / EBV

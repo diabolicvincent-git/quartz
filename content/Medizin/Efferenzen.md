@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, f/🧠, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Efferenzen
 ---
 > **[[Nervenfaserqualitäten]]**:: Informationen aus [[ZNS]] → Peripherie

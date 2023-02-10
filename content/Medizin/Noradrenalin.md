@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/💤]
+tags: [Modul/m15, Fach/Anästhesie]
 title: Noradrenalin
 ---
 ### Norardenalin 

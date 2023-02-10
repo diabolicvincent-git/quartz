@@ -1,6 +1,6 @@
 ---
 aliases: Kruste
-tags: [m/m09, f/🧴, a/Pathologie]
+tags: [Modul/m09, Fach/Dermatologie, Art/Pathologie]
 title: Crusta
 ---
 **Crusta / Kruste**:: Eingetrocknetes Sekret, Serum, [[Blut]], Eiter

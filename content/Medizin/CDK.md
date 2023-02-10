@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🧪, f/🧬, f/🧪/Molekül]
+tags: [Modul/m05, Fach/Biochemie, Fach/Genetik, Fach/Biochemie/Molekül]
 title: CDK
 ---
 ### Cyclin-abhängige Kinasen / CDK

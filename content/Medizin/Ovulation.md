@@ -1,6 +1,6 @@
 ---
 aliases: Eisprung
-tags: [m/m22, f/🦩, f/⚙️]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Physiologie]
 title: Ovulation
 ---
 ### Ovulation / Eisprung

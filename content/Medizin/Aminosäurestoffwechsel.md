@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/🧪, f/⚙️, ToDo]
+tags: [Modul/m12, Fach/Biochemie, Fach/Physiologie, ToDo]
 title: Aminosäurestoffwechsel
 ---
 

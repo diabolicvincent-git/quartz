@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🦩, f/🍆, a/Pathologie]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie]
 title: Dyspareunie
 ---
 > Schmerzen beim Geschlechtsverkehr

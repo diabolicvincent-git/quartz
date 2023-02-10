@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, a/Pathologie, f/🧠, f/🦠, a/Pathologie]
+tags: [Modul/m18, Art/Pathologie, Fach/Neurologie, Fach/Infektiologie, Art/Pathologie]
 title: Meningitis
 ---
 ### Meningitis

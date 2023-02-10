@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🧠]
+tags: [Fach/Neurologie]
 title: Corpus geniculatum laterale
 ---
 

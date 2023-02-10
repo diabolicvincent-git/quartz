@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/💤, a/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: ZVK
 ---
 > (Abstract::**Zentraler Venenkatheter.** Bis kurz vor [[Rechter Vorhof]] in [[V. cava]] superior/inferior.)

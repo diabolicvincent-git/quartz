@@ -1,6 +1,6 @@
 ---
 aliases: AP
-tags: [m/m12, f/💩, f/🥼, a/Intervention, f/🧪/Molekül/Enzym]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Laboratoriumsmedizin, Art/Intervention, Fach/Biochemie/Molekül/Enzym]
 title: Alkalische Phosphatase
 ---
 > **[[Leberwerte]]**

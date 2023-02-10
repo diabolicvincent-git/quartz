@@ -1,6 +1,6 @@
 ---
 aliases: Metformin
-tags: [m/m17, f/💊/Medikament/Übergruppe, f/🗞️]
+tags: [Modul/m17, Fach/Pharmakologie/Medikament/Übergruppe, Fach/Endokrinologie]
 title: Antidiabetika
 ---
 - **Wirkprinzipien**

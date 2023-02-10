@@ -1,6 +1,6 @@
 ---
 aliases: Cremaster, Hodenhebermuskel, Hodenheber
-tags: [m/m22, f/💀, f/🍆]
+tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: M. cremaster
 ---
 ### M. cremaster / Hodenhebermuskel

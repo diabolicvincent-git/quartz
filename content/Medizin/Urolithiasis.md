@@ -1,6 +1,6 @@
 ---
 aliases: Harnsteine
-tags: [m/m26, a/Pathologie, f/🍆]
+tags: [Modul/m26, Art/Pathologie, Fach/Urologie]
 title: Urolithiasis
 ---
 ### Urolithiasis / Harnsteine

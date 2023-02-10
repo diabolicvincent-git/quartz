@@ -1,5 +1,5 @@
 ---
-tags: [m/m12]
+tags: [Modul/m12]
 title: Divertikulitis
 ---
 > (Abstract::**Akute [[Entzündung]] von [[Divertikulose]].**)

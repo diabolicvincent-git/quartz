@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, m/m14, f/🍺]
+tags: [Modul/m26, Modul/m14, Fach/Nephrologie]
 title: Renale Osteopathie
 ---
 ### Renale Osteopathie

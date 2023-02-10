@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/⚙️, f/💩]
+tags: [Modul/m12, Fach/Physiologie, Fach/Gastroenterologie]
 title: Enterohepatischer Kreislauf
 ---
 ### Enterohepatischer Kreislauf

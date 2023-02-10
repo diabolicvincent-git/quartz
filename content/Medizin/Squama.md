@@ -1,6 +1,6 @@
 ---
 aliases: Schuppen, Schuppe
-tags: [m/m09, f/🧴, a/Pathologie]
+tags: [Modul/m09, Fach/Dermatologie, Art/Pathologie]
 title: Squama
 ---
 **Squama / Schuppe**:: Hornschichtlamelle in Ablösung

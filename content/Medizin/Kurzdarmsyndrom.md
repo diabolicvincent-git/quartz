@@ -1,6 +1,6 @@
 ---
 aliases: Darmversagen
-tags: [m/m26, f/💩]
+tags: [Modul/m26, Fach/Gastroenterologie]
 title: Kurzdarmsyndrom
 ---
 ### Kurzdarmsyndrom / Darmversagen

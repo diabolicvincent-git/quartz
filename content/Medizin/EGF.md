@@ -1,6 +1,6 @@
 ---
 aliases: Epidermal Growth Factor
-tags: [m/m19, f/🧪, f/🦀]
+tags: [Modul/m19, Fach/Biochemie, Fach/Onkologie]
 title: EGF
 ---
 ### Epidermal Growth Factor / EGF 

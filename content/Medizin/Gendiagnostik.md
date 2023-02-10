@@ -1,6 +1,6 @@
 ---
 aliases: Genetische Diagnostik
-tags: [m/m02, m/m17, f/🧬, a/Intervention]
+tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Intervention]
 title: Praktikum
 ---
 ### Gendiagnostik / Genetische Diagnostik 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m11, a/Intervention, a/Intervention, f/🫀]
+tags: [Modul/m11, Art/Intervention, Art/Intervention, Fach/Kardiologie]
 title: CHA2DS2VASc
 ---
 > (Abstract::Thromboembolie-[[Risiko]] bei [[VHF]])

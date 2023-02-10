@@ -1,6 +1,6 @@
 ---
 aliases: M. Little
-tags: [m/m30, f/🦄, f/🧠, a/Pathologie]
+tags: [Modul/m30, Fach/Pädiatrie, Fach/Neurologie, Art/Pathologie]
 title: Infantile Cerebralparese
 ---
 > (Abstract::**Frühkindliche erworbene Störung 1. Motoneuron, Spastik.**)

@@ -51,4 +51,4 @@ Aufnahme von Schadstoffen mit dem Tabakrauch → Verminderte [[NO]]-Freisetzung 
 - **Plaquebildung**:: Fibrinogen↑ und [[Fibrinolyse]]↓ → Mangel an cGMP führt zu einer vermehrten Thrombocytenaggregation → Prokoagulatorischer Effekt
 - **[[CO]]-Effekt**:: Erhöhte Blutkonzentration von [[CO]] bei Rauchern → Förderung einer [[Vasokonstriktion]]
 
-#m/m13
+#Modul/m13

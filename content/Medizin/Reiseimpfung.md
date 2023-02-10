@@ -1,5 +1,5 @@
 ---
-tags: [f/🦠]
+tags: [Fach/Infektiologie]
 title: Reiseimpfung
 ---
 ```dataview

@@ -1,10 +1,9 @@
 ---
 aliases: null
-tags: [m/m15, m/m21, f/🧠, f/⚙️, a/Pathologie]
+tags: [Modul/m15, Modul/m21, Fach/Neurologie, Fach/Physiologie, Art/Pathologie]
 title: Babinski
 ---
-### Babinski-[[Reflex]]
-> **Pathologischer Primitivreflex**:: Auslösbar bei Wegfall der zentralen Hemmung (*==[[Pyramidenbahnzeichen]]==*)
+> (Abstract::**Pathologischer Primitivreflex.** Auslösbar bei Wegfall der zentralen Hemmung (*==[[Pyramidenbahnzeichen]]==*))
 - **Durchführung**:: Kräftiges Bestreichen des Fußsohlen-Außenrands mit Reflexhammer-Spitze
 - **Normalbefund**
 	- **Neugeborene**:: Physiologisch auslösbar

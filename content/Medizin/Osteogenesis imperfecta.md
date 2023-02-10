@@ -1,7 +1,7 @@
 ---
 aliases:
   - Glasknochenkrankheit
-tags: [m/m05]
+tags: [Modul/m05]
 title: Osteogenesis imperfecta
 ---
 ### Osteogenesis imperfecta / Glasknochenkrankheit

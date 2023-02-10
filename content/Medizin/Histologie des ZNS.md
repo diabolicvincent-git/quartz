@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [ToDo, f/🧠, f/🔬]
+tags: [ToDo, Fach/Neurologie, Fach/Histologie]
 title: Histologie des ZNS
 ---
 
@@ -39,4 +39,4 @@ title: Histologie des ZNS
 
 ## die mikroskopische Struktur und die zellulären Elemente (Purkinjezellen, Körnerzellen) der Kleinhirnrinde und deren Verschaltung beschreiben und anhand von histologischen Präparaten oder Abbildungen erläutern
 
-#m/m15
+#Modul/m15

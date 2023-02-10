@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m19, f/🧪/Molekül/Enzym]
+tags: [Modul/m03, Modul/m19, Fach/Biochemie/Molekül/Enzym]
 title: Telomerase
 ---
 ### Telomerase

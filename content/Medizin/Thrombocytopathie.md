@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, m/m08, f/🩸]
+tags: [Modul/m17, Modul/m08, Fach/Hämatologie]
 title: Thrombocytopathie
 ---
 

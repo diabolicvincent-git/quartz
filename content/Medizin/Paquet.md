@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, a/Intervention]
+tags: [Modul/m26, Art/Intervention]
 title: Paquet
 ---
 ### Paquet-Klassifikation

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m16, f/👂, a/Intervention]
+tags: [Modul/m16, Fach/HNO, Art/Intervention]
 title: Audiometrie
 ---
 - **Subjektive Verfahren**

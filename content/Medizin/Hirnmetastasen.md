@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🧠, f/🦀, m/m30]
+tags: [Art/Pathologie, Fach/Neurologie, Fach/Onkologie, Modul/m30]
 title: Hirnmetastasen
 ---
 - **Ätiologie**:: [[Lungen-Ca]] > [[Mamma-Ca]] > [[Melanom]]

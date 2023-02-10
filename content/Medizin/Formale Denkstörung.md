@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, m/m31, f/💭]
+tags: [Art/Pathologie, Modul/m31, Fach/Psychiatrie]
 title: Formale Denkstörung
 ---
 > (Abstract::**Störung des Denkablaufs.**)

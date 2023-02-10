@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20]
+tags: [Modul/m20]
 title: Psychosomatik
 ---
 ### Psychosomatik

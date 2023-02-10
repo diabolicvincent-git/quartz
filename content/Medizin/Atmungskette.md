@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m03, f/🧪]
+tags: [Modul/m03, Fach/Biochemie]
 title: Atmungskette
 ---
 - **Ziel**:: Elektronenübertragungen → elektrochemischer Gradient → [[Oxidative Phosphorylierung]] (ATP-Synthese)

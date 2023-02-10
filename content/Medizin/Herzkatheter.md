@@ -1,6 +1,6 @@
 ---
 aliases: Koronarangiographie
-tags: [m/m25, a/Intervention, a/Intervention]
+tags: [Modul/m25, Art/Intervention, Art/Intervention]
 title: Herzkatheter
 ---
 ### Herzkatheter / Koronarangiographie

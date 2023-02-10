@@ -1,6 +1,6 @@
 ---
 aliases: Gebärmutter
-tags: [m/m05, m/m22, f/🦩, f/💀, f/💀/Organ]
+tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Uterus
 ---
 ### Uterus / Gebärmutter

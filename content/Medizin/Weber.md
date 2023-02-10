@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👂, a/Intervention]
+tags: [Modul/m16, Fach/HNO, Art/Intervention]
 title: Weber
 ---
 ### Weber

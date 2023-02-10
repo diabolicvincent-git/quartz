@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m22, f/🗞️, f/⚙️, f/🧪, f/🧪/Molekül]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Wachstumsfaktoren
 ---
 ### Wachstumsfaktoren

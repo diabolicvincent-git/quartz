@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17, f/🧪, f/💉, f/🧪/Molekül]
+tags: [Modul/m08, Modul/m17, Fach/Biochemie, Fach/Rheumatologie, Fach/Biochemie/Molekül]
 title: Chemokine
 ---
 ### Chemokine

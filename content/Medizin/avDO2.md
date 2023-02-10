@@ -1,7 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/⚙️]
+tags: [Modul/m21, Fach/Physiologie]
 title: avDO2
 ---
-### Arteriovenöse [[O2]]-Differenz
-> [[avDO2]] 
+> (Abstract::**Arteriovenöse [[O2]]-Differenz.**)

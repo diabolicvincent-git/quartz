@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💩, f/🦠, a/Pathologie]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie]
 title: Hepatitis E
 ---
 ### Hepatitis E

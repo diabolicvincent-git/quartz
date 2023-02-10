@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💩, f/🐣, a/Pathologie, m/m26]
+tags: [Fach/Gastroenterologie, Fach/Embryologie, Art/Pathologie, Modul/m26]
 title: Volvulus
 ---
 ### Volvulus

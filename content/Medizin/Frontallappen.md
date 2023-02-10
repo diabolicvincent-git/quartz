@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/💀, f/🧠]
+tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Frontallappen
 ---
 - **Funktion**:: Höhere kognitive Prozesse, Bewegungsplanung

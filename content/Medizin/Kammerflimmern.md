@@ -1,6 +1,6 @@
 ---
 aliases: VF
-tags: [m/m11, m/m21, f/🫀, f/💤]
+tags: [Modul/m11, Modul/m21, Fach/Kardiologie, Fach/Anästhesie]
 title: Kammerflimmern
 ---
 ### Kammerflimmern / VF

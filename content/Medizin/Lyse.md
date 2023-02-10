@@ -1,6 +1,6 @@
 ---
 aliases: Thrombolyse
-tags: [m/m30, f/🧠, f/💊/Medikament, a/Intervention]
+tags: [Modul/m30, Fach/Neurologie, Fach/Pharmakologie/Medikament, Art/Intervention]
 title: Lyse
 ---
 > (Abstract::Thrombolyse-Therapie)

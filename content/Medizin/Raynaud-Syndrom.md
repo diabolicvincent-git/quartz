@@ -1,6 +1,6 @@
 ---
 aliases: M. Raynaud
-tags: [m/m17, f/💉, a/Pathologie, f/🧴]
+tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie, Fach/Dermatologie]
 title: Raynaud-Syndrom
 ---
 ### Raynaud-Syndrom

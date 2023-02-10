@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, a/Intervention, f/🔪]
+tags: [Modul/m26, Art/Intervention, Fach/Chirurgie]
 title: Transplantation
 ---
 ### Transplantation

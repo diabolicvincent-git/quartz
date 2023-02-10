@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, f/⚙️]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Atemzyklus
 ---
 1. **Inspirationsphase (I)**:: Crescendo der Nervenaktivität der inspiratorischen [[Atemmuskulatur]] ([[N. phrenicus (C3-C5)]])

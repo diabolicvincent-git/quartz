@@ -1,6 +1,6 @@
 ---
 aliases: Hepar
-tags: [m/m12, f/💩, f/💀]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Leber
 ---
 ### Leber 

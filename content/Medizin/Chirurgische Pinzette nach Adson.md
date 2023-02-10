@@ -1,5 +1,5 @@
 ---
-tags: [f/🔪/Instrumente/Pinzette]
+tags: [Fach/Chirurgie/Instrumente/Pinzette]
 title: Chirurgische Pinzette nach Adson
 ---
 - **Form**:: Gerade

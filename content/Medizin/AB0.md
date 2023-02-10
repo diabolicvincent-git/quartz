@@ -1,5 +1,5 @@
 ---
-tags: [m/m08, m/m21, f/🩸]
+tags: [Modul/m08, Modul/m21, Fach/Hämatologie]
 title: AB0
 ---
 > (Abstract::Wichtigstes [[Blutgruppen]]-System. A & B dominant, 0/H stumm)

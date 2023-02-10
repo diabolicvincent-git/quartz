@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30, f/🫀, f/🔪, f/🧠, a/Pathologie]
+tags: [Modul/m30, Fach/Kardiologie, Fach/Chirurgie, Fach/Neurologie, Art/Pathologie]
 title: Aneurysma
 ---
 - **Ätiologie**:: [[Hypertonie]], Trauma, Marfan-Syndrom, Atherosklerose

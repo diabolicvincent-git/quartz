@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, f/🦴]
+tags: [Modul/m27, Fach/Orthopädie]
 title: Pathologische Fraktur
 ---
 ### Pathologische [[Fraktur]]

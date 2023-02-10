@@ -1,6 +1,6 @@
 ---
 aliases: Sinus venosus sclerae
-tags: [m/m16, f/👁️, f/💀]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Schlemm-Kanal
 ---
 ### Schlemm-Kanal / Sinus venosus sclerae

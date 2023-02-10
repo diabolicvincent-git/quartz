@@ -1,6 +1,6 @@
 ---
 aliases: Hypercortisolismus
-tags: [m/m04 m/m22 ToDo, f/🗞️]
+tags: [Modul/m04 Modul/m22 ToDo, Fach/Endokrinologie]
 title: Cushing-Syndrom
 ---
 > (Abstract::**Hypercortisolismus.** Durch [[Glucocorticoide]] oder [[ACTH]]-Tumor. [[Adipositas]], Striae, [[Diabetes mellitus]] etc.)

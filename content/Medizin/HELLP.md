@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦩]
+tags: [Art/Pathologie, Fach/Gynäkologie]
 title: HELLP
 ---
 > (Abstract::**[[Hämolyse]], erhöhte [[Leberwerte]], low platelets ([[Thrombopenie]]).** [[Hypertensive Schwangerschaftserkrankungen]].)

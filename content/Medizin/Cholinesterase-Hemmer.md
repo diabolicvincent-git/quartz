@@ -1,6 +1,6 @@
 ---
 aliases: Cholinesteraseinhibitoren
-tags: [m/m13, f/🫁, f/🍄]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Toxikologie]
 title: Cholinesterase-Hemmer
 ---
 ### Cholinesteraseinhibitoren

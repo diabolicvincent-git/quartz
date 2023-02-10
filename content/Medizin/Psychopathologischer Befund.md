@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, Wichtig]
+tags: [Modul/m20, Wichtig]
 title: Psychopathologischer Befund
 ---
 ### Psychopathologischer Befund

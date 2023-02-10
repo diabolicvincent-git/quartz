@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/🦴, f/🧠, f/💀, f/💀/Organ]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Wirbelsäule
 ---
 ### Wirbelsäule

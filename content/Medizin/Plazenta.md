@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🦩]
+tags: [Modul/m05, Fach/Gynäkologie]
 title: Plazenta
 ---
 ### Plazenta

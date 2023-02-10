@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🐣, f/💀, f/🔬]
+tags: [Modul/m05, Fach/Embryologie, Fach/Anatomie, Fach/Histologie]
 title: Embryogenese
 ---
 > Woche 2-8 p.c. ([[SSW]] 4-10 p.m.)

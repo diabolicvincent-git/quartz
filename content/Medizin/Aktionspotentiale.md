@@ -3,6 +3,6 @@ aliases:
   - Aktionspotentials
   - Aktionspotential
   - AP
-tags: [m/m04, f/🧠, f/⚙️]
+tags: [Modul/m04, Fach/Neurologie, Fach/Physiologie]
 title: Aktionspotentiale
 ---

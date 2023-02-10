@@ -1,6 +1,6 @@
 ---
 aliases: N. meningitidis, Neisseria meningitidis
-tags: [m/m18, f/🦠/Erreger/Bakterien, f/🦠/Reiseimpfung]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Fach/Infektiologie/Reiseimpfung]
 title: Meningokokken
 ---
 > (Abstract::**Neisseria meningitidis.** [[gramnegativ]] > Kokken > Neisserien > [[Meningokokken]])

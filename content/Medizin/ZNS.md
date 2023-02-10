@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, f/💀/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: ZNS
 ---
 

@@ -1,6 +1,6 @@
 ---
 aliases: MAO-Inhibitoren
-tags: [m/m20]
+tags: [Modul/m20]
 title: MAO-Hemmer
 ---
 ### MAO-Inhibitoren

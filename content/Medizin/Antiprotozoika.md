@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, f/💊/Medikament/Übergruppe]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antiprotozoika
 ---
 - Häufig auch [[Antibiotika]] oder [[Antimykotika]] eingesetzt

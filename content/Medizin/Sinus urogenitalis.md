@@ -1,6 +1,6 @@
 ---
 aliases: Urogenitalkanal
-tags: [m/m22, f/🐣, f/🦩, f/🍆]
+tags: [Modul/m22, Fach/Embryologie, Fach/Gynäkologie, Fach/Urologie]
 title: Sinus urogenitalis
 ---
 ### Sinus urogenitalis / Urogenitalkanal

@@ -1,6 +1,6 @@
 ---
 aliases: Strahlentherapie, Radiotherapie
-tags: [m/m19]
+tags: [Modul/m19]
 title: Radiatio
 ---
 ### Radiatio / Strahlentherapie

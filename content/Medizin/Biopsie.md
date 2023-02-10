@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, f/⚰️, f/🔬, a/Intervention]
+tags: [Modul/m19, Fach/Onkologie, Fach/Rechtsmedizin, Fach/Histologie, Art/Intervention]
 title: Biopsie
 ---
 ### Biopsie

@@ -1,9 +1,8 @@
 ---
 aliases: 
-tags: [m/m30, f/🧠, f/👁️]
+tags: [Modul/m30, Fach/Neurologie, Fach/Ophthalmologie]
 title: Augenbewegung
 ---
-### Augenbewegung
 > Siehe [[Nystagmus]]
 - **Einteilgung**
 	- **Stabilisieren Sehziele auf der Fovea**

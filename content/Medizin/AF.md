@@ -1,5 +1,5 @@
 ---
-tags: [m/m13, f/🫁, a/Intervention, f/⚙️]
+tags: [Modul/m13, Fach/Pneumologie, Art/Intervention, Fach/Physiologie]
 title: AF
 ---
 > (Abstract::**Atemfrequenz.**)

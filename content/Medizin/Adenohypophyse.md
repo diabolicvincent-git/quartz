@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🗞️, f/🧠, f/💀, f/💀/Organ]
+tags: [Modul/m15, Fach/Endokrinologie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Adenohypophyse
 ---
 (Abstract::[[endokrin]]er Teil der [[Hypophyse]] mit Portalkreislauf → ==[[Hypothalamus-Hypophysen-Achse]]==)

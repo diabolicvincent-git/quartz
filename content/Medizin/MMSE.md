@@ -1,6 +1,6 @@
 ---
 aliases: Mini-Mental-State-Examination
-tags: [a/Intervention, m/m31, f/💭, f/🧠]
+tags: [Art/Intervention, Modul/m31, Fach/Psychiatrie, Fach/Neurologie]
 title: MMSE
 ---
 - **Indikation**:: v.a. [[Demenz]]

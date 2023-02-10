@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m17, f/🗞️, f/💀]
+tags: [Modul/m04, Modul/m17, Fach/Endokrinologie, Fach/Anatomie]
 title: Schilddrüse
 ---
 ### Schilddrüse

@@ -1,7 +1,7 @@
 ---
 aliases:
  - Akustikusneurinom
-tags: [m/m16, f/👂, f/🧠, f/🦀, a/Pathologie]
+tags: [Modul/m16, Fach/HNO, Fach/Neurologie, Fach/Onkologie, Art/Pathologie]
 title: Vestibularisschwannom
 ---
 

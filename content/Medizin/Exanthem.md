@@ -1,6 +1,6 @@
 ---
 aliases: Hautveränderungen
-tags: [m/m09, f/🧴]
+tags: [Modul/m09, Fach/Dermatologie]
 title: Exanthem
 ---
 **Exanthem**:: Gleichartige Hautveränderungen in einer Region

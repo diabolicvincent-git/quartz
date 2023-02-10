@@ -1,6 +1,6 @@
 ---
 aliases: Adenosintriphosphat
-tags: [m/m02, f/🧪, f/🧪/Molekül]
+tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: ATP
 ---
 > (Abstract::**Adenosintriphosphat.** Universeller Energieträger.)

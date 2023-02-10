@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦠, f/👁️]
+tags: [Art/Pathologie, Fach/Infektiologie, Fach/Ophthalmologie]
 title: Zoster ophthalmicus
 ---
 > (Abstract::**[[Herpes zoster]] mit Befall [[N. ophthalmicus (V1)]].**)

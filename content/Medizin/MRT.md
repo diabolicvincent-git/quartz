@@ -1,6 +1,6 @@
 ---
 aliases: Magnetresonanztomographie
-tags: [m/m00, a/Intervention, f/🕶️/Standardbildgebung]
+tags: [Modul/m00, Art/Intervention, Fach/Radiologie/Standardbildgebung]
 title: MRT
 ---
 ### Magnetresonanztomographie / MRT

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m33, a/Intervention]
+tags: [Modul/m33, Art/Intervention]
 title: Medikamente in der Schwangerschaft
 ---
 ### Medikamente in der [[Schwangerschaft]]

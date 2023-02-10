@@ -1,6 +1,6 @@
 ---
 aliases: Prostatakarzinom
-tags: [m/m19, f/🍆, a/Pathologie, f/🦀]
+tags: [Modul/m19, Fach/Urologie, Art/Pathologie, Fach/Onkologie]
 title: Prostata-Ca
 ---
 ### Prostatakarzinom

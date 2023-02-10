@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m12, m/m26, a/Pathologie, f/💩]
+tags: [Modul/m12, Modul/m26, Art/Pathologie, Fach/Gastroenterologie]
 title: Pankreatitis
 ---
 ### Pankreatitis

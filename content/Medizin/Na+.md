@@ -1,6 +1,6 @@
 ---
 aliases: Natrium
-tags: [m/m14, f/🧪, f/⚙️, f/🧪/Molekül, f/🍺]
+tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Nephrologie]
 title: Na+
 ---
 ### Natrium / Na+

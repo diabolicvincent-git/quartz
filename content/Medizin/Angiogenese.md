@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/💀, f/🔬, f/⚙️]
+tags: [Modul/m05, Fach/Anatomie, Fach/Histologie, Fach/Physiologie]
 title: Angiogenese
 ---
 (Abstract::Entstehung neuer [[Gefäße]] aus ==*vorbestehenden [[Gefäße]]n*== durch Endothelproliferation/-migration)

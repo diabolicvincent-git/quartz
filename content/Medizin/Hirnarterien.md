@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, f/💀, f/🧠]
+tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Hirnarterien
 ---
 ### Hirnarterien

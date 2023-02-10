@@ -1,6 +1,6 @@
 ---
 aliases: Phosphodiesterase-Hemmer
-tags: [m/m21, f/💊/Medikament, f/🍆, f/🫀, f/💊/Medikament]
+tags: [Modul/m21, Fach/Pharmakologie/Medikament, Fach/Urologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: PDE-Hemmer
 ---
 ### Phosphodiesterase-Hemmer

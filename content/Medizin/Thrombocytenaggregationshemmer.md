@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💊/Medikament, f/🫀]
+tags: [Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: Thrombocytenaggregationshemmer
 ---
 - **Einteilung**

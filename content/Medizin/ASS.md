@@ -1,6 +1,6 @@
 ---
 aliases: Acetylsalicylsäure
-tags: [m/m20, m/m08, f/💊/Medikament, f/🫀, f/🩸]
+tags: [Modul/m20, Modul/m08, Fach/Pharmakologie/Medikament, Fach/Kardiologie, Fach/Hämatologie]
 title: ASS
 ---
 > (Abstract::**Acetylsalicylsäure.** [[Thrombocytenaggregationshemmer]] und [[NSAR]])

@@ -1,6 +1,6 @@
 ---
 aliases: Kreatinkinase
-tags: [m/m10, f/🧪, f/🫀, f/🧪/Molekül, f/🥼]
+tags: [Modul/m10, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Laboratoriumsmedizin]
 title: CK
 ---
 ### Kreatinkinase / CK

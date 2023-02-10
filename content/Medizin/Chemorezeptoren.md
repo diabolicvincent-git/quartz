@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m13, f/🫀, f/🫁, f/⚙️]
+tags: [Modul/m11, Modul/m13, Fach/Kardiologie, Fach/Pneumologie, Fach/Physiologie]
 title: Chemorezeptoren
 ---
 - Steigern [[Sympathikus]]-Aktivität bei [[CO2]]-Anstieg, [[O2]]-Abfall oder [[pH]]-Abfall

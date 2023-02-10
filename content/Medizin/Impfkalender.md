@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, a/Intervention, f/🦄]
+tags: [Modul/m18, Fach/Infektiologie, Art/Intervention, Fach/Pädiatrie]
 title: Impfkalender
 ---
 | [[Impfung]]                                                                        | Dosen                          | Besonderheiten                           |

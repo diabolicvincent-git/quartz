@@ -1,6 +1,6 @@
 ---
 aliases: Kalium
-tags: [m/m14]
+tags: [Modul/m14]
 title: K+
 ---
 ### Kalium / K+

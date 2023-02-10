@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🦴, a/Intervention]
+tags: [Modul/m15, Fach/Orthopädie, Art/Intervention]
 title: Kraftgrad
 ---
 ### Kraftgrade (nach Janda)

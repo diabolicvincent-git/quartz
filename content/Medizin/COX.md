@@ -1,6 +1,6 @@
 ---
 aliases: Cyclooxygenase, COX1, COX2
-tags: [m/m08, m/m20, f/🧪, f/🧪/Molekül]
+tags: [Modul/m08, Modul/m20, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: COX
 ---
 ### Cyclooxygenase / COX

@@ -1,6 +1,6 @@
 ---
 aliases: HN VI
-tags: [m/m15, f/🧠/Hirnnerv]
+tags: [Modul/m15, Fach/Neurologie/Hirnnerv]
 title: N. abducens (VI)
 ---
 - **Nr**:: 6

@@ -1,9 +1,9 @@
 ---
 aliases: Arthralgien, Gelenkschmerzen
-tags: [m/m17, f/💉, f/🦴, a/Pathologie]
+tags: [Modul/m17, Fach/Rheumatologie, Fach/Orthopädie, Art/Pathologie]
 title: Arthralgie
 ---
-### DD Arthralgie / Gelenkschmerzen
+> (Abstract::Gelenkschmerzen.)
 - **Trauma**:: Verletzung von Kapsel, Bänder, Gelenkfläche, [[Knochen]]
 - **Degenerative Gelenkschäden**:: ==(aktivierte) [[Arthrose]]==
 - **[[Stoffwechseldefekte]]**:: [[Gicht]]

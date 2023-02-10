@@ -1,5 +1,5 @@
 ---
-tags: [f/🦠/Antiinfektiva/Antimykotika]
+tags: [Fach/Infektiologie/Antiinfektiva/Antimykotika]
 title: Azole
 ---
 - **Wirkmechanismus**:: Hemmung [[Ergosterol]]-Synthese ([[Zellwand]])

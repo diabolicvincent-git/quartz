@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m06, m/m19, f/🦀, f/📊]
+tags: [Modul/m06, Modul/m19, Fach/Onkologie, Fach/Epidemiologie]
 title: Krebsvorsorgeuntersuchung
 ---
 ### Krebsvorsorgeuntersuchungen

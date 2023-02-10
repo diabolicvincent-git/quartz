@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17, f/🩸]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie]
 title: Gerinnungsdiagnostik
 ---
 ### Gerinnungsdiagnostik 

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🍺, f/🥼, a/Intervention]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Nierenwerte
 ---
 ### Nierenwerte

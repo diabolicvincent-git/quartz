@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17]
+tags: [Modul/m08, Modul/m17]
 title: Thrombotische Mikroangiopathie
 ---
 ### Thrombotische Mikroangiopathie 

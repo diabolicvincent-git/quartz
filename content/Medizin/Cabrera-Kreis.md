@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, f/🫀, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Cabrera-Kreis
 ---
 > (Abstract::**Darstellung der Extremitätenableitungen.** Beurteilung des [[Lagetyp]] im [[EKG]].)

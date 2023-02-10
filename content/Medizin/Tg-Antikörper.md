@@ -1,5 +1,5 @@
 ---
-tags: [m/m29, f/🗞️, f/🧪/Molekül/Antikörper/SchilddrüsenAk]
+tags: [Modul/m29, Fach/Endokrinologie, Fach/Biochemie/Molekül/Antikörper/SchilddrüsenAk]
 title: Tg-Antikörper
 ---
 > (Abstract:: [[Schilddrüsen-Antikörper]] gegen Thyreoglobulin, v.a. bei [[Hashimoto-Thyreoditis]])

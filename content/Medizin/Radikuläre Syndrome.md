@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, m/m15]
+tags: [Modul/m27, Modul/m15]
 title: Radikuläre Syndrome
 ---
 ### Radikuläre Syndrome

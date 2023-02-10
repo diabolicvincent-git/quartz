@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [m/m14, f/💀, f/🍺]
+tags: [Modul/m14, Fach/Anatomie, Fach/Nephrologie]
 title: Nierenmark
 ---
 ### Nierenmark 

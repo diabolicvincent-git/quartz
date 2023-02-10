@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💤, f/💊/Medikament]
+tags: [Modul/m20, Fach/Anästhesie, Fach/Pharmakologie/Medikament]
 title: Nicht-Opioid-Analgetika
 ---
 ### Nicht-Opioid-Analgetika

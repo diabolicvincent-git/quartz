@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10, f/🦴, f/⚙️]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie]
 title: Physik des Bewegungsapparats
 ---
 - **Kraft [N]**:: Vektorielle Größe → Beschleunigung oder Verformung

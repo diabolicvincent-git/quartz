@@ -1,6 +1,6 @@
 ---
 aliases: Lymphknotenschwellung
-tags: [m/m19]
+tags: [Modul/m19]
 title: Lymphadenopathie
 ---
 ### Lymphadenopathie

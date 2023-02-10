@@ -1,5 +1,5 @@
 ---
-tags: [f/💀/Organ/Speicheldrüsen, f/👂, f/💀]
+tags: [Fach/Anatomie/Organ/Speicheldrüsen, Fach/HNO, Fach/Anatomie]
 title: Gl. parotidea
 ---
 > (Abstract::**[[Speicheldrüsen]].**)

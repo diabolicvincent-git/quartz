@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🗞️, f/🧪]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Biochemie]
 title: Steroidhormone
 ---
 ### Steroidhormone

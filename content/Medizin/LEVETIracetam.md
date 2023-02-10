@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💊/Medikament, m/m30, f/🧠]
+tags: [Fach/Pharmakologie/Medikament, Modul/m30, Fach/Neurologie]
 title: LEVETIracetam
 ---
  ### Levetiracetam

@@ -1,6 +1,6 @@
 ---
 aliases: BHS
-tags: [m/m15, f/🧠, f/🔬, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie, Fach/Histologie, Fach/Physiologie]
 title: Blut-Hirn-Schranke
 ---
 ### Blut-Hirn-Schranke 

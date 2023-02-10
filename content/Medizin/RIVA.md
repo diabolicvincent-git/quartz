@@ -1,6 +1,6 @@
 ---
 aliases: R. interventricularis anterior, LAD
-tags: [m/m11]
+tags: [Modul/m11]
 title: RIVA
 ---
 ### R. interventricularis anterior / RIVA / LAD

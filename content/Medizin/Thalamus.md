@@ -1,6 +1,6 @@
 ---
 aliases: Thalamus dorsalis
-tags: [m/m15, f/🧠, f/💀, f/💀/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Aufbau
 ---
 ### Thalamus 

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🍺, f/🫀, a/Pathologie]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Art/Pathologie]
 title: Exsikkose
 ---
 ### Exsikkose

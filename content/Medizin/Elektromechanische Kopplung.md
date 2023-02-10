@@ -1,7 +1,7 @@
 ---
 aliases:
   - null
-tags: [m/m11, m/m10, m/m03, f/⚙️]
+tags: [Modul/m11, Modul/m10, Modul/m03, Fach/Physiologie]
 title: Skelettmuskulatur
 ---
 > "Übersetzen" von [[Aktionspotentiale]]n in mechanische Muskelkontraktion

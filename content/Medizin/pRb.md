@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🦀, f/🧪, f/🧪/Molekül]
+tags: [Modul/m05, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: pRb
 ---
 ### Retinoblastom-Protein / pRb

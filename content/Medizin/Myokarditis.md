@@ -1,6 +1,6 @@
 ---
 aliases: Herzmuskelentzündung
-tags: [m/m11, f/🫀, f/🦠, a/Pathologie]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Infektiologie, Art/Pathologie]
 title: Myokarditis
 ---
 ### Myokarditis / Herzmuskelentzündung

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie]
+tags: [Art/Pathologie]
 title: Ich-Störung
 ---
 - **Ich-Störungen auf Gefühlsebene**

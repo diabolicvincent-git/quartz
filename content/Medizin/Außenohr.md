@@ -1,6 +1,6 @@
 ---
 aliases: Auris externa
-tags: [m/m16, f/👂, f/💀]
+tags: [Modul/m16, Fach/HNO, Fach/Anatomie]
 title: Außenohr
 ---
 ### Außenohr 

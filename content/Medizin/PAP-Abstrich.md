@@ -1,6 +1,6 @@
 ---
 aliases: Cervixabstrich
-tags: [m/m22, f/🦩, a/Intervention]
+tags: [Modul/m22, Fach/Gynäkologie, Art/Intervention]
 title: PAP-Abstrich
 ---
 ### Cervixabstrich / PAP-Abstrich

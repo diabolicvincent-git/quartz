@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, f/💤, a/Intervention]
+tags: [Modul/m00, Fach/Anästhesie, Art/Intervention]
 title: SAMPLER
 ---
 ### SAMPLER

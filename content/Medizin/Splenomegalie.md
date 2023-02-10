@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🩸]
+tags: [Modul/m19, Fach/Hämatologie]
 title: Splenomegalie
 ---
 ### Splenomegalie

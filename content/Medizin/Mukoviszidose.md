@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cystische Fibrose
-tags: [m/m03]
+tags: [Modul/m03]
 title: Mukoviszidose
 ---
 ### Mukoviszidose / Cystische Fibrose / CF

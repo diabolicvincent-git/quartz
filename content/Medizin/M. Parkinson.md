@@ -1,6 +1,6 @@
 ---
 aliases: Idiopathisches Parkinson-Syndrom, IPS, Morbus Parkinson
-tags: [m/m15, a/Pathologie, f/🧠]
+tags: [Modul/m15, Art/Pathologie, Fach/Neurologie]
 title: M. Parkinson
 ---
 > (Abstract::75% von [[Parkinson-Syndrom]])

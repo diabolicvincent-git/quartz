@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, m/m20, f/💭]
+tags: [Modul/m19, Modul/m20, Fach/Psychiatrie]
 title: SPIKES
 ---
 > (Abstract::**Überbringen schlechter Nachrichten.** Setting, Patientenwissen, Informationswunsch, Kenntnisvermittlung, Empathie, Strategie.)

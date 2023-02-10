@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🧬/Gen, f/🦀, f/🧬]
+tags: [Modul/m19, Fach/Genetik/Gen, Fach/Onkologie, Fach/Genetik]
 title: Tumorsuppressoren
 ---
 ### Tumorsuppressorgene

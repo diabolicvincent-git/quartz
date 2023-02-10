@@ -1,5 +1,5 @@
 ---
-tags: [f/👂, f/💀/Knorpel]
+tags: [Fach/HNO, Fach/Anatomie/Knorpel]
 aliases: Cartilago arytaenoidea
 title: Stellknorpel
 ---

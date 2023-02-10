@@ -1,6 +1,6 @@
 ---
 aliases: Beugesynergismus, Decorticationsstarre
-tags: [m/m15, f/🧠, a/Pathologie]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Beugesynergismen
 ---
 ### Beugesynergismen / Decorticationsstarre

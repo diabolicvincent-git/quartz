@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: [m/m12, a/Pathologie, f/🫀]
+tags: [Modul/m12, Art/Pathologie, Fach/Kardiologie]
 title: Adipositas
 ---

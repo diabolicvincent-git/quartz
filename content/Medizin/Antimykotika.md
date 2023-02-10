@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠/Antiinfektiva, f/💊/Medikament/Übergruppe]
+tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antimykotika
 ---
 - **Hauptgruppen**

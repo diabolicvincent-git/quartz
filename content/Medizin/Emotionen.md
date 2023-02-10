@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/⚙️, f/🧠, f/💭]
+tags: [Modul/m20, Fach/Physiologie, Fach/Neurologie, Fach/Psychiatrie]
 title: Emotionen
 ---
 ### Emotionen

@@ -1,6 +1,6 @@
 ---
 aliases: Adrenocorticotropes Hormon
-tags: [m/m04, m/m22, f/🗞️, f/🧪/Molekül/Hormon]
+tags: [Modul/m04, Modul/m22, Fach/Endokrinologie, Fach/Biochemie/Molekül/Hormon]
 title: ACTH
 ---
 > *[[Hypothalamus-Hypophysen-Achse]]:* [[CRH]] → [[ACTH]] → [[Cortisol]]

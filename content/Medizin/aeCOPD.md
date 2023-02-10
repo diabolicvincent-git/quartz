@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, f/🫁, f/⛑️, a/Pathologie]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Notfallmedizin, Art/Pathologie]
 title: aeCOPD
 ---
 > (Abstract::**Akut exerzabierte [[COPD]].**)

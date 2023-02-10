@@ -1,6 +1,6 @@
 ---
 aliases: arteriell, arterielle
-tags: [m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Arterie]
+tags: [Modul/m08, Modul/m11, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Arterien
 ---
 - **Funktion**:: Führen [[Blut]] vom [[Herz]] weg ([[Hochdrucksystem]])

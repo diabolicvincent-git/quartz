@@ -1,6 +1,6 @@
 ---
 aliases: Lungenhilii
-tags: [m/m13, f/🫁, f/💀]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anatomie]
 title: Lungenhilus
 ---
 ## Rechts

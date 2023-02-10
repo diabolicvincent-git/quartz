@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m31]
+tags: [Modul/m31]
 title: Bodypacking
 ---
 ### Bodypacking

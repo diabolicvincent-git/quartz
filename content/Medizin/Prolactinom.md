@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🗞️, f/🦩, a/Pathologie, f/🦀]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Art/Pathologie, Fach/Onkologie]
 title: Prolactinom
 ---
 ### Prolactinom

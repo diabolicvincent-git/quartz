@@ -1,6 +1,6 @@
 ---
 aliases: Aspartataminotransferase, ASAT, GOT
-tags: [m/m12, f/🧪, f/💩, f/🧪/Molekül]
+tags: [Modul/m12, Fach/Biochemie, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
 title: AST
 ---
 > (Abstract::**Aspartataminotransferase.** Auch: ASAT, GOT.)

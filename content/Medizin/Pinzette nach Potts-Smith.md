@@ -1,5 +1,5 @@
 ---
-tags: [f/🔪/Instrumente/Pinzette]
+tags: [Fach/Chirurgie/Instrumente/Pinzette]
 title: Pinzette nach Potts-Smith
 ---
 - **Form**:: Gerade

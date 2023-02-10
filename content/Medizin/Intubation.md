@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, m/m29, f/💤, f/⛑️, a/Intervention]
+tags: [Modul/m21, Modul/m29, Fach/Anästhesie, Fach/Notfallmedizin, Art/Intervention]
 title: Intubation
 ---
 ### Intubation

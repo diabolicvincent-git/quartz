@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, f/🦠, f/⚙️, ToDo]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Fach/Physiologie, ToDo]
 title: Störungen der Abwehrmechanismen
 ---
 ![[Immunologische Abwehrstrategien]]
@@ -38,7 +38,7 @@ title: Störungen der Abwehrmechanismen
 - [[Cytotoxische T-Zellen]]
 - [[B-Zellen]] → Plasmazellen → [[Antikörper]]
 
-# Störungen der Abwehrmechanismen
+## Störungen der Abwehrmechanismen
 - *Mikroaspiration* (z.B. bei [[Intubation]]) → Überwinden des [[Larynx]] durch Pathogene
 - **Prädisposition**:: Grunderkrankungen (z.B. [[Mukoviszidose]], primäre ciliäre Dyskinesie, [[IgA]]-Mangel)
 - Inhalation von Rauch zerstört mukociliäre Clearance (mechanisch, geschädigte Abwehrzellen, vermindertes β-Defensin)

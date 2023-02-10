@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, a/Intervention, f/💤, f/🩺]
+tags: [Modul/m00, Art/Intervention, Fach/Anästhesie, Fach/Allgemeinmedizin]
 title: Vitalparameter
 ---
 ### Vitalparameter

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12]
+tags: [Modul/m12]
 title: Entwicklung des Darmrohrs
 ---
 

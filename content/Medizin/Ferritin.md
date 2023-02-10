@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/🧪/Molekül, f/🧪, f/⚙️]
+tags: [Modul/m08, Fach/Biochemie/Molekül, Fach/Biochemie, Fach/Physiologie]
 title: Ferritin
 ---
 ### Ferritin

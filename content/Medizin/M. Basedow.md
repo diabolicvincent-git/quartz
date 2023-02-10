@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m17, f/🗞️]
+tags: [Modul/m04, Modul/m17, Fach/Endokrinologie]
 title: M. Basedow
 ---
 ### M. Basedow 

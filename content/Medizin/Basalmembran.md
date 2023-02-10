@@ -1,6 +1,6 @@
 ---
 aliases: Basallamina
-tags: [m/m05, f/🔬]
+tags: [Modul/m05, Fach/Histologie]
 title: Basalmembran
 ---
 ## Funktion

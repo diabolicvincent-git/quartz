@@ -1,6 +1,6 @@
 ---
 aliases: Allergische Reaktion
-tags: [m/m12, m/m17, f/🧴, f/💉, a/Pathologie, ToDo]
+tags: [Modul/m12, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Pathologie, ToDo]
 title: Einteilung der Immunreaktion nach Coombs & Gell
 ---
 > Überschießende Immunreaktion ggü. ungefährlichen Stoffen
@@ -8,7 +8,7 @@ title: Einteilung der Immunreaktion nach Coombs & Gell
 Sofort- und Spättypallergien + Knallrot oder kreidebleich
 
 
-# Einteilung der Immunreaktion nach Coombs & Gell
+## Einteilung der Immunreaktion nach Coombs & Gell
 
 - **Typ I: [[IgE]]-vermittelte Soforttyp-Reaktion**
     - **Erstkontakt**:: Sensibilisierung mit Bildung von [[IgE]]-Ak
@@ -50,4 +50,4 @@ gegebene klinische Hautbilder den Allergietypen I und IV nach Coombs und Gell zu
 - **In vivo**
     - Hauttest (Atopie-Patch)
 
-#m/m09 
+#Modul/m09 

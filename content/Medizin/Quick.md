@@ -1,6 +1,6 @@
 ---
 aliases: Quick-Wert, Thromboplastinzeit, TPZ, Prothrombinzeit
-tags: [m/m08, f/🩸, a/Intervention]
+tags: [Modul/m08, Fach/Hämatologie, Art/Intervention]
 title: Quick
 ---
 ### Quick-Wert / Thromboplastinzeit / TPZ 

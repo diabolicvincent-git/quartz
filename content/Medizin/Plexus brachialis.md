@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10, f/💀, f/🧠, f/🦴]
+tags: [Modul/m10, Fach/Anatomie, Fach/Neurologie, Fach/Orthopädie]
 title: Plexus brachialis
 ---
 ### Plexus brachialis

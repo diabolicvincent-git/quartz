@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, f/🥼, a/Intervention]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Blutkulturen
 ---
 ### Blutkulturen / BK

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14, f/🍺, f/🍆, f/🥼, a/Intervention]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Makroskopische Beurteilung
 ---
 # Makroskopische Beurteilung

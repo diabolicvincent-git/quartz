@@ -12,4 +12,4 @@ title: Phosphatonin (FGF23)
 - Bei X-chromosomalem Gendefekt: Vitamin-D-resistente, hypophosphatämische [[Osteomalazie]]
 - Siehe [[Hyperparathyreoidismus]]
 
-#m/m14 
+#Modul/m14 

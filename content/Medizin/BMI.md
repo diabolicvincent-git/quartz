@@ -1,6 +1,6 @@
 ---
 aliases: Body Mass Index, Body-Mass-Index
-tags: [m/m02, a/Intervention, f/🩺]
+tags: [Modul/m02, Art/Intervention, Fach/Allgemeinmedizin]
 title: BMI
 ---
 ### Body Mass Index / BMI

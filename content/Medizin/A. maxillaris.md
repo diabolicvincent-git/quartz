@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💀/Leitungsbahn/Arterie, f/💀]
+tags: [Fach/Anatomie/Leitungsbahn/Arterie, Fach/Anatomie]
 title: A. maxillaris
 ---
 - **Ursprung**:: [[A. carotis externa]]

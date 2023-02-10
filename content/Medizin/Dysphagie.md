@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m12, f/💩]
+tags: [Modul/m12, Fach/Gastroenterologie]
 title: Dysphagie
 ---
 ### Dysphagie

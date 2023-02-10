@@ -1,6 +1,6 @@
 ---
 aliases: Churg-Strauss-Syndrom
-tags: [m/m14, m/m17, f/💉]
+tags: [Modul/m14, Modul/m17, Fach/Rheumatologie]
 title: Eosinophile Granulomatose mit Polyangiitis
 ---
 ### Eosinophile Granulomatose mit Polyangiitis / Churg-Strauss-Syndrom 

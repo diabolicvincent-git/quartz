@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/💤, a/Intervention, a/Intervention]
+tags: [Modul/m25, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: Präoperatives Management
 ---
 ### Präoperatives Management

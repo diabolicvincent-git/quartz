@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, f/🩺]
+tags: [Modul/m00, Fach/Allgemeinmedizin]
 title: ECOG
 ---
 ### ECOG Index zur Lebensqualität

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m21, f/🗞️, a/Pathologie, f/🦀, f/🧠]
+tags: [Modul/m04, Modul/m21, Fach/Endokrinologie, Art/Pathologie, Fach/Onkologie, Fach/Neurologie]
 title: Hypophysenadenom
 ---
 ### Hypophysenadenom

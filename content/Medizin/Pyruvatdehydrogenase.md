@@ -1,6 +1,6 @@
 ---
 aliases: PDH
-tags: [m/m03]
+tags: [Modul/m03]
 title: Pyruvatdehydrogenase
 ---
 ### Pyruvatdehydrogenase / PDH

@@ -46,4 +46,4 @@ Tinea capitis, corporis, inguinalis, pedis, XXX (?)
 
 # Strategien zur [[Prävention]] von Pilz- ([[Dermatophyten]]) und Parasiteninfektionen (Läuse, Milben) der Haut aufzählen
 
-#m/m09
+#Modul/m09

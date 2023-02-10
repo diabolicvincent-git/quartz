@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💩]
+tags: [Modul/m12, Fach/Gastroenterologie]
 title: Malabsorption
 ---
 ### Malabsorption von Kohlenhydraten

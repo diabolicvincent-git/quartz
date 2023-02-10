@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, a/Intervention, f/🥼]
+tags: [Modul/m19, Fach/Onkologie, Art/Intervention, Fach/Laboratoriumsmedizin]
 title: Tumormarker
 ---
 ### Tumormarker

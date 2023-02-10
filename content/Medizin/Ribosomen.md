@@ -1,6 +1,6 @@
 ---
 aliases: Ribosom
-tags: [m/m03, f/🧪, f/🧬]
+tags: [Modul/m03, Fach/Biochemie, Fach/Genetik]
 title: Ribosomen
 ---
 ### Ribosomen

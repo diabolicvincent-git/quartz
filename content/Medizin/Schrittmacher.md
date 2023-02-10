@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🫀, a/Intervention, m/m11]
+tags: [Fach/Kardiologie, Art/Intervention, Modul/m11]
 title: Schrittmacher
 ---
 ### Schrittmacher

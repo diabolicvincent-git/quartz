@@ -1,6 +1,6 @@
 ---
 aliases: Gallensteine
-tags: [m/m12, f/💩, f/💩, a/Pathologie]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Cholelithiasis
 ---
 ### Cholelithiasis / Gallensteine

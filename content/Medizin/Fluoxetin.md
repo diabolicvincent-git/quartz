@@ -1,5 +1,5 @@
 ---
-tags: [f/💊/Medikament/PIM]
+tags: [Fach/Pharmakologie/Medikament/PIM]
 title: Fluoxetin
 ---
 - **Gruppe**:: [[SSRI]]

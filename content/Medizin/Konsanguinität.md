@@ -1,6 +1,6 @@
 ---
 aliases: Inzucht, Blutsverwandschaft
-tags: [m/m17, f/🧬]
+tags: [Modul/m17, Fach/Genetik]
 title: Konsanguinität
 ---
 ### Konsanguinität / Blutsverwandschaft

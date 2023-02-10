@@ -35,4 +35,4 @@ title: Autoregulation der Niere
 	- [[Vasodilatation]] v.a. im [[Nierenmark]] zur Schutz vor Hypoxie
 	- [[Vasodilatation]] von Vas afferens und Vas efferens
 
-#m/m14 
+#Modul/m14 

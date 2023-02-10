@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14, a/Intervention, f/🍺]
+tags: [Modul/m14, Art/Intervention, Fach/Nephrologie]
 title: AEIOU
 ---
 (Abstract::**Akute [[Dialyse]]-Indikationen**.)

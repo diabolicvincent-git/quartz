@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, m/m21, f/🕶️, a/Intervention]
+tags: [Modul/m00, Modul/m21, Fach/Radiologie, Art/Intervention]
 title: Bildgebung
 ---
 - [[Sonographie]]

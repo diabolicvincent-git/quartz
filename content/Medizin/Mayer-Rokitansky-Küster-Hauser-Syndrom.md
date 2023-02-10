@@ -1,6 +1,6 @@
 ---
 aliases: MRKHS
-tags: [m/m22, f/🦩, f/🐣, a/Pathologie]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Embryologie, Art/Pathologie]
 title: Mayer-Rokitansky-Küster-Hauser-Syndrom
 ---
 ### Mayer-Rokitansky-Küster-Hauser-Syndrom / MRKHS

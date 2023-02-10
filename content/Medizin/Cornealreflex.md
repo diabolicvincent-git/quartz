@@ -1,6 +1,6 @@
 ---
 aliases: Kornealreflex, Lidschlussreflex
-tags: [m/m15, m/m16, m/m21, f/🧠, f/👁️, a/Intervention]
+tags: [Modul/m15, Modul/m16, Modul/m21, Fach/Neurologie, Fach/Ophthalmologie, Art/Intervention]
 title: Cornealreflex
 ---
 ### Cornealreflex / Lidschlussreflex

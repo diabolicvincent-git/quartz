@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/⚙️, f/🫁, f/⚙️]
+tags: [Modul/m13, Fach/Physiologie, Fach/Pneumologie, Fach/Physiologie]
 title: Ventilation
 ---
 > (Abstract::Verteilung der Atemluft in den Alveolen)

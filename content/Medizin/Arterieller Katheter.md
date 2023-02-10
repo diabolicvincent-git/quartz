@@ -1,5 +1,5 @@
 ---
-tags: [f/💤, f/⛑️, a/Intervention]
+tags: [Fach/Anästhesie, Fach/Notfallmedizin, Art/Intervention]
 title: Arterieller Katheter
 ---
 > (Abstract::Katheter in peripheren [[Arterien]])

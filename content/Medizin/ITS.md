@@ -1,6 +1,6 @@
 ---
 aliases: Intensivstation
-tags: [m/m00, f/💤]
+tags: [Modul/m00, Fach/Anästhesie]
 title: ITS
 ---
 ### Intensivstation / ITS 

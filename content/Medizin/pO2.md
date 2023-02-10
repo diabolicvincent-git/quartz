@@ -1,6 +1,6 @@
 ---
 aliases: Sauerstoffpartialdruck
-tags: [m/m13, f/🫁, a/Intervention]
+tags: [Modul/m13, Fach/Pneumologie, Art/Intervention]
 title: pO2
 ---
 ### Sauerstoffpartialdruck / pO2

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Blutgasanalyse
-tags: [m/m13, f/🫁, f/💤, a/Intervention, f/🥼]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Laboratoriumsmedizin]
 title: BGA
 ---
 ### Blutgasanalyse / BGA

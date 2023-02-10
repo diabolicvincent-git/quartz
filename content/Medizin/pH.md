@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, m/m14, f/🥼, f/🧪]
+tags: [Modul/m02, Modul/m14, Fach/Laboratoriumsmedizin, Fach/Biochemie]
 title: pH
 ---
 **pH**:: 7,35 - 7,45

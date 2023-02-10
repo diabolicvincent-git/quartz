@@ -1,6 +1,6 @@
 ---
 aliases: Paraphilie, Paraphilien
-tags: [m/m22, f/🦩, f/🍆, f/💭]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Psychiatrie]
 title: Sexualpräferenz
 ---
 ### Störungen der Sexualpräferenz / Paraphilien

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, ToDo]
+tags: [Modul/m00, ToDo]
 title: P-Drug-List
 ---
 

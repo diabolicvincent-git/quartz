@@ -1,6 +1,6 @@
 ---
 aliases: Episkleritis
-tags: [m/m17, m/m16, f/💉, a/Pathologie]
+tags: [Modul/m17, Modul/m16, Fach/Rheumatologie, Art/Pathologie]
 title: Skleritis
 ---
 ### (Epi-)Skleritis

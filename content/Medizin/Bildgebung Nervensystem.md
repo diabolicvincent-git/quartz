@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🕶️, f/🧠, m/m30]
+tags: [Modul/m15, Fach/Radiologie, Fach/Neurologie, Modul/m30]
 title: Bildgebung Nervensystem
 ---
 

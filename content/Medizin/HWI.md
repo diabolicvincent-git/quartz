@@ -1,6 +1,6 @@
 ---
 aliases: Harnwegsinfektion
-tags: [m/m14, m/m18, a/Pathologie]
+tags: [Modul/m14, Modul/m18, Art/Pathologie]
 title: Ätiologie
 ---
 ### Harnwegsinfektion / HWI
@@ -82,4 +82,4 @@ title: Ätiologie
 - die bei unkomplizierter [[Bakterien]] [[Infektionen]] der unteren Harnwege zu erwartenden spezifischen Angaben in [[Anamnese]] sowie die spezifischen Befunde bei der körperlichen [[Untersuchung]] benennen und zuordnen können.
 - die Grundzüge der medizinischen Diagnostik, Therapie und Betreuung einer unkomplizierten [[Bakterien]] [[Infektionen]] der unteren Harnwege herleiten können.
 
-#m/m14
+#Modul/m14

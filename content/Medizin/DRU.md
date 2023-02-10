@@ -1,6 +1,6 @@
 ---
 aliases: Digital-rektale Untersuchung
-tags: [m/m19 m/m22, f/💩, f/🍆]
+tags: [Modul/m19 Modul/m22, Fach/Gastroenterologie, Fach/Urologie]
 title: DRU
 ---
 ### Digital-rektale Untersuchung / DRU

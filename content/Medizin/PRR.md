@@ -1,6 +1,6 @@
 ---
 aliases: Pattern-Recognition-Rezeptoren
-tags: [m/m08, f/⚙️, f/🧪, f/🦠]
+tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie, Fach/Infektiologie]
 title: PRR
 ---
 ### Pattern-Recognition-Rezeptoren / PRR

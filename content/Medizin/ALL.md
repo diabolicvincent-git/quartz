@@ -1,6 +1,6 @@
 ---
 aliases: Akute lymphatische Leukämie
-tags: [m/m19, f/🦀, f/🩸, a/Pathologie]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: ALL
 ---
 - **Einteilung** nach Immuntypisierung

@@ -1,6 +1,6 @@
 ---
 aliases: Erythropoetin
-tags: [m/m08, m/m14, f/🩸, f/🍺, f/🧪/Molekül, f/⚙️]
+tags: [Modul/m08, Modul/m14, Fach/Hämatologie, Fach/Nephrologie, Fach/Biochemie/Molekül, Fach/Physiologie]
 title: EPO
 ---
 ### Erythropoetin / EPO

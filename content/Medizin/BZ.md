@@ -1,6 +1,6 @@
 ---
 aliases: Blutzucker
-tags: [m/m02, f/🗞️]
+tags: [Modul/m02, Fach/Endokrinologie]
 title: BZ
 ---
 ### Blutzucker / BZ

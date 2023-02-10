@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m00, a/Intervention, f/🕶️]
+tags: [Modul/m00, Art/Intervention, Fach/Radiologie]
 title: CT-Angiographie
 ---
 ### [[CT]]-Angiographie

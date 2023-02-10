@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m00, f/🧠, a/Intervention]
+tags: [Modul/m15, Modul/m00, Fach/Neurologie, Art/Intervention]
 title: Normalbefund
 ---
 ### 

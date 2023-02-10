@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, f/⚙️]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Gasaustausch
 ---
 ### Gasaustausch 

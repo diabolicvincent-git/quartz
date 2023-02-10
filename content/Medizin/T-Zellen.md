@@ -1,6 +1,6 @@
 ---
 aliases: T-Zell, T-Lymphocyt, T-Lymphocyten
-tags: [m/m08, m/m18]
+tags: [Modul/m08, Modul/m18]
 title: T-Zellen
 ---
 ### T-Lymphocyten

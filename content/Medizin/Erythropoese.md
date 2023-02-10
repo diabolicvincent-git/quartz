@@ -66,6 +66,6 @@ title: Reifungsstufen
     - [[Transferrin]] (Transportprotein für [[Eisen]]): verbesserter Eisentransport
 - Wenn dadurch der Sauerstoffpartialdruck im Gewebe wieder steigt, wird HIF-1-alpha wieder vermehrt hydroxyliert
 
-#m/m08
+#Modul/m08
 
 siehe [[Renale Erythropoetin-Synthese]]

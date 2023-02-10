@@ -1,9 +1,8 @@
 ---
 aliases: null
-tags: [m/m03, m/m19, f/🧪]
+tags: [Modul/m03, Modul/m19, Fach/Biochemie]
 title: Apoptose
 ---
-### Apoptose / Programmierter Zelltod
 - **Allgemeine Signalkaskade**
     1. Intrinsischer/Extrinsischer Faktor
     2. Initiatorcaspasen 2, 8, 9, 10

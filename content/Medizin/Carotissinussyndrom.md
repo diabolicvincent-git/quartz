@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, f/🫀, f/🧠, f/⚙️, a/Pathologie]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Neurologie, Fach/Physiologie, Art/Pathologie]
 title: Carotissinussyndrom
 ---
 ### Carotissinussyndrom

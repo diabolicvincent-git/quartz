@@ -1,5 +1,5 @@
 ---
-tags: [m/m17, f/💉, a/Pathologie]
+tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Sjögren-Syndrom
 ---
 > (Abstract::**[[Autoimmunität]] gegen [[Tränenapparat]] & [[Speicheldrüsen]].** [[♀]]. Leitsymptom [[Sicca-Syndrom]].)

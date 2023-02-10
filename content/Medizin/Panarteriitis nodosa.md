@@ -1,6 +1,6 @@
 ---
 aliases: Polyarteriitis nodosa
-tags: [m/m17, f/💉, a/Pathologie]
+tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Panarteriitis nodosa
 ---
 ### Panarteriitis nodosa

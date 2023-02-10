@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/🧠/Vigilanzminderung, m/m30]
+tags: [Art/Pathologie, Fach/Neurologie/Vigilanzminderung, Modul/m30]
 ICD: ""
 title: Somnolenz
 ---

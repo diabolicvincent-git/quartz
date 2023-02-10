@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦀, f/👂]
+tags: [Art/Pathologie, Fach/Onkologie, Fach/HNO]
 title: Pharynx-Ca
 ---
 > (Abstract::**Maligner [[Tumor]] des [[Pharynx]].**)

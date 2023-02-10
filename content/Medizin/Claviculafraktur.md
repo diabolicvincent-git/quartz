@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, f/🦴, a/Pathologie]
+tags: [Modul/m27, Fach/Orthopädie, Art/Pathologie]
 title: Claviculafraktur
 ---
 ## Claviculafraktur

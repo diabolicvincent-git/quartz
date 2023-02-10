@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🧠, f/🧪]
+tags: [Fach/Neurologie, Fach/Biochemie]
 title: β-Amyloid
 ---
 

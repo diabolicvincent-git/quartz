@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, f/💤, a/Pathologie]
+tags: [Modul/m00, Fach/Anästhesie, Art/Pathologie]
 title: Maligne Hyperthermie
 ---
 ### Maligne Hyperthermie / MH

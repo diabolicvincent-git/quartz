@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, m/m08, f/🩸, a/Intervention]
+tags: [Modul/m21, Modul/m08, Fach/Hämatologie, Art/Intervention]
 title: Coombs-Test
 ---
 ### Coombs-Test

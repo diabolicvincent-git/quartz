@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, a/Pathologie, f/🧴]
+tags: [Modul/m09, Art/Pathologie, Fach/Dermatologie]
 title: Enanthem
 ---
 **Enanthem**:: Gleichartige Schleimhautveränderungen in einer Region

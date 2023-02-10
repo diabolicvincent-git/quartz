@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, m/m11, f/🍺, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m14, Modul/m11, Fach/Nephrologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Renin
 ---
 ### Renin

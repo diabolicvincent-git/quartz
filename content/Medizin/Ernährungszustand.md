@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, a/Intervention]
+tags: [Modul/m00, Art/Intervention]
 title: Ernährungszustand
 ---
 ### Ernährungszustand / EZ

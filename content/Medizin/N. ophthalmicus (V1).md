@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, f/🧠/Hirnnerv]
+tags: [Modul/m15, Fach/Neurologie/Hirnnerv]
 title: N. ophthalmicus (V1)
 ---
 - **Nr**:: 5.1

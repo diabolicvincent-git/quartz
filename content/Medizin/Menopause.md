@@ -1,6 +1,6 @@
 ---
 aliases: Klimakterium, Wechseljahre, Postmenopause, Perimenopause
-tags: [m/m22, f/🦩]
+tags: [Modul/m22, Fach/Gynäkologie]
 title: Menopause
 ---
 ### Menopause / Klimakterium / Wechseljahre

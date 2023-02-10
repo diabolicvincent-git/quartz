@@ -1,6 +1,6 @@
 ---
 aliases: Virus, viral
-tags: [m/m03, m/m18, f/🦠, f/🦠/Erreger/Viren]
+tags: [Modul/m03, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
 title: SEM Pathogenese viraler Erkrankungen
 ---
 ### Viren

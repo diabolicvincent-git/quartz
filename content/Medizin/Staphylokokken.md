@@ -1,6 +1,6 @@
 ---
 aliases: Staphylococcus, Staphylococcen
-tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Staphylokokken
 ---
 > [[grampositiv]] > Kokken > [[Staphylokokken]] (Katalase+)

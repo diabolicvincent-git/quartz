@@ -1,6 +1,6 @@
 ---
 aliases: Selbstverletzendes Verhalten
-tags: [f/💭, a/Pathologie, m/m31]
+tags: [Fach/Psychiatrie, Art/Pathologie, Modul/m31]
 title: SVV
 ---
 - **Epidemiologie**:: Beginn frühe Adoleszenz, Prävalenz 17%, [[♀]]>[[♂]]

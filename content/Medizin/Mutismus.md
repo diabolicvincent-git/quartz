@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie]
+tags: [Art/Pathologie]
 title: Mutismus
 ---
 Wortkargheit trotz erhaltenen Sprachvermögens

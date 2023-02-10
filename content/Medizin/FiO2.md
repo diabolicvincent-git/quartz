@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, f/🫁, f/⚙️, f/💤]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie, Fach/Anästhesie]
 title: FiO2
 ---
 ### Inspiratorische Sauerstofffraktion / FiO2

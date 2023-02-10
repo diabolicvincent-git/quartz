@@ -1,6 +1,6 @@
 ---
 aliases: Gerinnungsneigung
-tags: [m/m17, a/Pathologie, f/🩸]
+tags: [Modul/m17, Art/Pathologie, Fach/Hämatologie]
 title: Thrombophilie
 ---
 

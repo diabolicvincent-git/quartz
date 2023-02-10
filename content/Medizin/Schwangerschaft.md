@@ -1,6 +1,6 @@
 ---
 aliases: Gravidität
-tags: [m/m05, m/m22]
+tags: [Modul/m05, Modul/m22]
 title: Schwangerschaft
 ---
 - **Diagnostik**

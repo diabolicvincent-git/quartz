@@ -1,6 +1,6 @@
 ---
 aliases: Pantoprazol, Omeprazol, Protonenpumpeninhibitoren, Protonenpumpenhemmer
-tags: [m/m26, f/💊/Medikament, f/💊/Medikament]
+tags: [Modul/m26, Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
 title: PPI
 ---
 ### Protonenpumpeninhibitoren / PPI

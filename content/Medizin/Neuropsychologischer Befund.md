@@ -13,4 +13,4 @@ title: Neuropsychologischer Befund
 
 ## bei einer/m gegebenen Patient verschiedene Dimensionen der Sprachstörungen ([[Aphasie]]) untersuchen, dokumentieren und hinsichtlich eines Normalbefundes einordnen
 
-#m/m15
+#Modul/m15

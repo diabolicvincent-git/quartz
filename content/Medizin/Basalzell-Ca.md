@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m19, a/Pathologie, f/🧴, f/🦀, a/Pathologie]
+tags: [Modul/m09, Modul/m19, Art/Pathologie, Fach/Dermatologie, Fach/Onkologie, Art/Pathologie]
 title: Basalzell-Ca
 ---
 ### Basalzellkarzinom / Basaliom

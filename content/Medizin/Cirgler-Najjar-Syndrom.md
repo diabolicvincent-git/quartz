@@ -1,6 +1,6 @@
 ---
 aliases: Arias-Syndrom
-tags: [m/m26, a/Pathologie, f/💩]
+tags: [Modul/m26, Art/Pathologie, Fach/Gastroenterologie]
 title: Cirgler-Najjar-Syndrom
 ---
 ### Cirgler-Najjar-Syndrom

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🍆, a/Pathologie]
+tags: [Modul/m22, Fach/Urologie, Art/Pathologie]
 title: Hodentorsion
 ---
 ### Hodentorsion

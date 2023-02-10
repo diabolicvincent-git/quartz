@@ -1,6 +1,6 @@
 ---
 aliases: M. Gilbert, Icterus intermittens juvenilis
-tags: [m/m12, f/💩, a/Pathologie]
+tags: [Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: M. Meulengracht
 ---
 ### M. Meulengracht / M. Gilbert

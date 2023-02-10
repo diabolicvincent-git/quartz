@@ -1,6 +1,6 @@
 ---
 aliases: Procalcitonin
-tags: [m/m17, f/🥼, f/🧪, f/🗞️, f/🧪/Molekül]
+tags: [Modul/m17, Fach/Laboratoriumsmedizin, Fach/Biochemie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: PCT
 ---
 ### Procalcitonin / PCT

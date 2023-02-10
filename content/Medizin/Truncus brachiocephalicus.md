@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m11, f/💀/Leitungsbahn/Arterie]
+tags: [Modul/m11, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Truncus brachiocephalicus
 ---
 ### Truncus brachiocephalicus

@@ -1,6 +1,6 @@
 ---
 aliases: Synarthrosen
-tags: [m/m10, f/🦴, f/💀]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Synarthrose
 ---
 ### Synarthrosen / Unechte [[Gelenke]]

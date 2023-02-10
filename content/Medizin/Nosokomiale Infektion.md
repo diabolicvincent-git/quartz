@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m18, f/🦠, f/📊]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Epidemiologie]
 title: Nosokomiale Infektion
 ---
 ### Nosokomiale [[Infektionen]]

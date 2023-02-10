@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, f/🧴, f/💀, f/🔬]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Anatomie, Fach/Histologie]
 title: Haut
 ---
 ### Haut

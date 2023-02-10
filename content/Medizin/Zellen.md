@@ -1,6 +1,6 @@
 ---
 aliases: Zelle, Zell
-tags: [m/m03, f/🧪, f/🔬/Zelle]
+tags: [Modul/m03, Fach/Biochemie, Fach/Histologie/Zelle]
 title: Zellen
 ---
 ### Zelle

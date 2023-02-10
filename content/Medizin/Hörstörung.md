@@ -1,6 +1,6 @@
 ---
 aliases: Schwerhörigkeit
-tags: [m/m16, f/👂, a/Pathologie]
+tags: [Modul/m16, Fach/HNO, Art/Pathologie]
 title: Hörstörung
 ---
 > (Abstract::**[[Schalleitungsstörung]] vs. [[Schallempfindungsstörung]].**)

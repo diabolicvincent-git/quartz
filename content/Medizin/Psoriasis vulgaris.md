@@ -1,6 +1,6 @@
 ---
 aliases: Schuppenflechte
-tags: [m/m09, f/🧴]
+tags: [Modul/m09, Fach/Dermatologie]
 title: Psoriasisspezifische Phänomene an der Haut
 ---
 > Chronisch-entzündliche, schubweise Hauterkrankung mit genetischer Prädisposition

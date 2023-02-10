@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m18, f/🦠, a/Intervention]
+tags: [Modul/m03, Modul/m18, Fach/Infektiologie, Art/Intervention]
 title: Gram
 ---
 ### Gram-Färbung

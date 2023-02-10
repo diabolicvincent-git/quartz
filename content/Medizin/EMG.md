@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m10, f/🧠, a/Intervention]
+tags: [Modul/m04, Modul/m10, Fach/Neurologie, Art/Intervention]
 title: EMG
 ---
 ### EMG

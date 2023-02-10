@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, m/m31, f/💭/Psychopathologischer-Befund/Formale-Denkstörung]
+tags: [Art/Pathologie, Modul/m31, Fach/Psychiatrie/Psychopathologischer-Befund/Formale-Denkstörung]
 title: Denkhemmung
 ---
 > (Abstract::Verlangsamter, eingeschränkter Denkablauf)

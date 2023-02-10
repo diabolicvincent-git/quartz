@@ -1,6 +1,6 @@
 ---
 aliases: PTT, partielle Thromboplastinzeit
-tags: [m/m08, f/🩸, f/🥼]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin]
 title: aPTT
 ---
 > (Abstract::**(aktivierte) partielle Thromboplastinzeit.** )

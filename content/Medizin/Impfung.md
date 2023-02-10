@@ -1,5 +1,5 @@
 ---
-tags: [m/m08, m/m18, f/🦠, f/🦄, a/Intervention]
+tags: [Modul/m08, Modul/m18, Fach/Infektiologie, Fach/Pädiatrie, Art/Intervention]
 title: die einer Impfung zugrunde liegenden Mechanismen erläutern
 ---
 - **Formen der Impfung**

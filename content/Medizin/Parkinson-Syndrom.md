@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [m/m15, f/🧠, a/Pathologie]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Parkinson-Syndrom
 ---
 Klinik aus [[Akinese]], [[Rigor]], [[Ruhetremor]], [[Posturale Instabilität]] durch [[DOPamin]]-Mangel

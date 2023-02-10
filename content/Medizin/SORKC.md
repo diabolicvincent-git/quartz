@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💭]
+tags: [Modul/m20, Fach/Psychiatrie]
 title: SORKC
 ---
 ### SORKC-Modell

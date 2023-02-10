@@ -1,6 +1,6 @@
 ---
 aliases: Melanocyten-stimulierendes Hormon
-tags: [m/m09, f/🧪, f/🧴, f/🗞️]
+tags: [Modul/m09, Fach/Biochemie, Fach/Dermatologie, Fach/Endokrinologie]
 title: MSH
 ---
 ### Melanocyten-stimulierendes [[Hormon]] / MSH

@@ -1,6 +1,6 @@
 ---
 aliases: Head-Zone
-tags: [m/m20, f/💤, a/Intervention]
+tags: [Modul/m20, Fach/Anästhesie, Art/Intervention]
 title: "Head'sche Zonen"
 ---
 ### Head'sche Zonen

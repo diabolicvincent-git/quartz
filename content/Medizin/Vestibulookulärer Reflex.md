@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/🧠, f/👁️, f/👂, f/⚙️, a/Intervention]
+tags: [Modul/m16, Fach/Neurologie, Fach/Ophthalmologie, Fach/HNO, Fach/Physiologie, Art/Intervention]
 title: Vestibulookulärer Reflex
 ---
 

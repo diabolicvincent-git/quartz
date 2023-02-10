@@ -1,6 +1,6 @@
 ---
 aliases: Adrenorezeptoren, adrenerg
-tags: [m/m21, f/⚙️, f/🫀, f/🧪/Molekül/Rezeptor]
+tags: [Modul/m21, Fach/Physiologie, Fach/Kardiologie, Fach/Biochemie/Molekül/Rezeptor]
 title: Adrenozeptoren
 ---
 > [[GPCR]] der [[Katecholamine]] außerhalb des [[ZNS]]

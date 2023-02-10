@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: [f/💭]
+tags: [Fach/Psychiatrie]
 title: Borderline-Typ
 ---

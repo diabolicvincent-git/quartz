@@ -1,5 +1,5 @@
 ---
-tags: [m/m03, m/m16, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament, ToDo]
+tags: [Modul/m03, Modul/m16, Fach/Infektiologie/Antiinfektiva/Antibiotika, Fach/Pharmakologie/Medikament, ToDo]
 title: Aminoglycoside
 ---
 - **Entitäten**:: [[Gentamicin]], [[Tobramycin]], [[Streptomycin]]

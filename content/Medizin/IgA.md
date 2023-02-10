@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/🩸, f/🦠]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie]
 title: IgA
 ---
 ### IgA

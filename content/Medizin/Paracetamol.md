@@ -1,6 +1,6 @@
 ---
 aliases: Acetaminophen
-tags: [m/m20, f/💊/Medikament, f/🍄/Gift]
+tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
 title: Paracetamol
 ---
 ### Paracetamol / PCM / Acetaminophen

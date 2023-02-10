@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🧬, a/Pathologie]
+tags: [Modul/m05, Fach/Genetik, Art/Pathologie]
 title: Ehlers-Danlos-Syndrom
 ---
 ### Ehlers-Danlos-Syndrom

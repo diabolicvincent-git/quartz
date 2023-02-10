@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/👁️, m/m29]
+tags: [Art/Pathologie, Fach/Ophthalmologie, Modul/m29]
 title: Uveitis
 ---
 > (Abstract::**Entzündung [[Uvea]].**)

@@ -1,6 +1,6 @@
 ---
 aliases: A. coronaria dextra
-tags: [m/m11, f/🫀, f/💀]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: RCA
 ---
 ## A. coronaria dextra / RCA

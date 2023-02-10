@@ -3,7 +3,7 @@ aliases:
   - VitB6
   - Pyridoxin
   - PALP
-tags: [m/m12, f/🧪/Molekül/Vitamin, f/🧪]
+tags: [Modul/m12, Fach/Biochemie/Molekül/Vitamin, Fach/Biochemie]
 title: Vitamin B6
 ---
 ### Vitamin B6 / Pyridoxin / PALP 

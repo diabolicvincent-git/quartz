@@ -1,6 +1,6 @@
 ---
 aliases: Niereninsuffizienz, CKD
-tags: [m/m14, f/🍺]
+tags: [Modul/m14, Fach/Nephrologie]
 title: CKD
 ---
 ### Chronische Nierenerkrankung / CKD

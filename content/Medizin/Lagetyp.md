@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/🫀, a/Intervention]
+tags: [Modul/m12, Fach/Kardiologie, Art/Intervention]
 title: Lagetyp
 ---
 ### Lagetyp

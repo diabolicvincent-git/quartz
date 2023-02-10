@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/🔪, f/💩]
+tags: [Modul/m26, Fach/Chirurgie, Fach/Gastroenterologie]
 title: Hämorrhoiden
 ---
 ### Hämorrhoiden

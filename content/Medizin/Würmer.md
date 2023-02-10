@@ -1,6 +1,6 @@
 ---
 aliases: Helminthen
-tags: [m/m18, f/🦠, f/🦠/Erreger/Parasiten]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
 title: Würmer
 ---
 ### Würmer / Helminthen

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🔬, f/💀, f/🐣]
+tags: [Modul/m05, Fach/Histologie, Fach/Anatomie, Fach/Embryologie]
 title: Vaskulogenese
 ---
 > (Abstract::Neubildung von [[Blutgefäße]] aus *Angioblasten* (Endothel-Vorläufer) innerhalb der *[[Embryonalentwicklung]]*)

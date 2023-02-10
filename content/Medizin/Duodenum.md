@@ -1,6 +1,6 @@
 ---
 aliases: Zwölffingerdarm
-tags: [m/m12, f/💀, f/💩]
+tags: [Modul/m12, Fach/Anatomie, Fach/Gastroenterologie]
 title: Duodenum
 ---
 ### Duodenum / Zwölffingerdarm

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m11, f/💀]
+tags: [Modul/m08, Modul/m11, Fach/Anatomie]
 title: Kapillaren
 ---
 ### Kapillaren 

@@ -1,6 +1,6 @@
 ---
 aliases: Kugelzellanämie
-tags: [m/m03, m/m08, m/m17]
+tags: [Modul/m03, Modul/m08, Modul/m17]
 title: Sphärocytose
 ---
 ### Sphärocytose / Kugelzellanämie 

@@ -1,3 +1,6 @@
+## Catalase (CAT)
+H2O2 → [[Wasser]] + [[O2]]
+
 ---
 aliases: Resuscitative Endocascular Balloon Occlusion of the Aorta
 tags: [m/m00, f/💤, a/Intervention]

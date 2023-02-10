@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, f/💀, f/🧠, f/🫀]
+tags: [Modul/m11, Fach/Anatomie, Fach/Neurologie, Fach/Kardiologie]
 title: Plexus cardiacus
 ---
 ### Plexus cardiacus

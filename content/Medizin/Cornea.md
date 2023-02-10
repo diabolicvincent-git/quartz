@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hornhaut
-tags: [m/m16, f/💀, f/👁️]
+tags: [Modul/m16, Fach/Anatomie, Fach/Ophthalmologie]
 title: Cornea
 ---
 ### Cornea / Hornhaut 

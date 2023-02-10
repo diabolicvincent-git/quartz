@@ -1,6 +1,6 @@
 ---
 aliases: VT, pVT
-tags: [m/m11, f/🫀, a/Pathologie, a/Pathologie]
+tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie, Art/Pathologie]
 title: Ventrikuläre Tachykardie
 ---
 ### Ventrikuläre [[Tachykardie]] / VT

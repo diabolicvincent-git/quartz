@@ -1,6 +1,6 @@
 ---
 aliases: Mycose, Pilzinfektionen
-tags: [m/m18, f/🦠, a/Pathologie]
+tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Pilzinfektion
 ---
 ### Pilzinfektionen / Mycosen

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠]
+tags: [Modul/m18, Fach/Infektiologie]
 title: Intrazelluläre Erreger
 ---
 ### Intrazelluläre Erreger

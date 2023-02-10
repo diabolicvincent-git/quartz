@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m15, f/💊/Medikament, f/💤]
+tags: [Modul/m11, Modul/m15, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Katecholamine
 ---
 ### Katecholamine

@@ -1,6 +1,6 @@
 ---
 aliases: Hämosiderose
-tags: [m/m17, a/Pathologie]
+tags: [Modul/m17, Art/Pathologie]
 title: Hämochromatose
 ---
 ### Hämochromatose / Hämosiderose 

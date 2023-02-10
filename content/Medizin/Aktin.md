@@ -1,5 +1,5 @@
 ---
-tags: [m/m03, f/🧪/Molekül/Cytoskelett]
+tags: [Modul/m03, Fach/Biochemie/Molekül/Cytoskelett]
 title: Aktin
 ---
 - **Aufbau**:: [[ATP]]-abhängige Polymerisation von G-[[Aktin]] → 2x F-[[Aktin]] = Helix

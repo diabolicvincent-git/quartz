@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🫀]
+tags: [Art/Pathologie, Fach/Kardiologie]
 title: Sick-Sinus-Syndrom
 ---
 > (Abstract::**[[HRST]] durch [[Sinusknoten]]-Störung.** Sinusbradykardie, intermittierend Sinusarrest / SA-Block oder abwechselnd Tachykardie-Bradykardie-Syndrom.)

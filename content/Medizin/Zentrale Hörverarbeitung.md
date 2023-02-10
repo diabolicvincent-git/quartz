@@ -1,6 +1,6 @@
 ---
 aliases: Hören
-tags: [m/m16, f/👂, f/🧠]
+tags: [Modul/m16, Fach/HNO, Fach/Neurologie]
 title: Zentrale Hörverarbeitung
 ---
 ## Akustische Signale

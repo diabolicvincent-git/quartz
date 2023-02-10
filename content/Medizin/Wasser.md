@@ -1,5 +1,5 @@
 ---
 aliases: H2O
-tags: [m/m14, f/🧪, f/🧪/Molekül]
+tags: [Modul/m14, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Wasser
 ---

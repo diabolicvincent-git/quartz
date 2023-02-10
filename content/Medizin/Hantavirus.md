@@ -1,6 +1,6 @@
 ---
 aliases: Hantaviren
-tags: [m/m18, f/🦠, f/🦠/Erreger/Viren]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
 title: Hantavirus
 ---
 ### Hantavirus

@@ -1,6 +1,6 @@
 ---
 aliases: Meckel-Divertikulitis
-tags: [m/m26]
+tags: [Modul/m26]
 title: Meckel-Divertikel
 ---
 ### Meckel-Divertikel

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🦄, f/🍆, f/🦩, f/🗞️]
+tags: [Modul/m22, Fach/Pädiatrie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie]
 title: Pubertät
 ---
 ### Pubertät

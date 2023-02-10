@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/👂, f/🦠]
+tags: [Art/Pathologie, Fach/HNO, Fach/Infektiologie]
 alias: Pfeiffer-Drüsenfieber
 title: Infektiöse Mononukleose
 ---

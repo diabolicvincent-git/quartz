@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠]
+tags: [Modul/m15, Fach/Neurologie]
 title: Mechanismen neuronaler Plastizität
 ---
 > Änderung neuronaler Strukturen in Abhängigkeit ihrer Aktivität

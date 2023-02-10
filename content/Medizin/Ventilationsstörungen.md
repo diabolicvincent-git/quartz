@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, f/🫁, a/Pathologie]
+tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Ventilationsstörungen
 ---
 ### Ventilationsstörungen
@@ -15,7 +15,7 @@ bei einer gegebenen Patientin, einem gegebenen Patienten eine pulsoxymetrische U
 
 ![[Untitled 55.png]]
 
-#m/m13
+#Modul/m13
 
 ## die Grundprinzipien der Pathogenese für hypoxämische und hyperkapnische Störungen erläutern 
 

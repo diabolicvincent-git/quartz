@@ -1,7 +1,7 @@
 ---
 aliases:
  - Bronchien
-tags: [m/m13, f/🫁, f/💀, f/⚙️]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anatomie, Fach/Physiologie]
 title: Bronchialbaum
 ---
 - **Funktion der Bronchien**

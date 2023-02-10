@@ -1,6 +1,6 @@
 ---
 aliases: Calcitonin-Gene-related Peptide
-tags: [m/m20, m/m09, f/🧪, f/🧪/Molekül]
+tags: [Modul/m20, Modul/m09, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: CGRP
 ---
 ### [[Calcitonin]]-Gene-related Peptide / CGRP

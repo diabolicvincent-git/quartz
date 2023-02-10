@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m06, m/m15, f/🧠, a/Intervention]
+tags: [Modul/m04, Modul/m06, Modul/m15, Fach/Neurologie, Art/Intervention]
 title: EEG
 ---
 ![[Schlafphasen]]

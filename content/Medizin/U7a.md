@@ -1,5 +1,5 @@
 ---
-tags: [f/🦄/U-Untersuchung, a/Intervention]
+tags: [Fach/Pädiatrie/U-Untersuchung, Art/Intervention]
 title: U7a
 ---
 > (Abstract::**3. Jahr.** Fokus Entwicklungsstörung.)

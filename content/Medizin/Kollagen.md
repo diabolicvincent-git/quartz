@@ -1,6 +1,6 @@
 ---
 aliases: Kollagene
-tags: [m/m05]
+tags: [Modul/m05]
 title: Kollagen
 ---
 ### Kollagen

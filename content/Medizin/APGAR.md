@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, f/🦄, a/Intervention, a/Intervention]
+tags: [Modul/m00, Fach/Pädiatrie, Art/Intervention, Art/Intervention]
 title: APGAR
 ---
 > (Abstract::Beurteilung Neugeborene)

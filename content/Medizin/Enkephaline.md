@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💤, f/🧪/Molekül, f/🧠, f/⚙️]
+tags: [Modul/m20, Fach/Anästhesie, Fach/Biochemie/Molekül, Fach/Neurologie, Fach/Physiologie]
 title: Enkephaline
 ---
 ### Enkephaline

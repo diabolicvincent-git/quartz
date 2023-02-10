@@ -1,5 +1,5 @@
 ---
-tags: [m/m14, f/🧪, f/🍺, f/🫀, f/🧪/Molekül/Enzym]
+tags: [Modul/m14, Fach/Biochemie, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül/Enzym]
 title: ACE
 ---
 > (Abstract::[[Angiotensin]]-konvertierende [[Enzyme]])

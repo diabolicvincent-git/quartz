@@ -1,6 +1,6 @@
 ---
 aliases: Pfortader
-tags: [m/m12, f/💩, f/💀, f/💀/Leitungsbahn/Vene]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
 title: V. portae hepatis
 ---
 ### V. portae hepatis / Pfortader

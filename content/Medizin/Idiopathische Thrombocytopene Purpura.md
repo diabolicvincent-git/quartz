@@ -1,6 +1,6 @@
 ---
 aliases: ITP
-tags: [m/m08, m/m17, f/🩸, a/Pathologie]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: Idiopathische Thrombocytopene Purpura
 ---
 ### Idiopathische Thrombocytopene [[Purpura]] / ITP 

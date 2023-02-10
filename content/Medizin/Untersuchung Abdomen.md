@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, m/m12, f/💩, f/💩, a/Intervention]
+tags: [Modul/m00, Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie, Art/Intervention]
 title: Untersuchung Abdomen
 ---
 ### [[Untersuchung]] Abdomen

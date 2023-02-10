@@ -1,6 +1,6 @@
 ---
 aliases: Müller-Gänge, Ductus paramesonephricus
-tags: [m/m22, f/🐣, f/🦩, f/🍆]
+tags: [Modul/m22, Fach/Embryologie, Fach/Gynäkologie, Fach/Urologie]
 title: Müller-Gang
 ---
 ### Müller-Gang / Ductus paramesonephricus

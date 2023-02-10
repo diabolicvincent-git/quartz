@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🫁, a/Pathologie, m/m13]
+tags: [Fach/Pneumologie, Art/Pathologie, Modul/m13]
 title: Asthma
 ---
 - **Pathophysiologie**:: Bronchospasmus + [[Ödeme]] + Remodeling + Mucus↑ → Atemfluss↓

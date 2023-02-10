@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17, f/🩸, f/⚙️]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Physiologie]
 title: HLA
 ---
 **Human [[Leukocyten]] Antigen / HLA**:: Codieren für [[MHC]]-[[Rezeptor]]; Starker Polymorphismus

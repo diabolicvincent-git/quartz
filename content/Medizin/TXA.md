@@ -1,6 +1,6 @@
 ---
 aliases: Tranexamsäure
-tags: [m/m17, f/🩸, f/💤, f/💊/Medikament]
+tags: [Modul/m17, Fach/Hämatologie, Fach/Anästhesie, Fach/Pharmakologie/Medikament]
 title: TXA
 ---
 > (Abstract::Tranexamsäure)

@@ -1,6 +1,6 @@
 ---
 aliases: Irreversibler Hirnfunktionsausfall
-tags: [m/m15, m/m21, f/💤, a/Intervention, f/🧠]
+tags: [Modul/m15, Modul/m21, Fach/Anästhesie, Art/Intervention, Fach/Neurologie]
 title: Hirntod
 ---
 ### Irreversibler Hirnfunktionsausfall / Hirntod

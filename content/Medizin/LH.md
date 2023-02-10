@@ -1,6 +1,6 @@
 ---
 aliases: Luteinisierendes Hormon
-tags: [m/m22, f/🗞️, f/🦩, f/🧪/Molekül]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Fach/Biochemie/Molekül]
 title: LH
 ---
 ### Luteinisierendes Hormon / LH

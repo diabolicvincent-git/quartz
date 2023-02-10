@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, f/💤, a/Intervention]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
 title: Praxis
 ---
 ### Beatmung
@@ -45,7 +45,7 @@ title: Praxis
         - MV
         - Tidalvolumen
 
-#m/m13
+#Modul/m13
 
 # Praxis
 **Druckkontrollierte [[Beatmung]]**:: Inspirationsdruck + [[Compliance]] = Tidalvolumen

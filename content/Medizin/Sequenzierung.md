@@ -1,6 +1,6 @@
 ---
 aliases: Gensequenzierung, DNA-Sequenzierung
-tags: [m/m02]
+tags: [Modul/m02]
 title: Sequenzierung
 ---
 

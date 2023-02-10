@@ -1,6 +1,6 @@
 ---
 aliases: Intrakranielle Neoplasie, Tumor cerebri
-tags: [m/m30, f/🧠, f/🦀, a/Pathologie]
+tags: [Modul/m30, Fach/Neurologie, Fach/Onkologie, Art/Pathologie]
 title: Hirntumor
 ---
 - **Entitäten**

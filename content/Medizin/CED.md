@@ -1,6 +1,6 @@
 ---
 aliases: Chronisch-entzündliche Darmerkrankung
-tags: [m/m17, m/m12, a/Pathologie, a/Pathologie, f/💉, f/💩]
+tags: [Modul/m17, Modul/m12, Art/Pathologie, Art/Pathologie, Fach/Rheumatologie, Fach/Gastroenterologie]
 title: CED
 ---
 ### Chronisch-entzündliche Darmerkrankung / CED

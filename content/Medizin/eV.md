@@ -1,6 +1,6 @@
 ---
 aliases: Elektronenvolt
-tags: [m/m19, f/🧪]
+tags: [Modul/m19, Fach/Biochemie]
 title: eV
 ---
 ### Elektronenvolt / eV

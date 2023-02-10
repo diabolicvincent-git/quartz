@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦠, f/👁️]
+tags: [Art/Pathologie, Fach/Infektiologie, Fach/Ophthalmologie]
 title: Toxoplasmose
 ---
 > (Abstract::**Zoonose durch [[Toxoplasma gondii]].**)

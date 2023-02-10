@@ -1,6 +1,6 @@
 ---
 aliases: Tubenmandeln
-tags: [f/💀/Organ/Tonsillen, f/💀, f/👂]
+tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
 title: Tonsillae tubariae
 ---
 > (Abstract::**Tubenmandeln ([[Tonsillen]]).**)

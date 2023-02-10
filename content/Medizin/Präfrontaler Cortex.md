@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m20, f/🧠, f/⚙️, f/💀]
+tags: [Modul/m15, Modul/m20, Fach/Neurologie, Fach/Physiologie, Fach/Anatomie]
 title: Präfrontaler Cortex
 ---
 ### Präfrontaler Cortex

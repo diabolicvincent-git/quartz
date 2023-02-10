@@ -1,6 +1,6 @@
 ---
 aliases: Augenkammern, Glaskörper
-tags: [m/m16, f/👁️]
+tags: [Modul/m16, Fach/Ophthalmologie]
 title: Augenkammer
 ---
 ### Augenkammer / Glaskörper

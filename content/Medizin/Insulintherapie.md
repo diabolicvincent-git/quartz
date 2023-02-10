@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🗞️, a/Intervention]
+tags: [Modul/m17, Fach/Endokrinologie, Art/Intervention]
 title: Insulintherapie
 ---
 ### Insulintherapie

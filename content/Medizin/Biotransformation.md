@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m12, f/💩, f/⚙️, f/🧪]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie, Fach/Biochemie]
 title: Biotransformation
 ---
 ### Biotransformation 

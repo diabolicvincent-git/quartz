@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10, f/🦴, f/🕶️]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Radiologie]
 title: Struktur und Verlauf der Binnenstrukturen (Ligg. cruciata et collateralia, Meniscus, Capsula) des Kniegelenks beschreiben
 ---
 

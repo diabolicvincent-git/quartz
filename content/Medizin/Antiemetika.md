@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m12, m/m20, f/💩, f/💊/Medikament/Übergruppe]
+tags: [Modul/m12, Modul/m20, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antiemetika
 ---
 - **Wirkstoffe**

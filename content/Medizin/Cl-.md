@@ -1,6 +1,6 @@
 ---
 aliases: Chlorid
-tags: [m/m14, f/🧪, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Cl-
 ---
 ### Chlorid / Cl-

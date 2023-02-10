@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, f/🧪]
+tags: [Modul/m02, Fach/Biochemie]
 title: Biogene Amine
 ---
 **Biogene Amine**

@@ -1,6 +1,6 @@
 ---
 aliases: VCV
-tags: [m/m13, f/🫁, f/💤, a/Intervention]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
 title: Volumenkontrollierte Beatmung
 ---
 ### Volumenkontrollierte [[Beatmung]] / VCV

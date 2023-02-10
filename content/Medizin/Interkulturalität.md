@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, m/m06]
+tags: [Modul/m20, Modul/m06]
 title: Interkulturalität
 ---
 ### Interkulturalität

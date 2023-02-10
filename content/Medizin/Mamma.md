@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🦩, f/💀]
+tags: [Modul/m05, Fach/Gynäkologie, Fach/Anatomie]
 title: Mamma
 ---
 ### Mamma

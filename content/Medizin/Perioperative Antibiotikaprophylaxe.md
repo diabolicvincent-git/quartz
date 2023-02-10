@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/💤, a/Intervention]
+tags: [Modul/m25, Fach/Anästhesie, Art/Intervention]
 title: Perioperative Antibiotikaprophylaxe
 ---
 ### Perioperative Antibiotikaprophylaxe

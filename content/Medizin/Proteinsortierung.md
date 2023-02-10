@@ -23,4 +23,4 @@ title: Proteinsortierung
 
 ![[Proteinmodifikation]]
 
-#m/m02 #m/m03
+#Modul/m02 #Modul/m03

@@ -1,6 +1,6 @@
 ---
 aliases: Gaumenmandeln
-tags: [f/💀/Organ/Tonsillen, f/💀, f/👂]
+tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
 title: Tonsillae palatinae
 ---
 > (Abstract::**Gaumenmandel ([[Tonsillen]]).**)

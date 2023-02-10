@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m11, f/💀, f/💀/Leitungsbahn/Vene]
+tags: [Modul/m08, Modul/m11, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Venen
 ---
 ### Venen

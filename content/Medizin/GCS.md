@@ -1,6 +1,6 @@
 ---
 aliases: Glasgow-Coma-Scale
-tags: [m/m15]
+tags: [Modul/m15]
 title: GCS
 ---
 ### Glasgow-Coma-Scale / GCS

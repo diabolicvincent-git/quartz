@@ -1,6 +1,6 @@
 ---
 aliases: Crus dextrum et sinistrum
-tags: [m/m11]
+tags: [Modul/m11]
 title: Tawara-Schenkel
 ---
 ### Tawara-Schenkel

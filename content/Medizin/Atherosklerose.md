@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, m/m08, m/m11, f/🧪, f/🫀, a/Pathologie]
+tags: [Modul/m02, Modul/m08, Modul/m11, Fach/Biochemie, Fach/Kardiologie, Art/Pathologie]
 title: Atherosklerose
 ---
 - **Pathophysiologie**

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, m/m15]
+tags: [Modul/m10, Modul/m15]
 title: Evozierte Potentiale
 ---
 ### Evozierte Potenziale

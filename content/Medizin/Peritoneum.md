@@ -1,6 +1,6 @@
 ---
 aliases: Peritonealverhältnisse
-tags: [m/m12]
+tags: [Modul/m12]
 title: Peritoneum
 ---
 ### Peritoneum

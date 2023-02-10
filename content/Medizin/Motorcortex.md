@@ -1,6 +1,6 @@
 ---
 aliases: Motorcortex
-tags: [m/m15]
+tags: [Modul/m15]
 title: Motorcortex
 ---
 ### Motorischer Cortex

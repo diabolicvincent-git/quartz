@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, m/m19]
+tags: [Modul/m18, Modul/m19]
 title: Kaposi-Sarkom
 ---
 ### Kaposi-Sarkom

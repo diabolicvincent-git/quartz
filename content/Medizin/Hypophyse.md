@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m22, f/🧠, f/💀]
+tags: [Modul/m15, Modul/m22, Fach/Neurologie, Fach/Anatomie]
 kleiner: [[Neurohypophyse]]
 title: Hypophyse
 ---

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, m/m19, f/🦀]
+tags: [Modul/m18, Modul/m19, Fach/Onkologie]
 title: Immune Escape
 ---
 - **Mechanismen von [[Tumor]]en**

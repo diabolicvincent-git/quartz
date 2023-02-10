@@ -1,6 +1,6 @@
 ---
 aliases: Harte Hirnhaut
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Dura mater
 ---
 ### Dura mater / Harte Hirnhaut

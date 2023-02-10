@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, f/🧠, f/💀/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Zirkumventrikuläre Organe
 ---
 ### Zirkumventrikuläre Organe

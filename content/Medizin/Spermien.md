@@ -1,6 +1,6 @@
 ---
 aliases: Spermium, Spermatozoon
-tags: [m/m22, f/🍆, f/🧬, f/⚙️, f/🔬/Zelle]
+tags: [Modul/m22, Fach/Urologie, Fach/Genetik, Fach/Physiologie, Fach/Histologie/Zelle]
 title: Spermien
 ---
 > [[Spermatogenese]]

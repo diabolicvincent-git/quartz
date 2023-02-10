@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m05, f/🔬]
+tags: [Modul/m05, Fach/Histologie]
 title: Bindegewebe
 ---
 ### Bindegewebe

@@ -1,6 +1,6 @@
 ---
 aliases: G-Protein-gekoppelter Rezeptor, G-Protein
-tags: [m/m04, f/🧪, f/⚙️]
+tags: [Modul/m04, Fach/Biochemie, Fach/Physiologie]
 title: GPCR
 ---
 ### G-Protein-gekoppelter Rezeptor / GPCR

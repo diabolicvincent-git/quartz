@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m01, a/Intervention, f/🔪]
+tags: [Modul/m01, Art/Intervention, Fach/Chirurgie]
 title: Amputation
 ---
 - **Indikation**:: *Ultima ratio* bei [[pAVK]], Infizierte Gangrän (z.B. [[Diabetische Nephropathie]]), [[Kompartmentsyndrom]], [[Gasbrand]], Malignom

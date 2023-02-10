@@ -1,6 +1,6 @@
 ---
 aliases: Fe2+, Fe3+
-tags: [m/m08, f/⚙️, f/🧪, f/🍄/Gift]
+tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie, Fach/Toxikologie/Gift]
 title: Eisen
 ---
 ### Eisen / Fe2+ / Fe3+ 

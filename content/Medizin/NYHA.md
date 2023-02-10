@@ -1,6 +1,6 @@
 ---
 aliases: New York Heart Association
-tags: [m/m11, f/🫀, f/🫁, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Pneumologie, Art/Intervention]
 title: NYHA
 ---
 ### NYHA / New York Heart Association

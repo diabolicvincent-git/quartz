@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💤, f/🧠, a/Pathologie]
+tags: [Modul/m20, Fach/Anästhesie, Fach/Neurologie, Art/Pathologie]
 title: Allodynie
 ---
 (Abstract::[[Schmerz]]auslösung durch normalerweise nicht-noxische (z.B. taktile) Reize)

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Enterobakterien
 ---
 ### Enterobakterien

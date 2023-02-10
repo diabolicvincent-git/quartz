@@ -1,6 +1,6 @@
 ---
 aliases: PCV, Pressure Controlled Ventilation
-tags: [m/m13, f/💤, f/🫁, a/Intervention]
+tags: [Modul/m13, Fach/Anästhesie, Fach/Pneumologie, Art/Intervention]
 title: Druckkontrollierte Beatmung
 ---
 ### Druckkontrollierte [[Beatmung]] / PCV

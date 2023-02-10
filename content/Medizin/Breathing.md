@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/💤]
+tags: [Modul/m21, Fach/Anästhesie]
 title: Breathing
 ---
 ### Breathing ([[ABCDE]])

@@ -1,6 +1,6 @@
 ---
 aliases: Rezeptoren
-tags: [m/m03]
+tags: [Modul/m03]
 title: Rezeptor
 ---
 

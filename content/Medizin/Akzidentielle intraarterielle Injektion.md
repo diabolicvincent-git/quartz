@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/💤]
+tags: [Art/Pathologie, Fach/Anästhesie]
 title: Akzidentielle intraarterielle Injektion
 ---
 > (Abstract::)

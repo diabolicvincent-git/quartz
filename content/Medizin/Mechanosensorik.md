@@ -60,4 +60,4 @@ Propriozeption|"Muskelspindeln, Sehnenorgane"|Depolarisation|primär
 ![[Untitled 3 9.png]]
 
 
-#m/m09
+#Modul/m09

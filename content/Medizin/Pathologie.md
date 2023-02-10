@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, ToDo, f/⚰️]
+tags: [Modul/m21, ToDo, Fach/Rechtsmedizin]
 title: VL Verdacht Bildgebung Gewebeprobe Diagnose
 ---
 ### Makroskopische Beschreibung

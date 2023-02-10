@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, m/m30, f/🧠/Demenz]
+tags: [Modul/m15, Modul/m30, Fach/Neurologie/Demenz]
 title: M. Alzheimer
 ---
 > (Abstract::**50% der [[Demenz]]en.** Unklare Ätiologie. ==EZ β-Amyloid, IZ Tau-Protein==. Gedächtnis/Orientierungsstörung.)

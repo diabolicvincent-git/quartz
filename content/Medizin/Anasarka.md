@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m12, f/💩, a/Pathologie]
+tags: [Modul/m11, Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: Anasarka
 ---
 (Abstract::Massive, generalisierte [[Ödeme]] der [[Subcutis]])

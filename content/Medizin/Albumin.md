@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/🧪, f/⚙️, f/💩, f/🧪/Molekül]
+tags: [Modul/m12, Fach/Biochemie, Fach/Physiologie, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
 title: Albumin
 ---
 - **Funktion**

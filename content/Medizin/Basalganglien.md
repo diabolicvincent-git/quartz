@@ -1,6 +1,6 @@
 ---
 aliases: Ncll. basalis, Nuclei basales
-tags: [m/m15, f/🧠, f/💀, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Anteile
 ---
 > [[Subcorticale Kerne]] in- und außerhalb des [[Großhirn]] zur Steuerung von Bewegungen

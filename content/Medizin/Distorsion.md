@@ -1,6 +1,6 @@
 ---
 aliases: Verstauchung
-tags: [m/m27, a/Pathologie, f/🦴]
+tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Distorsion
 ---
 ### Distorsion / Verstauchung

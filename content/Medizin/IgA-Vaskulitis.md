@@ -1,6 +1,6 @@
 ---
 aliases: Purpura Schoenlein-Henoch
-tags: [m/m17]
+tags: [Modul/m17]
 title: IgA-Vaskulitis
 ---
 ### [[IgA]]-[[Vaskulitis]] / [[Purpura]] Schoenlein-Henoch

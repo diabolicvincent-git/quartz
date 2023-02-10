@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🦩, a/Intervention]
+tags: [Modul/m22, Fach/Gynäkologie, Art/Intervention]
 title: Gynäkologische Untersuchung
 ---
 ### Gynäkologische Untersuchung

@@ -1,6 +1,6 @@
 ---
 aliases: Wirbelkörper, Vertebrae
-tags: [m/m10, f/💀, f/🦴/Knochen]
+tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie/Knochen]
 title: Wirbel
 ---
 ### Wirbel

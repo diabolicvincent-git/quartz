@@ -32,4 +32,4 @@ Toleranzmechanismen bezogen auf immunkompetente, reife [[Lymphocyten]]
 - **Ignoranz**:: Autoreaktive [[T-Zellen]] nehmen Autoantigene nicht wahr (z.B. da zu wenig präsentiert)
 - **Suppression** durch regulatorische [[T-Zellen]]
 
-#m/m08
+#Modul/m08

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, m/m21, f/⚙️]
+tags: [Modul/m14, Modul/m21, Fach/Physiologie]
 title: Kompartimente
 ---
 ### Kompartimente

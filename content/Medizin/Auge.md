@@ -1,7 +1,7 @@
 ---
 aliases:
   - Augen
-tags: [m/m16, f/👁️, f/💀]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Bulbus oculi
 ---
 # Bulbus oculi

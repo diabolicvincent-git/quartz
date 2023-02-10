@@ -1,6 +1,6 @@
 ---
 aliases: Granulocytopenie
-tags: [m/m08, m/m19]
+tags: [Modul/m08, Modul/m19]
 title: Neutropenie
 ---
 ### Neutropenie

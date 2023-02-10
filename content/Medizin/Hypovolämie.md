@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🫀, f/🍺, a/Pathologie, a/Pathologie]
+tags: [Modul/m19, Fach/Kardiologie, Fach/Nephrologie, Art/Pathologie, Art/Pathologie]
 title: Hypovolämie
 ---
 ### Hypovolämie

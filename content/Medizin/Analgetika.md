@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💤, f/💊/Medikament/Übergruppe]
+tags: [Modul/m20, Fach/Anästhesie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Analgetika
 ---
 - **[[Nicht-Opioid-Analgetika]]** ([[WHO-Stufenschema]] Stufe I)

@@ -1,6 +1,6 @@
 ---
 aliases: BE
-tags: [m/m14, f/🥼, f/🍺]
+tags: [Modul/m14, Fach/Laboratoriumsmedizin, Fach/Nephrologie]
 title: Base Excess
 ---
 **BE.** -2,0 bis +3,0 mmol/l

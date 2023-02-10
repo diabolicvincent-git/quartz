@@ -1,6 +1,6 @@
 ---
 aliases: Schwangerschaftswoche
-tags: [m/m05, m/m22, f/🦩, a/Intervention]
+tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Art/Intervention]
 title: SSW
 ---
 ### Schwangerschaftswoche / SSW

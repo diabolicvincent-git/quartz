@@ -1,5 +1,5 @@
 ---
-tags: [f/💀/Organ, f/💀, m/m29, f/👂]
+tags: [Fach/Anatomie/Organ, Fach/Anatomie, Modul/m29, Fach/HNO]
 title: Zunge
 ---
 > (Abstract::)

@@ -1,6 +1,6 @@
 ---
 aliases: Lactatdehydrogenase, Lactat-Dehydrogenase
-tags: [m/m02, f/🧪, f/🥼]
+tags: [Modul/m02, Fach/Biochemie, Fach/Laboratoriumsmedizin]
 title: LDH
 ---
 ### Lactatdehydrogenase / LDH

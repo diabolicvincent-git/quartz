@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m00, f/🧠, a/Pathologie]
+tags: [Modul/m00, Fach/Neurologie, Art/Pathologie]
 title: Creutzfeldt-Jakob
 ---
 ### Creutzfeldt-Jakob-Krankheit

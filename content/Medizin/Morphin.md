@@ -1,5 +1,5 @@
 ---
-tags: [m/m20, f/💤/Opioide]
+tags: [Modul/m20, Fach/Anästhesie/Opioide]
 title: Morphin
 ---
 - **Potenz**:: 1 (Leitsubstanz)

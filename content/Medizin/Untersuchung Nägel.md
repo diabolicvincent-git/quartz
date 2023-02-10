@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, f/🧴, a/Intervention]
+tags: [Modul/m00, Fach/Dermatologie, Art/Intervention]
 title: Untersuchung Nägel
 ---
 ### [[Untersuchung]] Nägel

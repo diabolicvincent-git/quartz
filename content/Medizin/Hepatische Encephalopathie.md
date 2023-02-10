@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💩, f/🧠, a/Pathologie]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Neurologie, Art/Pathologie]
 title: Hepatische Encephalopathie
 ---
 ### Hepatische Encephalopathie

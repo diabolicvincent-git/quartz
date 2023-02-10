@@ -1,6 +1,6 @@
 ---
 aliases: Spinale Muskelatrophie
-tags: [m/m30, f/🧠, f/🦄]
+tags: [Modul/m30, Fach/Neurologie, Fach/Pädiatrie]
 title: SMA
 ---
 ### Spinale Muskelatrophie / SMA

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m00, m/m21, a/Intervention, f/🩺]
+tags: [Modul/m00, Modul/m21, Art/Intervention, Fach/Allgemeinmedizin]
 title: Symptomkomplexe
 ---
 > (Abstract::**Differentialdiagnostik.**)

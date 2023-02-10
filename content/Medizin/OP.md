@@ -1,6 +1,6 @@
 ---
 aliases: Operation
-tags: [m/m26]
+tags: [Modul/m26]
 title: OP
 ---
 ### Operation / OP

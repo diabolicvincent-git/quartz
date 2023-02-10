@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦠/Reiseimpfung]
+tags: [Art/Pathologie, Fach/Infektiologie/Reiseimpfung]
 title: Gelbfieber
 ---
 - **Epidemiologie**:: Südamerika, Tropisches Afrika

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🧬, a/Pathologie]
+tags: [Modul/m17, Fach/Genetik, Art/Pathologie]
 title: Williams-Beuren-Syndrom
 ---
 ### Williams-Beuren-Syndrom 

@@ -33,4 +33,4 @@ title: Nucleotide
 - Regulatoren (z.B. GTP beim [[GPCR]])
 - Carriermoleküle (NAD+, FAD)
 
-#m/m02
+#Modul/m02

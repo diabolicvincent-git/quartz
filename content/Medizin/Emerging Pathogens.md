@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, f/🦠, f/📊]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Epidemiologie]
 title: Emerging Pathogens
 ---
 - **Emergenz**:: Neu auftretende oder an Bedeutung gewinnende Krankheitserreger

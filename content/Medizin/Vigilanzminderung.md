@@ -1,6 +1,6 @@
 ---
 aliases: Quantitative Bewusstseinsstörung
-tags: [m/m15, m/m20, f/🧠, a/Pathologie]
+tags: [Modul/m15, Modul/m20, Fach/Neurologie, Art/Pathologie]
 title: Vigilanzminderung
 ---
 > (Abstract::**Quantitative Bewusstseinsstörung.** [[Somnolenz]] > [[Sopor]] > [[Koma]])

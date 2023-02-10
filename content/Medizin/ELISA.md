@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🧬, a/Intervention]
+tags: [Modul/m17, Fach/Genetik, Art/Intervention]
 title: ELISA
 ---
 ### [[Enzyme]]-linked immunoabsorbent assay / ELISA

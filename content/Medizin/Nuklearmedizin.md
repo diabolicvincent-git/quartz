@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, f/🕶️]
+tags: [Modul/m19, Fach/Onkologie, Fach/Radiologie]
 title: Nuklearmedizin
 ---
 - **Anwendungsgebiete**

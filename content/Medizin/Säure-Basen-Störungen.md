@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, m/m13, f/⚙️, f/🍺, f/🫀]
+tags: [Modul/m14, Modul/m13, Fach/Physiologie, Fach/Nephrologie, Fach/Kardiologie]
 title: Säure-Basen-Störungen
 ---
 ### Säure-Basen-Störungen

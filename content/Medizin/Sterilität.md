@@ -1,6 +1,6 @@
 ---
 aliases: Unfruchtbarkeit
-tags: [m/m22, f/🦩, f/🍆, a/Pathologie, a/Pathologie]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie, Art/Pathologie]
 title: Sterilität
 ---
 ### Sterilität / Unfruchtbarkeit / Zeugungsunfähigkeit

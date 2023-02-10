@@ -33,4 +33,4 @@ Unbewusstes Gedächtnis in ==[[Basalganglien]]==, sensomotorische Systeme (u.a. 
 - **REM-[[Schlaf]] & Wachzustand**:: Besonders hohe [[ACh]]-Konzentration → Konsolidierung unterbunden; [[Langzeitpotenzierung]] ([[Neuroplastizität]]) hippocampaler [[Neuron]] möglich
 - **Tiefschlaf**:: [[ACh]]-Konzentration sinkt stark → Pyramidenzellen nicht mehr intrahippocampal synchronisiert; Weiterleitung/Konsolidierung zum [[Cortex cerebri]] & [[Neocortex]] möglich
 
-#m/m15 
+#Modul/m15 

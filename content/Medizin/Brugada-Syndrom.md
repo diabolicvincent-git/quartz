@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🫀, a/Pathologie]
+tags: [Fach/Kardiologie, Art/Pathologie]
 title: Brugada-Syndrom
 ---
 ### Brugada-Syndrom

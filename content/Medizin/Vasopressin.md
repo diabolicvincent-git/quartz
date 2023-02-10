@@ -1,5 +1,5 @@
 ---
-tags: [f/💊/Medikament, f/💊/Medikament, f/💤]
+tags: [Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Vasopressin
 ---
 > (Abstract::Äquivalent zu [[ADH]]) 

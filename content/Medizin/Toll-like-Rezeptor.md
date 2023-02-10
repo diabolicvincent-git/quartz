@@ -1,6 +1,6 @@
 ---
 aliases: TLR
-tags: [m/m18, m/m08, f/🧪/Molekül/Rezeptor, f/🧪, f/🦠]
+tags: [Modul/m18, Modul/m08, Fach/Biochemie/Molekül/Rezeptor, Fach/Biochemie, Fach/Infektiologie]
 title: Toll-like-Rezeptor
 ---
 ### Toll-like-[[Rezeptor]] / TLR

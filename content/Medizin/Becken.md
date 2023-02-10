@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, m/m22, f/💀]
+tags: [Modul/m10, Modul/m22, Fach/Anatomie]
 title: Becken
 ---
 - **[[Körperregionen]]**

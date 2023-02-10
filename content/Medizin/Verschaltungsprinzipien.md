@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Verschaltungsprinzipien
 ---
 - **Rückwärtshemmung**:: Aktivität 1 → Aktivität 2 → Hemmung 1

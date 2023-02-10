@@ -1,6 +1,6 @@
 ---
 aliases: meldepflichtig
-tags: [m/m18]
+tags: [Modul/m18]
 title: Meldepflicht
 ---
 ### Meldepflicht

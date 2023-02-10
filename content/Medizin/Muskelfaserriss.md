@@ -1,6 +1,6 @@
 ---
 aliases: Faserriss
-tags: [m/m27, a/Pathologie]
+tags: [Modul/m27, Art/Pathologie]
 title: Muskelfaserriss
 ---
 ### Muskelfaserriss

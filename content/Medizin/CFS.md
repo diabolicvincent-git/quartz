@@ -1,6 +1,6 @@
 ---
 aliases: Chronisches Fatigue Syndrom, Chronic Fatigue Syndrom
-tags: [m/m21, f/💭, a/Pathologie]
+tags: [Modul/m21, Fach/Psychiatrie, Art/Pathologie]
 title: CFS
 ---
 ### Chronisches Fatigue Syndrom

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, a/Intervention]
+tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: Chemotherapie
 ---
 ### Chemotherapie

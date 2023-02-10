@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, m/m18, f/🦠, a/Pathologie, f/💤]
+tags: [Modul/m17, Modul/m18, Fach/Infektiologie, Art/Pathologie, Fach/Anästhesie]
 title: Waterhouse-Friderichsen-Syndrom
 ---
 ### Waterhouse-Friderichsen-Syndrom

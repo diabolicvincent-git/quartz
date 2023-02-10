@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/🦴, a/Intervention]
+tags: [Modul/m10, Fach/Orthopädie, Art/Intervention]
 title: Funktionstests
 ---
 - **Hilfsmittel**

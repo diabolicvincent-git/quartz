@@ -9,4 +9,4 @@ die Untersuchung der Nasenhaupthöhlen mittels Nasenspekulum sowie die [[Untersu
 
 bei einer Patientin, einem Patienten mit Kanülierung der [[Trachea]] die Bedeutung der oberen Luftwege für die körperliche Belastbarkeit und Kommunikation ableiten können. 
 
-#m/m13
+#Modul/m13

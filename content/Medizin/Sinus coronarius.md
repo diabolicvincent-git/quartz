@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m11, f/🫀, f/💀/Leitungsbahn/Vene]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus coronarius
 ---
 ### Sinus coronarius

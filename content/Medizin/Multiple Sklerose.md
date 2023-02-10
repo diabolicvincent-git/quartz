@@ -1,6 +1,6 @@
 ---
 aliases: MS
-tags: [m/m15, a/Pathologie, Wichtig, m/m17]
+tags: [Modul/m15, Art/Pathologie, Wichtig, Modul/m17]
 title: Multiple Sklerose
 ---
 ### Multiple Sklerose / MS 

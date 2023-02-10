@@ -1,6 +1,6 @@
 ---
 aliases: Chlostridium difficile
-tags: [m/m24, f/🦠, f/🦠/Erreger/Bakterien]
+tags: [Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: C. difficile
 ---
 ### Chlostridium difficile

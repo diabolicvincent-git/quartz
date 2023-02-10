@@ -1,6 +1,6 @@
 ---
 aliases: Magnesium
-tags: [m/m14]
+tags: [Modul/m14]
 title: Mg2+
 ---
 ### Magnesium / Mg2+

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💊/Medikament, f/💤/Opioide]
+tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie/Opioide]
 title: fentaNYL
 ---
 - **Gruppe**:: [[Opioide]]

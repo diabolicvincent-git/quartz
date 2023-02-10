@@ -1,5 +1,5 @@
 ---
-tags: [m/m17, a/Pathologie, f/🗞️, a/Pathologie, f/💉, m/m29, f/👂]
+tags: [Modul/m17, Art/Pathologie, Fach/Endokrinologie, Art/Pathologie, Fach/Rheumatologie, Modul/m29, Fach/HNO]
 title: Hashimoto-Thyreoditis
 ---
 > (Abstract::**[[Autoimmunität]] → [[Hypothyreose]].** Häufigste Ursache dieser. Diagnostik: ==TPO-Antikörper==. Therapie: [[L-Thyroxin]])

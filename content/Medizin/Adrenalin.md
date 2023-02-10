@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, f/🗞️, f/🧪, f/🧪/Molekül/Hormon, f/💊/Medikament/Wirkstoff, ToDo]
+tags: [Modul/m15, Fach/Endokrinologie, Fach/Biochemie, Fach/Biochemie/Molekül/Hormon, Fach/Pharmakologie/Medikament/Wirkstoff, ToDo]
 title: Adrenalin
 ---
 > (Abstract::Pharmakologisches Äquivalent: [[EPINEPHrin]])

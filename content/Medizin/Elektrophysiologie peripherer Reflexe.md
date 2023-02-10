@@ -46,4 +46,4 @@ title: Elektrophysiologie peripherer Reflexe
     - Bei erhöhter Reizintensität (bis zu einem Umschlagspunkt) nimmt Amplitude der M-Welle zu und Amplitude der H-Welle ab
     - Reizschwelle H-Welle ist kleiner als Reizschwelle M-Welle
 
-#m/m04 #m/m10
+#Modul/m04 #Modul/m10

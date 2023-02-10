@@ -1,6 +1,6 @@
 ---
 aliases: Benigner paroxysmaler Lagerungsschwindel
-tags: [m/m16, f/👂]
+tags: [Modul/m16, Fach/HNO]
 title: BPLS
 ---
 > (Abstract::**Benigner paroxysmaler Lagerungsschwindel.**)

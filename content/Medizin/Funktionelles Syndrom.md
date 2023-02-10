@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, ToDo, f/💭, a/Pathologie]
+tags: [Modul/m21, ToDo, Fach/Psychiatrie, Art/Pathologie]
 title: 'VL "Ihnen fehlt nichts"'
 ---
 # VL "Ihnen fehlt nichts"

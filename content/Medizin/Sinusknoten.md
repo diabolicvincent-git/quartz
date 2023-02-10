@@ -1,7 +1,7 @@
 ---
 aliases:
   - Nodus sinuatrialis
-tags: [m/m11, f/🫀, f/⚙️]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Sinusknoten
 ---
 - **Lokalisation**:: Subepikardial im Sulcus terminalis (Einmündung [[V. cava superior]])

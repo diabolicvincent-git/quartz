@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m20]
+tags: [Modul/m15, Modul/m20]
 title: Neuropeptide
 ---
 ### Neuropeptide

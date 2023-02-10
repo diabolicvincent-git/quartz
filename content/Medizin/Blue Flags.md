@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/🩺]
+tags: [Modul/m20, Fach/Allgemeinmedizin]
 title: Blue Flags
 ---
 ### Blue Flags

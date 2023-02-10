@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sinus paranasales
-tags: [m/m16, f/👂, f/💀]
+tags: [Modul/m16, Fach/HNO, Fach/Anatomie]
 title: Nasennebenhöhlen
 ---
 ### Nasennebenhöhlen 

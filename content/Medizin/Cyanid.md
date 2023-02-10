@@ -1,6 +1,6 @@
 ---
 aliases: Cyanwasserstoff
-tags: [m/m03 m/m13, f/🧪, f/🫁, f/🍄/Gift]
+tags: [Modul/m03 Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Toxikologie/Gift]
 title: Cyanid
 ---
 > (Abstract::Blockade [[Atmungskette]]. [[Antidot]]: 4-DMAP oder Hydroxycobalamin.)

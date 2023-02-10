@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💭, a/Pathologie]
+tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Somatoforme Störung
 ---
 - **Definition**

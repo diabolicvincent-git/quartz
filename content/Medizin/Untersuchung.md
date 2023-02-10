@@ -1,5 +1,5 @@
 ---
-tags: [a/Intervention, f/🩺/Befundbaustein]
+tags: [Art/Intervention, Fach/Allgemeinmedizin/Befundbaustein]
 title: Untersuchung
 ---
 ### Körperliche Untersuchung

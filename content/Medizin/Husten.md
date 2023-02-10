@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, m/m13, f/🫁, f/🦠, f/🦀]
+tags: [Modul/m19, Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Fach/Onkologie]
 title: Husten
 ---
 ### Husten

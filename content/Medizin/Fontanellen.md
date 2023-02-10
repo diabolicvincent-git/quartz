@@ -1,7 +1,7 @@
 ---
 aliases:
   - Fontanelle
-tags: [m/m15]
+tags: [Modul/m15]
 title: Fontanellen
 ---
 ## Fonticulus anterior („große Fontanelle“)

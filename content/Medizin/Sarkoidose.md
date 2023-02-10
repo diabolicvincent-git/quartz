@@ -1,6 +1,6 @@
 ---
 aliases: M. Boeck
-tags: [m/m09]
+tags: [Modul/m09]
 title: Sarkoidose
 ---
 ### Sarkoidose / M. Boeck

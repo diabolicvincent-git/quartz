@@ -1,6 +1,6 @@
 ---
 aliases: SPECT
-tags: [m/m19, f/🦀, f/🕶️, a/Intervention]
+tags: [Modul/m19, Fach/Onkologie, Fach/Radiologie, Art/Intervention]
 title: Szintigraphie
 ---
 ### Szintigraphie

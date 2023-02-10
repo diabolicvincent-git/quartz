@@ -1,9 +1,8 @@
 ---
 aliases: null
-tags: [m/m06, m/m21, f/🩺]
+tags: [Modul/m06, Modul/m21, Fach/Allgemeinmedizin]
 title: VL Helfer-Pat-Beziehung
 ---
-# VL Helfer-Pat-Beziehung
        
 
 ### Ursachen für das Entstehen einer aggressiven Helferhandlung (für das Entstehen von Gewalt) in der Helfer-Patient-Beziehung erläutern können.

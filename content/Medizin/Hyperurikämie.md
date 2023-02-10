@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🥼, f/💉]
+tags: [Art/Pathologie, Fach/Laboratoriumsmedizin, Fach/Rheumatologie]
 title: Hyperurikämie
 ---
 > (Abstract::[[Serum]]-[[Harnsäure]] ≥6.5 mg/dl → Klinik der ==[[Gicht]]==)

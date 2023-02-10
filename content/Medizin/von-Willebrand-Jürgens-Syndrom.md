@@ -1,6 +1,6 @@
 ---
 aliases: vWS
-tags: [m/m08, m/m17, a/Pathologie, f/🩸, a/Pathologie]
+tags: [Modul/m08, Modul/m17, Art/Pathologie, Fach/Hämatologie, Art/Pathologie]
 title: von-Willebrand-Jürgens-Syndrom
 ---
 ### von-Willebrand-Jürgens-Syndrom / vWS 

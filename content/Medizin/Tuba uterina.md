@@ -1,6 +1,6 @@
 ---
 aliases: Eileiter
-tags: [m/m22, f/🦩, f/💀, f/💀/Organ]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Tuba uterina
 ---
 ### Tuba uterina / Eileiter

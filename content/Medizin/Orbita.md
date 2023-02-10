@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👁️, f/💀]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Begrenzende Schädelknochen
 ---
 > Knöcherne Schutzhülle um den [[Bulbus oculi]], gefüllt mit Fett-/[[Bindegewebe]]. Enhält [[N. opticus (II)]], [[Augenmuskulatur]], [[Tränendrüse]] sowie [[Gefäße]] und Nerven.

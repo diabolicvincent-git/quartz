@@ -1,6 +1,6 @@
 ---
 aliases: TGF-β
-tags: [m/m19, f/🧪/Molekül/Hormon]
+tags: [Modul/m19, Fach/Biochemie/Molekül/Hormon]
 title: TGF
 ---
 ### Transforming Growth Factor / TGF-β

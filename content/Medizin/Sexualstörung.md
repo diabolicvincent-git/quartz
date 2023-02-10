@@ -1,6 +1,6 @@
 ---
 aliases: Sexuelle Funktionsstörung, Sexuelle Funktionsstörungen
-tags: [m/m22, f/🦩, f/🍆, f/⚙️, a/Pathologie]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Physiologie, Art/Pathologie]
 title: Sexualstörung
 ---
 - **Störungen der sexuellen Appetenz**:: Lust↑↓ 

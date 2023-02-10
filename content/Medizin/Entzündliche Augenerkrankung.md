@@ -1,5 +1,5 @@
 ---
 aliases: null
-tags: [m/m16, m/m17, a/Pathologie]
+tags: [Modul/m16, Modul/m17, Art/Pathologie]
 title: Entzündliche Augenerkrankung
 ---

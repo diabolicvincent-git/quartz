@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🫀, f/🩸, a/Pathologie]
+tags: [Modul/m19, Fach/Kardiologie, Fach/Hämatologie, Art/Pathologie]
 title: Burkitt-Lymphom
 ---
 ### Burkitt-Lymphom

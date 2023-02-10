@@ -1,5 +1,5 @@
 ---
-tags: [m/m29]
+tags: [Modul/m29]
 title: Kaumuskulatur
 ---
 > (Abstract::4 Kaumuskeln, alle aus [[N. mandibularis (V3)]] innerviert.)

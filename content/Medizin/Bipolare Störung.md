@@ -1,6 +1,6 @@
 ---
 aliases: Bipolare affektive Störung
-tags: [m/m20, f/💭, a/Pathologie]
+tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Bipolare Störung
 ---
 ### Bipolare [[Affektive Störung]]

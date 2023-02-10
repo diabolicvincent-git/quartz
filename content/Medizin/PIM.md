@@ -1,5 +1,5 @@
 ---
-tags: [f/💊]
+tags: [Fach/Pharmakologie]
 title: PIM
 ---
 > (Abstract::**Potentiell inadäquate Medikamente.**)

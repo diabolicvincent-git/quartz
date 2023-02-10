@@ -1,6 +1,6 @@
 ---
 aliases: Nicht-kleinzelliges Lungen-Ca, Nicht-kleinzelliges Lungenkarzinom
-tags: [m/m19, f/🦀, f/🫁, a/Pathologie]
+tags: [Modul/m19, Fach/Onkologie, Fach/Pneumologie, Art/Pathologie]
 title: NSCLC
 ---
 ### Nicht-kleinzelliges [[Lungen-Ca]] / NSCLC

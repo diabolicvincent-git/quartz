@@ -1,6 +1,6 @@
 ---
 aliases: Nasogastrale Sonde
-tags: [m/m12, f/💩]
+tags: [Modul/m12, Fach/Gastroenterologie]
 title: Magensonde
 ---
 ### Magensonde / Nasogastrale Sonde

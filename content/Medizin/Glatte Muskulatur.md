@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🔬/Gewebe]
+tags: [Modul/m05, Fach/Histologie/Gewebe]
 title: Glatte Muskulatur
 ---
 - **Vorkommen**:: Wandungen von Hohlorganen, [[Gefäße]] und [[Lymphgefäße]], [[Auge]], Haut

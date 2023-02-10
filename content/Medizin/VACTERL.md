@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/🐣, a/Pathologie, f/🦄]
+tags: [Modul/m26, Fach/Embryologie, Art/Pathologie, Fach/Pädiatrie]
 title: VACTERL
 ---
 ### VACTERL

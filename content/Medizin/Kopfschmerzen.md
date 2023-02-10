@@ -1,6 +1,6 @@
 ---
 aliases: Cephalgie
-tags: [m/m15, a/Pathologie, f/🧠]
+tags: [Modul/m15, Art/Pathologie, Fach/Neurologie]
 title: Kopfschmerzen
 ---
 ### Kopfschmerzen / Cephalgie

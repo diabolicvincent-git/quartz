@@ -1,5 +1,5 @@
 ---
-tags: [m/m14, f/🍺, f/🫀, f/🧪/Molekül/Hormon]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül/Hormon]
 title: ADH
 ---
 > (Abstract::Pharmakologisches Äquivalent: [[Vasopressin]])

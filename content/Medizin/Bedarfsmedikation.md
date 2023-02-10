@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, a/Intervention, f/🩺]
+tags: [Modul/m20, Art/Intervention, Fach/Allgemeinmedizin]
 title: Bedarfsmedikation
 ---
 ### Bedarfsmedikation

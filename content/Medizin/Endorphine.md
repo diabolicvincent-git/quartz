@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/🗞️, f/⚙️, f/🧠]
+tags: [Modul/m20, Fach/Endokrinologie, Fach/Physiologie, Fach/Neurologie]
 title: Endorphine
 ---
 ### Endorphine / Endogene Opioide

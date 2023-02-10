@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m21, f/🧠, a/Pathologie]
+tags: [Modul/m15, Modul/m21, Fach/Neurologie, Art/Pathologie]
 title: Meningismus
 ---
 ### Meningismus

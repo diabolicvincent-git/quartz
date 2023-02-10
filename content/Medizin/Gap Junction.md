@@ -1,6 +1,6 @@
 ---
 aliases: Nexus
-tags: [m/m04, m/m05]
+tags: [Modul/m04, Modul/m05]
 title: Gap Junction
 ---
 ### Gap Junction / Nexus

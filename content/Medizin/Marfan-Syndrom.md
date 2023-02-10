@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m17, f/🧬, a/Pathologie]
+tags: [Modul/m05, Modul/m17, Fach/Genetik, Art/Pathologie]
 title: Marfan-Syndrom
 ---
 ### Marfan-Syndrom 

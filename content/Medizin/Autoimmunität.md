@@ -1,9 +1,8 @@
 ---
 aliases: Autoimmunerkrankung
-tags: [m/m17, f/💉]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Autoimmunität
 ---
-### Autoimmunität 
 > Pathologisch aktiviertes adaptives Immunsystem → Toleranzverlust ggü. Selbst-Antigenen (Bildung von *autoreaktiven [[T-Zellen]]* und *[[Auto-Antikörper]]n*)
 - **Epidemiologie**:: Insg. 5% ([[♀]]>[[♂]])
 - **Symptome**:: Schubhafter, progredienter Verlauf

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/🫀]
+tags: [Modul/m25, Fach/Kardiologie]
 title: Perikarditis
 ---
 ### Perikarditis

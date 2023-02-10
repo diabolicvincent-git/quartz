@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m02, f/🧪, f/🧬, f/🧪/Molekül]
+tags: [Modul/m02, Fach/Biochemie, Fach/Genetik, Fach/Biochemie/Molekül]
 title: Chromatin
 ---
 ## Chromatin

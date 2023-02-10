@@ -1,9 +1,8 @@
 ---
 aliases: null
-tags: [m/m17, f/💉]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Autoinflammation
 ---
-### Autoinflammation 
 > Systemische Entzündungsvorgänge aufgr. Fehlaktivierung des ==angeborenen Immunsystems== via TLRs und NLRs mit Schlüsselrolle des *==[[IL-1]]==*
 - **Klinik**:: Intermittierende, manchmal persistierende systemisch-chronische Inflammation
 	- Akute, selbstlimitierende Fieberepisoden

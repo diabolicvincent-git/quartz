@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🍺]
+tags: [Modul/m14, Fach/Nephrologie]
 title: Nephrotisches Syndrom
 ---
 ### Nephrotisches Syndrom

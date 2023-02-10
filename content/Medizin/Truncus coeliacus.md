@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m12, m/m26, f/💀, f/💀/Leitungsbahn/Arterie]
+tags: [Modul/m12, Modul/m26, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Truncus coeliacus
 ---
 ### Truncus coeliacus

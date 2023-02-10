@@ -1,5 +1,5 @@
 ---
-tags: [f/💊/Medikament, f/🍄/Gift]
+tags: [Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
 title: Barbiturate
 ---
 > (Abstract::) 

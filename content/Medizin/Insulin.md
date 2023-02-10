@@ -1,6 +1,6 @@
 ---
 aliases: Insuline
-tags: [m/m17, m/m04, f/🗞️]
+tags: [Modul/m17, Modul/m04, Fach/Endokrinologie]
 title: Pharmakologie
 ---
 ### Insulin als Hormon (Abstract I)

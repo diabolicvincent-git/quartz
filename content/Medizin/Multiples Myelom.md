@@ -1,6 +1,6 @@
 ---
 aliases: M. Kahler, Plasmocytom
-tags: [m/m19, f/🦀, f/🩸, a/Pathologie]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: Multiples Myelom
 ---
 > (Abstract::**B-Zell-[[Non-Hodgkin-Lymphom]].** Auch: M. Kahler, systemischer Plasmazelltumor.)

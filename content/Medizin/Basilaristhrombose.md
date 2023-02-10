@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, f/🧠, a/Pathologie, m/m30]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie, Modul/m30]
 title: Basilaristhrombose
 ---
 > (Abstract::Unbehandelt Letalität 80%)

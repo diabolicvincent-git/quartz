@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m06, m/m20, f/💭, f/⚙️]
+tags: [Modul/m06, Modul/m20, Fach/Psychiatrie, Fach/Physiologie]
 title: Stress
 ---
 ### Stress

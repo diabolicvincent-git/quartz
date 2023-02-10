@@ -1,6 +1,6 @@
 ---
 aliases: Atemnot
-tags: [m/m11, m/m13, f/🫁]
+tags: [Modul/m11, Modul/m13, Fach/Pneumologie]
 title: Dyspnoe
 ---
 ### Dyspnoe / Atemnot

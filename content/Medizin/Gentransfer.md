@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m18, f/🧬]
+tags: [Modul/m03, Modul/m18, Fach/Genetik]
 title: Gentransfer
 ---
 ### Gentransfer

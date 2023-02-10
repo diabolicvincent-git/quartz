@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14]
+tags: [Modul/m14]
 title: Hypokaliämie
 ---
 ### Hypokaliämie

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, a/Pathologie, f/🧬]
+tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie, Fach/Genetik]
 title: α1-Antitrypsin-Mangel
 ---
 ### α1-Antitrypsin-Mangel

@@ -1,6 +1,6 @@
 ---
 aliases: Coombs & Gell
-tags: [m/m09, m/m17, f/💉, f/🧴]
+tags: [Modul/m09, Modul/m17, Fach/Rheumatologie, Fach/Dermatologie]
 title: Hypersensibilitätstypen
 ---
 ### Hypersensibilitätstypen n. Coombs & Gell (Tabelle)

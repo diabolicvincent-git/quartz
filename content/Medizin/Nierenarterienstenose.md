@@ -1,6 +1,6 @@
 ---
 aliases: NAST
-tags: [m/m14]
+tags: [Modul/m14]
 title: Nierenarterienstenose
 ---
 ### Nierenarterienstenose

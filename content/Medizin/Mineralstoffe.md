@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/🧪, f/⚙️]
+tags: [Modul/m21, Fach/Biochemie, Fach/Physiologie]
 title: Mineralstoffe
 ---
 ### Mineralstoffe

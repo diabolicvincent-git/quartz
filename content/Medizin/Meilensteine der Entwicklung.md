@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🦄, a/Intervention]
+tags: [Modul/m22, Fach/Pädiatrie, Art/Intervention]
 title: Meilensteine der Entwicklung
 ---
 ### Meilensteine der kindlichen Entwicklung

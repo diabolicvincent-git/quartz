@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [f/🕶️/Standardbildgebung]
+tags: [Fach/Radiologie/Standardbildgebung]
 title: Röntgen
 ---
-#m/m00 
+#Modul/m00 

@@ -1,6 +1,6 @@
 ---
 aliases: Depressive Störung
-tags: [m/m20, a/Pathologie, f/💭, a/Intervention]
+tags: [Modul/m20, Art/Pathologie, Fach/Psychiatrie, Art/Intervention]
 title: Depression
 ---
 ### Depression

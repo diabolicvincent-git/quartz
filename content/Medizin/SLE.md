@@ -1,6 +1,6 @@
 ---
 aliases: SLE, Systemischer Lupus erythematodes
-tags: [m/m17, a/Pathologie, f/💉]
+tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie]
 title: SLE
 ---
 - **Epidemiologie**:: 20. – 40. LJ, [[♀]] >> [[♂]] 

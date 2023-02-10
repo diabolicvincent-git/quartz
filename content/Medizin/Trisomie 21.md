@@ -1,6 +1,6 @@
 ---
 aliases: Down-Syndrom
-tags: [m/m02, f/🧬, a/Pathologie]
+tags: [Modul/m02, Fach/Genetik, Art/Pathologie]
 title: Trisomie 21
 ---
 ### Trisomie 21 / Down-Syndrom 

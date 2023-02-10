@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m06, m/m22]
+tags: [Modul/m06, Modul/m22]
 title: Elli Anamnesegruppe
 ---
 ### Sexualanamnese

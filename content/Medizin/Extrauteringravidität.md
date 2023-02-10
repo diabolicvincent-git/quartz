@@ -1,6 +1,6 @@
 ---
 aliases: Ektope Schwangerschaft, EUG
-tags: [m/m22, f/🦩]
+tags: [Modul/m22, Fach/Gynäkologie]
 title: Extrauteringravidität
 ---
 ### Extrauteringravidität / EUG

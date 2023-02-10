@@ -1,6 +1,6 @@
 ---
 aliases: Metabolismus
-tags: [m/m03, f/🧪]
+tags: [Modul/m03, Fach/Biochemie]
 title: Stoffwechsel
 ---
 ### Stoffwechsel / Metabolismus

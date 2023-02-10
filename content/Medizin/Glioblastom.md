@@ -1,5 +1,5 @@
 ---
-tags: [m/m30, f/🧠, f/🦀/Hirntumor/Astrocytom, a/Pathologie]
+tags: [Modul/m30, Fach/Neurologie, Fach/Onkologie/Hirntumor/Astrocytom, Art/Pathologie]
 title: Glioblastom
 ---
 > (Abstract::**[[Astrocytom]] Grad IV.** Häufigster maligner [[Hirntumor]].)

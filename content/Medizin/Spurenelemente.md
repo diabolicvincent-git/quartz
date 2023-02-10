@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/⚙️]
+tags: [Modul/m21, Fach/Physiologie]
 title: Spurenelemente
 ---
 ### Spurenelemente

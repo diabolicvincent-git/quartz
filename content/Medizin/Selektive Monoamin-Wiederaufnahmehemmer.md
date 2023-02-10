@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m20, f/💭, f/💊/Medikament]
+tags: [Modul/m20, Fach/Psychiatrie, Fach/Pharmakologie/Medikament]
 title: Selektive Monoamin-Wiederaufnahmehemmer
 ---
 - **Gruppen**

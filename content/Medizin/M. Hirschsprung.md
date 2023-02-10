@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, a/Pathologie, f/💩, f/🐣]
+tags: [Modul/m26, Art/Pathologie, Fach/Gastroenterologie, Fach/Embryologie]
 title: M. Hirschsprung
 ---
 ### M. Hirschsprung

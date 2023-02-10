@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁]
+tags: [Modul/m13, Fach/Pneumologie]
 title: Obstruktive Ventilationsstörung
 ---
 - Strömungswiderstand im [[Bronchialbaum]] ↑ → [[Resistance]] ↑

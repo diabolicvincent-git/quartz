@@ -1,6 +1,6 @@
 ---
 aliases: Transient loss of consciousness
-tags: [a/Pathologie]
+tags: [Art/Pathologie]
 title: TLOC
 ---
 ### Transient loss of consciousness / TLOC

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, m/m21, f/💩, a/Pathologie]
+tags: [Modul/m12, Modul/m21, Fach/Gastroenterologie, Art/Pathologie]
 title: Leberversagen
 ---
 ### Leberversagen

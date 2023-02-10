@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10, f/🦴/Muskel]
+tags: [Modul/m10, Fach/Orthopädie/Muskel]
 title: M. pectoralis major
 ---
 ### M. pectoralis major

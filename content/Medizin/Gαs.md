@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, f/🧪]
+tags: [Modul/m04, Fach/Biochemie]
 title: Gαs
 ---
 **Gαs-[[GPCR]]** stimuliert [[Adenylatcyclase]] → [[cAMP]]↑

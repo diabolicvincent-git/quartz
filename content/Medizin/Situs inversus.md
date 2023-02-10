@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m05, f/💀, f/🐣, a/Pathologie]
+tags: [Modul/m05, Fach/Anatomie, Fach/Embryologie, Art/Pathologie]
 title: Situs inversus
 ---
 ### Situs inversus

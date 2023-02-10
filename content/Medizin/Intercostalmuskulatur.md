@@ -15,4 +15,4 @@ title: Intercostalmuskulatur
 
 ![[Untitled 15.png]]
 
-#m/m10 #m/m13
+#Modul/m10 #Modul/m13

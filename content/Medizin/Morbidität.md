@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m07, f/📊]
+tags: [Modul/m07, Fach/Epidemiologie]
 title: Morbidität
 ---
 ### Morbidität

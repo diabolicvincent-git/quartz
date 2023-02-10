@@ -1,5 +1,5 @@
 ---
-tags: [m/m11, m/m21, f/💤, f/💊/Medikament, f/🫀]
+tags: [Modul/m11, Modul/m21, Fach/Anästhesie, Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: DOBUTamin
 ---
 - **Indikation**:: Kardiogener Schock, akute kardiale Dekompensation

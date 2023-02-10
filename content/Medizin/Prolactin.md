@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m04, f/🗞️, f/🧪/Molekül]
+tags: [Modul/m05, Modul/m04, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Prolactin
 ---
 ### Prolactin

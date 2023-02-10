@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🧪, f/🫁, f/🧪/Molekül/Enzym]
+tags: [Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Molekül/Enzym]
 title: Pathologie
 ---
 ### α1-Antitrypsin
@@ -9,7 +9,7 @@ title: Pathologie
 - **Synthese**:: [[Leber]]
 - **Aufbau**:: Aktives Zentrum enthält 8 [[Methionin]]-Reste (oxidierbar zu [[Methionin]]-Sulfoxid)
 - **Funktion**:: Gegenspieler der neutrophilen Elastase (s.o.)
-# Pathologie
+## Pathologie
 Hohe Anfälligkeit für [[ROS]]!
 - Oxidation → Funktionsverlust
 - Überwiegen der neutrophilen Elastase → vermehrt Umbau/Verlust von [[Bindegewebe]]

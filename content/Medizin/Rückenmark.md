@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m10]
+tags: [Modul/m15, Modul/m10]
 title: Aufbau
 ---
 ### Rückenmark 

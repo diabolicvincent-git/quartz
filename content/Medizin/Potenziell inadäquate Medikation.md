@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Intervention]
+tags: [Art/Intervention]
 title: Potenziell inadäquate Medikation
 ---
 - Arzneistoffe, die bei geriatrischen Patienten

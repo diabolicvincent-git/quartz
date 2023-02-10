@@ -1,5 +1,5 @@
 ---
-tags: [m/m14, f/🍺, a/Pathologie]
+tags: [Modul/m14, Fach/Nephrologie, Art/Pathologie]
 title: Elektrolytstörungen
 ---
 > (Abstract::)

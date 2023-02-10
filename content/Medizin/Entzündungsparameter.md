@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m18]
+tags: [Modul/m18]
 title: Entzündungsparameter
 ---
 ### Entzündungsparameter

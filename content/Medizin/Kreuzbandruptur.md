@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/🦴, a/Pathologie]
+tags: [Modul/m10, Fach/Orthopädie, Art/Pathologie]
 title: Kreuzbandruptur
 ---
 - [[Muskeln]] mit Wirkung auf das [[Kniegelenk]]

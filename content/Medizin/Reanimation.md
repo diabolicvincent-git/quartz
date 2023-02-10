@@ -1,6 +1,6 @@
 ---
 aliases: CPR
-tags: [m/m00, m/m21]
+tags: [Modul/m00, Modul/m21]
 title: Reanimation
 ---
 ### Reanimation / CPR

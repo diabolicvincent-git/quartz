@@ -1,6 +1,6 @@
 ---
 aliases: DNA-Schädigung
-tags: [m/m19, f/🧬, f/🧪]
+tags: [Modul/m19, Fach/Genetik, Fach/Biochemie]
 title: DNA-Schäden
 ---
 ### [[DNA]]-Schäden

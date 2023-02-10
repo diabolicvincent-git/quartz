@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🫁, m/m13]
+tags: [Fach/Pneumologie, Modul/m13]
 title: Inspiration
 ---
 # Inspiration

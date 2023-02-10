@@ -1,6 +1,6 @@
 ---
 aliases: Alaninaminotransferase, ALAT, GPT
-tags: [m/m12, f/🧪, f/🥼, f/🧪/Molekül/Enzym]
+tags: [Modul/m12, Fach/Biochemie, Fach/Laboratoriumsmedizin, Fach/Biochemie/Molekül/Enzym]
 title: ALT
 ---
 - **Funktion**:: [[Transaminierung]], [[Alaninzyklus]]

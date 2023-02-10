@@ -1,6 +1,6 @@
 ---
 aliases: Furosemid, Torasemid
-tags: [m/m14, f/🍺, f/🫀, f/💊/Medikament]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: Schleifendiuretika
 ---
 ### Schleifendiuretika

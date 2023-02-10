@@ -1,6 +1,6 @@
 ---
 aliases: Pulswelle
-tags: [m/m11]
+tags: [Modul/m11]
 title: Puls
 ---
 ### Puls

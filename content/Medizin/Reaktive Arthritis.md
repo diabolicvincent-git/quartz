@@ -1,6 +1,6 @@
 ---
 aliases: M. Reiter
-tags: [m/m17, f/💉]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Reaktive Arthritis
 ---
 ### Reaktive Arthritis / M. Reiter 

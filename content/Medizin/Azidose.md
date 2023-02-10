@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🍺, f/🥼]
+tags: [Modul/m13, Fach/Nephrologie, Fach/Laboratoriumsmedizin]
 title: Respiratorische Azidose
 ---
 # Respiratorische Azidose

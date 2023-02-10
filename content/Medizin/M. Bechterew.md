@@ -1,6 +1,6 @@
 ---
 aliases: Spondylitis ankylosans
-tags: [m/m17]
+tags: [Modul/m17]
 title: M. Bechterew
 ---
 ### M. Bechterew / Spondylitis ankylosans 

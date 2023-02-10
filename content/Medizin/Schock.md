@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m17, m/m21, ToDo, f/💤, a/Pathologie, f/⛑️]
+tags: [Modul/m11, Modul/m17, Modul/m21, ToDo, Fach/Anästhesie, Art/Pathologie, Fach/Notfallmedizin]
 title: VL Septischer Schock
 ---
 ### Schock

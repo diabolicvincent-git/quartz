@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30, f/🧠, a/Intervention]
+tags: [Modul/m30, Fach/Neurologie, Art/Intervention]
 title: Primitivreflexe
 ---
 ### Primitivreflexe

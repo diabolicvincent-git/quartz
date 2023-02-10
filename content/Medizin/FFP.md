@@ -1,6 +1,6 @@
 ---
 aliases: Plasmakonzentrat, Fresh Frozen Plasma
-tags: [m/m08, f/🩸/Transfusion/Blutprodukt, f/💊/Medikament]
+tags: [Modul/m08, Fach/Hämatologie/Transfusion/Blutprodukt, Fach/Pharmakologie/Medikament]
 title: FFP
 ---
 > (Abstract::**Fresh Frozen Plasma.**)

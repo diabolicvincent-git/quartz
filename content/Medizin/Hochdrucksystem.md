@@ -1,7 +1,7 @@
 ---
 aliases:
   - null
-tags: [m/m11, f/🫀, f/⚙️]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Hochdrucksystem
 ---
 - **Bestandteile**:: Linker Ventrikel ([[Systole]]) und alle [[Arterien]] im [[Körperkreislauf]]

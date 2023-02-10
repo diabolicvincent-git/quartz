@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m05, f/🧴, a/Pathologie]
+tags: [Modul/m11, Modul/m05, Fach/Dermatologie, Art/Pathologie]
 title: Venöse Insuffizienz
 ---
 ### Venöse Insuffizienz

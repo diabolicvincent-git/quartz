@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦄, f/🧬]
+tags: [Art/Pathologie, Fach/Pädiatrie, Fach/Genetik]
 title: Frühkindlicher Autismus
 ---
 **Gruppe**:: [[Autismus-Spektrum-Störung]]

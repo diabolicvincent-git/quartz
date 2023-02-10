@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, m/m15, f/🦴, f/🧠, f/⚙️, a/Intervention]
+tags: [Modul/m10, Modul/m15, Fach/Orthopädie, Fach/Neurologie, Fach/Physiologie, Art/Intervention]
 title: Fremdreflex
 ---
 ### Fremdreflex

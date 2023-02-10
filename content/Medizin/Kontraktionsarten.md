@@ -3,4 +3,4 @@ title: Kontraktionsarten
 ---
 ![[Untitled 87.png]]
 
-#m/m10
+#Modul/m10

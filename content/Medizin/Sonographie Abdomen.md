@@ -1,5 +1,5 @@
 ---
-tags: [f/🩺/Befundbaustein, a/Intervention, f/🕶️]
+tags: [Fach/Allgemeinmedizin/Befundbaustein, Art/Intervention, Fach/Radiologie]
 title: Sonographie Abdomen
 ---
 - **Schnitte**

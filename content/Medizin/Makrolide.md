@@ -1,6 +1,6 @@
 ---
 aliases: Clarithromycin, Erythromycin, Azithromycin, Roxithromycin
-tags: [m/m18, f/💊/Medikament, f/🦠/Antiinfektiva/Antibiotika]
+tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie/Antiinfektiva/Antibiotika]
 title: Makrolide
 ---
 - **Wirkmechanismus**:: [[Störung der Proteinbiosynthese]] (Bindung an 50S-[[Ribosomen]]-UE)

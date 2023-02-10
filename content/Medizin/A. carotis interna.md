@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie]
+tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. carotis interna
 ---
 - **Ursprung**:: [[A. carotis communis]]

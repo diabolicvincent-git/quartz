@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🧠]
+tags: [Modul/m17, Fach/Neurologie]
 title: Hypoglycämie
 ---
 ### Hypoglycämie / Unterzuckerung 

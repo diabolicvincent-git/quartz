@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/💊/Medikament]
+tags: [Modul/m14, Fach/Pharmakologie/Medikament]
 title: Kristalloide
 ---
 ### Kristalloide

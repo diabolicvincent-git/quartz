@@ -1,5 +1,5 @@
 ---
-tags: [m/m02, m/m17, a/Pathologie, f/🗞️]
+tags: [Modul/m02, Modul/m17, Art/Pathologie, Fach/Endokrinologie]
 title: Diabetes mellitus
 ---
 ### Diabetes mellitus 

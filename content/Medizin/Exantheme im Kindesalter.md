@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m18]
+tags: [Modul/m09, Modul/m18]
 title: Exantheme im Kindesalter
 ---
 ```dataview

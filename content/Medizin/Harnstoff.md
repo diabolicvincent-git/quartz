@@ -1,6 +1,6 @@
 ---
 aliases: Urea
-tags: [m/m14, f/🧪, f/🍺, f/⚙️]
+tags: [Modul/m14, Fach/Biochemie, Fach/Nephrologie, Fach/Physiologie]
 title: Harnstoff
 ---
 ### Harnstoff 

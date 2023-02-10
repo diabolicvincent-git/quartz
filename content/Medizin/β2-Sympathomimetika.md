@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, f/💊/Medikament]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Pharmakologie/Medikament]
 title: β2-Sympathomimetika
 ---
 ### β2-Sympathomimetika

@@ -1,7 +1,7 @@
 ---
 aliases:
   - null
-tags: [m/m16]
+tags: [Modul/m16]
 title: Physik der Optik
 ---
 ## Brechungsindex n

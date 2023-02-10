@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m20, f/💤, f/⚙️, ToDo]
+tags: [Modul/m20, Fach/Anästhesie, Fach/Physiologie, ToDo]
 title: Endogene Opioide
 ---
 ### Endogene Opioide

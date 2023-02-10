@@ -1,6 +1,6 @@
 ---
 aliases: Grüner Star
-tags: [m/m16, f/👁️, a/Pathologie]
+tags: [Modul/m16, Fach/Ophthalmologie, Art/Pathologie]
 title: Glaukom
 ---
 ### Glaukom / Grüner Star

@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🍆, f/🦀]
+tags: [Art/Pathologie, Fach/Urologie, Fach/Onkologie]
 title: Urologische Tumoren
 ---
 - [[BPH]]

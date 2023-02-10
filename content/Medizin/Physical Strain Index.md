@@ -1,6 +1,6 @@
 ---
 aliases: PSI
-tags: [m/m25]
+tags: [Modul/m25]
 title: Physical Strain Index
 ---
 ### Physical Strain Index / PSI

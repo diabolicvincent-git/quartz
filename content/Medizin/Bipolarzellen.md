@@ -1,6 +1,6 @@
 ---
 aliases: Bipolarzelle
-tags: [m/m16, f/⚙️, f/👁️]
+tags: [Modul/m16, Fach/Physiologie, Fach/Ophthalmologie]
 title: Bipolarzellen
 ---
 ### On-[[Zapfen]]bipolarzellen

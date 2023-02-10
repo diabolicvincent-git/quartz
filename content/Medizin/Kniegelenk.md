@@ -23,7 +23,7 @@ Das Kniegelenk  verbindet Ober- und [[Unterschenkel]] und ist eines der größte
 
 ![[Untitled 7.png]]
 
-#m/m10
+#Modul/m10
 
 ## Gefäßversorgung
 - A. poplitea

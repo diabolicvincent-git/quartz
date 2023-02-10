@@ -1,6 +1,6 @@
 ---
 aliases: Rhesus, Rhesusfaktor, Anti-D
-tags: [m/m08, m/m21, f/🩸]
+tags: [Modul/m08, Modul/m21, Fach/Hämatologie]
 title: Rh
 ---
 ### Rhesus- / [[Rh]]-[[Blutgruppen]]

@@ -1,6 +1,6 @@
 ---
 aliases: TGA
-tags: [m/m25, f/🫀, f/🦄, a/Pathologie]
+tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Transposition der großen Arterien
 ---
 ### Transposition der großen Arterien / TGA

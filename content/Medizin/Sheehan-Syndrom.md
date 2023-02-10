@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🦩, f/🗞️, a/Pathologie]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Art/Pathologie]
 title: Sheehan-Syndrom
 ---
 ### Sheehan-Syndrom

@@ -1,6 +1,6 @@
 ---
 aliases: Gehirnvenen
-tags: [m/m15, f/💀, f/🧠]
+tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Hirnvenen
 ---
 > [[Hirnvenen]] haben keine [[Venenklappen]] und kein Muskelgewebe in der Gefäßwand

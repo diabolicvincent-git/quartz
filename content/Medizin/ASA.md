@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, m/m21, f/💤, a/Intervention]
+tags: [Modul/m26, Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: ASA
 ---
 > American Society of Anesthesiologists Physical Status Classification System

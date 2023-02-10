@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m11, f/🧠, f/⚙️, f/🫀]
+tags: [Modul/m11, Fach/Neurologie, Fach/Physiologie, Fach/Kardiologie]
 title: Paraganglien
 ---
 ### Paraganglien

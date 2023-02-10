@@ -1,6 +1,6 @@
 ---
 aliases: Schlaganfall
-tags: [m/m15, f/🧠, a/Pathologie, m/m30]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie, Modul/m30]
 title: Stroke
 ---
 > (Abstract::**90% ischämisch, 10% hämorrhagisch ([[ICB]]/[[SAB]]).** Auch: Ischämischer Schlaganfall, Apoplex [sic].)

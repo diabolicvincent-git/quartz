@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15]
+tags: [Modul/m15]
 title: GABA
 ---
 ### ɣ-Aminobuttersäure / GABA

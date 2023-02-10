@@ -1,6 +1,6 @@
 ---
 aliases: Wolff-Parkinson-White-Syndrom
-tags: [f/🫀, a/Pathologie]
+tags: [Fach/Kardiologie, Art/Pathologie]
 title: WPW-Syndrom
 ---
 ### Wolff-Parkinson-White / WPW-Syndrom

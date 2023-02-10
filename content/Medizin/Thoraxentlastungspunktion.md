@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/⛑️, a/Intervention]
+tags: [Fach/Notfallmedizin, Art/Intervention]
 title: Thoraxentlastungspunktion
 ---
 ### Thoraxentlastungspunktion

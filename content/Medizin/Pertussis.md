@@ -1,7 +1,7 @@
 ---
 aliases:
   - Keuchhusten
-tags: [m/m03, f/🫁, f/🦠, a/Pathologie]
+tags: [Modul/m03, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
 title: Pertussis
 ---
 ### Pertussis / Keuchhusten 

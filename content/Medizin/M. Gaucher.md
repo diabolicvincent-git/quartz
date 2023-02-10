@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🧠, a/Pathologie]
+tags: [Fach/Neurologie, Art/Pathologie]
 title: M. Gaucher
 ---
 ### M. Gaucher

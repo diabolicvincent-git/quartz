@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, f/🐣, f/🫀]
+tags: [Modul/m11, Fach/Embryologie, Fach/Kardiologie]
 title: Entwicklung des Herzens
 ---
 ### Entwicklung des Herzens 

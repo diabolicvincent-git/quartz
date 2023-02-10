@@ -1,10 +1,9 @@
 ---
 aliases: Präexzitationssyndrom, Atrioventrikuläre Reentrytachykardie
-tags: [f/🫀, a/Pathologie]
+tags: [Fach/Kardiologie, Art/Pathologie]
 title: AVRT
 ---
-### Atrioventrikuläre Reentrytachykardie / AVRT
-> Paroxysmale [[SVT]]
+> (Abstract::**Atrioventrikuläre Reentrytachykardie.** Paroxysmale [[SVT]].)
 - **Pathophysiologie**
 	- Akzessorische Leitungsbahn zwischen Atrium und Ventrikel → kreisende AV-Erregung (antegrad oder retrograd)
 	- Am häufigsten "Kent-Bündel" (==[[WPW-Syndrom]]==)

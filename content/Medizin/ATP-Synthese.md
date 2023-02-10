@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🧪]
+tags: [Fach/Biochemie]
 title: ATP-Synthese
 ---
 

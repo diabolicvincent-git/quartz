@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/👁️]
+tags: [Fach/Ophthalmologie]
 title: Determinanten der Sehschärfe
 ---
 - Güte des dioptischen Apparats

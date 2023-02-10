@@ -1,5 +1,5 @@
 ---
-tags: [m/m06, m/m20, f/📊]
+tags: [Modul/m06, Modul/m20, Fach/Epidemiologie]
 title: Lead-Time-Bias
 ---
 > (Abstract::Screening entdeckt Krankheit früher → scheinbar längeres Überleben)

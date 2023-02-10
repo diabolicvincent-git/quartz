@@ -1,6 +1,6 @@
 ---
 aliases: Gestagen, Progesteron
-tags: [m/m22, f/🦩, f/🗞️, f/🧪/Molekül]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Gestagene
 ---
 ### Gestagene

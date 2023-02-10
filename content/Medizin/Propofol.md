@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m36, f/💊/Medikament, f/💤]
+tags: [Modul/m36, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Propofol
 ---
 ### Propofol

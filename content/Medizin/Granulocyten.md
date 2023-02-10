@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08]
+tags: [Modul/m08]
 title: Granulocyten
 ---
 - **[[Neutrophile Granulocyten]] (60%)**:: [[Bakterien]]-[[Infektionen]], [[Phagocytose]]

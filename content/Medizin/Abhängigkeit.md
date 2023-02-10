@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m31, f/💭, a/Pathologie]
+tags: [Modul/m31, Fach/Psychiatrie, Art/Pathologie]
 title: Abhängigkeit
 ---
 - **Einteilung**

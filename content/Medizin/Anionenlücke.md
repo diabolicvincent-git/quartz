@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, m/m14, f/🍺, a/Intervention, f/🥼]
+tags: [Modul/m13, Modul/m14, Fach/Nephrologie, Art/Intervention, Fach/Laboratoriumsmedizin]
 title: Anionenlücke
 ---
 (Abstract::Unterscheiden, ob *Zufuhr an Säuren* oder *Mangel an Basen* ursächlich für die [[Metabolische Azidose]] ist)

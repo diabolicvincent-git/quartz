@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30, f/🧠, f/🥼, a/Intervention]
+tags: [Modul/m30, Fach/Neurologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Liquordiagnostik
 ---
 ### Liquordiagnostik

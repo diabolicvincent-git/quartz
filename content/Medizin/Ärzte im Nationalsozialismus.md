@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/🩺]
+tags: [Modul/m26, Fach/Allgemeinmedizin]
 title: Ärzte im Nationalsozialismus
 ---
 ### Jüdische Ärzte

@@ -1,6 +1,6 @@
 ---
 aliases: Vaskulitiden
-tags: [m/m17, a/Pathologie, f/💉, a/Pathologie]
+tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie, Art/Pathologie]
 title: Vaskulitis
 ---
 ### Vaskulitis / Vaskulitiden

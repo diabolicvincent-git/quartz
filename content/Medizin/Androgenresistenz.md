@@ -1,6 +1,6 @@
 ---
 aliases: Androgenrezeptor-Defekt, Androgenrezeptordefekt
-tags: [m/m22, f/🦩, a/Pathologie, f/🗞️]
+tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie, Fach/Endokrinologie]
 title: Androgenresistenz
 ---
 (Abstract::46,XY-[[DSD]] (♂ Genotyp, [[♀]] Phänotyp))

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🧬]
+tags: [Fach/Genetik]
 title: Chromosomenaberrationen
 ---
 - **Strukturelle Chromosomenaberrationen**:: Durch fehlerhaftes Crossing Over oder falsche Reparatur von Doppelstrangbrüchen

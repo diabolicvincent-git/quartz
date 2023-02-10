@@ -1,6 +1,6 @@
 ---
 aliases: Positronen-Emissions-Tomographie
-tags: [m/m19]
+tags: [Modul/m19]
 title: PET
 ---
 ### Positronen-Emissions-Tomographie / PET

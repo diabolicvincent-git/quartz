@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💩, f/🧠, a/Pathologie]
+tags: [Modul/m20, Fach/Gastroenterologie, Fach/Neurologie, Art/Pathologie]
 title: Reye-Syndrom
 ---
 > ==[[ASS]]-assoziiertes== [[Leberversagen]] + [[Hepatische Encephalopathie]] bei Kindern

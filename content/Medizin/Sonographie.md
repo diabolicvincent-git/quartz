@@ -1,6 +1,6 @@
 ---
 aliases: Ultraschall, POCUS
-tags: [m/m00, f/🕶️/Standardbildgebung, a/Intervention]
+tags: [Modul/m00, Fach/Radiologie/Standardbildgebung, Art/Intervention]
 title: Sonographie
 ---
 > (Abstract::[[Piezoelektrischer Effekt]] → hochfrequenter Ultraschall)

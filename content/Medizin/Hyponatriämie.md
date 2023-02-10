@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🍺, a/Pathologie]
+tags: [Modul/m14, Fach/Nephrologie, Art/Pathologie]
 title: Hyponatriämie
 ---
 ### Hyponatriämie

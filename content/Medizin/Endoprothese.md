@@ -1,6 +1,6 @@
 ---
 aliases: Endoprothetik
-tags: [m/m27, f/🦴, a/Intervention]
+tags: [Modul/m27, Fach/Orthopädie, Art/Intervention]
 title: Endoprothese
 ---
 ### Endoprothese

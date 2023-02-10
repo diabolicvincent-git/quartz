@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, f/🫁]
+tags: [Modul/m13, Fach/Pneumologie]
 title: Surfactant
 ---
 ### Surfactant

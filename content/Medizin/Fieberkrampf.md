@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦄]
+tags: [Art/Pathologie, Fach/Pädiatrie]
 title: Fieberkrampf
 ---
 > (Abstract::**[[Fieber]] + generalisierter [[Krampfanfall]] zw. 6 Monate – 5 Jahre.**)

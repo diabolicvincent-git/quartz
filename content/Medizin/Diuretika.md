@@ -1,7 +1,7 @@
 ---
 aliases:
   - Diuretikum
-tags: [m/m14, f/💊/Medikament, f/🍺, f/🫀]
+tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie]
 title: Diuretika
 ---
 ### Diuretika

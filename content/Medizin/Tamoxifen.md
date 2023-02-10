@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m19, m/m22, f/🦀, f/🦩, f/💊/Medikament]
+tags: [Modul/m19, Modul/m22, Fach/Onkologie, Fach/Gynäkologie, Fach/Pharmakologie/Medikament]
 title: Tamoxifen
 ---
 ### Tamoxifen

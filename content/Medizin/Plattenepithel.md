@@ -1,5 +1,5 @@
 ---
-tags: [f/🔬/Gewebe, m/m05]
+tags: [Fach/Histologie/Gewebe, Modul/m05]
 title: Plattenepithel
 ---
 > (Abstract::**[[Epithel]].**)

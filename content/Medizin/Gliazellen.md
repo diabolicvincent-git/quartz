@@ -1,6 +1,6 @@
 ---
 aliases: Gliazelle, Gliascheide
-tags: [m/m05, m/m15]
+tags: [Modul/m05, Modul/m15]
 title: Gliazellen
 ---
 ### Gliazellen / Supportzellen

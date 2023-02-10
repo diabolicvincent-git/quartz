@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m10, f/💀, f/🦴]
+tags: [Modul/m05, Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Knochen
 ---
 ### Knochen

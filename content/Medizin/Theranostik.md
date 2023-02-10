@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, f/🕶️, a/Intervention, a/Intervention]
+tags: [Modul/m19, Fach/Onkologie, Fach/Radiologie, Art/Intervention, Art/Intervention]
 title: Theranostik
 ---
 ### Theranostik

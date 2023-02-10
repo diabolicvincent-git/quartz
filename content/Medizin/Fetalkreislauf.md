@@ -1,6 +1,6 @@
 ---
 aliases: Fetaler Kreislauf
-tags: [m/m11, m/m05, f/🐣, f/⚙️]
+tags: [Modul/m11, Modul/m05, Fach/Embryologie, Fach/Physiologie]
 title: Kreislauf
 ---
 

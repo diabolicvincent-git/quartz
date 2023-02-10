@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, f/🧠, f/💀/Leitungsbahn/Vene]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus marginalis
 ---
 Sinus|Zufluss|Abfluss|Charakteristika

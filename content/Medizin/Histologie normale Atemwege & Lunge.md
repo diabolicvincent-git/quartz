@@ -73,4 +73,4 @@ title: Histologie normale Atemwege & Lunge
 - Septale Fasern: Alveolarwände
 - Periphere Fasern: BG unter der [[Pleura]], zieht über Septen ins innere
 
-#m/m13
+#Modul/m13

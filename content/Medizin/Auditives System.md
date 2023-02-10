@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👂, f/⚙️]
+tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Auditives System
 ---
 - **Periphere Hörwahrnehmung** im [[Corti-Organ]] in der [[Cochlea]] via [[Innere Haarzellen]]

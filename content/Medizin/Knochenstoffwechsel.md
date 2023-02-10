@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/⚙️, f/🧪, f/🦴]
+tags: [Modul/m05, Fach/Physiologie, Fach/Biochemie, Fach/Orthopädie]
 title: Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
 ---
 - **Knochenzellen**
@@ -88,7 +88,7 @@ Zweifaches Signal: *RANKL* & *M-CSF* im Verhältnis zu Gegenspieler *OPG*
 
 # die Abhängigkeit des Knochenumbaus vom Kalziumhaushalt darlegen können.
 
-#m/m05 #m/m10
+#Modul/m05 #Modul/m10
 
 ### Knochendichte-beeinflussende Faktoren
 - Osteoblasten / Osteoklasten Aktivität

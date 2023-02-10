@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, f/⚙️, f/🫁]
+tags: [Modul/m13, Fach/Physiologie, Fach/Pneumologie]
 title: Fraktionen und Partialdrücke
 ---
 # Fraktionen und Partialdrücke

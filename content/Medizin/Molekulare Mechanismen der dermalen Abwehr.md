@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🧪, f/🧴]
+tags: [Modul/m13, Fach/Biochemie, Fach/Dermatologie]
 title: Immunabwehr der Haut
 ---
 [[Hautflora]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m14, f/🍺]
+tags: [Modul/m08, Modul/m14, Fach/Nephrologie]
 title: Dialyse
 ---
 - **Indikation**

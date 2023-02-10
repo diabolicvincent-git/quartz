@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/💤, a/Pathologie]
+tags: [Modul/m21, Fach/Anästhesie, Art/Pathologie]
 title: Lazarus-Phänomen
 ---
 ### Lazarus-Phänomen

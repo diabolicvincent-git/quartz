@@ -1,6 +1,6 @@
 ---
 aliases: Lungenentzündung
-tags: [m/m18, a/Pathologie]
+tags: [Modul/m18, Art/Pathologie]
 title: Pneumonie
 ---
 ### Pneumonie / Lungenentzündung

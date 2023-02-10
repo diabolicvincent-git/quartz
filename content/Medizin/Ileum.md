@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💀, f/💩]
+tags: [Modul/m12, Fach/Anatomie, Fach/Gastroenterologie]
 title: Ileum
 ---
 ### Ileum

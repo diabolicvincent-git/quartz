@@ -1,5 +1,5 @@
 ---
-tags: [m/m18, a/Intervention, f/💤]
+tags: [Modul/m18, Art/Intervention, Fach/Anästhesie]
 title: SOFA
 ---
 > (Abstract::**Sequential Organ Failure Assessment.** Anstieg ≥2 Pkt. = [[MOV]])

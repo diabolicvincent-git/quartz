@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🗞️, a/Pathologie]
+tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Addison-Krise
 ---
 (Abstract::**Akute [[NNR-Insuffizienz]]** → Hydrocortison hochdosiert [[i.v.]])

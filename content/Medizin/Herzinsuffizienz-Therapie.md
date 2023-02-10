@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/🫀, a/Intervention]
+tags: [Modul/m25, Fach/Kardiologie, Art/Intervention]
 title: Herzinsuffizienz-Therapie
 ---
 ### Medikamentöse [[Herzinsuffizienz]]-Therapie

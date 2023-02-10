@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m08, m/m21, f/⚙️]
+tags: [Modul/m08, Modul/m21, Fach/Physiologie]
 title: Vasokonstriktion
 ---
 ### Vasokonstriktion / Gefäßverengung

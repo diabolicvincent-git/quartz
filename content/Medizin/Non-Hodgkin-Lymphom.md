@@ -1,6 +1,6 @@
 ---
 aliases: NHL
-tags: [m/m19, f/🦀, f/🩸]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Non-Hodgkin-Lymphom
 ---
 ### Non-Hodgkin-Lymphom

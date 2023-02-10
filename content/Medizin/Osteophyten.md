@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27]
+tags: [Modul/m27]
 title: Osteophyten
 ---
 ### Osteophyten

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, a/Pathologie, f/🦀]
+tags: [Modul/m19, Art/Pathologie, Fach/Onkologie]
 title: Sarkom
 ---
 ### Sarkom

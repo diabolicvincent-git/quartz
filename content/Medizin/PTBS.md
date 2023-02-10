@@ -1,6 +1,6 @@
 ---
 aliases: Posttraumatische Belastungsstörung
-tags: [m/m20]
+tags: [Modul/m20]
 title: PTBS
 ---
 ### Posttraumatische Belastungsstörung / PTBS

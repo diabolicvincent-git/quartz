@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/⛑️, f/🔪, a/Intervention]
+tags: [Modul/m21, Fach/Notfallmedizin, Fach/Chirurgie, Art/Intervention]
 title: Beckenschlinge
 ---
 ### Beckenschlinge

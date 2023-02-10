@@ -1,6 +1,6 @@
 ---
 aliases: Intramurales Nervensystem
-tags: [m/m12, f/💩, f/🧠, f/⚙️]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Neurologie, Fach/Physiologie]
 title: Enterisches Nervensystem
 ---
 ### Enterisches Nervensystem

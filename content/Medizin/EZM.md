@@ -1,6 +1,6 @@
 ---
 aliases: Extrazellulärmatrix
-tags: [m/m05]
+tags: [Modul/m05]
 title: EZM
 ---
 ### Extrazellulärmatrix / EZM

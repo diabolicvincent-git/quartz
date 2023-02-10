@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🩸, a/Intervention]
+tags: [Modul/m17, Fach/Hämatologie, Art/Intervention]
 title: Wells-Score
 ---
 ### Wells-Score bei Phlebothrombose (TVT)

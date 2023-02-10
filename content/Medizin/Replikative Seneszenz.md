@@ -1,6 +1,6 @@
 ---
 aliases: Hayflick, Seneszenz
-tags: [m/m19, f/⚙️, f/🧪, f/🦀]
+tags: [Modul/m19, Fach/Physiologie, Fach/Biochemie, Fach/Onkologie]
 title: Replikative Seneszenz
 ---
 ### Replikative Seneszenz

@@ -103,4 +103,4 @@ Western-Blot Verfahren ([[Antikörper]] + Fluoreszenzantikörper)
         - Proliferation nicht durch vermehrte Teilung sondern durch Verhinderung der [[Apoptose]]
         - Translokation → Überexpression von BCL-2 (antiapoptotisch) → Apoptoseresistenz → [[Neoplasie]]
 
-#m/m08
+#Modul/m08

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m10, f/🦴, a/Pathologie]
+tags: [Modul/m10, Fach/Orthopädie, Art/Pathologie]
 title: Kalkschulter
 ---
 ### Kalkschulter / Tendinosis calcarea

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m06, m/m15, f/⚙️]
+tags: [Modul/m06, Modul/m15, Fach/Physiologie]
 title: Schlafphasen
 ---
 ### Schlafphasen

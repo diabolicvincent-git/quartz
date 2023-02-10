@@ -1,6 +1,6 @@
 ---
 aliases: Herpes-Simplex-Virus
-tags: [m/m09, f/🦠/Erreger/Viren]
+tags: [Modul/m09, Fach/Infektiologie/Erreger/Viren]
 title: HSV
 ---
 ### Herpes-Simplex-Virus / HSV-1/2

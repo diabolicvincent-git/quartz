@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, f/⚙️, f/💩]
+tags: [Modul/m02, Fach/Physiologie, Fach/Gastroenterologie]
 title: Ernährung
 ---
 

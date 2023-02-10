@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m18, f/🦠]
+tags: [Modul/m18, Fach/Infektiologie]
 title: Opportunistische Infektionen
 ---
 ### Opportunistische Infektionen

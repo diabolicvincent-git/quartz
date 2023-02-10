@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/🧠, f/👁️, f/💀, f/⚙️]
+tags: [Modul/m16, Fach/Neurologie, Fach/Ophthalmologie, Fach/Anatomie, Fach/Physiologie]
 title: Visueller Cortex
 ---
 ## Primäre Sehrinde (Area striata)

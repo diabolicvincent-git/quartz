@@ -1,6 +1,6 @@
 ---
 aliases: Gürtelrose
-tags: [m/m09, m/m18, f/🦠, f/🧴, a/Pathologie]
+tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Dermatologie, Art/Pathologie]
 title: Herpes zoster
 ---
 > (Abstract::**Gürtelrose.** Reaktivierung [[VZV]] nach [[Windpocken]] im Kindesalter und Persistenz in Ganglien.)

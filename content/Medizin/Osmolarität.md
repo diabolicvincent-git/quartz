@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/⚙️, f/🍺]
+tags: [Modul/m14, Fach/Physiologie, Fach/Nephrologie]
 title: Osmoregulation Wasser↓ → 2/3 IZ verloren, 1/3 EZ verloren → Konzentration der gelösten Teilchen steigt → Osmolarität steigt
 ---
 ## Serumosmolarität

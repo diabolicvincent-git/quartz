@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, a/Pathologie]
+tags: [Modul/m20, Art/Pathologie]
 title: Insomnie
 ---
 - **Insomnie**:: Ein-/Durch[[Schlafstörung]] → ==*Tagesmüdigkeit*==

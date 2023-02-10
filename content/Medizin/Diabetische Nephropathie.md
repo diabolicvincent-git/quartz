@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🍺, f/🗞️]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Endokrinologie]
 title: Pathophysiologie
 ---
 - 75% der Pat. mit [[Diabetes mellitus]] entwickeln im Verlaufe eine [[CKD]]

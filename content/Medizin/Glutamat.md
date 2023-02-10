@@ -1,6 +1,6 @@
 ---
 aliases: Glutaminsäure
-tags: [m/m15, m/m02, m/m04, f/🧪]
+tags: [Modul/m15, Modul/m02, Modul/m04, Fach/Biochemie]
 title: Glutamat
 ---
 **Glutamat / Glutaminsäure (Glu, E)**:: Carbonsäure

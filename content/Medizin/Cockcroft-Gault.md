@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: [a/Intervention]
+tags: [Art/Intervention]
 title: Cockcroft-Gault
 ---

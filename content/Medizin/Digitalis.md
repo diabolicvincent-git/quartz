@@ -1,6 +1,6 @@
 ---
 aliases: Herzglykoside
-tags: [m/m11, f/🫀, f/💊/Medikament/PIM, f/🍄/Gift]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Pharmakologie/Medikament/PIM, Fach/Toxikologie/Gift]
 title: Digitalis
 ---
 - **Gruppe**:: [[Antiarrhythmika]]

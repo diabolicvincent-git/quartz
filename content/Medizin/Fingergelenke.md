@@ -37,4 +37,4 @@ title: Fingergelenke
     -   [Phalanx](https://next.amboss.com/de/article/io0JbS#Z8404c5bce0ee73bf757d8e20e16f6bde) proximalis und medialis bzw. medialis und distalis (beim Daumen: [Phalanx](https://next.amboss.com/de/article/io0JbS#Z8404c5bce0ee73bf757d8e20e16f6bde) proximalis und distalis)
     -   Bänder (Ligg. collateralia, Ligg. palmaria)
 
-#m/m10
+#Modul/m10

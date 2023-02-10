@@ -1,6 +1,6 @@
 ---
 aliases: Leberzellkarzinom, Hepatozelluläres Ca, Leber-Ca
-tags: [m/m19, a/Pathologie, a/Pathologie, f/💩, f/🦀]
+tags: [Modul/m19, Art/Pathologie, Art/Pathologie, Fach/Gastroenterologie, Fach/Onkologie]
 title: HCC
 ---
 ### Hepatozelluläres Ca / HCC

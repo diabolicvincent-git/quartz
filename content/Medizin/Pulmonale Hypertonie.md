@@ -1,6 +1,6 @@
 ---
 aliases: Pulmonaler Hypertonus
-tags: [m/m13]
+tags: [Modul/m13]
 title: Lernziele
 ---
 ### Pulmonale Hypertonie

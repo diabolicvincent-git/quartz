@@ -1,6 +1,6 @@
 ---
 aliases: Alkoholabusus, Alkoholabhängigkeit, Alkoholintoxikation
-tags: [m/m20, f/🍄, f/🧪/Molekül, ToDo]
+tags: [Modul/m20, Fach/Toxikologie, Fach/Biochemie/Molekül, ToDo]
 title: Alkohol
 ---
 - **Pathophysiologie**

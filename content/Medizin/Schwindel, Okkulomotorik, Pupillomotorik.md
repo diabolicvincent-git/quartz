@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👂, f/🧠, f/👁️]
+tags: [Modul/m16, Fach/HNO, Fach/Neurologie, Fach/Ophthalmologie]
 title: Quantitative vestibuläre Sinnesorgandiagnostik
 ---
 - [[BPLS]]

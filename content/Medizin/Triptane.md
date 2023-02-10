@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30, f/🧠, f/💊/Medikament]
+tags: [Modul/m30, Fach/Neurologie, Fach/Pharmakologie/Medikament]
 title: Triptane
 ---
 ### Triptane

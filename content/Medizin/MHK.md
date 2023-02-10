@@ -1,6 +1,6 @@
 ---
 aliases: Minimale Hemmkonzentration
-tags: [m/m18]
+tags: [Modul/m18]
 title: MHK
 ---
 ### Minimale Hemmkonzentration / MHK

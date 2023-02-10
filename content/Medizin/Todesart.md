@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/⚰️, a/Intervention]
+tags: [Modul/m21, Fach/Rechtsmedizin, Art/Intervention]
 title: Todesart
 ---
 ### Todesart

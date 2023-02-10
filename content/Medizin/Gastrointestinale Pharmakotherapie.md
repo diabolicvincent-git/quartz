@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: [m/m26, f/💩, f/💊/Medikament]
+tags: [Modul/m26, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament]
 title: Gastrointestinale Pharmakotherapie
 ---

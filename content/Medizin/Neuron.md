@@ -1,6 +1,6 @@
 ---
 aliases: Neurone, Nervenzelle
-tags: [m/m05, m/m15, f/🧠, f/🔬]
+tags: [Modul/m05, Modul/m15, Fach/Neurologie, Fach/Histologie]
 title: Neuron
 ---
 ### Neurone

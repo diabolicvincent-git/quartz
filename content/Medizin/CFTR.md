@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, f/🧪, f/🫁, f/🧪/Molekül]
+tags: [Modul/m03, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Molekül]
 title: CFTR
 ---
 ### Cystic Fibrosis Transmembrane Conductance Regulator / CFTR

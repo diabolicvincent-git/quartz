@@ -1,6 +1,6 @@
 ---
 aliases: Atriales natriuretisches Peptid
-tags: [m/m11, m/m14, f/🫀, f/🍺, f/⚙️, f/🧪/Molekül, f/🧪, f/🧪/Molekül/Hormon]
+tags: [Modul/m11, Modul/m14, Fach/Kardiologie, Fach/Nephrologie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Biochemie, Fach/Biochemie/Molekül/Hormon]
 title: ANP
 ---
 (Abstract::**Atriales [[Natriuretisches Peptid]].** ↑↑ bei [[Herzinsuffizienz]].)

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/🦄, f/🔪]
+tags: [Modul/m26, Fach/Pädiatrie, Fach/Chirurgie]
 title: Atresie
 ---
 - Gap

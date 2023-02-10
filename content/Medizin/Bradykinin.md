@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/🧪, f/🧪/Molekül]
+tags: [Modul/m21, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Bradykinin
 ---
 ### Bradykinin

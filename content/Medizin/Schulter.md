@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10]
+tags: [Modul/m10]
 title: Schulter
 ---
 ## [[Knochen]]

@@ -1,6 +1,6 @@
 ---
 aliases: Mittelhirn
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Mesencephalon
 ---
 ### Mesencephalon 

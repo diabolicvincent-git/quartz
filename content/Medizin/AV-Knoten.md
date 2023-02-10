@@ -1,7 +1,7 @@
 ---
 aliases:
   - Nodus atrioventricularis
-tags: [m/m11, f/🫀]
+tags: [Modul/m11, Fach/Kardiologie]
 title: AV-Knoten
 ---
 ### AV-Knoten

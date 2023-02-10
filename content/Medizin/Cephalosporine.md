@@ -1,5 +1,5 @@
 ---
-tags: [m/m18, f/🦠/Antiinfektiva/Antibiotika, f/💊/Medikament]
+tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva/Antibiotika, Fach/Pharmakologie/Medikament]
 title: Cephalosporine
 ---
 - **Wirkmechanismus**:: [[Störung der Zellwandsynthese]] ([[β-Lactam-Antibiotika]])

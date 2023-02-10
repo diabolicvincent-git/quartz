@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💭, a/Pathologie]
+tags: [Fach/Psychiatrie, Art/Pathologie]
 title: Befürchtungen und Zwänge
 ---
 > (Abstract::Reihe von Störungen, denen ängstliche Einstellungen, Verhaltensweisen oder Befürchtungen zugrunde liegen.)

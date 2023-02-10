@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21]
+tags: [Modul/m21]
 title: Medizinethik
 ---
 ### Medizinethik

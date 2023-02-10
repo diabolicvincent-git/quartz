@@ -1,6 +1,6 @@
 ---
 aliases: Herzbeutel
-tags: [m/m11]
+tags: [Modul/m11]
 title: Perikard
 ---
 ### Perikard 

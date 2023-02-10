@@ -1,5 +1,5 @@
 ---
-tags: [f/💊/Medikament/Wirkstoff/P-Drug, f/⛑️, f/💤]
+tags: [Fach/Pharmakologie/Medikament/Wirkstoff/P-Drug, Fach/Notfallmedizin, Fach/Anästhesie]
 title: EPINEPHrin
 ---
 > (Abstract::Äquivalent zu [[Adrenalin]]) 

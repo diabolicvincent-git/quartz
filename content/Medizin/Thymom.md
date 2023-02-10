@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/🦀, f/🩸]
+tags: [Modul/m25, Fach/Onkologie, Fach/Hämatologie]
 title: Thymom
 ---
 ### Thymom

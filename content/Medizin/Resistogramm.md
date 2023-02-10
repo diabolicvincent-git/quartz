@@ -1,6 +1,6 @@
 ---
 aliases: Antibiogramm
-tags: [m/m18]
+tags: [Modul/m18]
 title: Resistogramm
 ---
 ### Resistogramm / Antibiogramm

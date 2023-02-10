@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, ToDo, f/🦠, f/🦠/Erreger/Parasiten]
+tags: [Modul/m18, ToDo, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
 title: Parasiten
 ---
 ### Parasiten

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, a/Intervention, a/Intervention, f/🫀]
+tags: [Modul/m25, Art/Intervention, Art/Intervention, Fach/Kardiologie]
 title: Linksherzkatheter
 ---
 ### Linksherzkatheter

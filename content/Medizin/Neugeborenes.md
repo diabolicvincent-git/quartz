@@ -1,5 +1,5 @@
 ---
-tags: [f/🦩, f/🦄]
+tags: [Fach/Gynäkologie, Fach/Pädiatrie]
 title: Neugeborenes
 ---
 > (Abstract::**Reif = 37.-42. [[SSW]].**)

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, a/Pathologie, f/💤]
+tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie, Fach/Anästhesie]
 title: Spannungspneumothorax
 ---
 ### Spannungspneumothorax

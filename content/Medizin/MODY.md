@@ -1,6 +1,6 @@
 ---
 aliases: Maturity-onset Diabetes of the Young
-tags: [m/m17, f/🗞️, a/Pathologie]
+tags: [Modul/m17, Fach/Endokrinologie, Art/Pathologie]
 title: MODY
 ---
 ### MODY / Maturity-onset Diabetes of the Young

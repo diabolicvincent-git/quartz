@@ -1,7 +1,7 @@
 ---
 aliases:
   - null
-tags: [m/m15, m/m03, f/🧠, f/🧬, a/Pathologie]
+tags: [Modul/m15, Modul/m03, Fach/Neurologie, Fach/Genetik, Art/Pathologie]
 title: Chorea Huntington
 ---
 ### Chorea Huntington

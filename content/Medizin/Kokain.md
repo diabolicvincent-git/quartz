@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/🍄, f/💭]
+tags: [Modul/m20, Fach/Toxikologie, Fach/Psychiatrie]
 title: Kokain
 ---
 ### Kokain

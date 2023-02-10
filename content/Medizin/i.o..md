@@ -1,6 +1,6 @@
 ---
 aliases: intraossär
-tags: [m/m00, m/m21, f/💊/Medikament]
+tags: [Modul/m00, Modul/m21, Fach/Pharmakologie/Medikament]
 title: i.o.
 ---
 ### intraossär / i.o.

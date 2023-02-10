@@ -1,6 +1,6 @@
 ---
 aliases: Autoantikörper
-tags: [m/m17, f/💉]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Auto-Antikörper
 ---
 > (Abstract::**[[Antikörper]] gegen körpereigene Strukturen bei [[Autoimmunität]].**)

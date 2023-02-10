@@ -1,6 +1,6 @@
 ---
 title: A. brachialis
-tags: [f/💀/Leitungsbahn/Arterie, f/💀]
+tags: [Fach/Anatomie/Leitungsbahn/Arterie, Fach/Anatomie]
 ---
 - **Ursprung**:: [[A. axillaris]]
 - **Verlauf**:: Im [[Sulcus bicipitalis medialis]] → Aufzweigung in Ellenbeuge in [[A. radialis]] + [[A. ulnaris]]

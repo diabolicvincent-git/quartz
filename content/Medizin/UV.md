@@ -1,5 +1,5 @@
 ---
-tags: [m/m09, f/🧴]
+tags: [Modul/m09, Fach/Dermatologie]
 title: UV
 ---
 - **UV-B Licht (250-300 nm)**:: Direkte [[DNA-Schäden]] (z.B. Dimerisierung); entscheidend für [[Vitamin D]]-Synthese

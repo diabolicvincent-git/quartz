@@ -18,4 +18,4 @@ title: Proteinanalytik
 - Amphiphile Molekülstruktur → *weder in hydrophober noch hydrophiler Lösung gut lösbar*
 - Räumliche Struktur schwer zu erhalten
 
-#m/m02
+#Modul/m02

@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🧠]
+tags: [Art/Pathologie, Fach/Neurologie]
 title: Pupillenstarre
 ---
 > (Abstract::**Fehlen des [[Pupillenreflex]].** Meist einseitig.)

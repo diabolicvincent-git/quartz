@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, m/m17, f/🧬]
+tags: [Modul/m02, Modul/m17, Fach/Genetik]
 title: Genetische Erkrankungen
 ---
 ## Charakteristika genetischer Krankheitsbilder

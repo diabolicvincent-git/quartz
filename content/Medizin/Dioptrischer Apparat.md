@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m16, f/👁️, f/⚙️]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Physiologie]
 title: Dioptrischer Apparat
 ---
 - **Bestandteile**:: [[Cornea]], [[Kammerwasser]], [[Augenlinse]] und [[Glaskörper]]

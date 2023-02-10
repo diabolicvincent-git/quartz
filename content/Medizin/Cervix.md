@@ -1,6 +1,6 @@
 ---
 aliases: Gebärmutterhals
-tags: [m/m22, f/🦩, f/💀]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie]
 title: Cervix
 ---
 ### Cervix / Gebärmutterhals

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, a/Intervention]
+tags: [Modul/m27, Art/Intervention]
 title: PECH
 ---
 ### PECH-Regel

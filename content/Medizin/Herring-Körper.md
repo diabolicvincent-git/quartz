@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🧠, f/🔬, f/🗞️]
+tags: [Modul/m22, Fach/Neurologie, Fach/Histologie, Fach/Endokrinologie]
 title: Herring-Körper
 ---
 ### Herring-Körper

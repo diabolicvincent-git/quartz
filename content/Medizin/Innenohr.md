@@ -1,6 +1,6 @@
 ---
 aliases: Labyrinth
-tags: [m/m16, f/👂, f/💀, f/⚙️]
+tags: [Modul/m16, Fach/HNO, Fach/Anatomie, Fach/Physiologie]
 title: Innenohr
 ---
 ### Innenohr 

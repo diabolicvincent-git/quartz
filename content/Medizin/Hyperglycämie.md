@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/🗞️]
+tags: [Art/Pathologie, Fach/Endokrinologie]
 title: Hyperglycämie
 ---
 ### Hyperglycämie

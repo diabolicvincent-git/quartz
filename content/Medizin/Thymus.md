@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🩸, f/💀, m/m08, f/💀/Organ]
+tags: [Fach/Hämatologie, Fach/Anatomie, Modul/m08, Fach/Anatomie/Organ]
 title: Thymus
 ---
 ### Thymus

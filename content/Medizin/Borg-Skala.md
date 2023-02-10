@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🫁, a/Intervention]
+tags: [Modul/m13, Fach/Pneumologie, Art/Intervention]
 title: Borg-Skala
 ---
 ### Borg-CR-Skala

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m22]
+tags: [Modul/m22]
 title: Schwangerschaftstest
 ---
 ### Schwangerschaftstest

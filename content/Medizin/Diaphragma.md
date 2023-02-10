@@ -1,6 +1,6 @@
 ---
 aliases: Zwerchfell
-tags: [m/m13, f/💀, f/🫁]
+tags: [Modul/m13, Fach/Anatomie, Fach/Pneumologie]
 title: Diaphragma
 ---
 ### Diaphragma / Zwerchfell

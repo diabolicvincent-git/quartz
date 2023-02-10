@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, f/🫀, f/⚙️]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Refraktärzeit
 ---
 > Zeit, die eine ([[Herz]]‑)Muskelzelle nach Erregung gar nicht (*absolut*) oder schwerer (*relativ*) erneut zu erregen ist.

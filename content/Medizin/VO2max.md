@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, m/m10, f/⚙️, a/Intervention, f/🫁]
+tags: [Modul/m21, Modul/m10, Fach/Physiologie, Art/Intervention, Fach/Pneumologie]
 title: VO2max
 ---
 ### Maximale Sauerstoffaufnahme / VO2max

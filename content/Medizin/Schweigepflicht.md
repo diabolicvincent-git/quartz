@@ -1,5 +1,5 @@
 ---
-tags: [m/m06]
+tags: [Modul/m06]
 title: Schweigepflicht
 ---
 > (Abstract::)

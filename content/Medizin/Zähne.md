@@ -1,5 +1,5 @@
 ---
-tags: [f/💀/Organ, f/👂]
+tags: [Fach/Anatomie/Organ, Fach/HNO]
 title: Zähne
 ---
 > (Abstract::**20 (Milchgebiss) – 32 (Dauergebiss).**)

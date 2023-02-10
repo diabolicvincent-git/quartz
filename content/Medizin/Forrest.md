@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/💩, a/Intervention]
+tags: [Modul/m26, Fach/Gastroenterologie, Art/Intervention]
 title: Forrest
 ---
 ### Forrest-Klassifikation

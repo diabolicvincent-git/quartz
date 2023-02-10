@@ -1,6 +1,6 @@
 ---
 aliases: Subarachnoidalblutung
-tags: [m/m15, f/🧠]
+tags: [Modul/m15, Fach/Neurologie]
 title: SAB
 ---
 ### Subarachnoidalblutung / SAB

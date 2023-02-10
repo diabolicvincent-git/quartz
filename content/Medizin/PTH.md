@@ -1,6 +1,6 @@
 ---
 aliases: Parathormon
-tags: [m/m05, m/m14, f/🧪, f/⚙️, f/🗞️, f/🧪/Molekül]
+tags: [Modul/m05, Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: PTH
 ---
 ### Synthese

@@ -1,6 +1,6 @@
 ---
 aliases: Antiepileptika
-tags: [m/m15, f/🧠, f/💊/Medikament/Übergruppe]
+tags: [Modul/m15, Fach/Neurologie, Fach/Pharmakologie/Medikament/Übergruppe]
 title: Antikonvulsiva
 ---
 - **Klassische Antikonvulsiva**

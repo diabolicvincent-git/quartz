@@ -1,6 +1,6 @@
 ---
 aliases: Return of Spontaneus Circulation
-tags: [m/m21, f/💤, a/Pathologie]
+tags: [Modul/m21, Fach/Anästhesie, Art/Pathologie]
 title: ROSC
 ---
 ### Return of Spontaneus Circulation / ROSC

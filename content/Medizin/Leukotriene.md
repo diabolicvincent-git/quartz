@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/🧪, f/🧪/Molekül]
+tags: [Modul/m08, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: Leukotriene
 ---
 ### Leukotriene

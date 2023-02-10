@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03]
+tags: [Modul/m03]
 title: PCR
 ---
 ### Polymerase-Kettenreaktion / PCR

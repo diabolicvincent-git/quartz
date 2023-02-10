@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/🧬, a/Pathologie, f/🍺]
+tags: [Modul/m05, Fach/Genetik, Art/Pathologie, Fach/Nephrologie]
 title: Alport-Syndrom
 ---
 **Gruppe**:: [[Genetische Erkrankungen]]

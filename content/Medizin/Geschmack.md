@@ -1,6 +1,6 @@
 ---
 aliases: Schmecken
-tags: [m/m16]
+tags: [Modul/m16]
 title: Geschmack
 ---
 - 10-50 *Sinneszellen* bilden eine *Knospe*, sitzen in Papillen

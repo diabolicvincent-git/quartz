@@ -1,9 +1,8 @@
 ---
 aliases: null
-tags: [m/m11, f/🫀, a/Pathologie]
+tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: AV-Block
 ---
-### AV-Block
 > [[Bradykardie]]
 - **Einteilung**
 	- **I°**:: [[PQ-Zeit]] >200 ms

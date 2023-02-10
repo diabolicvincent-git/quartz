@@ -1,5 +1,5 @@
 ---
-tags: [m/m18, f/🦠/Antiinfektiva/Virostatika, f/💊/Medikament, f/💊/Medikament/Wirkstoff]
+tags: [Modul/m18, Fach/Infektiologie/Antiinfektiva/Virostatika, Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament/Wirkstoff]
 title: Aciclovir
 ---
 > (Abstract::Nucleosidanalogon) 

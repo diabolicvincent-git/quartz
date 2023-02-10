@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m36, f/💤, a/Intervention]
+tags: [Modul/m36, Fach/Anästhesie, Art/Intervention]
 title: Behavioral Pain Scale
 ---
 ### Behavioral Pain Scale / BPS

@@ -1,6 +1,6 @@
 ---
 aliases: Abschürfung
-tags: [m/m09]
+tags: [Modul/m09]
 title: Exkoration
 ---
 **Exkoration / Abschürfung**:: Oberflächlicher Gewebedefekt mit [[Blutung]] / bis in Papillarkörper

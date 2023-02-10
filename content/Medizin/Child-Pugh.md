@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💩, a/Intervention, a/Intervention]
+tags: [Modul/m12, Fach/Gastroenterologie, Art/Intervention, Art/Intervention]
 title: Child-Pugh
 ---
 ### Child-Pugh

@@ -1,6 +1,6 @@
 ---
 aliases: Blutbildung
-tags: [m/m08, m/m17, f/🩸, f/⚙️]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Physiologie]
 title: Hämatopoese
 ---
 ### Hämatopoese / Blutbildung  

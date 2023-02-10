@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, m/m30, f/🧠/Demenz, a/Pathologie]
+tags: [Modul/m15, Modul/m30, Fach/Neurologie/Demenz, Art/Pathologie]
 title: Frontotemporale Demenz
 ---
 > (Abstract::**Eher seltene [[Demenz]], aber zweithäufigste mit ==präsenilem Beginn==.** Wesensveränderung führend, Kognition intakt.)

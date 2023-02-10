@@ -12,4 +12,4 @@ Sonnenstich|Überwärmung des Gehirns|lokal|Hitzeeinwirkung
 Unterkühlung|Unterkühlung des Gesamtorganismus|global|Kälteeinwirkung
 Erfrierung|Unterkühlung begrenzter Körperregionen|lokal|Kälteeinwirkung
 
-#m/m09 
+#Modul/m09 

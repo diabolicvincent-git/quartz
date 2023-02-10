@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, a/Pathologie]
+tags: [Modul/m26, Art/Pathologie]
 title: Hämatochezie
 ---
 ### Hämatochezie

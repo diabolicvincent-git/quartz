@@ -1,6 +1,6 @@
 ---
 aliases: Tuberkulose
-tags: [m/m18, a/Pathologie, a/Pathologie, f/🫁, f/🦠]
+tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Pneumologie, Fach/Infektiologie]
 title: Tbc
 ---
 ### Tuberkulose / Tbc

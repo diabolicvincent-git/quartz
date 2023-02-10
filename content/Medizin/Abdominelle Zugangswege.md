@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/🔪, a/Intervention]
+tags: [Modul/m26, Fach/Chirurgie, Art/Intervention]
 title: Abdominelle Zugangswege
 ---
 > Möglichst [[Hautspaltlinien]] folgen → bessere Wundheilung

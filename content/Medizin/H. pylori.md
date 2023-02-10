@@ -1,6 +1,6 @@
 ---
 aliases: Helicobacter pylori
-tags: [m/m18]
+tags: [Modul/m18]
 title: H. pylori
 ---
 ### Helicobacter pylori

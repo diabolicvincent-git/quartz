@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [a/Pathologie, f/💭/Psychopathologischer-Befund/Affektivität, m/m31]
+tags: [Art/Pathologie, Fach/Psychiatrie/Psychopathologischer-Befund/Affektivität, Modul/m31]
 ICD: ""
 title: Insuffizienzgefühl
 ---

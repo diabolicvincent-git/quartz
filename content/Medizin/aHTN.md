@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m14, f/🫀, a/Pathologie]
+tags: [Modul/m11, Modul/m14, Fach/Kardiologie, Art/Pathologie]
 title: aHTN
 ---
 > (Abstract::**Arterielle [[Hypertonie]]** [[RR]] >140/90 mmHg)

@@ -1,6 +1,6 @@
 ---
 aliases: AGS
-tags: [m/m22, f/🦩, f/🗞️, a/Pathologie, f/🦄, f/🦄, ToDo]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Art/Pathologie, Fach/Pädiatrie, Fach/Pädiatrie, ToDo]
 title: Adrenogenitales Syndrom
 ---
 - **Epidemiologie**:: [[Inzidenz]] 1:10.000[^1]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m01, f/🔪, f/💤, a/Pathologie]
+tags: [Modul/m01, Fach/Chirurgie, Fach/Anästhesie, Art/Pathologie]
 title: Thoraxtrauma
 ---
 ### Thoraxtrauma

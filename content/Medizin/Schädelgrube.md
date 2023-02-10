@@ -1,6 +1,6 @@
 ---
 aliases: Schädelgruben
-tags: [m/m15, f/💀, f/🧠]
+tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Schädelgrube
 ---
 - **[[Fossa cranii anterior]]**

@@ -1,6 +1,6 @@
 ---
 aliases: Glomeruläre Filtrationsrate
-tags: [m/m14]
+tags: [Modul/m14]
 title: GFR
 ---
 ### Glomeruläre Filtrationsrate / GFR

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17, f/🧪, f/⚙️, f/🦠, f/🗞️, f/🩸, f/🦀]
+tags: [Modul/m08, Modul/m17, Fach/Biochemie, Fach/Physiologie, Fach/Infektiologie, Fach/Endokrinologie, Fach/Hämatologie, Fach/Onkologie]
 title: Cytokine
 ---
 > (Abstract::Diverse ==[[parakrin]]== sezernierte Polypeptid-Mediatoren)

@@ -1,6 +1,6 @@
 ---
 aliases: Sauerstoffsättigung, O2-Sättigung
-tags: [m/m13, a/Intervention, f/🫁]
+tags: [Modul/m13, Art/Intervention, Fach/Pneumologie]
 title: SpO2
 ---
 ### Pulsoxymetrische Sauerstoffsättigung / SpO2

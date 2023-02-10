@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/💤, f/🫁]
+tags: [Modul/m21, Fach/Anästhesie, Fach/Pneumologie]
 title: PESI
 ---
 ### Simplified Pulmonary Embolism Severity Index / sPESI

@@ -1,9 +1,8 @@
 ---
 aliases: Blinddarmentzündung
-tags: [m/m12, f/💩, a/Pathologie]
+tags: [Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: Appendizitis
 ---
-	### Appendizitis / "Blinddarmentzündung"
 - **Epidemiologie**:: Lebenszeitprävalenz 8%, Häufigste Ursache für [[Akutes Abdomen]]
 - **Pathophysiologie**
 	1. *Katarrhalisch:* Hyperämie, [[Ödeme]]

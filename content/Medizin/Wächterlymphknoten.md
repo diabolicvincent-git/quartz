@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, f/💀/Organ]
+tags: [Modul/m19, Fach/Onkologie, Fach/Anatomie/Organ]
 title: Wächterlymphknoten
 ---
 **Wächterlymphknoten**:: [[Lymphknoten]] mit Lymphabfluss aus einem [[Tumor]]-Areal

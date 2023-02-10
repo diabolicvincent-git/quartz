@@ -1,6 +1,6 @@
 ---
 aliases: Stickstoffmonoxid
-tags: [m/m04, f/🧪]
+tags: [Modul/m04, Fach/Biochemie]
 title: NO
 ---
 ### Stickstoffmonoxid / [[NO]]

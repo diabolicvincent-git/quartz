@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m19, f/🩸, f/💀, f/🔬]
+tags: [Modul/m19, Fach/Hämatologie, Fach/Anatomie, Fach/Histologie]
 title: Gelbes Knochenmark
 ---
 ### Gelbes [[Knochenmark]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, f/💤, f/💊/Medikament, f/🍄/Gift]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anästhesie, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
 title: Benzodiazepine
 ---
 ### Benzodiazepine

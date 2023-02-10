@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m08, m/m09, f/⚙️, f/🦠]
+tags: [Modul/m15, Modul/m08, Modul/m09, Fach/Physiologie, Fach/Infektiologie]
 title: Histamin
 ---
 ### Histamin 

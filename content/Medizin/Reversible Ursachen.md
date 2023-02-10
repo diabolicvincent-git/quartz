@@ -1,6 +1,6 @@
 ---
 aliases: 4H + HITS
-tags: [m/m21, f/💤]
+tags: [Modul/m21, Fach/Anästhesie]
 title: Reversible Ursachen
 ---
 ### 4H + HITS

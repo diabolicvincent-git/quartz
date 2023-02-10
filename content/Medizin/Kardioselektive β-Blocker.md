@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💊/Medikament, f/💊/Medikament]
+tags: [Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
 title: Kardioselektive β-Blocker
 ---
 - **Entitäten**:: [[Atenolol]], [[Bisoprolol]], [[Metoprolol]], [[Nebivolol]]

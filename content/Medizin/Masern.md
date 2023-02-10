@@ -1,5 +1,5 @@
 ---
-tags: [m/m18, f/🦠, a/Pathologie, f/🦄/Exantheme]
+tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie, Fach/Pädiatrie/Exantheme]
 title: Masern
 ---
 > (Abstract::**1st disease**)

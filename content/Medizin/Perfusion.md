@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, m/m11, f/⚙️, f/🫁]
+tags: [Modul/m13, Modul/m11, Fach/Physiologie, Fach/Pneumologie]
 title: Perfusion
 ---
 ### Perfusion der [[Lunge]]

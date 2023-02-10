@@ -1,6 +1,6 @@
 ---
 aliases: Dermatom
-tags: [m/m09, f/🧴, f/🧠, f/💀]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Neurologie, Fach/Anatomie]
 title: Dermatome
 ---
 - *Sensibel* innverviertes Hautareal genau eines [[Spinalnerven]]

@@ -1,6 +1,6 @@
 ---
 aliases: R-Zacken
-tags: [m/m11, f/🫀, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: R-Zacke
 ---
 **R-Zacke**:: Jeder positive Ausschlag des [[QRS]] im [[EKG]]

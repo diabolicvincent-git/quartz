@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💀, f/💀/Organ]
+tags: [Fach/Anatomie, Fach/Anatomie/Organ]
 title: Abdomen
 ---
 - **[[Körperregionen]]**

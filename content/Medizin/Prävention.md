@@ -1,6 +1,6 @@
 ---
 aliases: Gesundheitsförderung
-tags: [m/m06, m/m19, f/📊, a/Intervention]
+tags: [Modul/m06, Modul/m19, Fach/Epidemiologie, Art/Intervention]
 title: Prävention
 ---
 ### Prävention / Gesundheitsförderung

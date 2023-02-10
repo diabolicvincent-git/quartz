@@ -1,6 +1,6 @@
 ---
 aliases: Taschenklappe
-tags: [m/m11, f/🫀, f/💀]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Taschenklappen
 ---
 ## Taschenklappen

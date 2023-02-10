@@ -1,6 +1,6 @@
 ---
 aliases: Rekapillarisierungszeit
-tags: [m/m00, a/Intervention]
+tags: [Modul/m00, Art/Intervention]
 title: Recap-Zeit
 ---
 ### Rekapillarisierungszeit / Recap-Zeit / Nagelbettprobe

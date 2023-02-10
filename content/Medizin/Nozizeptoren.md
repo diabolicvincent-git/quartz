@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, f/⚙️, f/💤, f/🧠, f/🧴]
+tags: [Modul/m09, Fach/Physiologie, Fach/Anästhesie, Fach/Neurologie, Fach/Dermatologie]
 title: Nozizeptoren
 ---
 > (Abstract::Primäre Sinneszellen der [[Nozizeption]] (freie Nervenenden))

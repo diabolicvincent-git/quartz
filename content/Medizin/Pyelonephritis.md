@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, m/m18, f/🍺, f/🍆]
+tags: [Modul/m14, Modul/m18, Fach/Nephrologie, Fach/Urologie]
 title: Pyelonephritis
 ---
 ### Pyelonephritis / [[Nierenbecken]]-[[Entzündung]]

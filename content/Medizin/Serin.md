@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02]
+tags: [Modul/m02]
 title: Serin
 ---
 **Serin (Ser, S)**:: Alkoholische [[AS]]

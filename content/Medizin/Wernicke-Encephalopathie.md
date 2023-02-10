@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/🧠, a/Pathologie]
+tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Wernicke-Encephalopathie
 ---
 ### Wernicke-Encephalopathie

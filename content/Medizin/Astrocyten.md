@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m15, m/m30, f/🧠, f/🔬, f/🔬/Zelle]
+tags: [Modul/m15, Modul/m30, Fach/Neurologie, Fach/Histologie, Fach/Histologie/Zelle]
 title: Astrocyten
 ---
 (Abstract::[[Gliazellen]] im [[ZNS]])

@@ -28,4 +28,4 @@ Bindung eines Sulfats an [[Tyrosin]]-Rest im Golgi zur Erhöhung der Wasserlösl
 - **Acetylierung** (z.B. Histone)
 - **Ubiquitinierung** (Proteosomaler Abbau)
 
-#m/m02 #m/m03 
+#Modul/m02 #Modul/m03 

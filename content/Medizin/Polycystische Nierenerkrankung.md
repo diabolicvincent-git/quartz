@@ -5,4 +5,4 @@ aliases:
 title: Polycystische Nierenerkrankung
 ---
 
-#m/m02
+#Modul/m02

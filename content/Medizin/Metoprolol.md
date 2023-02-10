@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/💊/Medikament, m/m11, f/🫀]
+tags: [Fach/Pharmakologie/Medikament, Modul/m11, Fach/Kardiologie]
 title: Metoprolol
 ---
  ### Metoprolol

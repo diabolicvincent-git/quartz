@@ -1,7 +1,7 @@
 ---
 title: 12-Kanal-EKG
 aliases: 
-tags: [m/m11, f/🫀, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 ---
 > (Abstract::**Standard-[[EKG]] mit 10 Elektroden.**)
 - **Ableitungen**

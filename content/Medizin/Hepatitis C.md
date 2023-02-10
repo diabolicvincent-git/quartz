@@ -1,6 +1,6 @@
 ---
 aliases: Hepatitis-C-Virus, HCV, HepC
-tags: [m/m18, f/🦠, f/💩, a/Pathologie]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Hepatitis C
 ---
 ### Hepatitis C

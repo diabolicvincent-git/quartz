@@ -1,6 +1,6 @@
 ---
 aliases: Intravenöse Immunglobuline
-tags: [m/m17, f/💉, a/Intervention]
+tags: [Modul/m17, Fach/Rheumatologie, Art/Intervention]
 title: IVIG
 ---
 ### Intravenöse Immunglobuline / IVIG

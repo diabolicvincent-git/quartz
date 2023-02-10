@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/💉, a/Pathologie, f/⚙️]
+tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie, Fach/Physiologie]
 title: Antiphospholipid-Syndrom
 ---
 > (Abstract::Erworbene [[Thrombophilie]] mit Bildung von [[Auto-Antikörper]]n gegen Phospholipid-gebundene [[Proteine]])

@@ -1,6 +1,6 @@
 ---
 aliases: P. aeruginosa
-tags: [m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Pseudomonas aeruginosa
 ---
 > [[gramnegativ]] > Stäbchen > Pseudomonaden > Pseudomonas aeruginosa

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, f/💀, f/🧠]
+tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Temporallappen
 ---
 - **Funktion**:: Sprachverständnis, [[Zentrale Hörverarbeitung]], [[Geruch]]

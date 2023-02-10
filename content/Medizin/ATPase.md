@@ -1,6 +1,6 @@
 ---
 aliases: ATPasen
-tags: [m/m03, f/🧪, f/🧪/Molekül]
+tags: [Modul/m03, Fach/Biochemie, Fach/Biochemie/Molekül]
 title: ATPase
 ---
 > Aktiver [[Stofftransport]]

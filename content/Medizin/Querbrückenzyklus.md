@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m05, m/m10]
+tags: [Modul/m03, Modul/m05, Modul/m10]
 title: Querbrückenzyklus
 ---
 ### Querbrückenzyklus

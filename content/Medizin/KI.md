@@ -1,6 +1,6 @@
 ---
 aliases: Kontraindikation, Kontraindikationen, kontraindiziert
-tags: [m/m00, f/💊/Medikament, m/m24]
+tags: [Modul/m00, Fach/Pharmakologie/Medikament, Modul/m24]
 title: KI
 ---
 ### Häufige Kontraindikationen

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, f/💀, f/💀/Leitungsbahn/Lymphe]
+tags: [Modul/m05, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Lymphe]
 title: Lymphgefäße
 ---
 ### Lymphgefäße

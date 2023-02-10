@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m15, m/m04, f/🧠, f/🔬]
+tags: [Modul/m05, Modul/m15, Modul/m04, Fach/Neurologie, Fach/Histologie]
 title: Nervengewebe
 ---
 ### Nervengewebe

@@ -1,6 +1,6 @@
 ---
 aliases: bakteriell
-tags: [m/m03, m/m09, m/m18, f/🦠, f/🦠/Erreger/Bakterien]
+tags: [Modul/m03, Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: Bakterien
 ---
 > ==[[Bakteriensystematik]]==

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, f/⚙️, f/🧪]
+tags: [Modul/m04, Fach/Physiologie, Fach/Biochemie]
 title: IP3 (Inositol-1,4,5-triphosphat) und DAG (Diacylglycerol)
 ---
 ### Signaltransduktion

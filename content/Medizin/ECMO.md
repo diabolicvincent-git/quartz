@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, f/🫁, f/🫀, f/💤, a/Intervention]
+tags: [Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: ECMO
 ---
 ### Extrakorporale Membranoxygenierung / ECMO

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, m/m22, f/⚙️, f/🧪/Molekül, f/🧪, f/💤]
+tags: [Modul/m20, Modul/m22, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Biochemie, Fach/Anästhesie]
 title: Dynorphin
 ---
 ### Dynorphine

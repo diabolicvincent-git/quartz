@@ -25,4 +25,4 @@ Pseudokrupp|||"Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Vi
 Zoonosen|"Borrelia spp., Brucella spp., Francisella tularensis, Leptospira icterohaemorrhagica, Mycobacterium bovis, Yersinia pestis"|"Echinococcus spp., Leishmania spp., Microsporum spp., Taenia solium, Toxocara canis/cati, Toxoplasma gondii, Trichinella spp., Trichophyton spp."|"Cytomegalievirus, Ebolavirus, Gelbfiebervirus, Hepatitis-E-Virus, Lassafieber-Virus, [[Tollwut]]-Virus, Vogelgrippe-Virus"
 Cystitis|"[[E. coli]], Klebsiella pneumoniae, Proteus spp., [[Staphylokokken]] saprophyticus"|Candida spp.|
 
-#m/m00
+#Modul/m00

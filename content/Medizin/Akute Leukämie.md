@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🦀, f/🩸, a/Pathologie]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: Akute Leukämie
 ---
 - [[ALL]]

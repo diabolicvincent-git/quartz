@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💭, f/💤, a/Pathologie]
+tags: [Modul/m20, Fach/Psychiatrie, Fach/Anästhesie, Art/Pathologie]
 title: Postoperatives Stresssyndrom
 ---
 ### Postoperatives Stresssyndrom

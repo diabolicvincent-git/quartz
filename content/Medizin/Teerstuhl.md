@@ -1,6 +1,6 @@
 ---
 aliases: Meläna, Melaena
-tags: [m/m26, a/Pathologie]
+tags: [Modul/m26, Art/Pathologie]
 title: Teerstuhl
 ---
 ### Teerstuhl / Meläna

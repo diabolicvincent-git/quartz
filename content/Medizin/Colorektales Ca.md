@@ -1,6 +1,6 @@
 ---
 aliases: Colon-Ca, Rektum-Ca
-tags: [m/m19, a/Pathologie, f/🦀, f/💩, a/Pathologie]
+tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Colorektales Ca
 ---
 ### Colorektales Karzinom

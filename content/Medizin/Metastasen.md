@@ -1,6 +1,6 @@
 ---
 aliases: Metastasierung
-tags: [m/m19, f/🦀]
+tags: [Modul/m19, Fach/Onkologie]
 title: Metastasen
 ---
 ### Metastasen

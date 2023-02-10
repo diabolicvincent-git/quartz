@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m22, f/🐣, f/🧬/gen, f/🧪, f/⚙️, f/🧪/Molekül, f/🦩, f/🍆]
+tags: [Modul/m22, Fach/Embryologie, Fach/Genetik/Gen, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Gynäkologie, Fach/Urologie]
 title: SRY
 ---
 ### Sex determining region of Y / SRY-Gen

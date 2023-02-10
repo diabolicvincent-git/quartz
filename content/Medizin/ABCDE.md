@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/⛑️, a/Intervention, a/Intervention]
+tags: [Modul/m21, Fach/Notfallmedizin, Art/Intervention, Art/Intervention]
 title: ABCDE
 ---
 > (Abstract::[[Airway]], [[Breathing]], [[Circulation]], [[Disability]], [[Exposure]])

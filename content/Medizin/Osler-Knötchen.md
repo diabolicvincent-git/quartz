@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/🧴, f/🫀, a/Pathologie]
+tags: [Modul/m25, Fach/Dermatologie, Fach/Kardiologie, Art/Pathologie]
 title: Osler-Knötchen
 ---
 ### Osler-Knötchen

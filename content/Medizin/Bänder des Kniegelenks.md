@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/💀, f/🦴]
+tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Bänder des Kniegelenks
 ---
 Zur Gewährleistung der Stabilität sind Femur und Tibia durch die Kreuz- und Seitenbänder miteinander verbunden. Die inkongruenten Gelenkflächen von Femur und Tibia werden durch die mit [[Knorpel]] überzogenen Menisken einander angeglichen.

@@ -1,6 +1,6 @@
 ---
 aliases: Riechen
-tags: [m/m16, f/👂, f/⚙️]
+tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Geruch
 ---
 

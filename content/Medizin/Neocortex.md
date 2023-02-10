@@ -1,6 +1,6 @@
 ---
 aliases: Isocortex
-tags: [m/m15]
+tags: [Modul/m15]
 title: Gliederung
 ---
 ## Zelltypen

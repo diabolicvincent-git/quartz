@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m13, m/m21, f/💤, f/🍄, f/💊/Medikament/Übergruppe, a/Intervention]
+tags: [Modul/m13, Modul/m21, Fach/Anästhesie, Fach/Toxikologie, Fach/Pharmakologie/Medikament/Übergruppe, Art/Intervention]
 title: Antidot
 ---
 ```dataview

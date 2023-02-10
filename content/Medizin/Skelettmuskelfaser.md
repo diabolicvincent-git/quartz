@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/🦴, f/⚙️, f/💀]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie, Fach/Anatomie]
 title: den histologischen Bau und die Funktion der neuromuskulären Synapse als morphologische Nervenkontaktstellen zur Muskelfaser beschreiben können (weiterentwickelt)
 ---
 # den histologischen Bau und die Funktion der neuromuskulären Synapse als morphologische Nervenkontaktstellen zur Muskelfaser beschreiben können (weiterentwickelt)

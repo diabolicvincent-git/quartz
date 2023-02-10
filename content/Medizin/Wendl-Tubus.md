@@ -1,5 +1,5 @@
 ---
-tags: [f/⛑️, f/💤, a/Intervention]
+tags: [Fach/Notfallmedizin, Fach/Anästhesie, Art/Intervention]
 aliases: Nasopharyngealtubus
 title: Wendl-Tubus
 ---

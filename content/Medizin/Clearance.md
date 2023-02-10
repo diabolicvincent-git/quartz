@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14, f/🍺, f/⚙️]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Physiologie]
 title: Clearance
 ---
 > "Fiktives" Plasma[[Volumen]], das von der [[Niere]] innerhalb einer Zeit von einer Substanz gereinigt wird

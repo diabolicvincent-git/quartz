@@ -1,6 +1,6 @@
 ---
 aliases: Liquor cerebrospinalis
-tags: [m/m15]
+tags: [Modul/m15]
 title: Liquor
 ---
 ### Liquor cerebrospinalis

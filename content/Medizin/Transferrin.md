@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/🧪, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m08, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Transferrin
 ---
 ### Transferrin

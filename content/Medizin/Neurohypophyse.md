@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m15, m/m22]
+tags: [Modul/m15, Modul/m22]
 title: Neurohypophyse
 ---
 ### Neurohypophyse

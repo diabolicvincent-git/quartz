@@ -1,6 +1,6 @@
 ---
 aliases: Terminale Desoxyribonucleotidtransferase
-tags: [m/m19, f/🧪, f/🧪/Molekül/Enzym]
+tags: [Modul/m19, Fach/Biochemie, Fach/Biochemie/Molekül/Enzym]
 title: TdT
 ---
 ### Terminale Desoxyribonucleotidtransferase / TdT

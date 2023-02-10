@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m03, f/🧪, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m05, Modul/m03, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: CDK-Inhibitoren
 ---
 ### CDK-Inhibitoren

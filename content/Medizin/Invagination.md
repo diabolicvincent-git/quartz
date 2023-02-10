@@ -1,6 +1,6 @@
 ---
 aliases: Darminvagination
-tags: [m/m26, f/💩, f/🔪]
+tags: [Modul/m26, Fach/Gastroenterologie, Fach/Chirurgie]
 title: Invagination
 ---
 ### Darminvagination

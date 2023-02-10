@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, m/m12, f/💩, f/💉, a/Pathologie]
+tags: [Modul/m17, Modul/m12, Fach/Gastroenterologie, Fach/Rheumatologie, Art/Pathologie]
 title: Colitis ulcerosa
 ---
 ### Colitis ulcerosa

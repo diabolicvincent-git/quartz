@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m18, a/Pathologie, f/🧴, f/🦠, a/Pathologie]
+tags: [Modul/m09, Modul/m18, Art/Pathologie, Fach/Dermatologie, Fach/Infektiologie, Art/Pathologie]
 title: Erysipel
 ---
 ### Erysipel

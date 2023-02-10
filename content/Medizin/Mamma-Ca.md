@@ -1,6 +1,6 @@
 ---
 aliases: Mammakarzinom, Brustkrebs
-tags: [m/m19, a/Pathologie]
+tags: [Modul/m19, Art/Pathologie]
 title: Mamma-Ca
 ---
 ### Mammakarzinom / Brustkrebs

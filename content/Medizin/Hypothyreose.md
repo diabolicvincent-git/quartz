@@ -1,6 +1,6 @@
 ---
 aliases: Kretinismus
-tags: [m/m04, m/m17, m/m22, f/🗞️, a/Pathologie]
+tags: [Modul/m04, Modul/m17, Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Hypothyreose
 ---
 ### Hypothyreose / Schilddrüsenunterfunktion 

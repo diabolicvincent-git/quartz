@@ -1,6 +1,6 @@
 ---
 aliases: MPN
-tags: [m/m19]
+tags: [Modul/m19]
 title: Myeloproliferative Neoplasien
 ---
 ### Myeloproliferative Neoplasien / MPN

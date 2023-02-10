@@ -1,5 +1,5 @@
 ---
-tags: [f/💀/Leitungsbahn/Vene/Punktabel/ZVK]
+tags: [Fach/Anatomie/Leitungsbahn/Vene/Punktabel/ZVK]
 title: V. subclavia
 ---
 - **ZVK**

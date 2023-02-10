@@ -1,6 +1,6 @@
 ---
 aliases: Verlängertes Rückenmark
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Medulla oblongata
 ---
 ### Medulla oblongata 

@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🦠, f/🦩, f/🍆]
+tags: [Art/Pathologie, Fach/Infektiologie, Fach/Gynäkologie, Fach/Urologie]
 title: Chlamydien-Infektion
 ---
 > (Abstract::)

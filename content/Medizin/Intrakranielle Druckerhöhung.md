@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🧠, f/⛑️, f/💤]
+tags: [Art/Pathologie, Fach/Neurologie, Fach/Notfallmedizin, Fach/Anästhesie]
 title: Intrakranielle Druckerhöhung
 ---
 > (Abstract::**[[ICP]]↑.**)

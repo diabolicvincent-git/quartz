@@ -1,5 +1,5 @@
 ---
-tags: [a/Pathologie, f/🫀]
+tags: [Art/Pathologie, Fach/Kardiologie]
 title: Adams-Stokes-Anfall
 ---
 > (Abstract::**[[HRST]] → [[HZV]]↓ → Cerebrale Hypoxie.**)

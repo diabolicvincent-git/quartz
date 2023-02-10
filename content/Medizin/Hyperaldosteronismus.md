@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🗞️, f/🍺, a/Pathologie]
+tags: [Modul/m14, Fach/Endokrinologie, Fach/Nephrologie, Art/Pathologie]
 title: Sekundärer Hyperaldosteronismus
 ---
 ![[Primärer Hyperaldosteronismus]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04, m/m22, f/🗞️, a/Pathologie, f/🧠, f/🔪]
+tags: [Modul/m04, Modul/m22, Fach/Endokrinologie, Art/Pathologie, Fach/Neurologie, Fach/Chirurgie]
 title: M. Cushing
 ---
 ### M. Cushing

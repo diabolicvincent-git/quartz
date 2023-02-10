@@ -1,6 +1,6 @@
 ---
 aliases: Hemidesmosomen
-tags: [m/m04, m/m05, f/🧪, f/🔬]
+tags: [Modul/m04, Modul/m05, Fach/Biochemie, Fach/Histologie]
 title: Hemidesmosom
 ---
 ### Hemidesmosom

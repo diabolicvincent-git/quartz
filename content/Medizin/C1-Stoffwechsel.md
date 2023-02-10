@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [f/🧪]
+tags: [Fach/Biochemie]
 title: C1-Stoffwechsel
 ---
 

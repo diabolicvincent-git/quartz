@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, f/💭, f/🧠, a/Intervention]
+tags: [Modul/m20, Fach/Psychiatrie, Fach/Neurologie, Art/Intervention]
 title: ZOSP
 ---
 ### ZOSP

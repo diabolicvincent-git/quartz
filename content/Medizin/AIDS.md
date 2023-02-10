@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m18, f/🦠, a/Pathologie]
+tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: AIDS
 ---
 (Abstract::**Acquiriertes Immundefizienz Syndrom.** Klinik von unbehandeltem [[HIV]]. [[AIDS]]-definierende Erkrankungen + ==CD4+ [[T-Zellen]]↓==.)

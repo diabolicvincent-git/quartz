@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/⚙️, f/🦠, f/🧪/Molekül]
+tags: [Modul/m08, Fach/Physiologie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: IL-2
 ---
 - **[[IL]]-2**

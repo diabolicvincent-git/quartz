@@ -55,4 +55,4 @@ Calcium-[[Kreatinin]]-Clearance-Quotient(?)
 
 # Ursachen, Risikofaktoren und molekulare Pathomechanismen für verschiedene Osteoporoseformen darle![[Untitled 1 40.png]]
 
-#m/m05 #m/m10
+#Modul/m05 #Modul/m10

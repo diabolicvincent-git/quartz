@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19]
+tags: [Modul/m19]
 title: Nozizeptive Bahnen
 ---
 ### Nozizeptive Bahnen

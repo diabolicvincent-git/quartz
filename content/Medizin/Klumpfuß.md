@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m27, a/Pathologie, f/🦴, f/🦄]
+tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie, Fach/Pädiatrie]
 title: Klumpfuß
 ---
 ### Klumpfuß

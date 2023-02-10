@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m19, f/🦀, f/🧪, f/🔬]
+tags: [Modul/m05, Modul/m19, Fach/Onkologie, Fach/Biochemie, Fach/Histologie]
 title: Neoplasie
 ---
 ### Neoplasie

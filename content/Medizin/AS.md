@@ -1,9 +1,9 @@
 ---
 aliases: Aminosäure, Aminosäuren
-tags: [m/m02, f/🧪, f/🧪/Molekül/Aminosäure]
+tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Molekül/Aminosäure]
 title: AS
 ---
-### Aminosäuren / AS
+> (Abstract::Aminosäuren)
 - **Chemische Eigenschaften** 
 	- *L-α-Aminocarbonsäuren* (Aminogruppe an C1
 	- *Ampholyte* (Zwitterionen bei [[pH]] 7)

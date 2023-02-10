@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, f/💊/Medikament, f/🩸/Transfusion/Blutprodukt]
+tags: [Modul/m08, Fach/Pharmakologie/Medikament, Fach/Hämatologie/Transfusion/Blutprodukt]
 title: PPSB
 ---
 > (Abstract::**Prothrombinkonzentrat.**)

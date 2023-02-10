@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, m/m12, a/Pathologie, f/🫀]
+tags: [Modul/m02, Modul/m12, Art/Pathologie, Fach/Kardiologie]
 title: Metabolisches Syndrom
 ---
 ### Metabolisches Syndrom

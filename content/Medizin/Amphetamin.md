@@ -1,6 +1,6 @@
 ---
 aliases: Amphetaminderivate
-tags: [f/🍄, f/💭]
+tags: [Fach/Toxikologie, Fach/Psychiatrie]
 title: Amphetamin
 ---
 (Abstract::[[Psychostimulanzien]] (Amphetamin, Methylphenidat, Ecstasy/MDMA))

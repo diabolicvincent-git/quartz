@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m11, f/🫀]
+tags: [Modul/m11, Fach/Kardiologie]
 title: Herzvenen
 ---
 ### Venöser Abfluss

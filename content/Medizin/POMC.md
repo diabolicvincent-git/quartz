@@ -1,6 +1,6 @@
 ---
 aliases: Proopiomelanocorticotropin
-tags: [m/m04, m/m09, f/🧪, f/⚙️, f/🗞️]
+tags: [Modul/m04, Modul/m09, Fach/Biochemie, Fach/Physiologie, Fach/Endokrinologie]
 title: POMC
 ---
 ### POMC / Proopiomelanocorticotropin

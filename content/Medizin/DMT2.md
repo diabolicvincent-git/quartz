@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🗞️, a/Pathologie]
+tags: [Modul/m17, Fach/Endokrinologie, Art/Pathologie]
 title: DMT2
 ---
 ### Diabetes mellitus Typ 2

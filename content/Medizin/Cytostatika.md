@@ -1,6 +1,6 @@
 ---
 aliases: Chemotherapeutika
-tags: [m/m19, f/🦀, f/💊/Medikament]
+tags: [Modul/m19, Fach/Onkologie, Fach/Pharmakologie/Medikament]
 title: Cytostatika
 ---
 - **Wirkstoffe**

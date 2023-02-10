@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💩, f/🥼, a/Intervention]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Laboratoriumsmedizin, Art/Intervention]
 title: Pankreaswerte
 ---
 ### Pankreaswerte

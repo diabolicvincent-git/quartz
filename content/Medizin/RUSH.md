@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m00, m/m21, f/💤, f/🕶️]
+tags: [Modul/m00, Modul/m21, Fach/Anästhesie, Fach/Radiologie]
 title: RUSH
 ---
 ### RUSH

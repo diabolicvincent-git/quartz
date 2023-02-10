@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rami subendocardiales
-tags: [m/m11]
+tags: [Modul/m11]
 title: Purkinje-Fasern
 ---
 - **Lokalisation**:: Kleine Endäste der [[Tawara-Schenkel]]

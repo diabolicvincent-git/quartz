@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m11, f/🫀, a/Intervention]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Valsalva
 ---
 ### Valsalva-Manöver

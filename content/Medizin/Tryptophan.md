@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m02, f/🧪, f/🧪/Molekül/Aminosäure]
+tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Molekül/Aminosäure]
 title: Tryptophan
 ---
 **Tryptophan (Trp, W)**:: Essentielle [[AS]], Purinderivat

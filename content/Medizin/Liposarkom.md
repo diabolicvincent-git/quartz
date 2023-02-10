@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m19]
+tags: [Modul/m09, Modul/m19]
 title: Liposarkom
 ---
 ### Liposarkom

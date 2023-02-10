@@ -1,6 +1,6 @@
 ---
 aliases: Hormone, hormonell
-tags: [m/m04, m/m22]
+tags: [Modul/m04, Modul/m22]
 title: Hormon
 ---
 ### Hormone

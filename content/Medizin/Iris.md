@@ -1,7 +1,7 @@
 ---
 aliases:
   - Regenbogenhaut
-tags: [m/m16]
+tags: [Modul/m16]
 title: Iris
 ---
 > Öffnung im Zentrum (*[[Pupille]]*), deren Weite muskulär veränderbar ist

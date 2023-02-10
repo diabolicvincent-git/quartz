@@ -1,6 +1,6 @@
 ---
 aliases: Lebertransplantation
-tags: [m/m26]
+tags: [Modul/m26]
 title: LTX
 ---
 ### Lebertransplantation / LTX

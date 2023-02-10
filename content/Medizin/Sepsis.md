@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18, a/Pathologie, m/m21, f/🦠, f/💤, a/Pathologie]
+tags: [Modul/m18, Art/Pathologie, Modul/m21, Fach/Infektiologie, Fach/Anästhesie, Art/Pathologie]
 title: PV Septischer Schock
 ---
 ### Sepsis

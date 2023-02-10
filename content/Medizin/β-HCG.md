@@ -1,6 +1,6 @@
 ---
 aliases: beta-HCG
-tags: [m/m22, f/🗞️, f/🥼, f/🦩, a/Intervention, f/🧪/Molekül]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Laboratoriumsmedizin, Fach/Gynäkologie, Art/Intervention, Fach/Biochemie/Molekül]
 title: β-HCG
 ---
 ### β-HCG / Humanes Choriongonadotropin

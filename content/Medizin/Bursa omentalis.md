@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m12, f/💩, f/💀, m/m26, f/🔪, ToDo]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie, Modul/m26, Fach/Chirurgie, ToDo]
 title: Bursa omentalis
 ---
 ### Bursa omentalis

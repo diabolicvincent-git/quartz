@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04]
+tags: [Modul/m04]
 title: Sekretion
 ---
 ### Sekretionsmodi

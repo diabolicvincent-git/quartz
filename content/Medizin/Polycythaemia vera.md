@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m19, f/🩸, a/Pathologie]
+tags: [Modul/m19, Fach/Hämatologie, Art/Pathologie]
 title: Polycythaemia vera
 ---
 ### Polycythaemia vera / PV

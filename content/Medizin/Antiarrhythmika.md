@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m25, f/💊/Medikament/Übergruppe, f/🫀]
+tags: [Modul/m25, Fach/Pharmakologie/Medikament/Übergruppe, Fach/Kardiologie]
 title: Antiarrhythmika
 ---
 - **Einteilung nach Vaughan-Williams**

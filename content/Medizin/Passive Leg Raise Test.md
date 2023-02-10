@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14, a/Intervention]
+tags: [Modul/m14, Art/Intervention]
 title: Passive Leg Raise Test
 ---
 ### Passive Leg Raise Test

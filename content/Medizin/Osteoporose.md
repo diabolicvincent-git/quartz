@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m05, m/m10, f/🦴, f/🗞️, a/Pathologie]
+tags: [Modul/m05, Modul/m10, Fach/Orthopädie, Fach/Endokrinologie, Art/Pathologie]
 title: Osteoporose
 ---
 ### Osteoporose 

@@ -1,6 +1,6 @@
 ---
 aliases: extended focused assesment with sonography for trauma
-tags: [m/m21, f/💤, a/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: eFAST
 ---
 ### eFAST

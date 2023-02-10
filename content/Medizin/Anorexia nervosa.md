@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m31, f/💭, a/Pathologie]
+tags: [Modul/m31, Fach/Psychiatrie, Art/Pathologie]
 title: Anorexia nervosa
 ---
 - **Epidemiologie**:: [[♀]]>>[[♂]] 10:1, Häufigkeitsgipfel 13-16 J.

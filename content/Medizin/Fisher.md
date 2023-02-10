@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30, f/🧠, f/🕶️, a/Intervention]
+tags: [Modul/m30, Fach/Neurologie, Fach/Radiologie, Art/Intervention]
 title: Fisher
 ---
 ### Fisher

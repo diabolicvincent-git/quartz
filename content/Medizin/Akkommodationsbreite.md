@@ -1,5 +1,5 @@
 ---
-tags: [f/⚙️, f/👁️]
+tags: [Fach/Physiologie, Fach/Ophthalmologie]
 title: Akkommodationsbreite
 ---
 > (Abstract::Bereich, in dem das [[Auge]] seine Brechkraft zwischen Fern- und Nahsehen verändern kann (Jugend: 14 dpt, Alter: 1 dpt ([[Presbyopie]])))

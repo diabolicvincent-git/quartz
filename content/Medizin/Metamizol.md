@@ -1,6 +1,6 @@
 ---
 aliases: Novalgin, Novaminsulfon
-tags: [m/m20, f/💊/Medikament, f/💤]
+tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Metamizol
 ---
 ### Metamizol / Novaminsulfon

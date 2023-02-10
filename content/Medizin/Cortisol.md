@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m04 m/m22, f/🗞️]
+tags: [Modul/m04 Modul/m22, Fach/Endokrinologie]
 title: Produktionsort
 ---
 ### Cortisol

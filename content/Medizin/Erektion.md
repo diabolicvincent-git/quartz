@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m22, f/🍆, f/⚙️]
+tags: [Modul/m22, Fach/Urologie, Fach/Physiologie]
 title: Erektion
 ---
 ### Erektion

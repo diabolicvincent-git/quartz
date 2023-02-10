@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m10, f/🦴, f/⚙️]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie]
 title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 ---
 

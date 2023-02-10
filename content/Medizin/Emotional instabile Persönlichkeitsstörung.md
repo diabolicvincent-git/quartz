@@ -1,5 +1,5 @@
 ---
-tags: [f/💭/Persönlichkeitsstörung/B, m/m31, a/Pathologie]
+tags: [Fach/Psychiatrie/Persönlichkeitsstörung/B, Modul/m31, Art/Pathologie]
 title: Emotional instabile Persönlichkeitsstörung
 ---
 > (Abstract::[[Borderline-Typ]], [[Impulsiver Typ]])

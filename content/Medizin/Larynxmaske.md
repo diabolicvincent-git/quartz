@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m29, f/💤, a/Intervention]
+tags: [Modul/m29, Fach/Anästhesie, Art/Intervention]
 title: Larynxmaske
 ---
 ### Larynxmaske

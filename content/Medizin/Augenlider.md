@@ -3,7 +3,7 @@ aliases:
   - Augenlid
   - Lider
   - Lid
-tags: [m/m16, f/👁️]
+tags: [Modul/m16, Fach/Ophthalmologie]
 title: Augenlider
 ---
 - **Funktionen**

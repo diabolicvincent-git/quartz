@@ -1,6 +1,6 @@
 ---
 aliases: von-Willebrand-Faktor
-tags: [m/m08, f/🩸, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: vWF
 ---
 

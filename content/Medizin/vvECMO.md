@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m21, f/💤, f/🫁, a/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Fach/Pneumologie, Art/Intervention]
 title: vvECMO
 ---
 **vv[[ECMO]]**:: Ersatz von [[Lunge]]

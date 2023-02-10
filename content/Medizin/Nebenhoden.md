@@ -1,6 +1,6 @@
 ---
 aliases: Epididymis
-tags: [m/m22, f/💀, f/🍆]
+tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: Nebenhoden
 ---
 ### Nebenhoden / Epididymis

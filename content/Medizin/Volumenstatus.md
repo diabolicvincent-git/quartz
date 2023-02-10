@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m14, m/m21, f/🍺, f/🫀, f/💤, a/Intervention]
+tags: [Modul/m14, Modul/m21, Fach/Nephrologie, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: Volumenstatus
 ---
 ### Volumenstatus

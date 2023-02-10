@@ -1,6 +1,6 @@
 ---
 aliases: Bandscheibenvorfall, Diskusprolaps
-tags: [m/m27, f/🦴, f/🧠]
+tags: [Modul/m27, Fach/Orthopädie, Fach/Neurologie]
 title: Bandscheibenprolaps
 ---
 ### Bandscheibenprolaps / -vorfall

@@ -1,6 +1,6 @@
 ---
 aliases: Enzephalitis
-tags: [m/m15, m/m18, f/🧠, f/🦠, a/Pathologie]
+tags: [Modul/m15, Modul/m18, Fach/Neurologie, Fach/Infektiologie, Art/Pathologie]
 title: Encephalitis
 ---
 ### Encephalitis

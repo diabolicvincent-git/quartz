@@ -1,6 +1,6 @@
 ---
 aliases: Karzinogenese
-tags: [m/m19, f/🦀, f/⚙️]
+tags: [Modul/m19, Fach/Onkologie, Fach/Physiologie]
 title: Tumorentstehung
 ---
 ### Tumorentstehung / Karzinogenese

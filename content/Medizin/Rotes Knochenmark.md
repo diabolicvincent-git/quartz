@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m17, f/🩸, f/💀, f/🔬]
+tags: [Modul/m17, Fach/Hämatologie, Fach/Anatomie, Fach/Histologie]
 title: Rotes Knochenmark
 ---
 ### Rotes [[Knochenmark]]

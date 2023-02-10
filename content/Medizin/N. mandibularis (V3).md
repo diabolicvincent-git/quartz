@@ -1,5 +1,5 @@
 ---
-tags: [m/m15, f/🧠/Hirnnerv]
+tags: [Modul/m15, Fach/Neurologie/Hirnnerv]
 title: N. mandibularis (V3)
 ---
 > [[N. trigeminus (V)]]

@@ -1,6 +1,6 @@
 ---
 aliases: Nierentubulus, Tubulussystem,
-tags: [m/m14]
+tags: [Modul/m14]
 title: Proximaler Tubulus
 ---
 ### Nierentubuli 

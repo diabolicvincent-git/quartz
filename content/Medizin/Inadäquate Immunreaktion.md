@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m18]
+tags: [Modul/m18]
 title: Inadäquate Immunreaktion
 ---
 

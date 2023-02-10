@@ -1,6 +1,6 @@
 ---
 aliases: Hypocortisolismus, Nebennierenrindeninsuffizienz
-tags: [m/m22, f/🗞️, a/Pathologie]
+tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: NNR-Insuffizienz
 ---
 ### Nebennierenrindeninsuffizienz / Hypocortisolismus

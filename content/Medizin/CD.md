@@ -1,6 +1,6 @@
 ---
 aliases: CD-Marker, Clusters of differentiation
-tags: [m/m08, m/m19, f/💉]
+tags: [Modul/m08, Modul/m19, Fach/Rheumatologie]
 title: CD
 ---
 ### CD-Marker

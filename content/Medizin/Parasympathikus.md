@@ -1,6 +1,6 @@
 ---
 aliases: parasympathisch, parasympathische
-tags: [m/m15, f/🧠, f/⚙️]
+tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Parasympathikus
 ---
 ### Parasymphatikus

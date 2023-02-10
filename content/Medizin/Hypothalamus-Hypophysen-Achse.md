@@ -1,6 +1,6 @@
 ---
 aliases: HPA
-tags: [m/m04, m/m22, f/⚙️, f/🗞️]
+tags: [Modul/m04, Modul/m22, Fach/Physiologie, Fach/Endokrinologie]
 title: Hypothalamus-Hypophysen-Achse
 ---
 ### Hypothalamus-Hypophysen-Achse / HPA

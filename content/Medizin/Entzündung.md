@@ -1,6 +1,6 @@
 ---
 aliases: Akute-Phase-Reaktion
-tags: [m/m08, m/m17]
+tags: [Modul/m08, Modul/m17]
 title: Mechanismen
 ---
 ### Entzündung 

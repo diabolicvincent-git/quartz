@@ -137,4 +137,4 @@ title: Magensaftsekretion
 - **[[Röntgen]]**:: Barium-haltiges [[KM]] zur Benetzung der Magenschleimhaut (selten)
 - **Gastroendoskopie**:: Mittel der Wahl
 
-#m/m12
+#Modul/m12

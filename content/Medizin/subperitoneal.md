@@ -1,6 +1,6 @@
 ---
 aliases: Subperitonealraum
-tags: [m/m12]
+tags: [Modul/m12]
 title: subperitoneal
 ---
 ### Subperitonealraum

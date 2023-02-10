@@ -1,6 +1,6 @@
 ---
 aliases: Mittlere Schädelgrube
-tags: [m/m15, f/🧠, f/💀]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Fossa cranii media
 ---
 ## Fossa cranii media

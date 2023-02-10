@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17, f/🦠, a/Pathologie]
+tags: [Modul/m08, Modul/m17, Fach/Infektiologie, Art/Pathologie]
 title: Entzündungszeichen
 ---
 ### Entzündungszeichen

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m20, a/Pathologie, f/💭, f/🧠]
+tags: [Modul/m20, Art/Pathologie, Fach/Psychiatrie, Fach/Neurologie]
 title: Parasomnie
 ---
 - **Parasomnie**:: [[Schlafstörung]] aus dem Schlaf heraus / beim Erwachen

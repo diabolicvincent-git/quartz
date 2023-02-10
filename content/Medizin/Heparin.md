@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m17, f/🩸, f/💊/Medikament, f/🫀, f/🍄/Gift]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Pharmakologie/Medikament, Fach/Kardiologie, Fach/Toxikologie/Gift]
 title: Heparin
 ---
 - **Entitäten**:: [[UFH]], [[NMH]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, m/m02, m/m12, f/🧪, f/🫀, f/🧪/Molekül]
+tags: [Modul/m11, Modul/m02, Modul/m12, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül]
 title: Lipoprotein
 ---
 ## Transportweg

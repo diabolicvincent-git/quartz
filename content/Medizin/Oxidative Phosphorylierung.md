@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, f/🧪, f/⚙️]
+tags: [Modul/m03, Fach/Biochemie, Fach/Physiologie]
 title: Oxidative Phosphorylierung
 ---
 (Abstract::[[Atmungskette]] + [[ATP-Synthese]])

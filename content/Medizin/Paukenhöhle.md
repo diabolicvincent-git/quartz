@@ -1,6 +1,6 @@
 ---
 aliases: Cavum tympani
-tags: [m/m16]
+tags: [Modul/m16]
 title: Paukenhöhle
 ---
 ### Paukenhöhle / Cavum tympani

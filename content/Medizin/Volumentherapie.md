@@ -1,6 +1,6 @@
 ---
 aliases: Flüssigkeitstherapie
-tags: [m/m21, a/Intervention, f/💤]
+tags: [Modul/m21, Art/Intervention, Fach/Anästhesie]
 title: Volumentherapie
 ---
 ### Volumentherapie

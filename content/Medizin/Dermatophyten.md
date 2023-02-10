@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m18, f/🦠, f/🦠/Erreger/Pilze]
+tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Pilze]
 title: Dermatophyten
 ---
 ### Dermatophyten

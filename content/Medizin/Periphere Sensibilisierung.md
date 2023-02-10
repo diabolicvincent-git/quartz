@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, m/m20]
+tags: [Modul/m09, Modul/m20]
 title: Periphere Sensibilisierung
 ---
 > (Abstract::Primäre [[Hyperalgesie]])

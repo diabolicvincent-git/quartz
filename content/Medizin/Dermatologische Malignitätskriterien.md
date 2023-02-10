@@ -1,6 +1,6 @@
 ---
 aliases: ABCDE-Regel
-tags: [m/m09, f/🧴, a/Intervention]
+tags: [Modul/m09, Fach/Dermatologie, Art/Intervention]
 title: Dermatologische Malignitätskriterien
 ---
 > [[Melanom]] [[Krebsvorsorgeuntersuchung]]

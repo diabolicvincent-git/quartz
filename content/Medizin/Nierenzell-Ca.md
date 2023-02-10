@@ -1,6 +1,6 @@
 ---
 aliases: Nierenzellkarzinom
-tags: [m/m14, m/m19, a/Pathologie]
+tags: [Modul/m14, Modul/m19, Art/Pathologie]
 title: Nierenzell-Ca
 ---
 ### Nierenzellkarzinom

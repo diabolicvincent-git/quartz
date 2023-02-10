@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m26, f/💩, a/Pathologie]
+tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: Akute Pankreatitis
 ---
 - **Ätiologie**:: [[Alkohol]], Sekretrückstau durch [[Cholelithiasis]]

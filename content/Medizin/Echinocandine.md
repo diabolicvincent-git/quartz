@@ -1,5 +1,5 @@
 ---
-tags: [f/🦠/Antiinfektiva/Antimykotika]
+tags: [Fach/Infektiologie/Antiinfektiva/Antimykotika]
 title: Echinocandine
 ---
 - **Wirkmechanismus**:: Hemmt β-1,3-Glucan-Synthese ([[Zellwand]])

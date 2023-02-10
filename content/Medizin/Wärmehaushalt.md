@@ -1,7 +1,7 @@
 ---
 aliases: Regulation des Wärmehaushalts, Thermoregulation, Thermogenese,
   Temperaturregulation
-tags: [m/m09, ToDo, f/🧴, f/⚙️]
+tags: [Modul/m09, ToDo, Fach/Dermatologie, Fach/Physiologie]
 title: Wärmehaushalt
 ---
 

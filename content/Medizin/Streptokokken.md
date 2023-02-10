@@ -1,6 +1,6 @@
 ---
 aliases: Streptococcus
-tags: [m/m18]
+tags: [Modul/m18]
 title: Streptokokken
 ---
 > [[gramnegativ]] > Kokken > [[Streptokokken]] (Katalase–)

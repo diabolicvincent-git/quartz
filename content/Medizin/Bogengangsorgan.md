@@ -1,6 +1,6 @@
 ---
 aliases: Bogengänge, Bogengang
-tags: [m/m16, f/💀, f/⚙️, f/👂]
+tags: [Modul/m16, Fach/Anatomie, Fach/Physiologie, Fach/HNO]
 title: Bogengangsorgan
 ---
 ### Bogengangsorgan

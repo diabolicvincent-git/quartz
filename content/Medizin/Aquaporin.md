@@ -1,6 +1,6 @@
 ---
 aliases: AQP
-tags: [m/m03, m/m14, f/🍺, f/🧪, f/⚙️, f/🧪/Molekül]
+tags: [Modul/m03, Modul/m14, Fach/Nephrologie, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Aquaporin
 ---
 ### Aquaporin / AQP

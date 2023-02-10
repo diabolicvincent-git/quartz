@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/⚙️, a/Intervention]
+tags: [Modul/m13, Fach/Physiologie, Art/Intervention]
 title: Spirometrie
 ---
 ### Spirometrie

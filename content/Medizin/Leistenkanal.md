@@ -1,6 +1,6 @@
 ---
 aliases: Canalis inguinalis
-tags: [m/m26, f/💀]
+tags: [Modul/m26, Fach/Anatomie]
 title: Leistenkanal
 ---
 ### Leistenkanal

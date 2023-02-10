@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m08, m/m11, m/m17, f/🩸, a/Intervention]
+tags: [Modul/m08, Modul/m11, Modul/m17, Fach/Hämatologie, Art/Intervention]
 title: Virchow-Trias
 ---
 ### Virchow-Trias 

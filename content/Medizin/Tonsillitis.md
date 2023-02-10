@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m24, f/🦠, a/Pathologie]
+tags: [Modul/m24, Fach/Infektiologie, Art/Pathologie]
 title: Tonsillitis
 ---
 ### Tonsillitis

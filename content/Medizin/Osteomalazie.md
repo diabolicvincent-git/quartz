@@ -1,6 +1,6 @@
 ---
 aliases: Rachitis
-tags: [m/m05, m/m10, a/Pathologie, f/🦴]
+tags: [Modul/m05, Modul/m10, Art/Pathologie, Fach/Orthopädie]
 title: Osteomalazie
 ---
 ### Osteomalazie / Rachitis

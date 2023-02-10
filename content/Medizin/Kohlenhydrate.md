@@ -59,4 +59,4 @@ Aldosen bzw. Ketosen mehrwertiger Alkohole (d.h. ein "hydratisierter Kohlenstoff
     - **Mannose (Glycogenbestandteil)**:: α-[[Glucose]]-(1,4)-[[Glucose]]
     - **Lactose ("Milchzucker")**:: β-Galactose-(1,4)-[[Glucose]]
 
-#m/m02
+#Modul/m02

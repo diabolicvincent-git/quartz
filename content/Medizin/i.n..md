@@ -1,6 +1,6 @@
 ---
 aliases: intranasal
-tags: [m/m00]
+tags: [Modul/m00]
 title: i.n.
 ---
 ### intranasal / i.n.

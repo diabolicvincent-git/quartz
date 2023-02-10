@@ -1,6 +1,6 @@
 ---
 aliases: PKU
-tags: [m/m02, m/m17, f/🧬, a/Pathologie]
+tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Pathologie]
 title: Phenylketonurie
 ---
 ### Phenylketonurie / PKU 

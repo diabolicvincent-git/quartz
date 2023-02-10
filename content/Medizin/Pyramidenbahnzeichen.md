@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m30, f/🧠, a/Pathologie]
+tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Pyramidenbahnzeichen
 ---
 ### Pyramidenbahnzeichen

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m09, f/🦠, f/🧴]
+tags: [Modul/m09, Fach/Infektiologie, Fach/Dermatologie]
 title: "Grampositive Kokken: Staphylokokken vs. Streptokokken"
 ---
 

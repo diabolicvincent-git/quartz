@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m14, f/🧪, f/⚙️, f/🍺, f/🧪/Molekül]
+tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Nephrologie, Fach/Biochemie/Molekül]
 title: Calcitriol
 ---
 ### Calcitriol

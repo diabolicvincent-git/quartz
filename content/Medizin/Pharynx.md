@@ -45,4 +45,4 @@ title: Leitungsbahnen
 
 > Gemeinsamer Plaxus pharyngeus (motorisch, sensibel, sekretorisch, [[Sympathikus]], [[Parasympathikus]]) ab Pars oralis pharyngis
 
-#m/m13
+#Modul/m13

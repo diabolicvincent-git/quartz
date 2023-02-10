@@ -1,6 +1,6 @@
 ---
 aliases: Hämorrhagische Diathese, Gerinnungsstörung
-tags: [m/m08, m/m17, f/🩸, a/Pathologie]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: Störungen der primären Hämostase
 ---
 ### Blutungsneigung / Gerinnungsstörung / Hämorrhagische Diathese

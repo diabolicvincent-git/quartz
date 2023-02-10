@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m21, m/m11, f/🫀, f/💤, a/Intervention, a/Intervention]
+tags: [Modul/m21, Modul/m11, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: San Francisco Syncope Rule
 ---
 ### San Francisco Syncope Rule / CHESS

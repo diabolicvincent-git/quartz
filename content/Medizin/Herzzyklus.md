@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m11, f/🫀]
+tags: [Modul/m11, Fach/Kardiologie]
 title: Herzzyklus
 ---
 ### Herzzyklus 

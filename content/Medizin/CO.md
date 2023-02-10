@@ -2,7 +2,7 @@
 aliases:
   - Kohlenmonoxid
   - Kohlenstoffmonoxid
-tags: [m/m03, m/m08, m/m13, f/🧪, f/🫁, f/🍄, f/🧪/Molekül, a/Pathologie]
+tags: [Modul/m03, Modul/m08, Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Toxikologie, Fach/Biochemie/Molekül, Art/Pathologie]
 title: CO
 ---
 ### Kohlenmonoxid / CO

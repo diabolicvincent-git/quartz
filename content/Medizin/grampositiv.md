@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m03, m/m18]
+tags: [Modul/m03, Modul/m18]
 title: grampositiv
 ---
 **[[Gram]]positiv**:: Blaufärbung = dicke Mureinschicht

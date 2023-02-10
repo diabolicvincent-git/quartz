@@ -1,6 +1,6 @@
 ---
 aliases: Supraventrikuläre Tachykardie
-tags: [m/m25, f/🫀, a/Pathologie]
+tags: [Modul/m25, Fach/Kardiologie, Art/Pathologie]
 title: SVT
 ---
 ### Supraventrikuläre Tachykardie / SVT

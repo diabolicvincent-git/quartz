@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [m/m13, f/🧠, f/💀, f/⚙️]
+tags: [Modul/m13, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Atemzentrum
 ---
 - **Lage**:: v.a. in der *[[Medulla oblongata]]*, insb. im *Prä-Bötzinger-Komplex* und *Bötzinger-Komplex*

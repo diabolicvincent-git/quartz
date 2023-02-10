@@ -1,6 +1,6 @@
 ---
 aliases: Cushing-Triade
-tags: [m/m15, f/🧠, f/🫀, f/⚙️, a/Pathologie]
+tags: [Modul/m15, Fach/Neurologie, Fach/Kardiologie, Fach/Physiologie, Art/Pathologie]
 title: Cushing-Reflex
 ---
 > (Abstract::[[ICP]]↑ → Cerebrale [[Perfusion]]↓ → [[Cerebrale Ischämie]] → [[Sympathikus]]↑ → ==[[Hypertonie]], [[Bradykardie]], [[Atemdepression]]==.)

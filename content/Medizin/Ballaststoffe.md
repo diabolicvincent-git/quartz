@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [m/m12, f/💩, f/⚙️]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Ballaststoffe
 ---
 > (Abstract::Nahrungsbestandteile, die im [[Dünndarm]] weder verdaut noch absorbiert werden (i.d.R. [[Kohlenhydrate]]))
