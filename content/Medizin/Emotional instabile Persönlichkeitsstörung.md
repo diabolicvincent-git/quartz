@@ -1,5 +1,5 @@
 ---
-tags: f/💭/Persönlichkeitsstörung/B, m/m31, Pathologie
+tags: f/💭/Persönlichkeitsstörung/B, m/m31, a/Pathologie
 ---
 > (Abstract::[[Borderline-Typ]], [[Impulsiver Typ]])
 - **Cluster**:: [[Cluster B]]

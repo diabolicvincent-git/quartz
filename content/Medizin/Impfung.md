@@ -1,5 +1,5 @@
 ---
-tags: m/m08, m/m18, f/🦠, f/🦄, Intervention
+tags: m/m08, m/m18, f/🦠, f/🦄, a/Intervention
 ---
 - **Formen der Impfung**
 	- [[Aktivimpfung]]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/🫀, f/🦄, Pathologie
+tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Tricuspidalatresie
 > Fehlende [[Tricuspidalklappe]]

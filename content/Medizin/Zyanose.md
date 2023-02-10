@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/🫀, Pathologie
+tags: m/m13, f/🫁, f/🫀, a/Pathologie
 ---
 ### Zyanose
 > [[SpO2]]↓ → Blaufärbung der Haut/Schleimhaut[^1]

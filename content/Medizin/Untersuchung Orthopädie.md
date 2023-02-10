@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, Intervention
+tags: m/m10, f/🦴, a/Intervention
 ---
 - **Hilfsmittel**
     - Goniometer (Winkelmesser)

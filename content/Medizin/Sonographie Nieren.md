@@ -1,5 +1,5 @@
 ---
-tags: f/🕶️, f/🍆, f/🍺, Intervention
+tags: f/🕶️, f/🍆, f/🍺, a/Intervention
 ---
 - **Indikation**:: Flankenschmerzen, [[Hämaturie]], V.a. [[Harnstau]], [[Nierensteine]], [[Tumor]]
 - **Schnitte::** [[Flankenschnitt rechts]], [[Flankenschnitt links]]

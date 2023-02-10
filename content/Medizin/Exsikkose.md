@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m14, f/🍺, f/🫀, Pathologie
+tags: m/m14, f/🍺, f/🫀, a/Pathologie
 ---
 ### Exsikkose
 > Symptomatische [[Dehydratation]]

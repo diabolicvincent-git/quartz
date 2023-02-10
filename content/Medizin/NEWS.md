@@ -1,6 +1,6 @@
 ---
 aliases: National Early Warning Score
-tags: m/m00, f/💤, Intervention
+tags: m/m00, f/💤, a/Intervention
 ---
 ### National Early Warning Score / NEWS2
 | Kriterium              | 3   | 2      | 1       | 0       | 1                | 2                | 3       |

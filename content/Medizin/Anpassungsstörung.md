@@ -1,5 +1,5 @@
 ---
-tags: m/m20, f/💭, f/💭, Pathologie
+tags: m/m20, f/💭, f/💭, a/Pathologie
 ---
 > (Abstract::Reaktion ≤6 Monate auf Lebenskrise/Veränderung (z.B. Trennung, Tod))
 

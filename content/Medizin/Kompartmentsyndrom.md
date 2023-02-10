@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m10, f/🦴, Pathologie
+tags: m/m10, f/🦴, a/Pathologie
 ---
 ### Kompartmentsyndrom
 > Gewebedruck > [[Kapillaren]]-Perfusionsdruck

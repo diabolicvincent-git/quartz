@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🫀, f/🔪, f/🧠, Pathologie
+tags: m/m30, f/🫀, f/🔪, f/🧠, a/Pathologie
 ---
 - **Ätiologie**:: [[Hypertonie]], Trauma, Marfan-Syndrom, Atherosklerose
 - **Formen**

@@ -1,5 +1,5 @@
 ---
-tags: f/🦩, f/🦄, Pathologie
+tags: f/🦩, f/🦄, a/Pathologie
 ---
 > (Abstract::**<37. [[SSW]].**)
 - **Risikofaktoren**

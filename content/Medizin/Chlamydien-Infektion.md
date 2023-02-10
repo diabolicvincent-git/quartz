@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/🦠, f/🦩, f/🍆
+tags: a/Pathologie, f/🦠, f/🦩, f/🍆
 ---
 > (Abstract::)
 - **Entitäten**

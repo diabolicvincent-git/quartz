@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [Pathologie, f/💭, m/m31]
+tags: [a/Pathologie, f/💭, m/m31]
 ICD: ""
 ---
 Empfinden der Umwelt als fremd/unvertraut/unwirklich, oft quälend empfunden

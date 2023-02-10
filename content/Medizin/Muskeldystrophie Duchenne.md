@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m03, f/🦴, f/🧬, Pathologie
+tags: m/m03, f/🦴, f/🧬, a/Pathologie
 ---
 > Häufigste muskuläre Erbkrankheit im Kindesalter (1:5000) - siehe [[Muskeldystrophie]]
 - **Symptome**:: ==Progressive Muskelschwäche==

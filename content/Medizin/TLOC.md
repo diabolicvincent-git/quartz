@@ -1,6 +1,6 @@
 ---
 aliases: Transient loss of consciousness
-tags: Pathologie
+tags: a/Pathologie
 ---
 ### Transient loss of consciousness / TLOC
 - **DD**

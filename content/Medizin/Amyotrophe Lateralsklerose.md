@@ -1,6 +1,6 @@
 ---
 aliases: ALS
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 (Abstract::[[Neurodegenerative Erkrankungen]] des ==1. und 2. Motoneurons== (TDP-43 Aggregation))
 - **Symptome**:: Schlaff atrophisch (2. Motoneuron führend) und/oder spastische [[Parese]] (1. Motoneuron führend) – bishin zu Schluckstörungen, Lähmung der [[Atemmuskulatur]]

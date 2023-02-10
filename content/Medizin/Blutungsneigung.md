@@ -1,6 +1,6 @@
 ---
 aliases: Hämorrhagische Diathese, Gerinnungsstörung
-tags: m/m08, m/m17, f/🩸, Pathologie
+tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Blutungsneigung / Gerinnungsstörung / Hämorrhagische Diathese
 - **Ätiologie**

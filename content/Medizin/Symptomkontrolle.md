@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💤, Intervention
+tags: m/m20, f/💤, a/Intervention
 ---
 ### Symptomkontrolle
 - **[[Schmerz]]**:: Retardierte [[Opioide]] + schnellwirksames b.B.

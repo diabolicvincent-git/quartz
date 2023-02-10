@@ -1,6 +1,6 @@
 ---
 aliases: Grauer Star
-tags: m/m16, Pathologie, f/👁️
+tags: m/m16, a/Pathologie, f/👁️
 ---
 > (Abstract::**Trübung der [[Augenlinse]].** Auch: Grauer Star.)
 - **Epidemiologie**:: >75 Jahre 40% [[Prävalenz]]

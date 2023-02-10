@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: Intervention, Wichtig
+tags: a/Intervention, Wichtig
 ---
 - **Allgemeines**
 	- Vorstellung

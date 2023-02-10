@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m11, Intervention, Intervention, f/🫀
+tags: m/m11, a/Intervention, a/Intervention, f/🫀
 ---
 > (Abstract::Thromboembolie-[[Risiko]] bei [[VHF]])
 - **Faktoren**

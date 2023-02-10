@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: Pathologie
+tags: a/Pathologie
 ---
 Funktionsverlust infolge mehrerer Erkrankungen → hohe Vulnerabilität

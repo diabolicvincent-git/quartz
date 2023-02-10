@@ -1,6 +1,6 @@
 ---
 aliases: ASD
-tags: m/m25, f/🫀, f/🦄, Pathologie
+tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 - **Pathophysiologie** 
 	- [[Links-rechts-Shunt]]: Volumenbelastung rechter Vorhof + rechter Ventrikel → Dilatation, Hypertrophie → relative Pulmonalklappenstonse

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, m/m21, f/💤, f/🍄, f/💊/Medikament/Übergruppe, Intervention
+tags: m/m13, m/m21, f/💤, f/🍄, f/💊/Medikament/Übergruppe, a/Intervention
 ---
 ```dataview
 TABLE Entitäten AS Substanzen, Antidot

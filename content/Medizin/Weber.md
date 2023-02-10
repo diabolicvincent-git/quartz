@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m16, f/👂, Intervention
+tags: m/m16, f/👂, a/Intervention
 ---
 ### Weber
 > Test der Knochenleitung zur Differenzierung einer einseitigen [[Hörstörung]] zwischen Schalleitung & Schallempfindung

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, Pathologie
+tags: m/m13, f/🫁, a/Pathologie
 ---
 > (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Bronchitis]] + [[Lungenemphysem]].)
 - **Epidemiologie**:: 13%, [[♂]] > [[♀]], ca. 70% undiagnostiziert

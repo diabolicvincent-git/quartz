@@ -1,6 +1,6 @@
 ---
 aliases: Schlaf-Apnoe-Syndrom, OSAS
-tags: m/m13, f/🫁, Pathologie
+tags: m/m13, f/🫁, a/Pathologie
 ---
 
 ### Schlafapnoe 

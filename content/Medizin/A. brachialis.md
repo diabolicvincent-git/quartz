@@ -1,4 +1,5 @@
 ---
+title: "A. brachialis"
 tags: f/💀/Leitungsbahn/Arterie, f/💀
 ---
 - **Ursprung**:: [[A. axillaris]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/💉, Pathologie
+tags: m/m17, f/💉, a/Pathologie
 ---
 ### Takayasu-Arteriitis
 > Seltene [[Riesenzellarteriitis]] der [[Aorta]] und Abgänge (häufig linke [[A. subclavia]])

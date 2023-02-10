@@ -1,6 +1,6 @@
 ---
 aliases: Herzfrequenz
-tags: m/m00, Intervention, f/🫀
+tags: m/m00, a/Intervention, f/🫀
 ---
 ### Herzfrequenz / HF
 - **Normwert**:: 60-80/min

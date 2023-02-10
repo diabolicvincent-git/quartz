@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, Intervention
+tags: m/m26, a/Intervention
 ---
 ### Paquet-Klassifikation
 > Klassifikation von **[[Ösophagusvarizen]]**

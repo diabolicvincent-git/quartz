@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, m/m21, f/💩, Pathologie
+tags: m/m12, m/m21, f/💩, a/Pathologie
 ---
 ### Leberversagen
 - **Ätiologie**

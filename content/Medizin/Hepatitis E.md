@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, f/🦠, Pathologie
+tags: m/m12, f/💩, f/🦠, a/Pathologie
 ---
 ### Hepatitis E
 - Genotyp 1 wie [[Hepatitis A]]

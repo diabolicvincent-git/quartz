@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, Pathologie
+tags: m/m11, f/🫀, a/Pathologie
 ---
 ### Bradykardie
 > [[HF]] <60 / min ([[HRST]])

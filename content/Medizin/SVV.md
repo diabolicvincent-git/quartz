@@ -1,6 +1,6 @@
 ---
 aliases: Selbstverletzendes Verhalten
-tags: [f/💭, Pathologie, m/m31]
+tags: [f/💭, a/Pathologie, m/m31]
 ---
 - **Epidemiologie**:: Beginn frühe Adoleszenz, Prävalenz 17%, [[♀]]>[[♂]]
 - **Ätiologie**:: Funktion als Spannungsabbau ([[Borderline-Typ]]), Selbstbestrafung, Anti-Dissoziation, Vermeiden von [[Suizidalität]], Hilfsappell (soziale Manipulation), Erzeugen positiver Gefühle, soziale Individualisierung, Modellernen

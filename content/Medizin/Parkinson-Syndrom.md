@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 Klinik aus [[Akinese]], [[Rigor]], [[Ruhetremor]], [[Posturale Instabilität]] durch [[DOPamin]]-Mangel
 - **Epidemiologie**:: 40-60 Jahre, Prävalenz 0.2%

@@ -1,5 +1,5 @@
 ---
-tags: m/m17, f/💉, Pathologie
+tags: m/m17, f/💉, a/Pathologie
 ---
 > (Abstract::**[[Autoimmunität]] gegen [[Tränenapparat]] & [[Speicheldrüsen]].** [[♀]]. Leitsymptom [[Sicca-Syndrom]].)
 - **Epidemiologie**:: v.a. [[♀]] in [[Menopause]]

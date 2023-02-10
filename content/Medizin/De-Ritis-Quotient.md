@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, Intervention
+tags: m/m12, f/💩, a/Intervention
 ---
 > (Abstract::[[AST]] > [[ALT]] = Schwere Leberzellschädigung.)
 - **[[De-Ritis-Quotient]] <0,7 ("Entzündungstyp")**:: Unkomplizierte [[Viren]]-[[Hepatitis]], leichte Fettleber, extrahepatische Cholestase

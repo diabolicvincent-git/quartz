@@ -1,6 +1,6 @@
 ---
 aliases: Hämosiderose
-tags: m/m17, Pathologie
+tags: m/m17, a/Pathologie
 ---
 ### Hämochromatose / Hämosiderose 
 > Häufige ==[[Eisen]]-[[Stoffwechseldefekte]]==

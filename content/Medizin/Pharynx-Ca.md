@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/🦀, f/👂
+tags: a/Pathologie, f/🦀, f/👂
 ---
 > (Abstract::**Maligner [[Tumor]] des [[Pharynx]].**)
 - **Epidemiologie**:: [[♂]]>[[♀]] 5:1, 45-75 J.

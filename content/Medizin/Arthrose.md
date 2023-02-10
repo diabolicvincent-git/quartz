@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, Pathologie, ToDo, f/🦴
+tags: m/m27, a/Pathologie, ToDo, f/🦴
 ---
 ### Arthrose
 - **Diagnostik**

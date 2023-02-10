@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🗞️, f/🦩, f/🍆, Pathologie
+tags: m/m22, f/🗞️, f/🦩, f/🍆, a/Pathologie
 ---
 ### Hypogonadismus
 - **Einteilung**

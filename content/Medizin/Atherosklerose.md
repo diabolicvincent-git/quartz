@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m02, m/m08, m/m11, f/🧪, f/🫀, Pathologie
+tags: m/m02, m/m08, m/m11, f/🧪, f/🫀, a/Pathologie
 ---
 - **Pathophysiologie**
 	1. Hohe LDL-[[Cholesterol]]-Konz.

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🗞️, Pathologie
+tags: m/m22, f/🗞️, a/Pathologie
 ---
 (Abstract::**Akute [[NNR-Insuffizienz]]** → Hydrocortison hochdosiert [[i.v.]])
 - **Ätiologie**

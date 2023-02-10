@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, Intervention
+tags: m/m11, f/🫀, a/Intervention
 ---
 > (Abstract::**V3-V6 spiegelbildlich rechtsthorakal.** Bei V.a. [[Myokardinfarkt]] in [[Rechter Ventrikel]] )
 - **Elektroden**

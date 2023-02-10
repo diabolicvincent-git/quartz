@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, Pathologie, f/🦴, f/🦄
+tags: m/m27, a/Pathologie, f/🦴, f/🦄
 ---
 ### Klumpfuß
 - **Epidemiologie**:: Häufige angeborene Fehlbildung, zu 50% bilateral

@@ -1,6 +1,6 @@
 ---
 aliases: Wolff-Parkinson-White-Syndrom
-tags: f/🫀, Pathologie
+tags: f/🫀, a/Pathologie
 ---
 ### Wolff-Parkinson-White / WPW-Syndrom
 > Akzessorische, schnelle Leitungsbahn ("Kent-Bündel") → [[AVRT]]

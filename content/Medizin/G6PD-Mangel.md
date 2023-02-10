@@ -1,6 +1,6 @@
 ---
 aliases: Glucose-6-phosphat-Dehydrogenase-Mangel, Favismus
-tags: m/m08, m/m17, f/🩸, Pathologie
+tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Glucose-6-phosphat-Dehydrogenase Mangel / G6PD-Mangel / Favismus 
 - **Epidemiologie**:: Weltweit ~400 Mio. (Selektionsvorteil: [[Malaria]]-Resistenz)

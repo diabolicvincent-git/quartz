@@ -1,6 +1,6 @@
 ---
 aliases: Nicht-kleinzelliges Lungen-Ca, Nicht-kleinzelliges Lungenkarzinom
-tags: m/m19, f/🦀, f/🫁, Pathologie
+tags: m/m19, f/🦀, f/🫁, a/Pathologie
 ---
 ### Nicht-kleinzelliges [[Lungen-Ca]] / NSCLC
 > ==Langsamer wachsend als [[SCLC]]==

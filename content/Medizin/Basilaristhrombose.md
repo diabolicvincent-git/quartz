@@ -1,5 +1,5 @@
 ---
-tags: m/m15, f/🧠, Pathologie, m/m30
+tags: m/m15, f/🧠, a/Pathologie, m/m30
 ---
 > (Abstract::Unbehandelt Letalität 80%)
 - **Lokalisation**:: [[A. basilaris]]

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, Pathologie, f/🧬
+tags: m/m13, f/🫁, a/Pathologie, f/🧬
 ---
 ### α1-Antitrypsin-Mangel
 - Gendefekt (ausgeprägter Polymorphismus; autosomal rezessiv)

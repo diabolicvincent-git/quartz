@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, m/m21, f/💤, Intervention
+tags: m/m26, m/m21, f/💤, a/Intervention
 ---
 > American Society of Anesthesiologists Physical Status Classification System
 - **ASA-I**:: Gesund, keine Erkrankung, [[BMI]] normal

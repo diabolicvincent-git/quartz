@@ -1,6 +1,6 @@
 ---
 aliases: Humanes Immundefizienzvirus
-tags: m/m18, Pathologie, f/🦠, Pathologie, f/🦠/Erreger/Viren
+tags: m/m18, a/Pathologie, f/🦠, a/Pathologie, f/🦠/Erreger/Viren
 ---
 ### Humanes Immundefizienzvirus / HIV
 - **Übertragung**:: ==Sexuell==, parenteral, vertikal

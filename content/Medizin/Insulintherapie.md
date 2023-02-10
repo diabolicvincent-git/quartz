@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/🗞️, Intervention
+tags: m/m17, f/🗞️, a/Intervention
 ---
 ### Insulintherapie
 > Bei [[DMT1]] oder Pankreatektomie *immer*, bei [[DMT2]] als letzte Eskalationsstufe

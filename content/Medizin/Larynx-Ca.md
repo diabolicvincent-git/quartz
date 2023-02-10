@@ -1,5 +1,5 @@
 ---
-tags: Pathologie
+tags: a/Pathologie
 ---
 > (Abstract::**Maligner Tumor des [[Larynx]].** Risikofaktoren: [[Rauchen]], [[Alkohol]]. Frühsymptome nur bei Stimmlippenbeteiligung.)
 - **Epidemiologie**:: [[♂]]>>[[♀]]

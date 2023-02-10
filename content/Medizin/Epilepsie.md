@@ -1,5 +1,5 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Epilepsie

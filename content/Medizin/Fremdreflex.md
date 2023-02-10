@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m10, m/m15, f/🦴, f/🧠, f/⚙️, Intervention
+tags: m/m10, m/m15, f/🦴, f/🧠, f/⚙️, a/Intervention
 ---
 ### Fremdreflex
 > **[[Reflex]]** mit Sensor und Effektor in verschiedenen Organen und Verschaltung in mehreren Rückenmarkssegmenten

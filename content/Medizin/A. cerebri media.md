@@ -1,6 +1,7 @@
 ---
 aliases: null
 tags: m/m15, f/💀, f/🧠, f/💀/Leitungsbahn/Arterie
+title: A. cerebri media
 ---
 - **Ursprung**:: Endast [[A. carotis interna]]
 - **Infarkt**:: Arm-, gesichtsbetonte Lähmung kontralateral; häufig Hemineglect

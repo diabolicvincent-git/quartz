@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🦩, Intervention
+tags: m/m22, f/🦩, a/Intervention
 ---
 ### Gynäkologische Untersuchung
 - **Inspektion**

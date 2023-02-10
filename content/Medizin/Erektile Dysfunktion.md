@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m22, f/🍆, Pathologie
+tags: m/m22, f/🍆, a/Pathologie
 ---
 ### Erektile Dysfunktion
 > [[Erektion]] gestört >6 Monate → verhindert zu 70% Geschlechtsverkehr

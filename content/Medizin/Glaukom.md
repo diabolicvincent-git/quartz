@@ -1,6 +1,6 @@
 ---
 aliases: Grüner Star
-tags: m/m16, f/👁️, Pathologie
+tags: m/m16, f/👁️, a/Pathologie
 ---
 ### Glaukom / Grüner Star
 > Akuter (*Winkelblockglaukom*) oder chronischer (*Offenwinkelglaukom*) [[Augeninnendruck]]↑↑ 

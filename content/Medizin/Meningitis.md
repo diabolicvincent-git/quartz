@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m18, Pathologie, f/🧠, f/🦠, Pathologie
+tags: m/m18, a/Pathologie, f/🧠, f/🦠, a/Pathologie
 ---
 ### Meningitis
 > Entzündung der [[Meningen]] durch ==[[Bakterien]]==, [[Viren]], [[Protozoen]] oder [[Pilze]]

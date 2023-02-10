@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/🫀, Intervention
+tags: m/m12, f/🫀, a/Intervention
 ---
 ### Lagetyp
 > Elektrische Herzachse in der **[[EKG]]-Frontalebene** (I, II, III, aVR, aVL, AVF)

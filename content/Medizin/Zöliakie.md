@@ -1,6 +1,6 @@
 ---
 aliases: Glutensensitive Enteropathie, Heubner-Herter-Krankheit, Nichttropische Sprue
-tags: m/m26, f/💩, Pathologie
+tags: m/m26, f/💩, a/Pathologie
 ---
 ### Zöliakie / Glutensensitive Enteropathie
 > [[Autoimmunität]]/[[Entzündung]] im Darm durch Unverträglichkeit gegen Gliadin-Fraktion des Gluten

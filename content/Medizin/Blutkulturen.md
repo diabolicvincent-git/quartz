@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m18, f/🦠, f/🥼, Intervention
+tags: m/m18, f/🦠, f/🥼, a/Intervention
 ---
 ### Blutkulturen / BK
 > Nachweis von *lebenden [[Bakterien]]*

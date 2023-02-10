@@ -1,6 +1,6 @@
 ---
 aliases: Crush-Syndrom
-tags: m/m10, m/m14, f/🦴, f/🍺, Pathologie
+tags: m/m10, m/m14, f/🦴, f/🍺, a/Pathologie
 ---
 ### Rhabdomyolyse / Crush-Syndrom
 > Zerfall quergestreifter Muskulatur → *Crush-Syndrom* ([[Schock]], ==[[Nierenversagen]]==)

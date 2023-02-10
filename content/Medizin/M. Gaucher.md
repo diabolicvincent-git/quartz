@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/🧠, Pathologie
+tags: f/🧠, a/Pathologie
 ---
 ### M. Gaucher
 > Häufigste lysosomale Speichererkankung

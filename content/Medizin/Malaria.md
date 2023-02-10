@@ -1,6 +1,6 @@
 ---
 aliases: Sumpffieber, Wechselfieber
-tags: m/m18, Pathologie, Pathologie, f/🦠
+tags: m/m18, a/Pathologie, a/Pathologie, f/🦠
 ---
 ### Malaria
 - **Epidemiologie**:: Endemie in (Sub-)Tropen, insb. Afrika

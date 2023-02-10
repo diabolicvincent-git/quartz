@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m25, f/💤, Pathologie
+tags: m/m25, f/💤, a/Pathologie
 ---
 - **Komplikationen**
 	- [[Anämie]]

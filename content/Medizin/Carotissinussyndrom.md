@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, f/🧠, f/⚙️, Pathologie
+tags: m/m11, f/🫀, f/🧠, f/⚙️, a/Pathologie
 ---
 ### Carotissinussyndrom
 - **Ätiologie**:: Mechanische Reizung des Carotissinus (z.B. Kopfdrehen, Druck)

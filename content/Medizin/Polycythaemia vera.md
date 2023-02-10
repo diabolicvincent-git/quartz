@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🩸, Pathologie
+tags: m/m19, f/🩸, a/Pathologie
 ---
 ### Polycythaemia vera / PV
 > [[Erythropoese]]↑ → [[Hkt]]↑, [[Hb]]↑ → Viskosität des Bluts↑ → [[Thrombose]]n

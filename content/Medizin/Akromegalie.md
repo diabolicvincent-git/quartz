@@ -1,6 +1,6 @@
 ---
 aliases: Gigantismus
-tags: m/m22, f/🗞️, Pathologie
+tags: m/m22, f/🗞️, a/Pathologie
 ---
 > (Abstract::**[[Hypophysenadenom]] → [[GH]]↑ → Akromegalie.** Auch: Gigantismus. OP.)
 - **Pathophysiologie**:: ==[[Hypophysenadenom]]== → [[GH]]↑ ([[Hypothalamus-Hypophysen-Achse]])

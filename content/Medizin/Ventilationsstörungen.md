@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m13, f/🫁, Pathologie
+tags: m/m13, f/🫁, a/Pathologie
 ---
 ### Ventilationsstörungen
 - [[Obstruktive Ventilationsstörung]]

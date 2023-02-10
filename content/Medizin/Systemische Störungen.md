@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/💉, Pathologie
+tags: m/m17, f/💉, a/Pathologie
 ---
 ## Autoinflammation vs. Autoimmunität
 Eigenschaft|[[Autoinflammation]]|Autoimmunität

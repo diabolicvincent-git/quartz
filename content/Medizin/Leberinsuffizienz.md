@@ -1,6 +1,6 @@
 ---
 aliases: Leberfunktionsstörung
-tags: m/m12, f/💩, Pathologie
+tags: m/m12, f/💩, a/Pathologie
 ---
 - **Synthese↓**
 	- Gerinnungsfaktoren↓ (2, 7, 9, 10)  → [[Blutungsneigung]]

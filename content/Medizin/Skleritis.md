@@ -1,6 +1,6 @@
 ---
 aliases: Episkleritis
-tags: m/m17, m/m16, f/💉, Pathologie
+tags: m/m17, m/m16, f/💉, a/Pathologie
 ---
 ### (Epi-)Skleritis
 > 50% chronischer Verlauf; oft Zusammenhang mit Grunderkrankung ([[SLE]], [[Rheumatoide Arthritis]], [[Granulomatose mit Polyangiitis]], [[Gicht]])

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Wernicke-Encephalopathie
 - **Ätiologie**:: ==[[Vitamin B1]]-Mangel== (Mangelernährung, [[Alkohol]] u.a. Suchterkrankungen, [[Malabsorption]])

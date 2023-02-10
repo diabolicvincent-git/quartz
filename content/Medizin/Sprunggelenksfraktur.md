@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m27, Pathologie, f/🦴
+tags: m/m27, a/Pathologie, f/🦴
 ---
 ### Sprunggelenksfraktur
 - **Klassifikation**

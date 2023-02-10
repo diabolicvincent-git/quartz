@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/💤, f/🦠, f/🥼, Intervention
+tags: m/m21, f/💤, f/🦠, f/🥼, a/Intervention
 ---
 ### Sepsismarker
 - [[IL-6]]

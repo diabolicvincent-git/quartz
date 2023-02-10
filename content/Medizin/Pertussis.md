@@ -1,7 +1,7 @@
 ---
 aliases:
   - Keuchhusten
-tags: m/m03, f/🫁, f/🦠, Pathologie
+tags: m/m03, f/🫁, f/🦠, a/Pathologie
 ---
 ### Pertussis / Keuchhusten 
 - **Risikogruppen**:: Ungeimpfte, Säuglinge (kein Nestschutz, Apnoe-[[Risiko]]), Immundefiziente

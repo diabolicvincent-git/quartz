@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m21, m/m08, f/🩸, Intervention
+tags: m/m21, m/m08, f/🩸, a/Intervention
 ---
 ### Coombs-Test
 > Nachweis von [[IgG]]-/[[IgM]]-[[Antikörper]]n / Komplementfaktoren gegen [[Erythrocyten]]

@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/🧠, f/🦄
+tags: a/Pathologie, f/🧠, f/🦄
 ---
 > (Abstract::**Ischämie in weißer Substanz (Fasern des [[Motorcortex]]).** Komplikation von perinataler Asphyxie.)
 - **Ätiologie**:: Perinatale Asphyxie

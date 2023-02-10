@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, Intervention
+tags: m/m19, f/🦀, a/Intervention
 ---
 (Abstract::**[[Staging]]** von [[Lymphom]]en, insb. [[Hodgkin-Lymphom]])
 - **I°**:: Lokal, eine [[Lymphknoten]]-Region

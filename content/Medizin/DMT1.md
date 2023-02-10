@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m17, f/🗞️, Pathologie
+tags: m/m17, f/🗞️, a/Pathologie
 ---
 ### Diabetes mellitus Typ 1
 > Genetische Prädisposition/Suszeptibilität + Trigger → Autoimmun-Insulinitis

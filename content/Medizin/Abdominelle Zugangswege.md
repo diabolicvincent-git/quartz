@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/🔪, Intervention
+tags: m/m26, f/🔪, a/Intervention
 ---
 > Möglichst [[Hautspaltlinien]] folgen → bessere Wundheilung
 

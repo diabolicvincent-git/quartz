@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, Intervention
+tags: m/m30, f/🧠, a/Intervention
 ---
 ### Primitivreflexe
 - **Physiologie**

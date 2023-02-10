@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: f/💤, f/⛑️, Intervention
+tags: f/💤, f/⛑️, a/Intervention
 ---
 ### Larynxtubus
 ## SOP

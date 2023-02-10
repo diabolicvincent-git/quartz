@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, Pathologie
+tags: m/m30, f/🧠, a/Pathologie
 ---
 ### Migräne
 - **Epidemiologie**:: [[♀]] > [[♂]], Erstmanifestation 15-25 Jahre

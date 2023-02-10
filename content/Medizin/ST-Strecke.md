@@ -1,6 +1,6 @@
 ---
 aliases: ST-Strecken
-tags: m/m11, f/🫀, Intervention
+tags: m/m11, f/🫀, a/Intervention
 ---
 ### ST-Strecke
 > **EKG**:: Vollständige Erregung der Ventrikel

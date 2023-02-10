@@ -1,6 +1,6 @@
 ---
 aliases: Antineoplastische Therapie
-tags: m/m19, f/🦀, Intervention
+tags: m/m19, f/🦀, a/Intervention
 ---
 ### Antineoplastische Therapie / Tumortherapie
 - **Zielsetzung**

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💤, Intervention
+tags: m/m20, f/💤, a/Intervention
 ---
 ### WHO-Stufenschema
 - ==**Stufe I**:: *[[Nicht-Opioid-Analgetika]]*== ([[NSAR]], [[Metamizol]], [[Paracetamol]])

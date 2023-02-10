@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, m/m14, f/🫀, Pathologie
+tags: m/m11, m/m14, f/🫀, a/Pathologie
 ---
 ### Hypertensiver Notfall
 > Akute, kritische [[Hypertonie]] + ==Endorganschäden==

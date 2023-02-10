@@ -1,6 +1,6 @@
 ---
 aliases: Meläna, Melaena
-tags: m/m26, Pathologie
+tags: m/m26, a/Pathologie
 ---
 ### Teerstuhl / Meläna
 > **Schwarzfärbung des Stuhls**, vgl. [[Hämatochezie]] (frischblutig)

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m16, f/👁️, Pathologie
+tags: m/m16, f/👁️, a/Pathologie
 ---
 ### Nystagmus
 > Unkontrollierbare, rhythmische Augenbewegung

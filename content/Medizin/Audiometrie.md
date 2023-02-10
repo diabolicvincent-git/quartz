@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m16, f/👂, Intervention
+tags: m/m16, f/👂, a/Intervention
 ---
 - **Subjektive Verfahren**
 	 - [[Rinne]] (Schalleitung) und [[Weber]] (Schalleitung vs. Schallempfindung)

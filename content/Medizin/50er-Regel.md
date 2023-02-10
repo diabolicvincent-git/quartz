@@ -1,5 +1,6 @@
 ---
-tags: Intervention
+tags: a/Intervention
+title: "50er-Regel"
 ---
 > (Abstract::**[[Hämostase]]-Grenzwerte als relative KI für Gefäßpunktionen.**)
 - [[aPTT]] >50s

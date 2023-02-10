@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, Pathologie, f/🦀, f/🩸
+tags: m/m19, a/Pathologie, f/🦀, f/🩸
 ---
 ### Malignes Lymphom
 > Monoklonale Proliferation ==reifer== lymphatischer Zellen (==B-==, T-, [[NK-Zellen]])

@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, Intervention
+tags: m/m11, f/🫀, a/Intervention
 ---
 > (Abstract::**Darstellung der Extremitätenableitungen.** Beurteilung des [[Lagetyp]] im [[EKG]].)
 

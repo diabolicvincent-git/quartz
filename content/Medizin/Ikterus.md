@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, Pathologie
+tags: m/m12, f/💩, a/Pathologie
 ---
 ### Ikterus
 > [[Bilirubin]]ablagerung → Gelbfärbung von [[Sklera]] (>2-3) + [[Haut]] (>8-10 mg/dl)

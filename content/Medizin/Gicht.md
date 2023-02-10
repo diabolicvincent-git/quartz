@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/💉
+tags: a/Pathologie, f/💉
 ---
 > (Abstract::**[[Hyperurikämie]] → Uratkristalle in Gelenken → Gichtanfälle.** Therapie: [[NSAR]], [[Allopurinol]].)
 - **Epidemiologie**:: 1-2%, [[♂]]>>[[♀]]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m10, Pathologie
+tags: m/m10, a/Pathologie
 ---
 ### Schenkelhalsfraktur
 - **Epidemiologie**

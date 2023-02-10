@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m11, f/🫀, Intervention
+tags: m/m11, f/🫀, a/Intervention
 ---
 ### QRS-Komplex
 > **[[EKG]]**:: Erregungsausbreitung im Ventrikel

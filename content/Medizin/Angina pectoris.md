@@ -1,6 +1,6 @@
 ---
 aliases: AP
-tags: m/m11, f/🫀, Pathologie
+tags: m/m11, f/🫀, a/Pathologie
 ---
 (Abstract::Anfallsartige, reversible Schmerzen infolge Myokardischämie bei [[KHK]])
 - **Pathophysiologie**:: [[O2]]-Angebot↓ aufgrund verschiedener Genese

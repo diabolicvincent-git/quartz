@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m00, f/🧠, Pathologie
+tags: m/m00, f/🧠, a/Pathologie
 ---
 ### Creutzfeldt-Jakob-Krankheit
 - **Epidemiologie**:: ca. 60 Jahre

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [Pathologie, m/m31, f/💭]
+tags: [a/Pathologie, m/m31, f/💭]
 ---
 
 - **Epidemiologie**:: Lebenszeitprävalenz 1%, Altersgipfel 20-30 J.

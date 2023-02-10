@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, f/🫀, Intervention
+tags: m/m11, f/🫀, a/Intervention
 ---
 ### PQ-Zeit
 > Atrioventrikuläre Überleitung

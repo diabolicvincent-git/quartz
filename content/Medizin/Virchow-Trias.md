@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m08, m/m11, m/m17, f/🩸, Intervention
+tags: m/m08, m/m11, m/m17, f/🩸, a/Intervention
 ---
 ### Virchow-Trias 
 1. **Endothel-Schädigung**:: entzündlich / traumatisch

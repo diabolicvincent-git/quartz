@@ -1,6 +1,6 @@
 ---
 aliases: Intrakranielle Neoplasie, Tumor cerebri
-tags: m/m30, f/🧠, f/🦀, Pathologie
+tags: m/m30, f/🧠, f/🦀, a/Pathologie
 ---
 - **Entitäten**
 	- *Primär/Hirneigen*:: [[Gliome]]

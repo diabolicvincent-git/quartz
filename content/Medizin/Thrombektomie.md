@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, f/🕶️, Intervention
+tags: m/m30, f/🧠, f/🕶️, a/Intervention
 ---
 - **Indikation**:: [[Stroke]] mit großem Gefäßverschluss (==[[A. carotis interna]] & [[A. cerebri media]] bis 6h, [[A. basilaris]] jederzeit==)
 - **Durchführung**

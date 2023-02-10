@@ -1,6 +1,6 @@
 ---
 aliases: Head-Zone
-tags: m/m20, f/💤, Intervention
+tags: m/m20, f/💤, a/Intervention
 ---
 ### Head'sche Zonen
 > [[Schmerz]]übertragung von Organ auf bestimmte [[Dermatome]]

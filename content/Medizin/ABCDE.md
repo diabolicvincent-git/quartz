@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/⛑️, Intervention, Intervention
+tags: m/m21, f/⛑️, a/Intervention, a/Intervention
 ---
 > (Abstract::[[Airway]], [[Breathing]], [[Circulation]], [[Disability]], [[Exposure]])
 

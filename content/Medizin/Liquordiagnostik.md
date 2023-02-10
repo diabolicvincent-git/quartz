@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m30, f/🧠, f/🥼, Intervention
+tags: m/m30, f/🧠, f/🥼, a/Intervention
 ---
 ### Liquordiagnostik
 > Gewinnung via [[Liquorpunktion]]

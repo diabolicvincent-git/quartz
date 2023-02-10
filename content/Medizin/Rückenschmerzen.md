@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, Pathologie
+tags: m/m20, a/Pathologie
 ---
 ### Rückenschmerzen
 - **Epidemiologie**:: Lebenszeitprävalenz 80%

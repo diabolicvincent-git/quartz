@@ -1,6 +1,6 @@
 ---
 aliases: M. Gilbert, Icterus intermittens juvenilis
-tags: m/m12, f/💩, Pathologie
+tags: m/m12, f/💩, a/Pathologie
 ---
 ### M. Meulengracht / M. Gilbert
 - **Epidemiologie**:: Häufigstes hereditäres [[Hyperbilirubinämie]]-Syndrom (5%)

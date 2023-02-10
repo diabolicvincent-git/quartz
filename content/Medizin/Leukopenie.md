@@ -1,4 +1,4 @@
 ---
 aliases: Leukocytopenie
-tags: m/m19, Intervention, f/🩸
+tags: m/m19, a/Intervention, f/🩸
 ---

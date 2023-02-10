@@ -1,6 +1,6 @@
 ---
 aliases: Präexzitationssyndrom, Atrioventrikuläre Reentrytachykardie
-tags: f/🫀, Pathologie
+tags: f/🫀, a/Pathologie
 ---
 ### Atrioventrikuläre Reentrytachykardie / AVRT
 > Paroxysmale [[SVT]]

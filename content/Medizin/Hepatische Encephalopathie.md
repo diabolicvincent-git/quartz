@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, f/🧠, Pathologie
+tags: m/m12, f/💩, f/🧠, a/Pathologie
 ---
 ### Hepatische Encephalopathie
 > [[Leber]]-Entgiftungsfunktion↓ → Akkumulation neurotoxischer Metabolite → [[Gehirn]]-Funktionsstörung

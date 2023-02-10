@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m10, Intervention
+tags: m/m10, a/Intervention
 ---
 > Erweiterung der reinen [[Lungenfunktionsprüfung]] durch Messung ergometrischer Parameter ([[EKG]], [[HF]], [[RR]], [[BGA]])
 - **Parameter**

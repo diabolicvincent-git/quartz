@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m11, m/m17, m/m21, ToDo, f/💤, Pathologie, f/⛑️
+tags: m/m11, m/m17, m/m21, ToDo, f/💤, a/Pathologie, f/⛑️
 ---
 ### Schock
 > Generalisierte Hypoxie ([[HZV]] < [[O2]]-Bedarf)

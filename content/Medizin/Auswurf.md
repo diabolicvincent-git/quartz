@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/🦠, Pathologie
+tags: m/m13, f/🫁, f/🦠, a/Pathologie
 ---
 ### Auswurf
 - **Weiß-glasig**:: Virale Infektion (z.B. [[Bronchitis]], typisch Abhusten am Morgen)

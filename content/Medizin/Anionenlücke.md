@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, m/m14, f/🍺, Intervention, f/🥼
+tags: m/m13, m/m14, f/🍺, a/Intervention, f/🥼
 ---
 (Abstract::Unterscheiden, ob *Zufuhr an Säuren* oder *Mangel an Basen* ursächlich für die [[Metabolische Azidose]] ist)
 - **Physiologisch**:: ∑ Kationen & ∑ Anionen im [[Blut]] gleich

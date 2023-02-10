@@ -1,6 +1,6 @@
 ---
 alias: Transitorische ischämische Attacke
-tags: Pathologie, f/🧠
+tags: a/Pathologie, f/🧠
 ---
 > (Abstract::**Transitorische ischämische Attacke.** Fokale Ischämie → passageres [[Neurologisches Defizit]] *ohne* Infarkt)
 - **Pathophysiologie**:: Mikroembolien aus Plaques der [[A. carotis interna]]

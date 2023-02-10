@@ -1,6 +1,6 @@
 ---
 aliases: Beugesynergismus, Decorticationsstarre
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Beugesynergismen / Decorticationsstarre
 > Spastische Flexion der oberen Extremitäten ([[GCS]])

@@ -1,6 +1,6 @@
 ---
 aliases: Altersweitsichtigkeit
-tags: m/m16, f/👁️, Pathologie
+tags: m/m16, f/👁️, a/Pathologie
 ---
 ### Presbyopie / Altersweitsichtigkeit
 - **Pathophysiologie**:: Verminderte [[Akkommodationsbreite]] 

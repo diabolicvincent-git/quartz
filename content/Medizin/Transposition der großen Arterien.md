@@ -1,6 +1,6 @@
 ---
 aliases: TGA
-tags: m/m25, f/🫀, f/🦄, Pathologie
+tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Transposition der großen Arterien / TGA
 > **[[Herzfehler]]**:: [[Aorta]] + [[Truncus pulmonalis]] Abgänge vertauscht

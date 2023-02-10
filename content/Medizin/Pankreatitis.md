@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m12, m/m26, Pathologie, f/💩
+tags: m/m12, m/m26, a/Pathologie, f/💩
 ---
 ### Pankreatitis
 - ![[Akute Pankreatitis]]

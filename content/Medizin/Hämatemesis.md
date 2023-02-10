@@ -1,6 +1,6 @@
 ---
 aliases: Bluterbrechen
-tags: m/m26, Pathologie
+tags: m/m26, a/Pathologie
 ---
 ### Hämatemesis / Bluterbrechen
 - Kaffeesatzartig

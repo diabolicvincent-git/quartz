@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: Intervention
+tags: a/Intervention
 ---
 - **Faktoren**
 	- Alter

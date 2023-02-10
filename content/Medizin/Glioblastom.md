@@ -1,5 +1,5 @@
 ---
-tags: m/m30, f/🧠, f/🦀/Hirntumor/Astrocytom, Pathologie
+tags: m/m30, f/🧠, f/🦀/Hirntumor/Astrocytom, a/Pathologie
 ---
 > (Abstract::**[[Astrocytom]] Grad IV.** Häufigster maligner [[Hirntumor]].)
 - **WHO-Grad**:: IV

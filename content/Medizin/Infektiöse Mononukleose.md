@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/👂, f/🦠 
+tags: a/Pathologie, f/👂, f/🦠 
 alias: Pfeiffer-Drüsenfieber
 ---
 > (Abstract::Pfeiffer-Drüsenfieber, Kissing-Disease, [[EBV]]-Infektion)

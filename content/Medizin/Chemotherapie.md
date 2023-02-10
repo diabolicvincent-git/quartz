@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m19, f/🦀, Intervention
+tags: m/m19, f/🦀, a/Intervention
 ---
 ### Chemotherapie
 - **Wachstumsfraktion**:: Teilende [[Zellen]] / Gesamtzellzahl des [[Tumor]]

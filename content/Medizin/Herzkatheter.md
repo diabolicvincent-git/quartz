@@ -1,6 +1,6 @@
 ---
 aliases: Koronarangiographie
-tags: m/m25, Intervention, Intervention
+tags: m/m25, a/Intervention, a/Intervention
 ---
 ### Herzkatheter / Koronarangiographie
 - **[[Linksherzkatheter]]** via [[Arterien]] (z.B. [[KHK]], [[OMI]], PCI, TAVI)

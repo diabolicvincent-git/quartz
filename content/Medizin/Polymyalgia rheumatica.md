@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/💉, Pathologie
+tags: m/m17, f/💉, a/Pathologie
 ---
 ### Polymyalgia rheumatica
 - **Epidemiologie**:: Alter >50 J.

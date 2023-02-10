@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/💤, Intervention
+tags: m/m21, f/💤, a/Intervention
 ---
 > (Abstract::**Zentraler Venenkatheter.** Bis kurz vor [[Rechter Vorhof]] in [[V. cava]] superior/inferior.)
 - **Indikation**:: [[Katecholamine]], [[K+]]-Substitution, [[Parenterale Ernährung]], best. [[Cytostatika]], [[ZVD]]

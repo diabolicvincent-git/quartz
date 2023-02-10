@@ -1,6 +1,6 @@
 ---
 aliases: Akutes Koronarsyndrom
-tags: [m/m11, f/🫀, Pathologie]
+tags: [m/m11, f/🫀, a/Pathologie]
 title: "ACS"
 ---
 - **Symptome**

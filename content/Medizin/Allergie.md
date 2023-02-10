@@ -1,6 +1,6 @@
 ---
 aliases: Allergische Reaktion
-tags: m/m12, m/m17, f/🧴, f/💉, Pathologie, ToDo
+tags: m/m12, m/m17, f/🧴, f/💉, a/Pathologie, ToDo
 ---
 > Überschießende Immunreaktion ggü. ungefährlichen Stoffen
 - [[Hypersensibilitätstypen]]

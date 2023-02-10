@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/🦀, f/👂
+tags: a/Pathologie, f/🦀, f/👂
 ---
 > (Abstract::v.a. [[Plattenepithel-Ca]] abgesehen von [[Speicheldrüsentumoren]])
 - **Entitäten**

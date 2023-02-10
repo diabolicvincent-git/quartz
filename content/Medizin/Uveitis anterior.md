@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, m/m29, f/👁️
+tags: a/Pathologie, m/m29, f/👁️
 ---
 > (Abstract::**[[Uveitis]]. Entzündung [[Iris]], ggf. + [[Ciliarkörper]].**)
 - **Ätiologie**:: [[Systemische Störungen]], insb. [[HLA]]-B27-Assoziation

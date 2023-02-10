@@ -1,6 +1,6 @@
 ---
 aliases: VSD
-tags: m/m25, f/🫀, f/🦄, Pathologie
+tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Ventrikelseptumdefekt / VSD
 - **Epdemiologie**:: Häufigster angeborener [[Herzfehler]] (30%)

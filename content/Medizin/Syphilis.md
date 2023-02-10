@@ -1,6 +1,6 @@
 ---
 aliases: Lues
-tags: m/m22, f/🦠, f/🦩, f/🍆, Pathologie
+tags: m/m22, f/🦠, f/🦩, f/🍆, a/Pathologie
 ---
 ### Syphilis / Lues
 > **[[STD]]**

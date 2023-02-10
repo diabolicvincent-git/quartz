@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m24, f/🦠, Pathologie
+tags: m/m24, f/🦠, a/Pathologie
 ---
 ### Tonsillitis
 - **Ätiologie**

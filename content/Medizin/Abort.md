@@ -1,6 +1,6 @@
 ---
 aliases: Fehlgeburt, Fehlgeburtlichkeit, Abortus
-tags: m/m22, f/🦩, Pathologie
+tags: m/m22, f/🦩, a/Pathologie
 ---
 - **Einteilung**
 	- *Abortus imminens / drohend:* Vaginale Blutung ex utero, Muttermund geschlossen, [[Schwangerschaft]] noch intakt

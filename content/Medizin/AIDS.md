@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m18, f/🦠, Pathologie
+tags: m/m18, f/🦠, a/Pathologie
 ---
 (Abstract::**Acquiriertes Immundefizienz Syndrom.** Klinik von unbehandeltem [[HIV]]. [[AIDS]]-definierende Erkrankungen + ==CD4+ [[T-Zellen]]↓==.)
 - i.d.R. nur bei unerkannter/unbehandelter [[HIV]]-[[Infektionen]]

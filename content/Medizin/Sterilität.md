@@ -1,6 +1,6 @@
 ---
 aliases: Unfruchtbarkeit
-tags: m/m22, f/🦩, f/🍆, Pathologie, Pathologie
+tags: m/m22, f/🦩, f/🍆, a/Pathologie, a/Pathologie
 ---
 ### Sterilität / Unfruchtbarkeit / Zeugungsunfähigkeit
 > Keine [[Schwangerschaft]] trotz ungeschütztem Sex >1 Jahr

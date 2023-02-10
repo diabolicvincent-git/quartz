@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/⚙️, Intervention
+tags: m/m13, f/⚙️, a/Intervention
 ---
 ### Spirometrie
 > Ermittlung *statischer Atemvolumina*

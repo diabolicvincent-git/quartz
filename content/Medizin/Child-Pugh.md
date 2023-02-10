@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m12, f/💩, Intervention, Intervention
+tags: m/m12, f/💩, a/Intervention, a/Intervention
 ---
 ### Child-Pugh
 > Stadieneinteilung der [[Leberzirrhose]]

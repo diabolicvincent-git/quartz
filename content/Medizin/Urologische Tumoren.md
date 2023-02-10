@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/🍆, f/🦀
+tags: a/Pathologie, f/🍆, f/🦀
 ---
 - [[BPH]]
 - [[Primärer Hyperaldosteronismus]]

@@ -1,6 +1,6 @@
 ---
 aliases: Hamilton-Depressionsskala, HAMD
-tags: m/m20, f/💭, Intervention
+tags: m/m20, f/💭, a/Intervention
 ---
 ### Hamilton-Depressionsskala
 > Klinische Fremdbeurteilung von [[Depression]] mit 17-24 Fragen (uneinheitlich)

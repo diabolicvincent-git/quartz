@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💭/Psychopathologischer-Befund, Pathologie
+tags: m/m20, f/💭/Psychopathologischer-Befund, a/Pathologie
 ---
 - **Stimmung↓**: [[Depression]]
 - **Stimmung↑**: [[Manie]]

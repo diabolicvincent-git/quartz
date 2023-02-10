@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m20, f/💭, f/🧠, Intervention
+tags: m/m20, f/💭, f/🧠, a/Intervention
 ---
 ### ZOSP
 > Beurteilung der qualitativen Bewusstseinslage

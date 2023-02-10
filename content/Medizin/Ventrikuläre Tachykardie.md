@@ -1,6 +1,6 @@
 ---
 aliases: VT, pVT
-tags: m/m11, f/🫀, Pathologie, Pathologie
+tags: m/m11, f/🫀, a/Pathologie, a/Pathologie
 ---
 ### Ventrikuläre [[Tachykardie]] / VT
 > [[Tachykardie]] [[HRST]] mit ≥3 Kammerkomplexen

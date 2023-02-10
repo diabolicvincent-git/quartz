@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m04, m/m21, f/🗞️, Pathologie, f/🦀, f/🧠
+tags: m/m04, m/m21, f/🗞️, a/Pathologie, f/🦀, f/🧠
 ---
 ### Hypophysenadenom
 - **Einteilung**

@@ -1,6 +1,6 @@
 ---
 aliases: Neurodermitis
-tags: m/m09, f/🧴, Pathologie
+tags: m/m09, f/🧴, a/Pathologie
 ---
 > (Abstract::Chronisch-entzündliche Hauterkrankung mit genetischer Disposition. Veraltet: Neurodermitis.)
 - **Epidemiologie**:: ==Kinder== (3-6 Monate), Rückgang im Erwachsenenalter

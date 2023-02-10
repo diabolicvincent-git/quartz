@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m13, f/🫁, f/👂, Pathologie
+tags: m/m13, f/🫁, f/👂, a/Pathologie
 ---
 ### Husteninsuffizienz
 - **Ursachen**:: Insuffizienter Glottisschluss (z.B. Stimmbandparese, Trachealkanüle), Muskelschwäche, Atemwegskollaps (z.B. bei [[COPD]]) mit erschwertem Sekrettransport nach oral

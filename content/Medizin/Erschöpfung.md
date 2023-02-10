@@ -1,6 +1,6 @@
 ---
 aliases: Leistungsminderung, Müdigkeit
-tags: m/m21, ToDo, f/💭, Pathologie
+tags: m/m21, ToDo, f/💭, a/Pathologie
 ---
 ### Erschöpfung (Psychosomatik)
 - **Diagnostik**

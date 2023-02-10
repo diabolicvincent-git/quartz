@@ -1,5 +1,5 @@
 ---
-tags: m/m15, f/🧠, Pathologie, m/m30
+tags: m/m15, f/🧠, a/Pathologie, m/m30
 ---
 > (Abstract::**[[HZV]]↓ → Minderperfusion, Ischämie.**)
 - **Ätiologie**:: Vorbestehend eingeschränkte Perfusion (z.B. [[Atherosklerose]]) + [[HZV]]↓ ([[Schock]]) → Minderperfusion, Ischämie

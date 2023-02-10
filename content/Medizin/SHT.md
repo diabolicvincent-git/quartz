@@ -1,6 +1,6 @@
 ---
 aliases: Schädel-Hirn-Trauma, Schädelhirntrauma
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 ### Schädel-Hirn-Trauma / SHT
 - **Pathophysiologie**

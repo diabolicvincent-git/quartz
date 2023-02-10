@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: Pathologie
+tags: a/Pathologie
 ---
 Einnehmen ≥5 unterschiedliche [[Medikamente]] inkl. Selbstmedikation

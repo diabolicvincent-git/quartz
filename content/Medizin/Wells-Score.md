@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, f/🩸, Intervention
+tags: m/m17, f/🩸, a/Intervention
 ---
 ### Wells-Score bei Phlebothrombose (TVT)
 - **≥2 Punkte**:: Hohe Wahrscheinlichkeit für [[Thrombose]]

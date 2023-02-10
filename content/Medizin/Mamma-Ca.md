@@ -1,6 +1,6 @@
 ---
 aliases: Mammakarzinom, Brustkrebs
-tags: m/m19, Pathologie
+tags: m/m19, a/Pathologie
 ---
 ### Mammakarzinom / Brustkrebs
 - **Epidemiologie**:: Häufigstes [[Malignom]] der Frau

@@ -1,6 +1,6 @@
 ---
 aliases: GBS
-tags: m/m15, f/🧠, Pathologie
+tags: m/m15, f/🧠, a/Pathologie
 ---
 > Akute demyelinisierende Polyneuroradikulopathie
 - **Epidemiologie**

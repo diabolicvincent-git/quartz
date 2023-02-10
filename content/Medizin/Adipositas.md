@@ -1,4 +1,4 @@
 ---
 aliases: 
-tags: m/m12, Pathologie, f/🫀
+tags: m/m12, a/Pathologie, f/🫀
 ---

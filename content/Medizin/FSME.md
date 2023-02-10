@@ -1,5 +1,5 @@
 ---
-tags: Pathologie, f/🦠/Reiseimpfung
+tags: a/Pathologie, f/🦠/Reiseimpfung
 ---
 - **Epidemiologie**:: Nordeuropa, Asien, teils Deutschland
 - **Prävention**:: [[Impfung]]

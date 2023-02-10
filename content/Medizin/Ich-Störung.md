@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: Pathologie
+tags: a/Pathologie
 ---
 - **Ich-Störungen auf Gefühlsebene**
 	- [[Derealisation]]

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: m/m26, f/🍺, Pathologie
+tags: m/m26, f/🍺, a/Pathologie
 ---
 ### Urämie
 > **[[CKD]]**:: [[Intoxikation]] durch Akkumulation harnpflichtiger Substanzen

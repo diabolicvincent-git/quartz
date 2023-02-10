@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [Pathologie, m/m31, f/💭]
+tags: [a/Pathologie, m/m31, f/💭]
 ---
 - **Symptome**
 	- *Positivsymptomatik:* [[Stupor]], [[Akinese]], [[Negativismus]], [[Katalepsie]], [[Haltungsstereotypie]]

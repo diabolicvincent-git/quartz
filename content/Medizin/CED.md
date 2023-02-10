@@ -1,6 +1,6 @@
 ---
 aliases: Chronisch-entzündliche Darmerkrankung
-tags: m/m17, m/m12, Pathologie, Pathologie, f/💉, f/💩
+tags: m/m17, m/m12, a/Pathologie, a/Pathologie, f/💉, f/💩
 ---
 ### Chronisch-entzündliche Darmerkrankung / CED
 Symptome|[[M. Crohn]]|[[Colitis ulcerosa]]

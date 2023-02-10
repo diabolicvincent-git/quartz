@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m17, Pathologie
+tags: m/m17, a/Pathologie
 ---
 
 ### Myasthenia gravis 

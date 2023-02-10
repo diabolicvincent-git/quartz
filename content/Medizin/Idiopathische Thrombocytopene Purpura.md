@@ -1,6 +1,6 @@
 ---
 aliases: ITP
-tags: m/m08, m/m17, f/🩸, Pathologie
+tags: m/m08, m/m17, f/🩸, a/Pathologie
 ---
 ### Idiopathische Thrombocytopene [[Purpura]] / ITP 
 - **Epidemiologie**:: 1:10.000 / Jahr

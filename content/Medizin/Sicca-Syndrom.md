@@ -1,5 +1,5 @@
 ---
-tags: f/👂, f/👁️, f/💉, Pathologie
+tags: f/👂, f/👁️, f/💉, a/Pathologie
 ---
 > (Abstract::**Leitsymptom [[Sjögren-Syndrom]].** Trockener [[Mund]] + Trockenes [[Auge]].)
 

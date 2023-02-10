@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: m/m21, f/⚰️, Intervention
+tags: m/m21, f/⚰️, a/Intervention
 ---
 ### Obduktion / Innere [[Leichenschau]]
 - **Einteilung**

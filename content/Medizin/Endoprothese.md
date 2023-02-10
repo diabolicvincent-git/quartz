@@ -1,6 +1,6 @@
 ---
 aliases: Endoprothetik
-tags: m/m27, f/🦴, Intervention
+tags: m/m27, f/🦴, a/Intervention
 ---
 ### Endoprothese
 > Ersatz von Körperteil/[[Gelenke]] durch Fremdmaterial

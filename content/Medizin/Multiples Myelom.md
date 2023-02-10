@@ -1,6 +1,6 @@
 ---
 aliases: M. Kahler, Plasmocytom
-tags: m/m19, f/🦀, f/🩸, Pathologie
+tags: m/m19, f/🦀, f/🩸, a/Pathologie
 ---
 > (Abstract::**B-Zell-[[Non-Hodgkin-Lymphom]].** Auch: M. Kahler, systemischer Plasmazelltumor.)
 - **Epidemiologie**:: Hohes Alter

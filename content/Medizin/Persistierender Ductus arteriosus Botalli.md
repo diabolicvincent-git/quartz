@@ -1,6 +1,6 @@
 ---
 aliases: PDA
-tags: m/m25, f/🫀, f/🦄, Pathologie
+tags: m/m25, f/🫀, f/🦄, a/Pathologie
 ---
 ### Persistierender [[Ductus arteriosus Botalli]] / PDA
 - **Pathophysiologie**

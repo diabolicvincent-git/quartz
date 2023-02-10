@@ -1,6 +1,6 @@
 ---
 aliases: Regelschmerzen
-tags: m/m22, f/🦩, Pathologie
+tags: m/m22, f/🦩, a/Pathologie
 ---
 ### Dysmenorrhoe / Regelschmerzen
 - **Ätiologie**

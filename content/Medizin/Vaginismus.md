@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: f/🦩, Pathologie
+tags: f/🦩, a/Pathologie
 ---
 > (Abstract::Krampf der Vaginal- und Beckenmuskulatur beim Koitusversuch)
