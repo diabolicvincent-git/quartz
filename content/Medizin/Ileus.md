@@ -1,0 +1,31 @@
+---
+aliases: Darmverschluss, Subileus, Bridenileus
+tags: m/m12, f/💩, a/Pathologie
+---
+### Ileus / Darmverschluss
+- **Ätiologie**
+	- **Mechanischer Ileus**
+		- *Verlegung:* ==[[Tumor]]==, Kotstein, [[Invagination]], Fremdkörper, Gallenstein
+		- *Kompression:* Verwachsung (*==Bridenileus==*), inkarzerierte [[Hernie]], Peritonealkarzinose
+		- *Wandschwellung:* [[CED]], [[Divertikulitis]]
+	- **Paralytischer Ileus**
+		- *Medikamente:* ==[[Opioide]]==, [[Antipsychotika]], [[Katecholamine]] u.v.m.
+		- *Neurogen:* Neuropathie bei [[Diabetes mellitus]], [[Parkinson-Syndrom]], M. Hirschsprung
+		- *Sonstiges:* [[Hypokaliämie]], [[Hyperkaliämie]], Urämie, [[Porphyrie]], [[Vaskulitis]], [[Peritonitis]]
+- **Lokalisation**:: [[Dünndarm]] (80%, oft Verwachsung), [[Colon]] (20%, oft [[Malignom]])
+- **Pathophysiologie**:: Darmdistension → Hypoxie, Ödem → Flüssigkeitsverlust, Bakterien durchwandern Darmwand → [[Peritonitis]]/Sepsis
+- **Symptome**
+	- [[Schmerz]], Übelkeit/Erbrechen, Meteorismus, Stuhl- und Windverhalt
+	- Peritonismus, [[Schock]]
+- **Diagnostik**
+	- **[[Untersuchung Abdomen]]**:: Auskultation, ggf. [[DRU]]
+		- *Mechanisch:* Hochgestellt klingende Darmgeräusche
+		- *Paralytisch:* "Totenstille"
+	- **Labor**:: [[Blutbild]], [[Elektrolyte]], [[Leberwerte]], [[Pankreaswerte]], [[Entzündungsparameter]]
+	- **[[Bildgebung]]**
+		- **[[Sonographie]]**
+		- **[[CT]] Angio**
+- **Therapie**
+	- *Basis:* ==[[Volumentherapie]]==, [[Magensonde]], Nahrungskarenz, [[Antibiotika]]
+	- *Konservativ*
+	- *OP* 

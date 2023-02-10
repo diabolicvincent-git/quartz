@@ -1,0 +1,49 @@
+---
+aliases: Interstitielle Lungenparenchymerkrankung, ILD
+tags: m/m13, f/🫁, a/Pathologie
+---
+### Lungenfibrose
+- **Ätiologie:**
+	- Idiopathisch (am häufigsten; keine Alveolitis)
+	- Autoimmun (z.B. [[Sarkoidose]], [[SLE]])
+	- Noxisch (z.B. [Asbest](Pneumokoniosen.md))
+	- Medikamentös (z.B. [[Cytostatika]], [[Antibiotika]])
+	- Umweltbedingt / Allergen (z.B. Schwermetalle, Vogelfedern) 
+- **Pathomechanismus**:: Zunahme des pulmonalen Bindegewebes
+	- Vermehrung von Fibroblasten und extrazellulärer Bindegewebsmatrix
+	- Chronisch-entzündlicher Abbau der elastischen Fasern der [[Lunge]] und Ersatz durch kollagene Fasern
+	- Initial oft *Alveolitis* (noch reversibler Zeitpunkt der Progredienz) -> irreversibler fibrotischer Umbau
+	- Fibrose -> [[Restriktive Ventilationsstörung]] 
+	- Verdickung der Membranen → Gasaustausch- & Diffusionsstörungen 
+	- [[Euler-Liljestrand-Mechanismus]]: Rechts-Links-Shunt → desoxygeniertes [[Blut]] fließt auf venöse Seite → Hypoxämie
+	- **Symptome**
+	- **Leitsymptome**:: Progrediente [[Dyspnoe]], trockener Reizhusten
+	- Grippegefühl, [[Fieber]] (im Stadium der Alveolitis)
+	- **Im fortgeschrittenen Stadium**
+		- Trommelschlägelfinger und Uhrglasnägel
+		- "Kleine [[Lunge]]" (hohe [[Lungengrenzen]])
+		- [[Zyanose]]
+		- Ggf. [[Brustschmerz]]
+		- Ggf. Auskultatorische Nebengeräusche
+- **Diagnostik**
+	- **[[BGA]]**
+		- Initial Hypokapnie (aufgr. Hyperventilation)
+		- Später Hypoxie
+		- Dekompensation: Hypoxie + Hyperkapnie
+	- **[[Röntgen]]-Thorax**:: Basale reticuläre Verschattungen, ggf. Cor pulmonale
+	- **[[CT]]**:: Irregulär verdickte Interlobulärsepten, Honigwabenstruktur, Traktionsbronchiektasen
+	- **[[Lungenfunktionsprüfung]]**
+		- Verminderte Vitalkapazität
+		- Verminderte Residualkapazität
+		- Verminderte [[Compliance]] ([[Restriktive Ventilationsstörung]] im [[Fluss-Volumen-Diagramm]])
+	- **Sonstiges**:: [[BAL]], transbronchiale Biopsie
+- **Therapie**
+	- Kausaltherapie wenn möglich (z.B. Antibiose, Noxen meiden)
+	- Nikotinkarenz
+	- Langzeit-[[O2]]-Therapie ab [[pO2]] <55 mmHg
+	- Atemtherapie, Physiotherapie
+	- [[Impfung]] gegen Influenza und Pneomokokken
+	- Proteinreiche [[Ernährung]]
+	- [[Tyrosinkinaseinhibitoren]] (z.B. Nintedanib, Pirfenidon) bei idiopathischer Lungenfibrose
+	- Lungentransplantation
+	- **Cave**:: ==*Keine* [[Glucocorticoide]], Cyclosporin, ACC, [[PPI]] oder [[Heparin]]==

@@ -1,0 +1,18 @@
+---
+aliases: 
+tags: m/m11, a/Intervention/Diagnostik/Score, a/Intervention/Diagnostik, f/🫀
+---
+> (Abstract::Thromboembolie-[[Risiko]] bei [[VHF]])
+- **Faktoren**
+	- **Chronische [[Herzinsuffizienz]]** oder linksventrikuläre Dysfunktion, [[Vitien]] (1)
+	- **[[Hypertonie]]** (1)
+	- **Alter** ≥75 Jahre (2)
+	- **[[Diabetes mellitus]]** (1)
+	- **[[Stroke]]/[[TIA]]/Thromboembolie** (2)
+	- **Vaskuläre Vorerkrankung**:: [[KHK]], [[pAVK]], Aortenplaque (1)
+	- **Alter** 65-74 Jahre (1)
+	- **Sex** [[♀]] (1)
+- **Konsequenz**
+	- **[[♂]] ≥2 / [[♀]] ≥3**:: [[Antikoagulation]]
+	- **[[♂]] =1 / [[♀]] =2**:: ggf. [[Antikoagulation]]
+	- **[[♂]] =0 / [[♀]] ≤1**:: Keine Therapie

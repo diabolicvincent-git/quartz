@@ -1,0 +1,13 @@
+---
+alias: Struma maligna
+tags: a/Pathologie
+---
+> (Abstract::)
+- **Epidemiologie**:: [[♀]]>[[♂]]
+- **Ätiologie**:: Genetik (MEN), [[Ionisierende Strahlung]]
+- **Klassifikation**:: [[Papilläres Schilddrüsen-Ca]], [[Follikuläres Schilddrüsen-Ca]], [[Anaplastisches Schilddrüsen-Ca]]
+- **Symptome**:: Keine Frühsymptome, später [[Struma]], [[Dysphagie]], Heiserkeit (Recurrensparese), [[Horner-Syndrom]], [[Einflussstauung]], [[Stridor]], [[Lymphadenopathie]]
+- **Diagnostik**:: [[Tumormarker]] (==Thyreoglobulin==, ==[[Calcitonin]]==), [[Schilddrüsenhormone]], [[Sonographie]], [[Szintigraphie]], Aspirationscytologie
+- **DD**:: Schilddrüsenzyste, [[Thyreoiditis]]
+- **Therapie**:: [[OP]] (totale Thyreoidektomie + Lymphadenektomie)
+- **Prävention**:: Iodgabe bei nuklearem Zwischenfall

@@ -1,0 +1,7 @@
+- **Muskelfaszien**
+	- [[Lamina superficialis]]
+	- [[Lamina praetrachealis]]
+	- [[Lamina praevertebralis]]
+- **Viszerale Faszien**
+	- [[Vagina carotica]]
+	- [[Eingeweidefaszie]]

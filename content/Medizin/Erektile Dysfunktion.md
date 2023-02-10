@@ -1,0 +1,16 @@
+---
+aliases: null
+tags: m/m22, f/🍆, a/Pathologie
+---
+### Erektile Dysfunktion
+> [[Erektion]] gestört >6 Monate → verhindert zu 70% Geschlechtsverkehr
+- **Diagnostik**
+	- **[[Anamnese]]**:: [[Sexualanamnese]], Urologie, Kinderkrankheiten, [[STD]], Medikamente, Sozialanamnese, Psychiatrie
+	- **[[Labor]]**:: Testosteron, Prolactin, [[LH]], [[FSH]], [[TSH]]
+	- **Schlaflabor**:: *Phallographie* zum Nachweis physischer Erektionsfähigkeit (spontan nachts)
+- **Therapie**
+	- [[Psychotherapie]]
+	- PDE-5-Inhibitoren (Sildenafil)
+	- SKAT (Schwellkörper-Autoinjektions-Therapie)
+	- Penispumpe + Penisring
+	- *Ultima ratio:* Penisprothese (Schwellkörperimplantate mit skrotaler Pumpe)

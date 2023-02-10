@@ -1,0 +1,6 @@
+- Biegungsfraktur
+- Torsionsfraktur
+- Abrissfraktur
+- Abscherfraktur
+- Luxationsfraktur
+- Stauchungsfraktur

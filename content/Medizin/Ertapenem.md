@@ -1,0 +1,1 @@
+unwirksam gegen [[Pseudomonas aeruginosa]]

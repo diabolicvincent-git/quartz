@@ -1,0 +1,28 @@
+==Innervation:: [[N. facialis (VII)]]==
+- **Muskulatur des Schädeldachs**
+	- ==[[M. occipitofrontalis]]==
+	- [[M. temporoparietalis]]
+- **Muskulatur des Ohrs**
+	- [[M. auricularis anterior]]
+	- [[M. auricularis superior]]
+	- [[M. auricularis posterior]]
+- **Muskulatur des Auges**
+	- [[M. corrugator supercilii]]
+	- ==[[M. orbicularis oculi]]==
+	- [[M. depressor supercilii]]
+- **Muskulatur der Nase**
+	- [[M. nasalis]]
+	- [[M. procerus]]
+	- [[M. depressor septi nasi]]
+- **Muskulatur des Munds**
+	- [[M. orbicularis oris]]
+	- [[M. buccinator]]
+	- [[M. levator labii superioris]]
+	- [[M. levator labii superioris alaeque nasi]]
+	- [[M. depressor labii inferioris]]
+	- [[M. mentalis]]
+	- [[M. transversus menti]]
+	- [[M. risorius]]
+	- [[M. levator anguli oris]]
+	- [[M. cygomaticus major]]
+	- [[M. cygomaticus minor]]

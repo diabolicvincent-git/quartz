@@ -1,0 +1,6 @@
+##### M. rectus medialis
+*   Anulus tendineus
+*   Nasal am [[Bulbus oculi]] (vor dem Äquator)
+*   Adduktion
+*   [[N. oculomotorius (III)]]: R. inferior
+*   Die beiden Muskeln funktionieren synergistisch (wirken beim Blick zur Seite als Paar)

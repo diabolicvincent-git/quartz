@@ -1,0 +1,24 @@
+---
+tags: m/m06
+---
+- **Modelle**
+	- Sozialversicherungssystem / Bismarck-Modell (🇩🇪)
+	- Staatlicher Gesundheitsdienst / Beveridge-Modell (🇬🇧)
+	- Marktwirtschaftliches System (🇺🇸)
+	- Planwirtschaftliches System / Semashko-Modell (🛠)
+- **[[Krankenversicherung]]**
+- **Ambulante vs. stationäre Versorgung**
+- **Recht auf freie Arztwahl**
+- **Arbeitsunfähigkeit**
+- **Patientenrechte**
+- **[[Kassenärztliche Vereinigung]]**
+- **Versorgungsformen**
+	- Chronic-Disease-Management-Programme
+	- Integrierte Versorgung
+	- MVZ
+	- Hausarztmodelle
+	- Tagesklinische/teilstationäre Behandlung
+- **Vergütung**
+	- *Stationär*:: [[DRG]]
+	- *Ambulant*:: Einheitlicher Bewertungsmaßstab ([[GKV]]) / Gebührenordnung GOÄ ([[PKV]])
+- **Qualitätsmanagement**

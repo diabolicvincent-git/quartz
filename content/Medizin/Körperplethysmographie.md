@@ -1,0 +1,10 @@
+---
+aliases:
+ - Bodyplethysmographie
+ - Plethysmographie
+---
+
+- Erhebung von *intrathorakalem Gasvolumen*, *[[Atemwiderstand]]* → mittels [[Spirometrie]]-Messwerten lassen sich *totale Lungenkapazität* und *funktionelle Residualkapazität* berechnen
+- Durchführung in luftdicht verschlossener Kammer
+
+#m/m13

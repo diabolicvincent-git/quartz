@@ -1,0 +1,1 @@
+Verfälschte Wahrnehmung und Verkennung der Realität (z.B. dunkler Busch wird als Person wahrgenommen)

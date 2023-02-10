@@ -1,0 +1,31 @@
+---
+tags: 
+---
+- **Grundsätzlich delegierbare Tätigkeiten**
+	- Blutentnahme (venös, kapillär, arteriell nach Anleitung)
+	- [[Dauerkatheter]]-Wechsel
+	- [[Impfung]], andere [[i.m.]] Injektionen, [[s.c.]] Injektionen
+	- Wundmanagement bei unkomplizierten Wunden
+	- 2./3. Assistenz im [[OP]]
+	- Durchführung von [[EKG]], [[Lungenfunktionsprüfung]], [[Audiometrie]] u.ä. (Befundung aber ärztlich)
+	- [[i.v.]]-Injektion, [[Infusionslösung]] (Arzt in Rufweite)
+	- Prick-Test (Arzt in Rufweite)
+	- Invasive Therapien wie [[Aszitespunktion]], [[Pleurapunktion]] (ärztliche Aufsicht)
+	- Aufklärung (ärztliche Aufsicht)
+- **Grundsätzlich nicht delegierbare Tätigkeiten**
+	- Arzneimittelverschreibung
+	- [[Anamnese]] und [[Untersuchung]] (immer ärztlich nachprüfen)
+	- Aufklärung, Beratung
+	- Begutachtung
+	- Wundmanagement bei komplizierten Wunden
+	- Diagnosestellung
+	- Indikationsstellung, Therapieentscheidung
+	- Invasive Therapien, [[OP]]
+	- ==Erstmalige [[i.v.]]-Injektion eines Medikaments==
+	- Kommunikation mit anderen ärztlichen Fachdisziplinen
+	- Konsile
+	- Management von auftretenden Komplikationen
+	- Therapie mit Körperersatzstoffen, Hormonen etc.
+	- [[Transfusion]] (Abnahme von Kreuzblut, Durchführen der Kreuzprobe, Anhängen von [[EK]])
+	- Versorgung von [[Thoraxdrainage]]
+	- [[ZVK]]-Anlage

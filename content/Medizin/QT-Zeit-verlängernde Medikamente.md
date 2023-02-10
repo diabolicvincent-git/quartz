@@ -1,0 +1,21 @@
+### QT-Zeit-verlängernde Medikamente
+- **[[Antiarrhythmika]]**:: Sotalol, [[aMIOdaron]], Chinidin, Disopyramid, Ibutilide
+- **[[Antibiotika]]**:: [[Makrolide]], [[Fluorchinolone]]
+- **[[Antimykotika]]**:: Azole
+- **[[Antihistaminika]]**
+- **[[Antidepressiva]]**:: Amitryptilin, Doexpin, Imipramin, Norttriptylin, Desipramin, Maprotilin, Fluoxetin ([[Selektive Monoamin-Wiederaufnahmehemmer]]), [[Lithium]]
+- **[[Antipsychotika]]**:: Thioridazin, Pimozid, Haloperidol, Melperon, Chlopromazin, Quetiapin, Sertindol
+- **Sedativa**:: Methadon
+- **Triptane**
+- **[[Parkinson-Syndrom]]-Medikamente**
+- **[[Malaria]]-Medikamente**
+- **Sonstige**
+	- **[[Immunsuppressiva]]**:: [[Tacrolimus]]
+	- **Gastroenterologie**:: MCP, Domperidon, Ondansetron
+	- **[[HIV]]**:: Pentamidin
+	- **[[Diuretika]]**:: Indapamid
+	- **Urulogika**
+	- **[[Antikonvulsiva]]**:: [[Valproat]]
+	- **Antidementiva**
+	- **[[ITS]]**:: Sympathomimetika ([[Noradrenalin]], [[DOBUTamin]])
+<!--SR:!2023-01-07,3,250-->

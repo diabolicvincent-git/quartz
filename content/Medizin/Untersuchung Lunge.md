@@ -1,0 +1,36 @@
+---
+aliases: null
+tags: m/m13, f/🫁, a/Intervention/Diagnostik
+---
+### [[Untersuchung]] [[Lunge]]
+- **Inspektion**
+	- **Thoraxform**
+		- *Fassthorax:* Tiefe = Breite (Ephysem, [[COPD]])
+		- *Trichterbrust:* Mamillen zeigen nach innen (angeboren; Einengung Organe?)
+		- *Kielbrust/Hühnerbrust* (nur ästhetisch relevant)
+	- **[[Hypoxie]]-Zeichen**
+		- Tachypnoe, Orthopnoe, Einsatz der [[Atemhilfsmuskulatur]]
+		- Juguläre/sternale/intercostale Einziehungen, Nasenflügeln, [[Kopf]]-Reklination
+		- *Uhrglasnägel, Trommelschlegelfinger* (siehe [[Untersuchung Hände]])
+		- *[[Zyanose]]*
+	- **[[Auswurf]]**
+	- **[[Atmung]]**:: [[AF]], [[Atemmechanik]]
+- **Palpation**
+	- Atemexkursion
+	- Stimmfremitus (laut "99")
+- **Perkussion**
+	- **Qualität des Klopfschalls**
+		- *Sonorer Klopfschall* (physiologisch)
+		- *Hypersonorer Klopfschall* (==Luft↑==, z.B. [[Lungenemphysem]], [[Asthma]], [[Pneumothorax]])
+		- *Gedämpfter Klopfschall* (==Flüssigkeit↑==, z.B. [[Pneumonie]], [[Pleuraerguss]])
+	- **[[Lungengrenzen]] & Atemverschieblichkeit**
+- **Auskulation**
+	- *Vesikuläres Atemgeräusch* über der [[Lunge]] und *[[Bronchialatmen]]* über der [[Trachea]] (physiologisch)
+	- *Abgeschwächtes Atemgeräusch* (Dämpfung, z.B. [[Pleuraerguss]] oder Luftretention, z.B. [[Lungenemphysem]])
+	- *Feuchte Nebengeräusche*
+		- Kleinblasig ([[Pneumonie]])
+		- Grobblasig ([[Lungenödem]], Bronchiektasen)
+	- *Trockene Nebengeräusche*
+		- Exspiratorisches Giemen ([[Asthma]], [[COPD]])
+		- Inspiratorischer Stridor ([[Epiglottitis]], [[Pseudokrupp]], Aspiration)
+	- Bronchophonie (leise "66")

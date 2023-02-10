@@ -1,0 +1,19 @@
+---
+aliases: null
+tags: m/m22, f/🦄, a/Intervention/Diagnostik
+---
+### Meilensteine der kindlichen Entwicklung
+| Alter       | Motorik                                                                               | Sprache                                                                       | Sozialverhalten                                                             |
+| ----------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Neugoberene** | Kopf drehen                                                                           | seufzen, schreien                                                             | spontan lächeln                                                             |
+| **1 Monat**     | Objekt fixieren                                                                       |                                                                               | Licht/Gesichter fixieren                                                    |
+| **2 Monate**    | Kopf heben in Bauchlage                                                               | reaktive Laute                                                                | ==zurücklächeln==                                                           |
+| **3 Monate**    | ==Kopf kontrollieren==, auf Unterarme stützen, Hände betrachten                           | spontan vokalisieren ("oh")                                                   | sich Stimmen zuwenden                                                       |
+| **6 Monate**    | Objekt greifen/reichen, auf die Seite drehen, Sitzen (hingesetzt) kurz halten         | vokalisiert antworten, plaudern                                               | laut lachen                                                                 |
+| **9 Monate**    | ==frei sitzen==, sich zum Sitzen hochziehen, mit Hilfe stehen, kriechen, Scherengriff | Sprachlaute imitieren                                                         | fremdeln                                                                    |
+| **12 Monate**   | ==frei stehen==, Pinzettengriff                                                           | "Mama"/"Papa"                                                                 |                                                                             |
+| **15 Monate**   | frei laufen, aus Glas trinken, selbstständig essen                                    | Einwortsätze                                                                  |                                                                             |
+| **2 Jahre**     | sicher laufen, kritzeln                                                               | ==Zwei-/Dreiwortsätze==, Wortschatz 50-200 Wörter                                 | Händewaschen, "Nein" sagen, um Hilfe bitten, Bilderbuch ansehen             |
+| **3 Jahre**     | Dreirad fahren, Turm aus Klötzen bauen, Flasche auf-/zudrehen                         | Vor- & Nachnamen sagen, Singular/Plural korrekt nutzen, Geschichten verstehen | mit anderen Kindern spielen, sich mit Hilfe anziehen, tagsüber trocken sein |
+| **4 Jahre**     | Treppenlaufen, Erwachsenengriff                                                       | selbst von Erlebnissen erzählen                                               | "Warum?"                                                                    |
+| **5 Jahre**     | auf einem Bein hüpfen                                                                 | nahezu fehlerfrei sprechen                                                    | selbstständig anziehen                                                      |

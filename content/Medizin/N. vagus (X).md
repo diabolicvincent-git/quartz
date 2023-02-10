@@ -1,0 +1,26 @@
+---
+tags: m/m15, f/🧠/Hirnnerv
+---
+- **Nr**:: 10
+- **Kerngebiete**:: [[Medulla oblongata]]
+- **Schädeldurchtritt**:: Foramen jugulare
+- **Qualität**:: [[Allgemeine Somatoafferenzen]]
+	- **Funktion**:: Sensibilität
+	- **Kern**:: Ncl. spinalis n. trigemini
+	- **Innerviert**:: [[Meningen]], Äußerer Gehörgang
+- **Qualität**:: [[Allgemeine Visceroefferenzen]]
+	- **Funktion**:: [[Parasympathikus]]
+	- **Kern**:: Ncl. dorsalis n. vagi
+	- **Innerviert**:: [[Lunge]] (Plexus pulonalis), [[Herz]] ([[Plexus cardiacus]]), [[Magen]], [[Leber]], [[Niere]], ==Darm und [[Gefäße]] bis zum *Cannon-Böhm-Punkt*==
+- **Qualität**:: [[Allgemeine Visceroafferenzen]]
+	- **Funktion**:: [[Regulation des Kreislaufs]]
+	- **Kern**:: Ncl. tractus solitarii pars inferior
+	- **Innerviert**:: Druckrezeptoren in Aortenbogen und Carotissinus, [[Pharynx]]-, Larynxschleimhaut, [[Trachea]], [[Ösophagus]], [[Magen]]
+- **Qualität**:: [[Spezielle Visceroafferenzen]]
+	- **Funktion**:: [[Geschmack]]
+	- **Kern**:: Ncl. tractus solitarii pars superior
+	- **Innerviert**:: [[Epiglottis]]
+- **Qualität**:: [[Spezielle Visceroefferenzen]]
+	- **Funktion**:: Motorik
+	- **Kern**:: ==Ncl. ambiguus==
+	- **Innerviert**:: Pharynxmuskulatur, [[Larynx]]muskulatur
