@@ -1,7 +1,6 @@
 ---
 aliases: null
 tags: m/m15, f/🧠, f/💀, f/💀/Leitungsbahn/Arterie
-Ursprung: [[A. carotis interna]]
 ---
 - **Ursprung**:: Aus [[A. carotis interna]]
 - **Infarkt**:: Beinbetonte sensomotorische Hemiparese kontralateral

@@ -1,6 +1,6 @@
 ---
-
-title: "A. carotis communis"aliases: 
+title: "A. carotis communis"
+aliases: 
 tags: f/💀/Leitungsbahn/Arterie, f/💀 
 ---
 - **Ursprung**:: [[Aortenbogen]] (links), [[Truncus brachiocephalicus]] (rechts)
