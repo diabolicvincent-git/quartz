@@ -2,7 +2,6 @@
 tags: [Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie, Fach/Gastroenterologie, Modul/m14]
 title: Spironolacton
 ---
- ### Spironolacton
 > Gruppe:: [[Aldosteronantagonisten]], [[Kaliumsparende Diuretika]], [[Diuretika]]
 - Handelsname:: Aldactone
 - Applikation:: [[p.o.]]

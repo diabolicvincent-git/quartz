@@ -78,10 +78,6 @@ title: Störungen der primären Hämostase
 
 
 
----
-aliases: 
-tags: m17
----
 ### Gerinnungsstörungen
 - **Ätiologie**
 	- **Hereditär**:: i.d.R. eine [[Hämostase]]-Komponente betroffen

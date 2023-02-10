@@ -1,9 +1,8 @@
 ---
-alias: Struma maligna
 tags: [Art/Pathologie]
 title: Schilddrüsen-Ca
 ---
-> (Abstract::)
+> (Abstract::Auch: Struma maligna.)
 - **Epidemiologie**:: [[♀]]>[[♂]]
 - **Ätiologie**:: Genetik (MEN), [[Ionisierende Strahlung]]
 - **Klassifikation**:: [[Papilläres Schilddrüsen-Ca]], [[Follikuläres Schilddrüsen-Ca]], [[Anaplastisches Schilddrüsen-Ca]]

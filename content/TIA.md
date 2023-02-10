@@ -1,5 +1,4 @@
 ---
-alias: Transitorische ischämische Attacke
 tags: [Art/Pathologie, Fach/Neurologie]
 title: TIA
 ---

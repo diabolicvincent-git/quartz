@@ -1,7 +1,7 @@
 ---
 title: Häufigste Erreger
 ---
- Erkrankung|[[Bakterien]]|Sonstige|[[Viren]]
+Erkrankung|[[Bakterien]]|Sonstige|[[Viren]]
 -|-|-|-|
 [[Encephalitis]]|Borrelia burgdorferi||"FSME-Virus, Influenzaviren, Jap. B-Enz.-Virus"
 Endokarditis|"Enterokokken, HACEK-Gruppe, [[Staphylokokken]] spp., [[Streptokokken]] spp., Tropheryma whipplei"||

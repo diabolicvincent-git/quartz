@@ -1,5 +1,4 @@
 ---
-  Temperaturregulation
 tags: [Modul/m09, ToDo, Fach/Dermatologie, Fach/Physiologie]
 title: Wärmehaushalt
 ---

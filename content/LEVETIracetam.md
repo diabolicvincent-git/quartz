@@ -2,7 +2,6 @@
 tags: [Fach/Pharmakologie/Medikament, Modul/m30, Fach/Neurologie]
 title: LEVETIracetam
 ---
- ### Levetiracetam
 > Gruppe:: [[Antikonvulsiva]]
 - **Handelsname**:: Ceppra
 - **Applikation**:: [[i.v.]]

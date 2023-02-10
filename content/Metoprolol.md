@@ -2,7 +2,6 @@
 tags: [Fach/Pharmakologie/Medikament, Modul/m11, Fach/Kardiologie]
 title: Metoprolol
 ---
- ### Metoprolol
 > Gruppe:: Kardioselektive [[β-Blocker]]
 - **Handelsname**:: Beloc
 - **Applikation**:: [[p.o.]], [[i.v.]]

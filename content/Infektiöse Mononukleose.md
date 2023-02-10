@@ -1,6 +1,5 @@
 ---
 tags: [Art/Pathologie, Fach/HNO, Fach/Infektiologie]
-alias: Pfeiffer-Drüsenfieber
 title: Infektiöse Mononukleose
 ---
 > (Abstract::Pfeiffer-Drüsenfieber, Kissing-Disease, [[EBV]]-Infektion)

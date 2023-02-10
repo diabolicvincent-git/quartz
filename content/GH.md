@@ -1,5 +1,4 @@
 ---
-  Wachstumshormone
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: GH
 ---
