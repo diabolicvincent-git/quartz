@@ -38,3 +38,9 @@ strong{
 blockquote{
   font-size: 1.2em;
 }
+
+a.internal-link {
+  border-bottom: 1px solid var(--primary) !important;
+  background: inital !important;
+  color: initial !important;
+}

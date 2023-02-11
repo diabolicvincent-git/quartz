@@ -191,6 +191,7 @@ article {
     opacity: 0.7;
   }
 
+  /*
   & a {
     font-weight: 600;
 
@@ -206,7 +207,7 @@ article {
         background-color: transparent;
       }
     }
-  }
+  }*/
 
   & p {
     overflow-wrap: anywhere;
@@ -261,18 +262,16 @@ sup > a {
   }
 }
 
-a {
+/*a {
   font-size: 1em;
-  /*font-weight: 700;*/
-  /*text-decoration: none;*/
-  /*color: var(--secondary);*/
-  border-bottom: 1px solid var(--primary);
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--secondary);
   transition: all 0.2s ease;
   &:hover {
-    /*color: var(--tertiary) !important;*/
-    border-bottom: 2px solid var(--primary) !important;
+    color: var(--tertiary) !important;
   }
-}
+}*/
 
 pre {
   font-family: var(--font-mono);
