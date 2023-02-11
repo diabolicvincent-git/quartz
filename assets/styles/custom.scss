@@ -6,7 +6,7 @@
   --secondary: #284b63;
   --tertiary: #84a59d;
   --visited: #afbfc9;
-  --primary: #f28482;
+  --primary: #d90368; /*#f28482;*/
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
@@ -20,7 +20,7 @@
   --secondary: #6b879a !important;
   --visited: #4a575e !important;
   --tertiary: #84a59d !important;
-  --primary: #f58382 !important;
+  --primary: #d90368 !important; /*#f58382 !important;*/
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
@@ -28,7 +28,7 @@
 }
 
 strong{
-  color: #d90368 !important;
+  color: var(--primary) !important;
 }
 
 .tags{
@@ -42,25 +42,24 @@ blockquote{
 
 /*=== LINKS ===*/
 
-a:-webkit-any-link{
+a:-webkit-any-link, a{
   text-decoration: none !important;
-}
-
-a.internal-link{
   font-family: var(--font-body);
   font-weight: revert;
   margin: revert;
   padding: revert;
+  color: var(--gray) !important;
+}
+
+a.internal-link, .tags a{
   border-bottom: 1px solid var(--gray) !important;
   background: inital !important;
-  color: var(--gray) !important;
 
   &:hover {
-    color: var(--primary);
     border-bottom: 3px solid var(--primary) !important;
   }
 }
 
-strong a{
-  color: #d90368 !important;
+strong a.internal-link{
+  color: var(--primary) !important;
 }
