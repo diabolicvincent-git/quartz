@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Anästhesie, Art/Pathologie]
 title: Verbrennung
 ---
-### Verbrennung
 - **Ätiologie**:: Übermäßige Hitzeeinwirkung
 	- *Sonderfall:* Verätzung
 - **Pathophysiologie**:: Hitze → [[Nekrose]] der [[Haut]] → Kapillarschädigung, Permeabilität↑ → [[Ödeme]], Mikrozirkulationsstörung, [[HZV]]↓, Ischämie → Lactat↑, metabolische Azidose → Volumenmangelschock

@@ -25,7 +25,7 @@ title: Häm
     2. 8 δ-ALA → 4 Porphobilinogen → Porphyrinringsystem (Cytoplasma)
     3. Porphyrinringsystem + Fe2+ → Häm
 - **Schlüsselenzym**:: δ-ALA-Synthase
-    - Cofaktor: [[Vitamin B6]] / [[PALP]]
+    - Cofaktor: [[Vitamin B6 (PALP)]] / [[PALP]]
     - Geschwindigkeitsbestimmend
     - Endprodukthemmung durch Häm (Bindung an [[mRNA]] der δ-ALA-Synthase)
 
@@ -50,7 +50,7 @@ title: Häm
 ![[Porphyrie]]
 
 ### Unterfunktion der δ-ALA-Synthase
-- Unterfunktion der δ-ALA-Synthase: Bleivergiftung (Ersatz des Zinks im [[Enzyme]]),[[Vitamin B6]]-Mangel, Genmutation
+- Unterfunktion der δ-ALA-Synthase: Bleivergiftung (Ersatz des Zinks im [[Enzyme]]),[[Vitamin B6 (PALP)]]-Mangel, Genmutation
 
 ### M. Günther
 - M. Günther (sehr selten): Photodermatose, Erythrodontie, Mutilisationen (vgl. Graf Dracula)

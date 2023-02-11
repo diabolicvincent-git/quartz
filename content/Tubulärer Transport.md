@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Physiologie]
 title: Tubulärer Transport
 ---
-### Tubulärer Transport 
 - **[[Proximales Nephron]]**:: *Massenrückresorption*
 	- [[Na+]] Symporter, Lumenpositives Potential, Solvent Drag)
 - **[[Henle-Schleife]]**:: *[[Harnkonzentrierung]]*

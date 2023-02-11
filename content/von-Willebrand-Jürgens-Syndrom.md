@@ -2,8 +2,7 @@
 tags: [Modul/m08, Modul/m17, Art/Pathologie, Fach/Hämatologie, Art/Pathologie]
 title: von-Willebrand-Jürgens-Syndrom
 ---
-### von-Willebrand-Jürgens-Syndrom / vWS 
-> Häufigste angeborene [[Blutungsneigung]]: Blutungssymptome + quantitativer/qualitativer [[vWF]]-Mangel
+> (Abstract::**[[vWF]]-Mangel.** Häufigste angeborene [[Blutungsneigung]].)
 - **Epidemiologie**:: asymptomatisch 1:100, symptomatisch 1:10.000
 - **Genetik**:: i.d.R. autosomal-dominant
 - **Einteilung**

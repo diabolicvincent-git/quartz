@@ -66,7 +66,7 @@ Tay-Sachs-Disease|α-Hexosaminidase|lysosomale Hydrolyse von N-Acetylglucosiden|
 	- Reduktion von Nahrungsstoffen, aus denen das Substrat gebildet wird (Diät)
 	- Pharmakologische Hemmung anderer [[Enzyme]], die das Ausgangssubstrat bilden
 - **Cofaktor-Zufuhr**
-	- z.B. Biotinidase-Mangel: regeneriert [[Vitamin B7]] nach erfolgter Biotin-abhängiger Carboxylierung (s. [[CO2]]); bei Mangel konstanter [[Vitamin B7|Biotin]]-Verlust (Therapie: [[Vitamin B7|Biotin]]-Zufuhr↑)
+	- z.B. Biotinidase-Mangel: regeneriert [[Vitamin B7 (Biotin)]] nach erfolgter Biotin-abhängiger Carboxylierung (s. [[CO2]]); bei Mangel konstanter [[Vitamin B7 (Biotin)|Biotin]]-Verlust (Therapie: [[Vitamin B7 (Biotin)|Biotin]]-Zufuhr↑)
 - **Bei lysosomalen Enzymdefekten**
 	- Einschleusen rekombinanter nativer [[Enzyme]] per Endocytose
 	- Stammzelltherapie: Übertragen des normalen Enzyms von hämatopoetischen Stammzellen durch [[Zellkontakte|Zell-Kontakt]]

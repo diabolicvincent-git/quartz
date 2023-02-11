@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Rechtsmedizin, Art/Pathologie, Art/Intervention]
 title: Todeszeichen
 ---
-### Todeszeichen
 - **Sichere Todeszeichen** → ==obligatorisch für Todesfeststellung== ([[Leichenschau]])
 	- **Totenflecken / Livores**
 	- **Totenstarre / Rigor mortis**

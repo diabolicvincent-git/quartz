@@ -2,8 +2,7 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Pharmakologie/Medikament]
 title: UFH
 ---
-### Unfraktioniertes [[Heparin]] / UFH
-> Gruppe:: [[Heparin]], [[Antikoagulation]]
+> (Abstract::**Unfraktioniertes [[Heparin]].** Gruppe:: [[Heparin]], [[Antikoagulation]])
 - **Wirkmechanismus**:: Wirksteigerung von Antithrombin (hemmt *Faktor Xa und Faktor IIa*)
 - **HWZ**:: Sehr kurze HWZ
 - **Vorteile**

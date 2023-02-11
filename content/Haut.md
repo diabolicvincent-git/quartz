@@ -3,7 +3,7 @@ tags: [Modul/m09, Fach/Dermatologie, Fach/Anatomie, Fach/Histologie]
 title: Haut
 ---
 ### Haut
-- **Funktion**:: Schutz ([[UV]], [[Immunsystem]]), Sinne (insb. [[Nozizeption]]), Synthese ([[Melanin]], [[Vitamin D]]), Homöostase ([[Volumen]], [[Wärmehaushalt]])
+- **Funktion**:: Schutz ([[UV]], [[Immunsystem]]), Sinne (insb. [[Nozizeption]]), Synthese ([[Melanin]], [[Vitamin D (Calciferol)]]), Homöostase ([[Volumen]], [[Wärmehaushalt]])
 - **Einteilung**
 	- **Felderhaut**:: 95% KOF, mit allen Hautanhangsgebilden
 	- **Leistenhaut**:: Palmar/Plantar, nur Schweißdrüsen

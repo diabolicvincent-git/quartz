@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Allgemeinmedizin, Art/Intervention]
 title: Yellow Flags
 ---
-### Yellow Flags
 > Zeichen der Chronifizierung, insb. im Zusammenhang mit [[Somatisierung]]
 
 - **Psychosoziale Faktoren**:: [[Depression]], Katastrophisierung, überaktives [[Schmerz]]verhalten, Neigung zur [[Somatisierung]], Hoffnungslosigkeit, [[Stress]]

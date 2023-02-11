@@ -19,7 +19,7 @@ title: CKD
 	![[Pasted image 20220426112626.png]]
 	* Zusatz "G5A3D" für Dialyse, "G4A2T" für [[Transplantation]]
 - **Diagnostik**:: Früherkennung! ([[Kreatinin]] 1,2-1,3 = ==G3a==)
-	- **[[Labor]]**:: [[Hb]]↓, [[EPO]]↓, [[K+]]↑, [[Ca2+]], [[Phosphat]]↑, [[Nierenwerte]], [[BGA]], [[Vitamin D]], [[PTH]]
+	- **[[Labor]]**:: [[Hb]]↓, [[EPO]]↓, [[K+]]↑, [[Ca2+]], [[Phosphat]]↑, [[Nierenwerte]], [[BGA]], [[Vitamin D (Calciferol)]], [[PTH]]
 	- ==[[Sonographie]]==, ggf. Biopsie
 - **Therapie**
 	- *Aufrechterhaltung Nierenfunktion*
@@ -30,7 +30,7 @@ title: CKD
 		- Strenge Blutdruckeinstellung, insb. ==[[ACE-Hemmer]]== (nephroprotektiv)
 		- [[Diabetes mellitus]] Therapie, insb. Metformin (nephroprotektiv)
 	- *[[Renale Anämie]]:* ggf. synthetisches [[EPO]], ggf. [[Eisen]]
-	- *[[Renale Osteopathie]]:* Diätische Phosphatrestriktion, Phosphatbindner (Calciumacetat), [[Vitamin D]]-Substitution, ggf. Parathyreodektomie
+	- *[[Renale Osteopathie]]:* Diätische Phosphatrestriktion, Phosphatbindner (Calciumacetat), [[Vitamin D (Calciferol)]]-Substitution, ggf. Parathyreodektomie
 	- [[*Urämie]]:* [[Nierentransplantation]], übergangsweise [[Dialyse]]
 
 [^1]: Ödeme insb. bei Komorbidität mit [[Herzinsuffizienz]]: RR↓ im Vas afferens → Primärharn↓ → [[Schleifendiuretika]] nicht mehr wirksam

@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin D
 ---
-### Vitamin D / Calciferol 
 - **Aktive Form**:: [[Calcitriol]] (1,25-Dihydroxycholecalciferol)
 - **Funktion**:: [[Ca2+]]↑, [[Phosphat]]↑, [[Knochen]]mineralisierung↑ (siehe [[Calcium-Phosphat-Haushalt]])
 - **Löslichkeit**:: fettlöslich

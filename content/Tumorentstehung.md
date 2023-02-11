@@ -2,7 +2,7 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Physiologie]
 title: Tumorentstehung
 ---
-### Tumorentstehung / Karzinogenese
+> (Abstract::Karzinogenese)
 - **Ätiologie**
 	- Genetische Prädisposition (5%)
 	- Spontane [[Mutation]] (15%)

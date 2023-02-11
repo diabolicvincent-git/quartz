@@ -2,7 +2,7 @@
 tags: [Modul/m24, Fach/Infektiologie, Art/Pathologie]
 title: Tollwut
 ---
-### Tollwut / Rabies
+> (Abstract::Auch: Rabies)
 - **Epidemiologie**
 	- DE frei von "klassischer" Tollwut, nur seltene Fledermaus-Tollwut
 	- Weltweit 60.000 Tote/Jahr, v.a. Afrika, Asien

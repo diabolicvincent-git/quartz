@@ -16,5 +16,5 @@ title: Leberinsuffizienz
 - **Metabolismus↓**
 	- [[Gluconeogenese]]↓, [[Glycogen]]speicherung↓ 
 	- Gesteigerte Insulinresistenz → Hepatogener [[Diabetes mellitus]]
-	- Hydroxylierung von [[Vitamin D]]↓ → Sekundärer [[Hyperparathyreoidismus]]
+	- Hydroxylierung von [[Vitamin D (Calciferol)]]↓ → Sekundärer [[Hyperparathyreoidismus]]
 	- Störung des Lipid- und Lipoproteinstoffwechsels

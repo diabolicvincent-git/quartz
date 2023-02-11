@@ -52,7 +52,7 @@ Spinozelluläres BG|zellreich; wenig reticuläre Fasern|Follikelbildung im [[Ova
 
 ## Pathologien
 
-- [[Vitamin C]] Mangel: Skorbut
+- [[Vitamin C (Ascorbinsäure)]] Mangel: Skorbut
 
 ### [[Schwangerschaft]]
 

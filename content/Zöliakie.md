@@ -2,8 +2,7 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: Zöliakie
 ---
-### Zöliakie / Glutensensitive Enteropathie
-> [[Autoimmunität]]/[[Entzündung]] im Darm durch Unverträglichkeit gegen Gliadin-Fraktion des Gluten
+> (Abstract:: **Glutensensitive Enteropathie.** [[Autoimmunität]]/[[Entzündung]] im Darm durch Unverträglichkeit gegen Gliadin-Fraktion des Gluten.)
 - **Ätiologie**:: Genetische Voraussetzung [[HLA]]-DQ2/-DQ8
 - **Symptome**
 	- *Allgemein:* Appetit↓, Müdigkeit

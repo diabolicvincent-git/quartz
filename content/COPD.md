@@ -40,7 +40,7 @@ title: COPD
 ### Allgemeine Therapie
 - **Lebensstiländerung**:: Rauchentwöhnung, Körperliche Aktivität, Reha-Maßnahmen
 - Patientenschulung zu Atemtraining (z.B. Lippenbremse)
-- *Osteoporoseprophylaxe* mit [[Vitamin D]]3 und [[Ca2+]]
+- *Osteoporoseprophylaxe* mit [[Vitamin D (Calciferol)]]3 und [[Ca2+]]
 ### Medikamentäse Therapie
 - **[[Bedarfsmedikation]]**:: kurzwirksame [[β2-Sympathomimetika]] und/oder [[Anticholinergika]]
 - **>GOLD2**:: Dauermedikation mit langwirksamen [[β2-Sympathomimetika]] ***oder*** [[Anticholinergika]]

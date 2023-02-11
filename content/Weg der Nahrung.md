@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie, Fach/Physiologie]
 title: Weg der Nahrung
 ---
-### Weg der Nahrung
 > [[Verdauung]]
 - **Kopfdarm**
 	- **Mundhöhle / Cavum oris**:: Durchmischung mit [[Speichel]], Zerkleinern der Nahrung

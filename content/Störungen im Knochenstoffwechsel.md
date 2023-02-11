@@ -3,7 +3,7 @@ title: Störungen im Knochenstoffwechsel
 ---
 ![[Untitled 106.png]]
 
-## am Beispiel ausgewählter Erkrankungen (primärer und sekundärer [[Hyperparathyreoidismus]], familiäre hypokalzurische Hyperkalzämie,[[Vitamin D]]-Mangel) prinzipielle Mechanismen von Störungen des [[Knochen]]- und Kalziumstoffwechsels erklären
+## am Beispiel ausgewählter Erkrankungen (primärer und sekundärer [[Hyperparathyreoidismus]], familiäre hypokalzurische Hyperkalzämie,[[Vitamin D (Calciferol)]]-Mangel) prinzipielle Mechanismen von Störungen des [[Knochen]]- und Kalziumstoffwechsels erklären
 
 Calcium-[[Kreatinin]]-Clearance-Quotient(?)
 
@@ -45,7 +45,7 @@ Calcium-[[Kreatinin]]-Clearance-Quotient(?)
 - **Therapieansätze**
     - **In Zulassung**:: Sclerostin-Ak (Romosozunab; NW Herzprobleme?)
     - **DVO Leitlinie**
-        - Versorgung mit Ca und[[Vitamin D]] sicher stellen
+        - Versorgung mit Ca und[[Vitamin D (Calciferol)]] sicher stellen
         - Bisphosphonate (Alendronat; gastrointestinale Beschwerden, Kiefernekrosen)
         - Strontiumranelat (Protelos; Embolien, kardiale Ereignisse, Durchfall)
         - Selektive Östrogenrezeptor-Modulatoren (Bazedoxifen)

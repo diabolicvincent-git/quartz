@@ -2,8 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Tremor
 ---
-#### Tremor 
-> Rhythmische, sinusoidale Bewegungsmuster
+> (Abstract::Rhythmische, sinusoidale Bewegungsmuster)
 - **Beschreibung**
 	- **[[Ruhetremor]]**:: z.B. bei [[Parkinson-Syndrom]]
 	- **[[Haltetremor]]**

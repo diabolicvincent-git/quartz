@@ -2,8 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Wernicke-Encephalopathie
 ---
-### Wernicke-Encephalopathie
-- **Ätiologie**:: ==[[Vitamin B1]]-Mangel== (Mangelernährung, [[Alkohol]] u.a. Suchterkrankungen, [[Malabsorption]])
+- **Ätiologie**:: ==[[Vitamin B1 (Thiamin)]]-Mangel== (Mangelernährung, [[Alkohol]] u.a. Suchterkrankungen, [[Malabsorption]])
 - **Symptome**
 	- Desorientierheit, kognitive Defizite, [[Vigilanzminderung]][^1]
 	- Okulomotorikstörung[^2] ([[Nystagmus]], Abduzensparese, Ophthalmoplegie, Pupillenstörung)
@@ -11,7 +10,7 @@ title: Wernicke-Encephalopathie
 	- Autonome Dysregulation[^4] ([[Hypothermie]], [[Hypotonie]])
 - **Komplikationen**:: *Korsakow-Syndrom* (dauerhafte Defizite)
 - **DD**:: [[ICB]]/[[Stroke]], [[Encephalitis]], Osmotische Myelinolyse, Miller-Fisher-Syndrom
-- **Therapie**:: ==[[Vitamin B1]] (Thiamin) hochdosiert [[i.v.]]==
+- **Therapie**:: ==[[Vitamin B1 (Thiamin)]] (Thiamin) hochdosiert [[i.v.]]==
 
 
 [^1]: Bei [[Thalamus]]-Läsion

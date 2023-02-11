@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Neurologie, Fach/Pharmakologie/Medikament]
 title: Triptane
 ---
-### Triptane
 - **Indikation**:: Schwere [[Migräne]]
 - **Wirkmechanismus**:: 5-HT1-Rezeptor-Agonist → hemmt perivaskuläre Entzündung + Vasokonstriktion an Dura-Arterien
 - **UAW**:: Passagere [[Hypertonie]], Myokardinfarkt (selten), Extremitäten-Parästhesien, Schwindel, Flush, [[Kopfschmerzen]] bei häufiger Anwendung

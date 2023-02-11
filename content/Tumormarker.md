@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Art/Intervention, Fach/Laboratoriumsmedizin]
 title: Tumormarker
 ---
-### Tumormarker
 > v.a. Verlaufsparamter
 - **α-Fetoprotein / AFP**:: [[HCC]], Keimzelltumore
 - **[[β-HCG]]**:: Keimzelltumore, DD [[Schwangerschaft]]

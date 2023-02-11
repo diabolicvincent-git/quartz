@@ -83,7 +83,7 @@ Zweifaches Signal: *RANKL* & *M-CSF* im Verhältnis zu Gegenspieler *OPG*
             - **Wirkung in der [[Niere]]**:: [[Ca2+]] und [[Phosphat]] Rückresorption
         - **[[Calcitonin]]**
 
-### die Schritte der endogenen Calcitriolsynthese (1,25 (OH)2 Cholecalciferol) und deren Lokalisation und Regulation beschreiben sowie erklären, warum eine alimentäre Zufuhr von [[Vitamin D]] trotz der endogenen Synthesemöglichkeit bedeutsam ist
+### die Schritte der endogenen Calcitriolsynthese (1,25 (OH)2 Cholecalciferol) und deren Lokalisation und Regulation beschreiben sowie erklären, warum eine alimentäre Zufuhr von [[Vitamin D (Calciferol)]] trotz der endogenen Synthesemöglichkeit bedeutsam ist
 
 ### die Abhängigkeit des Knochenumbaus vom Kalziumhaushalt darlegen können.
 

@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Laboratoriumsmedizin, Fach/Gynäkologie, Art/Intervention, Fach/Biochemie/Molekül]
 title: β-HCG
 ---
-### β-HCG / Humanes Choriongonadotropin
-> "Schwangerschaftshormon"
+> (Abstract::**Humanes Choriongonadotropin.** "Schwangerschaftshormon".)
 - **Synthese**:: In der ==[[Schwangerschaft]]== vom Syncytiotrophoblast der [[Plazenta]]
 	- **Struktur**:: Peptidhormon mit 2 UE (α-UE ist identisch für hCG, [[FSH]], [[TSH]], [[LH]])
 - **Wirkmechanismus**:: Bindung an [[LH]]-Rezeptor

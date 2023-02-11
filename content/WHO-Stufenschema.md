@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Anästhesie, Art/Intervention]
 title: WHO-Stufenschema
 ---
-### WHO-Stufenschema
 - ==**Stufe I**:: *[[Nicht-Opioid-Analgetika]]*== ([[NSAR]], [[Metamizol]], [[Paracetamol]])
 - ==**Stufe II**:: I + *Schwache [[Opioide]]*== (z.B. Tilidin+[[Naloxon]]; Tramadol)
 - ==**Stufe III**:: I + *Starke [[Opioide]]*== (z.B. [[Morphin]], Hydromorphon, Oxycodon, Fentanyl)
@@ -12,7 +11,3 @@ title: WHO-Stufenschema
 	- *[[Co-Analgetika]]* (u.a. [[Antidepressiva]], [[Antikonvulsiva]])
 	- *[[Bedarfsmedikation]]*
 	- *Nicht-medikamentös* (Physiotherapie, [[Psychotherapie]])
-
-## Stufe I
-## Stufe II
-## Stufe III

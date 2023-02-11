@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie, Fach/Genetik]
 title: α1-Antitrypsin-Mangel
 ---
-### α1-Antitrypsin-Mangel
 - Gendefekt (ausgeprägter Polymorphismus; autosomal rezessiv)
 - **Folgen**
 	- Genetisch prädisponierender Faktor u.a. für [[COPD]]

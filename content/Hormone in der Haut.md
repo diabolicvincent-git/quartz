@@ -58,7 +58,7 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
 
 - **Wirkung** v.a. an Keratinocyten, Talgzellen, Melanocyten, Dermalen Fibroblasten und Endothelzellen
     - Wachstum, Differenzierung, Erhalt des epithelialen Gewebes
-    - Stärkere Wirkung auf Keratinocyten als [[Vitamin D]]
+    - Stärkere Wirkung auf Keratinocyten als [[Vitamin D (Calciferol)]]
         - RAR vermittelt Proliferation
         - RXR beeinflusst Differenzierung
     - Kollagenproduktion durch Fibroblasten

@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie, Art/Pathologie]
 title: Ventrikuläre Tachykardie
 ---
-### Ventrikuläre [[Tachykardie]] / VT
 > [[Tachykardie]] [[HRST]] mit ≥3 Kammerkomplexen
 - **Ätiologie**:: [[KHK]], [[ACS]], [[Herzinsuffizienz]], [[Vitien]], [[Kardiomyopathie]], [[Elektrolytstörungen]]
 - **Pathophysiologie**

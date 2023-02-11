@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament]
 title: β-Lactam-Antibiotika
 ---
-### β-Lactam-[[Antibiotika]]
 - **Wirkmechanismus**:: Störung der Zellwandsynthese (Hemmung von *Transpeptidasen*[^1])
 - **Wirkstoffe**
 	- [[Penicilline]]

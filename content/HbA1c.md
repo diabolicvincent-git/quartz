@@ -9,7 +9,7 @@ title: HbA1c
 - **Einflussgrößen**
 	- Schwankung der HbA-Konzentration (z.B. Höhe, [[Hämolyse]])
 	- Vermehrte Erythropoese (z.B. [[Blutung]], [[Anämie]])
-	- [[Vitamin C]]-/[[Vitamin E]]-Dauertherapie inhibiert Glycierung
+	- [[Vitamin C (Ascorbinsäure)]]-/[[Vitamin E (Tocopherol)]]-Dauertherapie inhibiert Glycierung
 	- Falsch-hohe Werte bei einigen [[Antibiotika]], Hochdosis-[[ASS]], [[CKD]], [[Alkohol]]
 	- Pathologische [[Hb]]-Varianten werden u.U. nicht gemessen
 - **Messung**

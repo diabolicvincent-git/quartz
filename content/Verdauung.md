@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Verdauung
 ---
-### Verdauung
 > Siehe auch [[Weg der Nahrung]], [[Malabsorption]]
 
 | Stoff             | Verdauung                                                                                                                       | Resorption                                                                                                                                                                                                                                        |     |

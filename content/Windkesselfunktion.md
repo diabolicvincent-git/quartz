@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Windkesselfunktion
 ---
-### Windkesselfunktion
 > Temporäre Speicherung eines Teils der in der [[Systole]] vom [[Herz]] ausgeworfenen Energie in den elastischen Fasern herznaher [[Gefäße]] (diastolischer art. [[Blutdruck]] auf Höhe des diastolischen Ventrikeldrucks gehalten)
 - **Funktion**:: Umwandlung des pulsatilen (*diskontinuierlichen*) in einen gleichmäßigen (*kontinuierlichen*) Blutfluss
 - **Ablauf**

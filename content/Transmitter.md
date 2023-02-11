@@ -2,7 +2,6 @@
 tags: [Modul/m15, Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Neurologie, Fach/Biochemie/Transmitter]
 title: Transmitter
 ---
-### Neurotransmitter 
 - **PNS**
 	- **[[ACh]]**
 		- *Nicotinerge [[ACh]]-[[Rezeptor]]* (*ionotrop*, Ganglien, muskuläre Endplatte)

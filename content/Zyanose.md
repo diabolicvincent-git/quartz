@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie]
 title: Zyanose
 ---
-### Zyanose
 > [[SpO2]]↓ → Blaufärbung der Haut/Schleimhaut[^1]
 - ==**Periphere Zyanose**:: O2-Ausschöpfung↑oder Perfusion↓== (z.B. [[Herzinsuffizienz]], [[Schock]], [[Thrombose]], [[Vasokonstriktion]], [[Raynaud-Syndrom]])
 - ==**Zentrale Zyanose**:: [[Blut]]-Oxygenierung↓== (z.B. [[Lungenemphysem]], [[COPD]], Rechts-Links-Shunt)

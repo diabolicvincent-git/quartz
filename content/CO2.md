@@ -31,7 +31,7 @@ title: CO2
 ## CO2-Fixierung
 > Fixierung von CO2 biotinabhängig oder -unabhängig in Carbocylierungsreaktionen → wichtig für anabole Synthese
 
-![[Vitamin B7]]
+![[Vitamin B7 (Biotin)]]
 
 ### Biotin-abhängige Carboxylierung
 - **Pyruvat-Carboxylase**:: Pyruvat → Oxalacetat ([[Citratzyklus]]-Anaplerose und [[Gluconeogenese]])

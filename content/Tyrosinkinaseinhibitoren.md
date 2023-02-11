@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Pharmakologie/Medikament]
 title: Tyrosinkinaseinhibitoren
 ---
-### Tyrosinkinaseinhibitoren / TKI
 - **Wirkmechanismus**:: Hemmung [[Rezeptor-Tyrosinkinasen]] (z.B. [[EGF]]-/[[VEGF]]-[[Rezeptor]]) → [[Signaltransduktion]]↓ → [[Tumor]]wachstum↓ 
 - **Indikation**
 	- **[[Malignom]]**:: [[CML]], [[NSCLC]], [[Mamma-Ca]] (bei [[Mutation]]snachweis)

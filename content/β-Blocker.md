@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: β-Blocker
 ---
-### β-Blocker
 - **Wirkung**
 	- *[[Herz]]* (negativ [[inotrop]], [[dromotrop]], [[chronotrop]]) → [[RR]]↓, antiischämisch ([[O2]]-Verbrauch↓)
 	- *Niere* ([[RAAS]]↓ → [[RR]]↓), *Fett* (Lipolyse↓)

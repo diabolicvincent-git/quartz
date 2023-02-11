@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: Tumortherapie
 ---
-### Antineoplastische Therapie / Tumortherapie
 - **Zielsetzung**
 	- **Kurativ**:: Heilung
 	- **[[Palliativ]]**:: Beschwerden↓, Lebensqualität↑ 

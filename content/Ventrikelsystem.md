@@ -12,7 +12,7 @@ title: Ventrikelsystem
 	- [[Plexus chorioideus]] in [[Seitenventrikel]] und [[Ventrikel IV]]
 	- [[Aquaeductus mesencephali]] zwischen [[Ventrikel III]] und [[Ventrikel IV]]
 
-### Abbildung
+---
 ![[Pasted image 20210329093938.png]]
 
 ## Anteile

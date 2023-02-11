@@ -3,7 +3,7 @@ tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Nephrologie, Fach/Bioch
 title: Calcitriol
 ---
 ### Calcitriol
-> Aktiviertes [[Vitamin D]]
+> Aktiviertes [[Vitamin D (Calciferol)]]
 ### Synthese
 - Geschwindigkeitsbestimmend: *Spaltung durch [[UV]]-Licht* in der [[Haut]] und *1α-Hydroxylase* in der [[Niere]]
 	- Aktivierung: [[PTH]], [[Östrogene]], [[Ca2+]]↓, [[Phosphat]]↓

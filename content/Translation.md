@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie, Fach/Genetik]
 title: Translation
 ---
-### Translation
 **Grundlegendes**
 
 - **Translation**:: Übersetzung Basen- →[[AS]]-Sequenz

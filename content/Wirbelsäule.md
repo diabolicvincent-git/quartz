@@ -2,7 +2,6 @@
 tags: [Modul/m10, Fach/Orthopädie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Wirbelsäule
 ---
-### Wirbelsäule
 - **Funktion**
 	- *Dynamische Funktion:* Beweglichkeit nimmt von kranial → kaudal ab
 	- *Statische Funktion:* Stabilität nimmt von kranial → kaudal zu ([[Wirbel]] werden größer)

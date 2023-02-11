@@ -54,7 +54,7 @@ title: Urindiagnostik
     - **Referenzbereich**:: <5 [[Erythrocyten]]/uL, <0,2 mg/dl
     - **Positiv bei**:: Erkrankungen der [[Niere]] und Harnwege, z.B. [[HWI]], [[Nephritis]], Trauma, Steinleiden, [[Tumor]]
     - **Anmerkung**:: Getrennte Farbskalen [[Hb]] (gelichmäßig) und [[Erythrocyten]] (gepunktet)
-    - **Störfaktoren**:: Große Mengen [[Vitamin C]] → falsch negativ
+    - **Störfaktoren**:: Große Mengen [[Vitamin C (Ascorbinsäure)]] → falsch negativ
 - **Urobilinogen**
     - **Testprinzip**:: + Diazoniumsalz + saurer [[pH]] = roter Farbstoff
     - **Referenzbereich**:: 0,2-1 mg/dl
@@ -86,7 +86,7 @@ title: Urindiagnostik
     - **Referenzbereich**:: <5 mg/dl
     - **Positiv bei**:: Diabetische Stoffwechseldekompensation, Nulldiät, [[Fieber]]
     - **Anmerkungen**:: Bestandteil der Selbstkontrolle von Diabetikern neben [[Glucose]]
-- **[[Vitamin C]]**
+- **[[Vitamin C (Ascorbinsäure)]]**
     - **Testprinzip**:: Entfärbung der Tillmans-Reagenz von blau nach rot
     - **Referenzbereich**:: nicht pathologisch
     - **Positiv bei**:: Indiz für falsch-negative Ergebnisse
@@ -240,13 +240,13 @@ title: Urindiagnostik
 
 ### Glucosurie
 
-*Nachweis von [[Glucose]] bei viel [[Vitamin C]] unterdrückt*
+*Nachweis von [[Glucose]] bei viel [[Vitamin C (Ascorbinsäure)]] unterdrückt*
 
 - **[[Diabetes mellitus]] mellitus** → Glucosurie (Überschreiten von 10 mmol/l), Nephropathie (nicht-entzündliche, irreversible Nierenschädigung), Ketoazidose mit Ketonurie
 - **[[Cushing-Syndrom]]** → Rückresorptionsschwelle im proximalen Tubulus gesenkt
 - **Gestationsdiabetes →** erhöhter Insulinbedarf ab SSW20 (s. DM)
 
-### die Störung des Glucosenachweises im Urin mit einem Urin- Teststreifen (Urinstix) durch [[Vitamin C]] begründen
+### die Störung des Glucosenachweises im Urin mit einem Urin- Teststreifen (Urinstix) durch [[Vitamin C (Ascorbinsäure)]] begründen
 
 - **Testprinzip**
     1. [[Glucose]] →[Glucoseoxidase]→ Gluconsäure + H2O2 
@@ -254,8 +254,8 @@ title: Urindiagnostik
 - **Nachweisgrenze**:: 20-30 mg/dL
 - **Falsch-positiv**:: Stark oxidierende Reinigungsmittel in den Gefäßen
 - **Falsch-negativ**
-    - Hohe [[Vitamin C]]-Konzentration >500 mg/dL
-        - Nicht-oxidierte [[Vitamin C]] = Reduktionsmittel (kann TMB wieder zur farblosen Variante rückreduzieren)
+    - Hohe [[Vitamin C (Ascorbinsäure)]]-Konzentration >500 mg/dL
+        - Nicht-oxidierte [[Vitamin C (Ascorbinsäure)]] = Reduktionsmittel (kann TMB wieder zur farblosen Variante rückreduzieren)
     - Hohe Ketonkörper-Konzentration
     - [[Hypoglycämie]] bei Diabetikern
 

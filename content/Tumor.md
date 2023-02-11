@@ -2,7 +2,6 @@
 tags: [Modul/m20, Art/Pathologie, Fach/Onkologie, Art/Pathologie]
 title: Tumor
 ---
-### Tumor
 > Jede abnormale Gewebe-Größenzunahme ("Schwellung"), vgl. [[Neoplasie]]
 - **Einteilung**
 	- **Nach [[Dignität]]**:: benigne ↔ maligne
@@ -10,7 +9,7 @@ title: Tumor
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Ursprungsgewebe, Benigne, Maligne
-FROM #f/🔬/Gewebe 
+FROM #Fach/Histologie/Gewebe
 ```
 
 

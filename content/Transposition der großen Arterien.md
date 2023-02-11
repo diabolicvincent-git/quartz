@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Transposition der großen Arterien
 ---
-### Transposition der großen Arterien / TGA
 > **[[Herzfehler]]**:: [[Aorta]] + [[Truncus pulmonalis]] Abgänge vertauscht
 - **Pathophysiologie**
 	- Großer Kreislauf & kleiner Kreislauf vollständig voneinander getrennt

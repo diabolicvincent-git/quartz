@@ -8,11 +8,11 @@ title: Malassimilation
 	- *Allgemein:* [[Gewichtsverlust]], Lethargie, Gedeihstörung
 	- *[[Proteine]]* → [[Ödeme]], [[Kachexie]]
 	- *[[Vitamin A]]* → Nachtblindheit, trockene Haut
-	- *[[Vitamin D]]* → [[Osteomalazie]]
-	- *[[Vitamin E]]* → [[Hämolyse]]
+	- *[[Vitamin D (Calciferol)]]* → [[Osteomalazie]]
+	- *[[Vitamin E (Tocopherol)]]* → [[Hämolyse]]
 	- *[[Vitamin K]]* → [[Blutungsneigung]]
-	- *[[Vitamin B1]]* → Beri-Beri-Krankheit, [[Polyneuropathie]]
-	- *[[Vitamin B6]]* → [[Polyneuropathie]]
+	- *[[Vitamin B1 (Thiamin)]]* → Beri-Beri-Krankheit, [[Polyneuropathie]]
+	- *[[Vitamin B6 (PALP)]]* → [[Polyneuropathie]]
 	- *[[Folsäure]]* → Megaloblastäre Anämie, Neuralrohrdefekte, PNP
 	- *[[Vitamin B12 (Cobalamin)]]* → Perniziöse Anämie, Funikuläre Myelose, PNP
 	- *[[Ca2+]]* → Muskelerregbarkeit↑, Tetanie, [[Osteoporose]]

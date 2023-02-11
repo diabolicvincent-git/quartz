@@ -2,7 +2,6 @@
 tags: [Modul/m00, Fach/Toxikologie, Art/Pathologie]
 title: Toxidrome
 ---
-### Toxikologische Syndrome / Toxidrome 
 - [[Anticholinerges Syndrom]]
 - [[Cholinerges Syndrom]]
 - [[Halluzinogenes Syndrom]]

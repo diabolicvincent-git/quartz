@@ -7,7 +7,7 @@ title: Pentosephosphatweg
 - **Ziel**:: Bildung von ==NADPH+H+== ([[Antioxidative Schutzsysteme]], Anabolismus) und Pentosen ([[DNA]]-Synthese)
 - **Ort**:: Cytosol aller [[Zellen]] (insb. [[NNR]], [[Leber]])
 - **Schlüsselenzym**:: ==Glucose-6-phosphat-Dehydrogenase / G6PD==
-	- **Coenzym**:: [[Vitamin B1]]
+	- **Coenzym**:: [[Vitamin B1 (Thiamin)]]
 - **Pathologien**:: [[G6PD-Mangel]]
 - **Ablauf**
 	- *Oxidative Phase:* Glucose → Ribulose-5-phosphat + 2 NADPH+H+

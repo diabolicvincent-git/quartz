@@ -2,7 +2,6 @@
 tags: [Modul/m20]
 title: Verhaltenstherapie
 ---
-### Verhaltenstherapie
 - **Ziel**:: Modifikation dysfunktionaler Kognitionen / Verhaltensweisen
 - **Dauer**:: Bis Erreichen eines konkreten, vereinbarten Behandlungsziels
 - **Techniken**

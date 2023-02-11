@@ -2,7 +2,6 @@
 tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie/Knochen]
 title: Wirbel
 ---
-### Wirbel
 - **Aufbau**
 	- **Corpus vertebrae / Wirbelkörper**:: Tragendes Element, Größe LWK > BWK > HWK
 	- **Arcus vertebrae / Wirbelbogen**

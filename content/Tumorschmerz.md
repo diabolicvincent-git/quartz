@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Onkologie, Art/Pathologie, Fach/Anästhesie]
 title: Tumorschmerz
 ---
-### Tumorschmerz
 - **Epidemiologie**:: Fast alle Pat. mit [[Tumor]]-Erkrankung
 - **Ätiologie**
 	- **[[Tumor]]bedingt**:: Knocheninfiltration, Nervenkompression, Tumornekrose

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Physiologie, Fach/Onkologie]
 title: Tumorstoffwechsel
 ---
-### Tumorstoffwechsel
 - **==Warburg-Effekt==**:: Energiegewinnung trotz [[O2]]-Verfügbarkeit v.a. *anaerobe [[Glycolyse]]* → ==[[Lactat]]↑==
 	- Inaktive, dimere [[Pyruvatdehydrogenase]] ([[Tumor]]-M2-PK)
 	- Rückstau von Metaboliten zur ==Synthese von Bausteinen für Proliferation==

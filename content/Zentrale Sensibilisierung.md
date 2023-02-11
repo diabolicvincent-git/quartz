@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Neurologie, Fach/Anästhesie, Fach/Physiologie]
 title: Zentrale Sensibilisierung
 ---
-### Zentrale Sensibilisierung
 > Chronisches [[Schmerz]][[Gedächtnis]], Sekundäre [[Hyperalgesie]], [[Allodynie]]
 - **Mechanismen**:: [[Langzeitpotenzierung]] ([[Neuroplastizität]])
 	- [[Glutamat]]erge NMDA-[[Rezeptor]]en[^1], [[Neuropeptide]] (Substanz P, [[CGRP]])

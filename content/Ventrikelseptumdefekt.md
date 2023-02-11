@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Ventrikelseptumdefekt
 ---
-### Ventrikelseptumdefekt / VSD
 - **Epdemiologie**:: Häufigster angeborener [[Herzfehler]] (30%)
 - **Pathophysiologie**:: 
 	- [[Links-rechts-Shunt]] → Lungenperfusion↑, [[Pulmonale Hypertonie]]

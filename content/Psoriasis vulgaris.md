@@ -13,7 +13,7 @@ title: Psoriasis vulgaris
 	- **Nagelbeteiligung**:: Tüpfelnägel, Ölfleck, Dystrophie, Onycholyse
 	- **Pruritus**
 - **Therapie**
-	- **Topisch**:: Rückfettende [[Harnstoff]]-Salicylat-Creme + [[Glucocorticoide]] + [[Vitamin D]] + [[Vitamin A]] + Teerderivate + [[UV]]B-Phottherapie
+	- **Topisch**:: Rückfettende [[Harnstoff]]-Salicylat-Creme + [[Glucocorticoide]] + [[Vitamin D (Calciferol)]] + [[Vitamin A]] + Teerderivate + [[UV]]B-Phottherapie
 
 
 

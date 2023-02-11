@@ -2,8 +2,7 @@
 tags: [Modul/m03, Modul/m17, Fach/Biochemie, Fach/Rechtsmedizin]
 title: Zellschädigung
 ---
-### Zellschädigung 
-> Noxe → [[Zellschädigung]] → Gewebeschädigung → Funktionsstörung → Symptom
+> (Abstract::Noxe → [[Zellschädigung]] → Gewebeschädigung → Funktionsstörung → Symptom)
 - **Exogene Ursachen**
 	- Noxen
 	- Pathogene

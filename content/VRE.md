@@ -2,8 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
 title: VRE
 ---
-### [[Vancomycin]]-resistente Enterokokken
-> Selten; häufigster Erreger *Enterococcus faecium*
+> (Abstract::**[[Vancomycin]]-resistente Enterokokken.** Selten; häufigster Erreger *Enterococcus faecium*.)
 - **Übertragung**:: [[Darmflora]] → 
 - **Risikofaktoren**:: Therapie mit [[Cephalosporine]] (*==Enterokokkenlücke==*)
 - **Erkrankungen**:: [[HWI]], [[Wundinfektion]], abdominelle [[Infektionen]], [[Endokarditis]], selten [[Pneumonie]], [[Sepsis]]

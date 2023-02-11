@@ -31,10 +31,7 @@ title: SAB
 	- **Aneurysmaversorgung** (<72h)
 		- *==Coiling==:* Endovaskuläres Auffüllen des [[Aneurysma]] (kurzlebiger, risikoärmer)
 		- *==Clipping==:* Chirurgischer Metallclip um [[Aneurysma]]-Hals (langlebiger, risikoreicher)
-- **Komplikationen**
-	- [[Hydrocephalus]] (SAB beeinträchtigt [[Liquor]]-Resorption)
-	- [[Vasospasmen]], sekundäre Ischämie (Gipfel 4-14d)
-	- [[HRST]], [[Krampfanfall]], [[Hyponatriämie]], Glaskörperblutung
+- **Komplikationen**:: [[Hydrocephalus]] ([[Liquor]]-Resorption↓), [[Vasospasmen]], sekundäre Ischämie (Gipfel 4-14d), [[HRST]], [[Krampfanfall]], [[Hyponatriämie]], Glaskörperblutung
 - **Prognose**:: 30d-Letalität 50%, oft dauerhafte Behinderung
 
 [^1]: Autoregulation des ICP gestört

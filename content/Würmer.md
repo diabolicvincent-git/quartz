@@ -2,8 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
 title: Würmer
 ---
-### Würmer / Helminthen
-> [[Parasiten]]
+> Auch: Helminthen. [[Parasiten]].
 - **Einteilung**
 	- **Plattwürmer**
 		- **Bandwürmer / Cestoden** (segmentiert; Nomenklatur nach tierischem Wirt)

@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B5
 ---
-### Vitamin B5 / Pantothensäure 
+Panthotensäure
 - **Aktive Form**:: Coenzym A, Phosphopantethein
 - **Funktion**:: Als Coenzym A: Aktivierung von Carbonsäuren, Als Phosphopantethin: Cofaktor der Fettsäuresynthase
 - **Löslichkeit**:: wasserlöslich

@@ -24,4 +24,4 @@ title: Sarkoidose
 	- *Akut:* Nur [[NSAR]], >85% spontanremittierend
 	- *Chronisch:* [[Glucocorticoide]] → + [[Methotrexat]]/[[Azathioprin]] → + TNF-α-Blocker
 
-[^1]: Epitheloidzellen produzieren [[Vitamin D]] → [[Ca2+]]↑ 
+[^1]: Epitheloidzellen produzieren [[Vitamin D (Calciferol)]] → [[Ca2+]]↑ 

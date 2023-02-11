@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Art/Pathologie]
 title: Vitien
 ---
-### Herzklappenvitien
 - **Epidemiologie**:: Mitralklappeninsuffizienz > Aortenklappenstenose > Aortenklappeninsuffizienz
 - **Diagnostik**
 	- **[[Untersuchung Herz]]**:: ==[[Herzgeräusche]]==

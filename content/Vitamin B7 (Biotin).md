@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 title: Vitamin B7
 ---
-### Vitamin B7 / Biotin 
 - **Aktive Form**:: Biotin
 - **Funktion**:: Cofaktor von allen Carboxylierungen, die nicht [[Vitamin K]]-abhängig sind
 - **Löslichkeit**:: wasserlöslich

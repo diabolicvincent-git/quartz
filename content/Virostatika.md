@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament]
 title: Virostatika
 ---
-### Virostatika
 - **Herpes, Varizella-Zoster**
 	- Hemmstoffe der [[Viren]]-Polymerase, Nucleoside (z.B. [[Aciclovir]], Valaciclovir, Famciclovir, Brivudin)
 - **Heptitis-C-Therapeutika** (kurativ)

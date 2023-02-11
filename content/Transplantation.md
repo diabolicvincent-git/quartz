@@ -2,7 +2,6 @@
 tags: [Modul/m26, Art/Intervention, Fach/Chirurgie]
 title: Transplantation
 ---
-### Transplantation
 - **Matching Formen**
 	- **autogen**:: Material vom Patienten selbst (z.B. Haartransplantation, Hauttransplantation)
 	- **isogen**:: Material von genetisch identischer Person

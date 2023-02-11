@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Tuba uterina
 ---
-### Tuba uterina / Eileiter
+> (Abstract::Eileiter)
 - **Funktion**:: Aufnahme, Befruchtungsort, Transport der reifen Eizelle
 - **Lage**:: Paarig, [[intraperitoneal]] im kleinen [[Becken]]
 - **Aufbau**

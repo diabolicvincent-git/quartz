@@ -2,8 +2,7 @@
 tags: [Modul/m19, Fach/Genetik/Gen, Fach/Onkologie, Fach/Genetik]
 title: Tumorsuppressoren
 ---
-### Tumorsuppressorgene
-> Hemmen Proliferation, verhindern [[Tumorentstehung]]
+> (Abstract::Hemmen Proliferation, verhindern [[Tumorentstehung]])
 - Physiologische "Anti-[[Onkogene]]" zur [[Regulation des Zellzyklus]]
 - **[[Mutation]]**:: Funktionsverlust → Ausfall der Zellzykluskontrolle[^1]
 	-  **Beispielpathologien**

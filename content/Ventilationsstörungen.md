@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Ventilationsstörungen
 ---
-### Ventilationsstörungen
 - [[Obstruktive Ventilationsstörung]]
 - [[Restriktive Ventilationsstörung]]
 

@@ -2,7 +2,6 @@
 tags: [Modul/m04, Modul/m05, Fach/Biochemie, Fach/Histologie]
 title: Zellkontakte
 ---
-### Zellkontakte 
 - **Verschlusskontakte**
 	- [[Tight Junction]]
 - **Adhäsionskontakte**

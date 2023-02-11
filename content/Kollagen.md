@@ -10,7 +10,7 @@ title: Kollagen
 	- **[[Kollagen IV]]**:: Netzartig, in reticulären Fasern
 - **[[Kollagensynthese]]**:: Exemplarisch für *sekretorischen Weg*
 	1. **[[Translation]]**, Signalpeptid am rER abgespalten
-	2. **Hydroxylierung** von [[Prolin]]/[[Lysin]] mit Cofaktoren ==[[Vitamin C]]==, [[Eisen]], [[O2]], α-Ketoglutarat
+	2. **Hydroxylierung** von [[Prolin]]/[[Lysin]] mit Cofaktoren ==[[Vitamin C (Ascorbinsäure)]]==, [[Eisen]], [[O2]], α-Ketoglutarat
 	3. **Glycosylierung**
 	4. **Tripelhelix-Bildung**
 	5. **[[Exocytose]]**
@@ -51,12 +51,12 @@ title: Kollagen
 > Tropokollagen (Ø = 15 A) → Mikrofibrillen (Ø = 200 – 400 A) → Fibrillen (Ø = 0,3 – 0,5 um) → Fasern (Ø = 4 – 12 um) → Faserbündel (sichtbar)
 
 1. **[[Translation]]**:: Proteinbiosynthese ins Lumen des rER hinein Signalpeptid (zur Synthese direkt ins rER; wird dann abgespalten); Propeptid (verhindert vorzeitige Zusammenlagerung) → *Prä-Prokollagen*
-2. **Hydroxylierung**:: Anbau v. OH-Gruppen an [[Prolin]]/[[Lysin]] durch [[Vitamin C]]-abhängige Hydroxylasen Cofaktoren: [[Vitamin C]], α-Ketoglutarat, [[Eisen]], [[O2]] Gefahr: Oxidierung Fe2+ zu inaktivem Fe3+; [[Vitamin C]] als Oxidationsschutz & Redukt.-Mittel der Rückreaktion; Sinn: spätere Verknüpfung über H-Brücken und kovalente Bindungen
+2. **Hydroxylierung**:: Anbau v. OH-Gruppen an [[Prolin]]/[[Lysin]] durch [[Vitamin C (Ascorbinsäure)]]-abhängige Hydroxylasen Cofaktoren: [[Vitamin C (Ascorbinsäure)]], α-Ketoglutarat, [[Eisen]], [[O2]] Gefahr: Oxidierung Fe2+ zu inaktivem Fe3+; [[Vitamin C (Ascorbinsäure)]] als Oxidationsschutz & Redukt.-Mittel der Rückreaktion; Sinn: spätere Verknüpfung über H-Brücken und kovalente Bindungen
 3. **O-Glycosylierung**:: Anbau von Polysacchariden durch Mn2+-abhängige Glycosyltransferasen insb. Glycolysierung von Galactose und [[Glucose]] in Kollagen IV (Sinn: Markierung für Exocytose)
 4. **Tripelhelix-Bildung**:: Umeinanderwicklung von je 3 Pro-α-Ketten (C-terminale Disulfidbrücken, dann H-Brücken); Sinn: Voraussetzung für Fibrillogenese→ *Prokollagen (Tripelhelix)*
 5. **Exocytose**:: Vesikuläre Abschnürung des Prokollagens aus Golgi, Freisetzung in [[EZM]]
 6. **Prozessierung**:: Limitierte Proteolyse: Hydrolyse der C- und N-Propeptide durch Propeptidasen → *Tropokollagen*
-7. **Fibrillen-Bildung**:: Zusammenlagerung mehrerer Tropokollagene je um ein Viertel versetzt →        kovalente Verbindung benachbarter Tropokollagene durch Lysyloxidase ([[Vitamin B6]]- und [[Cu2+]]-abh.) mittles Schiff’sche Basen / Aldimin (Hydroxylysin →oxidative Desaminierung → Allysin; reagiert mit Allysin anderer Ketten) → *Kollagenfibrille*
+7. **Fibrillen-Bildung**:: Zusammenlagerung mehrerer Tropokollagene je um ein Viertel versetzt →        kovalente Verbindung benachbarter Tropokollagene durch Lysyloxidase ([[Vitamin B6 (PALP)]]- und [[Cu2+]]-abh.) mittles Schiff’sche Basen / Aldimin (Hydroxylysin →oxidative Desaminierung → Allysin; reagiert mit Allysin anderer Ketten) → *Kollagenfibrille*
 8. **Faserbildung**:: Verbindung mehrerer Fibrillen mit Hilfe matrixspezifischer [[Proteine]] zur Faser → *Kollagenfaser*
 
 

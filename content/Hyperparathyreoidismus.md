@@ -6,7 +6,7 @@ title: Hyperparathyreoidismus
 > [[PTH]]↑↑
 - **Ätiologie**
 	- *Primär:* Überfunktion der [[Nebenschilddrüse]] (oft Adenom) → autonom [[PTH]]↑
-	- *Sekundär:* [[Ca2+]]↓ ([[Vitamin D]] Mangel, ==[[CKD]]==, [[Leberzirrhose]]) → [[PTH]]↑
+	- *Sekundär:* [[Ca2+]]↓ ([[Vitamin D (Calciferol)]] Mangel, ==[[CKD]]==, [[Leberzirrhose]]) → [[PTH]]↑
 - **Symptome**:: *"Stein-, Bein- und Magenpein"* – oft asymptomatisch
 	- *[[Niere]]:* Nephrolithiasis, Nephrocalcinose, [[Hypertonie]], [[Polyurie]], Polydipsie
 	- *[[Knochen]]:* [[Schmerz]], Chondrocalcinose, ==diffuse Osteopenie==
@@ -35,5 +35,5 @@ title: Hyperparathyreoidismus
 	- Aus[[Knochen]] freigesetztes [[Phosphat]] stimuliert weitere [[PTH]]-Freisetzung (Teufelskreis)
 ### Therapie
 - Phosphatarme Diät und ggf. Phosphatbindner (Calciumacetat, Calciumcarbonat)
-- [[Vitamin D]] Substitution
+- [[Vitamin D (Calciferol)]] Substitution
 

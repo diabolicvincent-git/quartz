@@ -2,7 +2,7 @@
 tags: [Modul/m09, Fach/Infektiologie, Fach/Pädiatrie, Fach/Infektiologie/Erreger/Viren]
 title: VZV
 ---
-### Varizella-Zoster-Virus / VZV
+> (Abstract::**Varizella-Zoster-Virus.**)
 
 - **Unterfamilie**:: α-Herpesviridae
 - **Genus**:: Varicellovirus

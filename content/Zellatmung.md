@@ -25,7 +25,7 @@ nicht-respiratorischer [[O2]]-Verbrauch: oxidative Ringspaltungen, Oxygenierunge
 - **Teufelskreis**:: [[Atmungskette]] produziert permanent [[ROS]] → Schädigung von mtDNA und mitochondrialen Membranproteinen/-lipiden (insb. Schädigung von Komponenten der [[Atmungskette]]!)
 - Abbau geschädigter [[Mitochondrien]] in [[Lysosomen]] → Abbauprodukt Lipofuscin ("Alterspigment")
 - **Therapieoptionen**
-    - **Radikalfänger** (wird zunächst selbst zu geringer reaktivem Radikal) z.B. aus [[Vitamin E]], [[Vitamin C]], Polyphenole, Flavonoide (Tee, Schokolade)
+    - **Radikalfänger** (wird zunächst selbst zu geringer reaktivem Radikal) z.B. aus [[Vitamin E (Tocopherol)]], [[Vitamin C (Ascorbinsäure)]], Polyphenole, Flavonoide (Tee, Schokolade)
     - **Kalorische Restriktion** verhindert Überangebot an Redoxäquivalenten und verringert [[ROS]]-Bildung der [[Atmungskette]]
 
 ## Kopplung und Entkopplung von [[Atmungskette]] und oxidativer Phosphorylierung

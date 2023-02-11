@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Radiologie]
 title: β-Strahlung
 ---
-### β-Strahlung
 > Emission eines Elektrons/Positrons: $e^{–}/e^{+}$, Umwandlung eines Nucleons
 - **Massen-/Ordnungszahl**
 	- Neutron → Proton + *Elektron* ($^{A}_{Z}$ → $^{A}_{Z+1}$)

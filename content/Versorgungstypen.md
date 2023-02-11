@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Versorgungstypen
 ---
-### Versorgungstypen 
 - **[[Normalversorgungstyp]] (50%)**:: siehe [[Koronararterien]]
 - **[[Rechtsversorgungstyp]] (25%)**:: [[RCA]] ersetzt posteriore Anteile des [[RCX]]
 - **[[Linksversorgungstyp]] (25%)**:: [[LCA]] gibt auch R. interventricularis posterior ab

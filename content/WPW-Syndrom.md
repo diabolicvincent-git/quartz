@@ -2,8 +2,7 @@
 tags: [Fach/Kardiologie, Art/Pathologie]
 title: WPW-Syndrom
 ---
-### Wolff-Parkinson-White / WPW-Syndrom
-> Akzessorische, schnelle Leitungsbahn ("Kent-Bündel") → [[AVRT]]
+> (Abstract::**Wolff-Parkinson-White-Syndrom.** Akzessorische, schnelle Leitungsbahn ("Kent-Bündel") → [[AVRT]].)
 - **Diagnostik**:: [[EKG]]
 	- *Orthodrome Form*
 		- [[P-Welle]] nach [[QRS]], sonst normal

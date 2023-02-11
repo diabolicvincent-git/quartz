@@ -2,7 +2,6 @@
 tags: [Modul/m03, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
 title: Viren
 ---
-#### Viren
 > Kleine leblose Partikel (20-350 nm), ==obligate [[Parasiten]]==
 - **Aufbau**
 	- **Nucleinsäure**:: [[DNA]] oder [[RNA]], single-strand (ss) oder double-strand (ds)

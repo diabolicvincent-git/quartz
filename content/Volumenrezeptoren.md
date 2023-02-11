@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Nephrologie, Fach/Biochemie/Rezeptor]
 title: Volumenrezeptoren
 ---
-### Volumenrezeptoren
 - **Vorkommen**:: A. pulmonalis, [[Herz]]-Vorhöfe ([[Niederdrucksystem]])
 - **Mechanismus**:: Messen Dehnung von Gefäßwand und [[Myokard]] ("[[Volumenstatus]]")
 - **Wirkung**
