@@ -1,5 +1,5 @@
 ---
-title: Vincent Weber
+title: Vincent\'s Notes
 enableToc: false
 ---
 ## 👋 Hallo. 
