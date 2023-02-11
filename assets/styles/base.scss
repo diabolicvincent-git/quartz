@@ -263,12 +263,14 @@ sup > a {
 
 a {
   font-size: 1em;
-  font-weight: 700;
-  text-decoration: none;
+  /*font-weight: 700;*/
+  /*text-decoration: none;*/
+  /*color: var(--secondary);*/
+  border-bottom: 1px solid var(--primary);
   transition: all 0.2s ease;
-  color: var(--secondary);
   &:hover {
-    color: var(--tertiary) !important;
+    /*color: var(--tertiary) !important;*/
+    border-bottom: 2px solid var(--primary) !important;
   }
 }
 
