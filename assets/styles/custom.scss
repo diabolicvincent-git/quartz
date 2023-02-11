@@ -39,20 +39,28 @@ blockquote{
   font-size: 1.2em;
 }
 
-a, a.internal-link {
+
+/*=== LINKS ===*/
+
+a:-webkit-any-link{
+  text-decoration: none !important;
+}
+
+a.internal-link{
   font-family: var(--font-body);
   font-weight: revert;
-  color: inherit;
   margin: revert;
   padding: revert;
   border-bottom: 1px solid var(--gray) !important;
   background: inital !important;
-  color: initial !important;
-  text-decoration: none !important;
+  color: var(--gray) !important;
 
   &:hover {
     color: var(--primary);
     border-bottom: 3px solid var(--primary) !important;
   }
+}
 
+strong a{
+  color: #d90368 !important;
 }
