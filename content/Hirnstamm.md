@@ -1,9 +1,9 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
-title: Lernziele
+title: Hirnstamm
 ---
 
-### Hirnstamm 
+#### Hirnstamm 
 > Über gesamten Hirnstamm verteilt: *[[Formatio reticularis]]* für lebenswichtige Funktionen und Koordination der [[Hirnnerven]]-Verschaltung
 - **Bestandteile**
 	- [[Mesencephalon]]
@@ -22,7 +22,7 @@ title: Lernziele
 	- Venös: [[Sinus transversus]], [[Sinus petrosus superior]], Vena magna cerebri
 - **[[Hirnstammreflexe]]**:: [[Vestibulookulärer Reflex]], [[Pupillenreflex]], [[Cornealreflex]], Hustenreflex, Würgeflex
 
-## Bestandteile
+### Bestandteile
 ![[Pasted image 20210321131335.png]]
 
 ![[Mesencephalon]]
@@ -33,10 +33,10 @@ title: Lernziele
 
 ![[Pasted image 20210321131405.png]]
 
-## Hirnstamm-übergreifende Anteile
+### Hirnstamm-übergreifende Anteile
 ![[Formatio reticularis]]
 
-### Hirnstammbahnen
+#### Hirnstammbahnen
 - [[Pyramidenbahn]]
 - Corticonucleäre Bahn
 - Corticopontine Bahn
@@ -48,7 +48,7 @@ title: Lernziele
 - Tractus tegmentalis centralis
 
 
-# Lernziele
+## Lernziele
 - die Lage der Kerne der 10 echten [[Hirnnerven]] anhand der Anordnung der funktionellen Kernreihen und der Austrittshöhe der zugehörigen [[Hirnnerven]] herleiten können.
 - die Lage monoaminerger Kerne (Substantia nigra compacta, Locus caeruleus) beschreiben und am anatomischen Präparat oder am Modell oder anhand histologischer Abbildungen oder geeigneter Schemata identifizieren können.
 - den Verlauf der Bahnen des lemniskalen und des sensiblen anterolateralen Systems (z.B. Tr. spinothalamicus lateralis und anterior) und die zugehörigen Sinnesmodalitäten beschreiben können.

@@ -1,33 +1,33 @@
 ---
 tags: [Modul/m08]
-title: Funktion
+title: Gefäße
 ---
-### Gefäße
+#### Gefäße
 - **[[Arterien]]**
 - **[[Venen]]**
 - ([[Lymphgefäße]])
 
 
-# Funktion
+## Funktion
 
 ![[Venen]]
 ![[Arterien]]
 
-# Aufbau
-## Allgemeiner Aufbau
+## Aufbau
+### Allgemeiner Aufbau
 
-### Tunica Intima
+#### Tunica Intima
 - Endothel (platt, einschichtig)
 - Stratum Subendotheliale (v.a. [[EZM]])
 - Membrana Elastica Interna (elastische Fasern)
-### Tunica Media
+#### Tunica Media
 - Muskelschicht (glatte M., [[EZM]])
-### Tunica Adventitia
+#### Tunica Adventitia
 - Lockeres kollagenes [[Bindegewebe]] → Verankerung, Versorgung mit Nerven, Lymphe, Vasa Vasorum
 
-## Abbildung
+### Abbildung
 ![[Untitled 42.png]]
 
-## Besonderheiten
+### Besonderheiten
 ![[Arterien]]
 ![[Venen]]

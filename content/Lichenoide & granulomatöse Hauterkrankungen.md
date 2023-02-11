@@ -1,7 +1,7 @@
 ---
-title: die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
+title: Lichenoide & granulomatöse Hauterkrankungen
 ---
-# die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
+## die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
 
 - **Endogen**:: Genetische Determinante der [[Entzündung]]
 - **Exogen**:: Umweltfaktoren als Ursache
@@ -9,7 +9,7 @@ title: die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
 **Häufig**:: Atopisches [[Ekzem]], [[Psoriasis vulgaris]]
 **Selten**:: Lichenoide & granulomatöse Krankheiten
 
-## Lichenoide Dermatosen
+### Lichenoide Dermatosen
 
 - **Def.**:: Erkrankungen mit *[[T-Zellen]]-Infiltrat* an der *dermoepidermalen Junctionszone*, vergleichbar mit Lichen ruber
 - **Beispiele**:: Lichen ruber (Knötchenflechte), Lichen sclerosuset atrophicans, Pityriasislichenoides, Lichenoide Arzneimittelexantheme, Graft-versus-Host-Disease(GvHD)
@@ -25,10 +25,10 @@ title: die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
     - Orale [[Vitamin A]]
     - [[Immunsuppressiva]] (Ciclosporin A, [[Methotrexat]])
 
-# das klinische Bild von entzündlichen Hauterkrankungen (Lichen ruber und lichenoideErkrankungen, [[Sarkoidose]], Granulomaanulare) beschreiben
+## das klinische Bild von entzündlichen Hauterkrankungen (Lichen ruber und lichenoideErkrankungen, [[Sarkoidose]], Granulomaanulare) beschreiben
 
-# Therapieprinzipien entzündlicher Hauterkrankungen (Lichen ruber, Granulomaanulareund [[Sarkoidose]]) darstellen
+## Therapieprinzipien entzündlicher Hauterkrankungen (Lichen ruber, Granulomaanulareund [[Sarkoidose]]) darstellen
 
-# den Begriff des „off-label“ use am Beispiel der Therapie entzündlicher Hauterkrankungen darlegen
+## den Begriff des „off-label“ use am Beispiel der Therapie entzündlicher Hauterkrankungen darlegen
 
 #Modul/m09

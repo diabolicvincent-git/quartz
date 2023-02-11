@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m09, Fach/Dermatologie]
-title: Psoriasisspezifische Phänomene an der Haut
+title: Psoriasis vulgaris
 ---
 > Chronisch-entzündliche, schubweise Hauterkrankung mit genetischer Prädisposition
 - **Epidemiologie**:: 20.-30. LJ (Typ 1, schwer, familiär) bis 40.-60. LJ (Typ 2)
@@ -21,7 +21,7 @@ title: Psoriasisspezifische Phänomene an der Haut
 
 
 ---
-## Anderes
+### Anderes
 - **Epidemiologie**:: 2% Prävalenz in Europa und Nordamerika
     - Mittleres Alter 52 Jahre
     - Chronischer Verlauf
@@ -29,9 +29,9 @@ title: Psoriasisspezifische Phänomene an der Haut
 - **Typ II**:: Später Beginn, sporadisches Auftreten
 - Schlechte Health-Related Quality of Life
 
-# Psoriasisspezifische Phänomene an der Haut
+## Psoriasisspezifische Phänomene an der Haut
 
-# Grundzüge der Immunpathologie der Psoriasis Vulgaris
+## Grundzüge der Immunpathologie der Psoriasis Vulgaris
 
 **Pathogenese**:: Vermittelt durch Aktivierung organbezogener pathogener Immunität → Autoimmunerkrankung
 
@@ -77,7 +77,7 @@ Zusammenspiel *genetischer*, *immunologischer* und *Trigger-Faktoren*
 
     •	Keratinocyten in Läsionen stellen vermehrt [[Cytokine]] und [[Wachstumsfaktoren]] her  Hyperkeratose, Orthoparakeratose und Akanthose
 
-# Typische [[Anamnese]] und charakteristische Befunde der dermatologischen Untersuchung
+## Typische [[Anamnese]] und charakteristische Befunde der dermatologischen Untersuchung
 
 - **Lokalisationen**:: Stirn, [[Ohr]], Epigastrium, Ellenbogen, Hände, Knie, Füße
 - **Klinische Formen der Psoriasis Vulgaris**
@@ -97,7 +97,7 @@ Zusammenspiel *genetischer*, *immunologischer* und *Trigger-Faktoren*
 
 **Systemische Entzündungskrankheit** → Comorbiditäten anderer Organsysteme ([[Metabolisches Syndrom]], [[CED]], [[Depression]])
 
-# Prinzipien der Diagnostik, Therapie und Betreuungskonzepte
+## Prinzipien der Diagnostik, Therapie und Betreuungskonzepte
 
 - Basistherapie: Keratolyse (Schuppung entfernen)
 - **[[UV]]-Phototherapie**

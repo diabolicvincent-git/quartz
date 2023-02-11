@@ -1,5 +1,5 @@
 ---
-title: Reifungsstufen
+title: Erythropoese
 ---
 
 
@@ -11,7 +11,7 @@ title: Reifungsstufen
 - **Notwendige Substanzen**:: [[Eisen]], [[Vitamin B12]], [[Folsäure]], [[Vitamin B6]], [[Vitamin B1]], [[Vitamin B2]], [[EPO]], [[Androgene]], [[T4]], [[Vitamin C]], [[Vitamin E]]
     - Weitere spezielle Faktoren im [[Knochenmark]]: SCF, [[IL]]-3, [[IL-6]], [[IL]]-9, [[IL]]-11, [[IL]]-12, G-CSF, GM-CSF
 
-# Reifungsstufen
+## Reifungsstufen
 
 - **CFUGEMML**:: Colony forming unit (= Stammzellen), potent für Granulo-, Erythro-, Mono-, Megakaryo-, [[Lymphocyten]]
     - Marker: [[CD34]]
@@ -32,7 +32,7 @@ title: Reifungsstufen
     - Kern- und mitochondrienlos; ca. 7,5 μm groß, Volumen ca. 90 fL, verformbar; enthält ca. 30 pg [[Hb]]
     - Mauserung in Milzsinus
 
-# Regulation
+## Regulation
 
 - Beeinflussung der Erythropoese vom spezifischen [[Hormon]] Erythropoetin sowie anderen Hormonen
     - ([[Schilddrüsenhormone]] ([[T3]]/[[T4]]), [[IL]] (z.B. [[IL]]3), Stammzellfaktoren (SCF, Stammzellfaktor), CSF (koloniestimulierender Faktor) und [[Sexualhormone]]([[Testosteron]], [[Östrogene]], [[Progesteron]], etc).

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
-title: Aufbau
+title: Hypothalamus
 ---
-### Hypothalamus 
+#### Hypothalamus 
 > Oberstes Regulationszentrum des vegetativen und endokrinen Systems
 - **Funktion**:: Regulation von [[Wärmehaushalt]], Reproduktion, [[Circadiane Rhythmik]], [[Wachheit]]/[[Schlaf]], Osmolalität, [[Wasserhaushalt]], [[Regulation des Kreislaufs]], [[Energiehaushalt]], [[Stress]]
 	- Steuerung der [[Adenohypophyse]]
@@ -12,34 +12,34 @@ title: Aufbau
 	- *Genetisch:* z.B. Kallmann-Syndrom (Migrationsstörung von GnRH-Neuronen), Pit-1 Mutation ([[GH]], PRL, [[TSH]] Mangel)
 	- *[[Neoplasie]]:* ==[[Hypophysenadenom]]==, Parasellärer Tumor (Meningeom, Germineom), Zysten der Rathkeschen Tasche, Kraniopharyngeom, Harmatom, [[Metastasen]], [[Lymphom]]
 ---
-# Aufbau
-## Rostrale Kerngruppe
-### Ncl. supraopticus
+## Aufbau
+### Rostrale Kerngruppe
+#### Ncl. supraopticus
 - **Funktion**:: Produktion von [[ADH]][^1]
-### Ncl. paraventricularis
+#### Ncl. paraventricularis
 - **Funktion** 
 	- Produktion von [[OXYTOcin]], etwas [[ADH]] und CRH
 	- [[Regulation des Kreislaufs]], [[Regulation der Nahrungsaufnahme]] und des [[Wärmehaushalt]]s
-### Ncl. suprachiasmaticus
+#### Ncl. suprachiasmaticus
 - **Funktion**:: Impulsgeber für [[Circadiane Rhythmik]]
-### Ncll. praeoptici
+#### Ncll. praeoptici
 - **Funktion**:: [[Wärmehaushalt]], [[Sexualstörung]]
-## Intermediäre Kerngruppe
-### Ncl. arcuatus
+### Intermediäre Kerngruppe
+#### Ncl. arcuatus
 - **Funktion**
 	- Produktion von Releasing-Hormonen für die [[Adenohypophyse]] (GnRH, CRH, TRH, [[DOPamin]], [[Somatostatin]]) – siehe [[Hypothalamus-Hypophysen-Achse]]
 	- [[Regulation der Nahrungsaufnahme]]
-### Ncll. tuberales
+#### Ncll. tuberales
 - **Funktion**:: siehe [[Ncl. arcuatus]]
-### Ncl. tuberomamillaris
+#### Ncl. tuberomamillaris
 - *Histaminerge [[Neuron]]* als einziger [[ZNS]]-Kern
 - **Funktion**:: Weckreaktion / [[Circadiane Rhythmik]] (daher [[UAW]] Müdigkeit von Antihistaminika)
-## Posteriore Kerngruppe
-### Ncll. corpora mamillaria
+### Posteriore Kerngruppe
+#### Ncll. corpora mamillaria
 - **Funktion**:: [[Gedächtnis]]bildung, Sexualverhalten
 - Besonders betroffen bei Korsakow-Syndrom (daher Amnesie)
 
-# Funktion
+## Funktion
 > Zahlreiche Faserverbindungen zu anderen Hirnzentren; bildet Releasing-[[Hormon]] für [[Adenohypophyse]] ([[Hypothalamus-Hypophysen-Achse]]) und eigene [[Hormon]]e für die [[Neurohypophyse]]
 - **[[Wärmehaushalt]]**
 - **[[Wasserhaushalt]]-Regulation**

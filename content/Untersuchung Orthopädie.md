@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m10, Fach/Orthopädie, Art/Intervention]
-title: Funktionstests
+title: Untersuchung Orthopädie
 ---
 - **Hilfsmittel**
     - Goniometer (Winkelmesser)
@@ -13,7 +13,7 @@ title: Funktionstests
     5. Aktiver & Passiver ROM (range of motion)
     6. Funktionstests
 
-## Inspektion
+### Inspektion
 
 **Auch bei fokussierter Untersuchung**:: Orientiere Untersuchung der Haltung und der Nachbargelenke
 
@@ -26,7 +26,7 @@ title: Funktionstests
     - Muskelkontur (Asymmetrien, [[Atrophie]])
     - Haltungsbefunde ([[Körperachse]], Beckenstand, Schulterstand, Kyphose, Lordose)
 
-## Palpation
+### Palpation
 
 - Anatomische Orientierung
 - Beschaffenheit
@@ -35,11 +35,11 @@ title: Funktionstests
 - Periphere Durchblutung, Motorik, Sensibilität
 - Druckpunkte, spezifische Strukturen
 
-# Funktionstests
+## Funktionstests
 
 - Standardisiertes Vorgehen: z.B. Schmerztests am Ende
 
-## **ROM (range of motion)**
+### **ROM (range of motion)**
 
 - Aktiv
 - Passiv
@@ -56,7 +56,7 @@ title: Funktionstests
         - ABD/ADD: 45-0-30
         - ARO/IRO: 50-0-40
 
-# Interpretation und Dokumentation
+## Interpretation und Dokumentation
 
-# Ausgewählte Untersuchungstechniken
+## Ausgewählte Untersuchungstechniken
 

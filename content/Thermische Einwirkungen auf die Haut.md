@@ -1,12 +1,12 @@
 ---
 tags: [Modul/m09, Fach/Dermatologie, Fach/Physiologie]
-title: Wärme & Wärmetransport
+title: Thermische Einwirkungen auf die Haut
 ---
 
 
 [[Thermische Schäden]]
 
-# Wärme & Wärmetransport
+## Wärme & Wärmetransport
 
 - **Temperatur T [K]**
     - Kinetische Energie E (0,5mv^2) ~ Temperatur T ~ Geschwindigkeit v
@@ -16,7 +16,7 @@ title: Wärme & Wärmetransport
 - **Spezifische Wärmekapazität**
     - Die Wärmemenge, die einem Körper von 1 kg zugeführt werden muss, um seine Temperatur um 1 °C zu erhöhen
 
-## Wärmeübertragung
+### Wärmeübertragung
 
 **Fourier-Gesetz**:: Die transportierte Wärmemenge ist abhängig von Temperaturdifferenz △T, Querschnittsfläche A, Weg l, Material mit Wärmeleitzahl λ, Zeit t
 
@@ -26,7 +26,7 @@ title: Wärme & Wärmetransport
 - **Evaporation**:: Wärmeverlust durch Verdunstung (z.B. Schweiß)
     - Günstige Eigenschaften des Wassers: Hohe *Wärmekapazität*, hohe *latente Wärme* (aufgenommene Energie, die noch nicht zu Temperaturerhöhung führt), hohe *Wärmeleitfähigkeit*
 
-## Prozesse im menschlichen Körper
+### Prozesse im menschlichen Körper
 
 - **Innerer Wärmestrom**:: Transport von Wärme vom Entstehungsort im Körperkern zur Hautoberfläche via Konduktion & Konvektion
 - **Äußerer Wärmestrom**:: Wärmeaustausch von Hautoberfläche an die Umgebung (Konduktion, Konvektion, Wärmestrahlung und Evaporation)

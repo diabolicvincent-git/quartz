@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m13]
-title: Lernziele
+title: Pulmonale Hypertonie
 ---
-### Pulmonale Hypertonie
+#### Pulmonale Hypertonie
 > ∅ Lungenarteriendruck >25 mmHg in Ruhe
 - **Ätiologie**
 	- *Primär:* Idiopathisch, hereditär (z.B. BMPR2-, ALK1-Gen), toxisch (Appetitzügler wie Aminorex, Fenfluramin, verunreinigtes Rapsöl, Amphetamine)
@@ -35,7 +35,7 @@ title: Lernziele
 	- [[Herz]]-[[Lunge]]-[[Transplantation]]
 
 
-# Lernziele
+## Lernziele
 - die Pathogenese einer pulmonalarteriellen Hypertonie erläutern und die Auswirkungen auf Hämodynamik und Gasaustausch beschreiben können. 
 - die bei Patienten/Patientinnen mit pulmonalarterieller Hypertonie zu erwartenden spezifischen Angaben in der [[Anamnese]] und die Befunde bei der körperlichen Untersuchung benennen können.
 - die Grundzüge der medizinischen Diagnostik, Therapie und Betreuung bei Patienten und Patientinnen mit pulmonalarterieller Hypertonie herleiten können.

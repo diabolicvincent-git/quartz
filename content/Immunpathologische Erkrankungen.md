@@ -1,13 +1,13 @@
 ---
 tags: [Modul/m08, Fach/Infektiologie, Art/Pathologie, Fach/Rheumatologie]
-title: Allergien
+title: Immunpathologische Erkrankungen
 ---
-## Klassifizierung immunpathologischer Reaktionen
+### Klassifizierung immunpathologischer Reaktionen
 
 1. **Typ I, II, III**:: [[Antikörper]]-abhängig
 2. **Typ IV**:: [[T-Zellen]]-abhängig
 
-# Allergien
+## Allergien
 
 Übermäßige, inadäquate Immunreaktionen auf nicht infektiöse Fremdkörper
 
@@ -15,7 +15,7 @@ title: Allergien
 2. **Erneuter Allergenkontakt → Sofortreaktion**
     - [[IgE]]-vermittelte [[Histamin]]-Freisetzung aus Mastzellen → Entzündungsreaktion
 
-# Autoimmunerkrankungen
+## Autoimmunerkrankungen
 
 Immunreaktion auf Autoantigene, häufig einhergehend mit Gewebsschädigung
 

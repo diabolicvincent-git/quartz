@@ -1,10 +1,10 @@
 ---
 tags: [Modul/m09, Fach/Dermatologie, Fach/Physiologie]
-title: Stammzellen, Proliferation & Differenzierung
+title: Hautregeneration
 ---
-# Stammzellen, Proliferation & Differenzierung
+## Stammzellen, Proliferation & Differenzierung
 
-## Eigenschaften von Stammzellen
+### Eigenschaften von Stammzellen
 
 **Def. Stammzellen**:: Undifferenzierte Zellen mit hohem Teilungs- und Differenzierungspotential
 
@@ -12,13 +12,13 @@ title: Stammzellen, Proliferation & Differenzierung
 - Fähigkeit zur Selbsterneuerung (Asymmetrische Teilung)
 - Transient amplifizierende Zellen: 2-5 Teilungen bevor terminaler Differenzierung
 
-## Epidermale Stammzellen
+### Epidermale Stammzellen
 
 - *Stammzellen der interfollikulären [[Epidermis]]* (fixiert an [[Basalmembran]] über [[Integrine]]) + *Transient amplifizierende Zellen* + *Postmitotische Zellen* = *Stratum germinativum*
 - *Stammzellen der Haarbalgregion*
 - *Stammzellen der germinalen Haarfollikelmatrix* (können auch interfollikuläre [[Epidermis]] und Schweißdrüsenausführungsgänge bilden)
 
-## Differenzierung von Hautzellen
+### Differenzierung von Hautzellen
 
 3 Signalwege sind für Veränderungen im Genexpressionsmuster von Keratinocyten während der epidermalen Differenzierung hauptsächlich verantwortlich:
 
@@ -30,7 +30,7 @@ title: Stammzellen, Proliferation & Differenzierung
 - **[[Hedgehog]]**
     - Aufhebung der Inhibition des SMO-Signalproteins durch Patched (= [[Hedgehog]]-[[Rezeptor]])
 
-## Morphogengradienten
+### Morphogengradienten
 
 **Def. Morphogengradienten**:: Extrazelluläre Signalmoleküle, die die Struktur und den Differenzierungsgrad von Zielzellen verändern
 
@@ -41,7 +41,7 @@ title: Stammzellen, Proliferation & Differenzierung
 
 ![[Untitled 59.png]]
 
-# Wundheilung
+## Wundheilung
 
 1. **[[Hämostase]]** (erste Stunden)
     - [[Primäre Hämostase]]
@@ -62,7 +62,7 @@ title: Stammzellen, Proliferation & Differenzierung
 5. **Maturation**:: Narbenbildung (bis 1 Jahr)
     - Abnahme von Wassergehalt und Vaskularisierung des Narbengewebes
 
-## Krankheitsbilder
+### Krankheitsbilder
 
 - **Ichthyosis**
     - Verhornungsstörung der Haut (Hypo- bzw. Hyperkeratose)

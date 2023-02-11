@@ -1,11 +1,10 @@
 ---
 tags: [Modul/m16, Fach/HNO]
-title: Ätiologie
+title: Rhinosinusitis
 ---
-### Rhinosinusitis
 > *[[Sinusitis]]* wird oft von *[[Rhinitis]]* begleitet
 
-# Ätiologie
+## Ätiologie
 - **Erreger**:: i.d.R. [[Viren]] (z.B. Rhino-, Corona-, Influenzaviren), selten mit oft schwererem Verlauf [[Bakterien]] (Pneumococcen, [[H. influenzae]])
 - **Risikofaktoren**
 	- **[[Rhinitis]]**:: Fortleitung der Erreger aus Nasenhöhle in [[Nasennebenhöhlen]]
@@ -14,24 +13,24 @@ title: Ätiologie
 - **Prädisposition**:: Allgergische [[Rhinitis]], [[Asthma]] bronchiale, Analgetikaintoleranz
 	- *Samter-Trias:* Syndrom aus [[Asthma]], chronisch-polypäse Rhinosinusitis, Analgetikaintoleranz
 
-# Verlauf
-### Akute Rhinosinusitis
+## Verlauf
+#### Akute Rhinosinusitis
 - ≤12 Wochen (vollständige Symptomfreiheit)
-### Chronische Rhinosinusitis
+#### Chronische Rhinosinusitis
 - ≥12 Wochen (Symptompersistenz)
-# Symptome
+## Symptome
 - **Leitsymptome**:: *Eitriges Nasenlaufen*, *bewegungsabhängige Gesichtsschmerzen* (v.a. beim Beugen nach vorne)
 - Hyposmie, Nasenatmungsbehinderung
 - Reduzierter [[AZ]], ggf. [[Fieber]]
 - Klopfschmerz über [[Sinus maxillaris]] und [[Sinus frontalis]]
-# Diagnostik
+## Diagnostik
 - Akute Rhinosinusitis: i.d.R. klinisch, ggf. Rhinoskopie
 - Chronische Rhinosinusitis: Nasale Endoskopie, [[CT]]
-### Methoden
+#### Methoden
 - Nasenendoskopie: u.U. nasale Polypen (Polyposis nasi)
 - [[CT]]: Verdichtetes Weichteilgewebe
 
-# Therapie
+## Therapie
 - **Akute Rhinosinusitis**
 	- Pflanzliche Sekretolytika
 	- Abschwellende Nasentropfen
@@ -42,7 +41,7 @@ title: Ätiologie
 	- Initial topisch, u.U. später systemische [[Glucocorticoide]]
 	- **Interventionell**:: Endoskopische OP zur Wiederherstellung von mukociliärer Clearance und [[Nasennebenhöhlen]]-[[Ventilation]] (*Cave:* Verletzung [[A. carotis interna]] und [[N. opticus (II)]] möglich)
 
-# Komplikationen
+## Komplikationen
 - **Ausbreitung der eitrigen [[Entzündung]] in benachbarte Strukturen**
 	- [[Orbita]]: Orbitaödem, Orbitaphlegmone
 	- [[Meningitis]]/[[Encephalitis]]

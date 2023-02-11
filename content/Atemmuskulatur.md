@@ -1,34 +1,34 @@
 ---
 tags: [Fach/Pneumologie, Modul/m13]
-title: Inspiration
+title: Atemmuskulatur
 ---
-# Inspiration
+## Inspiration
 
-## Inspiratorische Atemmuskulatur
+### Inspiratorische Atemmuskulatur
 
 - **[[Diaphragma]]**
 - **[[Intercostalmuskulatur]]: Mm. intercostales externi** (Inspiration, Rippenhebung)
     - beginnen hinten früh, hören vorne früh vor [[Knorpel]] auf
 
-## Inspiratorische Atemhilfsmuskulatur
+### Inspiratorische Atemhilfsmuskulatur
 
 - Mm. sternocleidomastoideus
 - Mm. serrati
 - Mm. pectorales
 - Mm. scaleni
 
-# Exspiration
+## Exspiration
 
 - Passive elastische Rückstellkräfte der [[Lunge]]
 
-## Exspiratorische Atemmuskulatur
+### Exspiratorische Atemmuskulatur
 
 - **[[Intercostalmuskulatur]]: Mm. intercostales interni (Exspiration, Rippensenkung)**
     - beginnen hinten spät, hören vorne spät erst am Sternum auf
     - zwischen Rippenknorpeln: Mm. intercartilaginei
     - Abspaltungen: Mm. intercostales intimi, Mm. subcostales (interni, die mal Rippen überspringen)
 
-## Exspiratorische Atemhilfsmuskulatur
+### Exspiratorische Atemhilfsmuskulatur
 
 - **Bauchmuskulatur**:: "Bauchpresse" erhöht Druck im Bauchraum
 

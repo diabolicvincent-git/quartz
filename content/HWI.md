@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m14, Modul/m18, Art/Pathologie]
-title: Ätiologie
+title: HWI
 ---
-### Harnwegsinfektion / HWI
+#### Harnwegsinfektion / HWI
 - **Epidemiologie**:: Zweithäufigste [[Nosokomiale Infektion]]
 - **Ätiologie**
 	- Hauptrisikofaktor *Blasenkatheter*
@@ -13,7 +13,7 @@ title: Ätiologie
 - **Therapie** [[Fosfomycin]] 3 g Einmalgabe
 
 
-# Ätiologie
+## Ätiologie
 - i.d.R. Aszension von Keimen der Darm- oder [[Hautflora]]
 - Selten hämatogene Streuung
 - **Prädisposition**
@@ -24,13 +24,13 @@ title: Ätiologie
 	- Verminderte Urinproduktion bei [[CKD]] oder [[Herzinsuffizienz]]
 	- Weibliches [[Geschlecht]], [[Schwangerschaft]]
 - Postkoitale Keimübertragung aus dem Analbereich ("Honeymoon-Cystitis")
-## Erreger
+### Erreger
 - **Unkomplizierte HWI**:: 75% [[E. coli]], 10% [[Staphylokokken]]
 - **Komplizierte HWI**:: 30% Enterococcen, 20% [[E. coli]], 20% [[Staphylokokken]]
 - [[Pseudomonas aeruginosa]] i.d.R. *[[Nosokomiale Infektion]]*
 - Staph. aureas i.d.R. mit hämatogener Streuung als Ursache
 
-# Unkomplizierte HWI
+## Unkomplizierte HWI
 
 > Gefahr der weiteren Aszension (= *obere/komplizierte Harnwegsinfektion* → Einschwemmung der Pathogene ins [[Blut]] → Uro[[Sepsis]])
 
@@ -43,11 +43,11 @@ title: Ätiologie
 		- Kindliches Alter
 		- [[Schwangerschaft]]
 
-## Symptome
+### Symptome
 - Dysurie, Pollakisurie, Algurie
 - Suprapubische [[Schmerz]] (Nierenlager *nicht* klopfdolent)
 - Übler [[Geruch]] und Trübung des Urins
-## Diagnostik
+### Diagnostik
 - **[[Urindiagnostik]]** im morgendlichen [[Mittelstrahlurin]]
 	- *Leukocyturie* (ohne ist HWI quasi ausgeschlossen)
 	- *Hämaturie*
@@ -57,26 +57,26 @@ title: Ätiologie
 
 ![[Bakteriurie]]
 
-## Therapie
+### Therapie
 - Symptomatische [[Analgesie]]
 - Erhöhte Trinkmenge
 - **Antibiose**
 	- Erste Wahl: *Fosfomycintrometamol* (einmalig als Granulat [[p.o.]])
 	- 25% Spontanremission ohne Antibiose
 
-# Komplizierte HWI
+## Komplizierte HWI
 > Auch: *interstitielle [[Nephritis]]*, *[[Pyelonephritis]]* bzw. *obere HWI*
 
-## Symptome
+### Symptome
 - Flankenschmerz, renaler Klopfschmerz
 - [[Fieber]], Schüttelfrost, Krankheitsgefühl
-## Diagnostik
+### Diagnostik
 - Ggf. zusätzlich [[Sonographie]], [[CT]], Cytoskopie
 
-## Therapie
+### Therapie
 - *[[Fluorchinolone]]* (z.B. [[Ciprofloxacin]], [[Levofloxacin]])
 
-# Lernziele
+## Lernziele
 - die Pathogenese einschließlich prädisponierender und geschlechterspezifischer Faktoren sowie das Erregerspektrum bei unkomplizierter [[Bakterien]] [[Infektionen]] der unteren Harnwege beschreiben können.
 - die bei unkomplizierter [[Bakterien]] [[Infektionen]] der unteren Harnwege zu erwartenden spezifischen Angaben in [[Anamnese]] sowie die spezifischen Befunde bei der körperlichen [[Untersuchung]] benennen und zuordnen können.
 - die Grundzüge der medizinischen Diagnostik, Therapie und Betreuung einer unkomplizierten [[Bakterien]] [[Infektionen]] der unteren Harnwege herleiten können.

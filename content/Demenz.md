@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Fach/Psychiatrie, Art/Pathologie, Modul/m31, Modul/m30]
-title: Ätiologie
+title: Demenz
 ---
 - **Ätiologie**:: Primär neurodegenerativ/vaskulär ↔︎ Sekundär Hirnschädigung
 	- **Primär:** [[Neurodegenerative Erkrankungen]] ([[M. Alzheimer]] (>50%), [[Frontotemporale Demenz]], [[Parkinson-Syndrom]], [[Lewy-Body-Demenz]]), [[Vaskuläre Demenz]]
@@ -26,7 +26,7 @@ FROM #f/🧠/Demenz
 ```
 
 
-### Demenz 
+#### Demenz 
 > *Demenz* ist ein psych. Syndrom – Alzheimer-Demenz ihre häufigste Form
 - **Pathophysiologie**
 	- Hirnatrophie (insb. [[Ncl. basalis Meynert]])
@@ -35,32 +35,32 @@ FROM #f/🧠/Demenz
 	- Immunulogische Veränderungen
 - **DD**:: [[Vitamin B12]] Mangel
 
-### Eintrittsalter
+#### Eintrittsalter
 - **Präsenile Demenz**:: Erstmanifestation <65 Jahre
 - **Senile Demenz**:: Erstmanifestation >65 Jahre
 - Erhöhtes [[Risiko]] bei positiver Familienanamnese für [[Neurodegenerative Erkrankungen]]
 
-# Ätiologie
-## Primäre Demenz
+## Ätiologie
+### Primäre Demenz
 - **Degenerativ**:: [[M. Alzheimer]] (>50%), M. [[Parkinson-Syndrom]], [[Chorea Huntington]]
 - **Vaskulär**:: Mikro-/Makroangiopathie (z.B. [[Diabetes mellitus]], [[Nikotin]]abusus, Hypercholesterinämie, [[Hypertonie]])
-## Sekundäre Demenz
+### Sekundäre Demenz
  - **[[Infektionen]]**:: Creutzfeld-Jacob-Erkrankung, [[Herpes]]-simplex-[[Encephalitis]], [[HIV]]-[[Encephalitis]], Neuroborreliose
 - **Traumatisch**:: [[SHT]]
 - **Hypoxisch**:: Z.n. [[Reanimation]]
 - **Raumfordernd**:: Normaldruck-[[Hydrocephalus]], [[Neoplasie]], [[Intrakranielle Blutung]]
 - **Metabolisch/Toxisch**:: Thyreoidal, Medikation, [[Alkohol]], [[Intoxikation]], [[M. Wilson]], [[Hepatische Encephalopathie]]
-# Pathophysiologie
-## [[M. Alzheimer]]
+## Pathophysiologie
+### [[M. Alzheimer]]
 - Korrellation mit Gendefekten (Presenilin-1 und -2, *Amyloid-Precursor-[[Proteine]]*, *Apolipoprotein E4*)
 - Degenerativer Prozess vermutlich bereits jahrzentelang vorher schleichend
-### Hauptmerkmale
+#### Hauptmerkmale
 - **Hirnatrophie**:: Insb. im parieto-temporalen und frontalen Cortex; Verminderung *cholinerger* Innervation im *Ncl. basalis Meynert* (medikamentöser Ansatzpunkt)
 - **Extrazelluläre Amyloid-Plaques** (aus zerschnittenem Amyloid-Precursor-[[Proteine]]); Relevanz unklar
 - **Intrazelluläre Neurofibrillenbündel**:: Konglomerate aus hyperphosphoryliertem Tau-[[Proteine]] ([[Mikrotubuli]]-assoziiert)
  - **Immunologische Veränderungen**:: Schädigung von Neuronen durch aktivierte Mikrogliazellen möglich
 
-# Symptome
+## Symptome
 - **Kognitive Störungen**
 	- [[Gedächtnis]]störungen, Orientierungsstörungen
 	- [[Aphasie]]
@@ -73,36 +73,36 @@ FROM #f/🧠/Demenz
 	- Affektkontrolle↓ 
 	- Soziale und alltägliche Beeinträchtigungen
 
-# Diagnostik
-## Diagnosekriterien
+## Diagnostik
+### Diagnosekriterien
 - Symptomdauer: Mind. 6 Monate
 - Nachweis einer Störung höherer kortikaler Funktionen 
 - Ausschluss einer [[Bewusstseinsstörung]] bzw. [[Delir]]
 - Ausschluss einer wesentlichen Einschränkung der Sinnesorgane
-## Neuropsychologie
+### Neuropsychologie
 - [[MMSE]] (MMSE)
 - **[[Uhrentest]]**:: "Zehn nach Elf" in leeren Kreis einzeichnen
-## Labor
+### Labor
 - **[[Blut]]**
 - **[[Liquor]]punktion**
 	- β-Amyloid-1-42 ↓ 
 	- Phospho-Tau ↑ bzw. Gesamt-Tau ↑
-## Apparative Diagnostik
+### Apparative Diagnostik
 - **c[[CT]] und c[[MRT]]**:: Hirnatrophie (erweiterte [[Liquorräume]], grobe Rindenzeichnung) v.a. im [[Temporallappen]] und [[Hippocampus]]
 	- [[PET]]/SPECT: Asymmetrische temporale Veränderungen von [[Perfusion]] und [[Stoffwechsel]]
 - **[[EEG]]**:: α-Aktivität↓, θ- und δ-Aktivität↑ 
 
-# Therapie
+## Therapie
 > Keine Kausaltherapie
-## Psychosozial
+### Psychosozial
 - Reminiszenz, Aktivierung autobiographischer positiver Erinnerungen
 - Körperliche Aktivität
 - Einbindung von Angehörigen
-## Medikamentös allgemein
+### Medikamentös allgemein
 - **[[Depression]]**:: Mirtazapin oder Citalopram ([[Tricyclische Antidepressiva]] vermeiden)
 - **Agitation**:: Risperidon, notfalls Haloperidol
 - **Schlafstörungen**:: Melperon (keine anticholinerge Wirkung)
-## Medikamentös spezifisch bei Alzheimer-Demenz
+### Medikamentös spezifisch bei Alzheimer-Demenz
 - **Leichte bis mittelschwere Demenz**:: [[Cholinesterase-Hemmer]] (vorübergehende Besserung des Alltags und Verlangsamung der Progredienz)
 - **Schwere Demenz**:: Zusätzlich NMDA-Antagonisten (Memantine)
 

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m16, Fach/HNO, Art/Intervention]
-title: Lernziele
+title: Untersuchung Ohr
 ---
-### Untersuchung Ohr
+#### Untersuchung Ohr
 - **[[Anamnese]]**
 	- [[Hörstörung]]? (Bestimmte Tonhöhen?)
 	- Druckgefühl
@@ -16,7 +16,7 @@ title: Lernziele
 	- Dauermedikation? (*Ototoxizität!*), Vorerkrankungen
 
 
-# Lernziele
+## Lernziele
 - bei einer/m gegebenen Patient einen Normalbefund in der otologischen [[Anamnese]] und in der klinischen otologischen Untersuchung erheben, dokumentieren und von einem Nicht-Normalbefund abgrenzen können.
 - bei einer/m gegebenen Patient mit einer Schallleitungsschwerhörigkeit eine spezifische otologische [[Anamnese]] und eine klinisch otologische Untersuchung durchführen und den pathologischen Befund benennen und zuordnen können.
 - bei einer/m gegebenen Patient mit einer Schallempfindungsschwerhörigkeit eine spezifische otologische [[Anamnese]] und eine otologische Untersuchung durchführen und den pathologischen Befund dokumentieren und zuordnen können.

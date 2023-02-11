@@ -1,8 +1,8 @@
 ---
-title: Transduktion und Transformation von Sensoren
+title: Mechanosensorik
 ---
 
-## Allgemeine Sinnesphysiologie
+### Allgemeine Sinnesphysiologie
 
 - **Oberflächliche Sinnesmodalitäten**:: Tastsinn, Temperatursinn, [[Nozizeption]], Juckempfindung
 - **Sinnesqualitäten**:: Druck, Berührung, Spannung, Vibration, Kälte, Wärme
@@ -18,7 +18,7 @@ title: Transduktion und Transformation von Sensoren
 
 ---
 
-# Transduktion und Transformation von Sensoren
+## Transduktion und Transformation von Sensoren
 
 ![[Untitled 75.png]]
 
@@ -27,7 +27,7 @@ title: Transduktion und Transformation von Sensoren
     - **Thermosensoren**:: TRP-Kanäle
 - **Transformation**:: Aktivierung spannungsabhängiger [[Na+]] Kanäle am 1.-2. Ranvier-Schnürring → *[[Aktionspotentiale]]* [*frequenzmoduliert, lineare Abhängigkeit*]
 
-### Sensorpotentiale der Sinnesmodalitäten
+#### Sensorpotentiale der Sinnesmodalitäten
 Modalität|Sensoren|Sensorpotential|Typ
 -|-|-|-|
 Hören|Haarzellen|"Depolarisation, Hyperpolarisation"|sekundär
@@ -41,13 +41,13 @@ Viscerozeption|Mechano- und [[Chemorezeptoren]]|Depolarisation|primär
 Propriozeption|"Muskelspindeln, Sehnenorgane"|Depolarisation|primär
 [[Schmerz]]|[[Nozizeptoren]]|Depolarisation|primär
 
-# Mechanismen der lateralen Hemmung auf Ebene des Rückenmarks beschreiben
+## Mechanismen der lateralen Hemmung auf Ebene des Rückenmarks beschreiben
 
 ![[Untitled 1 27.png]]
 
 ![[Untitled 2 16.png]]
 
-# Mechanosensoren nach ihrem Antwortverhalten und ihrer Adaptationsgeschwindigkeit differenzieren
+## Mechanosensoren nach ihrem Antwortverhalten und ihrer Adaptationsgeschwindigkeit differenzieren
 
 - [[Axon]]-Merkel-Zellkomplex (Druck, oberflächlich)
 - Ruffini-Kolben (Druck, Spannung, mittel)

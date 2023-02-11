@@ -1,16 +1,16 @@
 ---
 tags: [Modul/m09, Fach/Dermatologie, Art/Intervention]
-title: Arzneimittel-Galenik & Topische Therapie
+title: Medikamentöse Therapie bei Hauterkrankungen
 ---
 
-# Arzneimittel-Galenik & Topische Therapie
+## Arzneimittel-Galenik & Topische Therapie
 
 - **Def. Topische Therapie**:: Lokale, oberflächliche Anwendung eines Arzneimittels *nur am Ort des Krankheitsgeschehens*
 - **Phasendreieck der Dermatika**
 
     ![[Untitled 76.png]]
 
-## Schritte topischer Applikation
+### Schritte topischer Applikation
 
 1. **Liberation**:: Freisetzung des Wirkstoffs aus Grundlage
 2. **Penetration**:: Übertritt in Hornschicht
@@ -23,9 +23,9 @@ title: Arzneimittel-Galenik & Topische Therapie
         - Resorption durch Poren der Schweißdrüsen
 4. **Resorption** in systemische Zirkulation
 
-# Dermatologische Arzneimittelgruppen
+## Dermatologische Arzneimittelgruppen
 
-## Glucocorticoide
+### Glucocorticoide
 
 - [[Steroidhormone]], "Stresshormone"
 - **Endogenes Vorkommen**
@@ -66,7 +66,7 @@ title: Arzneimittel-Galenik & Topische Therapie
     - **Indikation**:: Atopisches [[Ekzem]], [[Psoriasis vulgaris]]
     - **NW topisch**:: Hautatrophie, Teleangiektasien, Depigmentierung, Hypertrichose, Striae, Periorale Dermatitis, (Störung der [[Hypothalamus-Hypophysen-Achse]])
 
-## Calcineurin-Inhibitoren
+### Calcineurin-Inhibitoren
 
 - **Wirkmechanismus von Calcineurin** (wird inhibiert)
     1. Aktivierung von Calcineurin bei [[T-Zellen]]-Aktivierung
@@ -82,7 +82,7 @@ title: Arzneimittel-Galenik & Topische Therapie
 - **KI**:: Kinder < 2 Jahren
 - **Systemische NW**:: Nephro-, Hepato-, Kardiotoxizität, [[Dyslipidämie]], Pyertonie, [[Tremor]], [[Kopfschmerzen]]
 
-## Dithranol
+### Dithranol
 
 - **Wirkmechanismus**
     1. Akkumulation in Membran der Keratinocyten
@@ -96,7 +96,7 @@ title: Arzneimittel-Galenik & Topische Therapie
     - Schema bei stationärer Therapie: langsame Dossisteigerung alle 2-4 Tage bis zum [[Erythem]]
     - Schema bei ambulanter Therapie: hohe Konzentration, nur für einige wenige Minuten
 
-## Vitamin-D3-Analoga
+### Vitamin-D3-Analoga
 
 - **Indikation**:: Lokale Erhaltungstherapie bei [[Psoriasis vulgaris]] (1. Wahl)
 - **Wirkmechanismus**:: Genregulation über nucleäre [[Rezeptor]]
@@ -107,7 +107,7 @@ title: Arzneimittel-Galenik & Topische Therapie
     - Gesteigerte Differenzierung / Reifung der Keratinocyten
 - **NW**:: Lokale Reizungen v.a. bei Anwendung im Gesicht; u.U. Hypercalciämie
 
-## Retionoide (Vitamin A-Säure-Derivate)
+### Retionoide (Vitamin A-Säure-Derivate)
 
 - **Wirkstoffe**
     - Lokale Anwednung: Tretinoin, Isotretinoin, Adapalen

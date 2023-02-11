@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m12, Fach/Biochemie/Molekül]
-title: Tabelle
+title: Vitamine
 ---
 > Fettlösliche Vitamine: E, D, K, A
 ---
@@ -10,7 +10,7 @@ FROM #a/Molekül/Vitamin
 SORT Löslichkeit ASC
 ```
 
-# Tabelle
+## Tabelle
 | [[Vitamine]]          | Aktive Form / Synonym      | Funktion                                                                           | Mangelerscheinung                                         |
 | --------------------- | -------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | **[[Vitamin A]]**     | Retinol, Retinal, Retinoat | Sehen, Genregulation, div. Gewebe                                                  | Nachtblindheit, trockene Schleimhäute, Wachstumgsstörung  |

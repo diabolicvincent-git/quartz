@@ -1,22 +1,22 @@
 ---
-title: Autoregulation der Niere
+title: Renale Perfusion
 ---
 - **Renaler Blutfluss**:: In Ruhe 20% des [[HZV]], d.h. 1,2 L Blut / min
 
-# Autoregulation der [[Niere]]
-## Myogene Autoregulation (Bayliss-Effekt)
+## Autoregulation der [[Niere]]
+### Myogene Autoregulation (Bayliss-Effekt)
 *[[Blutdruck]]↑* bzw. transmuraler Druck↑ → Aktivierung mechanosensitiver Kationenkanäle → Depolarisation d.h. Kontraktion der glatten Gefäßmuskulatur → *reflektorische [[Vasokonstriktion]]*
 
-## Macula-Densa-Mechanismus
+### Macula-Densa-Mechanismus
 > Auch: *Tubuloglomeruläres Feedback*
 - Messung des NaCl-Gehalt des Primärhahns in der Macula densa
 - Hohe [[GFR]] → NaCl-Resorptionsfähigkeit überschritten → hypertoner Primärhahn
 - Freisetzung von Adenosin → [[Vasokonstriktion]] im Vas afferens → Sinken der [[GFR]]
 
-## [[RAAS]]
+### [[RAAS]]
 - Verminderter renaler Plasmafluss → Aktivierung von [[RAAS]] ([[Renin]] aus juxtaglomerulären Zellen am Vas afferens)
 
-# Mediatoren
+## Mediatoren
 - **(Nor-)[[Adrenalin]] / [[Sympathikus]]**
 	- α-[[Rezeptor]] am Vas afferens → Konstriktion
 	- β₁-[[Rezeptor]] am Vas afferens → [[RAAS]]

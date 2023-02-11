@@ -1,41 +1,41 @@
 ---
-title: Niere
+title: Entwicklung des Urogenitaltrakts
 ---
 ---
 ---
-# Niere
-## Pronephros (= Vorniere)
+## Niere
+### Pronephros (= Vorniere)
 - Woche 3
 - Bildet sich ohne Funktionstätigkeit zurück
-## Mesonephros (= Urniere)
+### Mesonephros (= Urniere)
 - Woche 4-6
 - Harnbildende Funktion
 - Bildet *Urnierengang / Ductus mesonephricus / [[Wolff-Gang]]* und *Urnierenkanälchen* (bilden später Hodenausführungsgänge Ductuli efferentes [[W]] )
-## Metanephros (= Nachniere)
+### Metanephros (= Nachniere)
 - Woche 5
 - Aus unterem Abschnitt des Wolff-Gangs entwickelt sich die *Ureterknospe* (bildet [[Ureter]], [[Nierenbeckenkelchsystem]], Sammelrohre)
 - Rest des Wolff-Gangs tritt später in Kontakt mit Keimdrüsen und bildet [[Nebenhoden]] und [[Ductus deferens]] ([[W]])
-### Aszensus
+#### Aszensus
 - Durch Verminderung der Körperkrümmung und verstärktes Wachstum
 - Aufstieg aus dem pelvicalen Bereich nach *subdiaphragmal*
 - Drehung, sodass [[Nierenhilum]] nach medial zeigt (statt nach ventral)
 - Mehrfacher Wechsel der Gefäßversorgung → accessorische Nierenpolarterien möglich
 
-# Pathologien
-### Hufeisenniere
+## Pathologien
+#### Hufeisenniere
 Verschmelzen der beiden kaudalen Nierenpole
-### Beckenniere
+#### Beckenniere
 Ausbleibender Aszensus
-### Nierendystopie / Nierenektopie
+#### Nierendystopie / Nierenektopie
 Vehlerhafte Lage i.d.R. innerhalb des Retroperitonealraums
 - Gekreuzte Nierendystopie: [[Niere]] liegt auf der kontralateralen Seite "ihres" [[Ureter]]s
-### Malrotation
+#### Malrotation
 An korrekter Position, jedoch falsch ausgerichtet
-### Doppelniere
+#### Doppelniere
 [[Niere]] mit zwei [[Nierenbeckenkelchsystem]]en
-### [[Ureter]] fissus
+#### [[Ureter]] fissus
 2 [[Ureter]] auf einer Körperseite; vereinigen sich vor Eintritt in die [[Harnblase]]
-### [[Ureter]] duplex
+#### [[Ureter]] duplex
 2 [[Ureter]] auf einer Körperseite mit separatem Eintritt in die [[Harnblase]]
 
 #Modul/m14 

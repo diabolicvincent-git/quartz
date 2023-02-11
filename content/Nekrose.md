@@ -1,12 +1,12 @@
 ---
 tags: [Modul/m03]
-title: Nekrose Elli
+title: Nekrose
 ---
-### Nekrose
+#### Nekrose
 > Abgestorbenes Gewebe
 
 
-## Abgrenzung von [[Apoptose]] zu Nekrose
+### Abgrenzung von [[Apoptose]] zu Nekrose
 
 **[[Apoptose]]**
 
@@ -27,16 +27,16 @@ title: Nekrose Elli
 - Auflösen des Zellkerns
 
 
-# Nekrose Elli
+## Nekrose Elli
 > Pathologisches Absterben einer Zelle "provozierter Zelltod"
 
-### Auslöser
+#### Auslöser
 - zu starker Zellstress
 	- endogene Noxen
 	- exogene Noxen
 - immer pathologisch
 
-## Morphologie
+### Morphologie
 - **Zellschwellung**
 - **Kernwandhyperchromasie** (verstärkte Einfärbung) mit **Verklumpung [[Chromatin]]**
 - **Eosinophilie** des Cytoplasmas durch vermehrte Bindung von Eosin an degenerierte cytoplasmatische Proteine ("Hyalin")
@@ -57,7 +57,7 @@ title: Nekrose Elli
 				- durch Membranruptur wurden lysosomale [[Enzyme]] freigesetzt → auch Nachbarzellen an entzündlicher Reaktion beteiligt
 			- Zelltrümmer werden von [[Makrophagen]] beseitigt
 
-##### Koagulationsnekrose
+###### Koagulationsnekrose
 - in proteinreichen Geweben ([[Leber]], [[Niere]], [[Herz]], [[Milz]])
 - klassische Auslöser
 	- akute Ischämien
@@ -94,7 +94,7 @@ title: Nekrose Elli
 
 > *Eosinophiles, kernloses Infarktgebiet; Entündungsreaktion mit [[Neutrophile Granulocyten]] am Rand der Nekrose*
 
-##### Kolliquationsnekrose
+###### Kolliquationsnekrose
 - in proteinarmen, lipidreichen Organen ([[ZNS]])
 - in Geweben mit hoher Anzahl von Proteasen ([[Pankreas]])
 - nach Laugenverätzung
@@ -116,7 +116,7 @@ title: Nekrose Elli
 			- diabetisches Gangrän, [[pAVK]] 
 
 
-# Folgen
+## Folgen
 - reaktive Entzündung
 - [[Granulocyten]] und [[Makrophagen]] wandern in nekrotisches Gewebe ein und tragen es ab
 - anschließend **Regenerationsprozesse**
@@ -128,5 +128,5 @@ title: Nekrose Elli
 		- bei Gewebeauflösung (v.a. Kolliquationsnekrosen)
 
 
-# Unterschiede [[Apoptose]] und [[Nekrose]]
+## Unterschiede [[Apoptose]] und [[Nekrose]]
 ***Die morphologischen Zeichen von [[Apoptose]] und Nekrose benennen und anhand einer Abbildung gegeneinander abgrenzen  können***

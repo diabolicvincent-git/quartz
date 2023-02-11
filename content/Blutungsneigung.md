@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
-title: Störungen der primären Hämostase
+title: Blutungsneigung
 ---
-### Blutungsneigung / Gerinnungsstörung / Hämorrhagische Diathese
+#### Blutungsneigung / Gerinnungsstörung / Hämorrhagische Diathese
 - **Ätiologie**
 	- **Störung [[Primäre Hämostase]]**:: [[Thrombocytopathie]] (z.B. ASS), [[Thrombopenie]], Vaskuläre Störung[^2] (z.B. [[Thrombotische Mikroangiopathie]], [[IgA-Vaskulitis]])
 	- **Störung [[Sekundäre Hämostase]]**
@@ -17,7 +17,7 @@ title: Störungen der primären Hämostase
 
 
 ---
-## Allgemeines zu Hämorrhagischen Erkrankungen
+### Allgemeines zu Hämorrhagischen Erkrankungen
 
 - **Begriffsklärungen**
     - [[Petechien]]: punktförmige Hauteinblutungen
@@ -43,7 +43,7 @@ title: Störungen der primären Hämostase
 - Hämatomneigung auf Extremitäten begrenzt
 - Einseitiges Nasenbluten
 
-# Störungen der primären Hämostase
+## Störungen der primären Hämostase
 
 - **Thrombocytopathien**
 - **Thrombocytopenien**
@@ -51,7 +51,7 @@ title: Störungen der primären Hämostase
     - Vaskuläre hämorrhagische Diathesen (z.B. Purpura Schönlein-Henoch)
     - [[Thrombotische Mikroangiopathie]]: (z.B. [[HUS]])
 
-# Störungen der sekundären Hämostase
+## Störungen der sekundären Hämostase
 
 - **Intrinsisches System**
     - Mangel an einzelnen [[Gerinnungsfaktoren]]: Hämophilie A (Faktor VIII) oder Hämophilie B (Faktor IX)
@@ -61,14 +61,14 @@ title: Störungen der primären Hämostase
     - Vitamin-K-Mangel: z.B. bei Malabsorptionssyndrom
     - Lebersynthesestörung: z.B. bei [[Leberzirrhose]]
 
-# Störungen der Fibrinolyse
+## Störungen der Fibrinolyse
 
 - Primäre Hyperfibrinolyse: Gesteigerte [[Fibrinolyse]] ohne vorangegangene Thrombenbildung
 - Sekundäre Hyperfibrinolyse: Gesteigerte [[Fibrinolyse]] nach vorangegangener Thrombenbildung
     - [[DIC]]
 - Iatrogene Hyperfibrinolyse: Einsatz von rt-PA z.B. in der Lysetherapie beim [[Stroke]]
 
-# Kombinierte Gerinnungsstörungen
+## Kombinierte Gerinnungsstörungen
 
 - [[von-Willebrand-Jürgens-Syndrom]]: Quantitativer/qualitativer Mangel des [[vWF]]
     - Epidemiologie: Häufigste angeborene Störung der [[Hämostase]]
@@ -78,7 +78,7 @@ title: Störungen der primären Hämostase
 
 
 
-### Gerinnungsstörungen
+#### Gerinnungsstörungen
 - **Ätiologie**
 	- **Hereditär**:: i.d.R. eine [[Hämostase]]-Komponente betroffen
 	- **Erworben**:: i.d.r. mehrere Komponenten betroffen
@@ -103,12 +103,12 @@ title: Störungen der primären Hämostase
 		- 1 ml [[FFP]] / kgKG → 1% Aktivität↑ 
 		- *Cave:* Umsatzsteigerung (z.B. [[Sepsis]], [[DIC]], [[Blutung]])
 
-## Physiologie
+### Physiologie
 ![[Hämostase]]
 
 ![[vWF]]
 
-## Schema
+### Schema
 Konstellation|Pathophysiologie|Therapie
 -|-|-
 [[CKD\|Niereninsuffizienz]]|[[Thrombocytopathie]]|DDAVP, [[TXA]], [[TK]], [[Dialyse]]
@@ -121,8 +121,8 @@ Schleimhaut-[[Blutung]]|Hyperfibrinolyse|[[TXA]]
 [[ASS]], Clopidogrel|[[Thrombocytopathie]]|pausieren, DDAVP, [[TK]]
 [[Antikoagulation]]|[[Gerinnungshemmung]]|pausiren, [[Antidot]]
 
-## Diagnostik
-### [[Anamnese]]
+### Diagnostik
+#### [[Anamnese]]
 - **Charakterisierung der [[Blutung]]**
 	- Spontanblutung, Hämatomneigung, [[Blutung]] nach Bagatellverletzungen, Epistaxis, Nachblutung nach OPs, Nabelschnurblutung
 	- Verstärkte/verlängerte [[Menstruation]]
@@ -131,7 +131,7 @@ Schleimhaut-[[Blutung]]|Hyperfibrinolyse|[[TXA]]
 - **Familienanamnese**
 - **Vorerkrankungen**
 
-### [[Labor]]
+#### [[Labor]]
 - **Orientierend**
 	- **Globalgerinnungstest**:: [[Quick]]/[[Quick|TPZ]], [[aPTT]], Fibrinogen
 	- [[Blutbild]], [[Thrombocyten]]-Zahl, [[Thrombocyten]]-Funktion ([[PFA]] 100)

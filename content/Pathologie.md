@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m21, ToDo, Fach/Rechtsmedizin]
-title: VL Verdacht Bildgebung Gewebeprobe Diagnose
+title: Pathologie
 ---
-### Makroskopische Beschreibung
+#### Makroskopische Beschreibung
 - **Verteilungsmuster**
 	- *Zufällig* (z.B. [[Abszess]], [[Metastasen]])
 	- *Symmetrisch* (Befall einer physiologischen Einheit)
@@ -36,8 +36,8 @@ title: VL Verdacht Bildgebung Gewebeprobe Diagnose
 
 
 
-# VL Verdacht Bildgebung Gewebeprobe Diagnose
+## VL Verdacht Bildgebung Gewebeprobe Diagnose
 
-### die grundsätzlichen morphologischen Kriterien zur Unterscheidung entzündlicher und neoplastischer Erkrankungen am Beispiel des Lungenrundherdes und des Leberrundherdes in einem ausgewählten Bildbeispiel ([[CT]], [[MRT]], US) und im makroskopischen Präparat beurteilen können.
+#### die grundsätzlichen morphologischen Kriterien zur Unterscheidung entzündlicher und neoplastischer Erkrankungen am Beispiel des Lungenrundherdes und des Leberrundherdes in einem ausgewählten Bildbeispiel ([[CT]], [[MRT]], US) und im makroskopischen Präparat beurteilen können.
 
-### am Beispiel von Leberzirrhose, Lebermetastase, hepatozellulärem Karzinom, bronchoalveolärem Karzinom und Tuberkulose die Möglichkeiten und Limitationen von Bildgebung und makroskopischer Diagnostik erläutern können.
+#### am Beispiel von Leberzirrhose, Lebermetastase, hepatozellulärem Karzinom, bronchoalveolärem Karzinom und Tuberkulose die Möglichkeiten und Limitationen von Bildgebung und makroskopischer Diagnostik erläutern können.

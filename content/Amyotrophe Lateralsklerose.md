@@ -1,21 +1,21 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
-title: Pathogenese
+title: Amyotrophe Lateralsklerose
 ---
 (Abstract::[[Neurodegenerative Erkrankungen]] des ==1. und 2. Motoneurons== (TDP-43 Aggregation))
 - **Symptome**:: Schlaff atrophisch (2. Motoneuron führend) und/oder spastische [[Parese]] (1. Motoneuron führend) – bishin zu Schluckstörungen, Lähmung der [[Atemmuskulatur]]
 - **Epidemiologie**:: Altersgipfel Beginn ca. 50. Lebensjahr, [[W]] ≥ [[M]] 
 
-# Pathogenese
+## Pathogenese
 - Unbekannter ätiologischer Prozess (warum v.a. im motorischen Nervensystem?)
 - Bildung von *Proteinaggregaten* (v.a. [[TDP-43 FUS]])
-## Schädigung der Motoneurone
+### Schädigung der Motoneurone
 > Grundsätzlich Schädigung des 1. **und** 2. Motoneurons, jedoch variable Ausprägung
-### Schädigung des 1. motorischen Neurons
+#### Schädigung des 1. motorischen Neurons
 - Tonussteigerung → Spastik
 - Hyperreflexie
 - Zentrale [[Parese]] ("spastische Lähmung")
-### Schädigung des 2. motorischen Neurons
+#### Schädigung des 2. motorischen Neurons
 - Tonusverminderung
 - Hyporeflexie bis Areflexie
 - Periphere [[Parese]] ("schlaffe Lähmung")
@@ -32,7 +32,7 @@ title: Pathogenese
     - [[Parese]], Hyperreflexie des Schlundes (Olive → [[N. glossopharyngeus (IX)]]) und der [[Zunge]] (Ncl. Hypoglossii → [[N. hypoglossus (XII)]])
     - Massetter-[[Reflex]] am Kinn → ausgeprägte Hyperreflexie mit Klonus bei Mundöffnung
 
-# Symptome
+## Symptome
 ### Initialsymptomatik
 - Progrediente Paresen und Muskelatrophien
 - Fibrillationen der [[Zunge]] und Faszikulationen
@@ -44,7 +44,7 @@ title: Pathogenese
 - Nur selten manifeste kognitive Defizite, keine sensorische Störung
 - **Progressive Bulbärparalyse (Sonderform)**:: Degeneration motorischer [[Hirnnerven]] mit Lähmungen von [[Pharynx]]-/[[Larynx]]-, Gesichts- und Zungenmuskulatur
 
-# Diagnostik
+## Diagnostik
 ### Klinische Untersuchung
 - **Befunde des 1. Motoneurons**:: Spastische Paresen, Hyperreflexie, ggf. [[Pyramidenbahnzeichen]]
 - **Befunde des 2. Motoneurons**:: Atrophische Paresen (distal beginnend), Faszikulationen
@@ -59,7 +59,7 @@ title: Pathogenese
 - **[[Neuropsychologischer Befund]]**
 - Ggf. [[Gendiagnostik]] bei familiärer Häufung
 
-# Therapie
+## Therapie
 > Keine kurative Behandlung → Symptomlinderung, Lebensverlängerung
 
 - **Riluzol**:: Antiglutamaterge Wirkung, unklarer Mechanismus → Progression vermindert

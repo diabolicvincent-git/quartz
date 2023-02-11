@@ -1,31 +1,31 @@
 ---
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
-title: Bulbus oculi
+title: Auge
 ---
-# Bulbus oculi
+## Bulbus oculi
 ![[Bulbus oculi]]
 
-# Conjunctiva
+## Conjunctiva
 ![[Conjunctiva]]
 
-# Tränenapparat
+## Tränenapparat
 ![[Tränenapparat]]
 
-# Augenlider
+## Augenlider
 ![[Augenlider]]
 
-# Muskeln
+## Muskeln
 
 
-# Gefäßversorgung
-## Arterien
+## Gefäßversorgung
+### Arterien
 - ==***A. ophthalmica*** aus [[A. carotis interna]]==
-## Venös
+### Venös
 - Alle [[Venen]] drainieren via *V. ophthalmica superior/inferior* in den *[[Sinus cavernosus]]* der [[Dura mater]] des Gehirns
 	- V. centralis retinae
 	- Vv. ciliares, Vv. sclerales, Vv. vorticosae
 	- Stirn- und Augenlidvenen
-# Innervation
+## Innervation
 - **Sensibel** 
 	- [[N. maxillaris (V2)]] (Unterlid)
 	- [[N. ophthalmicus (V1)]] (übriges Auge)
@@ -39,5 +39,5 @@ title: Bulbus oculi
 	- Innere Augenmuskeln [[Parasympathikus]]/[[Sympathikus]] (s.o.)
 	- [[N. facialis (VII)]], [[N. oculomotorius (III)]] und [[Sympathikus]]-Fasern → Augenlidmuskulatur
 
-# Orbita
+## Orbita
 ![[Orbita]]

@@ -1,18 +1,18 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
-title: Intrakraniell-extracerebrale Blutungen
+title: Intrakranielle Blutung
 ---
-### Intrakranielle Blutung
+#### Intrakranielle Blutung
 - [[Epiduralblutung]]
 - [[Subduralhämatom]]
 - [[SAB]]
 - [[ICB]]
 
 
-# Intrakraniell-extracerebrale Blutungen
+## Intrakraniell-extracerebrale Blutungen
 ![[Epiduralblutung]]
 ![[Subduralhämatom]]
 ![[SAB]]
 
-# Intracerebrale Blutungen
+## Intracerebrale Blutungen
 ![[ICB]]

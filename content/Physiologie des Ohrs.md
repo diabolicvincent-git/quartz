@@ -1,5 +1,5 @@
 ---
-title: Funktion der Ohresabschnitte
+title: Physiologie des Ohrs
 ---
 - **Menschliches Gehör**
     - Frequenzbereich 16 - 20.000 Hz
@@ -7,7 +7,7 @@ title: Funktion der Ohresabschnitte
     - Am empfindlichsten bei 2 - 5 kHz
     - Frequenzunterschiedsschwelle bei 1000 Hz = 0,3% d.h. 3 Hz
 
-## Intensitäts- und Frequenzschwellen darstellen und die physikalischen Grundlagen des Schalls definieren
+### Intensitäts- und Frequenzschwellen darstellen und die physikalischen Grundlagen des Schalls definieren
 
 - Phon, Dezibel, Isophone, Lautstärke, Lautheit
 
@@ -15,7 +15,7 @@ title: Funktion der Ohresabschnitte
 
 ![[Untitled 1 33.png]]
 
-## Messung von Schall
+### Messung von Schall
 
 - **Intensität**:: physikalisch; durch Flächeneinheit durchtretende Schallenergie pro Zeiteinheit
 - **Lautstärke**:: physiologisch; subjektiv empfundene Schallstärke
@@ -28,15 +28,15 @@ title: Funktion der Ohresabschnitte
 
 ![[Untitled 3 12.png]]
 
-## Lautstärke
+### Lautstärke
 
 ![[Untitled 4 6.png]]
 
-# Funktion der Ohresabschnitte
+## Funktion der Ohresabschnitte
 
 ![[Untitled 5 5.png]]
 
-## Funktionen des Mittelohres erläutern
+### Funktionen des Mittelohres erläutern
 
 - **Aufbau**
     - *Hammer, Amboss, Steigbügel*
@@ -50,7 +50,7 @@ title: Funktion der Ohresabschnitte
 
     ![[Untitled 6 5.png]]
 
-## Funktionen des Innenohrs erklären
+### Funktionen des Innenohrs erklären
 
 - Funktion und Zusammensetzung von Endo- und [[Perilymphe]]
     - **Zusammensetzung**

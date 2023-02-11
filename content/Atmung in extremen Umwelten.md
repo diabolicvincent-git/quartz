@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m13, Fach/Physiologie, Fach/Pneumologie]
-title: Fraktionen und Partialdrücke
+title: Atmung in extremen Umwelten
 ---
-# Fraktionen und Partialdrücke
+### Fraktionen und Partialdrücke
 
 Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
 1 bar = 760 mmHg = 101
@@ -19,7 +19,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
 
 ![[Untitled 1 13.png]]
 
-# Gesetze der Gasdiffusion
+## Gesetze der Gasdiffusion
 
 - **Fick'sches Diffusionsgesetz**:: Diffusionsmenge M = Diffusionkoeffizient k * (Fläche F / Membrandicke d) * Partialdruckdifferenz δp
 
@@ -28,7 +28,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
 
 ![[Untitled 2 6.png]]
 
-## Löslichkeit und Chemische Bindung
+### Löslichkeit und Chemische Bindung
 
 - **Gasgesetz nach Henry**:: Konzentration eines in Flüssigkeit gelösten Gases ist proportional zum [[Partialdruck]]
     - [[O2]]: 2,6 ml / l [[Wasser]]
@@ -44,7 +44,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
     - 90% als [[HCO3-]]
     - 5% angelagert an freie Aminogruppen des [[Hb]]
 
-# Regulation der Lungenperfusion
+## Regulation der Lungenperfusion
 
 - **Physiologisch**:: Ventilations-Perfusions-Verhältnis ≈ 1
     - Apikale Lungenbereiche besser ventiliert als perfundiert
@@ -59,7 +59,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
     2. Lokaler [[O2]]-Mangel → [[Vasokonstriktion]], [[Perfusion]]↓ (Vermeidung von Shuntblut)
     - Problem bei generalisierter Hypoventilation: rechtsventrikuläre [[Nachlast]] ↑, [[Pulmonale Hypertonie]] → Endothelschäden → Exsudat, [[Lungenödem]]
 
-# Anpassungen an höhenbedingten Sauerstoffmangel
+## Anpassungen an höhenbedingten Sauerstoffmangel
 
 - **Große Höhe**:: Fraktionen bleiben gleich, durch reduzierten Gesamtdruck sinken Partialdrücke. Umgebungstemperatur sinkt
 
@@ -76,11 +76,11 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
 
 Adaptation bei HIF-induzierter Erythropoese führt zu gleichem Sauerstoffgehalt im [[Blut]]
 
-## Höhenlungenödem HAPE
+### Höhenlungenödem HAPE
 
 - **Therapie**:: Abstieg, Gamow-Bag ("künstlicher Abstieg"), [[O2]]-Gabe, Antipyretika ([[Corticosteroide]]), [[Analgetika]], Phosphodiesterasehemmer (Reduktion des pulmonalen Hypertonus), [[Nitrate]], [[Diuretika]]
 
-# Hyperbare Umwelt: Gerätetauchen
+## Hyperbare Umwelt: Gerätetauchen
 
 - 200 bar in Pressluftflasche → 10 bar im Schlauch → Inspirationsdruck durch Mundstück auf Umgebungsdruck reguliert (z.B. 20 m Wassertiefe → 3 bar)
 - Höhere Partialdrücke → mehr gelöste Gasmenge
@@ -88,7 +88,7 @@ Adaptation bei HIF-induzierter Erythropoese führt zu gleichem Sauerstoffgehalt 
     - N2 wird nur physikalisch gelöst transportiert → hohe N2-Menge in Lösung!
 - Auftauchen → Druck↓ → Gase "perlen aus" → Emboliegefahr (Caisson-Krankheit)
 
-## Dekompressionskrankheit (Caisson Krankheit)
+### Dekompressionskrankheit (Caisson Krankheit)
 
 - **Klassifikation**
     - Typ 1: Ablagerung von Gasbläschen in Haut, Muskulatur und Gelenken

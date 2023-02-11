@@ -1,9 +1,9 @@
 ---
-title: am Beispiel ausgewählter Erkrankungen (primärer und sekundärer Hyperparathyreoidismus, familiäre hypokalzurische Hyperkalzämie,Vitamin D-Mangel) prinzipielle Mechanismen von Störungen des Knochen- und Kalziumstoffwechsels erklären
+title: Störungen im Knochenstoffwechsel
 ---
 ![[Untitled 106.png]]
 
-# am Beispiel ausgewählter Erkrankungen (primärer und sekundärer [[Hyperparathyreoidismus]], familiäre hypokalzurische Hyperkalzämie,[[Vitamin D]]-Mangel) prinzipielle Mechanismen von Störungen des [[Knochen]]- und Kalziumstoffwechsels erklären
+## am Beispiel ausgewählter Erkrankungen (primärer und sekundärer [[Hyperparathyreoidismus]], familiäre hypokalzurische Hyperkalzämie,[[Vitamin D]]-Mangel) prinzipielle Mechanismen von Störungen des [[Knochen]]- und Kalziumstoffwechsels erklären
 
 Calcium-[[Kreatinin]]-Clearance-Quotient(?)
 
@@ -24,7 +24,7 @@ Calcium-[[Kreatinin]]-Clearance-Quotient(?)
         - Veränderung der Affinität des CaSR für [[Ca2+]] → Verschiebung der Sensitivitätskurve (verminderte Empfindlichkeit) → anderer Normbereich
     - **Therapie**:: Keine bei Asymptomatischen Pat.
 
-# den Begriff 'Osteoporose' definieren und biochemische und morphologische Parameter einer Osteoporose erläutern
+## den Begriff 'Osteoporose' definieren und biochemische und morphologische Parameter einer Osteoporose erläutern
 
 - **Osteoporose**:: Systemische Skeletterkrankung mit niedriger Knochenmasse und verschlechterter Mikroarchitektur → Knochenfragilität, Frakturneigung
     - Nicht zwingend Veränderung der Knochenstoffwechselparameter (kompensiert)
@@ -53,6 +53,6 @@ Calcium-[[Kreatinin]]-Clearance-Quotient(?)
         [[PTH]]-Fragment (Forsteo)
         [[Östrogene]] ([[Mamma-Ca]]-[[Risiko]]!)
 
-# Ursachen, Risikofaktoren und molekulare Pathomechanismen für verschiedene Osteoporoseformen darle![[Untitled 1 40.png]]
+## Ursachen, Risikofaktoren und molekulare Pathomechanismen für verschiedene Osteoporoseformen darle![[Untitled 1 40.png]]
 
 #Modul/m05 #Modul/m10

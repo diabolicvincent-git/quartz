@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
-title: Tremorbeschreibung
+title: Tremor
 ---
-### Tremor 
+#### Tremor 
 > Rhythmische, sinusoidale Bewegungsmuster
 - **Beschreibung**
 	- **[[Ruhetremor]]**:: z.B. bei [[Parkinson-Syndrom]]
@@ -12,22 +12,22 @@ title: Tremorbeschreibung
 	- **[[Essentieller Tremor]]**
 	- **[[Orthostatischer Tremor]]**
 
-# Tremorbeschreibung
-## Ruhetremor
+## Tremorbeschreibung
+### Ruhetremor
 - Auftreten in körperlicher Ruhe
 - Verstärken bei mentaler Anspannung
 - Leitsymptom des [[Parkinson-Syndrom]]-Syndroms
-## Aktionstremor
-### Haltetremor
+### Aktionstremor
+#### Haltetremor
 - Auftreten, wenn eine bestimmte Körperstellung gegen die Schwerkraft gehalten werden muss
-### Intentionstremor
+#### Intentionstremor
 - Auftreten bei Zielbewegung und Verstärken bei Annäherung
 - Hinweis auf [[Kleinhirnsyndrom]]
 
-# Tremorsyndrome
-## Essentieller Tremor
+## Tremorsyndrome
+### Essentieller Tremor
 - i.d.R. symmetrischer [[Haltetremor]] (Armvorhalteversuch)
 - **Therapie**:: [[β-Blocker]] (Propranolol) und/oder [[Antikonvulsiva]] (Primidon)
-## Orthostatischer Tremor
+### Orthostatischer Tremor
 - Selten
 - Auftreten bei längerem Stehen: Subjektive Standunsicherheit, Stürzen, "Beben der Beine"

@@ -1,19 +1,19 @@
 ---
 tags: [Modul/m10, Fach/Physiologie]
-title: Ausdauer
+title: Leistungsphysiologie
 ---
 
-## Anpassung an Leistung
-### Myokard
+### Anpassung an Leistung
+#### Myokard
 - **Sympathikusaktivierung** → positiv [[chronotrop]], [[inotrop]], [[lusitrop]], [[dromotrop]], [[bathmotrop]] sowie [[Vasodilatation]] der [[Koronararterien]] (β2)
 - **[[Metabolische Autoregulation]]**:: Adenosin↑, CO2↑, [[pH]]↓ → [[Vasodilatation]]
 - **Sauerstoffausschöpfung**:: Bereits in Ruhe sehr hoch, nicht weiter steigerbar
 - **[[Stoffwechsel]]**:: "Allesverwerter" ([[Myokard]] kann [[Lactat]] verbrauchen)
-### Verdauungssystem
+#### Verdauungssystem
 - [[Sympathikus]]-vermittelte [[Vasokonstriktion]] und Aktivitätsminderung
-### Niere
+#### Niere
 - Durchblutung auch bei Belastung *konstant* gehalten
-### Skelettmuskulatur
+#### Skelettmuskulatur
 - **Durchblutung** Steigerung bis 20x (insb. [[Metabolische Autoregulation]])
 - **Energiebereitstellung**
 	1. [[ATP]]-Reserven
@@ -21,16 +21,16 @@ title: Ausdauer
 	3. Anaerobe [[Glycolyse]]
 	- **Bei längerer Belastung**:: Aerobe [[Glycolyse]], β-Oxidation
 	- Überschreitung der Dauerleistungsgrenze → Lactatproduktion, metabolische [[Azidose]]
-### Haut
+#### Haut
 - Siehe [[Hautdurchblutung]]
 - Bei sehr starker Belastung Zentralisation via α1-[[Vasokonstriktion]]
 
-## Determinanten
-### Dauerleistungsgrenze
+### Determinanten
+#### Dauerleistungsgrenze
 - Leistung, die 8 h ohne Ermüdung durchgehalten werden kann
 - **Arbeit unterhalb der Grenze**:: *Steady-state* von [[HF]] und [[O2]]-Aufnahme
 - **Überschreiten der Grenze**:: [[O2]]-Verbrauch > [[O2]]-Aufnahme, Sauerstoffschuld wird größer, [[HF]] steigt
-### Muskuläre Ermüdung
+#### Muskuläre Ermüdung
 > Diskrepanz zwischen [[O2]]-/Nährstoffbedarf der Muskulatur und deren Bereitstellung
 - **Ursachen**
 	- [[Erschöpfung]] der Energiereserven
@@ -39,13 +39,13 @@ title: Ausdauer
 	- Hyperthermie
 	- [[Dehydratation]]
 
-## Leistungsdiagnostik
+### Leistungsdiagnostik
 ![[Spiroergometrie]]
 
 
 --- 
 
-## Grundbegriffe
+### Grundbegriffe
 
 - **Atmung**
     - Atemphysiologie (statische und dynamische Größen wie Volumina, Kapazitäten...)
@@ -82,9 +82,9 @@ title: Ausdauer
     - Kontraktionsformen
     - Querschnittsfläche
 
-# Ausdauer
+## Ausdauer
 
-## Faktoren der Leistungserbringung & -limitation (Ausdauer)
+### Faktoren der Leistungserbringung & -limitation (Ausdauer)
 
 **O₂-Bedarf↑** → erfordert O₂-Antransport ↑ & CO₂-Abtransport ↑
 
@@ -98,7 +98,7 @@ title: Ausdauer
         - [[MAD]] ↑, Muskelperfusion ↑
         - *Lokale [[Vasodilatation]] & Zentrale [[Vasokonstriktion]]*
 
-## Phasen der Leistungsanpassung (Ausdauer)
+### Phasen der Leistungsanpassung (Ausdauer)
 
 1. **Vorstartreaktion**:: Situative Aufregung → Katecholaminfreisetzung → [[Tachykardie]], Hyperpnoe
     - **Auslöser**:: Nicht-rückgekoppelte Antriebe (z.B. Motivation); kein Mehrbedarf
@@ -125,7 +125,7 @@ title: Ausdauer
         - Verstoffwechselung von [[Lactat]]
         - [[Katecholamine]]- & temperaturbedingte mitochondriale Entkopplung der oxidativen Phosphorylierung → O₂-Mehrbedarf für gleiche Energiemenge
 
-## Maximale Sauerstoffaufnahme (VO₂max)
+### Maximale Sauerstoffaufnahme (VO₂max)
 
 - **Sauerstoffaufnahme VO₂** ≈ O₂-Verstoffwechselung pro Zeit ("indirekte Kalorimetrie")
     - **VO₂** = [[HZV]] ∙ avDO₂ (arterio-venöse O₂-Differenz = O₂-Abschöpfung in der Peripherie pro Liter [[Blut]])
@@ -139,7 +139,7 @@ title: Ausdauer
             - [[Herzinsuffizienz]] [[NYHA]] IV: 5 ml/min/kg
 - **Ruhe-Sauerstoffaufnahme** ≈ 3,5 ml/min/kg (1 metabolisches Äquivalent, MET)
 
-# Praktikumsversuch: Leistungserfassung (Ausdauer)
+## Praktikumsversuch: Leistungserfassung (Ausdauer)
 
 - **Bestimmung der Belastungsstärke**
     1. Abschätzung der voraussichtlichen VO₂max durch
@@ -154,17 +154,17 @@ title: Ausdauer
 - **[[Lactat]]-Messung** vor Belastung (Ausgangswert) & 1-2 min nach Abbruch der Belastung
 - **[[Borg-Skala]]**:: Subjektive Anstrengung ("Rating of perceived Exertion RPE) erfragen
 
-## Respiratorischer Quotient (RQ)
+### Respiratorischer Quotient (RQ)
 
 - **Respiratorischer Quotient RQ** = VCO₂ / VO₂
     - Bestimmung des *kalorischen O₂-Äquivalents* (freiwerdende Energie pro L O₂)
     - Bei Lactatazidose → H+ → [[HCO3-]]-[[Puffer]] (HCO₃-) → CO₂ aus "neuer" Quelle → RQ kann bei Lactatazidose über 1 steigen
 
-## Wirkungsgrad
+### Wirkungsgrad
 
 - **Wirkungsgrad η ("Eta") [%]** = 100 ∙ abgegebene Leistung (Ergometer) / aufgewandte Leistung ([[Stoffwechsel]]; kalorisches O₂-Äquivalent)
 
-# Kraft
+## Kraft
 
 - **Max. Kraftentfaltung** bestimmende Größe: *Querschnittsfläche* des Muskelabschnitts
     - Optimale Überlappung von Actin- & Myosin-Elementen
@@ -172,7 +172,7 @@ title: Ausdauer
     - Rekrutierung aller motorischen Einheiten (willkürlich unmöglich, "Notfallreserve")
     - Intra- & intermuskuläre Koordination; optimaler Hebelarm
 
-## Muskelfasertypen der Quergestreiften Muskulatur
+### Muskelfasertypen der Quergestreiften Muskulatur
 
 - **Typ I Muskelfasern** - lange aerob
     - V.a. *aerobe Energiegewinnung*
@@ -196,12 +196,12 @@ title: Ausdauer
     - Größere Kraftentwicklung
     - Geringe Ausdauer
 
-## The Size Principle
+### The Size Principle
 
 - Zunächst Rekrutierung von Typ I → Hinzu-Rekrutierung von Typ II bei schweren Lasten
 - **Size Principle**:: Typ-I-Fasern haben kleine Motoneurone, die aufgrund einer geringeren zu depolarisierenden Fläche schneller aktiviert werden
 
-## Kraftmessung
+### Kraftmessung
 
 - **Leistung P** = Arbeit / Zeit = Kraft ∙ Geschwindigkeit [J/s = Nm/s]
 - **Messmethoden**
@@ -210,7 +210,7 @@ title: Ausdauer
     - 1-Repitition-Maximum (RM)
     - Abschätzung des RM über bei 7-10 Wdh. bewältigbares Gewicht (7-10 RM)
 
-# Trainingsprinzipien Kraft & Ausdauer
+## Trainingsprinzipien Kraft & Ausdauer
 
 - **Overload**:: Trainingsreiz über bisherigem Leistungsniveau
 - **Progression**:: Steigerung des Trainingsreizes nach erfolgter Anpassung
@@ -218,7 +218,7 @@ title: Ausdauer
 - **Individualität**:: Genetische Unterschiede hinsichtlich Muskelfasertypen-Verteilung, Fähigkeit zur Zellreparatur & Wachstum, [[Stoffwechsel]], Hormonen und Nervensystem
 - Bisheriges Ausgangsniveau, Trainingsintensität, Trainingsdauer und Trainingsfrequenz, sowie Variation des Trainingsregimes
 
-## Anpassungsreaktionen auf Krafttraining
+### Anpassungsreaktionen auf Krafttraining
 
 - **Zunahme der Querschnittsfläche** insb. von Typ II (a/x) Muskulatur
 - **Optimierung der intramuskulären Koordination**:: Gesteigerte Innervationsfrequenz, gesteigerte Rekrutierungsrate, Synchronisierung der einzelnen motorischen Einheiten
@@ -227,7 +227,7 @@ title: Ausdauer
 - **Zunahme der Festigkeit von Bindegewebsstrukturen** wie [[Sehnen]], Bändern, sowie Zunahme der Knochendichte (Schutz vor Verletzungen)
 - **Zunahme des Ruheenergieumsatzes** durch gesteigerte Körperzellmasse, sowie durch gesteigerte Proteinbiosynthese nach dem Training
 
-## Anpassungsreaktionen auf Ausdauertraining
+### Anpassungsreaktionen auf Ausdauertraining
 
 - **Zunahme des [[HZV]]** (gesteigertes SV in Ruhe und Belastung, „Sportlerherz“)
 - **Zunahme des Blutvolumens** mit verbesserter Transportkapazität
@@ -240,7 +240,7 @@ title: Ausdauer
 - Insg. gesteigerte [[O2]]-Utilisation (Zunahme der VO₂max) mit Zunahme der Dauerleistungsgrenze („Rechtsverschiebung“ der Kurve der Blutlactatkonzentration)
 - Zunahme des Ruheenergieumsatzes durch gesteigerte Körperzellmasse bei verringerter Fettmasse, sowie gesteigerten Energieumsatz nach Training (EPOC)
 
-## Kurzfristige Anpassungsreaktionen beim Wechsel von Ruhe zu Belastung
+### Kurzfristige Anpassungsreaktionen beim Wechsel von Ruhe zu Belastung
 
 - **Gesundheitliche Verbesserungen durch regelmäßige körperliche Betätigung:**
     - Verbesserte Leistungsfähigkeit durch gesteigerte kardiovaskuläre, respiratorische und muskuläre Funktion**

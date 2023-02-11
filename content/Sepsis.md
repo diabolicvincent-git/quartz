@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m18, Art/Pathologie, Modul/m21, Fach/Infektiologie, Fach/Anästhesie, Art/Pathologie]
-title: PV Septischer Schock
+title: Sepsis
 ---
-### Sepsis
+#### Sepsis
 > [[Infektionen]] → dysregulierte Immunantwort → [[MOV]]
 - **Symptome**:: [[AZ]]↓, [[qSOFA]]/[[SOFA]]↑ + je nach Fokus
 	- [[Fieber]] oder Hypothermie
@@ -20,13 +20,13 @@ title: PV Septischer Schock
 	- [[Volumentherapie]] (30 ml/kg)
 	- [[Katecholamine]] bei [[MAD]] <65 mmHg
 
-## Auditor
+### Auditor
 - **Prognose**:: 40-60% Letalität
 - **Diagnostik**:: [[SOFA]]
 - **Therapie**
 	- 
 
-## Pathogene
+### Pathogene
 > Alle Pathogene können eine [[Sepsis]] verursachen
 - 45% [[E. coli]]
 - 27% [[Staph. aureus]]
@@ -34,7 +34,7 @@ title: PV Septischer Schock
 - 5% [[Pseudomonas aeruginosa]]
 
 
-# PV Septischer [[Schock]]
+## PV Septischer [[Schock]]
        
 
 das klinische Erscheinungsbild eines Schocks in seinen jeweiligen Erscheinungsformen charakterisieren können.

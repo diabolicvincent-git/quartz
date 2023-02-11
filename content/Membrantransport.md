@@ -1,26 +1,26 @@
 ---
 tags: [Modul/m03, Fach/Biochemie]
-title: Transport von Gasen
+title: Membrantransport
 ---
-## Passiver Transport
+### Passiver Transport
 > Mit Gradienten, ohne Energie
 
 - **Freie Diffusion/[[Osmose]]**:: lipophile Stoffe, Gase
 - **Erleichtert**:: Kanäle, Uniporter
 
-## Aktiver Transport
+### Aktiver Transport
 > Gegen Gradienten, Energieaufwand
 
 - **Primär aktiv**
 - **Sekundär aktiv**
 - **Tertiär aktiv**
 
-# Transport von Gasen
+## Transport von Gasen
 > Freie Diffusion
 
-# Transport von Ionen
+## Transport von Ionen
 
-## Ionenkanäle
+### Ionenkanäle
 > Selektive Pore, passiver Transport
 - **Selektion nach Teilchengröße**
 	- Zu große Teilchen passen nicht durch
@@ -34,7 +34,7 @@ title: Transport von Gasen
 
 ![[ATPase]]
 
-# Transport von Metaboliten
+## Transport von Metaboliten
 
 - **Carrier**:: substratspezifische [[Enzyme]] (z.B. GLUT)
 - **Porine** (äußere Mitochondrienmembran)

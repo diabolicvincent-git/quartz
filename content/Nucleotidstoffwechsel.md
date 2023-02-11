@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m02, Fach/Biochemie, Fach/Physiologie]
-title: De novo Synthese von Purinbasen
+title: Nucleotidstoffwechsel
 ---
-## Strukturelemte von Nucleotiden
+### Strukturelemte von Nucleotiden
 
 - Purin- bzw. Pyrmidinbase
 - C5-Zucker
@@ -10,7 +10,7 @@ title: De novo Synthese von Purinbasen
 
 ![[Untitled 84.png]]
 
-# De novo Synthese von Purinbasen
+## De novo Synthese von Purinbasen
 
 1. Bereitstellung von Ribulose-5-P über **[[Pentosephosphatweg]]** (isomerisiert zu Ribose-5-P)
 2. **Aktivierung** mittels 2 Phosphatresten aus [[ATP]] an C1 → 5-Phosphorybosyl-1-pyrophosphat (PRPP)
@@ -22,11 +22,11 @@ title: De novo Synthese von Purinbasen
     - **→ AMP**:: GTP → GDP; [[Aspartat]] → Fumarat ([[Citratzyklus]] oder Regeneration)
     - **→ GMP**:: [[ATP]] → AMP
 
-## Regulation
+### Regulation
 
 - **PRPP-Amidotransferase** für [3.] (dimerisiert: aktiv; monomerisiert: inaktiv) durch PRPP aktiviert; durch Endprodukte gehemmt
 
-## Energiebedarf
+### Energiebedarf
 
 - Ribose → IMP: 6 [[ATP]] = 180 kJ
 - IMP → AMP: 1 GTP = 30 kJ
@@ -34,7 +34,7 @@ title: De novo Synthese von Purinbasen
 
 Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückgewonnen!
 
-# Synthese von Pyrimidinbasen
+## Synthese von Pyrimidinbasen
 
 1. **Synthese von Carbamoyl-Phosphat** (einzeln ohne Zucker)
     - Stickstoff aus [[Glutamin]]
@@ -49,28 +49,28 @@ Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückg
 
 - C1 von Methylen-Tetrahydrofolat
 
-## Regulation
+### Regulation
 
 - **Carbamoylphosphat-Synthetase 2** stimuliert durch PRPP-Verfügbarkeit und gehemmt durch Endprodukte
 
-## Energiebedarf
+### Energiebedarf
 
 - 4 [[ATP]]
 
-# Weiterverwertung
+## Weiterverwertung
 
-## Bildung von Triphosphaten
+### Bildung von Triphosphaten
 
 - NMP → NDP: Spezifische Kinasen (AMP-Kinase, GMP-Kinase, etc.)
 - NDP → NTP: Universelle [[Nucleotide]]-Diphosphat-Kinase
 
-## Bildung von Desoxyribosen
+### Bildung von Desoxyribosen
 
 - **Ribonucleotid-Reduktase** auf Stufe der *Nucleosiddiphosphate (NDP)* unter Bildung von *Disulfidbrücken* (Rückreduktion mit Thioredoxin, FADH2, NADPH+H+)
 
 ![[C1-Stoffwechsel]]
 
-# Recycling Pathway
+## Recycling Pathway
 
 - **Bergungsstoffwechsel von Purinbasen**:: Purinbase mit PRPP verknüpft (0 [[ATP]])
     - Adenin → AMP (Adenin-Phosphoribosyltransferase APRT)
@@ -80,23 +80,23 @@ Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückg
     - Uridin → UMP / Cytidin → CMP (Uridinkinase)
     - Thymidin → TMP (Thymidinkinase)
 
-# Abbau
+## Abbau
 
-## Purinbasen
+### Purinbasen
 
 - **Schlüsselenzym**:: Xanthinoxidase oder Xanthindehydrogenase (ineinander umwandelbar; insb. bei Ischämie Entstehung von XO → [[ROS]])
 - Hypoxanthin → Xanthin → Harnsäure
 - Kein Energiegewinn
 
-## Pyrimidinbasen
+### Pyrimidinbasen
 
 - **Reaktionen**:: Reduktion, Ringspaltung, Desaminierung, Decarboxylierung
 - CMP / UMP → Acetyl-CoA
 - TMP → Propionyl-CoA → SuccinylCoA ([[Citratzyklus]])
 
-# Klinik
+## Klinik
 
-## Hyperurikämie
+### Hyperurikämie
 
 - Schlechte Wasserlöslichkeit der Harnsäure → Auskristallisation bei Konzentrationserhöhung bzw. [[pH]]↓
     - Bei vielen Säugetieren: Harnsäure —Uricase→ Allantoin
@@ -123,10 +123,10 @@ Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückg
         - **Allopurinol**:: Kompetitive Hemmung der Xanthinoxidase (viele NW, insb. [[Niere]])
         - **Febuxostat**
 
-## Klinik
+### Klinik
 ![[Lesch-Nyhan-Syndrom]]
 
-## Hemmstoffe der Purinsynthese
+### Hemmstoffe der Purinsynthese
 
 - **Glutaminanaloga**:: Div. Ansatzpunkte
 - **[[Methotrexat]] / Aminopterin**:: Folsäureanaloga, hemmt H2-Folat-Reduktase

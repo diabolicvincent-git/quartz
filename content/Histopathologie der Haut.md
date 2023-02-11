@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m09, Fach/Histologie, Fach/Dermatologie]
-title: Histologie diverser Hauterkrankungen
+title: Histopathologie der Haut
 ---
 
 - **Akanthose**:: Verbreiterung der [[Epidermis]]
@@ -14,7 +14,7 @@ title: Histologie diverser Hauterkrankungen
 
 ![[Untitled 63.png]]
 
-# Histologie diverser Hauterkrankungen
+## Histologie diverser Hauterkrankungen
 
 - **Seborrhoische Keratose (Alterswarzen)**
     - Hyperkeratose, Akanthose, Papillomatose

@@ -1,29 +1,29 @@
 ---
 tags: [Modul/m12, Fach/Physiologie, Fach/Gastroenterologie]
-title: Hunger-Sättigungsregulation
+title: Regulation der Nahrungsaufnahme
 ---
-## Regulationszentren
+### Regulationszentren
 - **[[Hypothalamus]]**
 	- weitere Zentren
 	- Ncl. arcuatus
 - **[[Medulla oblongata]]**
 	- Ncl. tractus solitarii
 
-## Mechanische Regulation
+### Mechanische Regulation
 - Dehnungsrezeptoren in [[Magen]] & [[Dünndarm]]
 	- [[Sympathikus]] Afferenzen
 	- [[N. vagus (X)]] Affarenzen
 
-## Hormonelle Kurzzeit-Regulation
+### Hormonelle Kurzzeit-Regulation
 - [[BZ]]-Spiegel
 - Cholecystokinin (CCK)
 - Ghrelin
 - GLP-1
 - PYY
 
-## Hormonelle Langzeit-Regulation
+### Hormonelle Langzeit-Regulation
 - [[Leptin]]
 - [[Insulin]]
 
-# Hunger-Sättigungsregulation
+## Hunger-Sättigungsregulation
 ![[Hunger-Sättigungsregulation]]

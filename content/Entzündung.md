@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m08, Modul/m17]
-title: Mechanismen
+title: Entzündung
 ---
-### Entzündung 
+#### Entzündung 
 > Immunologische Antwort auf Gewebe-/[[Zellschädigung]]
 
 
@@ -25,10 +25,10 @@ title: Mechanismen
 > Unkontrollierte Akute-Phase-Reaktion = [[Sepsis]]
 
 
-## Diagnostik
+### Diagnostik
 ![[Akute-Phase-Proteine]]
 
-## Beispiele
+### Beispiele
 Netea MG et al, Nature Immunology, 2017
 
 Erkrankung|Charakteristika|Mechanismen
@@ -47,10 +47,10 @@ Entzündliche Hauterkrankungen|Inflammation apokriner [[Drüsen]]<br>Th2↑ ([[A
 
 
 ---
-# Mechanismen
+## Mechanismen
 ![[Pasted image 20210412200007.png]]
 
-## Noxen
+### Noxen
 
 - Physikalische Einflüsse
 - Ischämien
@@ -59,7 +59,7 @@ Entzündliche Hauterkrankungen|Inflammation apokriner [[Drüsen]]<br>Th2↑ ([[A
 - Autoimmunkrankheiten
 - Entgleiste [[Enzyme]]
 
-## Verlauf einer [[Entzündung]]
+### Verlauf einer [[Entzündung]]
 
 - Erhöhung der Gefäßpermeabilität durch Gefäßmediatoren (z.B. [[Histamin]], [[Prostaglandin]], Kinine aus Mastzellen)
 - Freisetzung von Cytokinen (TNFalpha, [[IL-1]], [[IL-6]]) und Chemokinen aus [[Makrophagen]]
@@ -69,7 +69,7 @@ Entzündliche Hauterkrankungen|Inflammation apokriner [[Drüsen]]<br>Th2↑ ([[A
     - Eosinophile (v.a. durch [[Parasiten]] aktiviert)
     - Basophile (v.a. durch [[Bakterien]] und [[IgE]]-Anlagerung aktiviert)
 
-### Akute [[Entzündung]]
+#### Akute [[Entzündung]]
 
 Noxe → Aktivierung von Mastzellen → [[Histamin]] Freisetzung → [[Diapedese]] von [[Leukocyten]]
 
@@ -81,7 +81,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
     - Chronische [[Entzündung]]
     - Abszessbildung
 
-### Chronische [[Entzündung]]
+#### Chronische [[Entzündung]]
 
 - Entzündungsprozess endet nicht, wenn er soll (Noxe/Schaden bleibt bestehen)
 - **Ursachen**
@@ -91,7 +91,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
     - Fremdstoffe im Körper
     - Malignome
     - ..
-# Stadien der Wundheilung
+## Stadien der Wundheilung
 
 1. [[Hämostase]]
     - s. [[Hämostase|Gerinnung]]
@@ -107,7 +107,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
 - Synthese der [[Eicosanoide]]
 - NF kappa B
 
-# Akute vs Chronische Entzündungsreaktion
+## Akute vs Chronische Entzündungsreaktion
 |Merkmal|Akut|Chronisch|
 |---|---|---|
 |Ursachen|"Pathogene, Verletzungen, Strahlen, Hitze, Kälte"|"Persistierende Pathogene, Autoantigene, atopische Ablagerungen"|
@@ -120,7 +120,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
 
 
 ---
-# VL Entzündung
+## VL Entzündung
 
 
 
@@ -163,7 +163,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
 - primär chronisch: schleichender Beginn, langer Verlauf
 - rezidivierend: schubhafter Verlauf mit krankheitsfreien Intervallen
 
-## Kardinalzeichen
+### Kardinalzeichen
 - **Rubor (Rötung)**:: [[Vasodilatation]] → erhöhter Blutfluss
 - **[[Tumor]] (Schwellung)**:: Erhöhte Gefäßpermeabilität → Austritt von [[Leukocyten]], Gewebsflüssigkeit, Fibrin → Schwellung
 - **Dolor ([[Schmerz]])**:: Durch chemische Mediatoren
@@ -172,7 +172,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
 
 ![[Pasted image 20210412085251.png]]
 
-## Entzündliches Exsudat - Bildung und Zusammensetzung
+### Entzündliches Exsudat - Bildung und Zusammensetzung
 
 - Serös
 - Fibrinös
@@ -185,7 +185,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
 - Granulierend
 - Granulomatös
 
-## Makroskopische und Histologische Befunde einer Entzündungsreaktion
+### Makroskopische und Histologische Befunde einer Entzündungsreaktion
 
 
 

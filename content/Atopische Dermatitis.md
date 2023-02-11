@@ -14,7 +14,7 @@ title: Atopische Dermatitis
 	- Ggf. + [[Glucocorticoide]] + Calcineurininhibitoren + Phototherapie + Antipruriginosum + Antiseptikum
 - **Prognose**:: 60% heilt in der [[Pubertät]] aus
 ---
-## Alt
+### Alt
 - **Def. Atopie**
     1. Neigung zu *allergischen Soforttyp-Reaktionen (Typ I)* auf ansonsten harmlose Substanzen der Umwelt
     2. Bereitschaft zu krankhaft erhöhter *[[IgE]]-Bildung*
@@ -25,7 +25,7 @@ title: Atopische Dermatitis
     - Darm, Haut: Nahrungsmittelallergie
     - Haut: Atopische Dermatitis
 
-# Atopische Dermatitis
+## Atopische Dermatitis
 
 > "Red & Itchy"
 

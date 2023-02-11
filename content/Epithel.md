@@ -1,13 +1,13 @@
 ---
 tags: [Modul/m05, Fach/Histologie]
-title: Oberflächenepithel
+title: Epithel
 ---
 
 - Grundgewebeart; Vorkommen in fast allen Organen an inneren/äußeren Körperoberflächen als Deckschicht & [[Drüsen]]
 - Entstehung: aus Ektoderm ([[Epidermis]]), Mesoderm (Mesothel; Endothel) und Endoderm (respiratorisches Epithel; Epithel des GI-Trakts inkl. Anhangsdrüsen [[Leber]] & [[Pankreas]])
 - Unterteilung nach überwiegender Funktion in OF-Epithel, Drüsenepithel, Sinnesepithel
 
-## Histologische Charakteristika
+### Histologische Charakteristika
 
 1. **gut erkennbare Einzelzellen** mit Zellkern und deutlichem Cytoplasma
 2. **Ähnlichkeit der Zellformen** benachbarter Zellen innerhalb eines Epithels (Ausnahme: Sonderzellen)
@@ -17,9 +17,9 @@ title: Oberflächenepithel
 6. reich an Zell-Zell- und Zell-Matrix-Kontakten
 7. nicht vaskularisiert (Versorgung über darunterliegendes [[Bindegewebe]])
 
-# Oberflächenepithel
+## Oberflächenepithel
 
-## Funktionen
+### Funktionen
 
 - **Schutz** vor exogenen Noxen *(z.B. Strahlung, Chemikalien)*, mechanischen Einflüssen und Mikroorganismen
     - Diffusionsbarriere (Abdichtung durch Tight Junctions)
@@ -28,7 +28,7 @@ title: Oberflächenepithel
 - organspezifische Funktionen („Parenchym“)
 - Bildung und Bewegung eines Schleimteppichs
 
-## Einteilungskriterien
+### Einteilungskriterien
 
 - **Zellform**
     - Platt: Breite > Höhe (Bsp.: Haut, Oesophagus, Portio uteri, Serosa)
@@ -46,7 +46,7 @@ title: Oberflächenepithel
 - Sonderzellen
     - z.B. Becherzellen
 
-## Besondere Epithelien
+### Besondere Epithelien
 
 - einschichtiges Plattenepithel (Endothel: [[Gefäße]]; Alveolarepithel: Alveolen; Mesothel: seröse Räume)
 - mehrschichtiges verhorntes Plattenepithel (nur [[Epidermis]]) Einteilung: Stratum basale, Stratum spinosum, Stratum granulosum, Stratum corneum
@@ -54,11 +54,11 @@ title: Oberflächenepithel
 - Übergangsepithel / Urothel (ableitende Harnwege) Aufbau variiert nach Füllungszustand
 - respiratorisches Flimmerepithel (luftleitende Atemwege) mehrreihiges hochprismatisches Epithel mit vielen Kinocilien und Becherzellen
 
-# Drüsenepithel
+## Drüsenepithel
 
 Einzelne Epithelzellen (z.B. Becherzellen) oder ganze Epithelzellverbände (z.B. Parotis), die ein Sekret herstellen und in den Extrazellulärraum freisetzen
 
-## Einteilungskriterien
+### Einteilungskriterien
 
 - Form der Endstücke
     - Tubulös
@@ -79,7 +79,7 @@ Einzelne Epithelzellen (z.B. Becherzellen) oder ganze Epithelzellverbände (z.B.
     - Mukös
 
 
-## Besondere Drüsen
+### Besondere Drüsen
 
 - Einzellige intraepitheliale [[Drüsen]]
     - exokrin (Becherzellen, Paneth‘sche Körnerzellen)

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15, Fach/Neurologie]
-title: Neurophysiologie
+title: Kleinhirnsyndrom
 ---
-### Symptome
+#### Symptome
 - **==Cerebelläre [[Ataxie]]==**
 	- Gangataxie 
 	- Rumpfataxie 
@@ -14,7 +14,7 @@ title: Neurophysiologie
 
 ![[Untitled 3 5.png]]
 
-## Anatomie
+### Anatomie
 
 - Je weiter in den Hemisphären → Extremitäten betroffen
 - Mehr Vermis → R
@@ -26,7 +26,7 @@ title: Neurophysiologie
 
 
 
-## Klinische Untersuchung
+### Klinische Untersuchung
 
 - Gang, Seiltänzergang (breitbasiger ataktischer Gang)
 - Wenden (erhöhte Wendeschrittzahl)
@@ -44,35 +44,35 @@ title: Neurophysiologie
 - Diadochokinese (Dysdiadochokinese)
 - Tonus ([[Hypotonie]])
 
-## Klinische Zeichen Spino-Cerebelläres Syn!
+### Klinische Zeichen Spino-Cerebelläres Syn!
 [[Untitled 4 2.png]]
 
-## Pathologische Kleinhirnzeichen
+### Pathologische Kleinhirnzeichen
 
-## Erkrankungen des Cerebellum
+### Erkrankungen des Cerebellum
 
-## Zusammenfassung
+### Zusammenfassung
 
-## Empfehlungen
+### Empfehlungen
 
-# Neurophysiologie
+## Neurophysiologie
 
-## Symptome von Kleinhirnschädigung
+### Symptome von Kleinhirnschädigung
 ![[Untitled 5 2.png]]
 ![[Untitled 6 2.png]]
 
-## Funktionelle Anforderungen des Kleinhirns
+### Funktionelle Anforderungen des Kleinhirns
 
 - Feinabstimmung räumlich-zeitlich
 - Schnelle Zielbewegungen 50-100 ms durch Vorhersage und Automatisierung — Vorwärtssteuerung
 - Berechnung des präzisen Bewegungsprogramms aus Ist-Sensorik, Soll-Plan, gespeicherte Information
 - Lernfähig: Abläufe automatisieren und anpassen
 
-## Extra
+### Extra
 
 - Ethanol ist GABAa-[[Rezeptor]] Agonist, insb. an cerebellären Körnerzellen (besonders sensitive
 
-## Lernziele
+### Lernziele
 
 - Myoklonien erkennen und ihre klinischen Charakteristika beschreiben
 - Haltetremor und Intentionstremor erkennen und ihre klinischen Charakteristika beschreiben

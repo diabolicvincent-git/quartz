@@ -1,10 +1,10 @@
 ---
 tags: [Modul/m09, Fach/Dermatologie, Art/Intervention]
-title: Arten von Wunden
+title: Wundversorgung
 ---
 
 
-# Arten von Wunden
+## Arten von Wunden
 
 - **Schürfwunden**
     - Oft im Bereich prominenter knöcherner Strukturen
@@ -48,7 +48,7 @@ title: Arten von Wunden
     - [Verätzung durch Laugen](https://next.amboss.com/de/article/Jh0sUf#Z3d3a86feaa4749bdcbf2f222c32275fe)
     - [Strahlendermatitis](https://next.amboss.com/de/article/Jh0sUf#Z7afea541b812e7638f5da37efee7f914)
 
-# Wundversorgung
+## Wundversorgung
 
 - **Alter der Wunde**
     - < 6-8 h: Naht möglich, primäre chirurgische Wundversorgung
@@ -62,12 +62,12 @@ title: Arten von Wunden
     - Wundränder: glatt oder unregelmäßig
 - **Lokalisation**:: Durchblutung und Heilung am [[Kopf]] besser als an Extremitäten
 
-## Antiseptika
+### Antiseptika
 
 - **Anwendung**:: Präventiv und therapeutisch zum Schutz vor Wundinfektionen
 - **Beispielpräparate**:: Polihexanid (Prontosan), Octenidindihydrochlorid (Octenisept)
 
-## Primäre chirurgische Wundversorgung
+### Primäre chirurgische Wundversorgung
 
 - **Primärnaht**
     - **Indikation**:: Saubere, glatt begrenzte, adaptierbare Wunden
@@ -89,7 +89,7 @@ title: Arten von Wunden
     - **Sekundärnaht**:: Offene Wundbehandlung, Adaptation der Wundränder frühestens 8 Tage nach Verletzung nach Ausbildung von Granulationsgewebe
     - **Vorteile**:: Ungehinderter Sekretabfluss, Rückgang des Wundödems, Möglichkeit des erneuten Débridements, Vermeidung anaerober Keiminfektionen (z.B. Tetanus, Gasbrand)
 
-## Offene Wundversorgung
+### Offene Wundversorgung
 
 - **Indikation**:: Bei schmutzigen, infizierten, zerfetzten oder fremdkörperhaltigen Wunden
 - **Durchführung**

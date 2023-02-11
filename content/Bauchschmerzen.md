@@ -1,12 +1,12 @@
 ---
 tags: [Modul/m12, Modul/m21, ToDo Modul/m22, Fach/Gastroenterologie, Art/Pathologie, Fach/Gynäkologie, Fach/Gastroenterologie, Modul/m26]
-title: SEM4 Propädeutik DD Bauchschmerzen
+title: Bauchschmerzen
 ---
-### Bauchschmerzen
+#### Bauchschmerzen
 
 ![[Pasted image 20220419124618.png]]
 
-## DD Akute Bauchschmerzen
+### DD Akute Bauchschmerzen
 | Erkrankung                | -   |
 | ------------------------- | --- |
 | **[[Appendizitis]]**      | -   |
@@ -41,7 +41,7 @@ DD 3. [[Extrauteringravidität]]
 
 
 
-# SEM4 Propädeutik DD Bauchschmerzen
+## SEM4 Propädeutik DD Bauchschmerzen
        
 
 rechtsseitige Oberbauchschmerzen pathophysiologisch als Folge einer Entzündung der Gallenblasen erläutern können.

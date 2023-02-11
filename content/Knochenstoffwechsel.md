@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m05, Fach/Physiologie, Fach/Biochemie, Fach/Orthopädie]
-title: Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
+title: Knochenstoffwechsel
 ---
 - **Knochenzellen**
     - Osteocyten (85%)
@@ -21,7 +21,7 @@ title: Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
 
             ![[Untitled 69.png]]
 
-# Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
+### Rolle der Osteoblasten, Hormon, Cytokine bei der Regulation des KS
 
 Knochenturnover v.a. determiniert durch Verhältnis RANKL zu OPG
 
@@ -83,13 +83,13 @@ Zweifaches Signal: *RANKL* & *M-CSF* im Verhältnis zu Gegenspieler *OPG*
             - **Wirkung in der [[Niere]]**:: [[Ca2+]] und [[Phosphat]] Rückresorption
         - **[[Calcitonin]]**
 
-# die Schritte der endogenen Calcitriolsynthese (1,25 (OH)2 Cholecalciferol) und deren Lokalisation und Regulation beschreiben sowie erklären, warum eine alimentäre Zufuhr von [[Vitamin D]] trotz der endogenen Synthesemöglichkeit bedeutsam ist
+### die Schritte der endogenen Calcitriolsynthese (1,25 (OH)2 Cholecalciferol) und deren Lokalisation und Regulation beschreiben sowie erklären, warum eine alimentäre Zufuhr von [[Vitamin D]] trotz der endogenen Synthesemöglichkeit bedeutsam ist
 
-# die Abhängigkeit des Knochenumbaus vom Kalziumhaushalt darlegen können.
+### die Abhängigkeit des Knochenumbaus vom Kalziumhaushalt darlegen können.
 
 #Modul/m05 #Modul/m10
 
-### Knochendichte-beeinflussende Faktoren
+##### Knochendichte-beeinflussende Faktoren
 - Osteoblasten / Osteoklasten Aktivität
 	- RANK-[[Rezeptor]] auf Osteoklasten ++
 	- RANKL auf Osteoblasten membranständig

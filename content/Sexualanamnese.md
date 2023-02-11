@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m06, Modul/m22]
-title: Elli Anamnesegruppe
+title: Sexualanamnese
 ---
-### Sexualanamnese
+#### Sexualanamnese
 - **5x3 der Sexualanamnese**
 	1. **3 Grundlagen**:: *biologisch* (Körperlichkeit), *psychologisch* (Persönlichkeit), *sozial* (Partner)
 	2. **3 Dimensionen**:: Lust, Fortpflanzung, Beziehung
@@ -19,14 +19,14 @@ title: Elli Anamnesegruppe
 	- **Psychischer Befund**:: Eindruck, Übertragung/Gegenübertragung, [[Psychotherapie]]
 	- **Sozialer Befund**:: Aktuelle Situation, Wohnung, Arbeit, Finanzen, Kinder
 ---
-## Sexualler Reaktionszyklus
+### Sexualler Reaktionszyklus
 ![[Pasted image 20211115121230.png]]
-# Elli Anamnesegruppe
+## Elli Anamnesegruppe
 > Patienten sprechen Sexualität oft nicht an
 
 > Medikamentnebenwirkungen die sich auf Sexualität auswirken können, thematisieren (Libido-heruntersetzend, Wechselwirkungen mit Pille, unfruchtbar-machend)
 
-# Anzusprechende Themen
+## Anzusprechende Themen
 - Menarche/[[Menopause]] → Zyklus
 - erlebte Schwangerschaften/Geburten/Kinder
 - Probleme in der Sexualität
@@ -36,34 +36,34 @@ title: Elli Anamnesegruppe
 - Impfungen
 - Nicht nur Konflikt-, sondern auch Ressourcenorientiert
 
-# Dimensionen
+## Dimensionen
 - Fortpflanzung
 - Lust
 - Beziehung
 - Identität
 
-# Patientenzentrierte Medizin
+## Patientenzentrierte Medizin
 1.  biopsychosoiale Perspektive
 2.  Bewusstsein des Patienten als Person
 3.  geteilte Verantwortung der Autorität zwischen Doktor und Patient
 4.  Fokus auf eine Therapeutische Beziehung
 5.  Bewusstsein des Arztes als Person
 
-# Rahmenbedingungen der Sexualanamnese
+## Rahmenbedingungen der Sexualanamnese
 
-## Wann
+### Wann
 - nicht als Einstieg ins Anamnesegespräch
 - Angebot machen, Patientenautonomie beachten und klar machen
 
-## Bei wem
+### Bei wem
 - jedem
 - nicht, wenn man selbst nicht in der Lage fühlt oder wenn therapeutische Beziehung nicht stimmt
 
-## Warum
+### Warum
 - wichtiges Thema
 - Auch Augenmerk auf Ressourcen und nicht nur Probleme
 
-## Einstieg und Raum
+### Einstieg und Raum
 - zeitlicher Rahmen nennen
 - alleine im Raum, [[Schweigepflicht]]
 - Begründen, warum man fragt
@@ -76,14 +76,14 @@ title: Elli Anamnesegruppe
 - Altersstruktur in Beziehungen
 - Wünsche/Vorstellungen Weiterentwicklung Sexualität? als Gesprächsabschluss
 
-## Formen von Gewalt
+### Formen von Gewalt
 - → psychisch
 - → physisch
 - → sozial
 - → ökonomisch
 - → sexualisiert
 
-## Gesprächsführung bei Vermutung Gewalt
+### Gesprächsführung bei Vermutung Gewalt
 - "Routinefragen"
 - konkret Fragen
 - klar Stellung gegen Gewalt und zu betroffenen Person beziehen
@@ -91,13 +91,13 @@ title: Elli Anamnesegruppe
 - Balance finden geschilderte Details → Retraumatisierung
 - konkret Kontakt halten
 
-# Fragen nach häuslicher Gewalt
+## Fragen nach häuslicher Gewalt
 -   Sind Sie in einer Beziehung
 -   Wie ist ihre derzeitige Wohnsituation
-### Finanziell
+#### Finanziell
 
 -   Fühlen Sie sich finanziell sicher
-### Psychisch/Sexuell
+#### Psychisch/Sexuell
 -   Fühlen Sie sich sicher in Ihrer Beziehung mit Ihrem Partner/ Ihren Partnern    -   Gab es Momente, in welchen dies nicht so war
 -   Haben Sie in einer früheren, der jetzigen Beziehung Gewalt erfahren
 -   Gab es Situationen, bei denen ihnen sexuelle Handlungen negativ in Erinnerung geblieben sind
@@ -105,11 +105,11 @@ title: Elli Anamnesegruppe
 -   Fühlen Sie sich Zuhause sicher
 -   Hatten Sie schonmal gegen Ihren Willen Sex/sexuelle Handlungen? Kam dies schon öfter vor
 -   Werden Sie zu Dingen genötigt, die Sie eigentlich nicht wollen
-### Sozial
+#### Sozial
 
 Konkret Fragen: "wurden sie geschlagen?"
 
-## Schwangerschaftsabbrüche
+### Schwangerschaftsabbrüche
 -   pro Jahr in DE: 100.000
 -   häufigsten Schwangerschaftsabbrüche bei Frauen, die min. 1 Kind geboren haben
 -   Schwangerschaftsabbruch ist Straftatbestand als "Straftat gegen das Leben" (218)
@@ -125,7 +125,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 -   219a
     -   öffentliches Anbieten, Dienste, Förderung bei Anbieten von Schwangerschaftsabbrüchen
     
-### Methoden des Schwangerschaftsabbruchs
+#### Methoden des Schwangerschaftsabbruchs
 -   Medikamentös
     -   bis zum 63. Tag nach der letzten [[Menstruation]] (7W p.c., bzw. 9W p.m.)
     -   Unterbindung der Progesteronwirkung durch Mifepriston → Lösen des Embryos aus Uterusschleimhaut → innterhalb 26-48h
@@ -137,12 +137,12 @@ Konkret Fragen: "wurden sie geschlagen?"
         -   Vorsichtige Dilatation des Gebärmutterhalses mit Hegarstiften
         -   Absuagung der [[Schwangerschaft]] mittels Erzeugung eines Unterdrucks
 
-### Nachberatung
+#### Nachberatung
 -   wenige Personen nehmen Nachberatung in Anspruch (wenn überhaupt verfügbar)
 
-# Sexualanmanese - mögliche Themen(komplexe) und Fragen
+## Sexualanmanese - mögliche Themen(komplexe) und Fragen
 
-## Lust
+### Lust
 
 **Sexuelle Präferenzen (Fantasien, Pornographie, Fetisch)**
 
@@ -165,7 +165,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 
 -   Befriedigen Sie sich selbst
 -   Wie bewerten Sie Ihre Selbstbefriedigung
-## Sexuelle Entwicklung
+### Sexuelle Entwicklung
 
 **Geschlechtsidentität**
 
@@ -180,7 +180,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 -   Gab es Schlüsselmomente
 -   Erleben Sie Konflikte/Diskriminierung durch Ihre sexuelle Orientierung
 -   Wie reagieren Sie auf Stigmatisierungen und Diskriminierungen, die mit ihrer Sexualität einhergehen    -   Gibt es Ressourcen, die Ihnen beim Umgang damit helfen
-## Fortpflanzung
+### Fortpflanzung
 
 **[[Schwangerschaft]], Familienplanung, Kinderwunsch**
 
@@ -198,7 +198,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 
 -   Waren Sie schon einmal ungewollt schwanger
 -   Wie sind Sie damit umgegangen
-## Beziehung
+### Beziehung
 
 **Beziehungsformen**
 
@@ -232,7 +232,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 -   Wie kommunizieren Sie mit Ihre_m Partner_in, wenn Sie/Ihr Partner\*in Lust auf Sex hat
 -   Wie gehen Sie damit um
 -   Gab es Situationen, in denen Sie sexuelle Handlungen, mit welchen Sie sich unwohl gefühlt haben, toleriert haben oder sexuelle Handlungen gegen Ihren Willen ausgeführt wurden
-## Bezug zum eigenen Körper
+### Bezug zum eigenen Körper
 
 **Körperbild**
 
@@ -253,7 +253,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 
 -   Welche Gefühle ruft Nacktsein bei Ihnen hervor
 -   Wie fühlen Sie sich in Bezug auf die eigene Nacktheit
-## Biomedizinische Aspekte
+### Biomedizinische Aspekte
 
 **Für Menschen mit [[Uterus]]:**
 
@@ -278,7 +278,7 @@ Konkret Fragen: "wurden sie geschlagen?"
 -   Wie kommunizieren Sie das mit potentiellen Geschlechtspartnern
 -   Haben Sie das Gefühl dadurch eingeschränkt zu werden
 -   Haben Sie wechselnde Geschlechtspartner
-## **[[Sexualpräferenz]]/Paraphilien**
+### **[[Sexualpräferenz]]/Paraphilien**
 
 Paraphilie = sexuelle Neigung, die deutlich von der empirischen Norm abweicht (insbesondere ausgeprägte und wiederkehrende Fantasien, Bedürfnisse, Verhaltensweisen, die sich auf unbelebte Dinge, [[Schmerz]], Demütigung, nicht einverständnisfähige Personen wie Kinder oder auf Tiere bezieht); Krankheitswert nur bei bestehendem Leidensdruck oder Schädigung der Gesellschaft ~ _Wikipedia_
 

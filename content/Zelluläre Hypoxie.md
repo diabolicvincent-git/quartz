@@ -1,13 +1,13 @@
 ---
 tags: [Modul/m13, Modul/m03, Fach/Biochemie]
-title: Veränderungen bei Hypoxie
+title: Zelluläre Hypoxie
 ---
-## Sauerstoffverwertung
+### Sauerstoffverwertung
 - 70% [[Oxidative Phosphorylierung]]
 - 15% Entkopplung (physiologisch)
 - 5% nicht-respiratorische Prozesse
 
-# Veränderungen bei Hypoxie
+## Veränderungen bei Hypoxie
 - Elektronenrückstau aus der [[Atmungskette]] in den [[Citratzyklus]]
 - **Pasteur-Effekt**:: Auf gesteigerte Energiegewinnung aus [[Glycolyse]] angewiesen (Netto 2 [[ATP]])
 	- Komplette Kompensation würde Steigerung x10 erfordern, selbst Hepatocyten schaffen maximal x5
@@ -18,7 +18,7 @@ title: Veränderungen bei Hypoxie
 		- Aktiviert: [[Glycogen]]-Phosphorylase (Glycogenolyse) und Lipasen (TAG-Abbau)
 		- Inhibiert: [[Pyruvatdehydrogenase]] ([[Citratzyklus]]), Acetyl-CoA-Carboxylase (Fettsäuresynthese), PEP-Carboxylase ([[Gluconeogenese]])
 
-## Langsame Adaption
+### Langsame Adaption
 > Transkriptioneller Mechanismus v.a. bei chronischer Hypoxie
 
 - *HIF-1α* wird ubiquitär ständig synthetesiert und normalerweise [[O2]]-abhängig an [[Prolin]]/[[Asparagin]] hydroxyliert (=Ubiquitinierungssignal)

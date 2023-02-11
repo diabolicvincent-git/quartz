@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie]
-title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
+title: Muskelphysiologie
 ---
 
 - Sarkomeraufbau
@@ -23,9 +23,9 @@ title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 
 ![[Untitled 81.png]]
 
-# das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
+## das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 
-# die verschiedenen Kontraktionsformen eines Skelettmuskels beschreiben und im Längen-Spannungsdiagramm darstellen
+## die verschiedenen Kontraktionsformen eines Skelettmuskels beschreiben und im Längen-Spannungsdiagramm darstellen
 
 - **Isotonisch**:: Muskel verkürzt sich ohne Kraftänderung (z.B. anwinkeln)
 - **Isometrisch**:: Kraft erhöht sich, Länge bleibt gleich (z.B. Halten eines Gegenstands)
@@ -35,7 +35,7 @@ title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 
 ![[Untitled 1 30.png]]
 
-# die Kraft-Geschwindigkeits- Beziehung eines Muskels anhand eines Diagramms darstellen und erläutern
+## die Kraft-Geschwindigkeits- Beziehung eines Muskels anhand eines Diagramms darstellen und erläutern
 
 - **Isokinetisch**:: Gleichbleibende Geschwindigkeit
 - **Konzentrisch**:: Muskel überwindet Widerstand und wird dadurch kürzer
@@ -43,7 +43,7 @@ title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 
 ![[Untitled 2 17.png]]
 
-# den Ablauf der elektromechanischen Kopplung und die beteiligten Strukturen & Moleküle detailliert beschreiben
+## den Ablauf der elektromechanischen Kopplung und die beteiligten Strukturen & Moleküle detailliert beschreiben
 
 1. **[[Aktionspotentiale]]** an neuromuskulärer [[Synapse]]
     1. Cav2+ Einstrom
@@ -62,7 +62,7 @@ title: das Arbeitsdiagramm eines Skelettmuskels beschreiben und interpretieren
 
 - **[[Maligne Hyperthermie]]**:: [[Mutation]] im RyR (nur [[Skelettmuskulatur]])
 
-# die Bedeutung von [[Ca2+]] und [[ATP]]/[[ADP]] im [[Querbrückenzyklus]] darstellen
+## die Bedeutung von [[Ca2+]] und [[ATP]]/[[ADP]] im [[Querbrückenzyklus]] darstellen
 
 - [[Querbrückenzyklus]] / Sarkomerzyklus
     1. Myosinkopf bindet [[ATP]] → löst sich von [[Aktin]]

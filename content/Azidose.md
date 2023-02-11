@@ -1,17 +1,17 @@
 ---
 tags: [Modul/m13, Fach/Nephrologie, Fach/Laboratoriumsmedizin]
-title: Respiratorische Azidose
+title: Azidose
 ---
-# Respiratorische Azidose
-## Ätiologie
+## Respiratorische Azidose
+### Ätiologie
 - **Hypoventilation** ([[Ventilationsstörungen]])
 
-# Metabolische Azidose
-## Ätiologie
+## Metabolische Azidose
+### Ätiologie
 - Ketoazidose
 - [[Diarrhoe]]
 - [[CKD]]
-## Diagnostik
+### Diagnostik
 > Differenzierung mittels [[Anionenlücke]]
 
 ![[Anionenlücke]]

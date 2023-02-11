@@ -1,7 +1,7 @@
 ---
-title: Anatomischer Teil
+title: Entwicklung der Atemwege
 ---
-# Anatomischer Teil
+## Anatomischer Teil
 
 - **Vorkommende [[Zellen]]**
     - Endothelzellen
@@ -12,18 +12,18 @@ title: Anatomischer Teil
     - Bindegewebige Strukturen in Zwischenräumen
     - [[Glatte Muskulatur]]
 
-## den Zeitplan der Lungenentwicklung im Hinblick auf den frühestmöglichen Termin einer Geburt (unter Bedingungen der optimalen medizinischen Versorgung) beschreiben können.
+### den Zeitplan der Lungenentwicklung im Hinblick auf den frühestmöglichen Termin einer Geburt (unter Bedingungen der optimalen medizinischen Versorgung) beschreiben können.
 
 ![[Untitled 50.png]]
 
-## Embryonalperiode: Organanlage
+### Embryonalperiode: Organanlage
 
 - Laryngotrachealrinne entwickelt sich nach kaudal parallel zum [[Ösophagus]]
 - Um 30. Entwicklungstag
 - [[Lunge]]-/Bronchialparenchym: Endoderm
 - [[Bindegewebe]] und [[Gefäße]] der [[Lunge]]: Mesoderm
 
-## Fetalperiode: Ausbildung des Bronchialbaumes
+### Fetalperiode: Ausbildung des Bronchialbaumes
 
 - **Dichotome Teilung**:: Lateraler Teil meist kleiner
 1. Pseudoglanduläre Phase
@@ -31,13 +31,13 @@ title: Anatomischer Teil
 3. Sacculäre Phase
 4. Alveoläre Phase
 
-## Postnatalperiode: Ausbildung der Alveolen
+### Postnatalperiode: Ausbildung der Alveolen
 
 - Umstellung der Alveolen bei Geburt
     - Reduktion der Flüssigkeitssekretion
     - Flüssigkeitsresorption (Stimulation durch [[Katecholamine]], Wehen, [[ADH]], [[Prostaglandin]] E2)
 
-## die funktionell wichtigsten [[Lipide]] und [[Proteine]] des [[Surfactant]] benennen und zuordnen können.
+### die funktionell wichtigsten [[Lipide]] und [[Proteine]] des [[Surfactant]] benennen und zuordnen können.
 
 - Gebildet von Pneumocyten Typ II
 - Ab 24. [[SSW]]
@@ -51,15 +51,15 @@ title: Anatomischer Teil
     - Hält Alveolen offen, trocken, sauber
 - **Laplace-Gesetz**:: Oberflächendruck = 2 x OF-Spannung / Radius → kleinere Alveolen "müssten" eigtl. zu günsten größerer kollabieren
 
-## die histologischen Phasen der Lungenentwicklung benennen und erläutern können.
+### die histologischen Phasen der Lungenentwicklung benennen und erläutern können.
 
 ...
 
 ![[Untitled 1 20.png]]
 
-# Klinischer Teil
+## Klinischer Teil
 
-## am Beispiel des Atemnotsyndroms Frühgeborener die Bedeutung der morphologischen und biochemischen Lungenreifung für die [[Atemmechanik]] ableiten können.
+### am Beispiel des Atemnotsyndroms Frühgeborener die Bedeutung der morphologischen und biochemischen Lungenreifung für die [[Atemmechanik]] ableiten können.
 
 - **Synonyme**:: Respiratory distress syndrome (RDS), Surfactantmangelsyndrom, Hyaline membrane disease, Atemnotsyndrom des Neugeborenen (ANS)
 - **Pathophysiologie**:: Kollabieren der Alveolen → Mikroatelektasen → Weniger Gasaustauschfläche → [[O2]]↓ im [[Blut]], ↑CO2 im [[Blut]] → Azidose und [[Vasokonstriktion]] → Gewebeschädigung → [[Entzündung]] mit fibrinöser Exsudation → Aufbau hyaliner Membranen → auch langfristig schlechterer Gasaustausch
@@ -87,6 +87,6 @@ title: Anatomischer Teil
         - ABCA3 (Lamellenkörperchen) fehlt: [[Surfactant]] wird nicht richtig sezerniert
 - **DD: Mekonium-Aspiration**
 
-## die wesentlichen Merkmale einer „geburtstauglichen“ Alveole erläutern können.
+### die wesentlichen Merkmale einer „geburtstauglichen“ Alveole erläutern können.
 
 #Modul/m13

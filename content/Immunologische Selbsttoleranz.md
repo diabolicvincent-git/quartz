@@ -1,15 +1,15 @@
 ---
-title: Zentrale Toleranz
+title: Immunologische Selbsttoleranz
 ---
 
 
 - **Problem**:: Entstehung von Antigen-erkennenden Strukturen durch Zufall → Gefahr der Exprimierung selbsterkennender Immunzellen
 
-## Danger Model
+### Danger Model
 
 > Das aktuelle *danger model* besagt, dass Immunzellen gegen Dinge, die eine Gefahr darstellen / Schaden anrichten vorgeht; somit werden gefahrlose Substrate nicht attackiert
 
-# Zentrale Toleranz
+## Zentrale Toleranz
 
 Toleranzmechanismen bei der Entwicklung von [[Lymphocyten]] im Thymus bzw. im [[Knochenmark]]
 
@@ -23,7 +23,7 @@ Toleranzmechanismen bei der Entwicklung von [[Lymphocyten]] im Thymus bzw. im [[
 
 - Entstehung Regulatorischer [[T-Zellen]]
 
-# Periphere Toleranz
+## Periphere Toleranz
 
 Toleranzmechanismen bezogen auf immunkompetente, reife [[Lymphocyten]]
 

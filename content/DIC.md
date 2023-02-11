@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m17, Modul/m21, Fach/Hämatologie, Art/Pathologie]
-title: VL DD Akute Gerinnungsstörung
+title: DIC
 ---
-### Verbrauchskoagulopathie / Disseminierte intravasale Gerinnung / DIC 
+#### Verbrauchskoagulopathie / Disseminierte intravasale Gerinnung / DIC 
 - **Pathophysiologie**:: ==Systemische Gerinnungsaktivierung==
 	1. *Disseminierte intravasale Gerinnung* → Mikrothromben → Störung der [[Mikrozirkulation]] → Organdysfunktion
 	2. *Verbrauchskoagulopathie* → Faktormangel → [[Blutung]]
@@ -10,7 +10,7 @@ title: VL DD Akute Gerinnungsstörung
 - **Therapie** 
 	- Therapie der Grundkrankheit
 
-### ISTH-Score
+#### ISTH-Score
 > ≥5 Punkte + entsprechende Grundkrankheit = akut manifeste DIC
 
 Punkte|0|1|2
@@ -20,4 +20,4 @@ Punkte|0|1|2
 Fibrinogen g/l|>1|≤1|
 Prothrombinzeit ([[Quick]])|>60%|40-60%|<40%
 
-# VL DD Akute Gerinnungsstörung
+## VL DD Akute Gerinnungsstörung

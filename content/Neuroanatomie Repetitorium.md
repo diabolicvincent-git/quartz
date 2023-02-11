@@ -1,13 +1,13 @@
 ---
-title: Einführung
+title: Neuroanatomie Repetitorium
 ---
 
 
-# Einführung
+## Einführung
 
 - "The Human Connectome" inspiriert von "The Human Genome"
 
-## Embryologische Grundlagen
+### Embryologische Grundlagen
 
 ***Buchempfehlung**:: The human central nervous system für Neuro-Cracks*
 
@@ -38,7 +38,7 @@ title: Einführung
 
 ![Untitled 111.png]
 
-## Corticale Einteilung
+### Corticale Einteilung
 
 - [Frontallappen]
     - Sulcus centralis
@@ -54,25 +54,25 @@ Nicht reinpassend: Gyrus cinguli ("Gürtel") → [Limbisches System]
 
 ![Untitled 2 27.png]
 
-# Graue Substanz
+## Graue Substanz
 
-## Cortex
+### Cortex
 
 - [Neocortex] (6 Schichten)
 - Allocortex (weniger Schichten, z.B. Hippocampus mit 3)
     - Archicortex
     - Palleocortex
 
-## Nuclei
+### Nuclei
 
 *Def. Nucelus: Ansammlung von Somata im [ZNS] (PNS = Ganglion)*
 
-# Weiße Substanz
+## Weiße Substanz
 
 - Heller aufgrund von Myelinisierung
 - Hochgradig organisierte Fasern
 
-## Verbindungsarten
+### Verbindungsarten
 
 - **Kommissuren** (Corpus callosum, Commissur anterior) verbinden beide Hemisphären
 - **Assoziationen** verbinden innerhalb einer Hemisphäre
@@ -80,13 +80,13 @@ Nicht reinpassend: Gyrus cinguli ("Gürtel") → [Limbisches System]
     - Arcuatus verbindet Broca- und Wernicke-Sprachzentrum
 - **Projektionen** (Tractus corticospinalis = [Pyramidenbahn]) verbinden Cortex mit subcorticalen Nuclei, [Hirnstamm] oder [Rückenmark]
 
-# Areale
+## Areale
 
 Primäre Areale sind die ersten Eintrittspunkte von [Afferenzen] und geben es dann weiter
 
 - **Multimodale Assoziationscortices** übernehmen höhere Verarbeitung
 
-# Motorisches System
+## Motorisches System
 
 - **Ablauf der Motorik**
     1. Wille, Motivation
@@ -96,7 +96,7 @@ Primäre Areale sind die ersten Eintrittspunkte von [Afferenzen] und geben es da
     3. [Basalganglien]
     4. Cerebellum
 
-## **Pyramidal & Extrapyramidal**
+### **Pyramidal & Extrapyramidal**
 
 - **Pyramidal**
     - Primär [Motorischer Cortex]
@@ -136,7 +136,7 @@ Primäre Areale sind die ersten Eintrittspunkte von [Afferenzen] und geben es da
 
 > Topie gilt für alle primären Cortices nach ihren jeweiligen Modi. (Somatotopie, Tonotopie, etc.)
 
-# [Basalganglien]
+## [Basalganglien]
 
 *[Basalganglien] falsch! = "[Basalganglien|Basalkerne], Ncl. basalis"*
 
@@ -157,7 +157,7 @@ Ncl. caudatus + Putamen **= Striatum** (histologisch + funktionell identisch; an
 
 ![Untitled 5 9.png]
 
-## Schnittbilder
+### Schnittbilder
 
 - **Frontal 1**
 
@@ -311,7 +311,7 @@ Ncl. caudatus + Putamen **= Striatum** (histologisch + funktionell identisch; an
 
     21: Fibrae pontis
 
-## Funktion (Motorische Schleifen)
+### Funktion (Motorische Schleifen)
 
 [Basalganglien] haben Verbindungen ("Schleifen") zu fast allen Cortex-Gebieten. Motorische Schleifen sind am besten bekannt.
 
@@ -342,7 +342,7 @@ Ncl. caudatus + Putamen **= Striatum** (histologisch + funktionell identisch; an
 
 Ständige Balance zwischen direktem & inderektem Weg → Abwägung zw. Bewegungen
 
-## **Neuromodulation**
+### **Neuromodulation**
 
 - **Modulation**:: Monoaminerge [Transmitter|Transmitter] (z.B. *[Dopamin]* aus *Substantia nigra, pars compacta*) projizieren → Balance halten
 - **Nigrostriataler Weg**:: [Neuron] projizieren direkt auf Striatum mit [Dopamin]
@@ -374,19 +374,19 @@ Modulatorische [Neurotransmission] ist nicht zwingend eine 1:1-Synapsenübertrag
 - **Sidenote Neuromelanin**
     - Neuromelanin als Abfallprodukt der Katecholaminsynthese (u.a. Substantia nigra, [Nebennierenmark]) → dunkle Farbe
 
-### Idiopathisches [Parkinson]-Syndrom
+#### Idiopathisches [Parkinson]-Syndrom
 - Hypokinetisch
 ![Chorea Huntington]
 
-### Hemiballismus
+#### Hemiballismus
 - Einseitige plötzliche Bewegungen
 - Läsion des *Ncl. subthalamicus*, insb.*Hyperdirekter Weg* (Gating Mechanismus zur kognitiven Kontrolle & motorischen Planung)
-### Tic-Störungen
+#### Tic-Störungen
 - z.B. Tourette-Syndrom
 - [Basalganglien]-Pathologie
-# Cerebellum
+## Cerebellum
 - **Funktion**:: Modifikation des Bewegungsplans, sodass dieser gut und sauber ablaufen kann
-### Aufbau
+#### Aufbau
 - *"Arbor vitae"* (Baum des Lebens)
 - 2 Hemisphären, über *Vermis* (Wurm) verbunden
 - *Poliae cerebelli* (Äquivalent zu Gyri des Cerebrums)
@@ -399,7 +399,7 @@ Modulatorische [Neurotransmission] ist nicht zwingend eine 1:1-Synapsenübertrag
 
 ![Pasted image 20210221181305.png]
 
-### Pedunculi cerebellaris
+#### Pedunculi cerebellaris
 | Kleinhirnstiel                   | Afferenz                                                                                                                              | [Efferenzen]                                                                 |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | **Pedunculus cerebellaris superior** ↑  | Tr. spinocerebellaris anterior (*Ausnahme:* kommt eigtl. von unten)                                                                                                       | Tr. cerebellothalamicus, Tr. cerebellorubralis                             |
@@ -408,7 +408,7 @@ Modulatorische [Neurotransmission] ist nicht zwingend eine 1:1-Synapsenübertrag
 
 > Nerven ziehen in den Pedunculus rein/raus, der Richtung wo sie herkommen (sup.: [Mesencephalon], [Diencephalon], [Großhirn]; med.: [Pons]; inf.: [Rückenmark], [Medulla oblongata])
 
-## Funktionelle Gliederung
+### Funktionelle Gliederung
 > Kerngebiete sind [Glutamat|glutamaterge] "Output-Station" des Cerebellums
 - **Vestibulocerebellum** (Lobus flocculonodularis)
 	- Ncl. fastigii
@@ -419,13 +419,13 @@ Modulatorische [Neurotransmission] ist nicht zwingend eine 1:1-Synapsenübertrag
 
 ![Pasted image 20210221202320.png]
 
-### Histologie
+#### Histologie
 - **Str. moleculare**:: Parallelfasern
 - **Str. ganglionare**:: Synapsenbildung mit Parallelfasern
 - **Purkinjezellen**:: GABAerg hemmend
 - **Str. granulosum, Körnerzellen**:: Alle [Afferenzen]; [Glutamat|Glutamaterg] erregend
 - **Marklager**
 
-# [Hirnstamm]
+## [Hirnstamm]
 
 #Modul/m15

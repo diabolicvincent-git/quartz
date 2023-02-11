@@ -1,10 +1,10 @@
 ---
 tags: [Modul/m13, Fach/Biochemie, Fach/Dermatologie]
-title: Immunabwehr der Haut
+title: Molekulare Mechanismen der dermalen Abwehr
 ---
 [[Hautflora]]
 
-# Immunabwehr der Haut
+## Immunabwehr der Haut
 
 - **Lipidmatrix mit antimikrobiellen Peptiden (*Defensinen*)** zwischen den Corneocyten des Str. Corneum
     - 40% Ceramide, 30% [[Cholesterol]], 25% FS, 5% TAG

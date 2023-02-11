@@ -1,9 +1,9 @@
 ---
 tags: [Modul/m06]
-title: Kinderarmut
+title: Soziale Ungleichheit
 ---
 
-# Kinderarmut
+## Kinderarmut
 
 - **Latenzmodell**:: frühe Schäden in „kritischen Perioden“ programmieren langfristig Gesundheitsstörungen
 - **Kumulationsmodell**:: Risiken potenzieren sich über den Lebensverlauf

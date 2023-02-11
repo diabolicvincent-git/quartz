@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m14, Modul/m11]
-title: Beteiligt
+title: RAAS
 ---
-### Renin-Angiotensin-Aldosteron-System / RAAS
+#### Renin-Angiotensin-Aldosteron-System / RAAS
 > Ziel: Aufrechterhaltung des [[Blutdruck]]s und der [[GFR]]
 - **Physiologie**
 	1. [[Renin]]ausschüttung nach Stimulation (z.B. durch [[Hypotonie]])
@@ -12,14 +12,14 @@ title: Beteiligt
 - **Beteiligt**:: [[Renin]], Angiotensinogen, Angiotensin I, [[ACE]], Angiotensin II, Aldosteron
 - **Pharmakologie**:: [[ACE-Hemmer]], [[AT1-Blocker]], [[Direkte Renin-Inhibitoren]]
 
-# Beteiligt
+## Beteiligt
 ![[Renin]]
 ![[Angiotensin]]
 ![[ACE]]
 ![[Aldosteron]]
 
 
-# Reninfreisetzung
+## Reninfreisetzung
 
 1. **Renaler [[Pressorezeptoren]]-Mechanismus**
     - Lokalisation: Afferente Arteriole
@@ -34,7 +34,7 @@ title: Beteiligt
     - Gegenläufig bei hoher tubul. NaCl-Konzentration wird Adenosin freigesetzt
 
 
-# Pharmakologische Angriffspunkte
+## Pharmakologische Angriffspunkte
 ![[ACE-Hemmer]]
 
 ![[AT1-Blocker]]

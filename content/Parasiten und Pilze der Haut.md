@@ -1,12 +1,12 @@
 ---
-title: in Grundzügen den Lebens- und Vermehrungszyklus von Läusen und Krätzemilben (Phasen der Entwicklung, Entwicklungsdauer, Formen bzw. Stadien, die übertragen werden) erläutern
+title: Parasiten und Pilze der Haut
 ---
 - **Mykologie**:: Lehre von humanpathogenen Pilzen
 - **Mykose**:: [[Infektionen]] durch Pilztoxine
 - **Mykid**:: Typ-IV-Reaktion Pilzantigene
 - **"Pilzallergie"**:: Typ-1
 
-## DHS-Systematik der humanpathogenen Pilze
+### DHS-Systematik der humanpathogenen Pilze
 
 - **[[Dermatophyten]]**
     - Trichophyton ssp.
@@ -21,7 +21,7 @@ title: in Grundzügen den Lebens- und Vermehrungszyklus von Läusen und Krätzem
 
 ![[Untitled 89.png]]
 
-## Dermatophyten
+### Dermatophyten
 
 - Am häufigsten Hautinfektionen
 - Hautpilze im engsten Wortsinn
@@ -33,9 +33,9 @@ title: in Grundzügen den Lebens- und Vermehrungszyklus von Läusen und Krätzem
 
 Tinea capitis, corporis, inguinalis, pedis, XXX (?)
 
-# in Grundzügen den Lebens- und Vermehrungszyklus von Läusen und Krätzemilben (Phasen der Entwicklung, Entwicklungsdauer, Formen bzw. Stadien, die übertragen werden) erläutern
+## in Grundzügen den Lebens- und Vermehrungszyklus von Läusen und Krätzemilben (Phasen der Entwicklung, Entwicklungsdauer, Formen bzw. Stadien, die übertragen werden) erläutern
 
-# diagnostische Materialien zur Suche nach Hautpilzen, Läusen und Krätzemilben benennen
+## diagnostische Materialien zur Suche nach Hautpilzen, Läusen und Krätzemilben benennen
 
 - **Adäquate Materialentnahme**:: Nagelspäne, Hautschuppen, [[Haare]]
 - **Routinediagnostik**
@@ -44,6 +44,6 @@ Tinea capitis, corporis, inguinalis, pedis, XXX (?)
     3. Differenzierende Mikroskopie (aus Reinkultur)
     4. Molekulare Diagnostik ([[PCR]])
 
-# Strategien zur [[Prävention]] von Pilz- ([[Dermatophyten]]) und Parasiteninfektionen (Läuse, Milben) der Haut aufzählen
+## Strategien zur [[Prävention]] von Pilz- ([[Dermatophyten]]) und Parasiteninfektionen (Läuse, Milben) der Haut aufzählen
 
 #Modul/m09

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m09, Fach/Dermatologie, Fach/Physiologie]
-title: SEM Knallrot oder kreidebleich
+title: Hautdurchblutung
 ---
-# SEM Knallrot oder kreidebleich
+## SEM Knallrot oder kreidebleich
 
 - Hautdurchblutung ist sehr variabel
     - Normale Hautdurchblutung: 10 ml / min / 100 g
@@ -11,14 +11,14 @@ title: SEM Knallrot oder kreidebleich
     - ***Kapillarschlingen:*** Nutritive Versorgung, etc.
     - ***AV-Anastomosen:*** [[Wärmehaushalt|Thermoregulation]] (gehen auf bei Wärme, um vermehrt Wärme abzugeben)
 
-## Regulationsmechanismen der Hautdurchblutung
+### Regulationsmechanismen der Hautdurchblutung
 
-### **Nervale Regulation durch** Sympathikus über α-Rezeptor
+#### **Nervale Regulation durch** Sympathikus über α-Rezeptor
 
 - **Aktive [[Vasokonstriktion]]**:: [[Sympathikus|Sympathisch]]-(Nor-)[[Adrenalin|Adrenerg]]
 - **Aktive [[Vasodilatation]] & [[Drüsen]]**:: [[Sympathikus|Sympathisch]]↓-[[ACh|Cholinerg]] (unbedeutend, umstritten)
 
-### Lokale Regulation (**Lewis-Reaktion = Paradoxe [[Vasodilatation]])**
+#### Lokale Regulation (**Lewis-Reaktion = Paradoxe [[Vasodilatation]])**
 
 Kurzfristige, in ca. 20-min. Intervallen auftretende [[Vasodilatation]] der Akren bei Temp. < 10 °C
 
@@ -35,9 +35,9 @@ Kurzfristige, in ca. 20-min. Intervallen auftretende [[Vasodilatation]] der Akre
     - **Ursache**:: Idiopathisch (primär) *oder* als Begleiterkrankung (plötzlich auftretend) z.B. bei rheumatoiden oder onkologischen Erkrankungen
     - **Therapie**:: I.d.R. nicht nötig; Pharmaka: α1-Rezeptorantagonisten, [[Calciumantagonisten]], [[Prostaglandin]] E1; u.U. operative Sympathektomie
 
-## Wärmeproduktion & Wärmeabgabe
+### Wärmeproduktion & Wärmeabgabe
 
-### Wärmeproduktion
+#### Wärmeproduktion
 
 - **Körperliche Arbeit → Erhöhung des Muskeltonus, Kältezittern**
     - Wirkungsgrad ca. 25%, d.h. 75% als Wärme frei
@@ -52,17 +52,17 @@ Homoithermer Körperkern & Poikilotherme Körperperipherie!
 
 - **Gegenstromprinzip**:: Abkühlende Arterie wärmt zum Körperkern laufendes venöses [[Blut]]
 
-### Wärmeabgabe
+#### Wärmeabgabe
 
 1. Wärmestrahlung (⅔)
 2. Konduktion (Materie → Materie) & Konvektion (forciert)
 3. Verdunstung (Schwitzen, temperaturunabhängig)
 
-## Regelkreis der Temperaturregulation
+### Regelkreis der Temperaturregulation
 
 ![[Untitled 58.png]]
 
-## Arbeitsweise der kutanen Kalt- und Warmrezeptoren und ihre Bedeutung für die Regulation der Körpertemperatur erläutern
+### Arbeitsweise der kutanen Kalt- und Warmrezeptoren und ihre Bedeutung für die Regulation der Körpertemperatur erläutern
 
 - Die meisten Kaltrezeptoren im Bereich des Trigeminus im Gesicht; nur sehr wenig an Akren
 
@@ -74,7 +74,7 @@ Homoithermer Körperkern & Poikilotherme Körperperipherie!
 
 - Stimuliert durch Pfeffer und Chilli
 
-## Funktion, Innervation und Regulation der Schweißdrüsen
+### Funktion, Innervation und Regulation der Schweißdrüsen
 
 **Endstücke**:: *[[Sympathikus|Sympathisch]]-Cholinerge* [[Cl-]][[Sekretion]]
 
@@ -110,11 +110,11 @@ Homoithermer Körperkern & Poikilotherme Körperperipherie!
     - [[Adipositas]]
     - Systemerkrankungen (z.B. Tumoren)
 
-# PR Determinanten der Hautdurchblutung
+## PR Determinanten der Hautdurchblutung
 
-## die Vorgänge (Gefäßwiderstandsänderungen, auslösende Faktoren) bei einer reaktiven Hyperämie beschreiben und erklären
+### die Vorgänge (Gefäßwiderstandsänderungen, auslösende Faktoren) bei einer reaktiven Hyperämie beschreiben und erklären
 
-## die Regulation der Hautdurchblutung in Grundzügen erklären
+### die Regulation der Hautdurchblutung in Grundzügen erklären
 
-## Prinzip der Messung der arteriellen Durchblutung des Unterarmes mittels Quecksilberdehnungsmessstreifen erklären können.
+### Prinzip der Messung der arteriellen Durchblutung des Unterarmes mittels Quecksilberdehnungsmessstreifen erklären können.
 

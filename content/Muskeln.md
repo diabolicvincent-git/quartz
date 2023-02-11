@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m10]
-title: Kopf und Hals
+title: Muskeln
 ---
 ```dataview
 TABLE Funktion, Ursprung, Ansatz, Innervation
@@ -10,10 +10,10 @@ WHERE contains(tags,"f/🦴/Muskel")
 
 
 ---
-# Kopf und Hals
-## Augenmuskulatur
+## Kopf und Hals
+### Augenmuskulatur
 
-### Gerade äußere Augenmuskeln
+#### Gerade äußere Augenmuskeln
 
 Ursprung
 Ansatz
@@ -26,11 +26,11 @@ Grundsätzliches
 
 ![[M. rectus medialis]]
 ![[M. rectus lateralis]]
-### Schräge äußere Augenmuskeln
+#### Schräge äußere Augenmuskeln
 ![[M. obliquus superior]]
 ![[M. obliquus inferior]]
 
-### Innere Augenmuskeln
+#### Innere Augenmuskeln
 
 Name
 Verlauf
@@ -40,7 +40,7 @@ Innervation
 ![[M. dilatator pupillae]]
 ![[M. ciliaris]]
 
-### Muskeln des Augenlids
+#### Muskeln des Augenlids
 
 Name
 Ursprung
@@ -50,7 +50,7 @@ Innervation
 ![[M. orbicularis oculi]]
 ![[M. levator palpebrae superioris]]
 
-### [[Glatte Muskulatur]] des Auges
+#### [[Glatte Muskulatur]] des Auges
 
 Name
 Ursprung
@@ -64,7 +64,7 @@ Innervation
 
 Mimische Muskulatur
 -------------------
-### Mimische Muskulatur des Schädeldachs
+#### Mimische Muskulatur des Schädeldachs
 
 Name
 Ursprung
@@ -73,7 +73,7 @@ Funktion
 ![[M. occipitofrontalis]]
 ![[M. temporoparietalis]]
 
-### Mimische Muskulatur des Ohres
+#### Mimische Muskulatur des Ohres
 
 Name
 Ursprung
@@ -83,7 +83,7 @@ Funktion
 ![[M. auricularis superior]]
 ![[M. auricularis posterior]]
 
-### Mimische Muskulatur des Auges
+#### Mimische Muskulatur des Auges
 
 
 Ursprung
@@ -93,7 +93,7 @@ Funktion
 ![[M. orbicularis oculi]]
 ![[M. depressor supercilii]]
 
-### Mimische Muskulatur der [[Nase]]
+#### Mimische Muskulatur der [[Nase]]
 
 Muskel
 Ursprung
@@ -103,7 +103,7 @@ Funktion
 ![[M. procerus]]
 ![[M. depressor septi nasi]]
 
-### Mimische Muskulatur des Mundes
+#### Mimische Muskulatur des Mundes
 
 
 Ursprung
@@ -124,33 +124,33 @@ Funktion
 
 
 
-## Gaumenmuskulatur
-### Muskulatur des weichen Gaumens
+### Gaumenmuskulatur
+#### Muskulatur des weichen Gaumens
 
 Name
 Ursprung
 Ansatz
 Innervation
 Funktion
-##### M. tensor veli palatini
+###### M. tensor veli palatini
 *   Tuba auditiva und Ala major des Os sphenoidale
 *   Aponeurosis palatina
 *   N. musculi tensoris veli palatini aus N. mandibularis
 *   Hebt und spannt das Gaumensegel
 *   Erweitert die Tuba auditiva
-##### M. levator veli palatini
+###### M. levator veli palatini
 *   Os petrosum und Cartilago tubae auditivae
 *   Aponeurosis palatina
 *   Verbindet sich außerdem mit dem Muskel der Gegenseite zu einem durchgängigen Bogen
 *   Plexus pharyngeus aus [[N. glossopharyngeus (IX)]] und [[N. vagus (X)]]
 *   Hebt das Gaumensegel an
 *   Erweitert die Tuba auditiva
-##### M. palatoglossus
+###### M. palatoglossus
 *   Aponeurosis palatina
 *   transversus linguae
 *   [[N. glossopharyngeus (IX)]]
 *   Zieht das Gaumensegel nach unten und den Zungengrund nach oben = Verschluss der Schlundenge
-##### M. palatopharyngeus
+###### M. palatopharyngeus
 *   Aponeurosis palatina
 *   Hamulus pterygoideus des Os sphenoidale
 *   Dorsale Pharynxwand
@@ -158,7 +158,7 @@ Funktion
 *   [[N. glossopharyngeus (IX)]]
 *   Zieht das Gaumensegel nach unten und den Zungengrund nach oben = Verschluss der Schlundenge
 *   Hebt den [[Larynx]] an
-##### M. uvulae
+###### M. uvulae
 *   Harter Gaumen
 *   Spitze der Uvula
 *   Plexus pharyngeus aus [[N. glossopharyngeus (IX)]] und [[N. vagus (X)]]
@@ -169,76 +169,76 @@ Funktion
 
 Zungenmuskulatur
 ----------------
-### Äußere Zungenmuskeln
+#### Äußere Zungenmuskeln
 
 Name
 Verlauf
 Funktion
 Innervation
-##### M. genioglossus
+###### M. genioglossus
 *   Von der Spina mentalis der [[Mandibula]] zur Aponeurosis linguae
 *   Fächerförmiger Verlauf (vertikale und horizontale Fasern)
 *   Fasern vermischen sich mit der inneren Zungenmuskulatur
 *   Bewegt die [[Zunge]] nach vorne
 *   Flacht die [[Zunge]] ab
 *   [[N. hypoglossus (XII)]]
-##### M. hyoglossus
+###### M. hyoglossus
 *   Vom [[Os hyoideum]] (Zungenbein) zu Aponeurosis linguae
 *   Bewegt die [[Zunge]] nach unten vom Gaumen weg
 *   Zieht die gestreckte [[Zunge]] nach hinten
-##### M. styloglossus
+###### M. styloglossus
 *   Vom Processus styloideus zur Zungenspitze
 *   Verlauf am Seitenrand der [[Zunge]]
 *   Bewegt die [[Zunge]] nach kraniodorsal
 
-### Innere Zungenmuskeln
+#### Innere Zungenmuskeln
 
 Name
 Verlauf
 Funktion
 Innervation
-##### M. Mlongitudinales superior et inferior
+###### M. Mlongitudinales superior et inferior
 *   Von der Zungenspitze zum Zungengrund (an Zungenrücken und Zungenunterseite)
 *   Verkürzen und verbreitern die [[Zunge]]
 *   Hebt die Zungenspitze (longitudinalis superior) bzw. senkt die Zungenspitze (longitudinalis inferior)
 *   [[N. hypoglossus (XII)]]
-##### M. transversus linguae
+###### M. transversus linguae
 *   Vom Zungenrand zum Septum linguae
 *   Verlängert und schmälert die [[Zunge]]
 *   Streckt die Zungenspitze
-##### M. verticalis linguae
+###### M. verticalis linguae
 *   Vom Zungenrücken zur Zungenunterseite
 *   Verlängert und schmälert die [[Zunge]]
 *   Streckt die Zungenspitze
 
 
 
-## Kaumuskulatur
 ### Kaumuskulatur
+#### Kaumuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. masseter
+###### M. masseter
 *   Arcus zygomaticus
 *   Angulus mandibulae
 *   Kieferschluss
 *   Protrusion (Vorschieben der [[Mandibula]])
 *   N. massetericus (aus dem N. mandibularis)
-##### M. temporalis
+###### M. temporalis
 *   Linea temporalis inferior ([[Os parietale]])
 *   Processus coronoideus mandibulae
 *   Kieferschluss
 *   Retrusion (= Zurückziehen der [[Mandibula]])
 *   Nn. temporales profundi (aus dem N. mandibularis)
-##### M. pterygoideus medialis
+###### M. pterygoideus medialis
 *   Fossa pterygoidea
 *   Tuberositas pterygoidea am Angulus mandibulae
 *   Kieferschluss
 *   N. pterygoideus medialis (aus dem N. mandibularis)
-##### M. pterygoideus lateralis
+###### M. pterygoideus lateralis
 Caput superius
 *   Crista infratemporalis der Ala major ossis sphenoidalis
 *   Discus articularis
@@ -254,20 +254,20 @@ Caput inferius
 
 Zungenbeinmuskulatur
 --------------------
-### Suprahyoidale Muskulatur
+#### Suprahyoidale Muskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. stylohyoideus
+###### M. stylohyoideus
 *   Processus styloideus ossis temporalis
 *   [[Os hyoideum]]
 *   Hebung des Zungenbeins
 *   Unterstützung der Kieferöffnung
 *   [[N. facialis (VII)]]
-##### M. digastricus
+###### M. digastricus
 Venter anterior
 *   [[Mandibula]]
 *   Über bindegewebige Schleife am [[Os hyoideum]]
@@ -277,43 +277,43 @@ Venter anterior
 Venter posterior
 *   Incisura mastoidea
 *   [[N. facialis (VII)]]
-##### M. mylohyoideus
+###### M. mylohyoideus
 *   Linea mylohyoidea ([[Mandibula]])
 *   Ventrale Muskelanteile: Raphe mylohyoidea
 *   Dorsale Muskelanteile: [[Os hyoideum]]
 *   Hebung des Zungenbeins
 *   Spannung des Mundbodens
 *   N. mylohyoideus aus V3
-##### M. geniohyoideus
+###### M. geniohyoideus
 *   Spina mentalis ([[Mandibula]])
 *   [[Os hyoideum]]
 *   Zug des Zungenbeins nach vorne ([[Schlucken]])
 *   Kieferöffnung
 *   [[Plexus cervicalis]] (Rr. musculares aus C1) via [[N. hypoglossus (XII)]]
-### Infrahyoidale Muskulatur
+#### Infrahyoidale Muskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. sternohyoideus
+###### M. sternohyoideus
 *   Hinterfläche des Manubrium sterni
     
 *   Korpus des [[Os hyoideum]]
 *   Senkung des Zungenbeins
 *   [[Ansa cervicalis (C1-C3)]] profunda ([[Plexus cervicalis]], C1-C3)
-##### M. sternothyroideus
+###### M. sternothyroideus
 *   Manubrium sterni, 1. Rippe
 *   Linea obliqua der Cartilago thyroidea
     
 *   Senkung des Kehlkopfes
-##### M. thyrohyoideus
+###### M. thyrohyoideus
 *   Linea obliqua der Cartilago thyroidea
 *   Korpus und Cornua majora des [[Os hyoideum]]
 *   Senkung des Zungenbeins
 *   Hebung des Kehlkopfes
-##### M. omohyoideus
+###### M. omohyoideus
 Venter superior
 *   Zwischensehne des Muskels
 *   Korpus des [[Os hyoideum]]
@@ -328,12 +328,12 @@ Venter inferior
 Schlundmuskulatur (Pharynxmuskulatur)
 -------------------------------------
 
-### Schlundschnürer (Konstriktoren)
+#### Schlundschnürer (Konstriktoren)
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. constrictor pharyngis superior
+###### M. constrictor pharyngis superior
 *   Os sphenoidale
 *   [[Mandibula]]
 *   Os temporale
@@ -345,27 +345,27 @@ Innervation
     *   R. pharyngeus des [[N. glossopharyngeus (IX)]]
     *   R. externus des N. laryngeus superior
     *   Ganglion cervicale superius
-##### M. constrictor pharyngis medius
+###### M. constrictor pharyngis medius
 *   [[Os hyoideum]]
 *   Verengt den Mesopharynx
 *   Schiebt die Nahrung Richtung Oesophagus
-##### M. constrictor pharyngis inferior
+###### M. constrictor pharyngis inferior
 *   Schild- und Ringknorpel des Kehlkopfes
 *   Verengt den Hypopharynx
 *   Schiebt die Nahrung Richtung Oesophagus
-### Schlundheber (Levatoren)
-##### M. stylopharyngeus
+#### Schlundheber (Levatoren)
+###### M. stylopharyngeus
 *   Processus styloideus
 *   Laterale Pharynxwand
 *   Hebt und erweitert den [[Pharynx]]
 *   [[N. glossopharyngeus (IX)]]
-##### M. salpingopharyngeus
+###### M. salpingopharyngeus
 *   Tubenknorpel
 *   Laterale Pharynxwand
 *   Hebt den [[Pharynx]] an
 *   Plexus pharyngeus
     *   R. laryngeus superior des [[N. vagus (X)]]
-##### M. palatopharyngeus
+###### M. palatopharyngeus
 *   Aponeurosis palatina
 *   Os sphenoidale
 *   Dorsale Pharynxwand
@@ -376,52 +376,52 @@ Innervation
 
 
 
-## Kehlkopfmuskulatur
+### Kehlkopfmuskulatur
 Name
 Ursprung
 Ansatz
 Funktion → Wirkung auf Stimmbänder
 Innervation
-### Spannmuskeln
+#### Spannmuskeln
 
-##### M. cricothyroideus ("Externus" oder „Anticus“)
+###### M. cricothyroideus ("Externus" oder „Anticus“)
 *   Ventrolaterale Fläche des Ringknorpels
 *   Unterrand und Cornu inferior des Schildknorpels
 *   Schild- und Ringknorpel werden angenähert
 *   N. laryngeus superior
-##### M. vocalis („Vocalis“)
+###### M. vocalis („Vocalis“)
 *   Innenfläche des Schildknorpels
 *   Proc. vocalis des Stellknorpels
 *   Anspannung und Verkürzung der Stimmbänder
 *   N. laryngeus inferior (Endast des N. laryngeus recurrens)
-### Stellmuskeln
-##### M. thyroarytaenoideus
+#### Stellmuskeln
+###### M. thyroarytaenoideus
 *   Innenfläche des Schildknorpels
 *   Proc. muscularis des Stellknorpels
 *   Seitenrand der Epiglottis
 *   Zieht den Stellknorpel nach vorne → Verschließt und verkürzt die Pars intermembranacea
 *   N. laryngeus inferior (Endast des N. laryngeus recurrens)
-##### M. arytaenoideus obliquus
+###### M. arytaenoideus obliquus
 *   Proc. muscularis des Stellknorpels
 *   Stellknorpelspitze der Gegenseite
 *   Zieht die Stellknorpel zusammen und kippt sie einwärts → Verschließt die Pars intercartilaginea
 *   N. laryngeus inferior (Endast des N. laryngeus recurrens)
-##### M. arytaenoideus transversus (unpaar)
+###### M. arytaenoideus transversus (unpaar)
 *   Hinterfläche des Stellknorpels
 *   Hinterfläche des Stellknorpels der Gegenseite
 *   Führt die Stellknorpel zusammen → Verschluss der Pars intercartilaginea
 *   N. laryngeus inferior (Endast des N. laryngeus recurrens)
-##### M. aryepiglotticus
+###### M. aryepiglotticus
 *   Spitze des Stellknorpels
 *   Seitenrand der Epiglottis
 *   Zieht die Epiglottis nach posterior → Verengt den Kehlkopfeingang
 *   N. laryngeus inferior (Endast des N. laryngeus recurrens)
-##### M. cricoarytaenoideus lateralis („Lateralis“)
+###### M. cricoarytaenoideus lateralis („Lateralis“)
 *   Bogen des Ringknorpels
 *   Proc. muscularis des Stellknorpels
 *   Spitzen der Procc. vocales werden zueinander geführt → Verschließt die Pars intermembranacea und öffnet die Pars intercartilaginea
 *   N. laryngeus inferior (Endast des N. laryngeus recurrens)
-##### M. cricoarytaenoideus posterior („Postikus“)
+###### M. cricoarytaenoideus posterior („Postikus“)
 *   Hinterfläche des Ringknorpels
 *   Proc. muscularis des Stellknorpels
 *   Dreht den Stellknorpel nach außen und zur Seite → Öffnet die gesamte Stimmritze
@@ -432,14 +432,14 @@ Innervation
 
 [[Halsmuskulatur]]
 --------------
-### Oberflächliche Halsmuskulatur
+#### Oberflächliche Halsmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. sternocleidomastoideus
+###### M. sternocleidomastoideus
 Caput mediale
 *   Manubrium sterni
 *   Processus mastoideus
@@ -453,7 +453,7 @@ Caput mediale
 *   [[Plexus cervicalis]] (C1-C3)
 Caput laterale
 *   Extremitas sternalis der Clavicula
-##### M. Platysma
+###### M. Platysma
 *   Basis der [[Mandibula]]
 *   Fascia parotidea
 *   Fascia pectoralis
@@ -462,7 +462,7 @@ Caput laterale
 *   Kieferöffnung
 *   R. colli nervi facialis (VII)
 
-### Tiefe Halsmuskulatur – Scalenusgruppe
+#### Tiefe Halsmuskulatur – Scalenusgruppe
 
 Gruppe
 
@@ -471,7 +471,7 @@ Ansatz
 Funktion
 Innervation
 
-##### M. scalenus anterior
+###### M. scalenus anterior
 *   Tubercula anteriora der 3.–6. Halswirbel
     
 *   Tuberculum scaleni anterioris der 1. Rippe
@@ -480,15 +480,15 @@ Innervation
 *   Einseitige Kontraktion: Lateralflexion der HWS
 *   Beidseitige Kontraktion: Ventralflexion der HWS
 *   Äste aus [[Plexus cervicalis]] und [[Plexus brachialis]]: C3–C6
-##### M. scalenus medius
+###### M. scalenus medius
 *   Tubercula posteriora der 2.–7. Halswirbel
     
 *   Hinter Sulcus a. subclaviae der 1. Rippe
-##### M. scalenus posterior
+###### M. scalenus posterior
 *   Tubercula posteriora der 5.–6. Halswirbel
 *   Oberer Rand der 2. Rippe
-### Tiefe Halsmuskulatur – Prävertebrale Muskulatur
-##### M. longus colli
+#### Tiefe Halsmuskulatur – Prävertebrale Muskulatur
+###### M. longus colli
 Pars recta
 *   [[Wirbelkörper]] der unteren HWS und oberen BWS
 *   [[Wirbel]] der oberen HWS
@@ -504,7 +504,7 @@ Pars obliqua superior
 Pars obliqua inferior
 *   [[Wirbel]] der oberen BWS
 *   Procc. transversi der 5.–6. Halswirbel
-##### M. longus capitis
+###### M. longus capitis
 *   Procc. transversi der 3.– 6. Halswirbel
 *   Pars basilaris des [[Os occipitale]]
     
@@ -519,47 +519,47 @@ Pars obliqua inferior
 
 Nackenmuskulatur
 ----------------
-### Autochthone kurze Nackenmuskulatur
+#### Autochthone kurze Nackenmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. rectus capitis posterior minor
+###### M. rectus capitis posterior minor
 *   Tuberculum posterius des Atlas
 *   Mediales Drittel der Linea nuchalis inferior
 *   Einseitig: Seitneigung des Kopfes zur gleichen Seite
 *   Beidseitig: Dorsalextension des Kopfes
 *   Ramus posterior des [[Spinalnerven]] C1 (= N. suboccipitalis)
-##### M. obliquus capitis superior
+###### M. obliquus capitis superior
 *   Processus transversus des Atlas
 *   Laterales Drittel der Linea nuchalis inferior
-##### M. rectus capitis posterior major
+###### M. rectus capitis posterior major
 *   Processus spinosus des Axis
 *   Mediales Drittel der Linea nuchalis inferior
 *   Einseitig: Drehung des Kopfes zur gleichen Seite
 *   Beidseitig: Dorsalextension des Kopfes
-##### M. obliquus capitis inferior
+###### M. obliquus capitis inferior
 *   Processus transversus des Atlas
 *   Einseitig: Drehung des Kopfes zur gleichen Seite
 *   Beidseitig: Dorsalextension des Kopfes
 
 
-### Nicht-autochthone kurze Nackenmuskulatur
+#### Nicht-autochthone kurze Nackenmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. rectus capitis lateralis
+###### M. rectus capitis lateralis
 *   Processus transversus des Atlas
 *   [[Os occipitale]]
 *   Einseitig: Seitneigung des Kopfes zur gleichen Seite
 *   Beidseitig: Aufrechterhaltung (Stabilisierung) des Kopfes
 *   Ramus anterior des [[Spinalnerven]] C1
-##### M. rectus capitis anterior
+###### M. rectus capitis anterior
 *   Atlas
 *   [[Os occipitale]]
 *   Einseitig: Seitneigung des Kopfes zur gleichen Seite
@@ -567,23 +567,23 @@ Innervation
 
 
 
-# Obere Extremität
+## Obere Extremität
 
-## Oberarmmuskulatur
+### Oberarmmuskulatur
 
-### Flexoren
+#### Flexoren
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. brachialis
+###### M. brachialis
 *   Corpus humeri
 *   Tuberositas ulnae
 *   Ellenbogengelenk: Flexion
 *   N. musculocutaneus (C5–C7)
-##### M. biceps brachii
+###### M. biceps brachii
 *   Tuberculum supraglenoidale scapulae (Caput longum)
 *   Processus coracoideus scapulae (Caput breve)
 *   Tuberositas radii
@@ -595,21 +595,21 @@ Innervation
     *   Flexion
     *   Supination
 
-### Extensoren
+#### Extensoren
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. anconeus
+###### M. anconeus
 *   Epicondylus lateralis des Humerus
 *   Dorsale Ulnarfläche distal des Olecranons
 *   Ellenbogengelenk
     *   Extension
     *   Kapselspannung
 *   N. radialis (C5–Th1)
-##### M. triceps brachii
+###### M. triceps brachii
 *   Tuberculum infraglenoidale scapulae (Ursprung des Caput longum)
 *   Laterale und dorsale Humerusfläche (Ursprung des Caput laterale)
 *   Mediale und dorsale Humerusfläche (Ursprung des Caput mediale)
@@ -619,9 +619,9 @@ Innervation
 
 
 
-## Unterarmmuskulatur
+### Unterarmmuskulatur
 
-### Oberflächliche Flexoren
+#### Oberflächliche Flexoren
 > Alle vom N. medianus innerviert bis auf [[#flexor carpi ulnaris]]
 > Gemeinsamer Ursprung: Epicondylus medialis humeri
 
@@ -630,24 +630,24 @@ Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. pronator teres
+###### M. pronator teres
 *   Epicondylus medialis humeri
 *   Tuberositas ulnae
 *   Laterale Radiusmitte
 *   Ellenbogengelenk: Flexion
 *   Radioulnargelenk: Pronation
 *   N. medianus
-##### M. flexor carpi radialis
+###### M. flexor carpi radialis
 *   Epicondylus medialis humeri
 *   Basis des Os metacarpi II
 *   Ellenbogengelenk: Flexion
 *   Radioulnargelenk: Pronation
 *   Handgelenke: Flexion
-##### M. palmaris longus
+###### M. palmaris longus
 *   Epicondylus medialis humeri
     
 *   Palmaraponeurose
-##### M. flexor carpi ulnaris
+###### M. flexor carpi ulnaris
 *   Epicondylus medialis humeri
 *   Olekranon
 *   Dorsale Ulna
@@ -659,7 +659,7 @@ Innervation
     *   Flexion
     *   Ulnarabduktion
 *   N. ulnaris
-##### M. flexor digitorum superficialis
+###### M. flexor digitorum superficialis
 *   Epicondylus medialis humeri
 *   Proc. coronoideus ulnae
 *   Radius
@@ -667,7 +667,7 @@ Innervation
 *   Handgelenke, Fingergrund- und Mittelgelenke: Flexion, eher proximal
 *   N. medianus
 
-### Tiefe Flexoren
+#### Tiefe Flexoren
 > Alle vom N. medianus innerviert bis auf [[#flexor digitorum profundus]] (gemeinsam mit N. ulnaris)
 > Gemeinsamer Ursprung: Radius / Ulnar / Membrana interossea
 
@@ -676,7 +676,7 @@ Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. flexor digitorum profundus
+###### M. flexor digitorum profundus
 *   Palmare Ulna
 *   Membrana interossea
 *   Distale Phalangen II-V
@@ -686,7 +686,7 @@ Innervation
 *   N. medianus: 2. Finger
 *   N. ulnaris: 5. Finger
 *   Gemeinsame Innervation: 3. und 4. Finger
-##### M. flexor pollicis longus
+###### M. flexor pollicis longus
 *   Palmarer Radius
     
 *   Membrana interossea
@@ -697,26 +697,26 @@ Innervation
     *   Opposition
 *   Handgelenke: Radialabduktion
 *   N. medianus
-##### M. pronator quadratus
+###### M. pronator quadratus
 *   Palmare Ulna (distal)
 *   Palmarer Radius (distal)
 *   Radioulnargelenk: Pronation
 
-### Extensoren – Radialisgruppe
+#### Extensoren – Radialisgruppe
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. brachioradialis
+###### M. brachioradialis
 *   Margo lateralis humeri
 *   Septum intermusculare laterale
 *   Proc. styloideus radii
 *   Ellenbogengelenk: Flexion
 *   Radioulnargelenk: Herbeiführung der Mittelstellung zwischen Pronation/Supination
 *   werden vom N. radialis innerviert
-##### M. extensor carpi radialis longus
+###### M. extensor carpi radialis longus
 *   Epicondylus lateralis humeri
 *   Lig. anulare radii
 *   Os metacarpi II
@@ -724,47 +724,47 @@ Innervation
     *   Dorsalextension
     *   Radialabduktion
 *   Ellenbogengelenk: Flexion
-##### M. extensor carpi radialis brevis
+###### M. extensor carpi radialis brevis
 *   Epicondylus lateralis humeri
 *   Os metacarpi III
 
-### Oberflächliche Extensoren
+#### Oberflächliche Extensoren
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. extensor digitorum
+###### M. extensor digitorum
 *   Epicondylus lateralis humeri
 *   Dorsalaponeurosen 2.–5. Finger
 *   Hand\- und Fingergelenke
     *   Dorsalextension
     *   Ulnarabduktion
 *   N. radialis
-##### M. extensor digiti minimi
+###### M. extensor digiti minimi
 *   Dorsalaponeurose 5. Finger
-##### M. extensor carpi ulnaris
+###### M. extensor carpi ulnaris
 *   Os metacarpi V
 *   Handgelenke
     *   Ulnarabduktion
     *   Dorsalextension
 
-### Tiefe Extensoren
+#### Tiefe Extensoren
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. supinator
+###### M. supinator
 *   Epicondylus lateralis humeri
 *   Lig. collaterale radiale
 *   Lig. anulare radii
 *   Radius
 *   Radioulnargelenk: Supination
 *   werden vom N. radialis innerviert
-##### M. abductor pollicis longus
+###### M. abductor pollicis longus
 *   Dorsalseiten von Ulna, Radius und Membrana interossea
 *   Os metacarpi I
 *   Daumensattelgelenk
@@ -773,9 +773,9 @@ Innervation
 *   Handgelenke
     *   Flexion
     *   Radialabduktion
-##### M. extensor pollicis brevis
+###### M. extensor pollicis brevis
 *   Phalanx proximalis I
-##### M. extensor pollicis longus
+###### M. extensor pollicis longus
 *   Dorsalseiten von Ulna und Membrana interossea
 *   Phalanx distalis I
 *   Daumensattelgelenk
@@ -784,7 +784,7 @@ Innervation
 *   Handgelenke
     *   Extension
     *   Radialabduktion
-##### M. extensor indicis
+###### M. extensor indicis
 *   Dorsalaponeurose des 2. Fingers
 *   2\. Fingergelenk: Extension
 *   Handgelenke: Extension
@@ -794,7 +794,7 @@ Innervation
 
 [[Schulter]]- und Schultergürtelmuskulatur
 --------------------------------------
-### Rotatorenmanschette
+#### Rotatorenmanschette
 > 4 Muskeln, 3 Nerven, 2 Ansätze, eine Manschette!
 
 Name
@@ -802,26 +802,26 @@ Ursprung
 Ansatz
 Funktion im Schultergelenk
 Innervation
-##### M. supraspinatus
+###### M. supraspinatus
 *   Fossa supraspinata
 *   Tuberculum majus humeri
 *   Abduktion im Schultergelenk
 *   N. suprascapularis
-##### M. infraspinatus
+###### M. infraspinatus
 *   Fossa infraspinata
 *   Außenrotation
-##### M. teres minor
+###### M. teres minor
 *   Margo lateralis scapulae
 *   Außenrotation, Adduktion
 *   N. axillaris
-##### M. subscapularis
+###### M. subscapularis
 *   Facies costalis scapulae
 *   Tuberculum minus humeri
 *   Innenrotation
 *   Nn. subscapulares
 
 
-### Schräge Schlinge
+#### Schräge Schlinge
 
 Name
 Ursprung
@@ -829,7 +829,7 @@ Ansatz
 Funktion
 Innervation
 Besonderheiten
-##### M. Mrhomboidei
+###### M. Mrhomboidei
 *   rhomboideus minor: Procc. spinosi HWK 6–7
 *   Margo medialis der Scapula
 *   Scapula: Zug nach medial/kranial
@@ -837,7 +837,7 @@ Besonderheiten
 *   N. dorsalis scapulae
 *   Im Zusammenspiel mit den Mrhomboidei dreht der levator scapulae den unteren Anteil der Scapula nach medial und ermöglicht das Rückführen des elevierten Armes in Neutralnullstellung
 *   rhomboideus major: Procc. spinosi BWK 1–4
-##### M. serratus anterior
+###### M. serratus anterior
 *   Rippenkörper 1–9
 *   Angulus superior scapulae (Pars superior)
 *   Margo medialis scapulae (Pars intermedia und -inferior)
@@ -847,14 +847,14 @@ Besonderheiten
 *   N. thoracicus longus
 *   Atemhilfsmuskel
 
-### Horizontale Schlinge
+#### Horizontale Schlinge
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. trapezius (Pars transversa)
+###### M. trapezius (Pars transversa)
 *   Procc. spinosi HWK 7-BWK 3
 *   Laterale Clavicula
 *   Acromion
@@ -862,7 +862,7 @@ Innervation
 *   [[N. accessorius (XI)]]
 *   Direkte Äste des [[Plexus cervicalis]]
 
-### Senkrechte vordere Schlinge
+#### Senkrechte vordere Schlinge
 
 Name
 Ursprung
@@ -870,14 +870,14 @@ Ansatz
 Funktion
 Innervation
 Besonderheiten
-##### M. pectoralis minor
+###### M. pectoralis minor
 *   Rippenkörper 3–5
 *   Procc. coracoideus
 *   Scapula: Zug nach kaudal
 *   Angulus lateralis scapulae: Rotation nach kaudal
 *   Nn. pectorales med. und lat.
 *   Atemhilfsmuskel
-##### M. trapezius (Pars descendens)
+###### M. trapezius (Pars descendens)
 *   [[Os occipitale]] (Protuberantia occipitalis ext.)
 *   Procc. spinosi HWK 2–6
 *   Laterale Clavicula
@@ -888,7 +888,7 @@ Besonderheiten
 *   Direkte Äste des [[Plexus cervicalis]]
 *   Das Drehen der Scapula nach lateral-kranial ist die Voraussetzung für die Elevation des Armes über die Horizontale
 
-### Senkrechte hintere Schlinge
+#### Senkrechte hintere Schlinge
 
 Name
 Ursprung
@@ -896,14 +896,14 @@ Ansatz
 Funktion
 Innervation
 Besonderheiten
-##### M. levator scapulae
+###### M. levator scapulae
 *   Procc. transversi HWK 1–2
 *   Tubercula posteriora der HWK 3–4
 *   Angulus superior der Scapula
 *   Scapula: Zug nach kranial
 *   N. dorsalis scapulae
 *   Mit den Mrhomboidei wichtig für das Rückführen des elevierten Armes in Neutralnullstellung
-##### M. trapezius (Pars ascendens)
+###### M. trapezius (Pars ascendens)
 *   Procc. spinosi BWK 4-12
 *   Spina scapulae
 *   Scapula:
@@ -913,7 +913,7 @@ Besonderheiten
 *   Direkte Äste des [[Plexus cervicalis]]
 *   Das Drehen der Scapula nach lateral-kranial ist die Voraussetzung für die Elevation des Armes über die Horizontale
 
-### Schultermuskeln mit Ansatz am [[Oberarm]]
+#### Schultermuskeln mit Ansatz am [[Oberarm]]
 
 Name
 Ursprung
@@ -922,7 +922,7 @@ Funktion im Schultergelenk
 Innervation
 Besonderheiten
 Ventrale Muskulatur
-##### M. pectoralis major
+###### M. pectoralis major
 *   Pars clavicularis: Mediale Clavicula
 *   Crista tuberculi majoris humeri
 *   Adduktion, Innenrotation, Anteversion
@@ -931,14 +931,14 @@ Ventrale Muskulatur
 *   Kaudale Anteile zählen zur Atemhilfsmuskulatur
 *   Pars sternocostalis: 1.–6. Rippe (Rippenknorpel)
 *   Pars abdominalis: Vorderes Blatt der Rektusscheide
-##### M. coracobrachialis
+###### M. coracobrachialis
 *   Processus coracoideus scapulae
 *   Verlängerung der Crista tuberculi minoris humeri
 *   Anteversion, Adduktion, Innenrotation
 *   N. musculocutaneus
 *   Keine
 Laterale Muskulatur
-##### M. deltoideus
+###### M. deltoideus
 *   Pars clavicularis: Clavicula
 *   Tuberositas deltoidea humeri
 *   Anteversion, Innenrotation, Adduktion
@@ -950,7 +950,7 @@ Laterale Muskulatur
 *   Pars spinalis: Spina scapulae
 *   Retroversion, Außenrotation, Adduktion
 Dorsale Muskulatur
-##### M. latissimus dorsi
+###### M. latissimus dorsi
 *   Pars vertebralis: Procc. spinosi BWK 7–12 und Fascia thoracolumbalis
 *   Crista tuberculi minoris humeri
 *   Adduktion, Innenrotation, Retroversion
@@ -961,13 +961,13 @@ Dorsale Muskulatur
 *   Pars iliaca: Crista iliaca (des Os ilium)
 *   Pars costalis: 9.–12. Rippe
 *   Pars scapularis: Angulus inferior scapulae
-##### M. teres major
+###### M. teres major
 *   Angulus inferior scapulae
 *   Margo lateralis der Scapula
 *   N. thoracodorsalis und/oder N. subscapularis
 *   Keine
 
-### Weitere Muskeln zur Schulterbewegung
+#### Weitere Muskeln zur Schulterbewegung
 
 Name
 Ursprung
@@ -975,13 +975,13 @@ Ansatz
 Funktion
 Innervation
 Besonderheiten
-##### M. subclavius
+###### M. subclavius
 *   Mediale 1. Rippe und Rippenknorpel
 *   Sulcus musculi subclavii der Clavicula
 *   Laterale Clavicula wird nach kaudal gezogen
 *   N. subclavius
 *   Ein Teil der Muskelfasern sorgt für das Offenhalten der V. subclavia
-##### M. biceps brachii
+###### M. biceps brachii
 *   Caput longum: Tuberculum supraglenoidale
 *   Tuberositas radii
 *   Schultergelenk: Abduktion, Anteversion, Innenrotation
@@ -990,7 +990,7 @@ Besonderheiten
 *   Caput breve: Proc. coracoideus
 *   Schultergelenk: Adduktion, Anteversion, Innenrotation
     
-##### M. triceps brachii
+###### M. triceps brachii
 *   Caput longum: Tuberculum infraglenoidale
 *   Olecranon
 *   Schultergelenk: Adduktion
@@ -1001,25 +1001,25 @@ Besonderheiten
 
 Handmuskulatur
 --------------
-### Thenarmuskulatur
+#### Thenarmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. abductor pollicis brevis
+###### M. abductor pollicis brevis
 *   Os scaphoideum
 *   Retinaculum flexorum
 *   Phalanx proximalis I (über radiales Sesambein)
 *   Daumensattelgelenk: Abduktion
 *   Daumengrundgelenk: Flexion
 *   Durch den N. medianus
-##### M. opponens pollicis
+###### M. opponens pollicis
 *   Os trapezium
 *   Os metacarpi I (radial)
 *   Daumensattelgelenk: Opposition
-##### M. flexor pollicis brevis
+###### M. flexor pollicis brevis
 *   Caput superficiale: Retinaculum flexorum
 *   Caput profundum
     *   Os trapezium
@@ -1030,7 +1030,7 @@ Innervation
     *   Opposition
 *   Daumengrundgelenk: Flexion
 *   N. medianus und N. ulnaris
-##### M. adductor pollicis
+###### M. adductor pollicis
 *   Caput obliquum
     *   Os capitatum
     *   Basis ossis metacarpi II–III
@@ -1042,22 +1042,22 @@ Innervation
 *   Daumengrundgelenk: Flexion
 *   Durch den N. ulnaris
 
-### Mittelhandmuskulatur
+#### Mittelhandmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. Mlumbricales I und II
+###### M. Mlumbricales I und II
 *   [[Sehnen]] des flexor digitorum profundus (radiale Seite der [[Sehnen]])
 *   Dorsalaponeurosen der Finger II–V
 *   Grundgelenk (Finger II–V): Flexion
 *   Interphalangealgelenke (Finger II–V): Extension
 - N. medianus
-##### M. Mlumbricales III und IV
+###### M. Mlumbricales III und IV
 - N. ulnaris
-##### M. Minterossei palmares I–III
+###### M. Minterossei palmares I–III
 *   I: Os metacarpale II (ulnar)
 *   II: Os metacarpale IV (radial)
 *   III: Os metacarpale V (radial)
@@ -1066,7 +1066,7 @@ Innervation
 *   Interphalangealgelenke (Finger II, IV und V)
     *   Extension
     *   Adduktion
-##### M. Minterossei dorsales I–IV
+###### M. Minterossei dorsales I–IV
 *   Ossa metacarpi I–V
 *   Dorsalaponeurosen der Finger II-IV
 *   Phalanx proximalis II-IV
@@ -1075,14 +1075,14 @@ Innervation
     *   Extension
     *   Abduktion
 
-### Hypothenarmuskulatur
+#### Hypothenarmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. abductor digiti minimi
+###### M. abductor digiti minimi
 *   Os pisiforme
 *   Phalanx proximalis V und Dorsalaponeurose
 *   Grundgelenk Finger V
@@ -1090,60 +1090,60 @@ Innervation
     *   Abduktion
 *   Interphalangealgelenke Finger V: Extension
 - N. ulnaris (Perikaryen somit v.a. in Segment C8/Th1)
-##### M. flexor digiti minimi brevis
+###### M. flexor digiti minimi brevis
 *   Hamulus ossis hamati
 *   Retinaculum flexorum
 *   Phalanx proximalis V
 *   Grundgelenk Finger V: Flexion
-##### M. opponens digiti minimi
+###### M. opponens digiti minimi
 *   Hamulus ossis hamati
 *   Os metacarpale V
 *   Carpometacarpalgelenk Finger V: Opposition
-##### M. palmaris brevis
+###### M. palmaris brevis
 *   Aponeurosis palmaris
 *   Haut des Hypothenars
 *   Spannt die Palmaraponeurose
 
 
 
-# Rumpf
+## Rumpf
 
 
-## Brustwandmuskulatur
+### Brustwandmuskulatur
 
-### Interkostalmuskeln
+#### Interkostalmuskeln
 
 Name
 Ursprung
 Ansatz
 Innervation
 Funktion
-##### M. Mintercostales externi
+###### M. Mintercostales externi
 *   Rippenunterrand
 *   Oberrand der nächsttieferen Rippe
 *   Etwas ventral/distal vom Ursprung
 *   Nn. intercostales 1–11
 *   Inspiration
-##### M. Mintercostales interni
+###### M. Mintercostales interni
 *   Rippenoberrand
 *   Unterrand der nächsthöheren Rippe
 *   Ventral des Sulcus costae
 *   Untergliederung
     *   Mintercostales interni: Exspiration
     *   Mintercartilaginei: Inspiration
-##### M. Mintercostales intimi
+###### M. Mintercostales intimi
 *   Rippenoberrand
 *   Unterrand der nächsthöheren Rippe
 *   Dorsal des Sulcus costae
 *   Nn. intercostales 4–11
     
 *   Exspiration
-##### M. Msubcostales
+###### M. Msubcostales
 *   Dorsaler Bereich des Rippenoberrandes
 *   Unterrand 2–3 Rippen höher
 *   Ventral vom Ursprung
 *   Exspiration
-##### M. transversus thoracis
+###### M. transversus thoracis
 *   Rückseite des Corpus sterni und Processus xiphoideus
 *   Rückseite der Rippenknorpel
 *   Nn. intercostales 2–6
@@ -1153,7 +1153,7 @@ Funktion
 
 Bauchwandmuskulatur
 -------------------
-### Vordere Bauchwandmuskeln
+#### Vordere Bauchwandmuskeln
 
 Name
 Ursprung
@@ -1161,7 +1161,7 @@ Ansatz
 Innervation
 Faserverlauf
 Funktion
-##### M. rectus abdominis
+###### M. rectus abdominis
 *   5.–7. Rippenknorpel
 *   Proc. xiphoideus sterni
 *   Os pubis
@@ -1171,7 +1171,7 @@ Funktion
 *   Ventralflexion des Rumpfes bzw. Aufrichten des Rumpfes aus Rückenlage
 *   Bauchpresse
 *   Exspiration
-##### M. pyramidalis
+###### M. pyramidalis
 *   Os pubis
 *   Linea alba
 *   N. subcostalis (N. intercostalis 12)
@@ -1179,7 +1179,7 @@ Funktion
 *   Spannt die Linea alba
 
 
-### Seitliche Bauchwandmuskeln
+#### Seitliche Bauchwandmuskeln
 
 Name
 Ursprung
@@ -1187,7 +1187,7 @@ Ansatz
 Innervation
 Faserverlauf
 Funktion
-##### M. obliquus externus abdominis
+###### M. obliquus externus abdominis
 *   5.–12. Rippe
 *   Crista iliaca
 *   Vorderes Blatt der Rektusscheide
@@ -1202,7 +1202,7 @@ Funktion
     *   Aufrichten des Beckens
     *   Bauchpresse
     *   Forcierte Exspiration
-##### M. obliquus internus abdominis
+###### M. obliquus internus abdominis
 *   Fascia thoracolumbalis
 *   Crista iliaca
 *   Lateraler Teil des Leistenbandes
@@ -1223,7 +1223,7 @@ Funktion
     *   Ventralflexion des Rumpfes bzw. Aufrichten des Rumpfes aus Rückenlage
     *   Bauchpresse
     *   Exspiration
-##### M. transversus abdominis
+###### M. transversus abdominis
 *   7.–12. Rippe
 *   Fascia thoracolumbalis
 *   Crista iliaca
@@ -1244,7 +1244,7 @@ Funktion
     *   Exspiration
 
 
-### Hintere Bauchwandmuskeln
+#### Hintere Bauchwandmuskeln
 
 Name
 Ursprung
@@ -1252,7 +1252,7 @@ Ansatz
 Innervation
 Faserverlauf
 Funktion
-##### M. quadratus lumborum
+###### M. quadratus lumborum
 *   Crista iliaca
 *   12\. Rippe
 *   Processus costalis L1–L4
@@ -1262,7 +1262,7 @@ Funktion
 *   Beidseitige Kontraktion
     *   Bauchpresse
     *   Exspiration
-##### M. psoas major
+###### M. psoas major
 *   [[Wirbel]] Th12, L1–4
 *   Proc. costalis L1–L5
 *   Gemeinsam mit dem iliacus als iliopsoas am Trochanter minor femoris
@@ -1279,18 +1279,18 @@ Funktion
 
 
 
-## Rückenmuskulatur
+### Rückenmuskulatur
 > Autochtone Rückenmuskulatur = *erector spinae*
 
-### Autochtone Rückenmuskulatur
-#### Autochthone Rückenmuskulatur – Medialer Trakt – Spinales System
+#### Autochtone Rückenmuskulatur
+##### Autochthone Rückenmuskulatur – Medialer Trakt – Spinales System
 
 Name
 Ursprung  
-##### M. Proc. spinosus von:
+###### M. Proc. spinosus von:
 Ansatz
 Funktion
-##### M. Minterspinales
+###### M. Minterspinales
 cervicis
 *   C2–Th1
 *   Proc. spinosus des jeweils kranial gelegenen Wirbels
@@ -1299,7 +1299,7 @@ thoracis
 *   Th2–Th3 & Th11–L1
 lumborum
 *   L2–L5
-##### M. Mspinales
+###### M. Mspinales
 capitis
 *   C6–Th2
 *   Protuberantia occipitalis externa
@@ -1310,20 +1310,20 @@ cervicis
 thoracis
 *   Th10–L3
 *   Th2–Th3
-#### Autochthone Rückenmuskulatur – Medialer Trakt – Transversospinales System
+##### Autochthone Rückenmuskulatur – Medialer Trakt – Transversospinales System
 
 Name
 Ursprung
 Ansatz
 Funktion
-##### M. Mrotatores breves
+###### M. Mrotatores breves
 *   Procc. transversi C2–L5
 *   Jeweils nächster kranial gelegener [[Wirbel]] (Proc. spinosus)
 *   Rotation der [[Wirbelsäule]] zur Gegenseite
-##### M. Mrotatores longi
+###### M. Mrotatores longi
 *   Procc. transversi C3–L5
 *   Jeweils übernächster kranialer [[Wirbel]] (Proc. spinosus)
-##### M. Mmultifidi
+###### M. Mmultifidi
 cervicis
 *   Procc. transversi Th1–Th4
 *   Procc. articulares C4–C7
@@ -1337,7 +1337,7 @@ lumborum
 *   Procc. mamillares L3–L5
 *   S1–S4
 *   Crista iliaca
-##### M. Msemispinales
+###### M. Msemispinales
 capitis
 *   Procc. transversi C4–Th6
 *   [[Os occipitale]]
@@ -1349,14 +1349,14 @@ thoracis
 *   Proc. mamillaris L1
 *   Proc. spinosus C6–Th5
 
-#### Autochthone Rückenmuskulatur – Laterales System –Sakrospinales System
+##### Autochthone Rückenmuskulatur – Laterales System –Sakrospinales System
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. iliocostalis
+###### M. iliocostalis
 cervicis
 *   3.–7. Rippe
 *   Procc. transversi C4–C6
@@ -1370,7 +1370,7 @@ lumborum
 *   Crista iliaca
 *   Fascia thoracolumbalis
 *   6.–12. Rippe
-##### M. longissimus
+###### M. longissimus
 capitis
 *   Procc. transversi C4–Th3
 *   Proc. mastoideus
@@ -1392,14 +1392,14 @@ thoracis
 *   Lateral
     *   2.–12. Rippe
     *   Procc. costales L1–L5
-#### Autochthone Rückenmuskulatur – Laterales System – Spinotransversales System
+##### Autochthone Rückenmuskulatur – Laterales System – Spinotransversales System
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. splenius capitis
+###### M. splenius capitis
 *   Procc. spinosi C4–Th3
 *   Linea nuchalis superior
 *   Proc. mastoideus
@@ -1408,36 +1408,36 @@ Innervation
     *   Rotation von Kopf & HWS zur gleichen Seite
 *   Beidseitig: Dorsalextension von Kopf & HWS
 *   Lateraler Ast vom Ramus posterior des Spinalnervs
-##### M. splenius cervicis
+###### M. splenius cervicis
 *   Procc. spinosi Th3–Th5
 *   Tubercula posteriora C1–C2
-#### Autochthone Rückenmuskulatur – Laterales System – Intertransversales System
+##### Autochthone Rückenmuskulatur – Laterales System – Intertransversales System
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. Mintertransversarii posteriores cervicis
+###### M. Mintertransversarii posteriores cervicis
 *   Tubercula posteriora C2–C7
 *   Procc. transversi (des jeweils benachbarten Wirbels)
 *   Einseitig: Ipsilaterale Lateralflexion von Hals und Rumpf
 *   Beidseitig: Haltefunktion (Stabilisierung der [[Wirbelsäule]])
 *   Lateraler Ast vom Ramus posterior des Spinalnervs
-##### M. Mintertransversarii thoracis
+###### M. Mintertransversarii thoracis
 *   Procc. transversi Th1–Th12
-##### M. Mintertransversarii lumborum mediales
+###### M. Mintertransversarii lumborum mediales
 *   Procc. accessorii & mammillares L2–L5
 *   Procc. accessorii & mammillares (des jeweils benachbarten Wirbels)
 
-### Nicht-autochthone Rückenmuskulatur
+#### Nicht-autochthone Rückenmuskulatur
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. serratus posterior superior
+###### M. serratus posterior superior
 *   Procc. spinosi C6–Th2
 *   2.–5. Rippe
 *   Einseitig: Lateralflexion
@@ -1445,19 +1445,19 @@ Innervation
     *   Dorsalextension
     *   Inspiration
 *   Rr. anteriores der [[Spinalnerven]] C6–Th2
-##### M. serratus posterior inferior
+###### M. serratus posterior inferior
 *   Procc. spinosi Th11–L2
 *   9.–12. Rippe
 *   Einseitig: Lateralflexion
 *   Beidseitig: Inspiration
 *   Rr. anteriores der [[Spinalnerven]] Th11–L2
-##### M. Mintertransversarii anteriores cervicis
+###### M. Mintertransversarii anteriores cervicis
 *   Tubercula anteriora C2–C7
 *   Procc. transversi (des jeweils benachbarten Wirbels)
 *   Einseitig: Ipsilaterale Lateralflexion von Hals und Rumpf
 *   Beidseitig: Haltefunktion (Stabilisierung der [[Wirbelsäule]])
 *   Ramus anterior des Spinalnervs
-##### M. Mintertransversarii lumborum laterales
+###### M. Mintertransversarii lumborum laterales
 *   Procc. costales L2–L5
 *   Procc. costales (des jeweils benachbarten Wirbels)
 
@@ -1465,69 +1465,69 @@ Innervation
 
 Beckenbodenmuskulatur
 ---------------------
-### Muskeln des Diaphragma pelvis
+#### Muskeln des Diaphragma pelvis
 
 Name
 Ursprung
 Ansatz
 Innervation
 Besonderheiten
-##### M. levator ani
-##### M. puborectalis
+###### M. levator ani
+###### M. puborectalis
 *   Symphyse
 *   Centrum tendineum perinei
 *   Os coccygis
 *   Plexus sacralis
 *   Bildet das sog. Levatortor zum Durchtritt von [[Rektum]], [[Urethra]] - und bei der Frau [[Vagina]] - durch den [[Beckenboden]]
-##### M. pubococcygeus
+###### M. pubococcygeus
 *   Schambein
-##### M. iliococcygeus
+###### M. iliococcygeus
 *   Faszie des obturatorius internus
-##### M. coccygeus
+###### M. coccygeus
 *   Spina ischiadica
 *   Os coccygis
 *   Weitere Verstärkung des Beckenbodens
 *   Kann manchmal fehlen
 
 
-### Muskeln des Diaphragma urogenitale
+#### Muskeln des Diaphragma urogenitale
 
 Name
 Ursprung
 Ansatz
 Innervation
 Besonderheiten
-##### M. transversus perinei profundus
+###### M. transversus perinei profundus
 *   R. ossis ischii
 *   R. inferior ossis pubis
 *   Dammnaht (Raphe perinei)
 *   Nervus pudendus
 *   Wird aus Fasern des sphincter urethrae externus gebildet
 *   Bildet die Trageplatte des Beckenbodens
-##### M. transversus perinei superficialis
+###### M. transversus perinei superficialis
 *   Tuber ischiadicum
 *   Centrum tendineum perinei
 *   Unterstützt den transversus perinei profundus
 *   Bildet zusätzlichen Verschluss des Levatortors
 
 
-### Schließ- und Schwellkörpermuskulatur
+#### Schließ- und Schwellkörpermuskulatur
 
 Name
 Ursprung
 Ansatz
 Innervation
-##### M. ischiocavernosus
+###### M. ischiocavernosus
 *   Ramus ossis ischii
 *   Frau: Crus clitoridis
 *   Mann: Crus [[Penis]]
 *   Nervus pudendus
-##### M. bulbospongiosus
+###### M. bulbospongiosus
 *   Corpus perineale
 *   Beim Mann zusätzlich: Raphe [[Penis]]
 *   Frau: Klitoris
 *   Mann: Faszie des Penisrückens
-##### M. sphincter ani externus
+###### M. sphincter ani externus
 *   s.u.
 
 
@@ -1535,14 +1535,14 @@ Innervation
 
 Anale Sphinctermuskulatur
 -------------------------
-### Anales Sphinctersystem
+#### Anales Sphinctersystem
 
-##### M. sphincter ani internus
+###### M. sphincter ani internus
 *   [[Glatte Muskulatur]]
 *   Umgibt die oberen zwei Drittel des Analkanals
 *   Verschließt den Analkanal durch eine Dauerkontraktion und erschlafft nur bei der Defäkation
 *   [[Sympathikus]]: Plexus hypogastricus inferior
-##### M. sphincter ani externus
+###### M. sphincter ani externus
 *   [[Skelettmuskulatur]]
 *   Umgibt den Analkanal wie eine Klemme von beiden Seiten
 *   Drei Abschnitte (von kranial tief liegend nach kaudal oberflächlich liegend)
@@ -1551,7 +1551,7 @@ Anale Sphinctermuskulatur
     *   Pars subcutanea
 *   Formt durch eine Dauerkontraktion den Analkanal zu einem Schlitz
 *   N. pudendus
-##### M. puborectalis
+###### M. puborectalis
 *   [[Skelettmuskulatur]]
 - Liegt kranial des sphincter ani externus
 *   Entspringt vom Os pubis und umgibt das [[Rektum]] von ventral wie eine Schlinge (= puborektale Schleife)
@@ -1561,16 +1561,16 @@ Innervation
 
 
 
-# Untere Extremität
-## Oberschenkelmuskulatur
-### Adduktoren
+## Untere Extremität
+### Oberschenkelmuskulatur
+#### Adduktoren
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. pectineus
+###### M. pectineus
 *   Pecten ossis pubis
 *   Linea pectinea
 *   Hüftgelenk
@@ -1579,23 +1579,23 @@ Innervation
     *   Flexion
 *   N. obturatorius L2–L4) und
 *   N. femoralis
-##### M. obturatorius externus
+###### M. obturatorius externus
 *   Membrana obturatoria
 *   Fossa trochanterica
 *   Hüftgelenk
     *   Adduktion
     *   Außenrotation
 *   N. obturatorius (L2–L4)
-##### M. adductor longus
+###### M. adductor longus
 *   R. superior ossis pubis
 *   Symphyse
 *   Linea aspera (Labium mediale)
 *   Hüftgelenk
     *   Adduktion
     *   Flexion
-##### M. adductor brevis
+###### M. adductor brevis
 *   R. inferior ossis pubis
-##### M. adductor magnus
+###### M. adductor magnus
 *   R. inferior ossis pubis
 *   R. ossis ischii
 *   Tuber ischiadicum
@@ -1607,7 +1607,7 @@ Innervation
     *   Extension
 *   N. obturatorius (L2–L4)
 *   N. tibialis (L4–L5)
-##### M. adductor minimus
+###### M. adductor minimus
 *   R. inferior ossis pubis
     
 *   Linea aspera (Labium mediale)
@@ -1617,7 +1617,7 @@ Innervation
     *   Außenrotation
     *   Flexion
 *   N. obturatorius (L2–L4)
-##### M. gracilis
+###### M. gracilis
 *   R. inferior ossis pubis
     
 *   Im Pes anserinus superficialis (medial der Tuberositas tibiae)
@@ -1628,33 +1628,33 @@ Innervation
     *   Flexion
     *   Innenrotation
 
-### Ventrale Muskelgruppe
+#### Ventrale Muskelgruppe
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. quadriceps femoris
-##### M. rectus femoris
+###### M. quadriceps femoris
+###### M. rectus femoris
 *   Spina iliaca anterior inferior
     
 *   Tuberositas tibiae
 *   Hüftgelenk: Flexion
 *   Kniegelenk: Extension
 *   N. femoralis (L2–L4)
-##### M. vastus medialis
+###### M. vastus medialis
 *   Linea aspera (Labium mediale)
 *   Kniegelenk: Extension
-##### M. vastus intermedius
+###### M. vastus intermedius
 *   Femurvorderseite
     
-##### M. vastus lateralis
+###### M. vastus lateralis
 *   Linea aspera (Labium laterale)
     
 *   Trochanter major
     
-##### M. sartorius
+###### M. sartorius
 *   Spina iliaca anterior superior
     
 *   Im Pes anserinus superficialis (medial der Tuberositas tibiae)
@@ -1666,14 +1666,14 @@ Innervation
     *   Flexion
     *   Innenrotation
 
-### Dorsale Muskelgruppe (Flexoren)
+#### Dorsale Muskelgruppe (Flexoren)
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. biceps femoris
+###### M. biceps femoris
 Caput breve
 *   Linea aspera (Labium laterale)
 *   Caput fibulae
@@ -1686,17 +1686,17 @@ Caput breve
 Caput longum
 *   Tuber ischiadicum
 *   N. tibialis (L5–S2)
-##### M. semitendinosus
+###### M. semitendinosus
 *   Im Pes anserinus superficialis (medial der Tuberositas tibiae)
 *   Hüftgelenk
     *   Extension
 *   Kniegelenk
     *   Flexion
     *   Innenrotation
-##### M. semimembranosus
+###### M. semimembranosus
 *   Im Pes anserinus profundus (Condylus medialis tibiae)
     
-##### M. popliteus
+###### M. popliteus
 *   Condylus lateralis femoris
 *   Facies posterior tibiae
 *   Kniegelenk
@@ -1707,7 +1707,7 @@ Caput longum
 
 Unterschenkelmuskulatur
 -----------------------
-### Extensoren
+#### Extensoren
 
 Name
 Ursprung
@@ -1716,7 +1716,7 @@ Funktion
 Innervation
 Hilfsstrukturen der Muskeln
 Besonderheiten
-##### M. tibialis anterior
+###### M. tibialis anterior
 *   Tibia: Facies lateralis
 *   Membrana interossea cruris
 *   Fascia cruris superficialis
@@ -1729,7 +1729,7 @@ Besonderheiten
 *   Retinaculum musculorum extensorum superius
 *   Retinaculum musculorum extensorum inferius
 *   Keine
-##### M. extensor digitorum longus
+###### M. extensor digitorum longus
 *   Tibia: Condylus lateralis
 *   Fibula
     *   Caput
@@ -1742,7 +1742,7 @@ Besonderheiten
 *   Digg. II-V: Extension in Grund-/Mittel-/Endgelenken
 *   N. fibularis profundus (L4-S1)
 *   Keine
-##### M. fibularis tertius
+###### M. fibularis tertius
 *   Fibula: Margo anterior
 *   Os metatarsi V
 *   OSG: Dorsalextension
@@ -1750,7 +1750,7 @@ Besonderheiten
 *   Anatomisch: Abspaltung des extensor digitorum longus
 *   Funktionell: Extensor
 *   Nicht bei allen Menschen angelegt
-##### M. extensor hallucis longus
+###### M. extensor hallucis longus
 *   Fibula: Facies medialis
 *   Membrana interossea cruris
 *   Fascia cruris
@@ -1762,7 +1762,7 @@ Besonderheiten
 *   [[Kennmuskel]] von Segment L5
 Abkürzungen: Dig. = Digitus, Digg. = Digiti, OSG = oberes Sprunggelenk, USG = unteres Sprunggelenk
 
-### Fibularisgruppe
+#### Fibularisgruppe
 
 Name
 Ursprung
@@ -1771,7 +1771,7 @@ Funktion
 Innervation
 Hilfsstrukturen der Muskeln
 Besonderheiten
-##### M. fibularis longus
+###### M. fibularis longus
 *   Fibula
     *   Caput
     *   Facies lateralis
@@ -1787,14 +1787,14 @@ Besonderheiten
 *   Stärkster Pronator im USG
 *   Verspannt zusätzlich [[Fuß]]\-Quergewölbe
 *   Anatomische Normvariante: Os peroneum
-##### M. fibularis brevis
+###### M. fibularis brevis
 *   Fibula: Facies lateralis
 *   Septa intermuscularia
 *   Os metatarsi V
 \-
 Abkürzungen: OSG = oberes Sprunggelenk, USG = unteres Sprunggelenk
 
-### Oberflächliche Flexoren
+#### Oberflächliche Flexoren
 
 Name
 Ursprung
@@ -1802,8 +1802,8 @@ Ansatz
 Funktion
 Innervation
 Besonderheiten
-#### triceps surae
-##### M. gastrocnemius
+##### triceps surae
+###### M. gastrocnemius
 *   Caput mediale: Mediale Femurkondyle
 *   Caput laterale: Laterale Femurkondyle
 *   Calcaneus (Tuber calcanei) mittels der "Achillessehne"
@@ -1818,11 +1818,11 @@ Besonderheiten
 *   Stärkster Beuger im OSG
 *   Stärkster Supinator im USG
 *   [[Kennmuskel]] von Segment S1
-##### M. soleus
+###### M. soleus
 *   Tibia (Linea musculi solei)
 *   Fibula (oberes Drittel der Facies posterior)
 *   Arcus tendineus musculi solei
-#### plantaris
+##### plantaris
 *   Femur (Linea supracondylaris lateralis)
 *   Calcaneus (Tuber calcanei)
 *   Geringer Querschnitt → Kaum funktionelle Relevanz
@@ -1833,7 +1833,7 @@ Besonderheiten
 *   Lange [[Sehnen]] → Eignung für Sehnentransplantate
 Abkürzungen: OSG = oberes Sprunggelenk, USG = unteres Sprunggelenk, US = [[Unterschenkel]]
 
-### Tiefe Flexoren
+#### Tiefe Flexoren
 
 Name
 Ursprung
@@ -1842,7 +1842,7 @@ Funktion
 Innervation
 Hilfsstrukturen der Muskeln
 Besonderheiten
-##### M. flexor digitorum longus
+###### M. flexor digitorum longus
 *   Tibia (Facies posterior und Margo medialis)
 *   Faszie des tibialis posterior
 *   Phalanges distales Digg. II-V
@@ -1857,7 +1857,7 @@ Besonderheiten
 *   Beteiligt am Chiasma plantare
 *   Synonym: "perforans"
 *   Seine Ansatzsehne ist der Ursprungsort der Mlumbricales pedis
-##### M. tibialis posterior
+###### M. tibialis posterior
 *   Membrana interossea cruris (und angrenzende Facies posteriores von Tibia/Fibula)
 Von medial nach lateral:
 *   Os naviculare
@@ -1867,7 +1867,7 @@ Von medial nach lateral:
 *   USG: Supination (=Inversion)
 *   N. tibialis (L4-S1)
 *   Beteiligt am Chiasma crurale
-##### M. flexor hallucis longus
+###### M. flexor hallucis longus
 *   Membrana interossea cruris (und angrenzende Facies posterior der Fibula)
 *   Phalanx distalis Dig. I
 *   OSG: Plantarflexion
@@ -1881,7 +1881,7 @@ Abkürzungen: Dig. = Digitus, Digg. = Digiti, OSG = oberes Sprunggelenk, USG = u
 
 [[Becken]]- und Hüftmuskulatur
 --------------------------
-### Ventrale Hüftmuskulatur
+#### Ventrale Hüftmuskulatur
 Der iliopsoas besteht aus zwei Anteilen, die man auch als einzelne Muskeln verstehen kann (psoas major und iliacus).
 
 Name
@@ -1889,7 +1889,7 @@ Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. psoas major
+###### M. psoas major
 *   Procc. costales (1.-5. LWK)
 *   Wirbelkörperseitenflächen und Disci intervertebrales (12. BWK-4. LWK)
 *   Trochanter minor
@@ -1899,56 +1899,56 @@ Innervation
     *   Außenrotation
 *   N. femoralis (L1-L4)
 *   Plexus lumbalis (direkte Äste)
-##### M. iliacus
+###### M. iliacus
 *   Fossa iliaca
 *   Hüftgelenk
     *   Flexion
     *   Außenrotation
 
-### Dorsale Hüftmuskulatur mit Ansatz im Bereich des Trochanter major
+#### Dorsale Hüftmuskulatur mit Ansatz im Bereich des Trochanter major
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. gluteus medius
+###### M. gluteus medius
 *   Facies glutea (Os ilium)
 *   Trochanter major
 *   Hüftgelenk: Abduktion
     *   Lateraler Anteil: Flexion und Innenrotation
     *   Medialer Anteil: Extension und Außenrotation
 *   N. gluteus superior (L4-S1)
-##### M. gluteus minimus
-##### M. piriformis
+###### M. gluteus minimus
+###### M. piriformis
 *   Facies pelvica (Os sacrum)
 *   Hüftgelenk
     *   Extension
     *   Abduktion
     *   Außenrotation
 *   Plexus sacralis (direkte Äste, L4-S2)
-##### M. Mgemelli
+###### M. Mgemelli
 *   gemellus superior: Spina ischiadica
 *   gemellus inferior: Tuber ischiadicum
 *   Fossa trochanterica
 *   Hüftgelenk
     *   Adduktion
     *   Außenrotation
-##### M. obturatorius internus
+###### M. obturatorius internus
 *   Membrana obturatoria (Innenfläche)
-##### M. quadratus femoris
+###### M. quadratus femoris
 *   Tuber ischiadicum
     
 *   Crista intertrochanterica
 
-### Dorsale Hüftmuskulatur mit distalerem Ansatz
+#### Dorsale Hüftmuskulatur mit distalerem Ansatz
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. tensor fasciae latae
+###### M. tensor fasciae latae
 *   Spina iliaca anterior superior
 *   Über Tractus iliotibialis in Condylus lateralis tibiae
 *   Hüftgelenk
@@ -1957,7 +1957,7 @@ Innervation
     *   Innenrotation
 *   Spannt den Tractus iliotibialis
 *   N. gluteus superior (L4-S1)
-##### M. gluteus maximus
+###### M. gluteus maximus
 *   Crista iliaca
 *   Spina iliaca posterior superior
 *   Facies dorsalis (Os sacrum)
@@ -1972,33 +1972,33 @@ Innervation
 
 
 
-## Fußmuskulatur
+### Fußmuskulatur
 
-### Muskeln des Fußrückens
+#### Muskeln des Fußrückens
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. extensor digitorum brevis
+###### M. extensor digitorum brevis
 *   Dorsalfläche des Calcaneus
 *   Dorsalaponeurose der Digg. II–IV
 *   Phalanx media Digg. II–IV
 *   Digg. II–IV: Dorsalextension in Grund- und Mittelgelenken
 *   N. fibularis profundus (L5–S1)
-##### M. extensor hallucis brevis
+###### M. extensor hallucis brevis
 *   Dorsalaponeurose und Phalanx proximalis des Dig. I
 *   Digg. I: Dorsalextension im Grundgelenk
 Abkürzungen: Dig.=Digitus, Digg.=Digiti
 
-### Muskeln der Fußsohle – Großzehenloge
+#### Muskeln der Fußsohle – Großzehenloge
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. abductor hallucis
+###### M. abductor hallucis
 *   Calcaneus
 *   Plantaraponeurose
 *   Dig. I: Phalanx proximalis
@@ -2007,7 +2007,7 @@ Innervation
     *   Abduktion
 *   Verspannt das Längsgewölbe
 *   N. plantaris medialis (L5–S1)
-##### M. flexor hallucis brevis
+###### M. flexor hallucis brevis
 *   Os cuneiforme mediale und intermedium
 *   Lig. calcaneocuboideum plantare
 *   Dig. I: Phalanx proximalis
@@ -2015,7 +2015,7 @@ Innervation
 *   Verspannt das Längsgewölbe
 *   N. plantaris medialis (L5–S1)
 *   N. plantaris lateralis (S1–S2)
-##### M. adductor hallucis
+###### M. adductor hallucis
 *   Caput obliquum: Os cuneiforme laterale, Os cuboideum, Ossa metatarsi II–IV
 *   Caput transversum: Zehengrundgelenke III–V, Lig. metatarsale transversum profundum
 *   Dig. I: Phalanx proximalis
@@ -2026,26 +2026,26 @@ Innervation
 *   N. plantaris lateralis (S1–S2)
 Abkürzungen: Dig. = Digitus, Digg. = Digiti
 
-### Muskeln der Fußsohle – Mittelloge
+#### Muskeln der Fußsohle – Mittelloge
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. flexor digitorum brevis
+###### M. flexor digitorum brevis
 *   Calcaneus
 *   Plantaraponeurose
 *   Digg. II–V: Phalanx media
 *   Digg. II–V: Plantarflexion in Grund- und Mittelgelenken
 *   Verspannt das Längsgewölbe
 *   N. plantaris medialis (L5–S1)
-##### M. quadratus plantae
+###### M. quadratus plantae
 *   Tuber calcanei des Calcaneus
 *   flexor digitorum longus
 *   Verstärkung und Umlenkung der Zugrichtung des flexor digitorum longus
 *   N. plantaris lateralis (S1–S2)
-##### M. Mlumbricales pedis I–IV
+###### M. Mlumbricales pedis I–IV
 *   flexor digitorum longus
 *   Dorsalaponeurose von Digg. II–V
 *   Digg. II–V
@@ -2054,7 +2054,7 @@ Innervation
     *   Adduktion zur Großzehe
 *   N. plantaris medialis (S1–S2): Mlumbricales pedis I–II
 *   N. plantaris lateralis (S1–S2): Mlumbricales pedis III–IV
-##### M. Minterossei plantares I–III
+###### M. Minterossei plantares I–III
 *   Ossa metatarsi III–V
 *   Digg. III–V
     *   Phalanx proximalis
@@ -2064,7 +2064,7 @@ Innervation
     *   Mittel- und Endgelenke: Dorsalextension
     *   Adduktion zum Dig. II
 *   N. plantaris lateralis (S1–S2)
-##### M. Minterossei dorsales pedis I–IV
+###### M. Minterossei dorsales pedis I–IV
 *   Ossa metatarsi I–V
 *   Digg. II–IV
     *   Phalanx proximalis
@@ -2075,14 +2075,14 @@ Innervation
 *   Digg. III–IV: Abduktion von Dig. II weg
 Abkürzungen: Dig. = Digitus, Digg. = Digiti
 
-### Muskeln der Fußsohle – Kleinzehenloge
+#### Muskeln der Fußsohle – Kleinzehenloge
 
 Name
 Ursprung
 Ansatz
 Funktion
 Innervation
-##### M. abductor digiti minimi pedis
+###### M. abductor digiti minimi pedis
 *   Calcaneus
 *   Plantaraponeurose
 *   Dig. V: Phalanx proximalis
@@ -2092,12 +2092,12 @@ Innervation
     *   Abduktion
 *   Verspannt das Längsgewölbe
 *   N. plantaris lateralis (S1–S2)
-##### M. flexor digiti minimi brevis pedis
+###### M. flexor digiti minimi brevis pedis
 *   Os metatarsi V
 *   Lig. plantare longum
 *   Dig. V: Phalanx proximalis
 *   Dig. V: Plantarflexion im Grundgelenk
-##### M. opponens digiti minimi pedis
+###### M. opponens digiti minimi pedis
 *   Sehnenscheide des fibularis longus
 *   Lig. plantare longum
 *   Os metatarsi V

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
-title: Lokalisation
+title: OMI
 ---
-### Okklusiver Myokardinfarkt / OMI
+#### Okklusiver Myokardinfarkt / OMI
 - **Symptome**
 	- Kaltschweißigkeit, Blässe, Unruhe, Angst, [[Schwindel]], Übelkeit, Erbrechen
 	- [[Brustschmerz]] mit Ausstrahlung, Epigastrischer [[Schmerz]]
@@ -17,25 +17,25 @@ title: Lokalisation
 	- **[[Sonographie]]**
 
 
-# Lokalisation
+## Lokalisation
 ![[Infarktlokalisation]]
-### LCA
+#### LCA
 - [[RIVA]] → *Vorderwandinfarkt* / *Anteroseptalinfarkt*
 - [[RCX]] → *Posteriorer Hinterwandinfarkt*
 
-### RCA
+#### RCA
 - Proximale [[RCA]] → *Inferiorer Hinterwandinfarkt*, in 20% zusätzlich Infarkt des linken Ventrikels 
 - RIVP → *Posteriorer Hinterwandinfarkt*
 
-# Diagnostik
-## [[Labor]]
+## Diagnostik
+### [[Labor]]
 > Dynamik ist immer pathologisch! (Troponin kann z.B. auch chronisch im Rahmen einer [[KHK]] erhöht sein)
-### Troponin
+#### Troponin
 - **Verlauf**:: Anstieg 3h → Maximum 12-96h → Normalisierung 6-14d
 - Wichtigster Biomarker 
 - *Troponin T* / *Troponin I* liegen normalerweise im Komplex mit Troponin C des kontraktilen Apparats vor
 	- Genetisch anders codierte Isoenzyme, daher von anderen Muskelgeweben unterscheidbar
-### Weitere Parameter
+#### Weitere Parameter
 - **Myoglobin** 
 	- Nicht herzspezifisch
 	- Normaler Wert 6h nach [[ACS]] schließt OMI quasi aus (*hoher negativ prädiktiver Wert*)

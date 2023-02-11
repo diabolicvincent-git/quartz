@@ -1,6 +1,6 @@
 ---
 title: Respiratorische Alkalose
 ---
-# Respiratorische Alkalose
-## Ätiologie
+## Respiratorische Alkalose
+### Ätiologie
 - **Hyperventilation**

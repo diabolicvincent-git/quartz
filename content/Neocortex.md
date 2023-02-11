@@ -1,37 +1,37 @@
 ---
 tags: [Modul/m15]
-title: Gliederung
+title: Neocortex
 ---
-## Zelltypen
-### Pyramidenzellen
+### Zelltypen
+#### Pyramidenzellen
 - Sehr große multipolrare [[Neuron]], empfangen [[Afferenzen]] und projizieren [[Efferenzen]]
-### Nicht-Pyramidenzellen
+#### Nicht-Pyramidenzellen
 - v.a. hemmende Interneurone
 
-## Schichtung
+### Schichtung
 ![[Pasted image 20210319124719.png]]
 > Zusätzlich zur *horizontalen Schichtung* gibt es *vertikale Kolumnen*
-### Lamina molecularis
+#### Lamina molecularis
 - Viele [[Axon]]e, wenig Nervenzellen
-### Lamina granularis externa
+#### Lamina granularis externa
 - Viele kleine Zellen
-### Lamina pyramidalis externa
+#### Lamina pyramidalis externa
 - Viele kleine [[Pyramidenzellen]]
-### Lamina granularis interna
+#### Lamina granularis interna
 - Viele kleine *modifizierte* [[Pyramidenzellen]]
 - **Haupteingang** der [[Afferenzen]] aus dem [[Thalamus]]
 - Besonders ausgeprägt in somatosensiblen [[Cortex cerebri]]-Arealen
-### Lamina pyramidalis interna
+#### Lamina pyramidalis interna
 - Mittelgroße bis große [[Pyramidenzellen]]
 - **Hauptausgang** der [[Efferenzen]] zu subcorticalen Hirnarealen ([[Rückenmark]], [[Hirnstamm]], [[Subcorticale Kerne]])
 - Besonders ausgeprägt in motorischen [[Cortex cerebri]]-Arealen
-### Lamina multiformis
+#### Lamina multiformis
 - Unterschiedliche Zelltypen
 
-# Gliederung
-# Gliederung des [[Neocortex]] in Kolumnen und Schichten sowie die Unterschiede zwischen motorischen und sensorischen Arealen
+## Gliederung
+## Gliederung des [[Neocortex]] in Kolumnen und Schichten sowie die Unterschiede zwischen motorischen und sensorischen Arealen
 
-## Der Neuokortex besteht aus sechs Schichten.
+### Der Neuokortex besteht aus sechs Schichten.
 
 ![[Untitled 2 18.png]]
 
@@ -46,5 +46,5 @@ title: Gliederung
 
 ![[Untitled 3 10.png]]
 
-## Organisation in Kolumnen → Populationskodierung
+### Organisation in Kolumnen → Populationskodierung
 ![[Untitled 4 4.png]]

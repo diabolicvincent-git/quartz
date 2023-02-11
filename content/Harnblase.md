@@ -1,23 +1,23 @@
 ---
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie]
-title: Aufbau
+title: Harnblase
 ---
-### Harnblase / Vesica urinaria
+#### Harnblase / Vesica urinaria
 - **Funktion**: Harntransport und -speicherung
 - **Lage**: Zentral im kleinen [[Becken]]
 - **Volumen**: Je nach Füllungszustand 500–1.000 mL
 
-# Aufbau
+## Aufbau
 > Innerer Sphinkter [[vegetative]], äußerer Sphinkter bewusst
 
-## Abschnitte
+### Abschnitte
 - **Apex vesicae** (= Harnblasenspitze): Ventraler und kranialer Anteil der Harnblase
 	- Obliterierter Urachus (= Lig. umbilicale medianum): Setzt sich von der Harnblasenspitze fort und zieht bis zum Nabel
 - **Corpus vesicae** (= Harnblasenkörper): Hauptanteil der Harnblase
 - **Fundus vesicae** (= Blasengrund): Kaudaler Anteil der Harnblase mit Trigonum vesicae
 - **[[Cervix]] vesicae** (= Blasenhals): Enger, kaudaler Übergang in die [[Urethra]]
 
-## Innenrelief
+### Innenrelief
 - **Schleimhautfalten**: Verstreichen mit zunehmendem Füllungsvolumen der Harnblase
 - **Trigonum vesicae**: Dreieckiges Schleimhautfeld am Blasengrund, das fest mit der Muskelschicht verwachsen ist und keine Schleimhautfalten bildet
 	- **Begrenzung**
@@ -27,7 +27,7 @@ title: Aufbau
 - **Uvula vesicae**: Zäpfchenartige Erhebung der Blasenschleimhaut im Bereich der Cervix vesicae
 	- **Funktion**: Verschluss und Abdichtung der Harnblasenausflussbahn
 
-# Topographie 
+## Topographie 
 
 - **Lage**: Die Harnblase liegt **extra- bzw. präperitoneal** im kleinen [[Becken]] hinter den Schambeinbögen (= Rr. superiores ossis pubis) und der Symphyse, ihre kraniale Fläche ist allerdings vom [[Peritoneum]] überzogen.
     - Unterer Pol der Harnblase: Höhe des Unterrandes der Symphyse
@@ -41,8 +41,8 @@ title: Aufbau
         - [[W]]: [[Rektum]] mit Excavatio rectovesicalis, Ampullen des [[Ductus deferens]], Samenbläschen, [[Ureter]]
         - [[M]]: [[Uterus]] mit Excavatio vesicouterina (= Peritoneale Umschlagsfalte)
 
-# Leitungsbahnen
-## Gefäßversorgung
+## Leitungsbahnen
+### Gefäßversorgung
 
 - **[[Arterien]]**
     - [[Aorta]] abdominalis → A. iliaca communis → A. iliaca interna
@@ -53,7 +53,7 @@ title: Aufbau
     - **Plexus venosus vertebralis →** Vv. lumbales ascendentes → [[Azygossystem]] → **[[V. cava superior]]**
     - Beim Mann zusätzlich: **Plexus venosus prostaticus** → Plexus venosus vesicalis und Plexus venosus vertebralis
 
-## Innervation
+### Innervation
 
 - **[[Efferenzen]]**: Plexus vesicalis
     - **[[Sympathikus]]**: Nn. splanchnici lumbales et sacrales → Umschaltung im Ganglion mesentericum inferius oder Plexus hypogastricus inferior

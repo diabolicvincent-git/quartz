@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m04 Modul/m22, Fach/Endokrinologie]
-title: Produktionsort
+title: Cortisol
 ---
-### Cortisol
+#### Cortisol
 > Endogene ==[[Glucocorticoide]]== (**[[Corticosteroide]]**)
 - **Wirkung**
 	- **[[Stoffwechsel]]**:: [[Gluconeogenese]]↑, Proteolyse↑, Lipolyse↑ 
@@ -15,23 +15,23 @@ title: Produktionsort
 
 
 
-# Produktionsort
+## Produktionsort
 - **[[NNR]] (Cortex)**
     - **Zona gomerulosa**:: Mineralcorticoide
     - **==Zona fasciculata==**:: [[Glucocorticoide]]
     - **Zona reticularis**:: [[Sexualhormone]], [[Androgene]]
-# Synthese
+## Synthese
 > Ausgangssubstrat aller [[Steroidhormone]]: *[[Cholesterol]]* (aus Nahrung oder Acetyl-CoA / Mevalonat)
 - Zwischenprodukt: Pregnenolon → Cortisol → Cortison (Inaktivierung)
 
-# Ausschüttung
+## Ausschüttung
 
 > [[Stress]] & Circadiane Rhythmik → [[Hypothalamus]] **(CRH)** → [[Adenohypophyse]] **([[ACTH]])** → Zona fasciculata der [[NNR]] **(Cortisol)**
 
 - **Negative Rückkopplung von Cortisol**:: Inhibition der CRH- & [[ACTH]]-Freisetzung
 - **Verstärkung der [[ACTH]]-[[Sekretion]]**:: [[ADH]], [[Katecholamine]]
 
-# Transport
+## Transport
 
 - **Transcortin (CBG, Corticosteroid binding globulin)**:: α1-Globulin zum Transport von Glucocorticoiden und Progesteron im [[Blut]]
     - Synthese in der [[Leber]]
@@ -40,7 +40,7 @@ title: Produktionsort
 
 > An CBG gebundenes Cortisol ist biologisch inaktiv!
 
-# Wirkmechanismus
+## Wirkmechanismus
 
 1. Diffusion nach intrazellulär (lipophil)
 2. Bindung an cytoplasmatische *Liganden-aktivierte Transkriptionsfaktoren*
@@ -50,7 +50,7 @@ title: Produktionsort
 4. Interaktion des TF mit Importinsystem → Translokation in den Zellkern
 5. Aktivierung / Repression der Zielgene durch direkte [[DNA]]-Bindung
 
-# Wirkung
+## Wirkung
 - **[[Stoffwechsel]]** → ausreichende Nährstoffversorgung bei [[Stress]]/[[Hunger]]
 	- *Blutzuckerproduktion* ([[Gluconeogenese]]↑)
 	- *[[Proteinabbau]]* (Proteolyse v.a. im Muskel)
@@ -65,7 +65,7 @@ title: Produktionsort
 	- Hemmung von COX2 & Phsopholipase A2 → Freisetzung von Leukotrienen & Prostaglandinen ↓ 
 	- Transrepression von NF$\kappa$B ([[Signaltransduktion]])
 
-# Abbau & Ausscheidung
+## Abbau & Ausscheidung
 - **Halbwertszeit**:: 1,5-8 h
 - Inaktivierung in der ***[[Leber]]** (Glucuronidierung)*
 - Ausscheidung über [[Galle]] und teils Urin

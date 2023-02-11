@@ -1,10 +1,10 @@
 ---
-title: Leitungsbahnen
+title: Pharynx
 ---
 - **Funktion**:: Weiterleitung von Luft und Nahrung; Schluckakt
 - **Verlauf**:: Von [[Schädelbasis]] bis Cartilago cricoidea des [[Larynx]]
 
-## Pars nasalis pharyngis
+### Pars nasalis pharyngis
 > Epipharynx, Nasopharynx
 - **Begrenzungen**
 	- Ventral: Choanen (Verbindung zur Nasenhöhle)
@@ -14,7 +14,7 @@ title: Leitungsbahnen
 	- *[[Tonsilla pharyngealis]]* (unpaar) kranial
 	- *Tonsilla tubariae* am Eingang der Tuba auditiva
 
-## Pars oralis pharyngis
+### Pars oralis pharyngis
 > Mesopharynx, Oropharynx
 - **Begrenzungen**
 	- Ventral: Gaumenbögen
@@ -23,7 +23,7 @@ title: Leitungsbahnen
 - **Lymphatisches Gewebe**
 	- *[[Tonsillae palatinae]]*
 
-## Pars laryngea pharyngis
+### Pars laryngea pharyngis
 > Hypopharynx, Laryngopharynx
 
 > Ventrale Verbindung zum [[Larynx]] und kaudaler Übergang in den [[Ösophagus]]
@@ -37,8 +37,8 @@ title: Leitungsbahnen
 ![[Pasted image 20210307092220.png]]
 
 
-# Leitungsbahnen
-## Innervation
+## Leitungsbahnen
+### Innervation
 - Pars nasalis pharyngis: [[N. glossopharyngeus (IX)]]
 - Pars oralis pharyngis: [[N. glossopharyngeus (IX)]]
 - Pars laryngea pharyngis: [[N. vagus (X)]]

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
-title: Bei eigener Infektionen
+title: COVID-19
 ---
-# Bei eigener [[Infektionen]]
+## Bei eigener [[Infektionen]]
 
 - Ausreichend Ruhe, Erholung und Schlaf
 - Ausreichende Flüssigkeitszufuhr
@@ -10,7 +10,7 @@ title: Bei eigener Infektionen
 - Gurgeln mit einer handelsüblichen desinfizierenden Mundspülung, z.B. Listerine Cool Mint mit oder ohne [[Alkohol]] (Deutscher Hygienekongress Online) alternative Chlorhexidin oral Mundspülung – soll die [[Viren]] im Rachen deutlich vermindern und die Viruslast in der [[Lunge]] reduzieren
 - Wenn eine Indikation zur Magensäurehemmung besteht und nur dann!!! (z.B. wegen NSAID bei [[Kopf]]- und Gliederschmerzen), dann kein [[PPI]], sondern Famotidin 20 mg 1-2x tgl.
 
-# Kurzübersicht
+## Kurzübersicht
 
 **Def. Coronavirus-Disease**:: *Akutes respiratorisches Syndrom*, ausgelöst durch [[Infektionen]] mit erstmalig Dez. 2019 in Wuhan/China nachgewiesenen Coronavirus-Untertyp *SARS-CoV-2*
 
@@ -20,9 +20,9 @@ title: Bei eigener Infektionen
 
 ![[Untitled 45.png]]
 
-# What I'd like to remember
+## What I'd like to remember
 
-## Differentialdiagnostik COVID-19
+### Differentialdiagnostik COVID-19
 
 ﻿Symptom|COVID-19|Erkältung|Influenza|Allerg. [[Rhinosinusitis]]
 -|-|-|-|-|
@@ -38,7 +38,7 @@ Fatigue|⭐⭐|⭐|⭐⭐⭐|❌
 [[Diarrhoe]]|⭐|❌|⭐|❌
 Juckende Augen|❌|❌|❌|⭐
 
-## Schwere Verläufe
+### Schwere Verläufe
 
 *Interstitielle [[Pneumonie|Pneumonie]]* mit Komplikation einer respiratorischen Insuffizienz (*[[ARDS]]*)
 

@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m12, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Pathologie, ToDo]
-title: Testverfahren
+title: Allergie
 ---
 > Überschießende Immunreaktion ggü. ungefährlichen Stoffen
 - [[Hypersensibilitätstypen]]
@@ -33,9 +33,9 @@ gegebene klinische Hautbilder den Allergietypen I und IV nach Coombs und Gell zu
 
 [[Hypersensibilitätstypen]]
 
-# Testverfahren
+## Testverfahren
 
-## **Typ I: [[IgE]]-vermittelte Soforttyp-Reaktion**
+### **Typ I: [[IgE]]-vermittelte Soforttyp-Reaktion**
 
 - **In vitro**
     - Bestimmung des spez. [[IgE]] (RAST, CAP)
@@ -44,7 +44,7 @@ gegebene klinische Hautbilder den Allergietypen I und IV nach Coombs und Gell zu
     - Hauttest (Prick, i.c., Sratch, Reib)
     - Provokation (konjunktival, nasal, bronchial, oral)
 
-## **Typ IV: [[T-Zellen]]-vermittelte Spättyp-Reaktion**
+### **Typ IV: [[T-Zellen]]-vermittelte Spättyp-Reaktion**
 
 - **In vivo**
     - Hauttest (Atopie-Patch)

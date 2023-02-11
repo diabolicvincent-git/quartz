@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m03, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
-title: SEM Pathogenese viraler Erkrankungen
+title: Viren
 ---
-### Viren
+#### Viren
 > Kleine leblose Partikel (20-350 nm), ==obligate [[Parasiten]]==
 - **Aufbau**
 	- **Nucleinsäure**:: [[DNA]] oder [[RNA]], single-strand (ss) oder double-strand (ds)
@@ -51,7 +51,7 @@ title: SEM Pathogenese viraler Erkrankungen
 		- HDV ([[Hepatitis D]])
 
 
-## Klassifikation
+### Klassifikation
 - Realm: -viria (z.B. Riboviria)
 - Phylum: -viricota (z.B. Negarnaviricota)
 - Subphylum: -viricotina (z.B. Polyploviricotina)
@@ -62,7 +62,7 @@ title: SEM Pathogenese viraler Erkrankungen
 - Genus/Gruppe: -virus (z.B. Herpesvirus)
 - Spezies: -virus (z.B. Cytomegalievirus)
 
-## Wichtige humanpathogene Viren
+### Wichtige humanpathogene Viren
 Genom|Familie|Gattung|Art|Erkrankung
 -|-|-|-|-
 (+)ssRNA|Picornaviridae|Enterovirus|Coxsackievirus|enterale, resp., kardiale Infekt.
@@ -85,15 +85,15 @@ dsDNA|Hepadnaviridae|Orthohepadnavirus|Hepatitis-B-Virus|Akute [[Hepatitis]] + C
 ![[Replikationsstrategien]]
 
 
-## Lernziele
+### Lernziele
 Vertreter humanpathogener [[RNA]]- und [[DNA]]-Viren (Coxsackie-, Hanta-, Hepatitis A, B und C, Herpes-, HI-, Influenza-, [[Masern]]-, Papilloma-, Poliomyelitis-Viren) benennen und als Auslöser definierter Infektionskrankheiten zuordnen können. 2. Die Bedeutung der Virus-[[Rezeptor]]-Interaktion und interzellulärer Determinanten für Zell- und Organspezifität der Virusinfektion erklären können. 3. Die Variabilität von Replikationsmechanismen bei verschiedenen humanpathogenen [[RNA]] und [[DNA]]-Viren (Picornaviren, [[HIV]], Herpesviren, Influenzaviren) erläutern können.
 
-# SEM Pathogenese viraler Erkrankungen
+## SEM Pathogenese viraler Erkrankungen
 
 - **Manifestationsindex**:: Wahrscheinlichkeit, mit der eine infizierte Person tatsächlich erkrankt (~1: jeder erkrankt, ~0: niemand erkrankt)
 - **[[Inkubationszeit]]**:: Zeitspanne Erregerkontakt bis Symptombeginn
 
-## Eintrittspforten
+### Eintrittspforten
 - **Tröpfchen-/Schmierinfektion über Schleimhäute**
 	- **Mund, [[Nase]], Rachen, Augen**:: Coronaviren (SARS, MERS, 229E, OC43, NL65), Paramyxoviren ([[Masern]], Mumps, Hendra, Nipah), Orthomyxoviren (FLU A, B, C), Adenoviren
 	- **Genitaltrakt**:: [[HIV|HIV]], Papillomaviren, [[HSV]]-2
@@ -101,7 +101,7 @@ Vertreter humanpathogener [[RNA]]- und [[DNA]]-Viren (Coxsackie-, Hanta-, Hepati
 - **Blutbahn, Stiche, Bisse**:: Falviviren (Gelbfieber, Dengue, FSME, Zikavirus, [[Hepatitis C|HCV]]), Bunyaviren (Hanta, CCHFV)
 - **Blutbahn, Wunden**:: Hepatitis-B-Viren, Papillomaviren, Herpesviren (HHV1-HHV8)
 
-## Ausbreitung im Organismus
+### Ausbreitung im Organismus
 - **Direkt (Selbstinokulation)**:: z.B. Kratzen und dadurch Verbreitung → Therapie: Wundabdeckung
 - **Generalisierung** durch
 	- **Lymphohämatogen**
@@ -117,7 +117,7 @@ Vertreter humanpathogener [[RNA]]- und [[DNA]]-Viren (Coxsackie-, Hanta-, Hepati
 	- [[Meningitis]], Meningoencephalitis (Coxsackieviren, Mumps)
 	- Encephalitiden, Poliomyelitiden
 
-## Infektionen von Zielzellen
+### Infektionen von Zielzellen
 - **Modell**
 	1. Adsorption
 		- Behüllte über Membranproteine (Retro, Herpes, Influenza)
@@ -133,14 +133,14 @@ Vertreter humanpathogener [[RNA]]- und [[DNA]]-Viren (Coxsackie-, Hanta-, Hepati
 	8. Budding
 - [[RNA]] Viren replizieren im Cytoplasma, [[DNA]] Viren im Zellkern (Ausnahme Pocken)
 
-## Verlaufsformen
+### Verlaufsformen
 ![[Pasted image 20210510105920.png]]
 
-### Diagnostik
+#### Diagnostik
 ![[Pasted image 20210510110236.png]]
 
 ![[SSPE]]
 
-## Besondere Beispiele
+### Besondere Beispiele
 - **Enteroviren** (Picorna, Polio)
 	- Rezeptorvermittelte Endocytose → Konformationsänderung, Kapsid-Pore in [[Zellmembran]] → Entlassen nur des Genoms in Cytoplasma

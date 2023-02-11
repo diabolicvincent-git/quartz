@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
-title: Praxis
+title: Beatmung
 ---
-### Beatmung
+#### Beatmung
 - **Beatmungsformen**
 	- **Assistierte Beatmung**
 		- [[CPAP]]
@@ -17,11 +17,11 @@ title: Praxis
 
 ---
 - ![[Beatmungsparameter]]
-## Beatmungsformen
+### Beatmungsformen
 
 
 
-## Indikation der Beatmung
+### Indikation der Beatmung
 
 ![[Ventilatorische Insuffizienz]]
 
@@ -32,7 +32,7 @@ title: Praxis
 
 ![[Untitled 74.png]]
 
-## Brainstorming
+### Brainstorming
 
 - Knöpfe
     - [[FiO2]]
@@ -46,7 +46,7 @@ title: Praxis
 
 #Modul/m13
 
-# Praxis
+## Praxis
 **Druckkontrollierte [[Beatmung]]**:: Inspirationsdruck + [[Compliance]] = Tidalvolumen
 **Volumenkontrollierte [[Beatmung]]**:: Tidalvolumen + [[Compliance]] = Inspirationsdruck
 

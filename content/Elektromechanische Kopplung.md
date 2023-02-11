@@ -1,24 +1,24 @@
 ---
 tags: [Modul/m11, Modul/m10, Modul/m03, Fach/Physiologie]
-title: Skelettmuskulatur
+title: Elektromechanische Kopplung
 ---
 > "Übersetzen" von [[Aktionspotentiale]]n in mechanische Muskelkontraktion
 
-# Skelettmuskulatur
+## Skelettmuskulatur
 (TBD)
 
-# Myokard
-## Beteiligte Kanäle
-### Kontraktion des [[Herz]]
+## Myokard
+### Beteiligte Kanäle
+#### Kontraktion des [[Herz]]
 - **L-Typ-Calciumkanal (Dihydropyridin-[[Rezeptor]])** ([[Ca2+]] EZ bei T-Tubuli[^1] → IZ)
 - **Ryanodin-[[Rezeptor]] (RyR)** am Sarcoplasmatischen Reticulum ([[Ca2+]] SR → IZ)
 
-### Relaxation des [[Herz]]
+#### Relaxation des [[Herz]]
 - **SERCA** am Sarcoplasmatischen Reticulum ([[Ca2+]] IZ → SR)
 - **Ca2+ [[ATPase]]** [[Ca2+]] IZ → EZ)
 - **[[Na+]]/Ca2+ Antiporter** ([[Ca2+]] IZ → EZ, angetrieben durch [[Na+ K+ ATPase]])[^3]
 
-## Ablauf
+### Ablauf
 1. **Unerregte Myokardzelle** ([[Ca2+]] IZ ca. $10^{-7}$ mol/L, niedriger als sonst im Körper)
 2. **Erregung der Myokardzelle**:: AP Ausbreitung bis in T-Tubuli → Öffnung dortiger spannungsabhängiger L-Typ-Calciumkanäle (Plateauphase)
 3. **Calciumeinstrom ("Zündfunke")**:: Leichter [[Ca2+]] Einstrom durch L-Typ-Calciumkanäle → Aktivierung der RyR am SR

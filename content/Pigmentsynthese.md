@@ -1,10 +1,10 @@
 ---
 tags: [Modul/m09, Fach/Biochemie, Fach/Dermatologie]
-title: Regulation der Pigmentsynthese
+title: Pigmentsynthese
 ---
 
 
-## Barrierefunktion & Stabilität des Stratum corneum
+### Barrierefunktion & Stabilität des Stratum corneum
 
 - Hakenähnliche Strukturen der Corneocyten
 - Corneodesmosomen
@@ -24,7 +24,7 @@ title: Regulation der Pigmentsynthese
     - Bestandteile: *Ceramide* (30%), freie [[Fettsäuren]] (30%), [[Cholesterol]](-derivaten)
     - „Nagelfunktion“ der Ceramide: Veresterung einer ω-Hydroxyfettsäure im Ceramid-Grundkörper mit Linolsäure entsteht eine C36-Seitenkette, die bis in die nächste Lipiddoppelschicht hineinragt
 
-# Regulation der Pigmentsynthese
+## Regulation der Pigmentsynthese
 
 ![[UV]]
 
@@ -35,13 +35,13 @@ title: Regulation der Pigmentsynthese
     - **Adrenocorticotropes [[Hormon]] ([[ACTH]])**:: Induziert Ausschüttung von Glucocorticoiden → Immunsuppression
     - **Melanocyten-stimulierendes [[Hormon]] (α-[[MSH]])**:: Parakriner Effekt auf epidermale Melanocyten (via MC1-[[Rezeptor]] & Transkriptionsfaktor MITF) → Melaninsynthese und Verteilung auf Keratinocyten
 
-# Synthese und Funktion der Pigmente
+## Synthese und Funktion der Pigmente
 
 ![[Melanin]]
 
 
 
-## Weitere [[UV]]-Schutzmechanismen der Haut
+### Weitere [[UV]]-Schutzmechanismen der Haut
 
 - **Direkte Pigmentierung ("Sofortbräunung")**
     - Bereits in Keratinocyten abgelagertes [[Melanin]] wird durch [[UV]]-A Licht oxidiert → stärkeres Absorptionsvermögen führt ("Nachdunklung")

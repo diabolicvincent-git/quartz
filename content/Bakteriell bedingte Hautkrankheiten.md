@@ -1,16 +1,16 @@
 ---
 tags: [Modul/m09, Fach/Infektiologie, Fach/Dermatologie]
-title: "Grampositive Kokken: Staphylokokken vs. Streptokokken"
+title: Bakteriell bedingte Hautkrankheiten
 ---
 
 [[Bakteriensystematik.pdf.pdf]]
 
-# Grampositive Kokken: [[Staphylokokken]] vs. [[Streptokokken]]
+## Grampositive Kokken: [[Staphylokokken]] vs. [[Streptokokken]]
 
 - Einteilung nach Anwesenheit der [[Bakterien]] *Katalase* ([[Enzyme]]: H2O2 → [[Wasser]] + [[O2]])
     - Virulenzfaktor zur Antagonisierung der von Neutrophilen produzierten Peroxide
 
-## [[Staphylokokken]] (haufenförmig, Katalase-positiv)
+### [[Staphylokokken]] (haufenförmig, Katalase-positiv)
 
 Einteilung nach [[Bakterien]] *Koagulase* ([[Enzyme]]: Fibrinogen → Fibrin (Eingriff in [[Hämostase]])
 
@@ -18,7 +18,7 @@ Einteilung nach [[Bakterien]] *Koagulase* ([[Enzyme]]: Fibrinogen → Fibrin (Ei
 - Test: Kaninchenplasma + S. aureaus (Koagulase-positiv) → Ausflockung ([[Hämostase]])
 - Clumping-Faktor-Test: Alternatives [[Enzyme]] wird getestet
 
-### [[Staph. aureus]] (Koagulase-positiv)
+#### [[Staph. aureus]] (Koagulase-positiv)
 
 - **Farbe**:: Gelblich
 - **Hämolyseverhalten**:: *β-[[Hämolyse]]* findet statt
@@ -29,7 +29,7 @@ Einteilung nach [[Bakterien]] *Koagulase* ([[Enzyme]]: Fibrinogen → Fibrin (Ei
     - Karbunkel
     - Nicht-dermatologische-Erkrankungen
 
-### Koagulase-negative [[Staphylokokken]]
+#### Koagulase-negative [[Staphylokokken]]
 
 - **Hauptvertreter**:: S. epidermidis, S. haemolyticus, S. saprophyticus
 - **Farbe**:: Porzellanweiß
@@ -40,7 +40,7 @@ Einteilung nach [[Bakterien]] *Koagulase* ([[Enzyme]]: Fibrinogen → Fibrin (Ei
 
 ---
 
-## [[Streptokokken]] (kettenförmig, Katalase-negativ)
+### [[Streptokokken]] (kettenförmig, Katalase-negativ)
 
 Einteilung nach Hämolyseverhalten und Lancefield-Serologie
 
@@ -74,7 +74,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
 
 ---
 
-# Praktikum: [[Bakterien]]-[[Infektionen]]
+## Praktikum: [[Bakterien]]-[[Infektionen]]
 
 - **Kolonie-bildende-Einheiten (KBE)**:: Angabe der Bakterienkonzentration in Flüssigkeiten
 - **Vermehrung von [[Bakterien]]**:: Asexuelle Reproduktion durch Querteilung mit Verdopplung ca. alle 25 min (bei 36 °C)
@@ -83,7 +83,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
     - **Stationäre Phase**:: Entstehungsrate = Todesrate; Nährstoffverbrauch führt zum Aussterben
 
 
-## Hautinfektionen
+### Hautinfektionen
 
 - **Dispositionen für Haut-/[[Wundinfektion]]**
     - Avitales Gewebe
@@ -117,7 +117,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
     - Leptospirose
 - **Sekundäre [[Wundinfektion]]**:: Entstehung durch Bakterienexposition nach Verletzungen inkl. perioperativ
 
-## Häufige Erreger von [[Infektionen]] der Haut
+### Häufige Erreger von [[Infektionen]] der Haut
 
 - **[[Staph. aureus]]**
     - [[Epidermis]]: Impetigo contagiosa, Dermatitis exfoliativa, Staphylococcal scalded skin syndrome (SSSS) / Toxic shock syndrome (TSS)
@@ -130,7 +130,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
     - Mycobakterium marinum: Schwimmbadgranulom
     - Mycobakterium leprae: Lepra
 
-# Diagnostik
+## Diagnostik
 
 - **Probengewinnung**
     - Möglichst vor antimikrobieller Therapie
@@ -153,7 +153,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
         - Feststellung phänotypischer Stoffwechselleistungen ("Bunte Reihe"), z.B. mittels Katalse- und Koagulaseanalytik
     - **Hämolyseverhalten** (insb. bei [[Streptokokken]] und [[Staphylokokken]] relevant)
 
-# Rolle von [[Pathogenitätsfaktoren]] bei der Pathogenese von Hautinfektionen
+## Rolle von [[Pathogenitätsfaktoren]] bei der Pathogenese von Hautinfektionen
 
 Hämolysine, Katalase, Koagulase
 

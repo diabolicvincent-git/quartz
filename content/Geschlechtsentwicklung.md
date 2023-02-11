@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Embryologie]
-title: Entwicklung der Geschlechtsorgane
+title: Geschlechtsentwicklung
 ---
-### [[Geschlecht]]sentwicklung
+#### [[Geschlecht]]sentwicklung
 - **Keimdrüsen**
 	1. **Indifferent**:: Urkeimzellen → Genitalleisten → Gonadenanlage ([[SSW]] 6)
 	2. **Differenziert**:: Determiniert durch ==[[SRY]]==
@@ -13,26 +13,26 @@ title: Entwicklung der Geschlechtsorgane
 	- [[W]] hormonabhängig
 	- [[M]] hormonunabhängig
 
-# Entwicklung der [[Geschlechtsorgane]]
-## Innere Geschlechtsorgane
+## Entwicklung der [[Geschlechtsorgane]]
+### Innere Geschlechtsorgane
 ![[Wolff-Gang]]
 ![[Müller-Gang]]
 ![[Sinus urogenitalis]]
-### Urnierenkanälchen
+#### Urnierenkanälchen
 - **Differenzierung**
 	- **♂**:: Ductuli efferentes testis
 
-## Äußere Geschlechtsorgane
+### Äußere Geschlechtsorgane
 > Mesenchymverdichtungen um die Kloakenmembran; bis [[SSW]] 9 [[M]]/♂ identisch
-### Genitalhöcker / Tuberculum genitale
+#### Genitalhöcker / Tuberculum genitale
 - **Differenzierung**
 	- **♂**:: Phallus, [[Urethra]], Corpora cavernosa, ==Glans [[Penis]]==
 	- **[[M]]**:: ==[[Klitoris]]==
-### Genitalfalten
+#### Genitalfalten
 - **Differenzierung**
 	- **♂**:: Corpus spongiosum, Corpora cavernosa [[Penis]]
 	- **[[M]]**:: Labia minora, Bulbus vestibuli
-### Genitalwülste
+#### Genitalwülste
 - **Differenzierung**
 	- **♂**:: [[Skrotum]]
 	- **[[M]]**:: Labia majora

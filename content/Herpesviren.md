@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Dermatologie, Fach/Infektiologie/Erreger/Viren]
-title: Herpesviren aus M09
+title: Herpesviren
 ---
-### Herpesviren
+#### Herpesviren
 > [[DNA]]-[[Viren]], die lange nach Erstinfektion persistieren
 1. **[[HSV]]-1** → Stomatitis, konnatale Infekt. → Herpes labialis
 2. **[[HSV]]-2** → ==[[Encephalitis]], Herpes genitalis==, Exzem
@@ -13,7 +13,7 @@ title: Herpesviren aus M09
 7. **HHV-7** → Exanthema subitum (Dreitagefieber)
 8. **KSHV** → [[Kaposi-Sarkom]]
 
-## Übersichtsmatrix
+### Übersichtsmatrix
 HHV|Name|Typ|Erkrankung|Therapie|Besonderheit
 -|-|-|-|-|-
 1|Herpes-simplex-Virus 1 ([[HSV]]-1)|α|**Primär**:: Stomatitis aphthosa, konnatale Infekt.<br>**Reakt.**:: Herpes labialis<br>**Unkl.**:: [[Encephalitis]], Eczema herpeticatum, Herpes digitalis, Keratitis, Konjunktivitis|[[Aciclovir]]|Lebenslange Persistenz in Ganglien
@@ -31,7 +31,7 @@ HHV|Name|Typ|Erkrankung|Therapie|Besonderheit
 - **β-Herpesviren**:: langsam-replizierend, lymphotrop
 - **γ-Herpesviren**:: onkogenes Potential, lymphotrop
 
-# [[Herpesviren]] aus M09
+## [[Herpesviren]] aus M09
 
 - Griechisch *[[Herpesviren|herpes]]*: "bleibender Schaden"
 - **Biologische Eigenschaften**

@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m10, Fach/Orthopädie, Fach/Radiologie]
-title: Struktur und Verlauf der Binnenstrukturen (Ligg. cruciata et collateralia, Meniscus, Capsula) des Kniegelenks beschreiben
+title: Bildgebung Bewegungsapparat
 ---
 
 - **Knochenverbindungen**
@@ -19,21 +19,21 @@ title: Struktur und Verlauf der Binnenstrukturen (Ligg. cruciata et collateralia
 
         ![[Untitled 39.png]]
 
-# Struktur und Verlauf der Binnenstrukturen (Ligg. cruciata et collateralia, Meniscus, Capsula) des Kniegelenks beschreiben
+## Struktur und Verlauf der Binnenstrukturen (Ligg. cruciata et collateralia, Meniscus, Capsula) des Kniegelenks beschreiben
 
-# die tastbaren Knochenpunkte des Beckengürtels sowie der unteren Extremität am Skelett oder anatomischen Modell zeigen und benennen
+## die tastbaren Knochenpunkte des Beckengürtels sowie der unteren Extremität am Skelett oder anatomischen Modell zeigen und benennen
 
 - Zug → Knochenproliferation, Entstehung von Apophysen
 - Druck → Knochenabbau
 
-# die gelenksübergreifenden Muskelgruppen der Hüfte an den Beispielen Psoasgruppe, große und kleine Glutealmuskeln, Hüftbeuger- und -streckerloge am anatomischen Modell sowie in der Bildgebung mit Ursprung, Ansatz, Innervation und Funktion beschreiben und einordnen
+## die gelenksübergreifenden Muskelgruppen der Hüfte an den Beispielen Psoasgruppe, große und kleine Glutealmuskeln, Hüftbeuger- und -streckerloge am anatomischen Modell sowie in der Bildgebung mit Ursprung, Ansatz, Innervation und Funktion beschreiben und einordnen
 
 - Caput femoris ("Hüftkopf")
 - Acetabulum ("Hüftpfanne")
 - Facies lunata
 - Spezielles Kugelgelenk ("Nussgelenk"): >50% des Kopfes sind in der Pfanne → Stabilitätserhöhung, aber Bewegungseinschränkung
 
-# die gelenksübergreifenden Muskelgruppen des Kniegelenkes an den Beispielen von Kniestrecker (M. quadrizeps femoris), Hüftstrecker (Ischiocrurale Muskulatur) und Adduktorenloge (Mm. adductor long. et magnus) inklusive 'Pes anserinus-Gruppe' (Sartorius-Gracilis-Semitendinosus) am anatomischen Modell sowie in der [[Bildgebung]] mit Ursprung, Ansatz, Innervation und Funktion beschreiben und einordnen
+## die gelenksübergreifenden Muskelgruppen des Kniegelenkes an den Beispielen von Kniestrecker (M. quadrizeps femoris), Hüftstrecker (Ischiocrurale Muskulatur) und Adduktorenloge (Mm. adductor long. et magnus) inklusive 'Pes anserinus-Gruppe' (Sartorius-Gracilis-Semitendinosus) am anatomischen Modell sowie in der [[Bildgebung]] mit Ursprung, Ansatz, Innervation und Funktion beschreiben und einordnen
 
-# die tastbaren Strukturen des Kniegelenkes (Patella, Kondylen, Apophysen Ligamenta) am anatomischen Modell oder anhand einer Abbildung beschreiben
+## die tastbaren Strukturen des Kniegelenkes (Patella, Kondylen, Apophysen Ligamenta) am anatomischen Modell oder anhand einer Abbildung beschreiben
 

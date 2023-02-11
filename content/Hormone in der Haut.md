@@ -1,19 +1,19 @@
 ---
 tags: [Modul/m04, Modul/m09, Fach/Dermatologie, Fach/Endokrinologie, Fach/Biochemie]
-title: Wirkung und Metabolisierung von Steroidhormonen und Vitamin A in der Haut
+title: Hormone in der Haut
 ---
-# Wirkung und Metabolisierung von Steroidhormonen und Vitamin A in der Haut
+## Wirkung und Metabolisierung von Steroidhormonen und Vitamin A in der Haut
 
-## Rezeptortypen
+### Rezeptortypen
 
 - **Klassische Steroidhormonrezeptoren**:: Intrazellulär; erkennen meist palindromische Erkennungssequenzen als Homodimer; nucleäre Lokalisation nach [[Hormon]]-Bindung (Testosteron, Östrogen)
 - **RXR-interagierende [[Rezeptor]]**:: Konstitutiv nucleär & [[DNA]]-gebunden; [[Hormon]]-Bindung bewirkt Austausch eines Corepressors durch einen Coaktivator
 
-## Sekretionsart
+### Sekretionsart
 
 Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intrakrin]]*
 
-## Lokalisation der Rezeptor in der Haut
+### Lokalisation der Rezeptor in der Haut
 
 - **Epidermale Keratinocyten**:: [[Androgene]]-/Testosteron-[[Rezeptor]], Östrogen-[[Rezeptor]]; [[Progesteron]]-/[[Gestagene]]-[[Rezeptor]], [[Glucocorticoide]]-[[Rezeptor]]; Vit-D-/Vit-A-[[Rezeptor]]
 - **Follikuläre Keratinocyten**:: Androgen-[[Rezeptor]], Östrogen-[[Rezeptor]]; Vit-D-/Vit-A-[[Rezeptor]]
@@ -24,7 +24,7 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
 - **Endothelzellen**:: Androgen-[[Rezeptor]], Östrogen-[[Rezeptor]]; (Vit-A-[[Rezeptor]])
 - **Dermale Papillenzellen**:: Androgen-[[Rezeptor]], Östrogen-[[Rezeptor]]; [[Glucocorticoide]]-[[Rezeptor]]
 
-## Hautspezifische Synthese, Metabolisierung und Wirkung von *Sexualhormonen*
+### Hautspezifische Synthese, Metabolisierung und Wirkung von *Sexualhormonen*
 
 - **Metabolisierung**
     - Talgdrüsenzellen und Keratinocyten exprimieren alle [[Enzyme]] und Faktoren zur Testosteron-Synthese
@@ -51,10 +51,10 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
         - Talgdrüsen-Funktion
         - Melanocyten: Hyperpigmentierung
 
-## Hautspezifische Synthese, Metabolisierung und Wirkung von Vitamin D
+### Hautspezifische Synthese, Metabolisierung und Wirkung von Vitamin D
 
 
-## Hautspezifische Synthese, Metabolisierung und Wirkung von Vitamin A
+### Hautspezifische Synthese, Metabolisierung und Wirkung von Vitamin A
 
 - **Wirkung** v.a. an Keratinocyten, Talgzellen, Melanocyten, Dermalen Fibroblasten und Endothelzellen
     - Wachstum, Differenzierung, Erhalt des epithelialen Gewebes
@@ -65,7 +65,7 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
     - Inhibition von Talgdrüsen-Proliferation und -Lipogenese
     - Teratogene Wirkung der [[Vitamin A]]
 
-## Abnehmende Hormonspiegel im Alter und Hautalterung
+### Abnehmende Hormonspiegel im Alter und Hautalterung
 
 - **Intrinsische Faktoren**
     - Östrogen↓ → Hautdicke↓, [[Kollagen]]↓, Hyaluronsäure↓

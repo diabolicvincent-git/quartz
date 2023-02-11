@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m10, Modul/m15, Fach/Orthopädie, Fach/Neurologie]
-title: Beschreibung von Gangstörungen
+title: Gangstörungen
 ---
-# Beschreibung von Gangstörungen
+## Beschreibung von Gangstörungen
 
 - **Komplexes Zusammenspiel**
     - Stabilisierung ↔ Bewegung
@@ -19,7 +19,7 @@ title: Beschreibung von Gangstörungen
 
 
 
-## Coxa vara und Coxa valga
+### Coxa vara und Coxa valga
 
 Veränderung der Druckverteilung am OS-Hals
 
@@ -31,7 +31,7 @@ Veränderung der Druckverteilung am OS-Hals
 
 ![[Untitled 2 13.png]]
 
-## 
+### 
 
 - Problem im aktiven Bewegungsapparat → nach unten herabhängen eines Fußes; kann nicht mehr nach oben aufgerichtet werden
 - **Läsion N. peroneus communis** → aktive Dorsalextension im Sprunggelenk unmöglich
@@ -42,21 +42,21 @@ Veränderung der Druckverteilung am OS-Hals
     - Raumforderungen
     - Traumatisch / Iatrogen bei [[OP]]
 
-## Trendelenburg Hinken
+### Trendelenburg Hinken
 
 - **Läsion N. glutaeus superior** → Absacken des Beckens bei Anheben des Beines → Kompensatorisches Kippen des Oberkörpers
     - Innerviert Mm. glutei medius und minimus (Stabilisierung des Femurs im Standbein)
 
 ![[Untitled 3 8.png]]
 
-## Spastisches Gangbild
+### Spastisches Gangbild
 
 "Als würde man durch [[Wasser]] waten"
 
 - Problem im aktiven Bewegungsapparat
 - **Gestörte Balance Agonist ↔ Antagonist** (z.B. Flexor vs. Extensor im [[Kniegelenk]] bei Z.n.[[Stroke]])
 
-## Zentral bedingte Gangstörungen
+### Zentral bedingte Gangstörungen
 
 - **[[Ataxie]]**:: Ungenauigkeit der Bewegung
     - **Ursachen**:: Extrapyramidale Bewegungsstörungen (M. [[Parkinson-Syndrom]], essentieller [[Tremor]], iatrogen tiefe Hirnstimulation, iatrogen bei [[Antipsychotika]])

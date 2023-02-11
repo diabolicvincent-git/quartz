@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m13, Fach/Pneumologie]
-title: Kardiogenes Lungenödem
+title: Lungenödem
 ---
-### Lungenödem
+#### Lungenödem
 - **Ätiologie**
 	- *Kardial:* [[Linksherzinsuffizienz]]
 	- *Nicht-Kardial:* [[CKD]], [[Intoxikation]], [[Infektionen]], [[Aspiration]], Höhenkrankheit
@@ -21,31 +21,31 @@ title: Kardiogenes Lungenödem
 ---
 
 
-# Kardiogenes Lungenödem
-## Pathogenese
+## Kardiogenes Lungenödem
+### Pathogenese
 - [[Linksherzinsuffizienz]] mit Rückwärtsversagen → Blutvolumen im Lungenkreislauf steigt, [[MAD]]↑ → *Auswärtsfiltration* ins Lungengewebe
 
-## Diagnostik
+### Diagnostik
 - **[[Anamnese]]**:: Kardiale Vorbelastung
 - **[[Labor]]**:: Herzenzyme, [[BNP]] ↑ 
 - **[[Röntgen]] Thorax**:: Vergrößerte Herzsilhuette, zentrales Infiltrat, Kerley-B-Linien
 - **[[Sonographie]]**:: Vergrößerte Ventrikel, verminderte Ventrikelfunktion
 - **Wedge-Druck-Messung**:: >18 mmHg (siehe [[Pulmonale Hypertonie]])
 
-## Therapie
+### Therapie
 https://dasfoam.org/2017/12/08/furosemid-im-akuten-lungenoedem-wirklich/
 
-# Nicht-kardiogenes Lungenödem
-## Pathogenese
+## Nicht-kardiogenes Lungenödem
+### Pathogenese
 - Erhöhte Membranpermeabilität → *Exsudation* eines proteinreichen Infiltrats mit Immunzellen ([[ARDS]])
 - **Ursache**:: [[Entzündung]], Aspiration, Inhalationstrauma, [[Sepsis]] usw.
 - Hydrostatischer intravasaler Druck ist nicht erhöht
-## Diagnostik
+### Diagnostik
 - *[[Labor]]**:: [[Leukocyten]]
 - *[[Röntgen]] Thorax:* Peripheres Infiltrat
 - **Wedge-Druck-Messung**:: <18 mmHg (siehe [[Pulmonale Hypertonie]])
 
-# Lernziele
+## Lernziele
 - die klinischen Zeichen eines Lungenödems benennen können.
 - die unterschiedlichen Ursachen (Pathophysiologie) des Lungenödems darlegen können.
 - diagnostische Möglichkeiten zur Schweregradabschätzung und zur Ursachenzuordnung beim Lungenödem darlegen können.

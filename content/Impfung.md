@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m08, Modul/m18, Fach/Infektiologie, Fach/Pädiatrie, Art/Intervention]
-title: die einer Impfung zugrunde liegenden Mechanismen erläutern
+title: Impfung
 ---
 - **Formen der Impfung**
 	- [[Aktivimpfung]]
@@ -46,9 +46,9 @@ title: die einer Impfung zugrunde liegenden Mechanismen erläutern
 
 
 
-# die einer Impfung zugrunde liegenden Mechanismen erläutern
+## die einer Impfung zugrunde liegenden Mechanismen erläutern
 
-# Verwendung unterschiedlicher Impfstoffe und die Bedeutung von Adjuvantien erläutern
+## Verwendung unterschiedlicher Impfstoffe und die Bedeutung von Adjuvantien erläutern
 
 - **Totimpfstoffe**
     - **Nachteil**:: Nicht so immunogen wie Lebendimpfstoffe (replizieren nicht), meist wiederholte [[Applikation]] notwendig, induzieren nur humorale Immunantworten mit Abnahme über Zeit, Adjuvantien erforderlich (Triggern der [[PRR]] → Immunreaktion verstärkt)

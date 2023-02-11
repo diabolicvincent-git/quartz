@@ -1,7 +1,7 @@
 ---
 title: Distales Nephron
 ---
-# Distales Nephron
+## Distales Nephron
  > **Funktion**:: Feinabstimmung der Harnzusammensetzung ([[Hormon]]-reguliert)
 - **Anatomische Abschnitte**
 	- [[Distaler Tubulus]] Pars convoluta
@@ -16,10 +16,10 @@ title: Distales Nephron
 	- [[Harnstoff]]
 	- H+, [[HCO3-]]
 	- K+
-## Frühes distales Nephron
+### Frühes distales Nephron
 - ==[[Na+]]/[[Cl-]] Cotransporter==: Aldosteron-induziert
 - Ca2+ Kanal (ECaC): Tertiär aktiv, [[Ca2+]] wird vorher sekundär aktiv über 3Na+/Ca2+ Antiport ins Niereninterstitium ausgeschleust, Calcitriol-stimuliert
-## Später distales Nephron und Sammelrohr
+### Später distales Nephron und Sammelrohr
 - **Hauptzellen**
 	- ==Epithelialer [[Na+]] Kanal (ENaC)==: Aldosteron-stimuliert
 	- K+ Kanäle (ROMK): K+ [[Sekretion]], Aldosteron-stimuliert

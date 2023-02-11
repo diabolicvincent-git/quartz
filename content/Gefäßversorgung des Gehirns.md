@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
-title: Arterien Versorgung
+title: Gefäßversorgung des Gehirns
 ---
-### Gefäßversorgung des Gehirns
+#### Gefäßversorgung des Gehirns
 - **Arterien**
 	- *Zuführend:* [[A. carotis interna]], [[A. vertebralis]]
 	- *[[Circulus arteriosus cerebri]]*
@@ -13,23 +13,23 @@ title: Arterien Versorgung
 
 ---
 
-# Arterien Versorgung
+## Arterien Versorgung
 
-## Zuführende Arterien
+### Zuführende Arterien
 ![[A. carotis interna]]
 ![[A. vertebralis]]
 
-## Circulus arteriosus cerebri
+### Circulus arteriosus cerebri
 ![[Circulus arteriosus cerebri]]
 
-## Große Hirnarterien
+### Große Hirnarterien
 ![[Pasted image 20210320140846.png]]
 
 ![[Hirnarterien]]
 
 
 
-# Venöser Abfluss
+## Venöser Abfluss
 > **Abfluss**:: *Oberflächliche / Tiefe [[Hirnvenen]]* → *[[Sinus durae matris]]* → *[[V. jugularis interna]]* → *[[V. cava superior]]* (kleiner Teil via Rückenmarksvenen)
 
 ![[Hirnvenen]]

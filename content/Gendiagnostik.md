@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Intervention]
-title: Praktikum
+title: Gendiagnostik
 ---
-### Gendiagnostik / Genetische Diagnostik 
+#### Gendiagnostik / Genetische Diagnostik 
 > Humangenetische Verfahren zur Diagnose von *monogenen* [[Genetische Erkrankungen]]
 - **Verfahren**
 	- **Spezifische Tests**
@@ -18,23 +18,23 @@ title: Praktikum
 
 ---
 
-## Verfahren
-### Spezifische Tests
+### Verfahren
+#### Spezifische Tests
 ![[Sequenzierung]]
-#### Enzymatische Tests
-#### Kopplungsanalyse
+##### Enzymatische Tests
+##### Kopplungsanalyse
 
-### Globale Tests
+#### Globale Tests
 ![[Karyogramm]]
 
-#### Array-CGH
+##### Array-CGH
 > **Comparative Genom Hybridisierung**:: Hochauflösende genomweite Detektion von Duplikationen / Deletionen
 - **Verfahren**
 	- Hybridisierung von Patienten-[[DNA]] (grün gefärbt) mit Referenz-[[DNA]] (rot gefärbt)
 	- Scan der Hybrid-Spots: Gelb (normal) ↔ Grün (zu viel Genmaterial, Duplikation) <→ Rot (zu wenig Genmaterial, Deletion)
 - **Vorteile**:: Einfach, effizient, wenig [[DNA]] benötigt
 - **Nachteile**:: Erkennt keine balancierten Veränderungen und Mosaike
-#### GenomSequenzierung
+##### GenomSequenzierung
 > Next-Generation Sequencing
 - **Verfahren**
 	- ***==Capture==:*** Anreicherung der gewünschten exonischen [[DNA]]
@@ -48,7 +48,7 @@ title: Praktikum
 	- ***whole genome***
 
 
-## Nomenklatur
+### Nomenklatur
 > **Beispiel**:: *c.2279G>T (p.Arg760Pro)*
 
 - **Präfix:**
@@ -61,7 +61,7 @@ title: Praktikum
 - **Basen**:: G>T = Basenaustausch Guanin → Thymin
 
 
-## Rechtlicher Rahmen
+### Rechtlicher Rahmen
 > **Gendiagnostikgesetz (GenDG)**:: Regelt Untersuchung, ausgenommen zu Forschungszwecken, im Strafrecht und Infektionsschutz
 - **Einwilligung** muss rechtswirksam, schriftlich vorliegen
 	- **Bei nicht-einwilligungsfähigen Personen**
@@ -81,7 +81,7 @@ title: Praktikum
 	- Ausgenommen Lebens-, Berufsunfähigkeit-, Pflege-, Renten-, EU-Versicherungen (wenn Leistungen >300.000 € oder Jahresrente >30.000 €)
 
 
-## Lernziele
+### Lernziele
 - Gründe/Anlässe für genetische Beratung/Diagnostik bennen und erläutern
 	- Familiäre Häufung von Krankheiten
 	- Syndromales Krankheitsbild
@@ -96,4 +96,4 @@ title: Praktikum
 	- [[Sequenzierung]]
 	- Next-Generation Sequencing
 
-# Praktikum
+## Praktikum

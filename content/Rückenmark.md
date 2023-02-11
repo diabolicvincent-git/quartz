@@ -1,28 +1,28 @@
 ---
 tags: [Modul/m15, Modul/m10]
-title: Aufbau
+title: Rückenmark
 ---
-### Rückenmark 
+#### Rückenmark 
 > Teil des [[ZNS]], der [[Gehirn]] mit [[PNS]] verbindet und teils Informationen eigenständig verschaltet (*spinale [[Reflex]]*)
 - **Nervenwurzeln**
 	- *Radix anterior* ([[Efferenzen]])
 	- *Radix posterior* ([[Afferenzen]])
 - *Cauda equina:* [[Spinalnerven]]geflecht ab LWK 1-2 (Rückenmark ist kürzer als Wirbelkanal)
 
-# Aufbau
+## Aufbau
 ![[Pasted image 20210323170520.png]]
 
 ![[Spinalnerven]]
 
 
 ![[Meningen]]
-### Besonderheiten der Meningen im Rückenmark
+#### Besonderheiten der Meningen im Rückenmark
 - Physiologischer ***Epiduralraum*** (Fettgewebe, Veneplexus, durchkreuzende Spinalnerven)
 - Kein *Subduralraum* (Öffnung nur durch Einblutung)
 
 ![[Untitled 26.png]]
 
-# Rückenmarksquerschnitt
+## Rückenmarksquerschnitt
 
 - **Rückenmarksquerschnitt**
     - **Graue Substanz**:: schmetterlingsförmig, von weißer Substanz umhüllt
@@ -79,17 +79,17 @@ title: Aufbau
     - **Hinterstrang**:: Verlust von Berührungs- und Lageempfinden *ipsilateral*
 
     [[Querschnitt]] (vollständige Zerstörung) vs. Brown-Séquard-Syndrom (halbseitige Schädigung)
-# Gefäßversorgung
-## Arterien
+## Gefäßversorgung
+### Arterien
 > 2 kreisförmig anastomosierende Arteriensysteme (v.a. *vertikal* + Zufuhr von *horizontal*)
-### Horizontales System
+#### Horizontales System
 - i.d.R. [[Aorta]] → *Rr. spinales* → A. radicularis anterior/posterior
 - Führen vertikalem System T-förmig Blut zu
 
-### Vertikales System
+#### Vertikales System
 - [[A. vertebralis]] → *1 A. spinalis anterior* + *2 Aa. spinalis posterior
-## Venöser Abfluss
-### Horizontales System
+### Venöser Abfluss
+#### Horizontales System
 - Vv. radiculares + Vv. intervertebrales → Vv. vertebrales/lumbales/sacrales + Plexus
-### Vertikales System
+#### Vertikales System
 - V. spinalis anterior/posterior → Horizontales System

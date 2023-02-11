@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament/Übergruppe]
-title: Wirkmechanismen
+title: Antibiotika
 ---
 - **Einteilung nach Wirkmechanismen**
 	1. **[[Störung der Zellwandsynthese]]**:: *[[β-Lactam-Antibiotika]]* ([[Penicilline]], [[Cephalosporine]], [[Carbapeneme]], [[Monobactame]]), [[Glycopeptide]], [[Fosfomycin]]
@@ -51,7 +51,7 @@ Sonstige|[[Rifampicin]]||🟢|🟢|insb. Mycobact. tuberculosis|Fremdkörper-Inf
 Sonstige|Cyclische Lipopeptide|Daptomycin|🟢 [[VRE]], [[MRSA]]|🔴|||GI-[[UAW]], Kopfsz., Myopathie|🔴|🔴|4
 Sonstige|Cyclische Dekapeptide|Colistin, Colistimethat|🔴|🟢|[[MRE]] Acinetobact. baumannii|"wiederauflebende" Reserve|Neurotox., Nephrotox.|||4
 
-# Wirkmechanismen
+## Wirkmechanismen
 ![[Pasted image 20210513113759.png]]
 
 

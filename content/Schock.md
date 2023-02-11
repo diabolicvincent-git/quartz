@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m11, Modul/m17, Modul/m21, ToDo, Fach/Anästhesie, Art/Pathologie, Fach/Notfallmedizin]
-title: VL Septischer Schock
+title: Schock
 ---
-### Schock
+#### Schock
 > Generalisierte Hypoxie ([[HZV]] < [[O2]]-Bedarf)
 - **Ätiologie**
 	- **Hypovolämisch**:: Plasmavolumen↓ (z.B. [[Diarrhoe]], [[Verbrennung]], [[Pankreatitis]])
@@ -18,8 +18,8 @@ title: VL Septischer Schock
 - **Diagnostik**
 	- **Labor**:: [[Lactat]]↑, [[Azidose]]
 
-# VL Septischer Schock
-## Pathophysiologie
+## VL Septischer Schock
+### Pathophysiologie
 [[Blutdruck]] = [[HZV]] * systemischer Widerstand
 (gleicher [[Blutdruck]] kann mit viel oder wenig [[HZV]] sein – korreliert nicht mit O2-Perfusion im Gewebe)
 - **Sauerstoffmangel ausrechnen**
@@ -35,7 +35,7 @@ title: VL Septischer Schock
 - **Mikrozirkulationsstörung**
 	- Kleine Kapillaren kaum durchblutet
 	- Sludge durch Arteriolen
-## Einteilung
+### Einteilung
 - **Hypodynam/kalt**:: Kompensatorische [[Vasokonstriktion]]
 	- Kardiogen
 	- Hypovoläm
@@ -43,8 +43,8 @@ title: VL Septischer Schock
 	- Neurogen
 	- Septisch
 	- [[Anaphylaxie]]
-# Im Einzelnen
-## Kardiogener Schock
+## Im Einzelnen
+### Kardiogener Schock
 - **Ätiologie**:: z.B. [[OMI]], [[Kardiomyopathie]], [[HRST]], [[Vitien]], [[LAE]], [[Perikardtamponade]]
 - **Pathophysiologie**:: ==[[HZV]]↓== (*"Pumpversagen"*)
 - **Symptome**
@@ -58,7 +58,7 @@ title: VL Septischer Schock
 	- Katecholamine, Inotropika (z.B. [[DOBUTamin]]), evtl. Vasodilatatoren, evtl. [[Diuretika]]
 	- *Kausal:* z.B. Revaskularisierung, [[Lyse]], Rhythmisierung, Perikardpunktion
 
-## Hypovolämer Schock
+### Hypovolämer Schock
 - **Ätiologie**
 	- **[[Blutung]]/Hämorrhagie**:: z.B. [[GI-Blutung]], Trauma
 	- **Flüssigkeitsverlust**:: z.B. Diarrhoe, Erbrechen, [[Polyurie]]
@@ -74,7 +74,7 @@ title: VL Septischer Schock
 	- Schocklage, [[Volumentherapie]], evtl. Katecholamine
 	- [[Transfusion]], Gerinnungsmanagement
 
-## Distributiver Schock
+### Distributiver Schock
 - **Symptome**
 	- Warme Haut ([[Vasodilatation]])
 	- Angst, Unruhe, [[Vigilanzminderung]]
@@ -83,23 +83,23 @@ title: VL Septischer Schock
 - **Diagnostik**
 	- **Hämodynamik**:: SVR↓↓ → [[HZV]]↑
 
-### Anaphylaktischer Schock / [[Anaphylaxie]]
+#### Anaphylaktischer Schock / [[Anaphylaxie]]
 - Allergiesymptome
 
-### Neurogener Schock
+#### Neurogener Schock
 - Spinales Trauma, Wegfall Sympathikotonus
 
-# Therapie Septischer Schock
+## Therapie Septischer Schock
 - **Fokussanierung (<6h)**:: Implantatsentfernung, Abszess-Drainage, Wunderöffnung, Nekrosektomie, Fasziotomie, [[Amputation]], [[Peritonitis]]-OP
 - **Antimikrobielle Therapie (<1h)**
 - 
 
-# FB
+## FB
 ![[Sepsismarker]]
 
 [[Nekrotisierende Fasziitis]]
 
-# SEM5 Pathophysiologie
+## SEM5 Pathophysiologie
 - Hüfner-Zahl
 - Folien angucken
 - 300 ml O2-Verbrauch pro Minute und 1 Liter O2 in 5 Liter Blut ([[HZV]]) → nach 3 min alles aufgebraucht
@@ -112,7 +112,7 @@ den septischen und anaphylaktischen Schock als Dysregulation des menschlichen Im
 
 das Ischämie-Reperfusions-Syndrom als einen Pathomechanismus darstellen können, der als Folge eines Schocks zu einem Multiorganversagens führen kann.
 
-# SEM6 Therapie
+## SEM6 Therapie
 ![[inotrop]]
 
 - [[PDE-Hemmer]]

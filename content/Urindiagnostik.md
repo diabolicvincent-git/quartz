@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Laboratoriumsmedizin, Art/Intervention]
-title: Makroskopische Beurteilung
+title: Urindiagnostik
 ---
-# Makroskopische Beurteilung
+## Makroskopische Beurteilung
 
 - **Menge** (bei 24h-Sammelurin)
     - Normal 600-1800 ml
@@ -39,7 +39,7 @@ title: Makroskopische Beurteilung
     - Ammoniak → [[HWI]]
     - Bittermandel → [[Intoxikation]] ([[Cyanid]])
 
-# Teststreifenuntersuchung
+## Teststreifenuntersuchung
 
 *Ablesen muss nach 2 Minuten beendet sein!*
 
@@ -47,7 +47,7 @@ title: Makroskopische Beurteilung
 - **Erkrankungen der [[Niere]] und Harnwege** (z.B. Harnwegsinfekt) → Nitrit, [[Erythrocyten]], [[Leukocyten]], [[Proteine]], [[pH]]
 - **[[Leber]] und hämolytische Erkrankungen** (z.B. [[Hepatitis]]) → [[Bilirubin]], Urobilinogen
 
-## Parameter
+### Parameter
 
 - **Blut** (Erys oder [[Hb]])
     - **Testprinzip**:: Peroxidative Wirkung des Hämoglobins oxidiert Farbindikator
@@ -108,13 +108,13 @@ title: Makroskopische Beurteilung
     - **Positiv bei**:: Entzündliche Erkrankung der [[Niere]] und Harnwege
     - **Anmerkungen**:: Häufiger positiv bei Frauen  aufgrund häufigerer [[HWI]] (b) aufgrund häufigerer Kontamination der Probe mit Vaginalsekret
 
-# Urinsediment
+## Urinsediment
 
 - **Indikation**
     - Pathologisches Teststreifenergebnis
     - Negatives Teststreifenergebnis bei klinischer Symptomatik
 
-## **Befundung**
+### **Befundung**
 
 - **[[Erythrocyten]]**:: Kernlose, runde Scheiben ohne Kern
 - **[[Leukocyten]]**:: Größer als Erys, granuläre Struktur, mit Zellkern
@@ -145,7 +145,7 @@ title: Makroskopische Beurteilung
     - **Fasern**:: Häufigste Verunreinigung
     - **Pollenkörner**:: Verwechslung mit Wurmeiern
 
-# Mikrobiologie
+## Mikrobiologie
 
 - Blasenurin ist steril, kann bei Passage der [[Urethra]] kontaminiert werden
 - [[Normalflora]] der vorderen [[Urethra]]
@@ -160,7 +160,7 @@ title: Makroskopische Beurteilung
     - Lactobazillen
     - Gardnerella spp.
 
-## Erkrankungen und Symptome
+### Erkrankungen und Symptome
 
 **Fragen**:: Häufig Wasserlassen? [[Schmerz]] dabei? Verfärbung? → V.a. [[HWI]]
 
@@ -180,7 +180,7 @@ title: Makroskopische Beurteilung
     - Klopfschmerz im Nierenlager
     - [[Fieber]] >38° (meistens)
 
-## Diagnostik von Harnwegsinfektionen
+### Diagnostik von Harnwegsinfektionen
 
 - **Diagnostik**:: Keimzahlbestimmung, Speziesidentifikation, [[Resistogramm]]
     - **Signifikante Bakteriurie** bei Keimzahl > 10^4/ml
@@ -193,7 +193,7 @@ title: Makroskopische Beurteilung
 - **Antibiose**:: [[Fosfomycin]] 3g, Einmalgabe
 - [[HWI]]-Symptomatik ohne bakteriologischen Befund? Chalmydia trachomatis, Trichomonade, Ureaplasma urealyticum, Neisseria gonorrhoeae, Blasensteine
 
-## verschiedene Ursachen einer Proteinurie einschließlich auftretender Proteine nennen
+### verschiedene Ursachen einer Proteinurie einschließlich auftretender Proteine nennen
 
 - **[[Glomerulonephritis]]** ([[Entzündung]] der Glomeruli) → Proteinurie, bei leichten Schäden v.a. [[Albumin]], bei schweren auch Serumglobuline
 - **[[Pyelonephritis]]** (Nierenbeckenentzündung) → Nierenschmerzen, [[Fieber]], Leukocyturie
@@ -207,7 +207,7 @@ title: Makroskopische Beurteilung
 
 ---
 
-## verschiedene Methoden des Proteinnachweises im Urin (Trocken- und nasschemische Verfahren) einschließlich der Vor- und Nachteile erklären
+### verschiedene Methoden des Proteinnachweises im Urin (Trocken- und nasschemische Verfahren) einschließlich der Vor- und Nachteile erklären
 
 *Nachweisgrenze bei <60 mg [[Albumin]] / L Harn
 → (1) nur pathologisch erhöhte Proteinkonzentrationen erfasst (nicht z.B. [[Albumin]] unter der Nachweisgrenze oder [[β-HCG]])
@@ -224,7 +224,7 @@ title: Makroskopische Beurteilung
 - **[[Denaturierung]] & Fällung mit Säuren**
 - **[[Denaturierung]] durch Aufkochen des Harns**:: Sensitivität↓, Spezifität↑
 
-## die Analyse von Proteinen im Urin mittels Elektrophorese beschreiben
+### die Analyse von Proteinen im Urin mittels Elektrophorese beschreiben
 
 - **Ablauf**
     - Auftrennen nach Molekülgröße durch Trägermaterial mit Poren (Polyacrylamid-Gel); kleinere [[Proteine]] wandern weiter
@@ -238,7 +238,7 @@ title: Makroskopische Beurteilung
     - Weitere Ursache für Proteinurie: Exzessive Synthese (z.B. [[Plasmocytom]])
 - **Proteinquantifizierung**:: Übliche Methoden (z.B. BIURET) oder spezifisch ([[ELISA]])
 
-## Glucosurie
+### Glucosurie
 
 *Nachweis von [[Glucose]] bei viel [[Vitamin C]] unterdrückt*
 
@@ -246,7 +246,7 @@ title: Makroskopische Beurteilung
 - **[[Cushing-Syndrom]]** → Rückresorptionsschwelle im proximalen Tubulus gesenkt
 - **Gestationsdiabetes →** erhöhter Insulinbedarf ab SSW20 (s. DM)
 
-## die Störung des Glucosenachweises im Urin mit einem Urin- Teststreifen (Urinstix) durch [[Vitamin C]] begründen
+### die Störung des Glucosenachweises im Urin mit einem Urin- Teststreifen (Urinstix) durch [[Vitamin C]] begründen
 
 - **Testprinzip**
     1. [[Glucose]] →[Glucoseoxidase]→ Gluconsäure + H2O2 
@@ -261,7 +261,7 @@ title: Makroskopische Beurteilung
 
 
 
-### Bakteriurie
+#### Bakteriurie
 - **Keimzahl >10⁵/ml** normalerweise
 - **Keimzahl >10³/ml** bei Pollakisurie, [[Chemotherapie]], Blasenkatheter, Z.n. Nierentransplantation
 - Im durch suprapubische Punktion gewonnenen Urin ist jede Keimzahl pathologisch

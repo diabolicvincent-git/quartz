@@ -1,12 +1,12 @@
 ---
 tags: [Modul/m16, Fach/HNO, Fach/Neurologie, Fach/Ophthalmologie]
-title: Quantitative vestibuläre Sinnesorgandiagnostik
+title: Schwindel, Okkulomotorik, Pupillomotorik
 ---
 - [[BPLS]]
 - Neuropathia vestibularis
 - [[M. Menière]]
 
-# Quantitative vestibuläre Sinnesorgandiagnostik
+## Quantitative vestibuläre Sinnesorgandiagnostik
 
 - **[[Bogengangsorgan]]**:: Rotation
 - **Otolithenorgane**:: Linearbeschleunigung, Neigung zur Gravitationskraft
@@ -15,7 +15,7 @@ alle natürlichen Bewegungen = bilaterale Reize (→ Differenz zw. re & li)
 
 ![[Nystagmus]]
 
-## Thermische Prüfung
+### Thermische Prüfung
 
 - Alternative zu Kopfbewegungen, einseitige Stimulation des Gleichgewichtsorgans
 - Einseitig [[Wasser]] in Gehörgang (44° Exzitation bzw. 30° Inhibition)
@@ -24,7 +24,7 @@ alle natürlichen Bewegungen = bilaterale Reize (→ Differenz zw. re & li)
     - Warme Flüssigkeit → Ausdehnung und Auftrieb
     - Auslenkung Cupula → APs
 
-# Augenheilkunde
+## Augenheilkunde
 
 - Doppelbilder
     - monokular
@@ -32,7 +32,7 @@ alle natürlichen Bewegungen = bilaterale Reize (→ Differenz zw. re & li)
         - Linsenluxation bei Marfan Syndrom
     - binokular
 
-## Lernziele
+### Lernziele
 
 - bei einer/m gegebenen Patientin mit Augenbewegungsstörung und/oder Augenstellungsfehler eine orientierende Motilitätsprüfung durchführen
 - bei einer/m gegebenen Patientin mit [[Schwindel]] eine spezifische vestibuläre [[Anamnese]] erheben

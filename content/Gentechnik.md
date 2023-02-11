@@ -1,16 +1,16 @@
 ---
 tags: [Modul/m02, Fach/Genetik]
-title: Vorgehen beim Gentransfer
+title: Gentechnik
 ---
 
-## [[DNA]]-Übertragung
+### [[DNA]]-Übertragung
 
 - **Vertikaler Gentransfer**:: Übertragung von Erbgut auf Nachkommen (physiologisch)
 - **Horizontaler Gentransfer**:: Übertragung zwischen Organismen, die keine Nachkommen einander sind
     - Bei [[Prokaryonten]] häufig; bei [[Eukaryonten]] eher selten
     - Nutzen in der Gentechnik: Übertragung prokaryontischer [[DNA]] auf [[Eukaryonten]]
 
-## Mechanismen der Übertragung
+### Mechanismen der Übertragung
 
 - **Transformation**:: Aufnahme freier, nackter [[DNA]] / [[RNA]]/ Plasmide durch *[[Prokaryonten]]*
     - Natürlicher Prozess bei einigen [[Bakterien]]
@@ -24,7 +24,7 @@ title: Vorgehen beim Gentransfer
     - Cytoplasmabrücke = "Sexpilus"
     - Beide Zellen besitzen im Anschluss die genetische Information und können diese replizieren
 
-# Vorgehen beim Gentransfer
+## Vorgehen beim Gentransfer
 
 Übertragung via Vektor (z.B. Plasmid) zum Transport durch Transformation
 
@@ -33,16 +33,16 @@ title: Vorgehen beim Gentransfer
 3. **Transformation**:: s.o.
 4. **[[Replikation]]**:: Selektionsmarker (z.B. bestimmte Antibiotikaresistenz) zusätzlich zum eigentlichen Gen übertragen, um erfolgreichen Gentransfer überprüfen zu können
 
-## CRISPR/Cas9
+### CRISPR/Cas9
 
 - **Ablauf**
     - Bindung von CRISPR-[[DNA]] an spezifische [[DNA]]-Sequenz
     - Herausschneiden durch Cas9 ("Genschere")
 - Ursprünglich [[Bakterien]]-Abwehrmechanismus gegen [[Viren]]-[[Infektionen]]
 
-# Ausschalten von Genen
+## Ausschalten von Genen
 
-## Knockout-Tiere
+### Knockout-Tiere
 
 - **Verwendung**:: Untersuchung der Funktion einzelner Gene
 - **Ablauf**
@@ -52,7 +52,7 @@ title: Vorgehen beim Gentransfer
     4. Entwicklung zu Chimären (für Knockout heterocygot)
     5. Kreuzung der Chimären → Entstehung von teils homocygoten Nachkommen (Mendel'sche Regeln)
 
-## [[RNA]]-Interferenz / Gene Silencing
+### [[RNA]]-Interferenz / Gene Silencing
 
 - Posttranskriptionaler Abbau der [[mRNA]] (physiologischer Prozess, für Gentechnik nutzbar)
 - **Ablauf**

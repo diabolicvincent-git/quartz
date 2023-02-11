@@ -1,21 +1,21 @@
 ---
 tags: [Modul/m14, Fach/Physiologie]
-title: Volumenregulation
+title: Volumen
 ---
 
 > **Volumenregulation**:: Salzmenge des EZR
 
-# Volumenregulation
+## Volumenregulation
 
 ![[Untitled 68.png]]
 
 [[Na+]]↑ → Akkumulation im EZR (wegen [[Na+ K+ ATPase]]) → Akkumulation von [[Wasser]] im EZR (Osmoregulation bei 290 mosm/l konstant)
 
-## [[Volumenrezeptoren]]
+### [[Volumenrezeptoren]]
 - [[Niere]] (JGA)
 - Carotissinus
 - Atrien
-## Volumeneffektoren
+### Volumeneffektoren
 - Systemische Hämodynamik durch Angiotensin II und [[Sympathikus]]
 - [[Niere]]: Exkretion von [[Na+]] und [[Cl-]]
 	- [[GFR]]
@@ -26,7 +26,7 @@ title: Volumenregulation
 	- Drucknatriurese
 
 
-# Volumenstörungen
+## Volumenstörungen
 > Volumenprobleme sind primär "Salzprobleme" und betreffen das EZV ([[Na+]] kann aufgrund der [[Na+ K+ ATPase]] nicht nach intrazellulär)
 
 - 140 mmol [[Na+]] zieht 1 L [[Wasser]] nach sich

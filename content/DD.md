@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m00, Modul/m21, Art/Intervention, Fach/Allgemeinmedizin]
-title: Symptomkomplexe
+title: DD
 ---
 > (Abstract::**Differentialdiagnostik.**)
 - **Strategien zur Orientierung**
@@ -10,7 +10,7 @@ title: Symptomkomplexe
 	- *mnemonisch* (Blickdiagnose)
 - [[VINDICATE]]
 ---
-# Symptomkomplexe
+## Symptomkomplexe
 ![[Dyspnoe]]
 ![[Rückenschmerzen]]
 ![[Vaskulitis]]

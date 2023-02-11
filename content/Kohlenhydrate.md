@@ -2,13 +2,13 @@
 title: Kohlenhydrate
 ---
 
-# Kohlenhydrate
+## Kohlenhydrate
 
 Aldosen bzw. Ketosen mehrwertiger Alkohole (d.h. ein "hydratisierter Kohlenstoff")
 
-## Chemische Struktur
+### Chemische Struktur
 
-### Monosaccharide
+#### Monosaccharide
 
 - **Grundstruktur**:: Min. 3 C-Atome & min. 2 Hydroxylgruppen & min. 1 Carbonylgruppe
     - **Pentose** (C5, z.B. Ribose) ↔ **Hexose** (C6, z.B. [[Glucose]])
@@ -48,7 +48,7 @@ Aldosen bzw. Ketosen mehrwertiger Alkohole (d.h. ein "hydratisierter Kohlenstoff
         - Konstitutionsisomer der [[Glucose]] (Ketose)
         - [[Insulin]]-unabhängiger [[Stoffwechsel]]
 
-### Disaccharide
+#### Disaccharide
 
 2 O-glycosidisch verbundene Monosaccharide
 

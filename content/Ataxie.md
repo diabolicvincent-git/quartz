@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
-title: Diagnostik
+title: Ataxie
 ---
 > Oberbegriff für Störungen der Bewegungskoordination
 
@@ -11,7 +11,7 @@ title: Diagnostik
 ## Rumpfataxie
 - Schwanken bereits im Sitzen
 
-# Diagnostik
+## Diagnostik
 - Ein-Bein-Stand
 - Seiltänzergang
 - Blindgang

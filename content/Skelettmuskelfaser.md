@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie, Fach/Anatomie]
-title: den histologischen Bau und die Funktion der neuromuskulären Synapse als morphologische Nervenkontaktstellen zur Muskelfaser beschreiben können (weiterentwickelt)
+title: Skelettmuskelfaser
 ---
-# den histologischen Bau und die Funktion der neuromuskulären Synapse als morphologische Nervenkontaktstellen zur Muskelfaser beschreiben können (weiterentwickelt)
+## den histologischen Bau und die Funktion der neuromuskulären Synapse als morphologische Nervenkontaktstellen zur Muskelfaser beschreiben können (weiterentwickelt)
 
 - **Entwicklung**:: Nerv- & Muskelanlagen treffen sich im gemeinsamen Zielgebiet und bilden erst dort nach Fusion der Myoblasten zu Myotuben (mehrkernig) [[Synapse]] aus
     - Zunächst Bildung von Zell-Clustern unterschiedlicher Fasertypen innerhalb einer [[Basalmembran]] (löst sich später auf & bildet sich um jede Einzelfaser neu)
@@ -25,7 +25,7 @@ title: den histologischen Bau und die Funktion der neuromuskulären Synapse als 
 
 - **[[Elektromechanische Kopplung]] am [[Skelettmuskulatur]]**
 
-# die Lage, Morphologie und Funktion von Muskelspindeln (intrafusale Muskelfasern) und Golgi-Sehnenorgan im [[Skelettmuskulatur]] beschreiben können
+## die Lage, Morphologie und Funktion von Muskelspindeln (intrafusale Muskelfasern) und Golgi-Sehnenorgan im [[Skelettmuskulatur]] beschreiben können
 
 - **Muskelspindel**:: Spindelförmiger Komplex aus 10 sog. intrafusalen Muskelfasern, einigen spiralig darum gewickelten [[Axon]] und einer Perineuralkapsel
     - **Lage**:: Parallel zu extrafusalen Muskelfasern
@@ -37,14 +37,14 @@ title: den histologischen Bau und die Funktion der neuromuskulären Synapse als 
     - **Lage**:: Muskel-[[Sehnen]]-Übergang
     - **Funktion**:: [[Afferenzen]] über Muskelspannung ans [[Rückenmark]] → inhibitorische Interneurone → Hemmung der Motoneurone → Beendigung der Kontraktion als Schutz vor Überdehnung
 
-# Beispiele von muskelspezifischen Verteilungsmustern schneller (Typ 2) versus langsamer Fasertypen (Typ 1) entsprechender Körpermuskeln (z.B. M. vastuslateralis, M. soleus) benennen können.
+## Beispiele von muskelspezifischen Verteilungsmustern schneller (Typ 2) versus langsamer Fasertypen (Typ 1) entsprechender Körpermuskeln (z.B. M. vastuslateralis, M. soleus) benennen können.
 
 - **Typ I**:: Langsam, oxidativ, ausdauernd
 - **Typ II a/x**:: Schnell, oxidativ-glycolytisch, ermüdend
 
 z.B. M. erector spinae eher langsam (55:45), M. vastus lateralis eher schnell (40:60)
 
-# die Begriffe Adaptation und Plastizität im Hinblick auf das Fasertypenmuster und -größe eines aktiven gegenüber eines inaktiven Skelettmuskels erläutern können.
+## die Begriffe Adaptation und Plastizität im Hinblick auf das Fasertypenmuster und -größe eines aktiven gegenüber eines inaktiven Skelettmuskels erläutern können.
 
 - **Plastizität**:: Fähigkeit des Muskels zur Reaktion auf funktionale Anforderungen (Entwicklung, Wachstum , Alter)
     - z.B. Fähigkeit zur [[Hypertrophie]] bei erhöhter Belastung
@@ -53,7 +53,7 @@ z.B. M. erector spinae eher langsam (55:45), M. vastus lateralis eher schnell (4
     - z.B. Nachweisliche [[Hypertrophie]] bei Z.n. nach erhöhter Belastung
     - Rollstuhlfahrer: Fehlende spinaler Nervenimpulse von slow-type Motoreinheiten → Fasertransformation (Typ 1 → Typ 2)
 
-# morphologisch-funktionelle Veränderungen am Beispiel des Faserquerschnitts (Größe) und des Verteilungsmusters von Fasertypen (Typ 1 versus Typ 2) im atrophierten inaktiven Muskel gegenüber eines normalen aktiven Muskels erläutern können.
+## morphologisch-funktionelle Veränderungen am Beispiel des Faserquerschnitts (Größe) und des Verteilungsmusters von Fasertypen (Typ 1 versus Typ 2) im atrophierten inaktiven Muskel gegenüber eines normalen aktiven Muskels erläutern können.
 
 - **Satellitenzellen**:: Muskuläre Stammzellen; vereinzelt auf [[Basalmembran]] zur Regeneration z.B. durch Kernspende
 - **Inaktivität**:: Proteolyse kontraktiler [[Proteine]] → reduzierter Faserdurchmesser, abgeschwächte Kraft → vermehrte Fasertransformation & Auftreten von Hybridfasern

@@ -1,16 +1,16 @@
 ---
 tags: [Modul/m11, Fach/Kardiologie, Fach/Nephrologie]
-title: Kurzfristige Regulation
+title: Regulation des Kreislaufs
 ---
-### Sensoren
+#### Sensoren
 - **[[Pressorezeptoren]]**
 - **[[Volumenrezeptoren]]**
 - **[[Chemorezeptoren]]**
 
-### Zentrales Regulationszentrum
+#### Zentrales Regulationszentrum
 - **Lokalisation**:: [[Formatio reticularis]] in [[Medulla oblongata]] und [[Pons]]
 
-### Effektoren
+#### Effektoren
 - **Kurzfristig**
 	- **Arterien ([[Widerstandsgefäße]])**:: [[Vasokonstriktion]] → [[RR]]↑ 
 	- **[[Venen]] (Kapazitätsgefäße)**:: [[Vasodilatation]] → Volumen↓
@@ -18,7 +18,7 @@ title: Kurzfristige Regulation
 - **Langfristig**
 	- **[[Niere]]**:: Anpassung der Ausscheidung
 
-# Kurzfristige Regulation
+## Kurzfristige Regulation
 
 ![[Pressorezeptoren]]
 
@@ -26,7 +26,7 @@ title: Kurzfristige Regulation
 
 ![[Chemorezeptoren]]
 
-# Langfristige Regulation
+## Langfristige Regulation
 - **[[RAAS]]**
 - **[[Henry-Gauer-Reflex]]**
 - **[[Vorhofdehnungsreflex]]**

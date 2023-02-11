@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
-title: Lungenvolumina und Kapazitäten
+title: Atemmechanik
 ---
-# Lungenvolumina und Kapazitäten
+## Lungenvolumina und Kapazitäten
 
 ![[Untitled 1 12.png]]
 - Totalkapazität
@@ -30,10 +30,10 @@ Bedeutung: Anfeuchtung und Anwärmung der Luft. Medizinische Anwendung: Neugebor
 - [[Pneumotachograph]]
 - [[Körperplethysmographie]]
 
-# Intrapulmonale und intrapleurale Drücke
+## Intrapulmonale und intrapleurale Drücke
 TBD
 
 
-# Phasen der Atmung
+## Phasen der Atmung
 ![[Atemphasen]]
 

@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m17, Art/Pathologie]
-title: Lernziele
+title: Stoffwechseldefekte
 ---
-### Stoffwechseldefekte 
+#### Stoffwechseldefekte 
 > Physiologisch inadäquater (erhöhter/verminderter) Substratumsatz
 - **Ursachen**
 	1. **Veränderte Enzymaktivität**
@@ -25,7 +25,7 @@ title: Lernziele
 	- Cofaktor-Zufuhr
 	- Einschleusen von Enzymen
 
-## Determinanten des Schweregrads
+### Determinanten des Schweregrads
 - **Interindividuelle Normvarianten** (z.B. Thiopurin-S-Methyltransferase)
 - **Restaktivität des Enzyms**
 	- Reduzierte Aktivität liegt immer noch über Normaldurchsatz; ist nur bei erhöhtem Umsatz (z.B. [[G6PD-Mangel]])  flusslimitierend
@@ -36,7 +36,7 @@ title: Lernziele
 - **Lokalisation des Effekts**:: Essentielle Reaktionen ohne Umgehungswege
 - **Gewebespezifität**
 	- Alternatives Splicing: Defektes Gen u.U. nicht in allen Geweben exprimiert
-## Beispiele
+### Beispiele
 Erkrankung|Defekt|[[Inzidenz]]
 -|-|-
 [[G6PD-Mangel]]|Glucose-6-phosphat-Dehydrogenase|[[Hypercholesterinämie]]|LDL-[[Rezeptor]]|1:500
@@ -49,7 +49,7 @@ Ahornsirup-Krankheit|Verzweigtketten-α-Ketosäuren-Dehydrogenase|1:200.000
 
 [[Phenylketonurie]]
 
-## Regionale Prävalenzunterschiede
+### Regionale Prävalenzunterschiede
 > Oft: Selektionsvorteil durch Teilresistenz gegen Infektionskrankheiten
 
 Erkrankung|Defekt|Stoffwechselweg|Klinik|Resistenz
@@ -59,7 +59,7 @@ Erkrankung|Defekt|Stoffwechselweg|Klinik|Resistenz
 Tay-Sachs-Disease|α-Hexosaminidase|lysosomale Hydrolyse von N-Acetylglucosiden|infantile amaurotische Idiotie|Mycobacteria tuberculosis ([[Tbc]])
 [[Phenylketonurie]]|Tyrosinhydroxylase|[[Phenylalanin]] → [[Tyrosin]]|Geistige Entwicklungsstörung|Ochratoxin A (Aspergillus spp.)
 
-## Therapiestrategien
+### Therapiestrategien
 - **Kausale Gentherapie**:: Ethisch schwierig
 	- z.B. Spinale-Muskelatrophie: Mangel an SMN-Splicing-Protein führt zu Untergang von α-Motoneuronen (Gentherapie: Splicing-Veränderung → Expression↑ von SMN1 statt SMN2)
 - **Flussreduktion**:: Verbessert nicht die Bildung der Endprodukte; verhindert aber Akkumulation potentiell toxischer Zwischenprodukte
@@ -71,7 +71,7 @@ Tay-Sachs-Disease|α-Hexosaminidase|lysosomale Hydrolyse von N-Acetylglucosiden|
 	- Einschleusen rekombinanter nativer [[Enzyme]] per Endocytose
 	- Stammzelltherapie: Übertragen des normalen Enzyms von hämatopoetischen Stammzellen durch [[Zellkontakte|Zell-Kontakt]]
 
-# Lernziele
+## Lernziele
 - Begründen, welche Faktoren den Schweregrad einer Stoffwechselstörung beeinflussen
 - Prinzipien beschreiben, wie sich Defekte einzelner [[Enzyme]] eines Stoffwechselweges in unterschiedlichen Symptomen manifestieren können
 - Erklären, warum eine kausale Behandlung genetisch bedingter Enzymdefekte schwierig zu realisieren ist

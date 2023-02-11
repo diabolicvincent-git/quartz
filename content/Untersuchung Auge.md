@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m16, Fach/Ophthalmologie]
-title: Anamnese
+title: Untersuchung Auge
 ---
-# [[Anamnese]]
+## [[Anamnese]]
 - Seitigkeit, Zeitpunkt des Auftretens, Dauer
 - [[Sehstörung]]
 - [[Schmerz]]? Pruritus
@@ -11,7 +11,7 @@ title: Anamnese
 - Operationen
 - Familienanamnese (Strabismus, [[Katarakt]], [[Glaukom]])
 
-# Inspektion
+## Inspektion
 - Ptosis, Exophthalmus/Endophthalmus
 - Tränenproduktion, Tränenwege frei
 - Brille, Kontaktlinsen

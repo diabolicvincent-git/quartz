@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie]
-title: eVL
+title: LAE
 ---
-### Lungenarterienembolie / LAE
+##### Lungenarterienembolie / LAE
 - **Ätiologie**:: ==[[Embolie]] nach venöser [[Thrombose]]==, insb. Bein und [[ZVK]]
 - **Pathophysiologie**
 	- Rechtsventrikuläre [[Nachlast]]↑↑ (*Cor pulmonale*) → [[HZV]]↓ → [[Schock]]
@@ -24,14 +24,14 @@ title: eVL
 	- **Sekundärprophylaxe**:: [[Antikoagulation]]-Erhalt mit [[DOAK]] oder [[Vitamin-K-Antagonisten]], Ursachensuche (s. [[Thrombose]])
 
 
-# eVL
+### eVL
        
 
-### anhand eines Fallbeispiels den Wells-Score berechnen und im Hinblick auf das weitere diagnostische Vorgehen interpretieren können.
+##### anhand eines Fallbeispiels den Wells-Score berechnen und im Hinblick auf das weitere diagnostische Vorgehen interpretieren können.
 
-### anhand eines Fallbeispiels den Schweregrad einer Lungenarterienembolie nach dem PESI-Score berechnen und anhand der ESC-Klassifikation einteilen können.
+##### anhand eines Fallbeispiels den Schweregrad einer Lungenarterienembolie nach dem PESI-Score berechnen und anhand der ESC-Klassifikation einteilen können.
 
-### die Grundprinzipien der Therapie der Lungenarterienembolie benennen (Antikoagulation, [[Lyse]], Rescue-Verfahren) und deren Indikation in Bezug zum Schwergrad zuordnen können.
+##### die Grundprinzipien der Therapie der Lungenarterienembolie benennen (Antikoagulation, [[Lyse]], Rescue-Verfahren) und deren Indikation in Bezug zum Schwergrad zuordnen können.
 
 
 

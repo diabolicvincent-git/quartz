@@ -1,7 +1,7 @@
 ---
-title: Wirkung
+title: Nikotin
 ---
-## Wirkmechanismus
+### Wirkmechanismus
 - Stimulation prä-/postsynaptischer nicotinergen [[ACh]]-[[Rezeptor]] →[[vegetative]] Wirkung*
 	-  **Nicotinerg [[ACh]]-R**:: [[Nebennierenmark]] (Katecholaminsekretion),[[Parasympathikus]]-Ganglien, [[ZNS]], motorische Endplatte
 	- Ausschüttung von[[Adrenalin]], [[DOPamin]], [[Serotonin]]
@@ -9,7 +9,7 @@ title: Wirkung
 - Prokarzinogenese
 	- Auflösen von [[Zellkontakte]]n → fördert Invasivität
 	- Apoptoseresistenz
-# Wirkung
+## Wirkung
 - Fettabbau, Glycogenabbau → Gewichtsreduktion, aber [[Atherosklerose]] durch freie [[Fettsäuren]]
 - [[Hypertonie]], [[Tachykardie]], gastrale [[Ulcus]]
 - Indirekt Krebsbegünstigend (Zellwachstum↑, Apoptoseresistenz)

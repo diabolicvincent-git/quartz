@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15]
-title: Innere Schädelbasis
+title: Schädelbasis
 ---
-### Schädelbasis 
+#### Schädelbasis 
 - **[[Fossa cranii anterior]]**
 	- Foramen caecum ossis frontalis
 	- Lamina cribrosa ossis ethmoidalis ([[N. olfactorius (I)]])
@@ -22,15 +22,15 @@ title: Innere Schädelbasis
 	- Foramen jugulare ([[N. glossopharyngeus (IX)]], [[N. vagus (X)]], [[N. accessorius (XI)]], [[V. jugularis interna]], A. meningea posterior)
 	- Canalis nervi hypoglossi ([[N. hypoglossus (XII)]])
 
-# Innere Schädelbasis
+## Innere Schädelbasis
 Nur die wichtigsten Durchtrittsstellen sind aufgezählt.
-## [[Fossa cranii anterior]]
+### [[Fossa cranii anterior]]
 - **Foramen caecum ossis frontalis**:: V. emissaria
 - **Lamina cribrosa ossis ethmoidalis**:: Fila olfactoria ([[N. olfactorius (I)]])
 - **Foramen ehtmoidale anterius**:: A. + V. + N. ethmoidalis anterior
 - **Foramen ethmoidale posterius**:: A. + V. + N. ethmoidalis posterior
 
-## [[Fossa cranii media]]
+### [[Fossa cranii media]]
 - **Canalis opticus**:: [[N. opticus (II)]], A. ophthalmica
 - **Fissura orbitalis superior** (Ala major und Ala minor des Os sphenoidale)
 	- [[N. oculomotorius (III)]]
@@ -51,7 +51,7 @@ Nur die wichtigsten Durchtrittsstellen sind aufgezählt.
 - **[[Foramen lacerum]]**
 	- N. petrosus profundus + N. petrosus major (ziehen in Canalis pterygoideus)
 - **Canalis caroticus**:: [[A. carotis interna]]
-## [[Fossa cranii posterior]]
+### [[Fossa cranii posterior]]
 - **Porus acusticus internus**
 	- [[N. facialis (VII)]]
 	- [[N. vestibulocochlearis (VIII)]]

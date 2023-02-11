@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m16]
-title: LV-Notizen
+title: Entwicklung des Auges
 ---
-### Entwicklung des Auges 
+#### Entwicklung des Auges 
 > Entwicklungsgeschichtlich Teil des [[Gehirn]]s, daher [[N. opticus (II)]] und [[Retina]] von [[Oligodendrocyten]] ummantelt ([[ZNS]])
 - **Keimblatt**:: Neuroektoderm und Oberflächenektoderm
 - **Entwicklungsschritte**
@@ -19,7 +19,7 @@ title: LV-Notizen
 		- Lösung der [[Augenlider]] voneinander
 
 
-# LV-Notizen
+## LV-Notizen
 - **4 Wochen**:: Augenbläschen entwickelt sich aus [[Diencephalon]]-Anlage
 - **6 Wochen**:: Augenbecher mit Augenbecherstiel
     - Äußeres Blatt: Pigmentepithel

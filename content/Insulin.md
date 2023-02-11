@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m17, Modul/m04, Fach/Endokrinologie]
-title: Pharmakologie
+title: Insulin
 ---
-### Insulin als Hormon (Abstract I)
+#### Insulin als Hormon (Abstract I)
 - **Synthese**
 	- **Ort**:: [[Pankreas]] β-Zellen
 	- **Abspaltprodukt**:: *C-Peptid* (diagnostisch nachweisbar)
@@ -26,7 +26,7 @@ title: Pharmakologie
 		- Zusätzlich transkriptionelle Regulation des o.g. (z.B. GLUT4-Synthese)
 		- Wachstum/Differnzierung via [[IGF]]-1-[[Rezeptor]]
 - **Abbau**:: Endocytose, lysosomaler Abbau des Insulin+[[Rezeptor]]-Komplexes
-### Insulin als Pharmakon (Abstract II)
+#### Insulin als Pharmakon (Abstract II)
 - **Lagerung**:: Dunkel und kühl
 - **Interaktionen**:: Diverse; Wirkungsverstärkung (z.B. Salicylate, [[ACE-Hemmer]]) oder Wirkminderung (z.B. [[Glucocorticoide]], [[Diuretika]])
 - **Präparate**
@@ -36,15 +36,15 @@ title: Pharmakologie
 	- **Langwirksame Insulinanaloga**:: Gleichmäßigeres Wirkprofil (Wirkeintritt 2-6 h, -dauer 24-40 h) → weniger Dosierungsfehler; v.a. als Basalinsulin
 	- **Mischinsuline**:: Biphasische Wirkung
 
-# Pharmakologie
-## Präparate
-### Humaninsulin
-### Kurzwirksame Insulinanaloga
+## Pharmakologie
+### Präparate
+#### Humaninsulin
+#### Kurzwirksame Insulinanaloga
 
 
 
-## Indikationen
+### Indikationen
 ![[Insulintherapie]]
 
-# Pathologien
+## Pathologien
 ![[Insulinresistenz]]

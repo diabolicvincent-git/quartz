@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
-title: Aufbau
+title: Thalamus
 ---
-### Thalamus 
+#### Thalamus 
 > Paarige Ansammlung von >100 Kerngebieten
 - **Lage**:: Zentral im [[Diencephalon]], begrenzt bds.  [[Ventrikel III]]
 - **Funktion**
@@ -14,35 +14,35 @@ title: Aufbau
 	- Rhythmusgenerator
 	- Gedächtnisbildung (Mammilarkörper)
 
-# Aufbau
-## "Spezifische Thalamuskerne"
+## Aufbau
+### "Spezifische Thalamuskerne"
 > Kerne mit vielen Verbindungen zu umschriebenen Großhirnarealen
-#### Ncll. anteriores
+##### Ncll. anteriores
 [[Limbisches System]]
-#### Ncll. mediales
+##### Ncll. mediales
 [[Präfrontaler Cortex]]
-#### Ncl. ventrales anterior (VA)
+##### Ncl. ventrales anterior (VA)
 Prämotorischer Cortex
-#### Ncl. ventralis lateralis (VL)
+##### Ncl. ventralis lateralis (VL)
 [[Motorcortex]]
-#### Ncl. ventralis posterior (VP)
+##### Ncl. ventralis posterior (VP)
 Sensibler Cortex
-#### Ncll. dorsales
+##### Ncll. dorsales
 Visuelle Zentren in [[Parietallappen]] und [[Temporallappen]]
 
-## "Unspezifische Thalamuskerne"
+### "Unspezifische Thalamuskerne"
 > Keine Verbindungen zu umschriebenen Großhirnarealen
-### Ncll. intralaminares
-### Ncl. reticularis
-# Funktion
-## Spezifischer Thalamus
-### Motorischer Thalamus
+#### Ncll. intralaminares
+#### Ncl. reticularis
+## Funktion
+### Spezifischer Thalamus
+#### Motorischer Thalamus
 - **Kerne**:: Ncl ventrales anterior, Ncl ventralis lateralis  ==*(VAL)*==
 - **[[Afferenzen]]**:: ==[[Basalganglien]],== ==[[Kleinhirn]]==, [[Motorcortex]], Prämotorischer Cortex
 - **[[Efferenzen]]**:: ==[[Motorcortex]]==, ==Prämotorischer Cortex==
 - **Funktion**:: ==Koordination der Willkürmotorik==
 
-### Sensibler Thalamus
+#### Sensibler Thalamus
   - **Kerne**:: Ncl ventralis posterior
 	  - *VPM* ([[N. trigeminus (V)]])
 	  - *VPL* ([[Rückenmark]])
@@ -50,10 +50,10 @@ Visuelle Zentren in [[Parietallappen]] und [[Temporallappen]]
   - **[[Efferenzen]]**:: Sensibler Cortex
   - **Funktion**:: Verarbeitung, Filtrierung aller sensiblen Informationen (Ausnahme: Riechbahn)
 
-### [[Emotionen]]-Thalamus
+#### [[Emotionen]]-Thalamus
 - **Kerne**:: Ncll anteriores
 - **Funktion**:: Entstehung/Verarbeitung von [[Emotionen]] ([[Limbisches System]])
 
-## Unspezifischer Thalamus
+### Unspezifischer Thalamus
 - **Kerne**:: Ncll intralaminares, Ncl reticularis
 - **Funktion**:: Unspezifische, diffuse Aktivierung des [[Cortex]] (Aufmerksamkeit↑)
