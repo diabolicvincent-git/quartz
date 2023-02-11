@@ -17,7 +17,7 @@ title: Impfung
 	- [[Diphterie]]
 	- [[FSME]]
 	- [[Gelbfieber]]
-	- [[H. influenzae]] Typ B
+	- [[Haemophilus influenzae]] Typ B
 	- [[Hepatitis A]]
 	- [[Hepatitis B]]
 	- [[Herpes zoster]]

@@ -1,8 +1,7 @@
 ---
+tags: [Modul/m02, Fach/Biochemie/Molekül]
 title: Kohlenhydrate
 ---
-
-## Kohlenhydrate
 
 Aldosen bzw. Ketosen mehrwertiger Alkohole (d.h. ein "hydratisierter Kohlenstoff")
 
@@ -56,5 +55,3 @@ Aldosen bzw. Ketosen mehrwertiger Alkohole (d.h. ein "hydratisierter Kohlenstoff
     - **Saccharose ("Zucker")**:: α-[[Glucose]]-(1,2)-β-Fructose
     - **Mannose (Glycogenbestandteil)**:: α-[[Glucose]]-(1,4)-[[Glucose]]
     - **Lactose ("Milchzucker")**:: β-Galactose-(1,4)-[[Glucose]]
-
-#Modul/m02

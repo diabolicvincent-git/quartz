@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Endokrinologie]
 title: SIADH
 ---
 > (Abstract::**Syndrom der inadäquaten ADH-Sekretion / Schwartz-Bartter-Syndrom.**)

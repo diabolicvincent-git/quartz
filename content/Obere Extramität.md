@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Obere Extramität
 ---
 - **[[Körperregionen]]**

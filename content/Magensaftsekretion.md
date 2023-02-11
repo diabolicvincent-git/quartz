@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Magensaftsekretion
 ---
 ## Anatomische Grundlagen
@@ -136,5 +137,3 @@ title: Magensaftsekretion
 
 - **[[Röntgen]]**:: Barium-haltiges [[KM]] zur Benetzung der Magenschleimhaut (selten)
 - **Gastroendoskopie**:: Mittel der Wahl
-
-#Modul/m12

@@ -13,7 +13,6 @@ bei einer gegebenen Patientin, einem gegebenen Patienten eine pulsoxymetrische U
 
 ![[Untitled 55.png]]
 
-#Modul/m13
 
 ## die Grundprinzipien der Pathogenese für hypoxämische und hyperkapnische Störungen erläutern 
 

@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Dermatologie]
 title: Dermatologie
 ---
 - [[Dermatologische Tumoren]]

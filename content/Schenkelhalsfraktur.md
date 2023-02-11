@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m10, Art/Pathologie]
+tags: [Modul/m10, Art/Pathologie, Fach/Orthopädie]
 title: Schenkelhalsfraktur
 ---
-### Schenkelhalsfraktur
 - **Epidemiologie**
 	- Typische [[Fraktur]] des älteren Menschen (⊘-Alter: 78 J.)
 	- Osteoporose(!)

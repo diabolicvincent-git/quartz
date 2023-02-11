@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10]
+tags: [Modul/m10, Modul/m00, Fach/Anatomie, Fach/Orthopädie]
 title: Muskeln
 ---
 ```dataview
@@ -2103,6 +2103,5 @@ Innervation
 *   Os metatarsi V
 *   Zieht Os metatarsi V nach plantar und medial
 Abkürzungen: Dig. = Digitus
-
-#Modul/m10 #Modul/m00 
+ 
 aus: [Amboss-Muskeltrainer](https://next.amboss.com/de/article/Mr0M3h?q=muskeltrainer#Zf8f938012f5b856b8aafd738a4ef2cbb)

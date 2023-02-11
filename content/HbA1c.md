@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Endokrinologie, Fach/Allgemeinmedizin, Fach/Labor]
 title: HbA1c
 ---
 ### HbA1c / Glycohämoglobin

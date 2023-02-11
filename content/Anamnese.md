@@ -1,5 +1,5 @@
 ---
-tags: [Art/Intervention, Wichtig]
+tags: [Art/Intervention, Wichtig, Fach/Allgemeinmedizin]
 title: Anamnese
 ---
 - **Allgemeines**

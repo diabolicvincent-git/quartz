@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. auricularis anterior
 ---
 ##### M. auricularis anterior

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m33, Art/Intervention]
+tags: [Modul/m33, Art/Intervention, Fach/Gynäkologie, Fach/Pharmakologie]
 title: Medikamente in der Schwangerschaft
 ---
 ### Medikamente in der [[Schwangerschaft]]

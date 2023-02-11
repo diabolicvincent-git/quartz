@@ -38,5 +38,3 @@ title: Bildgebung Thorax
 ![[Untitled 2 8.png]]
 
 ![[Rntgen_Thorax_Handout.pdf.pdf]]
-
-#Modul/m13

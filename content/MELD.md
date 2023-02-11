@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Gastroenterologie, Fach/Chirurgie, Fach/Epidemiologie]
 title: MELD
 ---
 ### MELD-Score

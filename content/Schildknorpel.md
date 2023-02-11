@@ -1,7 +1,7 @@
 ---
+tags: [Fach/Anatomie, Fach/HNO]
 title: Schildknorpel
 ---
-## Schildknorpel
 > Auch: *Cartilago thyroidea*
 - **Lage und Aufbau**:: Zwei Platten, die in der Mitte winklig miteinander verbunden sind:
 	- Ventral: Prominentia laryngea (oberer Rand) 

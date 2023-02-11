@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10]
+tags: [Modul/m10, Fach/Physiologie, Fach/Neurologie]
 title: Reflex
 ---
 - **Einteilung**

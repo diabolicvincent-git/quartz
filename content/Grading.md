@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Onkologie, Fach/Histologie]
 title: Grading
 ---
-### Grading
 > Einteilung des histologischen Differnzierungsgrades
 - **Grading**
 	- **Gx / G9**:: Nicht beurteilbar

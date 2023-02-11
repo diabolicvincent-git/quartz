@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10, Modul/m15]
+tags: [Modul/m15, Fach/Neurologie]
 title: Evozierte Potentiale
 ---
 ### Evozierte Potenziale

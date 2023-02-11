@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m18]
+tags: [Modul/m03, Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: grampositiv
 ---
-**[[Gram]]positiv**:: Blaufärbung = dicke Mureinschicht
+(Abstract::Blaufärbung nach [[Gram]] = dicke Mureinschicht)

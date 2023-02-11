@@ -1,5 +1,6 @@
 ---
 title: Atemwegsinfektionen im Kindesalter
+tags: [Fach/Pädiatrie, Fach/Pneumologie, Modul/m13]
 ---
 
 Kategorie|Diphterie / Krupp|Pseudokrupp|Epiglottitis
@@ -15,5 +16,3 @@ Insp. Stridor|+,-/-|+
 Schluckbeschwerden|+,-/-|+
 Therapie|"Diphterie-Antitoxin, [[Antibiotika]]"|"Symptomatisch ([[Glucocorticoide]], [[Adrenalin]])"|"[[Antibiotika]], Symptomatisch ([[Glucocorticoide]], [[Adrenalin]])"
 Prävention|"[[Impfung]] vorhanden, in DE selten"|Sehr häufig|[[Impfung]] vorhanden (HiB)
-
-#Modul/m13

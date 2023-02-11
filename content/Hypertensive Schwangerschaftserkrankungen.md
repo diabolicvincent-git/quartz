@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Gynäkologie]
 title: Hypertensive Schwangerschaftserkrankungen
 ---
 - [[Präeklampsie]]

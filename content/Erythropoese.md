@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Erythropoese
 ---
 
@@ -66,6 +67,5 @@ title: Erythropoese
     - [[Transferrin]] (Transportprotein für [[Eisen]]): verbesserter Eisentransport
 - Wenn dadurch der Sauerstoffpartialdruck im Gewebe wieder steigt, wird HIF-1-alpha wieder vermehrt hydroxyliert
 
-#Modul/m08
 
 siehe [[Renale Erythropoetin-Synthese]]

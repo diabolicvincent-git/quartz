@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. depressor labii inferioris
 ---
 ##### M. depressor labii inferioris

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Motorische Felder
 ---
 > (Abstract::Primärer [[Motorcortex]] (Aktivierung), Prämotorischer Cortex (Initiierung), Supplementärmotorischer Cortex (komplexe Sequenzen))

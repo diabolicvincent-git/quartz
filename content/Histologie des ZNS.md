@@ -1,5 +1,5 @@
 ---
-tags: [ToDo, Fach/Neurologie, Fach/Histologie]
+tags: [ToDo, Fach/Neurologie, Fach/Histologie, Modul/m15]
 title: Histologie des ZNS
 ---
 
@@ -37,5 +37,3 @@ title: Histologie des ZNS
 ## den charakteristischen mikroskopischen Aufbau der [[Basalganglien]] (Striatum, Pallidum) beschreiben und die Verschaltung der Kerne anhand von histologischen Präparaten oder Abbildungen erläutern
 
 ## die mikroskopische Struktur und die zellulären Elemente (Purkinjezellen, Körnerzellen) der Kleinhirnrinde und deren Verschaltung beschreiben und anhand von histologischen Präparaten oder Abbildungen erläutern
-
-#Modul/m15

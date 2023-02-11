@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Leukämie
 ---
-### Leukämie
 > [[Neoplasie]] von [[Blut]] und/oder [[Knochenmark]] mit Proliferation lymphatischer oder myeloischer Blutzellen
 - **[[Akute Leukämie]]**:: Proliferation↑, Differenzierung↓ 
 	- **[[ALL]]**

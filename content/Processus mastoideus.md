@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Processus mastoideus
 ---
 ## Processus mastoideus

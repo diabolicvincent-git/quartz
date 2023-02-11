@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m03]
+tags: [Modul/m03, Fach/Biochemie, Fach/Physiologie]
 title: Stofftransport
 ---
-### Stofftransport
 - **Passiver Transport**
 	- **Freie Diffusion/[[Osmose]]**:: [[Lipide]], Gase
 	- **Kanäle**

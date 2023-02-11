@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Art/Pathologie]
+tags: [Modul/m17, Art/Pathologie, Fach/Neurologie]
 title: Myasthenia gravis
 ---
 

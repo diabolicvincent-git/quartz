@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Allgemeinmedizin, Fach/Rechtsmedizin]
 title: Delegation
 ---
 - **Grundsätzlich delegierbare Tätigkeiten**

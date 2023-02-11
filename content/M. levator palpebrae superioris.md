@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. levator palpebrae superioris
 ---
 ##### M. levator palpebrae superioris

@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Biochemie, Fach/Infektiologie]
 title: Replikationsstrategien
 ---
 ### Replikationsstrategien von [[Viren]]

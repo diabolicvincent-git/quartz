@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Art/Pathologie]
+tags: [Modul/m20, Art/Pathologie, Fach/Allgemeinmedizin, Fach/Orthopädie]
 title: Rückenschmerzen
 ---
 ### Rückenschmerzen

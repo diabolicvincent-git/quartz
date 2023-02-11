@@ -1,5 +1,6 @@
 ---
-title: Haematologie
+tags: [Fach/Hämatologie]
+title: Hämatologie
 ---
 - [[Erkrankungen der Erythrocyten]]
 	- [[Anämie]]

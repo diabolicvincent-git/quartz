@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Ganglien
 ---
-### Ganglien 
 > Ansammlung von [[Neuron]]-Somata im [[PNS]][^1]
 - Umhüllt mit Mantelzellen
 - **Spinalganglien**

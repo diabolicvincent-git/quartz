@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Rheumatologie]
 title: Rheumatologie
 ---
 - [[Kollagenose]]

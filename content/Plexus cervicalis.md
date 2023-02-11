@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Plexus cervicalis
 ---
 Ventrale Äste der cervicalen [[Spinalnerven]]

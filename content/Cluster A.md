@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Psychiatrie]
 title: Cluster A
 ---
 > (Abstract::**Sonderbar, Exzentrisch.**)

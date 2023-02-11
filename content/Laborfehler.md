@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m21, Fach/Laboratoriumsmedizin]
+tags: [Modul/m21, Fach/Labor]
 title: Laborfehler
 ---
 ### Laborfehler

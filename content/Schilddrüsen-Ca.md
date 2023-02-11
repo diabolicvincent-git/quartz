@@ -1,5 +1,5 @@
 ---
-tags: [Art/Pathologie]
+tags: [Art/Pathologie, Fach/HNO, Fach/Endokrinologie]
 title: Schilddrüsen-Ca
 ---
 > (Abstract::Auch: Struma maligna.)

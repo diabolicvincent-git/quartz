@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m04, Modul/m05]
+tags: [Modul/m04, Modul/m05, Fach/Histologie/Zellkontakt]
 title: Gap Junction
 ---
 ### Gap Junction / Nexus

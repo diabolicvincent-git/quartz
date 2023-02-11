@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Gastroenterologie]
 title: Gallensäureverlustsyndrom
 ---
-### Gallensäureverlustsyndrom
 - **Ätiologie**
 	- Rückresorption↓ im [[Ileum]] (z.B. [[Kurzdarmsyndrom]])
 - **Pathophysiologie**

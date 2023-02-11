@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m13, Fach/Embryologie, Fach/Pneumologie]
 title: Entwicklung der Atemwege
 ---
 ## Anatomischer Teil
@@ -88,5 +89,3 @@ title: Entwicklung der Atemwege
 - **DD: Mekonium-Aspiration**
 
 ### die wesentlichen Merkmale einer „geburtstauglichen“ Alveole erläutern können.
-
-#Modul/m13

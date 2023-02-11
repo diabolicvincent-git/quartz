@@ -43,7 +43,7 @@ title: Leistungsphysiologie
 ![[Spiroergometrie]]
 
 
---- 
+---
 
 ### Grundbegriffe
 
@@ -266,5 +266,3 @@ title: Leistungsphysiologie
     ***großer Konsens, hohe Anzahl von unterstützenden [[Studien]], weitere Untersuchungen sind notwendig
 
     **hinreichender Konsens, doch noch geringe Anzahl von [[Studien]],weitere Untersuchungen sind notwendig
-
-#Modul/m10

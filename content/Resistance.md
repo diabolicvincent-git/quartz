@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Resistance
 ---
 - **Resistance**:: Benötigter Druck, um bestimmtes Volumen zu inspirieren

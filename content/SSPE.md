@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Pädiatrie, Fach/Neurologie, Art/Pathologie]
 title: SSPE
 ---
 ### Subakute Sklerosierende Panencephalitis / SSPE

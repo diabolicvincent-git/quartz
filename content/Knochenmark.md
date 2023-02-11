@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Modul/m05]
+tags: [Modul/m17, Modul/m05, Fach/Anatomie, Fach/Onkologie]
 title: Knochenmark
 ---
 ### Knochenmark 

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m11]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Mediastinum
 ---
-### Mediastinum
 - **Oberes Mediastinum**:: Rückseite Manubrium sterni bis Vorderseite BWK 1-4
 	- *Organe:* [[Thymus]], [[Trachea]], [[Ösophagus]]
 	- *[[Gefäße]]:* Arcus aortae, [[Truncus brachiocephalicus]], A. carotis communis sinistra, [[A. subclavia]] sinistra, Aa. thoracicae internae, Vv. thoracicae internae, [[V. cava superior]], Vv. brachiocephalicae

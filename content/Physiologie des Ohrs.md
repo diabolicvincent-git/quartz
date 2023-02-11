@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Physiologie des Ohrs
 ---
 - **Menschliches Gehör**
@@ -72,5 +73,3 @@ title: Physiologie des Ohrs
                 ![[Untitled 8 2.png]]
 
     - **Äußere Haarzellen**:: Verstärkungsfaktor
-
-#Modul/m16

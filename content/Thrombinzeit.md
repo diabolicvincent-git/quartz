@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Labor, Art/Intervention]
 title: Thrombinzeit
 ---
 ### (Plasma-)Thrombinzeit / PTZ / TZ 

@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m14, Fach/Biochemie]
 title: Phosphat
 ---
 - Insg. 600 g, v.a. als anorganisches Phosphat
@@ -6,5 +7,4 @@ title: Phosphat
 	- EZ zu 50% an Serumproteine gebunden
 
 siehe auch [[Puffer]]
-
-#Modul/m14 
+ 

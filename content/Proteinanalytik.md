@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m02, Fach/Biochemie, Fach/Labor]
 title: Proteinanalytik
 ---
 ## Analyse von Membranproteinen
@@ -17,5 +18,3 @@ title: Proteinanalytik
 
 - Amphiphile Molekülstruktur → *weder in hydrophober noch hydrophiler Lösung gut lösbar*
 - Räumliche Struktur schwer zu erhalten
-
-#Modul/m02

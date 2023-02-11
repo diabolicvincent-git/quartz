@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Gastroenterologie, Fach/Onkologie]
 title: Lebertumor
 ---
 ### Lebertumor

@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Orthopädie]
 title: Frakturtypen
 ---
 - Biegungsfraktur

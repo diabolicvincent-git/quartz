@@ -79,5 +79,3 @@ title: Kleinhirnsyndrom
 - eine zerebellär bedingte Extremitätenataxie erkennen und ihre klinischen Charakteristika beschreiben
 - eine zerebellär bedingte Stand- und Gangataxie erkennen und ihre klinischen Charakteristika beschreiben
 - die allgemeinen funktionellen Anforderungen des Kleinhirns (Generierung präziser raum-zeitlicher Aktivitätsmuster, Lernfähigkeit) im Kontext seiner spezifischen Mikroanatomie und Cytoarchitektur erläutern
-
-#Modul/m15

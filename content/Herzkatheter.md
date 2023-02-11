@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m25, Art/Intervention, Art/Intervention]
+tags: [Modul/m25, Art/Intervention, Fach/Kardiologie]
 title: Herzkatheter
 ---
 ### Herzkatheter / Koronarangiographie

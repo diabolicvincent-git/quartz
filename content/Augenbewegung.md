@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m30, Fach/Neurologie, Fach/Ophthalmologie]
+tags: [Modul/m30, Fach/Neurologie, Fach/Ophthalmologie, Wichtig]
 title: Augenbewegung
 ---
 > Siehe [[Nystagmus]]
@@ -13,8 +13,7 @@ title: Augenbewegung
 	* **Konvergenz**
 		- Sakkaden
 
-## Untersuchung SEM Schwindel
-#Wichtig 
+## Untersuchung SEM Schwindel 
 - Standard
 	- Blick geradeaus
 	- Bulbusmotilität

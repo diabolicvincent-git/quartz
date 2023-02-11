@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m16]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Iris
 ---
 > Öffnung im Zentrum (*[[Pupille]]*), deren Weite muskulär veränderbar ist

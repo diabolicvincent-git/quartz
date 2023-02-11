@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Neurologie, Fach/Anästhesie]
 title: Nozizeptive Bahnen
 ---
 ### Nozizeptive Bahnen

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m21, ToDo]
+tags: [Modul/m21, ToDo, Fach/Pädiatrie, Fach/Pneumologie]
 title: Kindliche Atemnot
 ---
 

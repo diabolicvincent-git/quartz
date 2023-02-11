@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m08, Modul/m17]
+tags: [Modul/m03, Modul/m08, Modul/m17, Fach/Hämatologie]
 title: Sphärocytose
 ---
 ### Sphärocytose / Kugelzellanämie 

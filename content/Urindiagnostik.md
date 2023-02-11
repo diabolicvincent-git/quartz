@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Labor, Art/Intervention]
 title: Urindiagnostik
 ---
 ## Makroskopische Beurteilung

@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Infektiologie, Fach/Pharmakologie, Fach/Biochemie]
 title: Störung der Proteinbiosynthese
 ---
 ## Störung der Proteinbiosynthese

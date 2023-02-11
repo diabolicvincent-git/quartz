@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie, Fach/Neurologie, Fach/HNO]
 title: Schädel
 ---
 - **Schädelknochen**

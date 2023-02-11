@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m08, Fach/Physiologie]
 title: Immunologisches Gedächtnis
 ---
 
@@ -21,5 +22,3 @@ Die erste [[Infektionen]] mit einem Pathogen löst eine primäre Immunantwort au
     - Aktivierung führt zu einer schnelleren, effektiveren Proliferation und Differenzierung zu T-Effektorzellen
 
 Obwohl Gedächtniszellen schneller und effektiver sind als naive [[Lymphocyten]], benötigen sie dennoch Kontakt zum passenden Antigen um reaktiviert zu werden!
-
-#Modul/m08

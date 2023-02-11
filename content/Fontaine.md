@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m27, Art/Intervention]
+tags: [Modul/m27, Art/Intervention, Fach/Kardiologie]
 title: Fontaine
 ---
-### Fontaine-Stadien der [[pAVK]]
+> (Abstract::Fontaine-Stadien der [[pAVK]])
 - **I°**:: Beschwerdefreiheit
 - **IIa°**:: Belastungsschmerz >200 m Gehstrecke
 - **IIb°**:: Belastungsschmerz <200 m Gehstrecke

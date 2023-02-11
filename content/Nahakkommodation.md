@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Physiologie, Fach/Ophthalmologie]
 title: Nahakkommodation
 ---
 ## Nahakkommodation

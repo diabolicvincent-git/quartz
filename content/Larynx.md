@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie, Fach/HNO, Fach/Anatomie]
 title: Larynx
 ---
 - **[[Knorpel]]**

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Notfallmedizin, Art/Intervention/Diagnostik]
 title: GCS
 ---
 ### Glasgow-Coma-Scale / GCS

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m27, Art/Pathologie]
+tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Muskelkater
 ---
-### Muskelkater
 - **Ätiologie**:: v.a. Bewegung mit Bremskraft↑↑ (z.B. Bergabgehen, Sprünge, Richtungswechsel)
 - **Pathophysiologie**:: Mikroverletzungen v.a. in Z-Scheiben + [[Ödeme]][^1]
 - **Symptome**

@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m02, Modul/m03, Fach/Biochemie]
 title: Proteinsortierung
 ---
 ## Sekretorischer Weg
@@ -22,5 +23,3 @@ title: Proteinsortierung
     - **Sekretorische [[Proteine]]**:: i.d.R. hydrophil, z.B. durch starke Glycosylierung
 
 ![[Proteinmodifikation]]
-
-#Modul/m02 #Modul/m03

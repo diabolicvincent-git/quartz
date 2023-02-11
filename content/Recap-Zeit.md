@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Art/Intervention]
+tags: [Modul/m21, Art/Intervention, Fach/Notfallmedizin]
 title: Recap-Zeit
 ---
 ### Rekapillarisierungszeit / Recap-Zeit / Nagelbettprobe

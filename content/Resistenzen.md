@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie]
 title: Resistenzen
 ---
-### Resistenzen
 - **Resistenzeigenschaften**
 	- **Intrinsisch**:: Genetisch determinierte Resistenz eines Erregers gegen bestimmte [[Antibiotika]]
 	- **Erworben**

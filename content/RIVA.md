@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: RIVA
 ---
 ### R. interventricularis anterior / RIVA / LAD

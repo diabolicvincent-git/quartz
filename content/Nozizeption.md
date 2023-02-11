@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Anästhesie, Fach/Neurologie]
 title: Nozizeption
 ---
 ### Nozizeption / Schmerzwahrnehmung

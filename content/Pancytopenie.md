@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m08]
+tags: [Modul/m08, Fach/Hämatologie]
 title: Pancytopenie
 ---
-### Pancytopenie
 > Verringerung aller Zellreihen im [[Blut]]
 - **[[Anämie]]**:: [[Erythrocyten]]↓
 - **[[Thrombopenie]]**:: [[Thrombocyten]]↓

@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m13, Fach/Pneumologie, Fach/Histologie]
 title: Histologie normale Atemwege & Lunge
 ---
 ## Allgemeiner Wandaufbau
@@ -72,5 +73,3 @@ title: Histologie normale Atemwege & Lunge
 - Axiale Fasern = Tunica adventitia
 - Septale Fasern: Alveolarwände
 - Periphere Fasern: BG unter der [[Pleura]], zieht über Septen ins innere
-
-#Modul/m13

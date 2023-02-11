@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m08, Modul/m17]
+tags: [Modul/m08, Modul/m17, Fach/Rheumatologie, Fach/Infektiologie, Fach/Physiologie]
 title: Entzündung
 ---
-#### Entzündung 
 > Immunologische Antwort auf Gewebe-/[[Zellschädigung]]
 
 

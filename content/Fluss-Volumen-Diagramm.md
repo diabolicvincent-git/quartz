@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Fluss-Volumen-Diagramm
 ---
-### Fluss-Volumen-Diagramm
 - Ermittlung z.B. mittels *[[Pneumotachograph]]*
 - Auftragen der *Atemstromstärke* ggü. des *Atemvolumens*
 - **Peak-exspiratory Flow (PEF)**:: Maximale exspiratorische Atemstromstärke; Normwert 10 L/s = 600 L/min

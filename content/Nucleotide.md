@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m02, Fach/Biochemie/Molekül]
 title: Nucleotide
 ---
 
@@ -28,5 +29,3 @@ title: Nucleotide
 - Aktivatoren zur Gruppenübertragung (z.B. UDP-[[Glucose]])
 - Regulatoren (z.B. GTP beim [[GPCR]])
 - Carriermoleküle (NAD+, FAD)
-
-#Modul/m02

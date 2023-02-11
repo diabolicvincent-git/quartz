@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Granulocyten
 ---
 - **[[Neutrophile Granulocyten]] (60%)**:: [[Bakterien]]-[[Infektionen]], [[Phagocytose]]

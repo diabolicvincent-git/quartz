@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO]
 title: Impedanzaudiometrie
 ---
 

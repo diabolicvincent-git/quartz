@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m13, Fach/Pneumologie, Fach/Toxikologie, Fach/Allgemeinmedizin]
 title: Rauchen
 ---
 ## Wirkstoffe
@@ -50,5 +51,3 @@ Aufnahme von Schadstoffen mit dem Tabakrauch → Verminderte [[NO]]-Freisetzung 
 - **Gefäßwandschädigung und -verdickung**:: Tabakrauch erhöht die Konzentration freier Radikale → Entstehung von oxidiertem LDL mit direkt gefäßschädigendem Effekt → Adhäsionsmoleküle in der Gefäßwand (VCAM-1 und ICAM-1) vermitteln eine Migration von Monocyten und [[Makrophagen]] in die Gefäßwand (Schaumzellen) → Entzündungsreaktion und Proliferationsreiz für [[Glatte Muskulatur]] durch Cytokinfreisetzung 
 - **Plaquebildung**:: Fibrinogen↑ und [[Fibrinolyse]]↓ → Mangel an cGMP führt zu einer vermehrten Thrombocytenaggregation → Prokoagulatorischer Effekt
 - **[[CO]]-Effekt**:: Erhöhte Blutkonzentration von [[CO]] bei Rauchern → Förderung einer [[Vasokonstriktion]]
-
-#Modul/m13

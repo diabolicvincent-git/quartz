@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m04]
+tags: [Modul/m04, Fach/Endokrinologie, Fach/Physiologie]
 title: Sekretion
 ---
 ### Sekretionsmodi

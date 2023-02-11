@@ -10,7 +10,7 @@ title: Opportunistische Infektionen
 	- [[HPV]]
 - **[[Bakterien]]**
 	- [[C. difficile]]
-	- Pneumonie: [[H. influenzae]], [[Listerien]], [[Mycobakterien]], [[Pseudomonas aeruginosa]]
+	- Pneumonie: [[Haemophilus influenzae]], [[Listerien]], [[Mycobakterien]], [[Pseudomonas aeruginosa]]
 - **[[Pilze]]**
 	- ==[[Candida]]== (Soor, [[Sepsis]])
 	- [[Aspergillus]] (Pneumonie, Aspergillom)

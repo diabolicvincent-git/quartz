@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m27, Art/Pathologie]
+tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Muskelfaserriss
 ---
-### Muskelfaserriss
 - **Symptome**:: Akut einsetzend, of am Ende der Belastung
 	- Tastbare Delle, [[Hämatom]]
 	- Schmerz auf Druck, Dehnung

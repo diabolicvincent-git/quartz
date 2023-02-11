@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m09, Fach/Dermatologie, Fach/Rheumatologie]
 title: Lichenoide & granulomatöse Hauterkrankungen
 ---
 ## die Grundprinzipien einer Hautentzündung(endogen und exogen) beschreiben
@@ -30,5 +31,3 @@ title: Lichenoide & granulomatöse Hauterkrankungen
 ## Therapieprinzipien entzündlicher Hauterkrankungen (Lichen ruber, Granulomaanulareund [[Sarkoidose]]) darstellen
 
 ## den Begriff des „off-label“ use am Beispiel der Therapie entzündlicher Hauterkrankungen darlegen
-
-#Modul/m09

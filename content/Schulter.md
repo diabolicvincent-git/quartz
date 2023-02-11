@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Schulter
 ---
 ## [[Knochen]]

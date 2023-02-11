@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m10]
+tags: [Modul/m10, Fach/Anatomie]
 title: Karpaltunnel
 ---
-### Karpaltunnel 
 - **Begrenzungen**:: Retinaculum flexorum, Handwurzelknochen
 - **Inhalt**:: N. medianus, Muskelsehnen ([[M. flexor pollicis longus]], [[M. flexor digitorum superficialis]], [[M. flexor digitorum profundus]])
 

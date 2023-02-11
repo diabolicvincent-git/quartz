@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00]
+tags: [Modul/m10, Fach/Allgemeinmedizin]
 title: Kanofsky-Index
 ---
 ### Kanofsky-Index

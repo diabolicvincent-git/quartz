@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m05, Modul/m10]
+tags: [Modul/m05, Modul/m10, Fach/Histologie, Fach/Orthopädie]
 title: Muskelgewebe
 ---
-### Muskelgewebe
 > Verschiebung der kontraktilen Myofilamente [[Aktin]] + Myosin gegeneinander → Kraftentwicklung
 
 ## Vergleich der Muskelarten

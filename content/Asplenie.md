@@ -7,9 +7,9 @@ title: Asplenie
 	- **Funktionelle Asplenie**:: z.B. [[Sichelzellanämie]], [[Autoimmunität]], [[Infektionen]] ([[AIDS]], [[Malaria]])
 - **Folgen**
 	- **Infektanfälligkeit↑**:: Frühe [[Antibiotika]]-Therapie bei [[Fieber]]
-		- ==Häufige Erreger: [[Pneumokokken]], [[H. influenzae]]==
+		- ==Häufige Erreger: [[Pneumokokken]], [[Haemophilus influenzae]]==
 	- **[[Labor]]↑↓**:: Passagere [[Thrombocytose]]
 - **Prophylaxe**
 	- Notfallausweis
-	- **==[[Impfung]]==**:: [[Meningokokken]], [[Pneumokokken]], [[H. influenzae]] B, jährlich Influenza
+	- **==[[Impfung]]==**:: [[Meningokokken]], [[Pneumokokken]], [[Haemophilus influenzae]] B, jährlich Influenza
 	- [[Antibiotika]]prophylaxe falls keine [[Impfung]] möglich

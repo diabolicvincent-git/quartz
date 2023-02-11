@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Laboratoriumsmedizin]
+tags: [Modul/m11, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Labor]
 title: BNP
 ---
 ### BNP / NT-proBNP / Brain [[Natriuretisches Peptid]]

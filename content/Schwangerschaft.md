@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Modul/m22]
+tags: [Modul/m05, Modul/m22, Fach/Gynäkologie]
 title: Schwangerschaft
 ---
 - **Diagnostik**

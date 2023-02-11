@@ -1,6 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m05, Modul/m10]
+tags: [Modul/m03, Modul/m05, Modul/m10, Fach/Orthopädie, Fach/Biochemie]
 title: Querbrückenzyklus
 ---
-### Querbrückenzyklus
 ![[Untitled 86.png]]

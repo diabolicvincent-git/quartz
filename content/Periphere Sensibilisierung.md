@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Modul/m20]
+tags: [Modul/m09, Modul/m20, Fach/Anästhesie, Fach/Neurologie, Fach/Physiologie]
 title: Periphere Sensibilisierung
 ---
 > (Abstract::Primäre [[Hyperalgesie]])

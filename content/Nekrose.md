@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m03]
+tags: [Modul/m03, Fach/Histologie, Fach/Biochemie]
 title: Nekrose
 ---
-#### Nekrose
 > Abgestorbenes Gewebe
 
 

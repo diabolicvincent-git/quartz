@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Gastroenterologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Labor, Art/Intervention]
 title: Leberwerte
 ---
 ### Leberwerte

@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Laboratoriumsmedizin]
+tags: [Fach/Labor]
 title: D-Dimere
 ---
 [[Fibrin]]-/[[Fibrinogen]]-Spaltprodukte bei [[Fibrinolyse]] = Biomarker bei [[Thrombose]]

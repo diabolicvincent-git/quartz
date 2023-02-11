@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Labor]
 title: Mittelstrahlurin
 ---
-### Mittelstrahlurin
 1. Auf Toilette
 2. Händewaschen
 3. Schamplippen spreizen

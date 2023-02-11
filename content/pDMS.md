@@ -1,6 +1,5 @@
 ---
-tags: [Modul/m27, Art/Intervention]
+tags: [Modul/m27, Art/Intervention, Fach/Neurologie]
 title: pDMS
 ---
-### pDMS
-> Periphere **Durchblutung, Motorik, Sensibilität**
+> (Abstract::Periphere **Durchblutung, Motorik, Sensibilität**)

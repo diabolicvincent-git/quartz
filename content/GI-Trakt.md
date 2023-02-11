@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: GI-Trakt
 ---
 ### Gastrointestinaltrakt / GI-Trakt

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Riesenzellarteriitis
 ---
-### Riesenzellarteriitis
 > [[Vaskulitis]] kranialer [[Arterien]], z.B. Arteriitis temporalis
 - **Epidemiologie**:: >50 J.
 	- ==Häufig Komorbidität mit [[Polymyalgia rheumatica]]==

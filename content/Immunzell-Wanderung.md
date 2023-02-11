@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m08, Fach/Physiologie]
 title: Immunzell-Wanderung
 ---
 
@@ -14,5 +15,3 @@ title: Immunzell-Wanderung
     ![[Untitled 65.png]]
 
 [[Leukocyten]] können Tight Junctions des Epithels überwinden!
-
-#Modul/m08

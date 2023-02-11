@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Gastroenterologie, Fach/Laboratoriumsmedizin, Art/Intervention, Fach/Biochemie/Enzym]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Labor, Art/Intervention, Fach/Biochemie/Enzym]
 title: Alkalische Phosphatase
 ---
 > **[[Leberwerte]]**

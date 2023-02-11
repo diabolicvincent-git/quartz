@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Otitis
 ---
 [[Entzündung]] des [[Ohr]]

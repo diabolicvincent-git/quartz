@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m30, Fach/Neurologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m30, Fach/Neurologie, Fach/Labor, Art/Intervention]
 title: Liquordiagnostik
 ---
 ### Liquordiagnostik

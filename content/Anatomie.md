@@ -1,5 +1,6 @@
 ---
 title: Anatomie
+tags: [Fach/Anatomie]
 ---
 - [[Anatomische Grundlagen]]
 	- [[Körperebene]]

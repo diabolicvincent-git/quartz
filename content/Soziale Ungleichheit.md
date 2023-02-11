@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m06]
+tags: [Modul/m06, Fach/Epidemiologie]
 title: Soziale Ungleichheit
 ---
 

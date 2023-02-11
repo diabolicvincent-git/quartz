@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m08, Fach/Anatomie]
 title: Lymphknoten
 ---
 
@@ -102,5 +103,3 @@ Western-Blot Verfahren ([[Antikörper]] + Fluoreszenzantikörper)
     - Follikuläres Lymphom
         - Proliferation nicht durch vermehrte Teilung sondern durch Verhinderung der [[Apoptose]]
         - Translokation → Überexpression von BCL-2 (antiapoptotisch) → Apoptoseresistenz → [[Neoplasie]]
-
-#Modul/m08

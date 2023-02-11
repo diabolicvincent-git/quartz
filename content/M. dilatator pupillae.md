@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Ophthalmologie, Fach/Anatomie/Muskel]
 title: M. dilatator pupillae
 ---
 ##### M. dilatator pupillae

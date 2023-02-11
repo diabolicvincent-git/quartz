@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie]
 title: Hypervolämie
 ---
 
@@ -23,5 +24,4 @@ title: Hypervolämie
 
 ---
 siehe auch [[Dehydratation]]
-
-#Modul/m14 
+ 

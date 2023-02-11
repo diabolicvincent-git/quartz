@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m14, Fach/Nephrologie, Fach/Biochemie]
 title: Stoffwechsel der Niere
 ---
 > Energiebedarf abhängig von Natriumresorption (v.a. [[Na+ K+ ATPase]]) abhängig von der [[GFR]] abhängig von der [[Renale Perfusion]]
@@ -34,5 +35,3 @@ title: Stoffwechsel der Niere
 	-  Entstehender Ammoniak wirkt durch Protonenbindung der [[Azidose]] entgegen (siehe [[Säure-Basen-Haushalt]])
 
 ![[EPO]]
-
-#Modul/m14

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Biochemie/Transmitter]
 title: Serotonin
 ---
-### Serotonin 
 > 5-Hydroxytryptamin
 
 - **Funktion**:: Gewebshormon & [[Transmitter]]

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m27]
+tags: [Modul/m27, Fach/Orthopädie]
 title: Sportverletzungen
 ---
 ### Sportverletzungen

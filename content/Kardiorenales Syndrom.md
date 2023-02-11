@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Nephrologie, Fach/Kardiologie]
 title: Kardiorenales Syndrom
 ---
 ### Kardiorenales Syndrom

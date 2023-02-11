@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m06, Modul/m22]
+tags: [Modul/m06, Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Allgemeinmedizin]
 title: Sexualanamnese
 ---
 #### Sexualanamnese

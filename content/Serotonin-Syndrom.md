@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Psychiatrie, Fach/Pharmakologie]
 title: Serotonin-Syndrom
 ---
 ### Serotonin-Syndrom

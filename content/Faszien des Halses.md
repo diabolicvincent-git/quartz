@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie, Fach/HNO]
 title: Faszien des Halses
 ---
 - **Muskelfaszien**

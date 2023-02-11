@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie]
 title: Epiglottis
 ---
 Auch: *Kehlkopfdeckel, Cartilago epiglottica*

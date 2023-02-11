@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03]
+tags: [Modul/m03, Fach/Biochemie/Enzym]
 title: Pyruvatdehydrogenase
 ---
 ### Pyruvatdehydrogenase / PDH

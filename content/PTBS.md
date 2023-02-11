@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20]
+tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: PTBS
 ---
 ### Posttraumatische Belastungsstörung / PTBS

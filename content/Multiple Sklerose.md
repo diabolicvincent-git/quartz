@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Art/Pathologie, Wichtig, Modul/m17]
+tags: [Modul/m15, Art/Pathologie, Wichtig, Modul/m17, Fach/Neurologie]
 title: Multiple Sklerose
 ---
 ### Multiple Sklerose / MS 

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m25]
+tags: [Modul/m25, Fach/Kardiologie]
 title: Physical Strain Index
 ---
 ### Physical Strain Index / PSI

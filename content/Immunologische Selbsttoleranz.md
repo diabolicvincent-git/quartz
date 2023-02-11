@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m08, Fach/Physiologie]
 title: Immunologische Selbsttoleranz
 ---
 
@@ -31,5 +32,3 @@ Toleranzmechanismen bezogen auf immunkompetente, reife [[Lymphocyten]]
 - **Toleranzinduktion** von gesundem Gewebe (z.B. TGFβ)
 - **Ignoranz**:: Autoreaktive [[T-Zellen]] nehmen Autoantigene nicht wahr (z.B. da zu wenig präsentiert)
 - **Suppression** durch regulatorische [[T-Zellen]]
-
-#Modul/m08

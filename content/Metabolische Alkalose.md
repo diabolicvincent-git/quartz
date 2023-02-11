@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Nephrologie, Fach/Labor]
 title: Metabolische Alkalose
 ---
 ## Metabolische Alkalose

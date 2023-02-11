@@ -1,11 +1,10 @@
 ---
+tags: [Modul/m10, Fach/Orthopädie]
 title: Trendelenburg-Zeichen
 ---
 Glutealmuskulatur
 
 Becken- und Hüftmuskulatur
-
-## Trendelenburg-Zeichen
 
 - **Kurzbeschreibung**: Die Prüfung des [Trendelenburg-Zeichens](https://next.amboss.com/de/article/o500Og#Z86714810a83f1fede4e1eb1560b0cfc0) dient dem Nachweis einer Insuffizienz der [Mm. glutei medius und minimus](https://next.amboss.com/de/article/f60k4S#Z8c97cfd7a210fa21694a3168bb67093b).
 - Physiologischerweise stabilisieren beide [[Muskeln]] das [[Becken]] beim Einbeinstand und verhindern das Abkippen zur Gegenseite. Kommt es bspw. nach einer Läsion des N. gluteus superior im Rahmen einer intraglutealen Injektion zu einer Insuffizienz der [[Muskeln]], kippt das [[Becken]] beim Einbeinstand zur Gegenseite ab. Dies äußert sich im Gangbild als sog. Duchenne-Hinken.
@@ -29,5 +28,3 @@ Siehe [[Skelettmuskelfaser]]
 - **Altersatrophie**:: Fasergruppierung (Typ-2-cluster)
 
     ![[Untitled 8.png]]
-
-#Modul/m10

@@ -5,7 +5,7 @@ title: Tonsillitis
 ### Tonsillitis
 - **Ätiologie**
 	- *Erwachsene:* >95% viral ([[Herpesviren]])
-	- *Kinder:* >70% viral, <30% bakteriell (==[[Streptokokken]] A (GAS)==, C/G, [[H. influenzae]], andere)
+	- *Kinder:* >70% viral, <30% bakteriell (==[[Streptokokken]] A (GAS)==, C/G, [[Haemophilus influenzae]], andere)
 - **Symptome**
 	- *Viral:* Als Teil von "Common cold", diffuse Rötung
 	- *Bakteriell:* Isolierte Halsbeschwerden, Abszess, hohes [[Fieber]], Exsudate, hochroter Rachen

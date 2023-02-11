@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Art/Intervention]
+tags: [Modul/m10, Art/Intervention, Fach/Allgemeinmedizin]
 title: Ernährungszustand
 ---
 ### Ernährungszustand / EZ

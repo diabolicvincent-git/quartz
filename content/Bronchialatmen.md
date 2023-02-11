@@ -1,6 +1,5 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie]
 title: Bronchialatmen
 ---
-### Bronchialatmen
 - Bei Kindern physiologisch über allen Lungenarealen!

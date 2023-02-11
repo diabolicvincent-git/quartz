@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12]
+tags: [Modul/m12, Fach/Pneumologie]
 title: Dünndarmsekret
 ---
-> (Abstract::)(Abstract::Mucine, [[HCO3-]])
+> (Abstract::Mucine, [[HCO3-]])

@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
-title: Vitamin B1
+title: Vitamin B1 (Thiamin)
 ---
 - **Aktive Form**:: Thiaminpyrophosphat (TPP)
 - **Funktion**:: Cofaktor bei u.a. oxidativen Decarboxylierungen

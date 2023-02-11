@@ -1,7 +1,7 @@
 ---
+tags: [Modul/m13, Fach/Pneumologie, Fach/Biochemie, Fach/Toxikologie]
 title: Nikotin
 ---
-### Wirkmechanismus
 - Stimulation prä-/postsynaptischer nicotinergen [[ACh]]-[[Rezeptor]] →[[vegetative]] Wirkung*
 	-  **Nicotinerg [[ACh]]-R**:: [[Nebennierenmark]] (Katecholaminsekretion),[[Parasympathikus]]-Ganglien, [[ZNS]], motorische Endplatte
 	- Ausschüttung von[[Adrenalin]], [[DOPamin]], [[Serotonin]]
@@ -17,7 +17,6 @@ title: Nikotin
 
 ![[Untitled 1 38.png]]
 
-
-#Modul/m13 
+ 
 
 siehe [[Rauchen]]

@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Kniegelenk
 ---
 Das Kniegelenk  verbindet Ober- und [[Unterschenkel]] und ist eines der größten [[Gelenke]] des menschlichen Körpers. Man kann das Kniegelenk in ein Femorotibial- und ein Femoropatellargelenk einteilen, welche im Folgenden gemeinsam besprochen werden.
@@ -23,7 +24,6 @@ Das Kniegelenk  verbindet Ober- und [[Unterschenkel]] und ist eines der größte
 
 ![[Untitled 7.png]]
 
-#Modul/m10
 
 ## Gefäßversorgung
 - A. poplitea

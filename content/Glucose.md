@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02]
+tags: [Modul/m02, Fach/Biochemie/Molekül]
 title: Glucose
 ---
 ### Glucose

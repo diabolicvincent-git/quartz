@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Neurologie, Fach/Biochemie]
 title: Tau-Protein
 ---
 #### Tau-Protein

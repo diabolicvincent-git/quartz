@@ -43,5 +43,3 @@ title: Epifasziale Venen
         2. Unterhalb des Malleolus lateralis zur Rückseite des Unterschenkels
         3. Begleitvene des N. suralis
         4. **Kniekehle**:: Mündung in V. poplitea
-
-#Modul/m09

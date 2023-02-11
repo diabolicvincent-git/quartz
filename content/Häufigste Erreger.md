@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m18, Fach/Infektiologie]
 title: Häufigste Erreger
 ---
 Erkrankung|[[Bakterien]]|Sonstige|[[Viren]]
@@ -12,17 +13,15 @@ Hämorrhagische [[Fieber]]|||"Chikungunyavirus, Denguevirus, Ebolavirus, Gelbfie
 Grippaler Infekt|Mycoplasma pneumoniae||"Adenoviren, Coronaviren, Coxsackieviren, ECHO-Viren, Influenza-A-Viren, Parainfluenzaviren, Rhinoviren"
 Harnwegsinfekte|"Chlamydia trachomatis, [[E. coli]]"||
 Intrauterine [[Infektionen\|Infektionen]]|"Chlamydien, Listeria monocytogenes, Treponema pallidum ([[Syphilis]])"|Toxoplasma gondii|"Coxsackieviren, Cytomegalievirus, Parvovirus B19, Rötelnvirus, Varizella-Zoster-Virus"
-Laryngitis|"[[H. influenzae]], [[Pneumokokken]]"||"Adenoviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren"
-[[Meningitis]]|"[[H. influenzae]], [[Meningokokken]], [[Pneumokokken]]"||FSME-Virus
+Laryngitis|"[[Haemophilus influenzae]], [[Pneumokokken]]"||"Adenoviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren"
+[[Meningitis]]|"[[Haemophilus influenzae]], [[Meningokokken]], [[Pneumokokken]]"||FSME-Virus
 Myokarditis|||"Adenoviren, Coxsackieviren"
 Opportunistische [[Infektionen]]|"Mycobacterium avium Complex, Nicht-tuberkulöse Mykobakterien"|"Microsporidien, Penicillium marneffei, Pneumocystis jirovecii, Toxoplasma gondii"|JC-Virus
 [[Peritonitis]]|"Enterokokken, [[E. coli]]"|||
 Pharyngitis|||"Adenoviren, Coronaviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren"
-[[Pneumonie]]|"Chlamydia pneumoniae, [[H. influenzae]], Legionella pneumoniae, Mycoplasma pneumoniae, [[Staph. aureus]], [[Pneumokokken]]"||"Adenoviren, Coronaviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren, Rhinoviren"
+[[Pneumonie]]|"Chlamydia pneumoniae, [[Haemophilus influenzae]], Legionella pneumoniae, Mycoplasma pneumoniae, [[Staph. aureus]], [[Pneumokokken]]"||"Adenoviren, Coronaviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren, Rhinoviren"
 Pseudokrupp|||"Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren"
-[[Sinusitis]]|"[[H. influenzae]], Moraxella catarrhalis, [[Pneumokokken]], Streptococcus pyogenes"|||
+[[Sinusitis]]|"[[Haemophilus influenzae]], Moraxella catarrhalis, [[Pneumokokken]], Streptococcus pyogenes"|||
 [[Rhinitis]]|||"Adenoviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren, Rhinoviren"
 Zoonosen|"Borrelia spp., Brucella spp., Francisella tularensis, Leptospira icterohaemorrhagica, Mycobacterium bovis, Yersinia pestis"|"Echinococcus spp., Leishmania spp., Microsporum spp., Taenia solium, Toxocara canis/cati, Toxoplasma gondii, Trichinella spp., Trichophyton spp."|"Cytomegalievirus, Ebolavirus, Gelbfiebervirus, Hepatitis-E-Virus, Lassafieber-Virus, [[Tollwut]]-Virus, Vogelgrippe-Virus"
 Cystitis|"[[E. coli]], Klebsiella pneumoniae, Proteus spp., [[Staphylokokken]] saprophyticus"|Candida spp.|
-
-#Modul/m00

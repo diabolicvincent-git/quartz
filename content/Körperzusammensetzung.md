@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m10, Modul/m12, Fach/Physiologie]
 title: Körperzusammensetzung
 ---
 
@@ -28,5 +29,3 @@ Hinsichtlich Genauigkeit, Nutzen, Anwendbarkeit
     - Bioelektrische Impedanzanalyse (Anwendung)
 - Innovative Verfahren
     - BodPod
-
-#Modul/m10 #Modul/m12

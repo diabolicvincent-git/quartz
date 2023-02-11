@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Nephrologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Labor, Art/Intervention]
 title: Nierenwerte
 ---
 ### Nierenwerte

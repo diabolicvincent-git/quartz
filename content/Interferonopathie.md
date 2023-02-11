@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Interferonopathie
 ---
-### Interferonopathie 
 > Hochregulation von Typ-1-[[IFN]]
 ## Syndrome
 ### Kongenitale CMV-Infektionen

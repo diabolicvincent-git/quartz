@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Onkologie]
 title: Invasions-Metastasierungskaskade
 ---
 1. Lokal-invasives, destruierendes Wachstum → Lösen von [[Zellkontakte]]n und proteolytisches Degradieren der [[EZM]]

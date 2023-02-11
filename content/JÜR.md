@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m07, Modul/m06]
+tags: [Modul/m07, Modul/m06, Fach/Epidemiologie]
 title: JÜR
 ---
 ### Jahres-Überlebensrate / JÜR

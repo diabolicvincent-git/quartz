@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Hämatologie]
 title: Paroxysmale nächtliche Hämoglobinurie
 ---
 ### Paroxysmale nächtliche Hämoglobinurie / PNH 

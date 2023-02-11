@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m24, Fach/Infektiologie, Fach/Laboratoriumsmedizin]
+tags: [Modul/m24, Fach/Infektiologie, Fach/Labor]
 title: Präanalytik
 ---
 ### Präanalytik

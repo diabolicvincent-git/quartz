@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Kardiologie]
 title: Kardiologie
 ---
 - [[HRST]]

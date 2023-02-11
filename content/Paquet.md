@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26, Art/Intervention]
+tags: [Modul/m26, Art/Intervention, Fach/Gastroenterologie]
 title: Paquet
 ---
 ### Paquet-Klassifikation

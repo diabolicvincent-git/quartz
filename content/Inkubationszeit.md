@@ -1,6 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Epidemiologie]
 title: Inkubationszeit
 ---
-### Inkubationszeit
 > Zeitspanne zwischen Erregeraufnahme ([[Infektionen]]) und Auftreten erster Symptome

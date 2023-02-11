@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Laboratoriumsmedizin, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m18, Fach/Labor, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: CRP
 ---
 ### C-reaktives Protein / CRP

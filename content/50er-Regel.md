@@ -1,5 +1,5 @@
 ---
-tags: [Art/Intervention]
+tags: [Art/Intervention, Fach/Hämatologie, Fach/Labor]
 title: 50er-Regel
 ---
 > (Abstract::**[[Hämostase]]-Grenzwerte als relative KI für Gefäßpunktionen.**)

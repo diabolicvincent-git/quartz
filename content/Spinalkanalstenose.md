@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m27]
+tags: [Modul/m27, Fach/Neurologie]
 title: Spinalkanalstenose
 ---
-### Spinalkanalstenose / SKS
 - **Epidemiologie**:: 60-70 Jahre
 - **Ätiologie**:: Spondylophyten, [[Arthrose]], Bandscheibendegeneration, Pseudospondylolisthesis
 - **Symptome**

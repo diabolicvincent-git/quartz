@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: Streptokokken
 ---
 > [[gramnegativ]] > Kokken > [[Streptokokken]] (Katalase–)

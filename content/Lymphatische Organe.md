@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m08]
+tags: [Modul/m08, Fach/Physiologie, Fach/Anatomie, Fach/Hämatologie]
 title: Lymphatische Organe
 ---
-### Lymphatische Organe
 - **Primäre Lymphatische Organe**
 	- [[Knochenmark]]
 	- [[Thymus]]

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Onkologie, Fach/Gastroenterologie]
 title: Pankreas-Ca
 ---
 ### Pankreaskarzinom

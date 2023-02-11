@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
-title: Vitamin E
+title: Vitamin E (Tocopherol)
 ---
 - **Aktive Form**:: α-Tocopherol
 - **Funktion**:: Lipophiles Antioxidans

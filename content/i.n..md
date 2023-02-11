@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00]
+tags: [Modul/m21, Fach/Pharmakologie]
 title: i.n.
 ---
 ### intranasal / i.n.

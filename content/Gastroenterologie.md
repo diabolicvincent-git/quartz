@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Gastroenterologie]
 title: Gastroenterologie
 ---
 - [[Erkrankungen der Leber]]

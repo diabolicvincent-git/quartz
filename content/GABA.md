@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Biochemie/Transmitter]
 title: GABA
 ---
 ### ɣ-Aminobuttersäure / GABA

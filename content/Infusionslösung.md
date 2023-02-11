@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Art/Intervention]
+tags: [Modul/m14, Art/Intervention, Fach/Nephrologie, Fach/Pharmakologie]
 title: Infusionslösung
 ---
 #### Infusionslösung

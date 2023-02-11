@@ -1,7 +1,7 @@
 ---
+tags: [Fach/HNO, Fach/Neurologie]
 title: Kopfimpulstest
 ---
-### Kopfimpulstest
 - **Physiologisch**:: Augenrückstellbewegung ([[Vestibulookulärer Reflex]])
 - **Pathologisch**
 	- Ausfall (z.B. [[Koma]] mit Hirnstammläsion) oder Rückstellsakkade (wacher Pat.)

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m16]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Embryologie]
 title: Entwicklung des Auges
 ---
-#### Entwicklung des Auges 
 > Entwicklungsgeschichtlich Teil des [[Gehirn]]s, daher [[N. opticus (II)]] und [[Retina]] von [[Oligodendrocyten]] ummantelt ([[ZNS]])
 - **Keimblatt**:: Neuroektoderm und Oberflächenektoderm
 - **Entwicklungsschritte**

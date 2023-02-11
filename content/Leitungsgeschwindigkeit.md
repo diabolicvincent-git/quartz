@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m05, Modul/m15]
+tags: [Modul/m05, Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Leitungsgeschwindigkeit
 ---
-### Leitungsgeschwindigkeit (Tabelle)
 > Klassifikation von [[Axon]]en nach Leitungsgeschwindigkeit
 
 | Lloyd Hunt | Erlanger Gasser | Myelin | ∅     | Geschw.    | [[Afferenzen]]                            | [[Efferenzen]]                          |

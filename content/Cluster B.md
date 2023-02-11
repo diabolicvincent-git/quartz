@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Psychiatrie]
 title: Cluster B
 ---
 > (Abstract::**Dramatisch, Emotional, Impulsiv.**)

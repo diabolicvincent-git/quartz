@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Psychiatrie
 ---
 - [[Antidepressiva]]

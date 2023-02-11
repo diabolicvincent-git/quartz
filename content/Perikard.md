@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m11]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Perikard
 ---
-### Perikard 
 > Feuchtigkeitsfilm (sezerniert vom [[Epikard]]) ermöglicht reibungsarme [[Herz]]bewegung in der serösen Höhle
 - **Pericardium serosum**
 	- **Lamina visceralis** = ==[[Epikard]]==

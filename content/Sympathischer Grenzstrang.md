@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Neurologie]
 title: Sympathischer Grenzstrang
 ---
 ### Sympathischer Grenzstrang

@@ -1,6 +1,5 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Enteropathische Arthritis
 ---
-### Enteropathische Arthritis 
 - Arthritis bei chronisch-entzündlichen Darmerkrankungen wie [[M. Crohn]] oder [[Colitis ulcerosa]]

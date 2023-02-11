@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m17]
+tags: [Modul/m08, Modul/m17, Fach/Hämatologie]
 title: Thrombotische Mikroangiopathie
 ---
 ### Thrombotische Mikroangiopathie 

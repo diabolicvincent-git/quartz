@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Modul/m19, Art/Pathologie]
+tags: [Modul/m09, Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Dermatologie]
 title: Melanom
 ---
 ### Malignes Melanom

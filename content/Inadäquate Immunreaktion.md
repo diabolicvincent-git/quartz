@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie]
 title: Inadäquate Immunreaktion
 ---
 

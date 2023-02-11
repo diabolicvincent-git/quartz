@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m09, Fach/Dermatologie, Fach/Infektiologie]
 title: Viral bedingte Hautkrankheiten
 ---
 - Lokale [[Infektionen]] der Haut & Schleimhaut
@@ -23,5 +24,3 @@ title: Viral bedingte Hautkrankheiten
 
 ![[VZV]]
 
-
-#Modul/m09

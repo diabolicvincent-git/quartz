@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Anatomie]
 title: Nierenhüllen
 ---
 ## Nierenhüllen

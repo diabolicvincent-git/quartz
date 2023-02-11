@@ -1,11 +1,11 @@
 ---
-tags: [Modul/m18, Art/Pathologie]
+tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Pneumologie, Fach/Notfallmedizin]
 title: Pneumonie
 ---
 ### Pneumonie / Lungenentzündung
 - **Epidemiologie**:: v.a. Kinder und Senioren
 - **Erreger**
-	- **Ambulant (CAP)**:: ==[[Pneumokokken]]==, [[H. influenzae]], Mycoplasma/Chlamydia  pneumoniae
+	- **Ambulant (CAP)**:: ==[[Pneumokokken]]==, [[Haemophilus influenzae]], Mycoplasma/Chlamydia  pneumoniae
 	- **[[Nosokomiale Infektion]] (HAP)**:: zzgl. [[Staph. aureus]], gramnegative Erreger ([[Pseudomonas aeruginosa]], Enterobakt.)
 - **Symptome**
 	- **Typisch**:: [[Fieber]], produktiver [[Husten]], Tachypnoe, schmerzhafte Pleuritis

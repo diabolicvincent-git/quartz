@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Otitis externa necroticans
 ---
 Nekrotisierende [[Otitis externa]]

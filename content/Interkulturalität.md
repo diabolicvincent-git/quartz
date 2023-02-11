@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Modul/m06]
+tags: [Modul/m20, Modul/m06, Fach/Epidemiologie]
 title: Interkulturalität
 ---
 ### Interkulturalität

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Laboratoriumsmedizin]
+tags: [Modul/m00, Fach/Labor]
 title: Labor
 ---
 ### Laborwerte

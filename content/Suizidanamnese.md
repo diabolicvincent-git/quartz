@@ -1,8 +1,7 @@
 ---
-tags: []
+tags: [Fach/Psychiatrie]
 title: Suizidanamnese
 ---
-### Suizidanamnese
 - **Indikation**:: Nicht nur bei V.a. [[Suizidalität]] sondern jede psych. Anamnese
 - **Bestandteile**
 	- **Ausprägungen von [[Suizidalität]]**

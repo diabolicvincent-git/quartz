@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Gastroenterologie, Fach/Embryologie, Fach/Chirurgie]
 title: Meckel-Divertikel
 ---
 ### Meckel-Divertikel

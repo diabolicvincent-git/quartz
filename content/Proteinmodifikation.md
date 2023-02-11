@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m02, Modul/m03, Fach/Biochemie]
 title: Proteinmodifikation
 ---
 ## Glycosylierung
@@ -27,5 +28,4 @@ Bindung eines Sulfats an [[Tyrosin]]-Rest im Golgi zur Erhöhung der Wasserlösl
 - **Phosphorylierung** (z.B. [[Pyruvatdehydrogenase]])
 - **Acetylierung** (z.B. Histone)
 - **Ubiquitinierung** (Proteosomaler Abbau)
-
-#Modul/m02 #Modul/m03 
+ 

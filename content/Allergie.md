@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Pathologie, ToDo]
+tags: [Modul/m12, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Pathologie, ToDo, Modul/m09]
 title: Allergie
 ---
 > Überschießende Immunreaktion ggü. ungefährlichen Stoffen
@@ -48,5 +48,4 @@ gegebene klinische Hautbilder den Allergietypen I und IV nach Coombs und Gell zu
 
 - **In vivo**
     - Hauttest (Atopie-Patch)
-
-#Modul/m09 
+ 

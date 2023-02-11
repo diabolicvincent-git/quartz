@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Ophthalmologische Anamnese
 ---
 - Symptome

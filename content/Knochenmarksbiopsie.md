@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: Knochenmarksbiopsie
 ---
 ### Knochenmarksbiopsie

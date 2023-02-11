@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11]
+tags: [Modul/m11, Fach/Kardiologie]
 title: KHK
 ---
 ### Koronare Herzkrankheit / KHK

@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m14, Fach/Embryologie, Fach/Urologie, Fach/Nephrologie]
 title: Entwicklung des Urogenitaltrakts
 ---
 ---
@@ -37,5 +38,3 @@ An korrekter Position, jedoch falsch ausgerichtet
 2 [[Ureter]] auf einer Körperseite; vereinigen sich vor Eintritt in die [[Harnblase]]
 #### [[Ureter]] duplex
 2 [[Ureter]] auf einer Körperseite mit separatem Eintritt in die [[Harnblase]]
-
-#Modul/m14 

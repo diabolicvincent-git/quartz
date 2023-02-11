@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Anästhesie]
 title: Regionalanästhesie
 ---
 > (Abstract::**Selektive Schmerzausschaltung in einer Körperregion.**)

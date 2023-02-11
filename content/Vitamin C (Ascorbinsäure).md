@@ -1,7 +1,7 @@
 ---
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
 Löslichkeit: Wasserlöslich
-title: Vitamin C
+title: Vitamin C (Ascorbinsäure)
 ---
 - **Aktive Form**:: Ascorbat
 - **Funktion**:: Hydrophiles Antioxidans, Cofaktor von Redoxreaktionen und Hydroxylierungen, Begünstigung der Eisenaufnahme im Darm

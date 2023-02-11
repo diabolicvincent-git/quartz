@@ -73,7 +73,7 @@ title: Infektiologie
 					- [[Serratien]]
 				- [[Kokkoide Stäbchen]]
 					- [[Haemophilus]]
-						- [[H. influenzae]]
+						- [[Haemophilus influenzae]]
 					- [[Bordetellen]]
 						- [[Bordetella pertussis]]
 					- [[Brucellen]]

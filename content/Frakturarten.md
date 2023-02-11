@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Orthopädie]
 title: Frakturarten
 ---
 - *Einfache Fraktur* (spiral/schräg/quer)

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m08, Modul/m13]
+tags: [Modul/m08, Modul/m13, Fach/Pneumologie, Fach/Biochemie, Fach/Physiologie]
 title: Gastransport
 ---
-### Gastransport 
 - **Sauerstofftransport**
 	- *Chemisch gebunden* (>98%): max. 4 [[O2]] / [[Häm]]
 	- *Physikalisch gelöst* (<2%)

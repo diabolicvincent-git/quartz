@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie, Fach/HNO]
 title: Mimische Muskulatur
 ---
 ==Innervation:: [[N. facialis (VII)]]==

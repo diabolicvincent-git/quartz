@@ -1,7 +1,7 @@
 ---
+tags: [Fach/Neurologie, Fach/Biochemie]
 title: Synuclein
 ---
-#### Synuclein
 - ==[[Parkinson-Syndrom]]==
 - [[Demenz]] mit Lewy-Kröpern
 - Multisystematrophie (MSA)

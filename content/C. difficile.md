@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
+tags: [Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien, Wichtig:]
 title: C. difficile
 ---
 ### Chlostridium difficile
@@ -8,7 +8,7 @@ title: C. difficile
 	- Obligat anaerob
 	- Ubiquitär
 	- Sporenbildend
-	- #Wichtig: ==Restistent ggü. Desinfektionsmitteln==
+	- ==Restistent ggü. Desinfektionsmitteln==
 - **Vorkommen**:: [[Normalflora]] im Darm
 - **Pathogenität**:: *Toxinbildende Stämme* (Enterotoxin A, Cytotoxin B, binäres Toxin CDT)
 - **Erkrankung**:: CDI/CDAD

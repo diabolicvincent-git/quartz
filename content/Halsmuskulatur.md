@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie, Fach/HNO]
 title: Halsmuskulatur
 ---
 - **Oberflächliche Halsmuskulatur:** Innervation durch [[Hirnnerven]]

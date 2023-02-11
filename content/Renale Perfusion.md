@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m14, Fach/Nephrologie, Fach/Physiologie]
 title: Renale Perfusion
 ---
 - **Renaler Blutfluss**:: In Ruhe 20% des [[HZV]], d.h. 1,2 L Blut / min
@@ -34,5 +35,4 @@ title: Renale Perfusion
 - **Prostacyclin**
 	- [[Vasodilatation]] v.a. im [[Nierenmark]] zur Schutz vor Hypoxie
 	- [[Vasodilatation]] von Vas afferens und Vas efferens
-
-#Modul/m14 
+ 

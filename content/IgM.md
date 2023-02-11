@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08]
+tags: [Modul/m08, Fach/Biochemie/Antikörper]
 title: IgM
 ---
 ### IgM

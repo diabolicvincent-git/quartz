@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m11]
+tags: [Modul/m11, Fach/Kardiologie]
 title: Herzgeräusche
 ---
-### Herzgeräusche 
 - **Ursache**:: Blutfluss durch insuffiziente oder stenosierte Klappe
 - **[[Systolikum]]**:: AV-Klappen-Insuffizienz, [[Taschenklappen]]-Stenose
 - **[[Diastolikum]]**:: AV-Klappen-Stenose, [[Taschenklappen]]-Insuffizienz

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m16]
+tags: [Modul/m16, Fach/Physiologie]
 title: Geschmack
 ---
 - 10-50 *Sinneszellen* bilden eine *Knospe*, sitzen in Papillen

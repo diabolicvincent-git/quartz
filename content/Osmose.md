@@ -1,4 +1,4 @@
 ---
+tags: [Modul/m08, Fach/Physiologie]
 title: Osmose
 ---
-#Modul/m08 

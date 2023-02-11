@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05]
+tags: [Modul/m05, Fach/Histologie/Gewebe, Fach/Orthopädie, Fach/Anatomie]
 title: Skelettmuskulatur
 ---
 Umhüllung: Faszie (Kraftübertragung, Reibung¯) > Epimysium (lockeres BG) > Perimysium (BG-Septen; **Sekundärbündel**) > (**Primärbündel**) > Endomysium (**Muskelfaser**)

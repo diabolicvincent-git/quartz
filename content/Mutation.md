@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02, Modul/m19]
+tags: [Modul/m02, Modul/m19, Fach/Onkologie, Fach/Genetik]
 title: Mutation
 ---
 ### Mutationen

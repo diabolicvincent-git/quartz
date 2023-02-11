@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Endokrinologie]
 title: Endokrinologie
 ---
 - [[Störungen der Sexualhormone]]

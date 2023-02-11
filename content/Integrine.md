@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m05]
+tags: [Modul/m05, Fach/Histologie, Fach/Biochemie]
 title: Integrine
 ---
-### Integrine
 > Adhäsionsproteine in [[Desmosom]]/[[Hemidesmosom]]
 - **Struktur**:: Heterodimerer transmembraner  [[Rezeptor]], IZ über Adapterproteine mit [[Aktin]] verbunden
 - **Funktion** 

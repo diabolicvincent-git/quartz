@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. sternocleidomastoideus
 ---
 - **Ursprung**:: [[Manubrium sterni]] (Caput mediale), [[Clavicula]] (Caput laterale)

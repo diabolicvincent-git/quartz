@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Pilze]
 title: Pilze
 ---
-## Systematik
 > Pilze sind gerade noch [[Eukaryonten]][^1]
 - **Ständerpilze** im Wald
 - **Andere Klassen**

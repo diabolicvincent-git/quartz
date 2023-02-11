@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Endokrinologie]
 title: POMC-Gendefekt
 ---
 ### [[POMC]]-Gendefekt 

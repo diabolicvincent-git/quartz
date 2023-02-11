@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Rheumatologie, Fach/Onkologie, Fach/Pharmakologie/Medikament/Wirkstoff]
 title: Methotrexat
 ---
 ### Methotrexat / MTX 

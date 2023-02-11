@@ -4,7 +4,7 @@ title: Impfkalender
 ---
 | [[Impfung]]                                                                        | Dosen                          | Besonderheiten                           |
 | ---------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------- |
-| [[Tetanus]], [[Diphterie]], [[Pertussis]], [[Poliomyelitis]], [[H. influenzae]] B, [[Hepatitis B]] | **3x** ([[U4]]–[[U6]])[^1]     |     Auffrischungen[^2]                                     |
+| [[Tetanus]], [[Diphterie]], [[Pertussis]], [[Poliomyelitis]], [[Haemophilus influenzae]] B, [[Hepatitis B]] | **3x** ([[U4]]–[[U6]])[^1]     |     Auffrischungen[^2]                                     |
 | [[Pneumokokken]]                                                                       | **3x** ([[U4]]-[[U6]])[^1]     | Standard >60. LJ                         |
 | Rotaviren                                                                          | **2-3x** ([[U3]]-[[U4]]) | ==Lebendimfpstoff==, Schluckimpfung      |
 | [[Meningokokken]] C                                                                    | **1x** ([[U6]])                         |                                          |

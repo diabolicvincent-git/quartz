@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m21, Fach/Anästhesie, Fach/Infektiologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Fach/Infektiologie, Fach/Labor, Art/Intervention]
 title: Sepsismarker
 ---
 ### Sepsismarker

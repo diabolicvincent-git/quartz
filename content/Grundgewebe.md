@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m05]
+tags: [Modul/m05, Fach/Histologie/Gewebe]
 title: Grundgewebe
 ---
-### Grundgewebe
 - [[Epithel]]
 - [[Bindegewebe]]
 - [[Fettgewebe]]

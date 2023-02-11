@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m04]
+tags: [Modul/m04, Fach/Endokrinologie, Fach/Biochemie]
 title: Rezeptor-Tyrosinkinasen
 ---
-### Rezeptor-Tyrosinkinasen
 - **Liganden**:: [[Insulin]], [[Wachstumsfaktoren]] ([[EGF]], [[IGF]])
 - **Aufbau**:: Ligandenbindungsdomäne EZ + Transmembrandomäne + Tyrosinkinase IZ
 - **Aktivierung**

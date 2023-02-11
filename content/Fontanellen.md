@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Pädiatrie, Fach/Anatomie]
 title: Fontanellen
 ---
 ## Fonticulus anterior („große Fontanelle“)

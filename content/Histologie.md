@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Histologie]
 title: Histologie
 ---
 - [[Grundgewebe]]

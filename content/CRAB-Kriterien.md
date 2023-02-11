@@ -1,7 +1,7 @@
 ---
+tags: [Fach/Hämatologie]
 title: CRAB-Kriterien
 ---
-## CRAB-Kriterien
 > Diagnostik [[Multiples Myelom]]
 - [[Ca2+]]↑
 - Renale Insuffizienz

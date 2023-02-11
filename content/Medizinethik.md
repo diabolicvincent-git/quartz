@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m21]
+tags: [Modul/m21, Fach/Epidemiologie]
 title: Medizinethik
 ---
-### Medizinethik
 - **Probandengruppen** (nach Zunahme der ethischen Problematik)
 	1. Tierversuche
 	2. Menschenversuche

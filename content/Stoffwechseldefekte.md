@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Art/Pathologie]
+tags: [Modul/m17, Art/Pathologie, Fach/Biochemie, Fach/Genetik]
 title: Stoffwechseldefekte
 ---
 #### Stoffwechseldefekte 

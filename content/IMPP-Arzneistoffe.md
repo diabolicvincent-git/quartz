@@ -1,12 +1,12 @@
 ---
-tags: [Modul/m00, Fach/Pharmakologie/Medikament]
+tags: [Modul/m00, Fach/Pharmakologie/Medikament, ToDo]
 title: IMPP-Arzneistoffe
 ---
 ### Adrenerges System
 - **α1-[[Adrenozeptoren]]-Agonisten / α1-Sympathomimetika**:: Xylometazolin
 - **α1-[[Adrenozeptoren]]-Antagonisten / α1-Blocker**:: Tamsulosin, Urapidil
 - **α1-/βx-[[Adrenozeptoren]]-Antagonisten / Antihypertensiva, nicht-selektive [[β-Blocker]]**:: Carvedilol
-- **α2-[[Adrenozeptoren]]-Agonisten / [[Antisympathotonika]]**:: α-Metyldopa, Brimonidin, Clonidin #ToDo
+- **α2-[[Adrenozeptoren]]-Agonisten / [[Antisympathotonika]]**:: α-Metyldopa, Brimonidin, Clonidin
 - **α2-[[Adrenozeptoren]]-Antagonisten**:: Mirtazapin
 - **αx-/βx-[[Adrenozeptoren]]-Agonisten / [[Katecholamine]] / Sympathomimetika**:: [[Adrenalin]], [[DOBUTamin]], [[Noradrenalin]]
 - **β1-[[Adrenozeptoren]]-Antagonisten / Antihypertensiva / kardioselektive [[β-Blocker]]**:: Bisoprolol, Metoprolol
@@ -90,7 +90,7 @@ title: IMPP-Arzneistoffe
 ### Cholinerges System
 - **Muskelrelaxanzien**
 	- **[[ACh]]-Freisetzungs-Inhibitoren**:: Botulinum-Neurotoxin
-	- **N-[[ACh]]-R-Agonisten**:: Suxamethonium / Succinylcholin (depolarisierend) #ToDo 
+	- **N-[[ACh]]-R-Agonisten**:: Suxamethonium / Succinylcholin (depolarisierend) 
 	- **N-[[ACh]]-R-Antagonisten**:: Rocuronium (nicht-depolarisierend)
 - **Parasympathomimetika / Cholinergika**
 	- **Acetylcholinesterase-Inhibitoren**:: Pyridostigmin

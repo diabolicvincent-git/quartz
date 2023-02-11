@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Neuroanatomie Repetitorium
 ---
 
@@ -427,5 +428,3 @@ Modulatorische [Neurotransmission] ist nicht zwingend eine 1:1-Synapsenübertrag
 - **Marklager**
 
 ## [Hirnstamm]
-
-#Modul/m15

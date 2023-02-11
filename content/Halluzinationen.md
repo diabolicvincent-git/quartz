@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Psychiatrie]
 title: Halluzinationen
 ---
 > (Abstract::Sinneswahrnehmung ohne objektiv nachweisbaren Reiz, subjektiv nicht von realer Wahrnehmung unterscheidbar.)

@@ -1,7 +1,7 @@
 ---
+tags: [Fach/Physiologie, Fach/Ophthalmologie]
 title: Fernakkommodation
 ---
-## Fernakkommodation
 > Passive Zugkräfte von Bruch-Membran und[[Sklera]] → Zonulafasern im *Ruhezustand* straff, [[Augenlinse]] flach → *Brechkraft↓*
 
 - **Fernpunkt**:: Entferntester Punkt, der noch scharf sehbar ist (∞)

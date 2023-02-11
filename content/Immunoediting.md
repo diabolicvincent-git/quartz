@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Onkologie]
 title: Immunoediting
 ---
-### Immunoediting
 > Immunreaktion auf [[Tumor]]
 - **Phasen**
 	- Eliminierung

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22, Fach/Endokrinologie, Fach/Laboratoriumsmedizin, Fach/Gynäkologie, Art/Intervention, Fach/Biochemie/Molekül]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Labor, Fach/Gynäkologie, Art/Intervention, Fach/Biochemie/Molekül]
 title: β-HCG
 ---
 > (Abstract::**Humanes Choriongonadotropin.** "Schwangerschaftshormon".)

@@ -6,7 +6,7 @@ title: Meningitis
 > Entzündung der [[Meningen]] durch ==[[Bakterien]]==, [[Viren]], [[Protozoen]] oder [[Pilze]]
 - **Erregerspektrum** (50% aus Ausgangsherden[^3])
 	- **[[Bakterien]]**:: ==[[Pneumokokken]]==, ==[[Meningokokken]]==
-		- Neugeborene/Ältere:  Str. agalctiae, Listerien, [[E. coli]], [[H. influenzae]]
+		- Neugeborene/Ältere:  Str. agalctiae, Listerien, [[E. coli]], [[Haemophilus influenzae]]
 	- **[[Viren]]**:: Enteroviren, Herpesviren, Arboviren (FSME)
 - **Symptome**
 	- ***Trias:*** [[Fieber]], ==[[Meningismus]]==[^2], Bewusstseinstrübung (50%)
@@ -24,7 +24,7 @@ title: Meningitis
 	- **Kalkulierte [[Antibiotika]]-Therapie**:: [[Cephalosporine]] der 3. Generation (==[[Ceftriaxon]]==) ggf. + [[Ampicillin]] (bei hoher Wahrscheinlichkeit von Listerien) ggf. + [[Aciclovir]]
 	- **[[Glucocorticoide]]**:: Dexamethason zur Minderung des [[Hirnödem]]s
 - **Prävention**
-	- **[[Impfung]]**:: [[Meningokokken]],  [[H. influenzae]] B, [[Pneumokokken]], FSME
+	- **[[Impfung]]**:: [[Meningokokken]],  [[Haemophilus influenzae]] B, [[Pneumokokken]], FSME
 	- **Postexpositionsprophylaxe**:: [[Rifampicin]] (bei [[Meningokokken]])
 
 [^1]: Komplikation: *[[Waterhouse-Friderichsen-Syndrom]]* mit [[DIC]]

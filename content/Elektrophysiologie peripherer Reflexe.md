@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m04, Modul/m10, Fach/Neurologie, Fach/Physiologie]
 title: Elektrophysiologie peripherer Reflexe
 ---
 ## Muskeleigenreflexe bds. mit seitengleicher Reizintensität untersuchen
@@ -45,5 +46,3 @@ title: Elektrophysiologie peripherer Reflexe
     - **H-Welle**:: Lange (reflextypische) Latenz
     - Bei erhöhter Reizintensität (bis zu einem Umschlagspunkt) nimmt Amplitude der M-Welle zu und Amplitude der H-Welle ab
     - Reizschwelle H-Welle ist kleiner als Reizschwelle M-Welle
-
-#Modul/m04 #Modul/m10

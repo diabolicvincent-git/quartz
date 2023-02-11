@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Neurologie]
 title: Vegetative Ganglien
 ---
 - **[[Sympathischer Grenzstrang]]** in [[Rückenmark]]snähe

@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. orbicularis oris
 ---
 ##### M. orbicularis oris

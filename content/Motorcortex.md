@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Motorcortex
 ---
-### Motorischer Cortex
 - **[[Afferenzen]]**
 	- **[[Ncll. anteriores]] des [[Thalamus]]** (Zusammenfassung von Informationen aus [[Kleinhirn]], [[Basalganglien]] und sensiblen Reizen)
 	- [[Präfrontaler Cortex]] ([[Limbisches System]]) → Supplementär-Motorische Areale ("Wille", "Freigeben" von Bewegungen)

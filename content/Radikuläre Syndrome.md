@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m27, Modul/m15]
+tags: [Modul/m27, Modul/m15, Fach/Neurologie]
 title: Radikuläre Syndrome
 ---
-### Radikuläre Syndrome
 | Syndrom | [[Kennmuskel]] ([[Parese]])                                                       | [[Dermatome]] (Sensibilität↓, [[Schmerz]])                                         | [[Reflex]]↓                               |
 | ------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------- |
 | C3/C4   | [[Diaphragma]]                                                                | Hals, Schulter                                                                     |                                           |

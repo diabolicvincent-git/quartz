@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Labor, Art/Intervention/Diagnostik, Fach/Physiologie]
 title: GFR
 ---
 ### Glomeruläre Filtrationsrate / GFR

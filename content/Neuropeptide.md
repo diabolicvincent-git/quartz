@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Modul/m20]
+tags: [Modul/m15, Modul/m20, Fach/Neurologie, Fach/Biochemie]
 title: Neuropeptide
 ---
 ### Neuropeptide

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Modul/m18, Art/Pathologie]
+tags: [Modul/m14, Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Urologie, Fach/Gynäkologie]
 title: HWI
 ---
 #### Harnwegsinfektion / HWI
@@ -80,5 +80,3 @@ title: HWI
 - die Pathogenese einschließlich prädisponierender und geschlechterspezifischer Faktoren sowie das Erregerspektrum bei unkomplizierter [[Bakterien]] [[Infektionen]] der unteren Harnwege beschreiben können.
 - die bei unkomplizierter [[Bakterien]] [[Infektionen]] der unteren Harnwege zu erwartenden spezifischen Angaben in [[Anamnese]] sowie die spezifischen Befunde bei der körperlichen [[Untersuchung]] benennen und zuordnen können.
 - die Grundzüge der medizinischen Diagnostik, Therapie und Betreuung einer unkomplizierten [[Bakterien]] [[Infektionen]] der unteren Harnwege herleiten können.
-
-#Modul/m14

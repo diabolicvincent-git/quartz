@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19]
+tags: [Modul/m19, Fach/Histologie, Fach/Onkologie]
 title: Stroma
 ---
 ### Stroma

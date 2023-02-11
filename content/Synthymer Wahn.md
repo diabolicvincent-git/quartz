@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Psychiatrie]
 title: Synthymer Wahn
 ---
 [[Wahninhalte]] entsprechen Stimmung

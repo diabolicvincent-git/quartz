@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m05, Modul/m10, Fach/Orthopädie, Fach/Biochemie]
 title: Störungen im Knochenstoffwechsel
 ---
 ![[Untitled 106.png]]
@@ -54,5 +55,3 @@ Calcium-[[Kreatinin]]-Clearance-Quotient(?)
         [[Östrogene]] ([[Mamma-Ca]]-[[Risiko]]!)
 
 ## Ursachen, Risikofaktoren und molekulare Pathomechanismen für verschiedene Osteoporoseformen darle![[Untitled 1 40.png]]
-
-#Modul/m05 #Modul/m10

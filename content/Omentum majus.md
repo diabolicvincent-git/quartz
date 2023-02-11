@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26, Modul/m12]
+tags: [Modul/m26, Modul/m12, Fach/Anatomie, Fach/Embryologie]
 title: Omentum majus
 ---
 ### Omentum majus

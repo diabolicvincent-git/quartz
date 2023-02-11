@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m18]
+tags: [Modul/m08, Modul/m18, Fach/Infektiologie, Fach/Biochemie, Fach/Histologie/Zelle]
 title: T-Zellen
 ---
 ### T-Lymphocyten

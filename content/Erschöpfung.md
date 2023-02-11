@@ -23,7 +23,6 @@ title: Erschöpfung
 ---
 
 ## Uak ausarbeiten
-#ToDo
 
 ![[Pasted image 20211112144826.png]]
 
@@ -73,7 +72,6 @@ die Veränderung des Durstgefühls im Senium als wichtige Ursache für [[Dehydra
 ---
 siehe auch [[Skelettmuskelfaser]] Typen
 
-#ToDo
 
 [[avDO2]]
 

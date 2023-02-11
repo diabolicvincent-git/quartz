@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05]
+tags: [Modul/m05, Fach/Histologie/Gewebe]
 title: Knorpel
 ---
 ###  Knorpelgewebe

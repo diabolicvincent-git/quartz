@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m09, Fach/Dermatologie]
 title: Haare
 ---
 
@@ -30,5 +31,3 @@ title: Haare
 3. 
 
 [[Drüsen]] [[Hautanhangsgebilde]]
-
-#Modul/m09

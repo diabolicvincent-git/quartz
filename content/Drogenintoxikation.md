@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m30]
+tags: [Modul/m30, Fach/Toxikologie]
 title: Drogenintoxikation
 ---
 ### Drogenintoxikation

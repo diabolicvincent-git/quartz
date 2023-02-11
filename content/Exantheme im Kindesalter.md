@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Modul/m18]
+tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Pädiatrie]
 title: Exantheme im Kindesalter
 ---
 ```dataview

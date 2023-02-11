@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m29]
+tags: [Modul/m29, Fach/HNO, Fach/Anatomie]
 title: Kaumuskulatur
 ---
 > (Abstract::4 Kaumuskeln, alle aus [[N. mandibularis (V3)]] innerviert.)

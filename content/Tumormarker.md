@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19, Fach/Onkologie, Art/Intervention, Fach/Laboratoriumsmedizin]
+tags: [Modul/m19, Fach/Onkologie, Art/Intervention, Fach/Labor]
 title: Tumormarker
 ---
 > v.a. Verlaufsparamter

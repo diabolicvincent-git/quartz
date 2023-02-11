@@ -1,6 +1,5 @@
 ---
-tags: [Modul/m15]
-kleiner: "[[Rhombencephalon]], [[Mesencephalon]], [[Prosencephalon]]"
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Gehirn
 ---
 - **Funktion**:: Integration und Regulation aller Organfunktionen, Bewegungen und Verhaltensweisen

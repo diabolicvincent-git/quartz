@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Regulation der Atmung
 ---
 ## Chemische Atemregulation

@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie]
 title: Körperregionen
 ---
 - [[Kopf]]

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m10]
+tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie, Fach/Neurologie]
 title: Plexus lumbosacralis
 ---
-### Plexus lumbosacralis
 > Rr. anteriores der [[Spinalnerven]] Th12 - S3
 - **Plexus lumbalis**:: Th12 - L4
 	1. N. iliohypogastricus

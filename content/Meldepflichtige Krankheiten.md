@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Infektiologie, Fach/Epidemiologie]
 title: Meldepflichtige Krankheiten
 ---
 ## Meldepflichtige Krankheiten

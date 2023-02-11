@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Parathymer Wahn
 ---
 [[Wahninhalte]] passen nicht zur Stimmung

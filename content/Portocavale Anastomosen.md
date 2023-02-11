@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m12]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie, Fach/Physiologie]
 title: Portocavale Anastomosen
 ---
-### Portocavale Anastomosen 
 - Anastomose via Vv. gastricae → **[[Ösophagus]][[Venen]]** → [[Azygossystem]] (*[[Ösophagusvarizen]]*)
 - Anastomose via **Paraumbilicalvenen** → V. epigastrica inferior/superior (*Caput medusae*)
 - Anastomose via V. mesenterica inferior → **[[Rektum]]-[[Venen]]** (*[[Hämorrhoiden]]*)

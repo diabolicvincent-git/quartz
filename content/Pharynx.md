@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m13, Fach/Pneumologie, Fach/HNO, Fach/Anatomie]
 title: Pharynx
 ---
 - **Funktion**:: Weiterleitung von Luft und Nahrung; Schluckakt
@@ -44,5 +45,3 @@ title: Pharynx
 - Pars laryngea pharyngis: [[N. vagus (X)]]
 
 > Gemeinsamer Plaxus pharyngeus (motorisch, sensibel, sekretorisch, [[Sympathikus]], [[Parasympathikus]]) ab Pars oralis pharyngis
-
-#Modul/m13

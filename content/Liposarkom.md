@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m09, Modul/m19]
+tags: [Modul/m09, Modul/m19, Fach/Onkologie]
 title: Liposarkom
 ---
-### Liposarkom
 > Maligner [[Tumor]] des [[Fettgewebe]]
 - **Lokalisation**:: ==An Extremitäten, im tiefen Weichgewebe==
 - **Symptome**:: Primär indolent, später teils schmerzhaft

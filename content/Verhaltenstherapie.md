@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20]
+tags: [Modul/m20, Fach/Psychiatrie]
 title: Verhaltenstherapie
 ---
 - **Ziel**:: Modifikation dysfunktionaler Kognitionen / Verhaltensweisen

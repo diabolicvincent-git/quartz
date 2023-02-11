@@ -1,5 +1,5 @@
 ---
-tags: [Art/Pathologie]
+tags: [Art/Pathologie, Fach/Psychiatrie]
 title: Echolalie
 ---
 Automatisches Nachsprechen von Gesagtem, ohne Rücksicht auf Inhalt und Sinn

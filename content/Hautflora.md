@@ -1,8 +1,7 @@
 ---
+tags: [Fach/Dermatologie, Fach/Infektiologie]
 title: Hautflora
 ---
-## Hautflora
-
 - Physiologische Kommensalen / Kolonisationsflora
 - **Funktionen**
     1. **Platzhalterfunktion / Kolonisationsresistenz**:: Verhinderung der Kolonisation durch Pathogene

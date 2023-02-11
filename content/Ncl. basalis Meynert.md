@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie, Fach/Neurologie]
 title: Ncl. basalis Meynert
 ---
 ### Ncl. basalis Meynert

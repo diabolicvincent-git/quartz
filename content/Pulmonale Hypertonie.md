@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Kardiologie]
 title: Pulmonale Hypertonie
 ---
-#### Pulmonale Hypertonie
 > ∅ Lungenarteriendruck >25 mmHg in Ruhe
 - **Ätiologie**
 	- *Primär:* Idiopathisch, hereditär (z.B. BMPR2-, ALK1-Gen), toxisch (Appetitzügler wie Aminorex, Fenfluramin, verunreinigtes Rapsöl, Amphetamine)

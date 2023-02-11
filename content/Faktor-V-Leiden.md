@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Hämatologie]
 title: Faktor-V-Leiden
 ---
 ### Faktor-V-Leiden / APC-Resistenz

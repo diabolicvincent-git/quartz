@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie]
 title: MHK
 ---
 ### Minimale Hemmkonzentration / MHK

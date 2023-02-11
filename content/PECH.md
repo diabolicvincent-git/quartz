@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m27, Art/Intervention]
+tags: [Modul/m27, Art/Intervention, Fach/Orthopädie]
 title: PECH
 ---
-### PECH-Regel
 > Akutmaßnahmen bei **[[Sportverletzungen]]**
 - **Pause**
 - **Eis**:: Kühlung min. 30 min

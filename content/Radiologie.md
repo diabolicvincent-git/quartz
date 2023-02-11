@@ -1,5 +1,5 @@
 ---
-tags: Fach/Radiologie
+tags: [Fach/Radiologie]
 title: Radiologie
 ---
 - **Bildgebungsverfahren**

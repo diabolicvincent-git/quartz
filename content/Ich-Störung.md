@@ -1,5 +1,5 @@
 ---
-tags: [Art/Pathologie]
+tags: [Art/Pathologie, Fach/Psychiatrie]
 title: Ich-Störung
 ---
 - **Ich-Störungen auf Gefühlsebene**

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Laboratoriumsmedizin, Art/Intervention]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Labor, Art/Intervention]
 title: Blutkulturen
 ---
 ### Blutkulturen / BK

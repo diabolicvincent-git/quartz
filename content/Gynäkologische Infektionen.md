@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Gynäkologie, Fach/Infektiologie]
 title: Gynäkologische Infektionen
 ---
 - [[HPV]]

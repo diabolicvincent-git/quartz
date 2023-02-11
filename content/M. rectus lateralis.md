@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Ophthalmologie, Fach/Anatomie/Muskel]
 title: M. rectus lateralis
 ---
 ##### M. rectus lateralis

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Laboratoriumsmedizin]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Labor]
 title: BGA
 ---
 ### Blutgasanalyse / BGA

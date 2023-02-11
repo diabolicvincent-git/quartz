@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Allgemeinmedizin, Art/Pathologie]
 title: Halsschmerzen
 ---
 - **Erreger**

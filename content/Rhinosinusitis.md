@@ -5,7 +5,7 @@ title: Rhinosinusitis
 > *[[Sinusitis]]* wird oft von *[[Rhinitis]]* begleitet
 
 ## Ätiologie
-- **Erreger**:: i.d.R. [[Viren]] (z.B. Rhino-, Corona-, Influenzaviren), selten mit oft schwererem Verlauf [[Bakterien]] (Pneumococcen, [[H. influenzae]])
+- **Erreger**:: i.d.R. [[Viren]] (z.B. Rhino-, Corona-, Influenzaviren), selten mit oft schwererem Verlauf [[Bakterien]] (Pneumococcen, [[Haemophilus influenzae]])
 - **Risikofaktoren**
 	- **[[Rhinitis]]**:: Fortleitung der Erreger aus Nasenhöhle in [[Nasennebenhöhlen]]
 	- **Dentogener Effekt** → v.a. [[Sinus maxillaris]]

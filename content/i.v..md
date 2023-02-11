@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00]
+tags: [Modul/m09, Fach/Pharmakologie]
 title: i.v.
 ---
 ### intravenös / i.v.

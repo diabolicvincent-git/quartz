@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08]
+tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie]
 title: Sauerstoffbindungskurve
 ---
 ### Sauerstoffbindungskurve

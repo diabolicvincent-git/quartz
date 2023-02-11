@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02]
+tags: [Modul/m02, Fach/Biochemie, Fach/Labor, Fach/Genetik]
 title: Sequenzierung
 ---
 

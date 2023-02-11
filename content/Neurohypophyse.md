@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m15, Modul/m22]
+tags: [Modul/m15, Modul/m22, Fach/Endokrinologie]
 title: Neurohypophyse
 ---
-### Neurohypophyse
 > **[[Hypophyse]]**, eigentlich Teil des [[Diencephalon]]
 - **Funktion**:: Sekretion im [[Hypothalamus]] produzierter [[Hormon]]e
 	- [[ADH]]

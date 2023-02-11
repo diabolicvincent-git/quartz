@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m08]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Anatomie]
 title: Gefäße
 ---
-#### Gefäße
 - **[[Arterien]]**
 - **[[Venen]]**
 - ([[Lymphgefäße]])

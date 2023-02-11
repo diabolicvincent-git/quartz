@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m17, Fach/Infektiologie, Fach/Laboratoriumsmedizin, Art/Intervention, Fach/Biochemie/Molekül]
+tags: [Modul/m08, Modul/m17, Fach/Infektiologie, Fach/Labor, Art/Intervention, Fach/Biochemie/Molekül]
 title: Akute-Phase-Proteine
 ---
 > (Abstract::[[Proteine]], deren Konzentration sich bei [[Entzündung]] um >25 % verändert (positiv/negativ))

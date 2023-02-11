@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Nephrologie, Fach/Chirurgie, Fach/Urologie]
 title: Nephrektomie
 ---
-### Nephrektomie
 - **Indikation**:: [[Nierenzell-Ca]]
 - **Verfahren** 
 	- Radikale Organresektion

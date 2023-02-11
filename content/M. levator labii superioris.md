@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. levator labii superioris
 ---
 ##### M. levator labii superioris

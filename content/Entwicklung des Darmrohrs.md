@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Embryologie]
 title: Entwicklung des Darmrohrs
 ---
 

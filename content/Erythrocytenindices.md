@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Fach/Hämatologie, Fach/Laboratoriumsmedizin]
+tags: [Modul/m08, Fach/Hämatologie, Fach/Labor]
 title: Erythrocytenindices
 ---
 ### Erythrocytenindices

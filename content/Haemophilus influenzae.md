@@ -1,9 +1,8 @@
 ---
-tags: [Modul/m18]
-title: H. influenzae
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
+title: Haemophilus influenzae
 ---
-### Haemophilus influenzae
-> [[gramnegativ]] > Stäbchen > [[H. influenzae]]
+> [[gramnegativ]] > Stäbchen > [[Haemophilus influenzae]]
 
 - **Übertragung**:: Tröpfcheninfektion
 - **Erkrankung**:: Otitis, [[Sinusitis]], [[Bronchitis]], [[Pneumonie]], [[Konjunktivitis]], [[Meningitis]], [[Sepsis]], [[Epiglottitis]]

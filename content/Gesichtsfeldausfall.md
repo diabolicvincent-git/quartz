@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m16]
+tags: [Modul/m16, Fach/Ophthalmologie, Fach/Neurologie, Art/Pathologie]
 title: Gesichtsfeldausfall
 ---
 ### Gesichtsfeldausfall / Skotom

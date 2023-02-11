@@ -6,7 +6,7 @@ title: Otitis media
 - **Epidemiologie**:: Prävalenz 60% der Kinder bis 6. LJ
 - **Ätiologie**
 	- *[[Viren]]-[[Bakterien]]-Mischinfektion (70%)*
-	- *Häufige [[Bakterien]]:* ==[[Pneumokokken]]==, [[H. influenzae]], Moraxella catarrhalis
+	- *Häufige [[Bakterien]]:* ==[[Pneumokokken]]==, [[Haemophilus influenzae]], Moraxella catarrhalis
 - **Symptome**
 	- Akute heftige Ohrenschmerzen, [[Fieber]], [[AZ]]↓, [[Hörstörung]], [[Schwindel]]
 	- Falls Trommelfellperforation → Otorrhoe, schlagartige Besserung der Ohrenschmerzen

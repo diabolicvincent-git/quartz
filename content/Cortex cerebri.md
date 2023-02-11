@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Wichtig]
 title: Cortex cerebri
 ---
-> #Wichtig Prinzip: Alles, was aus dem Cortex rausgeht ist exzitatorisch und [[Glutamat]]
+> Prinzip: Alles, was aus dem Cortex rausgeht ist exzitatorisch und [[Glutamat]]
 
 ### [[Verschaltungsprinzipien]]
 - **Primäre Cortexfelder**:: Interpretationsfreie Sinneswahrnehmung (Sensorik) bzw. direkte Ansteuerung der Willkürmotorik

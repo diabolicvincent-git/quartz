@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m13]
+tags: [Modul/m13, Fach/Pneumologie]
 title: Lungengrenzen
 ---
-## Lungengrenzen
 
 - MCL: 6. Rippe
 - VAL: 7. Rippe

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Modul/m19, Art/Pathologie]
+tags: [Modul/m14, Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Nephrologie, Fach/Urologie]
 title: Nierenzell-Ca
 ---
 ### Nierenzellkarzinom

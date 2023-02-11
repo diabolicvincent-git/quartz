@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m09, Fach/Dermatologie, Fach/Infektiologie]
 title: Parasiten und Pilze der Haut
 ---
 - **Mykologie**:: Lehre von humanpathogenen Pilzen
@@ -45,5 +46,3 @@ Tinea capitis, corporis, inguinalis, pedis, XXX (?)
     4. Molekulare Diagnostik ([[PCR]])
 
 ## Strategien zur [[Prävention]] von Pilz- ([[Dermatophyten]]) und Parasiteninfektionen (Läuse, Milben) der Haut aufzählen
-
-#Modul/m09

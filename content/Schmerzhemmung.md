@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20]
+tags: [Modul/m20, Fach/Neurologie, Fach/Physiologie, Fach/Anästhesie]
 title: Schmerzhemmung
 ---
 ### Schmerzhemmung

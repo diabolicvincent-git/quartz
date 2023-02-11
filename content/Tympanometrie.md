@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO]
 title: Tympanometrie
 ---
 - **Durchführung**:: Äußerer Gehörgang per Sonde luftdicht abgeschlossen, bei verschiedenen Drücken Messung des vom [[Trommelfell]] reflektierten Schalls → Tympanogramm

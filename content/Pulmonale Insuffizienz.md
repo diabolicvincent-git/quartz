@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m13, Fach/Pneumologie]
 title: Pulmonale Insuffizienz
 ---
 
@@ -14,5 +15,3 @@ Ventilations-Perfusions-Mismatch
 - Dysfunktion der hypoxischen [[Vasokonstriktion]] → Hypoxämie ("Shunt [[Perfusion]]")
 
 **Therapie**:: Sauerstoffangebot erhöhen, Sekretclearance
-
-#Modul/m13

@@ -1,5 +1,6 @@
 ---
-title: Gynaekologie
+tags: [Fach/Gynäkologie]
+title: Gynäkologie
 ---
 
 - [[Gynäkologische Infektionen]]

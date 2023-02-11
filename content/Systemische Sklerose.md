@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Rheumatologie]
 title: Systemische Sklerose
 ---
 - Fibrosierung von Haut und inneren Organen, [[Pulmonale Hypertonie]] und [[Lungenfibrose]] als Spätfolge 

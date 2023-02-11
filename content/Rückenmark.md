@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Modul/m10]
+tags: [Modul/m15, Modul/m10, Fach/Neurologie, Fach/Anatomie]
 title: Rückenmark
 ---
 #### Rückenmark 

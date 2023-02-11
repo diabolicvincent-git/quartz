@@ -1,9 +1,8 @@
 ---
-tags: [Modul/m05, Modul/m15]
+tags: [Modul/m05, Modul/m15, Fach/Neurologie, Fach/Histologie]
 title: Gliazellen
 ---
-### Gliazellen / Supportzellen
-> Grundgerüst und [[Stoffwechsel]] für [[Neuron]]
+> Supportzellen. Grundgerüst und [[Stoffwechsel]] für [[Neuron]]
 - **[[PNS]]**
 	- **[[Schwann-Zellen]]**:: Myelinisierung
 	- **Mantel-Zellen / Satellitenzellen**:: [[Stoffwechsel]]; in [[Spinalganglien]]

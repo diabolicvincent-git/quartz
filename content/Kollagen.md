@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m05]
+tags: [Modul/m05, Fach/Histologie, Fach/Biochemie]
 title: Kollagen
 ---
-### Kollagen
 > Hauptbestandteil der [[EZM]], von Fibroblasten sezerniert
 - **Aufbau**:: [[Proteine]] mit repetitiver [[AS]]-Sequenz ==(Gly-X-Y)==
 - **Kollagentypen**

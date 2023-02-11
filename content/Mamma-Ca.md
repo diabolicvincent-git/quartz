@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19, Art/Pathologie]
+tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Gynäkologie]
 title: Mamma-Ca
 ---
 ### Mammakarzinom / Brustkrebs

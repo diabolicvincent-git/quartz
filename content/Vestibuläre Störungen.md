@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m16]
+tags: [Modul/m16, Fach/HNO, Fach/Neurologie, Art/Pathologie]
 title: Vestibuläre Störungen
 ---
 ## Periphere vestibuläre Störung

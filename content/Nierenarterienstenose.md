@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie]
 title: Nierenarterienstenose
 ---
-### Nierenarterienstenose
 > Nierenarterienstenose → [[Renale Perfusion]]↓ → [[RAAS]]↑ → sekundärer [[Hyperaldosteronismus]]
 - **Einteilung**
 	- Fibromuskuläre Nierenarterienstenose

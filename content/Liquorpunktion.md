@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15]
+tags: [Modul/m15, Fach/Neurologie, Art/Intervention/Diagnostik]
 title: Liquorpunktion
 ---
 ### Liquorpunktion / Lumbalpunktion

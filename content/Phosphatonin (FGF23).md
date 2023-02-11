@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m14, Fach/Biochemie]
 title: Phosphatonin (FGF23)
 ---
 - Aus dem [[Knochen]] freigesetzt bei hohem [[Phosphat]]- und [[Calcitriol]]-Spiegel
@@ -11,5 +12,4 @@ title: Phosphatonin (FGF23)
 ### Pathologien
 - Bei X-chromosomalem Gendefekt: Vitamin-D-resistente, hypophosphatämische [[Osteomalazie]]
 - Siehe [[Hyperparathyreoidismus]]
-
-#Modul/m14 
+ 

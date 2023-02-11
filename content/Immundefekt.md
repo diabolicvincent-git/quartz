@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m17]
+tags: [Modul/m17, Fach/Rheumatologie]
 title: Immundefekt
 ---
-### Immundefekte
 - **Epidemiologie**:: Einzeln [[Seltene Erkrankungen]], in Kombination 1:1.000
 - **Ätiologie**
 	- **Angeboren**:: z.B. [[Fanconi-Anämie]], [[Selektiver IgA-Mangel]], [[Wiskott-Aldrich-Syndrom]], [[Ataxia teleangiectatica]], [[Di-George-Syndrom]]

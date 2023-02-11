@@ -1,5 +1,5 @@
 ---
-tags: [Art/Pathologie]
+tags: [Art/Pathologie, Fach/Neurologie]
 title: TLOC
 ---
 ### Transient loss of consciousness / TLOC

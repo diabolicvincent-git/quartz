@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26]
+tags: [Modul/m26, Fach/Embryologie, Fach/Chirurgie, Fach/Pädiatrie]
 title: Ösophagusatresie
 ---
 ### Ösophagusatresie

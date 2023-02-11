@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Art/Intervention]
+tags: [Modul/m20, Art/Intervention, Fach/Allgemeinmedizin]
 title: Red Flags
 ---
 ### Red Flags

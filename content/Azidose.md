@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Nephrologie, Fach/Laboratoriumsmedizin]
+tags: [Modul/m13, Fach/Nephrologie, Fach/Labor]
 title: Azidose
 ---
 ## Respiratorische Azidose

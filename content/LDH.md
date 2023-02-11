@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02, Fach/Biochemie, Fach/Laboratoriumsmedizin]
+tags: [Modul/m02, Fach/Biochemie, Fach/Labor]
 title: LDH
 ---
 ### Lactatdehydrogenase / LDH

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Histologie]
 title: Nierentubuli
 ---
-#### Nierentubuli 
 - **[[Proximaler Tubulus]]**
 	- Pars convoluta
 	- Pars recta

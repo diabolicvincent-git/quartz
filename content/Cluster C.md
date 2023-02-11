@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Psychiatrie]
 title: Cluster C
 ---
 > (Abstract::**Ängstlich, Vermeidend, Unsicher.**)

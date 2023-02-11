@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00]
+tags: [Modul/m17, Fach/Genetik, Fach/Pädiatrie]
 title: Neugeborenenscreening
 ---
 ### Neugeborenenscreening 

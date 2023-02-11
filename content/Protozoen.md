@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Parasiten]
 title: Protozoen
 ---
-### Protozoen
 > [[Parasiten]]; einzellige [[Eukaryonten]]
 - **Vorkommen**:: *Trophozellen* ([[vegetative]] Form) oder *Zysten* (Dauerform)
 - **Vermehrung**:: Asexuelle Teilung

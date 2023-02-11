@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Modul/m14, Fach/Nephrologie]
 title: Glomerulonephritis
 ---
 > **Rapid-progressive Glomerulonephritis (RPGN)**:: Sehr seltene, rasch-destruktive Nierenerkrankung
@@ -50,5 +50,4 @@ title: Glomerulonephritis
 
 ![[Nephritis]]
 ![[Nephrotisches Syndrom]]
-
-#Modul/m14 
+ 

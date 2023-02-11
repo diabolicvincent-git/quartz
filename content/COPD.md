@@ -23,7 +23,7 @@ title: COPD
 
 ![[Untitled 2 10.png]]
 
-- **Exazerbation** zu 70% [[Infektionen]] (oft [[H. influenzae]], [[Pneumokokken]], [[Viren]]) und zu 30% nicht-infektiös ([[Herzinsuffizienz]], Embolie, [[Pneumonie]])
+- **Exazerbation** zu 70% [[Infektionen]] (oft [[Haemophilus influenzae]], [[Pneumokokken]], [[Viren]]) und zu 30% nicht-infektiös ([[Herzinsuffizienz]], Embolie, [[Pneumonie]])
 
 
 ## Diagnostik

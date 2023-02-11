@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22]
+tags: [Modul/m22, Fach/Gynäkologie]
 title: Schwangerschaftstest
 ---
 ### Schwangerschaftstest

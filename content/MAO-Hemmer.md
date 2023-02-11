@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20]
+tags: [Modul/m20, Fach/Psychiatrie, Fach/Pharmakologie/Medikament/Untergruppe]
 title: MAO-Hemmer
 ---
 ### MAO-Inhibitoren

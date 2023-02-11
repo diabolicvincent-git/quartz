@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m18]
+tags: [Modul/m03, Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: gramnegativ
 ---
-**[[Gram]]negativ**:: Rotfärbung = dünne Mureinschicht
+(Abstract::Rotfärbung nach [[Gram]] = dünne Mureinschicht)

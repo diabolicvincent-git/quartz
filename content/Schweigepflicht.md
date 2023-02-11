@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m06]
+tags: [Modul/m06, Fach/Epidemiologie]
 title: Schweigepflicht
 ---
-> (Abstract::)
 
 - **Geltungsbereich**:: Gegenüber jede dritte Person (auch Angehörige)
 	- Bei <14 jährigen nicht gegenüber Sorgeberechtigten

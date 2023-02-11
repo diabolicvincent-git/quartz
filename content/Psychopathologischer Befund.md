@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Wichtig]
+tags: [Modul/m20, Wichtig, Fach/Psychiatrie]
 title: Psychopathologischer Befund
 ---
 ### Psychopathologischer Befund

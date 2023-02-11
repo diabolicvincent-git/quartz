@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m10, Modul/m13, Fach/Pneumologie, Fach/Anatomie]
 title: Intercostalmuskulatur
 ---
 ## Intercostalmuskulatur
@@ -14,5 +15,3 @@ title: Intercostalmuskulatur
 - **Innervation**:: Nn. intercostales (thorakale [[Spinalnerven]] Ramus anterior)
 
 ![[Untitled 15.png]]
-
-#Modul/m10 #Modul/m13

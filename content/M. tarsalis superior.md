@@ -1,4 +1,5 @@
 ---
+tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. tarsalis superior
 ---
 ##### M. tarsalis superior

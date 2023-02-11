@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m16]
+tags: [Modul/m16, Fach/Anatomie, Fach/HNO]
 title: Paukenhöhle
 ---
 ### Paukenhöhle / Cavum tympani

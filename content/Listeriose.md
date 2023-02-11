@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Listeriose
 ---
-### Listeriose
 - **Erreger**:: *Listeria monocytogenes*, grampositive Stäbchen, fakultativ anaerob
 - **Übertragung**:: Milchprodukte (trotz Kühlung), transplazentar bei [[Schwangerschaft]]
 - **Symptome**:: bei Immunkompetenten i.d.R. asymptomatisch

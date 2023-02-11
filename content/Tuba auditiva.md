@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Anatomie, Fach/HNO]
 title: Tuba auditiva
 ---
 ## Tuba auditiva

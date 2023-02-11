@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m09, Fach/Dermatologie, Fach/Neurologie, Fach/Physiologie]
 title: Mechanosensorik
 ---
 
@@ -57,5 +58,3 @@ Propriozeption|"Muskelspindeln, Sehnenorgane"|Depolarisation|primär
 
 ![[Untitled 3 9.png]]
 
-
-#Modul/m09

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18]
+tags: [Modul/m18, Fach/Labor, Fach/Infektiologie]
 title: Entzündungsparameter
 ---
 ### Entzündungsparameter

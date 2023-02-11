@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Art/Intervention]
+tags: [Modul/m01, Art/Intervention, Fach/Allgemeinmedizin]
 title: Normalbefund
 ---
 - **Ersteindruck**

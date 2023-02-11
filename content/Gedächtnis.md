@@ -1,4 +1,5 @@
 ---
+tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Gedächtnis
 ---
 ### Sensorisches Gedächtnis
@@ -33,4 +34,3 @@ Unbewusstes Gedächtnis in ==[[Basalganglien]]==, sensomotorische Systeme (u.a. 
 - **REM-[[Schlaf]] & Wachzustand**:: Besonders hohe [[ACh]]-Konzentration → Konsolidierung unterbunden; [[Langzeitpotenzierung]] ([[Neuroplastizität]]) hippocampaler [[Neuron]] möglich
 - **Tiefschlaf**:: [[ACh]]-Konzentration sinkt stark → Pyramidenzellen nicht mehr intrahippocampal synchronisiert; Weiterleitung/Konsolidierung zum [[Cortex cerebri]] & [[Neocortex]] möglich
 
-#Modul/m15 

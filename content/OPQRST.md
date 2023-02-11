@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m00, Art/Intervention]
+tags: [Modul/m20, Art/Intervention, Fach/Allgemeinmedizin]
 title: OPQRST
 ---
-### OPQRST
 > [[Schmerz]]-[[Anamnese]]
 - **==O==nset**
 - **==P==rovocation/Palliation**

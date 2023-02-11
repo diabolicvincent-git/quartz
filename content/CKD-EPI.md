@@ -1,5 +1,5 @@
 ---
-tags: [Art/Intervention]
+tags: [Art/Intervention, Fach/Nephrologie]
 title: CKD-EPI
 ---
 - **Faktoren**

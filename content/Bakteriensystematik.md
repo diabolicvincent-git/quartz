@@ -18,7 +18,7 @@ title: Bakteriensystematik
 	- **Gramnegative Kokken**
 		- **[[Neisserien]]**:: *[[Meningokokken]]*, *N. gonorrhoeae*
 	- **Gramnegative kokkoide Stäbchen**
-		- **Haemophilus**:: *[[H. influenzae]]*
+		- **Haemophilus**:: *[[Haemophilus influenzae]]*
 		- **Bordetellen**:: *B. pertussis*
 	- **Gramnegative Stäbchen**
 		- **[[Enterobakterien]]**:: *[[E. coli]]*, *Klebsiella pneumoniae, Salmonella typhi, Yersinia pestis*
@@ -47,7 +47,7 @@ title: Bakteriensystematik
 
 
 
-		- **Haemophilus**:: *[[H. influenzae]]*
+		- **Haemophilus**:: *[[Haemophilus influenzae]]*
 		- **Bordetellen**:: *B. pertussis*
 	- **Gramnegative Stäbchen**
 		- **[[Enterobakterien]]**:: *[[E. coli]]*, *Klebsiella pneumoniae, Salmonella typhi, Yersinia pestis*

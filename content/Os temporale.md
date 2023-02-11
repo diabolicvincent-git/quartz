@@ -1,4 +1,5 @@
 ---
+tags: []
 title: Os temporale
 ---
 Schläfenbein

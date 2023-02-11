@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Endokrinologie, Fach/Anatomie]
 title: Nebenniere
 ---
 #### Nebenniere / Gl. adrenalis / Gl. suprarenalis

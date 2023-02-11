@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m19]
+tags: [Modul/m08, Modul/m19, Fach/Hämatologie]
 title: Neutropenie
 ---
 ### Neutropenie
