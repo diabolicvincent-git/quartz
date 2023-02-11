@@ -1,7 +1,6 @@
 ---
 title: QT-Zeit-verlängernde Medikamente
 ---
-### QT-Zeit-verlängernde Medikamente
 - **[[Antiarrhythmika]]**:: Sotalol, [[aMIOdaron]], Chinidin, Disopyramid, Ibutilide
 - **[[Antibiotika]]**:: [[Makrolide]], [[Fluorchinolone]]
 - **[[Antimykotika]]**:: Azole
@@ -12,12 +11,11 @@ title: QT-Zeit-verlängernde Medikamente
 - **Triptane**
 - **[[Parkinson-Syndrom]]-Medikamente**
 - **[[Malaria]]-Medikamente**
-- **Sonstige**
-	- **[[Immunsuppressiva]]**:: [[Tacrolimus]]
-	- **Gastroenterologie**:: MCP, Domperidon, Ondansetron
-	- **[[HIV]]**:: Pentamidin
-	- **[[Diuretika]]**:: Indapamid
-	- **Urulogika**
-	- **[[Antikonvulsiva]]**:: [[Valproat]]
-	- **Antidementiva**
-	- **[[ITS]]**:: Sympathomimetika ([[Noradrenalin]], [[DOBUTamin]])
+- **[[Immunsuppressiva]]**:: [[Tacrolimus]]
+- **Gastroenterologie**:: MCP, Domperidon, Ondansetron
+- **[[HIV]]-Medikamente**:: Pentamidin
+- **[[Diuretika]]**:: Indapamid
+- **Urulogika**
+- **[[Antikonvulsiva]]**:: [[Valproat]]
+- **Antidementiva**
+- **[[ITS]]**:: Sympathomimetika ([[Noradrenalin]], [[DOBUTamin]])
