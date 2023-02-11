@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Endokrinologie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Adenohypophyse
 ---
-(Abstract::[[endokrin]]er Teil der [[Hypophyse]] mit Portalkreislauf → ==[[Hypothalamus-Hypophysen-Achse]]==)
+> (Abstract::[[endokrin]]er Teil der [[Hypophyse]] mit Portalkreislauf → ==[[Hypothalamus-Hypophysen-Achse]]==)
 - **Funktion**:: [[Hormon]]produktion (*[[Hypothalamus-Hypophysen-Achse]]*)
 - **Aufbau**
 	- **==Hypophysenvorderlappen==**

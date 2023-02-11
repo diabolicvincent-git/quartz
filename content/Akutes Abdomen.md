@@ -2,7 +2,7 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Notfallmedizin, Art/Pathologie]
 title: Akutes Abdomen
 ---
-(Abstract::Akute [[Bauchschmerzen]] mit dringender Behandlungsbedürftigkeit)
+> (Abstract::Akute [[Bauchschmerzen]] mit dringender Behandlungsbedürftigkeit)
 - **Symptome**:: Plötzliche, stärkste [[Bauchschmerzen]], Abwehrspannung, ggf. Begleitsymptome
 	- *Darmfunktion↓:* [[Diarrhoe]], [[Obstipation]], [[Meteorismus]]
 	- *Vegetative Reaktion:* [[Übelkeit]], [[Erbrechen]], [[AZ]]↓, [[Schock]]

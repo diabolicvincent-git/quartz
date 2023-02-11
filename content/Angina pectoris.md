@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Angina pectoris
 ---
-(Abstract::Anfallsartige, reversible Schmerzen infolge Myokardischämie bei [[KHK]])
+> (Abstract::Anfallsartige, reversible Schmerzen infolge Myokardischämie bei [[KHK]])
 - **Pathophysiologie**:: [[O2]]-Angebot↓ aufgrund verschiedener Genese
 	- Stenosierende [[Atherosklerose]] >75%
 	- Abnahme der [[Diastole]]-Dauer bei [[Tachykardie]][^1]

@@ -11,7 +11,6 @@ title: Depression
 - **Pathophysiologie**:: Monoamine [[Transmitter]]↓ 
 - **Kriterien** alle von A + *leicht* (2B+2C), *mittel* (2B+3C), *schwer* (3B+4C)
 	- **A Voraussetzungen**:: >2 Wochen, keine [[Manie]], keine Organische Störung
-<!--SR:!2023-02-04,24,270-->
 	- **B Leitsymptome**:: ==Gedrückte Stimmung, Interessensverlust, Antrieb↓==
 	- **C Sonst. Symptome**:: ==[[Schlafstörung]]==, Konzentration↓, Selbstwertgefühl↓, Schuldgefühle, ==Appetit↓==, Selbstverletzung, [[Suizidalität]]
 	- **Zzgl. Somatisches Syndrom**:: Freudlosigkeit, Früherwachen, ==Morgentief==, Agitiertheit (DD [[ADHS]]), [[Gewichtsverlust]], Libido↓, Denkhemmung

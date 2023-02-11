@@ -7,7 +7,7 @@ title: Bildgebung Niere
 [[MRT]]
 [[Sonographie]]
 
-
+---
 
 [[Niere]] und [[Harnblase]] sonographisch aufsuchen und den Befund dokumentieren können.
 

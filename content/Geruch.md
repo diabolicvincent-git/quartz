@@ -15,7 +15,6 @@ title: Geruch
 
 ### Olfaktorischer Glomerulus
 - **Populationskodierung / Identifikation**:: Code beruht auf *Kombination der [[Neuron]]*, nicht einzelner
-<!--SR:!2023-01-05,1,230-->
 - **Assoziation**:: Zentraler im [[Cortex cerebri]], z.B. Erinnerungen
 
 ### Kaskade

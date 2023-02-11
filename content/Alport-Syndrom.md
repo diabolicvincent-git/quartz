@@ -3,8 +3,7 @@ tags: [Modul/m05, Fach/Genetik, Art/Pathologie, Fach/Nephrologie]
 title: Alport-Syndrom
 ---
 **Gruppe**:: [[Genetische Erkrankungen]]
-
-(Abstract::**[[Mutation]] [[Kollagen]]-IV ([[Glomeruläre Basalmembran]])** → [[CKD]], [[Schallempfindungsstörung]], [[Katarakt]])
+> (Abstract::**[[Mutation]] [[Kollagen]]-IV ([[Glomeruläre Basalmembran]])** → [[CKD]], [[Schallempfindungsstörung]], [[Katarakt]])
 - **Epidemiologie**:: 1% heterozygot (Teilbild), homozygotes Vollbild selten
 - **Symptome**:: [[Hämaturie]], [[Proteinurie]], [[Schallempfindungsstörung]], [[Katarakt]]
 - **Diagnostik**:: [[Urindiagnostik]], Nierenbiopsie mit Elektronenmikroskopie (Verdünnung [[Glomeruläre Basalmembran]])

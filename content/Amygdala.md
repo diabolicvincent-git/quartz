@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
 title: Amygdala
 ---
-(Abstract::Telencephale Kerngruppen im vorderen [[Temporallappen]])
+> (Abstract::Telencephale Kerngruppen im vorderen [[Temporallappen]])
 - **Verschaltung mit**
 	- **[[Afferenzen]]** (via basale Kernkomplexe)
 	- [[Diencephalon]], insb. ==[[Hypothalamus]]==[^1] via *Stria terminalis*

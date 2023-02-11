@@ -22,7 +22,7 @@ title: Leberversagen
 	- **[[Labor]]** 
 		- *[[Leberwerte]]:* [[AST]] (↑↑ alkoholtoxisch), [[ALT]] (↑↑ viral/autoimmun), γGT, [[Alkalische Phosphatase]]
 		- *Lebersyntheseparameter:* [[INR]]/[[Quick]], [[Albumin]], Cholinesterase
-		- *Ursachenabhängig:* [[Vitamin B12]], [[Eisen]], [[Cu2+]], [[Thrombocyten]][^1] u.v.m.
+		- *Ursachenabhängig:* [[Vitamin B12 (Cobalamin)]], [[Eisen]], [[Cu2+]], [[Thrombocyten]][^1] u.v.m.
 	- **[[Sonographie]]/Fibroscan**:: Parenchym-Beurteilung, Perfusion, Aszites
 
 

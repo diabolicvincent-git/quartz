@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Anatomie, Fach/Gynäkologie, Fach/Urologie]
 title: Beckenboden
 ---
-### Beckenboden
 - **Funktion**:: Muskulärer Verschluss des [[Becken]], ==Kontinenz==
 - **Anteile**
 	1. **Diaphragma pelvis**:: M. levator ani, M. coccygeus

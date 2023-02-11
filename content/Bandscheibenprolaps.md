@@ -2,7 +2,6 @@
 tags: [Modul/m27, Fach/Orthopädie, Fach/Neurologie]
 title: Bandscheibenprolaps
 ---
-### Bandscheibenprolaps / -vorfall
 - **Epidemiologie**
 	- Häufigkeitsgipfel 30-50 Jahre
 	- LWS > HWS > BWS

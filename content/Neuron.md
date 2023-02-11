@@ -21,7 +21,6 @@ title: Neuron
 	- **Motoneurone**:: [[Efferenzen]] → motorische Zielorgane
 	- **Projektionsneurone**:: Langstreckenleitung zw. [[ZNS]]-Arealen
 	- **Interneuron**:: Kurze, multipolare Verbindungen im [[ZNS]]
-<!--SR:!2023-01-08,4,270-->
 	- **Neuroendokrine Zellen**:: Hormonsynthese/-[[Sekretion]]
 
 ## [[Leitungsgeschwindigkeit]]

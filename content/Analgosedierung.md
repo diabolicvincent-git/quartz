@@ -2,7 +2,7 @@
 tags: [Modul/m20, Art/Intervention, Fach/Anästhesie]
 title: Analgosedierung
 ---
-(Abstract::[[Analgetika]] + Narkotika → Toleranzerhöhung, Spontanatmung erhalten)
+> (Abstract::[[Analgetika]] + Narkotika → Toleranzerhöhung, Spontanatmung erhalten)
 - **Wirkstoffe**
 	- [[Propofol]]
 	- [[Sevofluran]]

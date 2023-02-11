@@ -2,7 +2,7 @@
 tags: [Modul/m09, Fach/Dermatologie, Fach/Notfallmedizin/SOP, Art/Pathologie]
 title: Anaphylaxie
 ---
-(Abstract::Akute, lebensgefährliche [[Allergie]])
+> (Abstract::Akute, lebensgefährliche [[Allergie]])
 - **Ätiologie**:: Nahrungsmittel (v.a. Kinder), Insektengift, Medikamente
 - **Pathophysiologie**:: [[Allergie]], [[Hypersensibilitätstypen]] Typ 1 ([[IgE]]-vermittelt)
 - **Stadien**

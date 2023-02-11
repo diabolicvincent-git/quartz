@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
 title: Beatmung
 ---
-#### Beatmung
 - **Beatmungsformen**
 	- **Assistierte Beatmung**
 		- [[CPAP]]
@@ -13,22 +12,16 @@ title: Beatmung
 		- [[Druckkontrollierte Beatmung]]
 		- [[Volumenkontrollierte Beatmung]]
 - **[[Beatmungsparameter]]**
+- **Indikation**:: [[Ventilatorische Insuffizienz]], [[Pulmonale Insuffizienz]]
 
 
 ---
-- ![[Beatmungsparameter]]
+- [[Beatmungsparameter]]
 ### Beatmungsformen
 
 
 
 ### Indikation der Beatmung
-
-![[Ventilatorische Insuffizienz]]
-
-
-
-![[Pulmonale Insuffizienz]]
-
 
 ![[Untitled 74.png]]
 
@@ -44,7 +37,7 @@ title: Beatmung
         - MV
         - Tidalvolumen
 
-#Modul/m13
+
 
 ## Praxis
 **Druckkontrollierte [[Beatmung]]**:: Inspirationsdruck + [[Compliance]] = Tidalvolumen

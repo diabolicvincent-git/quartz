@@ -21,4 +21,3 @@ title: QT-Zeit-verlängernde Medikamente
 	- **[[Antikonvulsiva]]**:: [[Valproat]]
 	- **Antidementiva**
 	- **[[ITS]]**:: Sympathomimetika ([[Noradrenalin]], [[DOBUTamin]])
-<!--SR:!2023-01-07,3,250-->

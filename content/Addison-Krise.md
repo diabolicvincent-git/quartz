@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Addison-Krise
 ---
-(Abstract::**Akute [[NNR-Insuffizienz]]** → Hydrocortison hochdosiert [[i.v.]])
+> (Abstract::**Akute [[NNR-Insuffizienz]]** → Hydrocortison hochdosiert [[i.v.]])
 - **Ätiologie**
 	- *Bedarf↑* (z.B. [[Infektionen]], [[Stress]], [[Trauma]])
 	- *Abruptes Absetzen von [[Glucocorticoide]]n*

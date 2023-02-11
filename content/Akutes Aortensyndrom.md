@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP]
 title: Akutes Aortensyndrom
 ---
-(Abstract::**Notfall mit Störung der [[Aorta]]-Gefäßintegrität**. [[Aortendissektion]], Aortenverletzung, Intramurales Hämatom, Penetrierendes Aortenulcus.)
+> (Abstract::**Notfall mit Störung der [[Aorta]]-Gefäßintegrität**. [[Aortendissektion]], Aortenverletzung, Intramurales Hämatom, Penetrierendes Aortenulcus.)
 - **Einteilung**
 	- **==[[Aortendissektion]]==**:: Wandschicht-Auftrennung → *zweites Lumen*
 	- **Aortenverletzung** (traumatisch/iatrogen)

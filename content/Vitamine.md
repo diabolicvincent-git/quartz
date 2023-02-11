@@ -23,5 +23,5 @@ SORT Löslichkeit ASC
 | **[[Vitamin B5]]**    | Pantothensäure, Coenzym A  | Aktivierung von Fettsäuren, Cofaktor für Fettsäuresynthase                         | selten, unspezifisch                                      |
 | **[[Vitamin B6]]**    | Pyridoxin, PALP            | Cofaktor div. Enzyme                                                               | Dermatitis, [[Depression]], Myalgie                       |
 | **[[Folsäure]] / B9** | THF                        | Cofaktor für C1-Übertragungen                                                      | Megaloblastäre Anämie, [[Schwangerschaft]]: Neuralrohrdefekte |
-| **[[Vitamin B12]]**   | Cobalamin                  | Cofaktor für Remethylierungen (mit B9)                                             | Perniziöse Anämie, Funikuläre Myelose                     |
+| **[[Vitamin B12 (Cobalamin)]]**   | Cobalamin                  | Cofaktor für Remethylierungen (mit B9)                                             | Perniziöse Anämie, Funikuläre Myelose                     |
 | **[[Vitamin C]]**     | Ascorbinsäure              | Antioxidans, Cofaktor für Hydroxylierung, Eisenaufnahme↑                           | Skorbut                                                          |

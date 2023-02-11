@@ -197,7 +197,6 @@ title: IMPP-Arzneistoffe
 
 ### Klassische [[Cytostatika]]
 - **Alkylanzien**:: Cyclophosphamid, Temozolomid
-<!--SR:!2023-01-05,1,228-->
 - **Antimetabolite**
 	- **Folsäure-Analoga**:: [[Methotrexat]]
 	- **Purin-Analoga**:: 6-Mercaptopurin, [[Azathioprin]]
@@ -305,7 +304,6 @@ title: IMPP-Arzneistoffe
 - **[[EPO]]-R-Agonisten**:: Epoetin
 - **G-CSF-R-Agonisten**:: Filgrastim
 - **[[VEGF]]-Inhibitoren**:: Aflibercept, Ranibizumab
-<!--SR:!2023-01-05,1,230-->
 
 ### Wasser- und Elektrolythaushalt
 - **Alkali-Ionen**:: [[Lithium]]

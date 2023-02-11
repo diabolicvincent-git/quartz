@@ -24,7 +24,7 @@ title: Magensaftsekretion
     - Pepsin A ([[pH]] 1,8 opt.) → Abbau von Proteinen
     - Gastricin (= Pepsin C; [[pH]] 3,0 opt.) → Abbau von Casein der Milch
     - Magenlipase ([[pH]] 4-7 opt.) → Fettverdauung nur beim Säugling
-4. **[[Sekretion]]**:: [[Wasser]], HCl, [[Enzyme]], Mucus, [[HCO3-]] (Pufferfunktion), Intrinsic Factor ([[Vitamin B12]]-Resorption)
+4. **[[Sekretion]]**:: [[Wasser]], HCl, [[Enzyme]], Mucus, [[HCO3-]] (Pufferfunktion), Intrinsic Factor ([[Vitamin B12 (Cobalamin)]]-Resorption)
 5. **Kaum Resorption**:: [[Lipide]], Alkohole durch Lipidphase der [[Zellmembran]]
 
 ## Epitheliale Zelltypen und ihre Funktionen
@@ -33,7 +33,7 @@ title: Magensaftsekretion
     - Mucus, [[HCO3-]], [[Cl-]] → Schutz, Gleitfähigkeit, Diffusionsbarriere für H+, Abpufferung von H+
 - **Belegzellen = Parietalzellen**
     - HCl → Desinfektion, Aktivierung von Pepsinogen, [[Denaturierung]]
-    - Intrinsic Factor → Komplexbildung mit [[Vitamin B12]] im [[Duodenum]] (Abbauschutz, ermöglicht endocytotische Aufnahme im [[Ileum]])
+    - Intrinsic Factor → Komplexbildung mit [[Vitamin B12 (Cobalamin)]] im [[Duodenum]] (Abbauschutz, ermöglicht endocytotische Aufnahme im [[Ileum]])
 - **Hauptzellen**
     - Pepsinogen → Proteinspaltung in je 45 [[AS]]
     - Magenlipase → TAG-Spaltung zu Diacylglyceriden und freien FS

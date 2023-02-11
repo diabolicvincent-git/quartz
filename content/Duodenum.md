@@ -6,7 +6,7 @@ title: Duodenum
 - **Funktion**
 	- Neutralisation des Magensaftes (Pankreassekret, [[Galle]], duodenale *Brunner-Drüsen*)
 	- Resorption der Nahrung
-		- Bindung von [[Vitamin B12]] an Intrinsic Factor aus dem [[Magen]] zur späteren Aufnahme im [[Ileum]]
+		- Bindung von [[Vitamin B12 (Cobalamin)]] an Intrinsic Factor aus dem [[Magen]] zur späteren Aufnahme im [[Ileum]]
 ## Aufbau
 ### Pars superior
 - **Lage**:: [[intraperitoneal]]

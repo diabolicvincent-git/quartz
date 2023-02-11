@@ -49,7 +49,7 @@ title: Thrombose
 	- [[Sepsis]], systemische [[Infektionen]]
 - **Medikamente**:: [[HIT]]
 - **Metabolisch**:: [[Hyperhomocysteinämie]] aus [[Methionin]]-[[Stoffwechsel]]
-	- Akkumulation bei [[Vitamin B12]]-/[[Folsäure]]-Mangel oder MTHFR-Variante oder sehr seltene Cystathionin-β-Synthase-Defizienz
+	- Akkumulation bei [[Vitamin B12 (Cobalamin)]]-/[[Folsäure]]-Mangel oder MTHFR-Variante oder sehr seltene Cystathionin-β-Synthase-Defizienz
 	- Fehlmessung bei langer Proben-Standzeit (Freisetzung aus Zellen)
 
 ## Pathophysiologie

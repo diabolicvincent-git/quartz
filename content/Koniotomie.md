@@ -2,7 +2,7 @@
 tags: [Modul/m29, Fach/Anästhesie, Fach/Notfallmedizin, Art/Intervention]
 title: Koniotomie
 ---
-(Abstract::Durchtrennung [[Lig. cricothyroideum medianum]] als Ultima Ratio im [[Atemwegsmanagement]])
+> (Abstract::Durchtrennung [[Lig. cricothyroideum medianum]] als Ultima Ratio im [[Atemwegsmanagement]])
 
 
 ## SOP

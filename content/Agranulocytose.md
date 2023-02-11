@@ -2,11 +2,11 @@
 tags: [Modul/m09, Modul/m19, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie, Fach/Notfallmedizin]
 title: Agranulocytose
 ---
-(Abstract::**Schwere [[Neutropenie]]** mit [[Granulocyten]]-Zahl <500 [[Zellen]]/μl)
+> (Abstract::**Schwere [[Neutropenie]]** mit [[Granulocyten]]-Zahl <500 [[Zellen]]/μl)
 - **Ätiologie**
 	- **[[Knochenmark]]-Dysfunktion**
 		- [[Hämatologische Neoplasien]] (Aplastische [[Anämie]], [[Myelodysplastisches Syndrom]])
-		- Vitaminmangel ([[Vitamin B12]], [[Folsäure]])
+		- Vitaminmangel ([[Vitamin B12 (Cobalamin)]], [[Folsäure]])
 	- **Zelluntergang**
 		- [[Hypersplenie-Syndrom]]
 		- [[Autoimmunität]]

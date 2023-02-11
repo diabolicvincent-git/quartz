@@ -16,7 +16,7 @@ title: Zellschädigung
 		- Oxidativer Stress ([[ROS]]): Radikal-Kettenreaktion
 		- Störung der zellulären Calcium-Homöostase
 		- Störungen im Intermediärstoffwechsel
-			- [[C1-Stoffwechsel]]: [[Vitamin B12]]- und MTHFR-abhängige Methylierungen durch SAM oder C1-Tetrahydrofolsäure ([[Folsäure]])
+			- [[C1-Stoffwechsel]]: [[Vitamin B12 (Cobalamin)]]- und MTHFR-abhängige Methylierungen durch SAM oder C1-Tetrahydrofolsäure ([[Folsäure]])
 			- [[NAD]]-Verbrauch bei vermehrter Poly-ADP-Ribosylierung von [[DNA]]-Reparaturenzymen
 			- [[Oxidativer Pentosephosphatweg]] zur Bereitstellung von NADPH2 für [[Antioxidative Schutzsysteme]]
 			- Glutathion-abhängiges Antioxidatives Schutzsystem
@@ -54,13 +54,13 @@ title: Zellschädigung
 
 ### Störungen im Intermediärstoffwechsel
 #### C1-Stoffwechsel
-- **Methylgruppen-Übertragung** durch ==S-Adenosylmethionin / SAM== ([[Vitamin B12]] abhängige Regeneration via Methylen-Tetrahydrofolat-Reduktase / MTHFR) und C1-Tetrahydrofolsäure ([[Folsäure]])
+- **Methylgruppen-Übertragung** durch ==S-Adenosylmethionin / SAM== ([[Vitamin B12 (Cobalamin)]] abhängige Regeneration via Methylen-Tetrahydrofolat-Reduktase / MTHFR) und C1-Tetrahydrofolsäure ([[Folsäure]])
 	- Ethanolamin → Cholin
 	- Guanidinoacetat → Kreatin
 	- [[Noradrenalin]] → [[Adrenalin]] ([[Katecholamine]]-Synthese)
 	- [[Biotransformation]]
 	- ==[[DNA]]-Methylierung, Histon-Methylierung==
-- **Defekte**:: Mangel an [[Folsäure]], [[Vitamin B12]] oder MTHFR-Defekt → (In-)Aktivierung von Genen → Neuralrohrdefekte (Spina bifida), Darmkrebs
+- **Defekte**:: Mangel an [[Folsäure]], [[Vitamin B12 (Cobalamin)]] oder MTHFR-Defekt → (In-)Aktivierung von Genen → Neuralrohrdefekte (Spina bifida), Darmkrebs
 #### NAD
 - NAD ist Substrat der Poly-ADP-Ribosylierung ([[Proteinmodifikation]]) vieler [[DNA-Reparatur]][[Enzyme]]
 - Doppelstrangbruch → Poly-ADP-Ribosylierung↑, NAD-Depletion, Energieverarmung)

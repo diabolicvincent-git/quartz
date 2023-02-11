@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Pädiatrie]
 title: Beckwith-Wiedemann-Syndrom
 ---
-### Beckwith-Wiedemann-Syndrom 
 - **Symptome**
 	- Initial unspezifische neonatale [[Hypoglycämie]], hohes Geburtsgewicht
 	- *Stigmata:* Typische Ohrkerbe im Ohrläppchen

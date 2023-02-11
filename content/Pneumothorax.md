@@ -2,7 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Pneumothorax
 ---
-(Abstract::Luft im Pleuraspalt, traumatisch/spontan, Komplikation [[Spannungspneumothorax]])
+> (Abstract::Luft im Pleuraspalt, traumatisch/spontan, Komplikation [[Spannungspneumothorax]])
 - **Ätiologie**:: spontan, traumatisch, iatrogen
 - **Symptome**
 	- Plötzlicher, stechender, atemabhängiger [[Brustschmerz]]

@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Biochemie, Fach/Biochemie/Transmitter]
 title: ACh
 ---
-(Abstract::**Acetylcholin**. Wichtigster [[Transmitter]] im [[PNS]].)
+> (Abstract::**Acetylcholin**. Wichtigster [[Transmitter]] im [[PNS]].)
 - **Wirkung**:: Erregend (Ausnahme: [[Herz]])
 - **[[Rezeptor]]en**
 	- ***Nicotinerge* ACh-[[Rezeptor]]**:: *Ionotrop* für [[Na+]] und [[Ca2+]] ([[vegetative]] Ganglien, motorische Endplatten)

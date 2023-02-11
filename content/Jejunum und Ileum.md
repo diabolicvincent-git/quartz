@@ -5,7 +5,7 @@ title: Jejunum und Ileum
 ### Jejunum und Ileum
 - **Funktion**:: Resorption, Aufspaltung, Durchmischung der Nahrung
 	- *[[Jejunum]]:* [[Wasser]], [[AS]], Hexosen, Wasserlösliche [[Vitamine]], [[Fettsäuren]], [[Lipide]], [[Elektrolyte]]
-	- *[[Ileum]]:* [[Vitamin B12]], [[Vitamin C]], [[Gallensäuren]]
+	- *[[Ileum]]:* [[Vitamin B12 (Cobalamin)]], [[Vitamin C]], [[Gallensäuren]]
 - **Aufbau**
 	- **Lage**:: [[intraperitoneal]]
 	- [[Jejunum]] entspringt aus [[Duodenum]] (*Flexura duodenojejunalis*)

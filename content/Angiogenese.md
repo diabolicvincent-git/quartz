@@ -2,7 +2,7 @@
 tags: [Modul/m05, Fach/Anatomie, Fach/Histologie, Fach/Physiologie]
 title: Angiogenese
 ---
-(Abstract::Entstehung neuer [[Gefäße]] aus ==*vorbestehenden [[Gefäße]]n*== durch Endothelproliferation/-migration)
+> (Abstract::Entstehung neuer [[Gefäße]] aus ==*vorbestehenden [[Gefäße]]n*== durch Endothelproliferation/-migration)
 - **Vorkommen**
 	- **Physiologisch**:: z.B. Wundheilung, [[Embryogenese]] [[Ovar]] während Zyklus, [[Uterus]], [[Plazenta]], [[Mamma]] bei [[Schwangerschaft]]
 	- **Pathologisch**:: z.B. Diabetische Retinopathie, Tumoren

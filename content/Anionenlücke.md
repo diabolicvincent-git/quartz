@@ -2,7 +2,7 @@
 tags: [Modul/m13, Modul/m14, Fach/Nephrologie, Art/Intervention, Fach/Laboratoriumsmedizin]
 title: Anionenlücke
 ---
-(Abstract::Unterscheiden, ob *Zufuhr an Säuren* oder *Mangel an Basen* ursächlich für die [[Metabolische Azidose]] ist)
+> (Abstract::Unterscheiden, ob *Zufuhr an Säuren* oder *Mangel an Basen* ursächlich für die [[Metabolische Azidose]] ist)
 - **Physiologisch**:: ∑ Kationen & ∑ Anionen im [[Blut]] gleich
 - **Messbare Ionen**:: [[Na+]], [[K+]], [[Cl-]], [[HCO3-]]
 	- Anteil messbarer Kationen ([[Na+]], [[K+]]) größer

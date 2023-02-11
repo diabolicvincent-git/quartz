@@ -8,7 +8,7 @@ title: Erythropoese
 - **Dauer**:: ca. 1 Woche (bei Bedarf beschleunigt)
 - **Ort**:: im Kindesalter in allen [[Knochen]]; im Erwachsenenalter in kurzen und platten [[Knochen]] sowie bei langen Röhrenknochen in der Epiphyse
     - **erythropoetische Nische**:: spezielle [[EZM]] (Signalfunktion), CFU binden mit Adhäsionskontakten, spezialisierte [[Makrophagen]], Fibroblasten ([[Wachstumsfaktoren]])
-- **Notwendige Substanzen**:: [[Eisen]], [[Vitamin B12]], [[Folsäure]], [[Vitamin B6]], [[Vitamin B1]], [[Vitamin B2]], [[EPO]], [[Androgene]], [[T4]], [[Vitamin C]], [[Vitamin E]]
+- **Notwendige Substanzen**:: [[Eisen]], [[Vitamin B12 (Cobalamin)]], [[Folsäure]], [[Vitamin B6]], [[Vitamin B1]], [[Vitamin B2]], [[EPO]], [[Androgene]], [[T4]], [[Vitamin C]], [[Vitamin E]]
     - Weitere spezielle Faktoren im [[Knochenmark]]: SCF, [[IL]]-3, [[IL-6]], [[IL]]-9, [[IL]]-11, [[IL]]-12, G-CSF, GM-CSF
 
 ## Reifungsstufen
@@ -19,7 +19,7 @@ title: Erythropoese
 - **Erythrocytäre Vorläuferzelle**:: Reifung im [[Knochenmark]]
     - Störung der Reifung v.a. bei Parvovirus B19 und anderen Virusinfektionen sowie bei Autoimmunreaktion
 - **Proerythroblast**:: Reifung im [[Knochenmark]]; Beginn der [[Hb]]-Synthese
-    - Störung der Reifung v.a. bei [[EPO]]- (Niereninsuff.), [[Folsäure]]-, [[Vitamin B12]]-Mangel, genet. Defekten
+    - Störung der Reifung v.a. bei [[EPO]]- (Niereninsuff.), [[Folsäure]]-, [[Vitamin B12 (Cobalamin)]]-Mangel, genet. Defekten
 - **Erythroblast**:: Reifung im [[Knochenmark]]
     - Störung der Reifung v.a. bei Eisenmangel, bei Problemen in der Globin- oder Hämsynthese
     - **Basophiler Erythroblast**

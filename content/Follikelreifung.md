@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Physiologie, Fach/Histologie]
 title: Follikelreifung
 ---
-(Abstract::**Zyklusunabhängig:** Primordialfollikel → Tertiärfollikel, **[[Menstruationszyklus]]:** → Graaf-[[Follikel]])
+> (Abstract::**Zyklusunabhängig:** Primordialfollikel → Tertiärfollikel, **[[Menstruationszyklus]]:** → Graaf-[[Follikel]])
 
 1. **Primordialfollikel**:: Oocyte mit flachem, einschichtigen [[Epithel]]
 2. **Primärvollikel**:: Oocyte mit kubischem, einschichten [[Epithel]]

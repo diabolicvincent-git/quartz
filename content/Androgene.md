@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Biochemie, Fach/Physiologie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: Androgene
 ---
-(Abstract::[[W]] [[Sexualhormone]]: [[Steroidhormone]] mit 19 C-Atomen)
+> (Abstract::[[W]] [[Sexualhormone]]: [[Steroidhormone]] mit 19 C-Atomen)
 - **Vertreter**
 	- ==**Stark wirksam**:: 5α-Dihydrotestosteron (DHT) > Testosteron==
 	- **Schwach wirksam**:: Androstendion, DHEA, DHEAS

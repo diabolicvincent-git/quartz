@@ -23,6 +23,5 @@ title: VHF
 		- **Bei [[Tachykardie]] (TAA)**:: ==[[β-Blocker]]==; alternativ [[Calciumantagonisten]] oder [[Schrittmacher]], ==[[Mg2+]]==
 		- **Bei [[Bradykardie]]**:: ==[[Atropin]]==, Orciprenalin, [[Schrittmacher]], [[Kardioversion]]
 	- **Rhythmuskontrolle**:: Elektrische [[Kardioversion]] oder Antiarrhythmika
-<!--SR:!2023-02-06,26,290-->
 
 [^1]: [[Holiday-Heart-Syndrom]]

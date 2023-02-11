@@ -1,15 +1,14 @@
 ---
 tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
-title: Vitamin B12
+title: Vitamin B12 (Cobalamin)
 ---
-### Vitamin B12 / Cobalamin 
 > **Aktive Form**:: Methylcobalamin, Adenosylcobalamin (wasserlöslich)
 - **Funktion**:: [[DNA]]-Synthese (Cofaktor bei Remethylierung, Alkylumlagerungen)
 - **Aufnahme**
 	- *Magen:* Bindung an R-Protein, Sekretion Intrinsic Factor
 	- *[[Duodenum]]:* Abspaltung R-Protein durch [[Pankreasenzyme]], Komplexierung mit ==[[Intrinsic Factor]]==
 	- *[[Ileum]]:* [[Endocytose]] von Intrinsic Factor + Vitamin B12
-	- *[[Blut]]:* Bindung an Transportprotein Transcobalamin II (=*==Holo-TC==*)
+	- *[[Blut]]:* Bindung an Transportprotein Transcobalamin II (*==Holo-TC==*)
 	- *[[Leber]]:* Speicher (2-3 Jahre)
 - **Quellen**:: Fast ausschließlich tierisch: insb. Eier, Milchprodukte, Innereien, Hefe
 - **Mangelerscheinung**:: ==Perniziöse [[Anämie]]==, ==Funikuläre Myelose==

@@ -8,7 +8,6 @@ title: Marfan-Syndrom
 - **Ätiologie**:: Autosomal-dominant, 25-40% Neumutationen, Penetranz↓
 - **Symptome**
 	- **[[Herz]]-[[Kreislauf]]**:: Klappenvizien, ==[[Aortendissektion]]==
-<!--SR:!2023-02-05,25,290-->
 	- **[[Auge]]**:: Linsenluxation, [[Glaukom]], [[Katarakt]], [[Myopie]], [[Netzhautablösung]]
 	- **Skelett**:: Hochwuchs, Arachnodaktylie, Skoliose, Hyperlaxizität der [[Gelenke]], verschmälerte Finger, Trichterbrust, Plattfüße, Luxationen
 	- **[[Lunge]]**:: Spontanpneumothorax

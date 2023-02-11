@@ -2,8 +2,7 @@
 tags: [Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
 title: Ibuprofen
 ---
-(Abstract::[[NSAR]])
-> Gruppe:: [[NSAR]], [[Nicht-Opioid-Analgetika]], [[Analgetika]]
+> (Abstract::[[NSAR]])
 - **Handelsname**:: Ibu, Imbun, Brufen, Ibuprofen, Ibuflam
 - **Applikation**:: [[p.o.]], [[supp.]]
 - **Dosis**:: 400 mg 1-1-1, max. 2.400 mg/d

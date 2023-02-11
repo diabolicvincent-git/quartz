@@ -21,4 +21,3 @@ title: Schleifendiuretika
 	- [[Anurie]]/[[Oligurie]], [[Hypovolämie]]
 	- [[Elektrolytstörungen]]: [[Hypokaliämie]], [[Hyponatriämie]]
 	- Allergie gegen Sulfonamide
-<!--SR:!2023-02-07,27,290-->

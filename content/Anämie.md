@@ -2,14 +2,14 @@
 tags: [Modul/m08, Modul/m17, Art/Pathologie, Fach/Hämatologie, Art/Pathologie]
 title: Anämie
 ---
-(Abstract::Verminderung von [[Hb]], [[Erythrocyten]]-Zahl und/oder [[Hkt]])
+> (Abstract::Verminderung von [[Hb]], [[Erythrocyten]]-Zahl und/oder [[Hkt]])
 - **Einteilung**
 	- **==Mikrocytär / Hypochrom:==** [[Hb]]-Mangel, weniger Beladung
 		- z.B. Eisenmangel, Hämoglobinopathie ([[Thalassämie]]), chronische Entzündung/[[Blutung]]
 	- **==Normocytär / Normochrom:==** Unzureichende Synthese
 		- z.B. [[Hämolyse]], akute [[Blutung]], [[Knochenmark]]-Insuffizienz, [[CKD]], [[EPO]]-Mangel
 	- **==Makrocytär / Hyperchrom:==** Proliferationsstörung
-		- Megaloblastisch: [[Vitamin B12]]-, [[Folsäure]]-Mangel
+		- Megaloblastisch: [[Vitamin B12 (Cobalamin)]]-, [[Folsäure]]-Mangel
 		- [[Alkohol]], Medikamente, Lebererkrankung, Myelodysplasie
 - **[[Blutung]]**
 	1. Hochakut: Verlust aller [[Blut]]bestandteile → [[Hb]], Erys, [[Hkt]] normal
@@ -24,7 +24,7 @@ title: Anämie
 - **Diagnostik**
 	- [[Erythrocytenindices]], Retikulocyten
 	- [[Hämolyse]]-Zeichen: unspezifisch [[LDH]]↑, indirektes [[Bilirubin]]↑, [[Ikterus]], Retikulocyten↑
-	- [[Ferritin]], [[Transferrin]](-sättigung), [[Vitamin B12]], [[Folsäure]]
+	- [[Ferritin]], [[Transferrin]](-sättigung), [[Vitamin B12 (Cobalamin)]], [[Folsäure]]
 - **Sonderformen**
 	- [[Sichelzellanämie]]
 	- [[Thalassämie]]

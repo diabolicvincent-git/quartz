@@ -14,7 +14,7 @@ title: Malassimilation
 	- *[[Vitamin B1]]* → Beri-Beri-Krankheit, [[Polyneuropathie]]
 	- *[[Vitamin B6]]* → [[Polyneuropathie]]
 	- *[[Folsäure]]* → Megaloblastäre Anämie, Neuralrohrdefekte, PNP
-	- *[[Vitamin B12]]* → Perniziöse Anämie, Funikuläre Myelose, PNP
+	- *[[Vitamin B12 (Cobalamin)]]* → Perniziöse Anämie, Funikuläre Myelose, PNP
 	- *[[Ca2+]]* → Muskelerregbarkeit↑, Tetanie, [[Osteoporose]]
 	- *[[K+]]* → [[HRST]], Obstipation, Muskelschwäche, [[Reflex]]↓, [[Polyurie]]
 	- *[[Mg2+]]* → Muskelerregbarkeit↑, [[HRST]]

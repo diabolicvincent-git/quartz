@@ -10,7 +10,7 @@ title: Demenz
 	- *Weitere:* Motivation↓, gestörte emotionale Kontrolle, Unruhe, Aggressivität, [[Wahn]], [[Halluzinationen]], [[Depression]]
 - **Diagnostik**
 	- **Neuropsychologische Tests:** [[MMSE]], [[Uhrentest]]
-	- **[[Labor]]:** Standard + [[Schilddrüsenhormone]], [[Vitamin B12]], [[Folsäure]]
+	- **[[Labor]]:** Standard + [[Schilddrüsenhormone]], [[Vitamin B12 (Cobalamin)]], [[Folsäure]]
 - **DD**:: Pseuddemenz bei [[Depression]], [[Delir]]
 - **Therapie**
 	- **Psychosozial:** Autobiografische aktivierung positiver Patientenerinnerungen
@@ -33,7 +33,7 @@ FROM #f/🧠/Demenz
 	- β-Amyloid-Plaques EZ
 	- Neurofibrillenbindel aus Tau-Protein IZ
 	- Immunulogische Veränderungen
-- **DD**:: [[Vitamin B12]] Mangel
+- **DD**:: [[Vitamin B12 (Cobalamin)]] Mangel
 
 #### Eintrittsalter
 - **Präsenile Demenz**:: Erstmanifestation <65 Jahre

@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie]
 title: Bilirubin
 ---
-### Bilirubin
 > Endprodukt von [[Häm]]-Abbau
 1. **Unkonjugiertes, indirektes Bilirubin**:: Hydrophob, an [[Albumin]] gebunden zur [[Leber]] transportiert
 	- **↑** Prähepatischer, intrahepatischer [[Ikterus]]
