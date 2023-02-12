@@ -31,14 +31,17 @@ strong{
   color: var(--primary) !important;
 }
 
-.tags{
-  font-size: 0.7em;
-}
-
 blockquote{
   font-size: 1.2em;
 }
 
+/*=== TAGS ===*/
+.tags{
+  font-size: 0.7em;
+}
+.tags .section-li{
+  display: none !important;
+}
 
 /*=== LINKS ===*/
 
