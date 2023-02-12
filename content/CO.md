@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m08, Modul/m13, Fach/Pneumologie, , Fach/Biochemie/Molekül, Art/Pathologie]
+tags: [Modul/m03, Modul/m08, Modul/m13, Fach/Pneumologie, Fach/Biochemie/Molekül, Art/Pathologie]
 title: CO
 ---
 ### Kohlenmonoxid / CO
