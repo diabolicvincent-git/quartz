@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Pilze]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Pilze]
 title: Schimmelpilze
 ---
-### Schimmelpilze
 - **Übertragung**:: via Sporen
 	- *Aflatoxine* aerogen
 - **Pathogenität**

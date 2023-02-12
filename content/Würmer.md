@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Parasiten]
 title: Würmer
 ---
 > Auch: Helminthen. [[Parasiten]].

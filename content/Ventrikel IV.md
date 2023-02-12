@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Ventrikel IV
 ---
 - **Lage**:: Dorsal von [[Pons]] und [[Medulla oblongata]] im [[Rhombencephalon]]

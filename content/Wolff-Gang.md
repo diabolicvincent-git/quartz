@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22, Fach/Embryologie, Fach/Anatomie, Fach/Gynäkologie, Fach/Urologie, Fach/Anatomie/Organ]
+tags: [Modul/m22, Fach/Embryologie, Fach/Gynäkologie, Fach/Urologie, Fach/Anatomie/Organ]
 title: Wolff-Gang
 ---
 ### Wolff-Gang / Ductus mesonephricus

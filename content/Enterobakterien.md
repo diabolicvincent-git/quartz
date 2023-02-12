@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: Enterobakterien
 ---
-### Enterobakterien
 > [[gramnegativ]] > Stäbchen > [[Enterobakterien]]
 - **Charakteristika**:: Exprimieren alle ECA[^1], resistent ggü. Gallensalzen
 - **Vorkommen**:: [[Darmflora]], i.d.R. [[Opportunistische Infektionen]]

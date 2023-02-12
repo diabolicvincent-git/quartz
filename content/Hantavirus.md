@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Viren]
 title: Hantavirus
 ---
-### Hantavirus
 - **Reservoir**:: Nagetiere
 - **Erkrankung**
 	- [[Hantafieber]]

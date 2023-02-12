@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m19, Fach/Infektiologie, Fach/Infektiologie/Erreger]
+tags: [Modul/m19, Fach/Infektiologie/Erreger]
 title: Vektor
 ---
-### Vektor
 > Beteiligt an der Übertragung von Erregern (v.a. [[Parasiten]]) zwischen Wirten
 - **Beispiele**
 	- Zecken → [[FSME]]

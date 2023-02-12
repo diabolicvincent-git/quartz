@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m09, Fach/Anatomie/Leitungsbahn/Vene]
 title: Venenstern
 ---
 ### Venenstern 

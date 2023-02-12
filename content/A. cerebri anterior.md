@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. cerebri anterior
 ---
 - **Ursprung**:: Aus [[A. carotis interna]]

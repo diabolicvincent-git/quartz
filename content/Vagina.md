@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie/Organ]
 title: Vagina
 ---
 ### Vagina ([[M]])

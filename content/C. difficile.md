@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien, Wichtig:]
+tags: [Modul/m24, Fach/Infektiologie/Erreger/Bakterien, Wichtig]
 title: C. difficile
 ---
 ### Chlostridium difficile

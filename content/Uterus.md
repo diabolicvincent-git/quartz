@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Fach/Anatomie/Organ]
 title: Uterus
 ---
 ### Uterus / Gebärmutter

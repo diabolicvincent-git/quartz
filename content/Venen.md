@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m11, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m08, Modul/m11, Fach/Anatomie/Leitungsbahn/Vene]
 title: Venen
 ---
 ### Venen

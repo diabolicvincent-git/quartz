@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Organ, Fach/HNO, Fach/Anatomie]
+tags: [Fach/Anatomie/Organ, Fach/HNO]
 title: Speicheldrüsen
 ---
 > (Abstract::**Exokrine [[Drüsen]] zur Speichelproduktion.** Mündung in [[Mundhöhle]]. [[vegetative]] Steuerung.)

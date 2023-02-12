@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: V. portae hepatis
 ---
 ### V. portae hepatis / Pfortader

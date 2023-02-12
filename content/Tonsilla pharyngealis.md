@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
+tags: [Fach/Anatomie/Organ/Tonsillen, Fach/HNO]
 title: Tonsilla pharyngealis
 ---
 > (Abstract::**Rachenmandel ([[Tonsillen]]).**)

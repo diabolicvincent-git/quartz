@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Hämatologie, Fach/Anatomie, Modul/m08, Fach/Anatomie/Organ]
+tags: [Fach/Hämatologie, Modul/m08, Fach/Anatomie/Organ]
 title: Thymus
 ---
 ### Thymus

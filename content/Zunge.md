@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Organ, Fach/Anatomie, Modul/m29, Fach/HNO]
+tags: [Fach/Anatomie/Organ, Modul/m29, Fach/HNO]
 title: Zunge
 ---
 > (Abstract::)

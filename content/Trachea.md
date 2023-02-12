@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Anatomie, Fach/Pneumologie, Fach/Anatomie/Organ]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anatomie/Organ]
 title: Trachea
 ---
 - **Funktion**:: Weiterleitung der Atemluft von der Epiglottis zu den Hauptbronchien und umgekehrt, Anfeuchten und Erwärmen der Atemluft, Immunabwehr, Transport von Schmutz und Schleim aus den Atemwegen (mukoziliäre Clearance)

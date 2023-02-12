@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m11, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
+tags: [Modul/m08, Modul/m11, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Arterien
 ---
 - **Funktion**:: Führen [[Blut]] vom [[Herz]] weg ([[Hochdrucksystem]])

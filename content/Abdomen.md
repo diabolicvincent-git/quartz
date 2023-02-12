@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Fach/Anatomie/Organ]
 title: Abdomen
 ---
 - **[[Körperregionen]]**

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie, Art/Pathologie, Fach/Infektiologie/Erreger/Viren]
+tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Infektiologie/Erreger/Viren]
 title: HIV
 ---
 ### Humanes Immundefizienzvirus / HIV

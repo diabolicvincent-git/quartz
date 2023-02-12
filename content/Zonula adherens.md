@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m04, Modul/m05, Fach/Histologie, Fach/Histologie/Zellkontakt]
+tags: [Modul/m04, Modul/m05, Fach/Histologie/Zellkontakt]
 title: Zonula adherens
 ---
 > Gürteldesmosom

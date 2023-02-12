@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie, Fach/Anatomie/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Ventrikel III
 ---
 - **Lage**:: Vertikal im [[Diencephalon]] zwischen [[Thalamus]]hemisphären

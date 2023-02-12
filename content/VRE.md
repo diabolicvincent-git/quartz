@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: VRE
 ---
 > (Abstract::**[[Vancomycin]]-resistente Enterokokken.** Selten; häufigster Erreger *Enterococcus faecium*.)

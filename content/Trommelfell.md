@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m16, Fach/HNO, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m16, Fach/HNO, Fach/Anatomie/Organ]
 title: Trommelfell
 ---
-### Trommelfell 
 > Schallübertragung auf Gehörknöchelchen und Schutz des [[Mittelohr]]s
 - **Prominente Strukturen **
 	-   *Stria mallearis*: Durchscheinender Hammergriff

@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Organ/Tonsillen, Fach/Anatomie, Fach/HNO]
+tags: [Fach/Anatomie/Organ/Tonsillen, Fach/HNO]
 title: Tonsillae tubariae
 ---
 > (Abstract::**Tubenmandeln ([[Tonsillen]]).**)

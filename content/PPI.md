@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26, Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
+tags: [Modul/m26, Fach/Pharmakologie/Medikament]
 title: PPI
 ---
 ### Protonenpumpeninhibitoren / PPI

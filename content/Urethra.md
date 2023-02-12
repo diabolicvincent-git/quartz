@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22, Fach/Urologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m22, Fach/Urologie, Fach/Anatomie/Organ]
 title: Urethra
 ---
 ### Urethra / Harnröhre

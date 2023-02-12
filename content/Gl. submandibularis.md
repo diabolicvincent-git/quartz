@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Organ/Speicheldrüsen, Fach/HNO, Fach/Anatomie]
+tags: [Fach/Anatomie/Organ/Speicheldrüsen, Fach/HNO]
 title: Gl. submandibularis
 ---
 - **Lage**:: Trigonum submandibulare

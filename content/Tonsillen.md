@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Organ, Fach/Anatomie, Fach/HNO]
+tags: [Fach/Anatomie/Organ, Fach/HNO]
 title: Tonsillen
 ---
 > (Abstract::**[[MALT]] in [[Oropharynx]]/[[Nasopharynx]].**)

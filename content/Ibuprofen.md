@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
+tags: [Fach/Pharmakologie/Medikament/Wirkstoff]
 title: Ibuprofen
 ---
 > (Abstract::[[NSAR]])

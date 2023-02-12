@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Modul/m26, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Arterie]
+tags: [Modul/m12, Modul/m26, Fach/Anatomie/Leitungsbahn/Arterie]
 title: Aorta abdominalis
 ---
 > Aus [[Aorta]] thoracica nach [[Diaphragma]]-Durchtritt bis Aa. iliacae communes

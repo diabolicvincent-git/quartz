@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Dermatologie, Fach/Infektiologie/Erreger/Viren]
+tags: [Modul/m09, Modul/m18, Fach/Dermatologie, Fach/Infektiologie/Erreger/Viren]
 title: Herpesviren
 ---
 #### Herpesviren

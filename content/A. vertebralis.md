@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Arterie]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. vertebralis
 ---
 - **Ursprung**:: [[A. subclavia]]

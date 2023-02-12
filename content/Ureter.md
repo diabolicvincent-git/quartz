@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Anatomie/Organ]
 title: Ureter
 ---
 ### Harnleiter / Ureter

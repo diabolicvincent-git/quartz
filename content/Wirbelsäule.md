@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10, Fach/Orthopädie, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m10, Fach/Orthopädie, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Wirbelsäule
 ---
 - **Funktion**

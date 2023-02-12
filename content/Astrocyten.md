@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Modul/m30, Fach/Neurologie, Fach/Histologie, Fach/Histologie/Zelle]
+tags: [Modul/m15, Modul/m30, Fach/Neurologie, Fach/Histologie/Zelle]
 title: Astrocyten
 ---
 > (Abstract::[[Gliazellen]] im [[ZNS]])

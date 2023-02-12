@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Anatomie/Organ]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Ventrikelsystem
 ---
 > (Abstract::Innere [[Liquorräume]])

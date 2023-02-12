@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: V. cava superior
 ---
 ### [[V. cava]] superior

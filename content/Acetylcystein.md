@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Modul/m20, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament, Fach/Toxikologie, Fach/Pharmakologie/Medikament/Wirkstoff]
+tags: [Modul/m12, Modul/m20, Fach/Gastroenterologie, Fach/Toxikologie, Fach/Pharmakologie/Medikament/Wirkstoff]
 title: Acetylcystein
 ---
 > (Abstract::[[Antidot]] bei [[Paracetamol]]-[[Intoxikation]]) 

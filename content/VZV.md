@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Fach/Infektiologie, Fach/Pädiatrie, Fach/Infektiologie/Erreger/Viren]
+tags: [Modul/m09, Fach/Pädiatrie, Fach/Infektiologie/Erreger/Viren]
 title: VZV
 ---
 > (Abstract::**Varizella-Zoster-Virus.**)

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
+tags: [Modul/m18, Modul/m24, Fach/Infektiologie/Erreger/Bakterien]
 title: Bakteriensystematik
 ---
 ### [[Bakterien]]systematik

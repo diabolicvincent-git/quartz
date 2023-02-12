@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Fach/Psychiatrie, Fach/Psychiatrie, Art/Pathologie]
+tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Anpassungsstörung
 ---
 > (Abstract::Reaktion ≤6 Monate auf Lebenskrise/Veränderung (z.B. Trennung, Tod))

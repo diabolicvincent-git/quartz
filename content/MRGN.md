@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Fach/Infektiologie]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: MRGN
 ---
 ### Multiresistente gramnegative Stäbchen / MRGN

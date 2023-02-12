@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Viren]
+tags: [Modul/m03, Modul/m18, Fach/Infektiologie/Erreger/Viren]
 title: Viren
 ---
 > Kleine leblose Partikel (20-350 nm), ==obligate [[Parasiten]]==

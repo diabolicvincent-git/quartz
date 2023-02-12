@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament]
+tags: [Modul/m20, Fach/Pharmakologie/Medikament]
 title: Co-Analgetika
 ---
 ### Co-[[Analgetika]]

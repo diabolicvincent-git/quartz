@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m21, Fach/Pharmakologie/Medikament, Fach/Urologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
+tags: [Modul/m21, Fach/Urologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: PDE-Hemmer
 ---
 ### Phosphodiesterase-Hemmer

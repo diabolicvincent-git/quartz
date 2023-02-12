@@ -1,6 +1,6 @@
 ---
 title: A. carotis communis
-tags: [Fach/Anatomie/Leitungsbahn/Arterie, Fach/Anatomie]
+tags: [Fach/Anatomie/Leitungsbahn/Arterie]
 ---
 - **Ursprung**:: [[Aortenbogen]] (links), [[Truncus brachiocephalicus]] (rechts)
 - **Verlauf**:: Hinter [[M. sternocleidomastoideus]], innerhalb [[Vagina carotica]] → Bifurkation Höhe C4

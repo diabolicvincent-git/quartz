@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Modul/m09, Modul/m18, Fach/Infektiologie, Fach/Infektiologie/Erreger/Bakterien]
+tags: [Modul/m03, Modul/m09, Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: Bakterien
 ---
 > ==[[Bakteriensystematik]]==

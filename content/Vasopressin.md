@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Pharmakologie/Medikament, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
+tags: [Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Vasopressin
 ---
 > (Abstract::Äquivalent zu [[ADH]]) 

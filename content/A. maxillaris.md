@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Anatomie/Leitungsbahn/Arterie, Fach/Anatomie]
+tags: [Fach/Anatomie/Leitungsbahn/Arterie]
 title: A. maxillaris
 ---
 - **Ursprung**:: [[A. carotis externa]]

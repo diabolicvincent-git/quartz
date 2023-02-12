@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Modul/m18, Modul/m19, Fach/Infektiologie, Fach/Gynäkologie, Fach/Onkologie, Fach/Infektiologie/Erreger/Viren]
+tags: [Modul/m09, Modul/m18, Modul/m19, Fach/Gynäkologie, Fach/Onkologie, Fach/Infektiologie/Erreger/Viren]
 title: HPV
 ---
 ### Humanes Papillomavirus / HPV
