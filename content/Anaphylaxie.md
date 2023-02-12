@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Fach/Dermatologie, Fach/Notfallmedizin/SOP, Art/Pathologie]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Notfallmedizin/SOP, Art/Pathologie, Fach/Kardiologie, Fach/Pneumologie]
 title: Anaphylaxie
 ---
 > (Abstract::Akute, lebensgefährliche [[Allergie]])
