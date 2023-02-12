@@ -8,7 +8,7 @@ Willkommen in der gehosteten Online-Version meines Notizsystems. Mein Name ist V
 
 Du hast einen Fehler gefunden oder möchtest etwas verbessern? Durch Klick auf *Edit Source* kannst du jede Notizdatei via [GitHub](https://github.com/vncntwbr/quartz) bearbeiten. Danke für deine Nerdiness! 🤓
 
-> **Los gehts:** [Alle Medizin-Notizen](/tags/Fach)
+> [Alle Medizin-Notizen →](/tags)
 
 #### Medizin nach Fächern
 - [🧪 Biochemie](tags/Fach/Biochemie)
