@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Fach/Labor, Fach/Biochemie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
+tags: [Modul/m17, Fach/Labor, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: PCT
 ---
 ### Procalcitonin / PCT

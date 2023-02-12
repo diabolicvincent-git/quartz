@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Biochemie, Fach/Labor, Fach/Biochemie/Enzym]
+tags: [Modul/m12, Fach/Labor, Fach/Biochemie/Enzym, Fach/Gastroenterologie]
 title: ALT
 ---
 - **Funktion**:: [[Transaminierung]], [[Alaninzyklus]]

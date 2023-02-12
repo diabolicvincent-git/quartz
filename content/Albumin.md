@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Biochemie, Fach/Physiologie, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
+tags: [Modul/m12, Fach/Physiologie, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
 title: Albumin
 ---
 - **Funktion**

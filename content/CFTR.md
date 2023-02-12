@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Molekül]
+tags: [Modul/m03, Fach/Pneumologie, Fach/Biochemie/Molekül]
 title: CFTR
 ---
 ### Cystic Fibrosis Transmembrane Conductance Regulator / CFTR

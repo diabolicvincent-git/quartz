@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m08, Fach/Biochemie/Molekül]
 title: Leukotriene
 ---
 ### Leukotriene

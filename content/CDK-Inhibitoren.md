@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Modul/m03, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m05, Modul/m03, Fach/Biochemie, Fach/Physiologie/Molekül]
 title: CDK-Inhibitoren
 ---
 ### CDK-Inhibitoren

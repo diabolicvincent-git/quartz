@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m08, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Transferrin
 ---
-### Transferrin
 - **Funktion**:: [[Eisen]]-Transportprotein
 - **Diagnostik**:: zzgl. Transferrin-Rezeptor, Transferrin-Sättigung
 - **↑**:: Eisenmangel, [[Schwangerschaft]]

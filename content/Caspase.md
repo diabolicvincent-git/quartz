@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m05, Fach/Biochemie/Molekül]
 title: Caspase
 ---
 ### Cysteinyl-Aspartasen / Caspasen

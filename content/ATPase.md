@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m03, Fach/Biochemie/Molekül]
 title: ATPase
 ---
 > Aktiver [[Stofftransport]]

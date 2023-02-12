@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Modul/m09, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m20, Modul/m09, Fach/Biochemie/Molekül]
 title: CGRP
 ---
 ### [[Calcitonin]]-Gene-related Peptide / CGRP

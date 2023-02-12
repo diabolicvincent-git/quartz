@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02, Fach/Biochemie, Fach/Genetik, Fach/Biochemie/Molekül]
+tags: [Modul/m02, Fach/Genetik, Fach/Biochemie/Molekül]
 title: Chromatin
 ---
 ## Chromatin

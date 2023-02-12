@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Biochemie, Fach/Biochemie/Zellorganell]
+tags: [Modul/m18, Modul/m24, Fach/Infektiologie, Fach/Biochemie/Zellorganell]
 title: Zellwand
 ---
 > Die meisten [[Bakterien]] besitzen Zellwand (Ausnahme z.B. Mycoplasmen)

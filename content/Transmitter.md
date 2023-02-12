@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Neurologie, Fach/Biochemie/Transmitter]
+tags: [Modul/m15, Modul/m20, Fach/Physiologie,, Fach/Biochemie/Transmitter]
 title: Transmitter
 ---
 - **PNS**

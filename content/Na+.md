@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Nephrologie]
+tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Nephrologie]
 title: Na+
 ---
 ### Natrium / Na+

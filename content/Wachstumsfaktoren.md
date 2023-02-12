@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m22, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Wachstumsfaktoren
 ---
 ### Wachstumsfaktoren

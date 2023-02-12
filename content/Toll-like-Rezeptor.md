@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Modul/m08, Fach/Biochemie/Rezeptor, Fach/Biochemie, Fach/Infektiologie]
+tags: [Modul/m18, Modul/m08, Fach/Biochemie/Rezeptor, Fach/Infektiologie]
 title: Toll-like-Rezeptor
 ---
 > **[[PRR]]**:: Erkennen von extra- oder intrazellulären Pathogenen → [[Entzündung]]sreaktion↑ 

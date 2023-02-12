@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Ca2+
 ---
 ### Calcium / Ca2+

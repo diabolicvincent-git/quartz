@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m13, Fach/Biochemie/Molekül]
 title: CO2
 ---
 #### Kohlenstoffdioxid / CO2

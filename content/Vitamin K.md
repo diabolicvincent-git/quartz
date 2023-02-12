@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Vitamin]
+tags: [Modul/m12, Fach/Physiologie, Fach/Biochemie/Vitamin]
 title: Vitamin K
 ---
 ### Vitamin K / Phyllochinon 

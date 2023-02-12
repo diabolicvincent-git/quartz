@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m22, Fach/Biochemie, Fach/Physiologie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Hormon]
+tags: [Modul/m22, Fach/Physiologie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Hormon]
 title: Androgene
 ---
 > (Abstract::[[W]] [[Sexualhormone]]: [[Steroidhormone]] mit 19 C-Atomen)

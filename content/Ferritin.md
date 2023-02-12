@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Fach/Biochemie/Molekül, Fach/Biochemie, Fach/Physiologie]
+tags: [Modul/m08, Fach/Biochemie/Molekül, Fach/Physiologie]
 title: Ferritin
 ---
 ### Ferritin

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m04, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m04, Fach/Biochemie/Molekül]
 title: cAMP
 ---
 ### cAMP / Cyclisches Adenosinmonophosphat

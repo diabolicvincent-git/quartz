@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Biochemie/Vitamin, Fach/Biochemie]
+tags: [Modul/m12, Fach/Biochemie/Vitamin]
 title: Vitamin B3
 ---
 ### Vitamin B3 / Niacin 

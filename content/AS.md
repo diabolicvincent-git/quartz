@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Aminosäure]
+tags: [Modul/m02, Fach/Biochemie/Aminosäure]
 title: AS
 ---
 > (Abstract::Aminosäuren)

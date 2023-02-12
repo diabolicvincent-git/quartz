@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Modul/m02, Modul/m12, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m11, Modul/m02, Modul/m12, Fach/Kardiologie, Fach/Biochemie/Molekül]
 title: Lipoprotein
 ---
 ## Transportweg

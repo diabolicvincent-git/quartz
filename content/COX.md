@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m20, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m08, Modul/m20, Fach/Biochemie/Molekül]
 title: COX
 ---
 ### Cyclooxygenase / COX

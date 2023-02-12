@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Fach/Biochemie, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Biochemie/Molekül]
 title: AST
 ---
 > (Abstract::**Aspartataminotransferase.** Auch: ASAT, GOT.)

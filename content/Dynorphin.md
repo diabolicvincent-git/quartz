@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Modul/m22, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Biochemie, Fach/Anästhesie]
+tags: [Modul/m20, Modul/m22, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Anästhesie]
 title: Dynorphin
 ---
 ### Dynorphine

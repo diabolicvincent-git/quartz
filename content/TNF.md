@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Hormon]
+tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie/Hormon]
 title: TNF
 ---
 ### Tumornekrosefaktor / TNF

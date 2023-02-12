@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Labor]
+tags: [Modul/m10, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Labor]
 title: CK
 ---
 ### Kreatinkinase / CK

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m14, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Calcitonin
 ---
 ### Calcitonin

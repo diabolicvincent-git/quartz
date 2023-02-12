@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m08, Modul/m17, Fach/Physiologie, Fach/Biochemie, Fach/Infektiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m08, Modul/m17, Fach/Physiologie, Fach/Infektiologie, Fach/Biochemie/Molekül]
 title: IFN
 ---
 ### Interferon / IFN

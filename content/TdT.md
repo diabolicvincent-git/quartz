@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19, Fach/Biochemie, Fach/Biochemie/Enzym]
+tags: [Modul/m19, Fach/Biochemie/Enzym]
 title: TdT
 ---
 ### Terminale Desoxyribonucleotidtransferase / TdT

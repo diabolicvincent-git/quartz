@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Fach/Biochemie, Fach/Genetik, Fach/Biochemie/Molekül]
+tags: [Modul/m05, Fach/Biochemie, Fach/Genetik/Molekül]
 title: CDK
 ---
 ### Cyclin-abhängige Kinasen / CDK

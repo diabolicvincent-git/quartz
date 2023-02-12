@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Biochemie, Fach/Biochemie/Transmitter]
+tags: [Modul/m15, Fach/Neurologie, Fach/Biochemie/Transmitter]
 title: ACh
 ---
 > (Abstract::**Acetylcholin**. Wichtigster [[Transmitter]] im [[PNS]].)

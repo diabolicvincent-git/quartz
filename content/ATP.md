@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m02, Fach/Biochemie/Molekül]
 title: ATP
 ---
 > (Abstract::**Adenosintriphosphat.** Universeller Energieträger.)

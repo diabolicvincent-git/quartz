@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m09, Fach/Dermatologie, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m09, Fach/Dermatologie, Fach/Biochemie/Molekül]
 title: Melanin
 ---
 ### Melanin

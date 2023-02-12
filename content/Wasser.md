@@ -1,4 +1,4 @@
 ---
-tags: [Modul/m14, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m14, Fach/Biochemie/Molekül]
 title: Wasser
 ---

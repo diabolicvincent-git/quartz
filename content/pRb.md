@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Fach/Onkologie, Fach/Biochemie, Fach/Biochemie/Molekül]
+tags: [Modul/m05, Fach/Onkologie, Fach/Biochemie/Molekül]
 title: pRb
 ---
 ### Retinoblastom-Protein / pRb

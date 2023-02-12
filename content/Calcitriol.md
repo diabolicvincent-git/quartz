@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie, Fach/Nephrologie, Fach/Biochemie/Molekül]
+tags: [Modul/m14, Fach/Physiologie, Facach/Biochemie/Molekül]
 title: Calcitriol
 ---
 ### Calcitriol

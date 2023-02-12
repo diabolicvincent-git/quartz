@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m21, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m21, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Cu2+
 ---
 > (Abstract::**Kupfer.** [[Spurenelemente]].)

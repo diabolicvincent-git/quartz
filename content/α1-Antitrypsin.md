@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Biochemie/Enzym]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Biochemie/Enzym]
 title: α1-Antitrypsin
 ---
 > *Antiprotease*, Teil der [[Entzündung]], schützt gesunde Zellen vor proteolytischem Abbau

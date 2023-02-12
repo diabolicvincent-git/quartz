@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Fach/Biochemie, Fach/Embryologie, Fach/Biochemie/Molekül]
+tags: [Modul/m05, Fach/Embryologie, Fach/Biochemie/Molekül]
 title: Hedgehog
 ---
 ### Sonic Hedgehog / SHH

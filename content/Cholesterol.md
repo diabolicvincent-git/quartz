@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m02, Fach/Biochemie, Fach/Kardiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m02, Fach/Kardiologie, Fach/Biochemie/Molekül]
 title: Cholesterol
 ---
 ### Cholesterol / Cholesterin
