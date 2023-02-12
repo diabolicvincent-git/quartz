@@ -2,6 +2,11 @@
 tags: [Modul/m11, Art/Pathologie, Fach/Kardiologie]
 title: Tachykardie
 ---
+- **SOP**
+	1. Bedarfstachykardie? [[Schock]], [[Infektionen]], [[Schmerz]]
+	2. Regelmäßige [[SVT]] → [[Valsalva]]
+	3. Instabilitätszeichen oder [[Ventrikuläre Tachykardie]] → [[Kardioversion]]
+---
 - **[[SVT]]** ([[QRS]] ≤120 ms)
 	- Sinustachykardie
 	- Supraventrikuläre Extrasystolen (SVES)

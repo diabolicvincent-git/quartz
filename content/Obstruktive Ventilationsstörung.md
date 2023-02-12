@@ -1,6 +1,15 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Notfallmedizin/SOP]
 title: Obstruktive Ventilationsstörung
+---
+- **SOP**
+	1. Beruhigung, Oberkörperhochlagerung, Lippenbremse
+	2. [[O2]]-Gabe bis [[SpO2]] >88% ([[COPD]]) / >94% ([[Asthma]])
+	3. [[Salbutamol]] 2.5mg + [[Ipratropium]] 0.5mg [[p.i.]]
+	4. [[CPAP]]
+	5. [[Prednisolon]] 50-100mg [[i.v.]]
+	6. ggf. [[Reproterol]], [[Mg2+]] ([[Bronchodilatation]])
+	7. ggf. [[KETAmin]]
 ---
 - Strömungswiderstand im [[Bronchialbaum]] ↑ → [[Resistance]] ↑
 - **Ursachen**:: Erhöhte Mukusproduktion (z.B. [[Mukoviszidose]]), Schleimhautschwellung, Muskelspasmen (z.B. [[Asthma]], [[COPD]])

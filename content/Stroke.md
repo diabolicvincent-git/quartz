@@ -3,6 +3,12 @@ tags: [Modul/m15, Fach/Neurologie, Art/Pathologie, Modul/m30]
 title: Stroke
 ---
 > (Abstract::**90% ischämisch, 10% hämorrhagisch ([[ICB]]/[[SAB]]).** Auch: Ischämischer Schlaganfall, Apoplex [sic].)
+- **SOP**
+	1. [[BEFAST]], [[Untersuchung Neurologie]]
+	2. Oberkörperhochlagerung
+	3. [[BZ]] (Auschluss DD [[Hypoglycämie]])
+	4. bei [[RR]] >220mmHg [[Urapidil]] 5mg [[i.v.]] (Wdh. alle 5min) bis [[RR]]↓ 15%
+---
 - **Ätiologie**
 	- **Kardiale Embolie**:: [[Thromboembolie]] ([[VHF]]), [[Paradoxe Embolie]], septische Embolie bei [[Endokarditis]]
 	- **[[Atherosklerose]]**:: *Makroangiopathie* (arterioarterielle Embolie), *Mikroangiopathie* ([[Lakunärer Infarkt]])

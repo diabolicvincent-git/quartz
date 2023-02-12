@@ -15,7 +15,7 @@ title: Verbrennung
 	- **Systemisch**:: [[Schock]], [[Hypothermie]]
 - **Klassifikation**:: ==[[Neuner-Regel]]==
 - **Diagnostik**
-	- **[[Untersuchung]]**:: [[ABCDE]], Nadelstichprobe (Schmerz↓ ab IIb°)
+	- **[[Untersuchung]]**:: [[cABCDE]], Nadelstichprobe (Schmerz↓ ab IIb°)
 	- **[[Labor]]**:: Standard + [[BGA]] mit [[CO]] und Methämoglobin
 	- **Sonstiges**:: Wundabstrich, Biopsie, Laryngo-Bronchoskopie bei [[Inhalationstrauma]]
 - **Therapie**

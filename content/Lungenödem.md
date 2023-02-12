@@ -1,8 +1,14 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Notfallmedizin/SOP]
 title: Lungenödem
 ---
-#### Lungenödem
+- **SOP**
+	1. Beruhigung, Oberkörperhochlagerung
+	2. [[O2]]-Gabe bis [[SpO2]] >94%
+	3. ==[[CPAP]]==
+	4. bei [[Hypertonie]] → [[Urapidil]], [[Nitrate]], ggf. [[Furosemid]]
+	5. bei [[Hypotonie]] → [[Kardiogener Schock]]
+---
 - **Ätiologie**
 	- *Kardial:* [[Linksherzinsuffizienz]]
 	- *Nicht-Kardial:* [[CKD]], [[Intoxikation]], [[Infektionen]], [[Aspiration]], Höhenkrankheit

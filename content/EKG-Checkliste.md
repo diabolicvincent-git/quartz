@@ -10,7 +10,7 @@ title: EKG-Checkliste
 	- Papiervorschub (50 mm/s oder 25 mm/s)
 	- Skalierung (i.d.R. 1 mV = 10 mm)
 3. **Rhythmus**
-	- **[[ABCDE]]-kritisch?** rhythmisch/arhythmisch, schmal<110ms<breit, brady/normo/tachy
+	- **[[cABCDE]]-kritisch?** rhythmisch/arhythmisch, schmal<110ms<breit, brady/normo/tachy
 	- **P-Wellen?** ja (normal), nein ([[VHF]], SA-Block), unsicher (Lewis)
 	- **P : [[QRS]]?** fest 1:1 (normal), PQ>200 ms ([[AV-Block]] I), fest 2-4:1 ([[AV-Block]] IIb, VHFla), zunehmend ([[AV-Block]] IIa), unabhängig ([[AV-Block]] III)
 	- **Frequenz**

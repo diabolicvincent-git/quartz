@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m21, Fach/Anästhesie]
-title: Breathing
+title: B – Breathing
 ---
-### Breathing ([[ABCDE]])
+### Breathing ([[cABCDE]])
 - **Diagnostik**
 	- *First Look:* [[AF]], Tidalvolumen, [[Atemmechanik]], [[SpO2]], [[Zyanose]]
 	- *Second Look:* [[Untersuchung Lunge]], [[eFAST]], [[BGA]]

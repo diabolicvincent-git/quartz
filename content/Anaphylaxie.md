@@ -3,6 +3,14 @@ tags: [Modul/m09, Fach/Dermatologie, Fach/Notfallmedizin/SOP, Art/Pathologie, Fa
 title: Anaphylaxie
 ---
 > (Abstract::Akute, lebensgefährliche [[Allergie]])
+- **SOP**
+	1. Allergen-Exposition beenden, Lagerung
+	2. *≥II°*: [[Adrenalin]] 0.5mg [[i.m.]] (Wdh. >10 min)
+	3. *Dyspnoe führend*: [[Adrenalin]] 3mg [[p.i.]]
+	4. [[i.v.]]-Zugang, [[Volumentherapie]]
+	5. [[Prednisolon]] 250mg [[i.v.]], [[cLEMAstin]] 2mg [[i.v.]]
+	6. ggf. [[Adrenalin]] [[i.v.]]
+---
 - **Ätiologie**:: Nahrungsmittel (v.a. Kinder), Insektengift, Medikamente
 - **Pathophysiologie**:: [[Allergie]], [[Hypersensibilitätstypen]] Typ 1 ([[IgE]]-vermittelt)
 - **Stadien**
@@ -10,19 +18,4 @@ title: Anaphylaxie
 	- **II°** [[Dyspnoe]], Stridor, Bronchospasmus, GI-Beschwerden
 	- **III°** [[Schock]]
 	- **IV°** [[Reanimation]]
-- **Therapie**
-	- Allergen-Zufuhr stoppen, Beruhigung, Flachlagerung/Schocklage
-	- [[O2]]-Gabe, H1-Antagonist [[i.v.]], [[Glucocorticoide]] [[i.v.]]
-	- **Ab II°**:: ==[[Adrenalin]] 0.5 mg [[i.m.]]==, [[β2-Sympathomimetika]] [[p.i.]]
-	- **Ab III°**:: [[Volumentherapie]], ggf. [[Katecholamine]] [[i.v.]]
 - **Prävention**:: Anaphylaxie-Notfallset ([[Adrenalin]]-Autoinjektor)
----
-## SOP
-- **Therapie**
-	- Allergen beseitigen
-	- [[Adrenalin]] 0,5 mg [[i.m.]] (ggf. wiederholen nach 10 min)
-	- ggf. [[Adrenalin]] 3 mg [[p.i.]]
-	- [[Volumentherapie]]
-	- Prednisolon 250 mg [[i.v.]]
-	- Clemastin 2 mg [[i.v.]]
-	- ggf. [[Noradrenalin]]-Perfusor

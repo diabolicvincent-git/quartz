@@ -1,9 +1,12 @@
 ---
-tags: [Modul/m11, Modul/m14, Fach/Kardiologie, Art/Pathologie]
+tags: [Modul/m11, Modul/m14, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP]
 title: Hypertensiver Notfall
 ---
-### Hypertensiver Notfall
 > Akute, kritische [[Hypertonie]] + ==Endorganschäden==
+- **SOP**
+	1. Endorganschäden?
+	2. ggf. [[Urapidil]] 5mg [[i.v.]] (Wdh. 5min, max 25mg) bis [[RR]]↓ 25%
+---
 - **Komplikationen**
 	- **[[ZNS]]**:: Hypertensive [[Encephalopathie]], [[ICB]], [[Stroke]]
 	- **[[Herz]]**:: Akute [[Herzinsuffizienz]], kardiale Dekompensation, [[ACS]], [[Angina pectoris]]
@@ -11,5 +14,3 @@ title: Hypertensiver Notfall
 	- **[[Lunge]]**:: [[Lungenödem]]
 	- **[[Niere]]**:: [[Nierenversagen]]
 	- **[[Schwangerschaft]]**:: [[Eklampsie]]
----
-siehe [[Hypertensive Krise]], [[aHTN]]

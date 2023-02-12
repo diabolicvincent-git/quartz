@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie]
+tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP]
 title: LAE
 ---
 ##### Lungenarterienembolie / LAE

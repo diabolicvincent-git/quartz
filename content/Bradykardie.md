@@ -2,8 +2,12 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Bradykardie
 ---
-### Bradykardie
 > [[HF]] <60 / min ([[HRST]])
+- **SOP**
+	1. [[Atropin]] 1mg [[i.v.]]
+	2. [[Adrenalin]] [[i.v.]]
+	3. [[Schrittmacher]] 30mA++, [[HF]] 70/min
+---
 - **Einteilung**
 	- **Sinusbradykardie** (z.B. [[Sick-Sinus-Syndrom]], Sinuatrialer Block)
 	- **Sinusarrest** (mit Ersatzrhythmus)
