@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Psychiatrie]
 title: Persönlichkeitsstörungen
 ---
 - **Klassifikation:** Clustereinteilung nach DSM-5

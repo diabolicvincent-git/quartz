@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Pharmakologie]
 title: Pharmakologie
 ---
 - [[Pharmakodynamik]]

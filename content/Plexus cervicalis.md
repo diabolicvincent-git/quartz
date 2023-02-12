@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Anatomie, Fach/Neurologie]
 title: Plexus cervicalis
 ---
 Ventrale Äste der cervicalen [[Spinalnerven]]

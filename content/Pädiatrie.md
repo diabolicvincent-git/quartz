@@ -1,6 +1,6 @@
 ---
-tags: []
-title: Paediatrie
+tags: [Fach/Pädiatrie]
+title: Pädiatrie
 ---
 - [[Genetische Erkrankungen]]
 - [[Kindesmisshandlung]]

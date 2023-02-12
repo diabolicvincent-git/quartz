@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Ophthalmologie]
 title: Ophthalmologische Anamnese
 ---
 - Symptome

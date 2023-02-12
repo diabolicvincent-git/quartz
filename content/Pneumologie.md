@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Pneumologie]
 title: Pneumologie
 ---
 - [[Strukturelle Atemwegserkrankungen]]

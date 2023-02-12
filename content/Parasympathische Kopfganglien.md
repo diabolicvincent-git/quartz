@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Neurologie, Fach/Anatomie]
 title: Parasympathische Kopfganglien
 ---
 Jedes der [[Ganglien]] enthält je Radix parasympathica, Radix sympathica, Radix sensoria. Umgeschaltet werden nur [[Parasympathikus]]-Fasern von [[N. oculomotorius (III)]], [[N. facialis (VII)]] und [[N. glossopharyngeus (IX)]] ([[N. vagus (X)]] = organnah).

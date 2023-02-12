@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Neurologie]
 title: Neurologie
 ---
 ```dataview

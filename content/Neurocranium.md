@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Anatomie, Fach/Neurologie]
 title: Neurocranium
 ---
 - **Vorne**

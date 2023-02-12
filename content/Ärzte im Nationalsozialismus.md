@@ -10,7 +10,7 @@ title: Ärzte im Nationalsozialismus
   - Verbot vieler Zünfte, Staatsdienst etc. → Reduktion auf Handel, Finanzen, Wissenschaft
 - "Freie Berufe" (Ärzte, Rechtsanwälte) garantieren gesellschaftliche Reputation und Einkommen
 - Fachrichtungswahl
-  - Juden v.a. in [[Paediatrie]], Gynäkologie, Psychiatrie ("Schmuddelfächer")
+  - Juden v.a. in [[Pädiatrie]], Gynäkologie, Psychiatrie ("Schmuddelfächer")
   - Prestigereiche Fächer wie Anatomie, Pathologie, Chirurgie eher verwehrt
 
 ### Antisemitismus unter Ärzten

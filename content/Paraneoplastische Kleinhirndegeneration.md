@@ -1,8 +1,7 @@
 ---
-tags: []
+tags: [Fach/Neurologie, Fach/Onkologie]
 title: Paraneoplastische Kleinhirndegeneration
 ---
-### Paraneoplastische Kleinhirndegeneration
 > [[Paraneoplastisches Syndrom]]
 - **Ätiologie**:: Anti-Hu-/Anti-Yo-[[Auto-Antikörper]] → Cerebellitis
 - **Epidemiologie**:: 1% aller Karzinome, v.a. [[M]] 40-50 J.

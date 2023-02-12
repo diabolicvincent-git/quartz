@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Nephrologie]
 title: Nephrologie
 ---
 - [[Akute Erkrankungen der Niere]]

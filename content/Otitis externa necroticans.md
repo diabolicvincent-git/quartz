@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/HNO]
 title: Otitis externa necroticans
 ---
 Nekrotisierende [[Otitis externa]]

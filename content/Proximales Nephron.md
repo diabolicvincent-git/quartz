@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Physiologie, Fach/Nephrologie]
 title: Proximales Nephron
 ---
 >  **Funktion**:: Massenrückresorption

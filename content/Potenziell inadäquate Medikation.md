@@ -1,5 +1,5 @@
 ---
-tags: [Art/Intervention]
+tags: [Art/Intervention, Fach/Pharmakologie]
 title: Potenziell inadäquate Medikation
 ---
 - Arzneistoffe, die bei geriatrischen Patienten

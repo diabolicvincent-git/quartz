@@ -1,8 +1,7 @@
 ---
-tags: []
+tags: [Fach/Anatomie, Fach/HNO]
 title: Ringknorpel
 ---
-## Ringknorpel 
 > Auch: *Cartilago cricoidea* 
 - **Lage und Aufbau**
 	- Dorsal: Ringknorpelplatte (= Lamina cartilaginis cricoideae)

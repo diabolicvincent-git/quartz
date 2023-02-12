@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Psychiatrie]
 title: Psychiatrie
 ---
 - [[Antidepressiva]]

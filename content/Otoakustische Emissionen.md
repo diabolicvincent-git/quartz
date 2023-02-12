@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/HNO]
 title: Otoakustische Emissionen
 ---
 ## Otoakustische Emissionen (OAE)

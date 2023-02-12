@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Epidemiologie, Fach/Infektiologie, Fach/Labor]
 title: Meldepflichtige Erreger
 ---
 ## Meldepflichtige Erreger

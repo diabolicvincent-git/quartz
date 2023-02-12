@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/HNO, Fach/Anatomie]
 title: Os temporale
 ---
 Schläfenbein

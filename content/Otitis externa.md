@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/HNO]
 title: Otitis externa
 ---
 - **Ätiologie**:: [[Bakterien]] ([[Pseudomonas aeruginosa]], [[Staph. aureus]]), [[Pilze]] ([[Candida albicans]]), Allergene

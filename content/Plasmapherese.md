@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Nephrologie, Fach/Hämatologie, Fach/Rheumatologie, Art/Intervention/Therapie]
 title: Plasmapherese
 ---
 > (Abstract::**Plasmaaustausch.** Blutentnahme → extrakorporale Auftrennung in Plasma und Restblut → Entfernen des Plasmas und Ersatz mit [[FFP]]/[[Albumin]])

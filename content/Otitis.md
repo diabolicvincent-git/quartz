@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/HNO]
 title: Otitis
 ---
 [[Entzündung]] des [[Ohr]]

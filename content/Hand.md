@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Anatomie]
 title: Hand
 ---
 - **[[Körperregionen]]**

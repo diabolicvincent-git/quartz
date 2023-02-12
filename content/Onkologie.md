@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Fach/Onkologie]
 title: Onkologie
 ---
 - [[Solide Tumoren]]
