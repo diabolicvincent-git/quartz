@@ -1,3 +1,10 @@
+function reformatVincentsMarkdown(){
+  let blockquotes = document.querySelector("blockquote");
+  blockquotes.innerHTML.replace("(Abstract::", "<small>Abstract: </small>");
+}
+
+reformatVincentsMarkdown();
+
 
 function addTitleToCodeBlocks() {
   const els = document.getElementsByClassName("highlight");
