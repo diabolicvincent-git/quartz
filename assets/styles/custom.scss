@@ -27,7 +27,7 @@
   --highlighted: #574010;
 }
 
-strong{
+strong, em{
   color: var(--primary) !important;
 }
 
@@ -52,9 +52,9 @@ a:-webkit-any-link, a{
   margin: revert;
   padding: revert;
   color: var(--gray) !important;
-}
+/*}
 
-a.internal-link, .tags a{
+a.internal-link, .tags a{*/
   border-bottom: 1px solid var(--gray) !important;
   background: inital !important;
 
@@ -63,9 +63,9 @@ a.internal-link, .tags a{
   }
   &.broken {
         border-bottom: 1px solid var(--dark) !important;
-      }
+  }
 }
 
-strong a.internal-link{
+strong a.internal-link, em a.internal-link{
   color: var(--primary) !important;
 }
