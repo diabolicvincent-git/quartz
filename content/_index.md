@@ -1,6 +1,5 @@
 ---
-tags: 
-title: _index
+title: Vincent's Notes
 enableToc: false
 ---
 ## 👋 Hallo.

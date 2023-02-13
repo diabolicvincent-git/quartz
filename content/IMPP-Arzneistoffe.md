@@ -88,7 +88,7 @@ title: IMPP-Arzneistoffe
 [...]
 
 ### Cholinerges System
-- **Muskelrelaxanzien**
+- **[[Muskelrelaxanzien]]**
 	- **[[ACh]]-Freisetzungs-Inhibitoren**:: Botulinum-Neurotoxin
 	- **N-[[ACh]]-R-Agonisten**:: Suxamethonium / Succinylcholin (depolarisierend) 
 	- **N-[[ACh]]-R-Antagonisten**:: Rocuronium (nicht-depolarisierend)
