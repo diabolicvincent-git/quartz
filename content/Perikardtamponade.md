@@ -1,12 +1,16 @@
 ---
-tags: [Modul/m11, Modul/m21, Fach/Kardiologie, Art/Pathologie]
+tags: [Modul/m11, Modul/m21, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP]
 title: Perikardtamponade
 ---
-### Perikardtamponade
-> [[Perikarderguss]] → Kompression des [[Herz]]ens → obstruktiver [[Schock]]
+> (Abstract::[[Perikarderguss]] → Kompression des [[Herz]] → obstruktiver [[Schock]])
+- **SOP**
+	1. [[RUSH]]
+	2. [[Hämodynamische Instabilität]] oder [[Reanimation]]?
+		- [[Perikardpunktion]]
+		- bei [[Trauma]]: [[Clamshell-Thorakotomie]]
+---
+- **Ätiologie**:: [[Malignom]], [[Infektionen]], [[Trauma]], [[Urämie]], Ventrikelruptur bei [[Myokardinfarkt]], [[Aortendissektion]]
 - **Symptome**:: ==[[Schock]]==, [[Dyspnoe]], [[Tachypnoe]], [[Asystolie]]
-	- **==Beck-Trias==**:: [[Hypotonie]], [[Einflussstauung]], "leises [[Herz]]"
-- **Diagnostik**:: Echokardiographie
-- **Therapie**:: Notfallmäßige Entlastung
-	- Perikardpunktion
-	- Operativ (z.B. bei [[Thoraxtrauma]], Ventrikelruptur oder [[Aortendissektion]])
+	- *==Beck-Trias==*:: [[Hypotonie]], [[Einflussstauung]], "leises [[Herz]]"
+- **Diagnostik**:: [[EKG]] ([[Niedervoltage]]), [[TTE]]
+- **DD**:: [[Perikarderguss]] (Hämodynamik opB), [[Schock]] anderer Genese
