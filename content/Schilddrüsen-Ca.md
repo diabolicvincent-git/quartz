@@ -5,9 +5,13 @@ title: Schilddrüsen-Ca
 > (Abstract::Auch: Struma maligna.)
 - **Epidemiologie**:: [[M]]>[[W]]
 - **Ätiologie**:: Genetik (MEN), [[Ionisierende Strahlung]]
-- **Klassifikation**:: [[Papilläres Schilddrüsen-Ca]], [[Follikuläres Schilddrüsen-Ca]], [[Anaplastisches Schilddrüsen-Ca]]
+- **Klassifikation**
+	- *[[Papilläres Schilddrüsen-Ca]]*
+	- *[[Follikuläres Schilddrüsen-Ca]]*
+	- *[[Anaplastisches Schilddrüsen-Ca]]*:: 5%, schnelle [[Metastasierung]]
 - **Symptome**:: Keine Frühsymptome, später [[Struma]], [[Dysphagie]], Heiserkeit (Recurrensparese), [[Horner-Syndrom]], [[Einflussstauung]], [[Stridor]], [[Lymphadenopathie]]
 - **Diagnostik**:: [[Tumormarker]] (==Thyreoglobulin==, ==[[Calcitonin]]==), [[Schilddrüsenhormone]], [[Sonographie]], [[Szintigraphie]], Aspirationscytologie
-- **DD**:: Schilddrüsenzyste, [[Thyreoiditis]]
+- **DD**:: Schilddrüsenzyste, [[Thyreoiditis]], [[Schilddrüsenautonomie]]
 - **Therapie**:: [[OP]] (totale Thyreoidektomie + Lymphadenektomie)
+- **Prognose**:: Sehr gut (außer [[Anaplastisches Schilddrüsen-Ca]])
 - **Prävention**:: Iodgabe bei nuklearem Zwischenfall
