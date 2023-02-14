@@ -9,7 +9,7 @@ title: Wernicke-Encephalopathie
 	- Ataxie[^3]
 	- Autonome Dysregulation[^4] ([[Hypothermie]], [[Hypotonie]])
 - **Komplikationen**:: *Korsakow-Syndrom* (dauerhafte Defizite)
-- **DD**:: [[ICB]]/[[Stroke]], [[Encephalitis]], Osmotische Myelinolyse, Miller-Fisher-Syndrom
+- **DD**:: [[ICB]]/[[Schlaganfall]], [[Encephalitis]], Osmotische Myelinolyse, Miller-Fisher-Syndrom
 - **Therapie**:: ==[[Vitamin B1 (Thiamin)]] (Thiamin) hochdosiert [[i.v.]]==
 
 

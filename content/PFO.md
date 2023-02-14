@@ -13,4 +13,4 @@ title: PFO
 - **Diagnostik**:: Echokardiographie
 - **Therapie**
 	- *Asymptomatisch:* Keine
-	- *[[Stroke]] + PFO:* [[Thrombocytenaggregationshemmer]] ggf. + [[Antikoagulation]] / interventionaller Foramen-Verschluss
+	- *[[Schlaganfall]] + PFO:* [[Thrombocytenaggregationshemmer]] ggf. + [[Antikoagulation]] / interventionaller Foramen-Verschluss

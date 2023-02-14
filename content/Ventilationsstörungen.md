@@ -27,7 +27,7 @@ bei einer gegebenen Patientin, einem gegebenen Patienten eine pulsoxymetrische U
 - **Reduzierter Atemantrieb**
     - [[Intoxikation]] (Drogen, Medikamente)
     - Obesitas-Hypoventilationssyndrom
-    - [[Encephalitis]], [[Stroke]]
+    - [[Encephalitis]], [[Schlaganfall]]
 - **Neuromuskuläre Erkrankungen**
     - z.B. [[Guillain-Barré-Syndrom]], Myaesthenia Gravis
 - **Exzessiver Ventilationsbedarf**

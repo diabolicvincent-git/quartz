@@ -3,7 +3,7 @@ tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Sekretion im Magen-Darm-Trakt
 ---
 - **Mundhöhle**:: Exokrine [[Sekretion]]
-    - Glandula submandibularis 70%, Glandula parotis 25%, Glandula sublingualis 5% des Speichels
+    - Glandula submandibularis 70%, [[Gl. parotis]] 25%, Glandula sublingualis 5% des Speichels
 - **[[Ösophagus]]**:: Exokrine [[Sekretion]]
     - Aboraler Abschnitt: schleimbildende Zellen entsprechen denen der Kardia des Magens
 - **[[Magen]]**

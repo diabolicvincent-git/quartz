@@ -2,11 +2,10 @@
 tags: [Modul/m02, Fach/Genetik, Fach/Biochemie]
 title: Chromosom
 ---
-### Chromosom
 - **Aufbau**
-	- ![[Chromatiden]]
-	- ![[Centromer]]
-	- ![[Telomer]]
+	- [[Chromatiden]]
+	- [[Centromer]]
+	- [[Telomer]]
 	- **p-Arm**
 	- **q-Arm**
 

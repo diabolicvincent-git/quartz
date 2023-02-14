@@ -10,7 +10,7 @@ title: AV-Block
 	- **III°** P-Wellen und [[QRS]] vollständig entkoppelt → bradykarder Kammerersatzrhythmus
 - **DD**:: [[Schenkelblock]], Sinuatrialer Block
 - **Therapie** (IIb°-III°)
-	- [[Atropin]] 1 mg [[i.v.]], ggf. [[Adrenalin]]
+	- [[Atropin]] 1 mg [[i.v.]], ggf. [[EPINEPHrin]]
 	- Transcutane Schrittmachertherapie / Pacing
 	- Permanente Implantation eines Herzschrittmachers
 

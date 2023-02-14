@@ -16,7 +16,7 @@ title: Apoptose
 
 ## Pathologien
 - **[[Apoptose]]↓**:: [[Neoplasie]], [[Chemotherapie]]-Resistenz, [[Autoimmunität]]
-- **[[Apoptose]]↑** [[Neurodegenerative Erkrankungen]] ([[Parkinson-Syndrom]], [[Demenz]]), [[AIDS]], [[OMI]], [[Stroke]]
+- **[[Apoptose]]↑** [[Neurodegenerative Erkrankungen]] ([[Parkinson-Syndrom]], [[Demenz]]), [[AIDS]], [[OMI]], [[Schlaganfall]]
 
 ### Neoplasien
 - siehe [[Tumorsuppressoren]], [[Onkogene]], [[p53]]

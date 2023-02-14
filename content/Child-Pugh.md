@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Art/Intervention, Art/Intervention]
 title: Child-Pugh
 ---
-### Child-Pugh
 > Stadieneinteilung der [[Leberzirrhose]]
 - **Stadien**
 	- **A**:: 5-6 Pkt. (1-[[JÜR]] 100%)

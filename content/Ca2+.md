@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Ca2+
 ---
-### Calcium / Ca2+
+> (Abstract::**Calcium.**)
 - **Funktion**
 	- [[Signaltransduktion]] ([[Second Messenger]], Vesikelfreisetzung an [[Synapse]])
 	- [[Muskelkontraktion]]

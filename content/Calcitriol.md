@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m14, Fach/Physiologie, Facach/Biochemie/Molekül]
+tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: Calcitriol
 ---
-### Calcitriol
 > Aktiviertes [[Vitamin D (Calciferol)]]
 ### Synthese
 - Geschwindigkeitsbestimmend: *Spaltung durch [[UV]]-Licht* in der [[Haut]] und *1α-Hydroxylase* in der [[Niere]]

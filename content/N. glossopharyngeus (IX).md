@@ -12,7 +12,7 @@ title: N. glossopharyngeus (IX)
 - **Qualität**:: [[Allgemeine Visceroefferenzen]]
 	- **Funktion**:: [[Parasympathikus]]
 	- **Kern**:: Ncl. salivatorius inferior
-	- **Innerviert**:: Gl. parotidea, Gl. buccales, Gl. labiales
+	- **Innerviert**:: [[Gl. parotis|Gl. parotidea]], Gl. buccales, Gl. labiales
 - **Qualität**:: [[Allgemeine Visceroafferenzen]]
 	- **Funktion**:: Blutdruckregulation
 	- **Kern**:: Ncl. tractus solitarii pars inferior

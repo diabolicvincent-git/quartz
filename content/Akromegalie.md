@@ -6,7 +6,7 @@ title: Akromegalie
 - **Pathophysiologie**:: ==[[Hypophysenadenom]]== → [[GH]]↑ ([[Hypothalamus-Hypophysen-Achse]])
 - **Symptome**
 	- Vergrößerte Akren, Schwitzen, [[Arthralgie]], [[Gesichtsfeldausfall]]
-	- **Komplikationen**:: [[Hypertonie]], [[Atherosklerose]], [[Diabetes mellitus]] Typ 3, [[Stroke]], [[Schlafapnoe]], [[Arthrose]], [[Karpaltunnelsyndrom]]
+	- **Komplikationen**:: [[Hypertonie]], [[Atherosklerose]], [[Diabetes mellitus]] Typ 3, [[Schlaganfall]], [[Schlafapnoe]], [[Arthrose]], [[Karpaltunnelsyndrom]]
 - **Diagnostik**
 	- **[[Labor]]**:: [[IGF]]
 	- **STH-Suppressionstest**:: oGTT → [[Hyperglycämie]] → physiologisch [[GH]]↓ 

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19 Modul/m22, Fach/Gastroenterologie, Fach/Urologie]
+tags: [Modul/m19, Modul/m22, Fach/Gastroenterologie, Fach/Urologie]
 title: DRU
 ---
 ### Digital-rektale Untersuchung / DRU

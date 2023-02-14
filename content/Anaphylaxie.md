@@ -5,8 +5,8 @@ title: Anaphylaxie
 > (Abstract::Akute, lebensgefährliche [[Allergie]])
 - **SOP**
 	1. Allergen-Exposition beenden, Lagerung
-	2. *≥II°*: [[Adrenalin]] 0.5mg [[i.m.]] (Wdh. >10 min)
-	3. *Dyspnoe führend*: [[Adrenalin]] 3mg [[p.i.]]
+	2. *≥II°*: [[EPINEPHrin]] 0.5mg [[i.m.]] (Wdh. >10 min)
+	3. *Dyspnoe führend*: [[EPINEPHrin]] 3mg [[p.i.]]
 	4. [[i.v.]]-Zugang, [[Volumentherapie]]
 	5. [[Prednisolon]] 250mg [[i.v.]], [[cLEMAstin]] 2mg [[i.v.]]
 	6. ggf. [[Adrenalin]] [[i.v.]]

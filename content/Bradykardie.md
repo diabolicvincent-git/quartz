@@ -5,7 +5,7 @@ title: Bradykardie
 > [[HF]] <60 / min ([[HRST]])
 - **SOP**
 	1. [[Atropin]] 1mg [[i.v.]]
-	2. [[Adrenalin]] [[i.v.]]
+	2. [[EPINEPHrin]] [[i.v.]]
 	3. [[Schrittmacher]] 30mA++, [[HF]] 70/min
 ---
 - **Einteilung**

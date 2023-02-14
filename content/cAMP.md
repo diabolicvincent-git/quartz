@@ -2,7 +2,7 @@
 tags: [Modul/m04, Fach/Biochemie/Molekül]
 title: cAMP
 ---
-### cAMP / Cyclisches Adenosinmonophosphat
+> (Abstract::**Cyclisches Adenosinmonophosphat.**)
 - **Synthese**:: [[Gαs]]-[[GPCR]] → membranständige Adenylatcylase ([[ATP]] → [[cAMP]])
 - **Beispiele**:: Viele [[Hormon]], z.B. [[ACTH]], [[TSH]], Glucagon
 - **Wirkung**:: Aktivierung der Proteinkinase A (PKA)

@@ -56,7 +56,7 @@ title: Epithel
 
 ## Drüsenepithel
 
-Einzelne Epithelzellen (z.B. Becherzellen) oder ganze Epithelzellverbände (z.B. Parotis), die ein Sekret herstellen und in den Extrazellulärraum freisetzen
+Einzelne Epithelzellen (z.B. Becherzellen) oder ganze Epithelzellverbände (z.B. [[Gl. parotis]]), die ein Sekret herstellen und in den Extrazellulärraum freisetzen
 
 ### Einteilungskriterien
 

@@ -2,7 +2,7 @@
 tags: [Modul/m21, Fach/Psychiatrie, Art/Pathologie]
 title: CFS
 ---
-### Chronisches Fatigue Syndrom
+> (Abstract::**Chronisches Fatigue Syndrom.**)
 - **Epidemiologie**:: Prävalenz 0.3%, [[M]]:[[W]] 3:1
 - **Ätiologie**:: Postinfektiös ([[EBV]], Coxsackie) + familiäre Häufung
 - **Pathophysiologie**:: Dysregulation Immunsystem/[[Stoffwechsel]][^1] → 

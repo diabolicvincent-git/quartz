@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Gynäkologie, Fach/Onkologie]
 title: Cervix-Ca
 ---
-### Cervixkarzinom
 - **Epidemiologie**:: Zweithäufigstes [[Karzinom]] bei Frauen
 - **Pathophysiologie**:: [[Infektionen]] mit ==High-Risk-[[HPV]]== → Proliferation + Auswanderung infizierter [[Zellen]] → präinvasive Läsionen mit Latenz von mehreren Jahren
 - **Symptome**

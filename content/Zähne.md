@@ -3,7 +3,7 @@ tags: [Fach/Anatomie/Organ, Fach/HNO]
 title: Zähne
 ---
 > (Abstract::**20 (Milchgebiss) – 32 (Dauergebiss).**)
-- **Funktion**:: Abbeißen (Schneidezahn), reißen (Eckzahn), kauen (Prämolar und Molar)
+- **Funktion**:: Abbeißen (4x2 Schneidezähne), reißen (4x1 Eckzahn), kauen (4x2 Prämolaren und 4x3 Molaren)
 - **Lage**:: Knöcherne Zahnalveolen
 - **Leitungsbahnen**::
 	- **[[Arterien]]**:: Aa. alveolares aus [[A. maxillaris]]

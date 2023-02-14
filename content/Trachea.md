@@ -25,7 +25,7 @@ Besteht aus aus hufeisenförmigen Knorpelspangen, dorsal durch eine Muskel-Binde
  - **Venös**:: Vv. tracheales in [[V. cava superior]], V. thyroidea inferior oder V. brachiocephalica
 
 ### Innervation
-- **[[Parasympathikus]]**:: N. laryngeus recurrens (aus [[N. vagus (X)]])
+- **[[Parasympathikus]]**:: [[N. laryngeus recurrens]] (aus [[N. vagus (X)]])
 - **[[Sympathikus]]**:: Ganglion cervicale inferius
 
 ## Mikroskopie

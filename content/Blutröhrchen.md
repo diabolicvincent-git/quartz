@@ -2,7 +2,6 @@
 tags: [Modul/m00, Fach/Hämatologie]
 title: Blutröhrchen
 ---
-### Blutröhrchen
 1. **Serum**:: [[Elektrolyte]], Leberenzyme, Serologien
 2. **Citrat**:: ==[[Gerinnungsdiagnostik]]==
 3. **[[BSG]]**:: [[BSG]]

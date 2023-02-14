@@ -19,7 +19,7 @@ title: Hypophysenvorderlappeninsuffizienz
 	- **Stimulationstests**
 		- GRH, GnRH, TRH Stimulation (mit [[CRH]] nicht möglich)
 		- *==Insulin-Hypoglycämie-Test==:* [[Nüchtern]] + [[Insulin]] [[i.v.]] → induzierte [[Hypoglycämie]] <40 mg/dl → Messung [[Glucose]], [[Cortisol]], ggf. [[ACTH]], [[GH]][^2]
-	- **[[MRT]]**:: Raumforderung [[Hypophyse]] (Mikroadenom, Makroadenom, [[Stroke]])
+	- **[[MRT]]**:: Raumforderung [[Hypophyse]] (Mikroadenom, Makroadenom, [[Schlaganfall]])
 - **Therapie**
 	- *Kausal:* [[OP]]
 	- *Symptomatisch:* ♂ Testosteron[^3], [[M]] [[Östrogene]]-[[Gestagene]], L-Thyroxin, Hydrocortison, ggf. [[GH]]

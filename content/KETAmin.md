@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: KETAmin
 ---
-### (Es-)Ketamin
 - **Wirkung**:: ==[[Dissoziative Anästhesie]]==, Analgesie, Amnesie, ==Sympathikus↑==, [[ICP]]↓
 - **Wirkmechanismus**:: Nicht-kompetitive Hemmung von NMDA-Rezeptoren u.a.[^2]
 - **Indikation**

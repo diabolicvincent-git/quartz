@@ -4,5 +4,5 @@ title: Antisympathotonika
 ---
 > (Abstract::Auch: Sympatholytika.)
 - **Wirkstoffe**
-	- **[[Clonidin]]**
+	- **[[cloNIDin]]**
 	- **[[Urapidil]]**

@@ -4,5 +4,5 @@ title: Cheyne-Stokes-Atmung
 ---
 ### Cheyne-Stokes-Atmung
 > Periodisches An- und Abschwellen der Atemtiefe
-- Cerebrale Minderperfusion, ausgelöst durch fortgeschrittene [[Herzinsuffizienz]], [[Stroke]], [[Intoxikation]]
+- Cerebrale Minderperfusion, ausgelöst durch fortgeschrittene [[Herzinsuffizienz]], [[Schlaganfall]], [[Intoxikation]]
 - Hyperventilation → [[CO2]]↓ → Hypoventilation/Apnoe → CO2↑ → Atemantrieb

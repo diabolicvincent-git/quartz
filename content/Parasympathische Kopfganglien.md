@@ -8,6 +8,6 @@ Jedes der [[Ganglien]] enthält je Radix parasympathica, Radix sympathica, Radix
 -|-|-
 [[Ganglion ciliare]]|[[Orbita]]|[[M. sphincter pupillae]], [[M. ciliaris]], [[M. dilatator pupillae]]
 [[Ganglion pterygopalatinum]]|[[Fossa pterygopalatina]]|[[Glandula lacrimalis]], [[Glandulae nasales]], [[Glandulae palatinae]]
-[[Ganglion oticum]]|[[Fossa infratemporalis]]|[[Parotis]]
+[[Ganglion oticum]]|[[Fossa infratemporalis]]|[[Gl. parotis]]
 [[Ganglion submandibulare]]|[[Mundboden]]|[[Glandula submandibularis]], [[Glandula sublingualis
 ]

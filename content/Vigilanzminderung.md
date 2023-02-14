@@ -7,7 +7,7 @@ title: Vigilanzminderung
 	- [[Somnolenz]]
 	- [[Sopor]]
 	- [[Koma]]
-- **Ätiologie**:: Primär (z.B. [[Hirntumor]], [[ICB]], [[Stroke]], [[Krampfanfall]]) vs. Sekundär (z.B. [[Intoxikation]], [[Hypoglycämie]], [[Urämie]], [[Schock]])
+- **Ätiologie**:: Primär (z.B. [[Hirntumor]], [[ICB]], [[Schlaganfall]], [[Krampfanfall]]) vs. Sekundär (z.B. [[Intoxikation]], [[Hypoglycämie]], [[Urämie]], [[Schock]])
 - **Diagnostik**:: ==[[GCS]]==
 - **DD**:: Pseudo-[[Koma]] ([[Locked-in-Syndrom]], [[Akinetische Krise]], Dissoziation, psychogen)
 ---

@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Augenlinse
 ---
-### Augenlinse
 - **Funktion**:: Lichtbrechung (Sammellinse), [[Akkommodation]]
 	- Quasi nichts drin
 	- Hexagonal angeordnete *Cristallin-[[Proteine]]*, damit sie dichter als [[Wasser]] ist → Lichtbrechung

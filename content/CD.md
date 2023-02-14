@@ -2,12 +2,9 @@
 tags: [Modul/m08, Modul/m19, Fach/Rheumatologie]
 title: CD
 ---
-### CD-Marker
 > Auswahl der wichtigsten CD-Marker (*Clusters of differentiation*)
 
-- ![[CD34]]
-
-
+- [[CD34]]
 
 ## Nach Zelltypen
 Zelltyp|CD-Marker

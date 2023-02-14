@@ -2,7 +2,6 @@
 tags: [Modul/m09, Modul/m19, Art/Pathologie, Fach/Dermatologie, Fach/Onkologie, Art/Pathologie]
 title: Basalzell-Ca
 ---
-### Basalzellkarzinom / Basaliom
 > Semimaligner [[Tumor]]
 - **Ätiologie**:: [[Hauttyp]] I+II, Chemische Noxen (z.B. Arsen), [[UV]]-Exposition
 - **Symptome**

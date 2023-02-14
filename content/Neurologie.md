@@ -55,7 +55,7 @@ WHERE contains(tags, "a/Pathologie")
 	- [[Creutzfeldt-Jakob]]
 	- [[Tollwut]]
 - [[Vaskuläre ZNS-Erkrankungen]]
-	- [[Stroke]]
+	- [[Schlaganfall]]
 		- [[Paradoxe Embolie]]
 	- [[Subclavian-Steal-Syndrom]]
 	- [[Intrakranielle Blutung]]

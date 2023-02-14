@@ -13,6 +13,6 @@ title: Spastische Parese
 - **DD**
 	- [[Multiple Sklerose]]
 	- [[Hirntumor]]
-	- [[Stroke]]
+	- [[Schlaganfall]]
 	- [[Intrakranielle Blutung]]
 	- Rückenmarksläsion

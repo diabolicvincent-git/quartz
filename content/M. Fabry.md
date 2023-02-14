@@ -8,5 +8,5 @@ title: M. Fabry
 - **Pathophysiologie**:: Mangel ==⍺-Galactosidase A== → Akkumulation von Metaboliten
 - **Symptome**
 	- *Früh:* Schubhaft akrodistale brennende Parästhesien, Hypohidrose, GI-Beschwerden, Angiokeratome, Hornhauttrübung, [[Katarakt]]
-	- *Spät:* [[Kardiomyopathie]], [[Stroke]], ==[[CKD]]==
+	- *Spät:* [[Kardiomyopathie]], [[Schlaganfall]], ==[[CKD]]==
 - **Therapie**:: Enzymersatztherapie

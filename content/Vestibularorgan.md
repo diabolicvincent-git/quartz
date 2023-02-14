@@ -79,7 +79,7 @@ title: Vestibularorgan
 
     - **[[Neurologie]]**
         - [[Migräne]]
-        - TIAs/[[Stroke]]
+        - TIAs/[[Schlaganfall]]
         - [[Hirnstamm]]-/Kleinhirnläsionen
     - **Innere**
         - Orthostatische [[Hypotonie]]

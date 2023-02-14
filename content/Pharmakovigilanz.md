@@ -8,6 +8,6 @@ title: Pharmakovigilanz
 	- *sound-alike*
 	- *look-alike*
 	- Dosierungsfehler
-		- z.B. [[Methotrexat]] 1/Woche bei rheumatoiden, 1/Tag bei onkologischen Erkrankungen
+		- z.B. [[Methotrexat (MTX)]] 1/Woche bei rheumatoiden, 1/Tag bei onkologischen Erkrankungen
 
 ![[UAW]]

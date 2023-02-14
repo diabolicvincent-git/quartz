@@ -2,10 +2,9 @@
 tags: [Modul/m08, Fach/Hämatologie]
 title: Blutgruppen
 ---
-### Blutgruppen
 > Antigene auf [[Erythrocyten]] → [[Antikörper]]-Bildung
-- ![[AB0]]
-- ![[Rh#Rhesus- Rh - Blutgruppen]]
+- [[AB0]]
+- [[Rh]]
 
 
 - **Weitere Blutgruppensysteme** (zu beachten z.B. bei [[Sichelzellanämie]]-[[Transfusion]])

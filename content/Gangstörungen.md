@@ -54,7 +54,7 @@ Veränderung der Druckverteilung am OS-Hals
 "Als würde man durch [[Wasser]] waten"
 
 - Problem im aktiven Bewegungsapparat
-- **Gestörte Balance Agonist ↔ Antagonist** (z.B. Flexor vs. Extensor im [[Kniegelenk]] bei Z.n.[[Stroke]])
+- **Gestörte Balance Agonist ↔ Antagonist** (z.B. Flexor vs. Extensor im [[Kniegelenk]] bei Z.n.[[Schlaganfall]])
 
 ### Zentral bedingte Gangstörungen
 

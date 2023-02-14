@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie, Modul/m30]
-title: Stroke
+title: Schlaganfall
 ---
-> (Abstract::**90% ischämisch, 10% hämorrhagisch ([[ICB]]/[[SAB]]).** Auch: Ischämischer Schlaganfall, Apoplex [sic].)
+> (Abstract::**90% ischämisch, 10% hämorrhagisch ([[ICB]]/[[SAB]]).** Auch: Stroke, Apoplex [sic].)
 - **SOP**
 	1. [[BEFAST]], [[Untersuchung Neurologie]]
 	2. Oberkörperhochlagerung

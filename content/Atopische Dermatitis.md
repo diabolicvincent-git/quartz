@@ -106,7 +106,7 @@ title: Atopische Dermatitis
         - Systemische Pharmaka
             - Cyclosporin (einziges für AD zugelassenes Immunsuppressivum)
             - [[Azathioprin]]
-            - [[Methotrexat]]
+            - [[Methotrexat (MTX)]]
             - [[Corticosteroide]]
             - Biologics: Dupilumab ([[IL-4]]/13-[[Rezeptor]]-[[Antikörper]])
         - Balneo-Phototherapie

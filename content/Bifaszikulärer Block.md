@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Bifaszikulärer Block
 ---
-### Bifaszikulärer Block
 > [[Schenkelblock]] in 2 der 3 [[Tawara-Schenkel]][^1]
 - **Typisch**:: Kompletter [[Rechtsschenkelblock]] + linksanteriorer Hemiblock
 

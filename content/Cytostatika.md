@@ -4,7 +4,7 @@ title: Cytostatika
 ---
 - **Wirkstoffe**
 	- **[[Alkylanzien]]**:: ==Alkylierung von [[DNA]]/[[RNA]]==
-		- Oxazaphosphorine (z.B. ==Cyclophosphamid== → [[UAW]] Hämorrhagische Cystitis, Urothel-Ca)
+		- Oxazaphosphorine (z.B. ==[[Cyclophosphamid]]== → [[UAW]] Hämorrhagische Cystitis, Urothel-Ca)
 		- Platinanaloga (z.B. ==Cisplatin== → [[UAW]] Erbrechen, Nephrotox.)
 		- Hydrazine (z.B. Dacarbazin)
 		- N-Lost-Derivate (z.B. Melphalan)
@@ -17,7 +17,7 @@ title: Cytostatika
 		- Vinca-Alkaloide (z.B. Vincristin)
 		- Taxane (z.B. Docetaxel, Paclitaxel)
 	- **[[Antimetabolite]]**
-		- [[Folsäure]]-Antagonisten (z.B. ==[[Methotrexat]]==)
+		- [[Folsäure]]-Antagonisten (z.B. ==[[Methotrexat (MTX)]]==)
 		- Pyrimidin-Antagonisten (z.B. 5-FU)
 		- Ribonucleotidreduktase-Hemmer (z.B. Hydroxyurea)
 	- **Sonstige**

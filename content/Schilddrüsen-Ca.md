@@ -6,7 +6,7 @@ title: Schilddrüsen-Ca
 - **Epidemiologie**:: [[M]]>[[W]]
 - **Ätiologie**:: Genetik (MEN), [[Ionisierende Strahlung]]
 - **Klassifikation**
-	- *[[Papilläres Schilddrüsen-Ca]]*
+	- *[[Papilläres Schilddrüsen-Ca]]*:: Am häufigsten
 	- *[[Follikuläres Schilddrüsen-Ca]]*
 	- *[[Anaplastisches Schilddrüsen-Ca]]*:: 5%, schnelle [[Metastasierung]]
 - **Symptome**:: Keine Frühsymptome, später [[Struma]], [[Dysphagie]], Heiserkeit (Recurrensparese), [[Horner-Syndrom]], [[Einflussstauung]], [[Stridor]], [[Lymphadenopathie]]

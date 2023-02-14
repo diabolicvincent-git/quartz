@@ -13,6 +13,6 @@ title: Schilddrüse
 	- **[[Arterien]]**
 		- A. thyroidea superior aus A. carotis externa
 		- A. thyroidea inferior aus Truncus thyrocervicalis
-	- **Nerven**:: N. laryngeus superior und N. laryngeus recurrens aus [[N. vagus (X)]] (sensibel/parasympathisch)
+	- **Nerven**:: N. laryngeus superior und [[N. laryngeus recurrens]] aus [[N. vagus (X)]] (sensibel/parasympathisch)
 
 ![[Pasted image 20220414002852.png]]

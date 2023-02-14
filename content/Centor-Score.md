@@ -1,5 +1,5 @@
 ---
-tags: Fach/HNO, Fach/Pädiatrie, Fach/Infektiologie
+tags: [Fach/HNO, Fach/Pädiatrie, Fach/Infektiologie]
 title: Centor-Score
 ---
 > (Abstract::Differenzierung [[Viren]]↔︎[[Bakterien]] bei [[Tonsillitis]]. ≥15 Jahre.)

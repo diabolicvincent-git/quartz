@@ -41,11 +41,11 @@ title: Glomerulonephritis
 - **Nierenbiopsie**:: Typische Halbmonde der Glomeruli (durch Proliferation von Fibroblasten)
 
 ## Therapie
-- **Immunsuppression**:: Prednisolon, Cyclophosphamid
+- **Immunsuppression**:: Prednisolon, [[Cyclophosphamid]]
 - Ggf. Plasmapherese (bei Goodpasture obligat)
 - Ggf. [[Dialyse]]
 - Rituximab ([[CD]]20-[[Antikörper]] gg. [[B-Zellen]])
-- **Remissionserhalt**:: Lebenslang Immunsuppression ([[Azathioprin]]) und [[Cytostatika]] ([[Methotrexat]])
+- **Remissionserhalt**:: Lebenslang Immunsuppression ([[Azathioprin]]) und [[Cytostatika]] ([[Methotrexat (MTX)]])
 
 
 ![[Nephritis]]

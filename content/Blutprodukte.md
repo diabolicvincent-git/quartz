@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Hämatologie, Art/Intervention]
 title: Blutprodukte
 ---
-### Blutprodukte
 - **Korpuskuläre [[Transfusion]]spräparate**
 	- [[EK]]
 	- [[TK

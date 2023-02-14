@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Art/Pathologie]
 title: Chondrosarkom
 ---
-### Chondrosarkom
 > [[Knorpel]]-bildender [[Tumor]]
 - **Progression**:: Langsam-infiltrierendes Wachstum → erst späte Diagnose
 - **Lokalisation**:: ==[[Becken]], proximaler Femur==; selten Rippen, Humerus

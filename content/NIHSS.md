@@ -3,7 +3,7 @@ tags: [Modul/m30, Fach/Neurologie, Art/Intervention]
 title: NIHSS
 ---
 ### NIHSS
-> Beurteilung [[Stroke]]-Schweregrad
+> Beurteilung [[Schlaganfall]]-Schweregrad
 - **1A**:: Vigilanz
 - **1B**:: Orientierung
 - **1C**:: Befolgen von Aufforderungen

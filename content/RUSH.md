@@ -2,7 +2,6 @@
 tags: [Modul/m00, Modul/m21, Fach/Anästhesie, Fach/Radiologie]
 title: RUSH
 ---
-### RUSH
 > [[Notfallsonographie]] bei [[Schock]] und [[Hypotonie]] *(HI-MAP)*
 1. **[[Herz]]**:: Perikarderguss, linksventrikuläre Pumpfunktion, Rechtsherzbelastung?
 2. **[[V. cava inferior]]**:: [[Volumenstatus]]/Flüssigkeits*toleranz*?

@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: Calciumantagonisten
 ---
-### Calciumantagonisten / [[Ca2+]] Kanal-Blocker
+> (Abstract::**[[Ca2+]] Kanal-Blocker.**)
 - **Indikation**:: [[Hypertonie]], stabile [[Angina pectoris]], [[HRST]] ([[SVT]]), [[Raynaud-Syndrom]], HOCM, Clusterkopfschmerz-Prophylaxe, [[SAB]]-Vasospasmusprophylaxe
 - **KI (alle)**:: [[Hypotonie]], [[ACS]], [[Schwangerschaft]]
 

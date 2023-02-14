@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Anästhesie]
 title: B – Breathing
 ---
-### Breathing ([[cABCDE]])
 - **Diagnostik**
 	- *First Look:* [[AF]], Tidalvolumen, [[Atemmechanik]], [[SpO2]], [[Zyanose]]
 	- *Second Look:* [[Untersuchung Lunge]], [[eFAST]], [[BGA]]
@@ -12,7 +11,7 @@ title: B – Breathing
 	- *Pleura:* [[Pleuraerguss]], [[Spannungspneumothorax]]
 	- *[[Intoxikation]]* 
 	- *Herz-Kreislauf:* [[Herzinsuffizienz]]/[[Lungenödem]], [[LAE]], [[ACS]]
-	- *[[ZNS]]:* [[SHT]], [[Stroke]], [[Intrakranielle Blutung]], [[Hyperventilation]]
+	- *[[ZNS]]:* [[SHT]], [[Schlaganfall]], [[Intrakranielle Blutung]], [[Hyperventilation]]
 	- *Systemisch:* [[Anämie]], Diabetische Ketoazidose, Myasthene Krise
 - **Therapie**
 	- [[O2]]-Gabe

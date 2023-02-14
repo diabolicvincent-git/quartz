@@ -5,7 +5,7 @@ title: Mediastinum
 - **Oberes Mediastinum**:: Rückseite Manubrium sterni bis Vorderseite BWK 1-4
 	- *Organe:* [[Thymus]], [[Trachea]], [[Ösophagus]]
 	- *[[Gefäße]]:* Arcus aortae, [[Truncus brachiocephalicus]], A. carotis communis sinistra, [[A. subclavia]] sinistra, Aa. thoracicae internae, Vv. thoracicae internae, [[V. cava superior]], Vv. brachiocephalicae
-	- *Nerven:* [[N. vagus (X)]], N. laryngeus recurrens sinister, Nn. cardiaci, Nn. phrenici
+	- *Nerven:* [[N. vagus (X)]], [[N. laryngeus recurrens]] sinister, Nn. cardiaci, Nn. phrenici
 	- *Lymphe:* Ductus thoracicus (links) bzw. Truncus lymphaticus dexter (rechts), Trunci bronchomediastinales, Nll. mediastinales ant./post.
 - **Unteres Mediastinum**
 	- **Vorderes Mediastinum**:: Rückseite Sternum bis Vorderseite [[Herz]]

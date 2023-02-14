@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m04 Modul/m22 ToDo, Fach/Endokrinologie]
+tags: [Modul/m04, Modul/m22, Fach/Endokrinologie]
 title: Cushing-Syndrom
 ---
 > (Abstract::**Hypercortisolismus.** Durch [[Glucocorticoide]] oder [[ACTH]]-Tumor. [[Adipositas]], Striae, [[Diabetes mellitus]] etc.)

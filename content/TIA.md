@@ -4,7 +4,7 @@ title: TIA
 ---
 > (Abstract::**Transitorische ischämische Attacke.** Fokale Ischämie → passageres [[Neurologisches Defizit]] *ohne* Infarkt)
 - **Pathophysiologie**:: Mikroembolien aus Plaques der [[A. carotis interna]]
-- **Symptome**:: Wie [[Stroke]], Dauer Minuten bis wenige Stunden
-- **Diagnostik**:: Wie [[Stroke]]
-- **DD**:: [[Stroke]]
-- **Prognose**:: 90-Tage-Risiko für [[Stroke]]: 10%
+- **Symptome**:: Wie [[Schlaganfall]], Dauer Minuten bis wenige Stunden
+- **Diagnostik**:: Wie [[Schlaganfall]]
+- **DD**:: [[Schlaganfall]]
+- **Prognose**:: 90-Tage-Risiko für [[Schlaganfall]]: 10%

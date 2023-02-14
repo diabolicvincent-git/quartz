@@ -16,7 +16,7 @@ title: Rheumatoide Arthritis
 	- **[[Bildgebung]]**:: [[Röntgen]] (Periartikuläre [[Osteoporose]], [[Erosionen]], Gelenkspaltverschmälerung), [[Sonographie]], [[MRT]]
 - **Therapie**
 	- **Akut**:: [[Glucocorticoide]] (möglichst kurz), [[NSAR]], [[Coxibe]]
-	- **Langfristig**:: ==[[Methotrexat]]==+Folsäure; alternativ Sulfasalazin, [[TNF]]-α-Hemmer
+	- **Langfristig**:: ==[[Methotrexat (MTX)]]==+Folsäure; alternativ Sulfasalazin, [[TNF]]-α-Hemmer
 
 ---
 
@@ -77,14 +77,14 @@ Punkte|[[Gelenke]]|Serologie|Symptome|[[Akute-Phase-Proteine]]
 - **Medikamentös**
 	- **[[NSAR]]**:: [[COX]]-Hemmer (z.B: [[Ibuprofen]], Etoricoxib)
 	- **[[Glucocorticoide]]**:: Predinosolon (möglichst lokal nicht systemisch)
-	- **Basistherapeutika (DMARD)**:: ==[[Methotrexat]]== low dose, Leflunomid, Sulfasalazin, Hydroxychloroquin
+	- **Basistherapeutika (DMARD)**:: ==[[Methotrexat (MTX)]]== low dose, Leflunomid, Sulfasalazin, Hydroxychloroquin
 	- **Biologika**:: Diverse [[Antikörper]] v.a. gegen [[Cytokine]] (insb. [[TNF]], [[IL-6]])
 	- **JAK-Inhibitoren**
 - **Lokale Injektionen** bei einzelnen komplikationsträchtigen Gelenken
 
 ### Stufenplan
 1. **Symptomatische Therapie**:: [[NSAR]], [[Coxibe]] (sofort)
-2. **Basistherapeutikum**:: i.d.R. [[Methotrexat]] (erste Wochen, ggf. überbrückend [[Glucocorticoide]] bis Wirkeintritt)
+2. **Basistherapeutikum**:: i.d.R. [[Methotrexat (MTX)]] (erste Wochen, ggf. überbrückend [[Glucocorticoide]] bis Wirkeintritt)
 3. **Kombination**:: z.B. mit Leflunomid (nach 3-4 Monaten)
 4. **Biologikum / JAK-Inhibitor** (nach 6-8 Monaten)
 

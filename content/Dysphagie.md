@@ -7,7 +7,7 @@ title: Dysphagie
     - 7% Gesamtdeutschland
     - 50% der Altenheimbewohner
 - **Ätiologie**
-    - [[Stroke]] ca. 50%
+    - [[Schlaganfall]] ca. 50%
     - Intensivtherapie ca. 70% (lange Immobilisation, [[Beatmung]])
     - Sonst. neurologische Erkrankungen ([[Amyotrophe Lateralsklerose]], [[Parkinson-Syndrom]], [[Multiple Sklerose]], Enzephalopathie)
 - **Ursachen**

@@ -11,7 +11,7 @@ title: VHF
 	- Palpitationen, Herzrasen, unregelmäßiger [[Puls]]
 	- [[Schwindel]], ggf. [[Synkope]], Angst, Unruhe
 	- [[Herzinsuffizienz]], [[Kardiale Dekompensation]], [[Lungenödem]]
-	- **Komplikationen**:: [[Embolie]] ([[Stroke]]), [[Tachykardie]]
+	- **Komplikationen**:: [[Embolie]] ([[Schlaganfall]]), [[Tachykardie]]
 - **Diagnostik**
 	- **[[Labor]]**:: [[TSH]]
 	- **[[EKG]]**:: Irreguläre [[RR]]-Intervalle (*==Arrhythmia absoluta==*), ==fehlende [[P-Welle]]==, schmaler [[QRS]], Flimmerwellen in V1-V2

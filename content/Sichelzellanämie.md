@@ -15,7 +15,7 @@ title: Sichelzellanämie
 	- ==Knochenmarksinfarkte== (Vasookklusionen überall im Körper; in [[Knochen]] zuerst schmerzhaft)
 - **Kindheit**
 	- Hand-Fuß-Syndrom
-	- Hohes [[Stroke]]-[[Risiko]]
+	- Hohes [[Schlaganfall]]-[[Risiko]]
 	- ==Schmerzkrisen==
 	- Milzsequestration
 	- Akutes Thoraxsyndrom

@@ -22,6 +22,6 @@ title: Sarkoidose
 - **DD**:: [[Tbc]], [[Hodgkin-Lymphom]], Pneumokoniose, Allergische Alveolitis
 - **Therapie**
 	- *Akut:* Nur [[NSAR]], >85% spontanremittierend
-	- *Chronisch:* [[Glucocorticoide]] → + [[Methotrexat]]/[[Azathioprin]] → + TNF-α-Blocker
+	- *Chronisch:* [[Glucocorticoide]] → + [[Methotrexat (MTX)]]/[[Azathioprin]] → + TNF-α-Blocker
 
 [^1]: Epitheloidzellen produzieren [[Vitamin D (Calciferol)]] → [[Ca2+]]↑ 

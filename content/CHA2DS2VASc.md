@@ -8,7 +8,7 @@ title: CHA2DS2VASc
 	- **[[Hypertonie]]** (1)
 	- **Alter** ≥75 Jahre (2)
 	- **[[Diabetes mellitus]]** (1)
-	- **[[Stroke]]/[[TIA]]/Thromboembolie** (2)
+	- **[[Schlaganfall]]/[[TIA]]/Thromboembolie** (2)
 	- **Vaskuläre Vorerkrankung**:: [[KHK]], [[pAVK]], Aortenplaque (1)
 	- **Alter** 65-74 Jahre (1)
 	- **Sex** [[M]] (1)

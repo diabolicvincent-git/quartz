@@ -129,5 +129,5 @@ Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückg
 ### Hemmstoffe der Purinsynthese
 
 - **Glutaminanaloga**:: Div. Ansatzpunkte
-- **[[Methotrexat]] / Aminopterin**:: Folsäureanaloga, hemmt H2-Folat-Reduktase
+- **[[Methotrexat (MTX)]] / Aminopterin**:: Folsäureanaloga, hemmt H2-Folat-Reduktase
 

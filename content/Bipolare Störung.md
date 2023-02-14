@@ -2,7 +2,7 @@
 tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Bipolare Störung
 ---
-### Bipolare [[Affektive Störung]]
+> Bipolare [[Affektive Störung]]
 - **Epidemiologie**:: [[M]]=[[W]] 
 - **Ätiologie**:: Familiäre Häufung
 - **Symptome**

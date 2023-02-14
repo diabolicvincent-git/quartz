@@ -2,7 +2,7 @@
 tags: [Modul/m15, Art/Intervention, Fach/Radiologie]
 title: DSA
 ---
-### Digitale Subtraktions[[Angiographie]] / DSA
+> (Abstract::**Digitale Subtraktions[[Angiographie]].**)
 - **Durchführung**
 	1. Punktion des Gefäßes, ggf. Katheter einführen
 	2. Natives [[Röntgen]] (*Leerbild*)

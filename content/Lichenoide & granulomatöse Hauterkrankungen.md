@@ -24,7 +24,7 @@ title: Lichenoide & granulomatöse Hauterkrankungen
 - **Systemische Therapie**
     - Orale [[Glucocorticoide]]
     - Orale [[Vitamin A]]
-    - [[Immunsuppressiva]] (Ciclosporin A, [[Methotrexat]])
+    - [[Immunsuppressiva]] (Ciclosporin A, [[Methotrexat (MTX)]])
 
 ## das klinische Bild von entzündlichen Hauterkrankungen (Lichen ruber und lichenoideErkrankungen, [[Sarkoidose]], Granulomaanulare) beschreiben
 

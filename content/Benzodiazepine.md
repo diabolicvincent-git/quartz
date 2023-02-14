@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anästhesie, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
 title: Benzodiazepine
 ---
-### Benzodiazepine
 - **Wirkung**:: Anxiolytisch, hypnotisch, sedierend, antikonvulsiv, amnestisch, muskelrelaxierend
 - **Wirkmechanismus**:: Indirekter Agonismus an [[GABA]]a (ähnlich [[Alkohol]])
 - **Entitäten**:: [[Midazolam]], [[Diazepam]], [[Lorazepam]]

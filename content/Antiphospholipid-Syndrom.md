@@ -5,7 +5,7 @@ title: Antiphospholipid-Syndrom
 > (Abstract::Erworbene [[Thrombophilie]] mit Bildung von [[Auto-Antikörper]]n gegen Phospholipid-gebundene [[Proteine]])
 - **Ätiologie**:: Assoziation mit [[SLE]], [[HIV]] u.ä. oder idiopathisch
 - **Symptome**
-	- **Rezidivierende [[Thrombose]]/[[Thromboembolie]]**:: [[OMI]][^1], [[Stroke]], [[Sinusvenenthrombose]], [[LAE]], [[CKD]], [[Ulcus]], [[Raynaud-Syndrom]]
+	- **Rezidivierende [[Thrombose]]/[[Thromboembolie]]**:: [[OMI]][^1], [[Schlaganfall]], [[Sinusvenenthrombose]], [[LAE]], [[CKD]], [[Ulcus]], [[Raynaud-Syndrom]]
 	- [[Schwangerschaft]]skomplikationen, Aborte
 - **Diagnostik**
 	- **[[Labor]]**:: ==[[aPTT]]↑== trotz [[Thrombophilie]][^2]

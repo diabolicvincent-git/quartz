@@ -15,11 +15,11 @@ title: Schwindel
 - [[Hypovolämie]] ([[Exsikkose]], [[Anämie]])
 - Medikamente ([[UAW]])
 - Palpitationen ([[HRST]])
-- [[Vigilanzminderung]] ([[Stroke]], [[Intoxikation]])
+- [[Vigilanzminderung]] ([[Schlaganfall]], [[Intoxikation]])
 - [[Fieber]] ([[Infektionen]])
 - [[TLOC]] ([[Synkope]], [[Krampfanfall]])
 - [[Hörstörung]] ([[M. Menière]])
-- Neurologisches Defizit ([[Stroke]])
+- Neurologisches Defizit ([[Schlaganfall]])
 - Ataxie ([[Kleinhirnsyndrom]]/-infarkt)
 
 

@@ -1,5 +1,5 @@
 ---
-tags: [Notfallmedizin/SOP]
+tags: [Fach/Notfallmedizin/SOP]
 title: c – critical Bleeding
 ---
 - **SOP**

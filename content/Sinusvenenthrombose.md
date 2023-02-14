@@ -3,7 +3,7 @@ tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Sinusvenenthrombose
 ---
 ### Sinusvenenthrombose
-> Im Effekt wie ein [[Stroke]] durch Blutrückstau
+> Im Effekt wie ein [[Schlaganfall]] durch Blutrückstau
 - **Ätiologie**
 	- **Aseptische Sinusvenenthrombose (90%)**:: ==Hormonell ([[Kontrazeption]], [[Schwangerschaft]])==, [[Thrombophilie]], [[Vaskulitis]], [[Tumor]]
 	- **Septische Sinusvenenthrombose (10%)**:: Fortgeleitete Infektion (z.B. [[Otitis media]], [[Mastoiditis]])

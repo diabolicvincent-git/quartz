@@ -2,7 +2,6 @@
 tags: [Modul/m18, Modul/m24, Fach/Infektiologie/Erreger/Bakterien]
 title: Bakteriensystematik
 ---
-### [[Bakterien]]systematik
 - **[[grampositiv]]**
 	- **Grampositive Kokken**
 		- **[[Staphylokokken]]**:: *[[Staph. aureus]], epidermidis* (Katalase+, Koagulase+/–)

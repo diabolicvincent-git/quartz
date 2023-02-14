@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Modul/m21, ToDo Modul/m22, Fach/Gastroenterologie, Art/Pathologie, Fach/Gynäkologie, Fach/Gastroenterologie, Modul/m26]
+tags: [Modul/m12, Modul/m21, ToDo, Modul/m22, Fach/Gastroenterologie, Art/Pathologie, Fach/Gynäkologie, Fach/Gastroenterologie, Modul/m26]
 title: Bauchschmerzen
 ---
 

@@ -2,7 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Labor]
 title: BGA
 ---
-### Blutgasanalyse / BGA
+> (Abstract::**Blutgasanalyse.**)
 - **Parameter**
 	- [[pH]], [[HCO3-]], Base Excess
 	- [[pO2]], [[pCO2]]

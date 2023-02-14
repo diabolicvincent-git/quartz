@@ -82,5 +82,5 @@ Pathophysiologie der OSAS Folgen
     - [[Hypertonie]]
     - [[Herzinsuffizienz]]
     - [[KHK]]
-    - [[Stroke]]
+    - [[Schlaganfall]]
     - [[HRST]]

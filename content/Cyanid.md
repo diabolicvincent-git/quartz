@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m03 Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Toxikologie/Gift]
+tags: [Modul/m03, Modul/m13, Fach/Biochemie, Fach/Pneumologie, Fach/Toxikologie/Gift]
 title: Cyanid
 ---
 > (Abstract::Blockade [[Atmungskette]]. [[Antidot]]: 4-DMAP oder Hydroxycobalamin.)

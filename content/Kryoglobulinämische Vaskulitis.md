@@ -11,6 +11,6 @@ title: Kryoglobulinämische Vaskulitis
 	- [[Glomerulonephritis]]
 	- Raynaud-Phänomen
 	- [[Hepatomegalie]], [[Splenomegalie]]
-	- Neurologische Komplikationen ([[Stroke]], periphere Neuropathie)
+	- Neurologische Komplikationen ([[Schlaganfall]], periphere Neuropathie)
 - **Diagnostik**
 	- [[Kryoglobuline]] Typ II oder III

@@ -393,39 +393,39 @@ Innervation
 *   Innenfläche des Schildknorpels
 *   Proc. vocalis des Stellknorpels
 *   Anspannung und Verkürzung der Stimmbänder
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 #### Stellmuskeln
 ###### M. thyroarytaenoideus
 *   Innenfläche des Schildknorpels
 *   Proc. muscularis des Stellknorpels
 *   Seitenrand der Epiglottis
 *   Zieht den Stellknorpel nach vorne → Verschließt und verkürzt die Pars intermembranacea
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 ###### M. arytaenoideus obliquus
 *   Proc. muscularis des Stellknorpels
 *   Stellknorpelspitze der Gegenseite
 *   Zieht die Stellknorpel zusammen und kippt sie einwärts → Verschließt die Pars intercartilaginea
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 ###### M. arytaenoideus transversus (unpaar)
 *   Hinterfläche des Stellknorpels
 *   Hinterfläche des Stellknorpels der Gegenseite
 *   Führt die Stellknorpel zusammen → Verschluss der Pars intercartilaginea
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 ###### M. aryepiglotticus
 *   Spitze des Stellknorpels
 *   Seitenrand der Epiglottis
 *   Zieht die Epiglottis nach posterior → Verengt den Kehlkopfeingang
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 ###### M. cricoarytaenoideus lateralis („Lateralis“)
 *   Bogen des Ringknorpels
 *   Proc. muscularis des Stellknorpels
 *   Spitzen der Procc. vocales werden zueinander geführt → Verschließt die Pars intermembranacea und öffnet die Pars intercartilaginea
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 ###### M. cricoarytaenoideus posterior („Postikus“)
 *   Hinterfläche des Ringknorpels
 *   Proc. muscularis des Stellknorpels
 *   Dreht den Stellknorpel nach außen und zur Seite → Öffnet die gesamte Stimmritze
-*   N. laryngeus inferior (Endast des N. laryngeus recurrens)
+*   N. laryngeus inferior (Endast des [[N. laryngeus recurrens]])
 
 
 

@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Allgemeinmedizin]
 title: Blue Flags
 ---
-### Blue Flags
 > Arbeitsplatzbezogene Risikofaktoren
 - Körperliche Schwerarbeit
 - Monotone Körperhaltung

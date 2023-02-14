@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Labor, Art/Intervention]
 title: Blutkulturen
 ---
-### Blutkulturen / BK
 > Nachweis von *lebenden [[Bakterien]]*
 - **Entnahme**
 	- min. 10 ml

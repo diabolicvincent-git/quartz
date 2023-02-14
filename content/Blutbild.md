@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie]
 title: Blutbild
 ---
-### Blutbild
 - **Kleines Blutbild**
 	- **[[Thrombocyten]]-Zahl**
 	- **[[Leukocyten]]-Zahl**

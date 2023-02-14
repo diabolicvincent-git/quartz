@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie, Fach/Biochemie]
 title: Biotransformation
 ---
-### Biotransformation 
 - **Schritte der Biotransformation**
 	1. **Modifikation**:: Oft Oxidation durch *Monooxygenasen ([[CYP]]450)*
 	2. **Konjugation**:: Polarisieren durch *Transferasen*, oft durch Säuren (z.B. Glucuronidierung, Sulfatierung)

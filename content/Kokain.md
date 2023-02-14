@@ -8,6 +8,6 @@ title: Kokain
 	- Angst, Psychose, Koordination↓, [[Krampfanfall]]
 	- [[Mydriasis]], Blässe, [[Fieber]]
 	- [[Tachykardie]], [[Hypertonie]], Herzversagen
-	- Hirnödem, [[Stroke]]
+	- Hirnödem, [[Schlaganfall]]
 	- ggf. chronische Verletzung der Nasenschleimhaut
 - **Wirkmechanismus**:: Hemmung des Reuptake von [[Katecholamine]] aus dem synaptischen Spalt

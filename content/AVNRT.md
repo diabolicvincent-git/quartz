@@ -2,7 +2,6 @@
 tags: [Fach/Kardiologie, Art/Pathologie]
 title: AVNRT
 ---
-### AVNRT
 > **Abstract**:: angeb. 2. Leitung im [[AV-Knoten]] → [[SVT]] → Tx [[Valsalva]], [[aDENOsin]]
 - **Epidemiologie**:: Häufigste [[SVT]], oft junge und gesunde Pat.
 - **Ätiologie**:: Angeborene zweite Leitungsbahn im [[AV-Knoten]]

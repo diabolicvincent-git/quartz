@@ -118,7 +118,7 @@ Zusammenspiel *genetischer*, *immunologischer* und *Trigger-Faktoren*
 - **Systemische Therapie**
     - Klassische Therapeutika
         - Fumarsäureester → First-Line; gute Wirksamkeit; NW: GI-Beschwerden, Flush, Lymphocytopenie
-        - [[Methotrexat]] → auch für Psoriasis arthritis geeignet; NW: Hepatotoxizität, BB-Veränderungen; Prophylaktisch [[Folsäure]] [[p.o.]] nach Einnahme
+        - [[Methotrexat (MTX)]] → auch für Psoriasis arthritis geeignet; NW: Hepatotoxizität, BB-Veränderungen; Prophylaktisch [[Folsäure]] [[p.o.]] nach Einnahme
         - Ciclosporin → hohe Toxizität; keine Empfehlung
         - Orale [[Vitamin A]] → insb. palmoplantare Psoriasis; CAVE: Teratogenität
     - Moderne Small Molecules

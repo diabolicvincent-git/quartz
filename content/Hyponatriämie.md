@@ -16,4 +16,4 @@ title: Hyponatriämie
 ## Infografik
 ![[Pasted image 20221023184506.png]]
 
-[^1]: Cerebrales Salzverlust-Syndrom bei jeder [[ZNS]]-Schädigung möglich, z.B. [[Stroke]]
+[^1]: Cerebrales Salzverlust-Syndrom bei jeder [[ZNS]]-Schädigung möglich, z.B. [[Schlaganfall]]

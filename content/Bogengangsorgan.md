@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/Anatomie, Fach/Physiologie, Fach/HNO]
 title: Bogengangsorgan
 ---
-### Bogengangsorgan
 > Dreh-/Winkelbeschleunigung
 - **Lage**:: 3 Bogengänge stehen rechtwinklig zu einander
 - **Aufbau**

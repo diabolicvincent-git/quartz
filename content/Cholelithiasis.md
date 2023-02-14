@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Cholelithiasis
 ---
-### Cholelithiasis / Gallensteine
+> (Abstract::Gallensteine)
 - **Ätiologie**
 	- **6F-Regel**:: fat ([[Adipositas]]), [[M]], fertile ([[Schwangerschaft]]), forty (>40. LJ), fair (hellhäutig), family ([[Familienanamnese]])
 - **Einteilung**

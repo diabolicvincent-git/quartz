@@ -19,7 +19,7 @@ title: Riesenzellarteriitis
 		- Aortenbeteiligung
 - **Therapie**
 	- [[Glucocorticoide]] initial hochdosiert, dann reduziert
-	- Immunsuppression: [[Methotrexat]]
+	- Immunsuppression: [[Methotrexat (MTX)]]
 	- ==Biologika: Tocilizumab [[s.c.]]==
 	- [[Osteoporose]]-Prophylaxe
 	- [[ASS]] low dose (kardiovaskuläres [[Risiko]]!)

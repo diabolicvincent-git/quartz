@@ -196,9 +196,9 @@ title: IMPP-Arzneistoffe
 - **Pleiotrope Ionenkanalblocker**:: [[aMIOdaron]] ([[Antiarrhythmika]])
 
 ### Klassische [[Cytostatika]]
-- **Alkylanzien**:: Cyclophosphamid, Temozolomid
+- **Alkylanzien**:: [[Cyclophosphamid]], Temozolomid
 - **Antimetabolite**
-	- **Folsäure-Analoga**:: [[Methotrexat]]
+	- **Folsäure-Analoga**:: [[Methotrexat (MTX)]]
 	- **Purin-Analoga**:: 6-Mercaptopurin, [[Azathioprin]]
 	- **Pyrmidin-Analoga**:: 5-Fluoruracil / 5-FU
 - **DNA-Interkalanzien**:: Bleomycin, Doxorubicin

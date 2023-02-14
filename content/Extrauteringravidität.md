@@ -16,4 +16,4 @@ title: Extrauteringravidität
 - **DD**:: [[Appendizitis]], Adnexitis, Endomyometritis
 - **Therapie**
 	- *[[OP]]:* Laparoskopie oder Notfall-Laparotomie mit Salpingotomie/Salpingektomie
-	- *Medikamente:* ==[[Rh]]-Prophylaxe==, ggf. [[Methotrexat]] zum [[Abort]]
+	- *Medikamente:* ==[[Rh]]-Prophylaxe==, ggf. [[Methotrexat (MTX)]] zum [[Abort]]

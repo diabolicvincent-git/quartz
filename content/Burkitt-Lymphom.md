@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Kardiologie, Fach/Hämatologie, Art/Pathologie]
 title: Burkitt-Lymphom
 ---
-### Burkitt-Lymphom
 > Aggressives [[B-Zellen]] [[Non-Hodgkin-Lymphom]]
 - **Epidemiologie**:: ==Kindesalter==
 - **Ätiologie**

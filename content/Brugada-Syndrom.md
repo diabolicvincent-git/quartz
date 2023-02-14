@@ -2,7 +2,6 @@
 tags: [Fach/Kardiologie, Art/Pathologie]
 title: Brugada-Syndrom
 ---
-### Brugada-Syndrom
 - **Symptome**
 	- Paroxysmale [[Ventrikuläre Tachykardie]], insb. [[Torsade de Pointes]] (aus [[Bradykardie]] heraus)
 - **Diagnostik**

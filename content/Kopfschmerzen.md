@@ -15,7 +15,7 @@ title: Kopfschmerzen
 ## Red Flags bei Kopfschmerzen
 - Vernichtungskopfschmerz → [[SAB]]
 - [[Fieber]] → [[Meningitis]]
-- Fokales neurologisches Defizit → [[Stroke]]
+- Fokales neurologisches Defizit → [[Schlaganfall]]
 - [[Vigilanzminderung]]
 - [[Hirndruckzeichen]] → [[Intrakranielle Blutung]]
 - [[Meningismus]] → [[Intrakranielle Blutung]], [[Meningitis]]
@@ -30,7 +30,7 @@ title: Kopfschmerzen
 | [[Gefäße]]  | **[[SAB]]**                                  | Vernichtungskopfschmerz                                     | [[Vigilanzminderung]], [[Meningismus]], [[vegetative]] Symptome                                                   |
 | [[Gefäße]]  | **[[Epiduralblutung]], [[Subduralhämatom]]** | Diffus zunehmend                                            | [[Vigilanzminderung]], ipsilaterale [[Mydriasis]], kontralaterale Herdsymptomatik, ggf. *symptomfreies Intervall* |
 | [[Gefäße]]  | **[[Hypertensiver Notfall]]**                | Diffus, bifrontal, pulsierend, aktivitätsabh.               | Schwindel, Epistaxis                                                                                              |
-| [[Gefäße]]  | **[[Stroke]]**                         | Akut                                                        | Schlagartiger Beginn, einseitig fokal-neurologisches Defizit                                                      |
+| [[Gefäße]]  | **[[Schlaganfall]]**                         | Akut                                                        | Schlagartiger Beginn, einseitig fokal-neurologisches Defizit                                                      |
 | [[Tumor]]       | **[[Hirntumor]]**                                | Über Wochen bis Monate progredient, dumpf/drückend          | [[Hirndruckzeichen]], Herdsymptomatik, Wesensveränderung                                                          |
 | Trauma          | **[[SHT]]**                                  | Je nach Genese                                              |                                                                                                                   |
 | [[Auge]]        | **[[Glaukom]]**                              | Einseitig, starke Augen-/Kopfschmerzen                      | [[Sehstörung]], [[vegetative]] Symptome, steinharter Bulbus                                                                                                                  |

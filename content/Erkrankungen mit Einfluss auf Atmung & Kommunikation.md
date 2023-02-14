@@ -33,7 +33,7 @@ title: Erkrankungen mit Einfluss auf Atmung & Kommunikation
 - **Innervation** aus Hirnstammbereich
     - **Hauptnerv**:: [[N. vagus (X)]]
         - **N. laryngeus superior** → M. cricothyroideus (motorisch), Schleimhaut der Stimmritze (sensibel)
-        - **N. laryngeus recurrens**
+        - **[[N. laryngeus recurrens]]**
 
     ![[Untitled 52.png]]
 

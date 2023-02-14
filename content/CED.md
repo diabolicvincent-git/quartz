@@ -2,7 +2,8 @@
 tags: [Modul/m17, Modul/m12, Art/Pathologie, Art/Pathologie, Fach/Rheumatologie, Fach/Gastroenterologie]
 title: CED
 ---
-### Chronisch-entzündliche Darmerkrankung / CED
+> (Abstract::**Chronisch-entzündliche Darmerkrankung.**)
+
 Symptome|[[M. Crohn]]|[[Colitis ulcerosa]]
 -|-|-
 Stuhlfrequenz|↑ oder Obstipation|↑↑ 

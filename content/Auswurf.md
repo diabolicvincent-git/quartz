@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
 title: Auswurf
 ---
-### Auswurf
 - **Weiß-glasig**:: Virale Infektion (z.B. [[Bronchitis]], typisch Abhusten am Morgen)
 - **Weiß-schaumig**:: Lungenstauung/[[Lungenödem]]
 - **Gelb-grün**:: Bakterielle Infektion

@@ -6,8 +6,4 @@ title: CT-Angiographie
 - **Durchführung**
 	1. [[KM]]-Gabe
 	2. [[CT]]-Aufnahme ([[KM]] = hyperdens)
-- **Einsatz**
-	- Hirnarterienaneurysma
-	- [[LAE]]
-	- [[pAVK]]
-	- [[Nierenarterienstenose]]
+- **Indikation**:: [[Schlaganfall]], [[LAE]], [[Aortendissektion]], [[pAVK]], [[Nierenarterienstenose]] (Beispiele)

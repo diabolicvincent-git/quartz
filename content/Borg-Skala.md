@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Intervention]
 title: Borg-Skala
 ---
-### Borg-CR-Skala
 > Visuelle Analogskala zur Einschätzung des Schweregrads einer *[[Dyspnoe]]*
 
 - 0 = überhaupt keine [[Dyspnoe]]

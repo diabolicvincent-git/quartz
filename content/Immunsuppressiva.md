@@ -11,8 +11,8 @@ title: Immunsuppressiva
 	- **[[Glucocorticoide]]**
 	- **[[Cytostatika]]**
 		- [[Azathioprin]]
-		- [[Methotrexat]]
-		- Cyclophosphamid
+		- [[Methotrexat (MTX)]]
+		- [[Cyclophosphamid]]
 	- **Biologicals**
 - **Indikation**
 	- *==[[Autoimmunität]]==* ([[Rheumatoide Arthritis]], [[Kollagenose]], [[Vaskulitis]], Autoimmunhepatitis, [[CED]], [[Lungenfibrose]], [[Sarkoidose]], [[Multiple Sklerose]], [[Myasthenia gravis]], [[Glomerulonephritis]])

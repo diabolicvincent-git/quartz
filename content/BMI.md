@@ -2,8 +2,7 @@
 tags: [Modul/m02, Art/Intervention, Fach/Allgemeinmedizin]
 title: BMI
 ---
-### Body Mass Index / BMI
-> **BMI** = kg / m$^{2}$
+> **Body Mass Index** = kg / m$^{2}$
 - **Bewertung**
 	- **<18,5**:: Untergewicht
 	- **18,5 - 24,9**:: Normalgewicht

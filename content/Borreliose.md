@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Borreliose
 ---
-### Lyme-Borreliose
 - **Epidemiologie**
 	- Verbreitung fast überall in DE und EU
 	- *Saisonale Häufung:* Infektion i.d.R. März-Oktober

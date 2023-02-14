@@ -10,7 +10,7 @@ title: Tall-Man-Lettering
 - [[cIMEtidin]]
 - [[cLEMAstin]]
 - [[clonazePAM]]
-- [[Clonidin]]
+- [[cloNIDin]]
 - [[desmoPRESSIN]]
 - [[DEXAmethason]]
 - [[dihydrALAZIN]]

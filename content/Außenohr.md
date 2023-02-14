@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Fach/Anatomie]
 title: Außenohr
 ---
-### Außenohr 
 - **Funktion**:: Schalltrichter ([[Richtungshören]]), Resonanzbildung, Schutz
 - **Bestandteile**
 	- **[[Ohrmuschel]]**
