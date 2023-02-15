@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Wundinfektion
 ---
-### Wundinfektion
 - **Pathophysiologie**:: [[Staphylokokken]] (50%)
 - **Therapie** bei implantatassoziierter [[Infektionen]]
 	- **Implantat-Erhalt**:: [[Antibiotika]], Spülung + Drainage / Fistel, Revision

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Vegetative Plexus
 ---
-### [[vegetative]] Plexus 
 - **Hals-/Brust-Bereich**
 	- [[Plexus cardiacus]]
 	- Plexus pulmonalis

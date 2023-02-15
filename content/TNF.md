@@ -2,7 +2,7 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Biochemie/Hormon]
 title: TNF
 ---
-### Tumornekrosefaktor / TNF
+> (Abstract::**Tumornekrosefaktor.**)
 - **Wichtigster Vertreter**:: *[[TNF]]-α*
 	- **Produktion**:: [[Makrophagen]], [[Monocyten]], [[T-Zellen]]
 	- **Wirkung**:: ==Proinflammatorisch== ([[Leukocyten]]-Aktivierung, [[Chemotaxis]], [[Hämostase]], [[Akute-Phase-Proteine]], [[Fieber]])

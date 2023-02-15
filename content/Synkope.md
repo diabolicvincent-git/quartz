@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie, Art/Pathologie]
 title: Synkope
 ---
-### Synkope
 > Cerebrale Minderperfusion → plötzliche Bewusstlosigkeit → rasche, spontane Erholung
 - **Ätiologie**
 	- *Kardial ([[HZV]]↓):* [[HRST]], strukturelle Herzerkrankung, [[LAE]] u.v.m.

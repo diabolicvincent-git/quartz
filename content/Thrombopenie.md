@@ -2,7 +2,6 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: Thrombopenie
 ---
-### Thrombopenie 
 > ==[[Thrombocyten]]-Zahl <150.000 / μl== → [[Blutungsneigung]]
 - **Ätiologie**
 	- Produktion↓ (z.B. [[Hämatologische Neoplasien]], [[Anämie]])

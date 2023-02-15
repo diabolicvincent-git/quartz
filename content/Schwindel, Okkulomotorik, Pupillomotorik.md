@@ -3,7 +3,7 @@ tags: [Modul/m16, Fach/HNO, Fach/Neurologie, Fach/Ophthalmologie]
 title: Schwindel, Okkulomotorik, Pupillomotorik
 ---
 - [[BPLS]]
-- Neuropathia vestibularis
+- [[Neuropathia vestibularis]]
 - [[M. Menière]]
 
 ## Quantitative vestibuläre Sinnesorgandiagnostik

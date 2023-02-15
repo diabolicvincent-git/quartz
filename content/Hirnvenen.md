@@ -4,7 +4,7 @@ title: Hirnvenen
 ---
 > [[Hirnvenen]] haben keine [[Venenklappen]] und kein Muskelgewebe in der Gefäßwand
 ## Oberflächliche Gehirnvenen (Vv. superficiales cerebri)
-> Drainieren v.a. [[Cortex cerebri]] → treten über ***Brückenvenen*** aus der [[Arachnoidea mater]] aus und ziehen durch den [[Subduralraum]] ubiquitär zum *[[Sinus durae matris]]* (Cave: [[Subduralhämatom]])
+> Drainieren v.a. [[Cortex cerebri]] → treten über ***Brückenvenen*** aus der [[Arachnoidea mater]] aus und ziehen durch den [[Subduralraum]] ubiquitär zum *[[Sinus durae matris]]* (Cave: [[SDH]])
 
 - **Obere [[Venen]] (Vv. superiores cerebri)**:: 8-12 pro Hemisphäre
 	- [[Frontallappen]], [[Parietallappen]] → [[Sinus sagittalis superior]]

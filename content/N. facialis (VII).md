@@ -17,3 +17,4 @@ title: N. facialis (VII)
 	- *Funktion*:: [[Parasympathikus]]
 	- *Kern*:: Ncl. salivatorius superior
 	- *Innerviert*:: Gl. lacrimalis, Gl. submandibularis, Gl. sublingualis, kleine [[Drüsen]] in Nasenschleimhaut und weichem/hartem Gaumen, kleine [[Speicheldrüsen]] im Zungenrücken
+- **Pathologie**:: [[Facialisparese]]

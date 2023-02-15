@@ -25,3 +25,4 @@ title: N. glossopharyngeus (IX)
 	- **Funktion**:: Motorik
 	- **Kern**:: Ncl. ambiguus
 	- **Innerviert**:: ==M. contrictor pharyingis superior, medius, inferior (Würgereiz)==, M. stylopharyngeus, M. palatopharyngeus, M. palatoglossus, M. levator veli palatini, M. uvulae
+- **Pathologien**:: Kulissenphänomen (Deviation Rachenhinterwand zur gesunden Seite), Hypästhesie + [[Geschmack]]↓ hinteres ⅓ [[Zunge]]

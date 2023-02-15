@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie, Fach/Histologie/Zelle]
 title: Zellen
 ---
-### Zelle
 - **Zelltypen**
 	- [[Eukaryonten]]
 	- [[Prokaryonten]]

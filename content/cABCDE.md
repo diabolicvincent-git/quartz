@@ -2,7 +2,7 @@
 tags: [Modul/m21, Fach/Notfallmedizin, Art/Intervention, Art/Intervention]
 title: cABCDE
 ---
-> (Abstract::Critical Bleeding, [[A – Airway]], [[B – Breathing]], [[C – Circulation]], [[Disability]], [[Exposure]])
+> (Abstract::Critical Bleeding, [[A – Airway]], [[B – Breathing]], [[C – Circulation]], [[D – Disability]], [[Exposure]])
 
 ---
 cABCDE|Diagnostik|Therapie

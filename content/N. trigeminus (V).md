@@ -19,3 +19,4 @@ title: N. trigeminus (V)
 		- **Kern**:: Ncl. mesencephalicus n. trigemini
 	- **Speziell [[Visceroefferenzen]] (Motorik)**
 		- **Kern**:: Ncl. motorius n. trigemini
+- **Pathologien**:: Läsionen häufiger an Endästen; [[Trigeminusneuralgie]]

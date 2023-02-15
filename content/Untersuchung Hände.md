@@ -2,7 +2,6 @@
 tags: [Modul/m00, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Intervention]
 title: Untersuchung Hände
 ---
-### [[Untersuchung]] Hände
 - **Inspektion**
 	- [[Erythem]] Handinnenfläche ([[Leberzirrhose]])
 	- Pigmentierung Handinnenfläche ([[NNR-Insuffizienz]])

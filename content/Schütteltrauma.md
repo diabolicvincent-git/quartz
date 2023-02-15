@@ -9,5 +9,5 @@ title: Schütteltrauma
 	- *[[Auge]]:* ==Netzhautblutungen==
 	- *Gehirn*
 		- Diffuse axonale Schädigung → sofortige neurologische Ausfälle
-		- Abriss von Brückenvenen → ==[[Intrakranielle Blutung]] (v.a. [[Subduralhämatom]])==, retinale Blutung
+		- Abriss von Brückenvenen → ==[[Intrakranielle Blutung]] (v.a. [[SDH]])==, retinale Blutung
 - **Prognose**:: Letalität 25%

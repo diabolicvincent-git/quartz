@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie/Organ]
 title: Urethra
 ---
-### Urethra / Harnröhre
+> (Abstract::**Harnröhre.**)
 - **Funktion**:: Ableitung des Harns ([[M]]/♂) und [[Spermien]]transport (♂)
 - **Länge**:: [[M]] 3-5 cm[^1], ♂ ~20 cm
 - **Verlauf ([[M]])**

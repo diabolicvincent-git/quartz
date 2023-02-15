@@ -2,8 +2,7 @@
 tags: [Modul/m25, Fach/Kardiologie, Art/Pathologie]
 title: SVT
 ---
-### Supraventrikuläre Tachykardie / SVT
-> **= Schmalkomplex-[[Tachykardie]]** (QRS ≤120 ms)
+> (Abstract::**Supraventrikuläre Tachykardie.** Entspricht meist Schmalkomplex-[[Tachykardie]] (QRS ≤120 ms).)
 - **DD**
 	- *Regelmäßig*
 		- Sinustachykardie

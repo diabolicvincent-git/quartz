@@ -2,7 +2,6 @@
 tags: [Modul/m19, Modul/m22, Fach/Onkologie, Fach/Gynäkologie, Fach/Pharmakologie/Medikament]
 title: Tamoxifen
 ---
-### Tamoxifen
 > Selektiver [[Östrogene]]-[[Rezeptor]]-Modulator ([[Cytostatika]])
 - **Indikation**:: Hormonrezeptor-positives [[Mamma-Ca]] vor der [[Menopause]]
 - **Wirkung**

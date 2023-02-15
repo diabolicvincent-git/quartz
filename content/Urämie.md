@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Nephrologie, Art/Pathologie]
 title: Urämie
 ---
-### Urämie
 > **[[CKD]]**:: [[Intoxikation]] durch Akkumulation harnpflichtiger Substanzen
 - **Pathophysiologie**:: u.a. [[Harnstoff]], [[Kreatinin]], β2-Mikroglobulin, [[PTH]]
 - **Symptome**

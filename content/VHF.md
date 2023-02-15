@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: VHF
 ---
-### Vorhofflimmern / VHF
+> (Abstract::**Vorhofflimmern.**)
 - **Epidemiologie**:: 1-2%, häufigste anhaltende [[HRST]], [[W]]>[[M]]
 - **Ätiologie**:: Idiopathisch (15%) oder auf Grunderkrankung
 	- **Kardial**:: [[Myokarditis]], [[Vitien]], [[KHK]], [[OMI]], [[Herzinsuffizienz]], [[Hypertonie]], [[Kardiomyopathie]], angeborene [[Herzfehler]], [[Sick-Sinus-Syndrom]] u.ä.

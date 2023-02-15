@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Anästhesie, Art/Intervention]
 title: Symptomkontrolle
 ---
-### Symptomkontrolle
 - **[[Schmerz]]**:: Retardierte [[Opioide]] + schnellwirksames b.B.
 - **Gastrointestinal**
 	- **Übelkeit/Erbrechen**:: MCP, Haloperidol, Levomepromazin, [[dimenhyDRINAT]]

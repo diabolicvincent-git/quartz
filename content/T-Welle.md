@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: T-Welle
 ---
-### T-Welle
 > **EKG**:: Erregungsrückbildung der Ventrikel
 - Physiologische Konkordanz der T-Welle zum [[QRS]][^1]
 - **Pathologien**

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Organ]
 title: Thalamus
 ---
-#### Thalamus 
 > Paarige Ansammlung von >100 Kerngebieten
 - **Lage**:: Zentral im [[Diencephalon]], begrenzt bds.  [[Ventrikel III]]
 - **Funktion**

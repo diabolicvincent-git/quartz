@@ -2,7 +2,6 @@
 tags: [Modul/m08, Modul/m18, Fach/Infektiologie, Fach/Biochemie, Fach/Histologie/Zelle]
 title: T-Zellen
 ---
-### T-Lymphocyten
 - **Subtypen**
 	- **CD4+ T-Helferzellen**
 		- ![[Th1-Zellen]]

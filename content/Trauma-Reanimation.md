@@ -6,7 +6,7 @@ title: Trauma-Reanimation
 - **SOP**
 	1. **[[c – critical Bleeding]]** → Blutstillung
 	2. **[[A – Airway]]** → Atemwegsmanagement
-	3. **[[B – Breathing]]** → [[Fingerthorakostomie]] bds., [[Beatmung]]
+	3. **[[B – Breathing]]** → [[Thorakostomie]] bds., [[Beatmung]]
 	4. **[[C – Circulation]]** → stammnah [[i.v.]]/[[i.o.]], aggressive [[Volumentherapie]]
 	5. 4-E-Regel? → [[Clamshell-Thorakotomie]]
 ---

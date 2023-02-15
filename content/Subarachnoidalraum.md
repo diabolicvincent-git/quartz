@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Subarachnoidalraum
 ---
-### Subarachnoidalraum
 > Raum zwischen [[Pia mater]] und [[Arachnoidea mater]] ( = äußere [[Liquorräume]])
 
 - Gefüllt mit [[Liquor]]

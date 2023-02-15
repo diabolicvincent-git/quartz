@@ -2,7 +2,6 @@
 tags: [Modul/m06, Modul/m20, Fach/Psychiatrie, Fach/Physiologie]
 title: Stress
 ---
-### Stress
 > Subjektive Bedrohung der körperlichen, seelischen oder funktionellen Integrität
 - **Akute Stressreaktion**:: [[Kopfschmerzen]], [[Schwindel]], [[AF]]↑, [[RR]]↑, [[HF]]↑, Schwitzen, Muskeltonus↑, Unruhe, kalte Extremitäten, GI-Reizung, Libido↓ 
 	- **[[Stoffwechsel]]**:: Mobilisation von [[Glucose]]-, [[Fettsäuren]]-Reserven

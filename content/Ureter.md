@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie, Fach/Anatomie/Organ]
 title: Ureter
 ---
-### Harnleiter / Ureter
-> Harntransport vom [[Nierenbeckenkelchsystem]] zur [[Harnblase]]
+> (Abstract::**Harnleiter.** Harntransport vom [[Nierenbeckenkelchsystem]] zur [[Harnblase]].)
 - **Länge:** 25–30 cm
 - **Durchmesser**:: Ca. 0,5 cm
 - **Aufbau**

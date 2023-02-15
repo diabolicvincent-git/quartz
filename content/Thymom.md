@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Onkologie, Fach/Hämatologie]
 title: Thymom
 ---
-### Thymom
 > [[Tumor]] des [[Thymus]]
 - **Epidemiologie**:: 50-60 Jahre
 - **Ätiologie**

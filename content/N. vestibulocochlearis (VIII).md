@@ -13,3 +13,4 @@ title: N. vestibulocochlearis (VIII)
 	- **Funktion**:: [[Hören]] (*N. cochlearis*)
 	- **Kern**:: Ncl. cochlearis anterior, posterior
 	- **Innerviert**:: Hörorgan
+- **Pathologien**:: [[Neuropathia vestibularis]], [[Vestibularisparoxysmie]], [[Vestibularisschwannom]]

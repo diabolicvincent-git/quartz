@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie]
 title: Surfactant
 ---
-### Surfactant
 > Oberflächenaktive Substanz auf der Oberfläche des [[Alveolen]]-[[Epithel]]
 - **Zusammensetzung**
 	- *Lipide:* Phospholipide

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Histologie, Fach/Onkologie]
 title: Stroma
 ---
-### Stroma
 > [[Bindegewebe]]-Stützgerüst eines Organs/Gewebes
 - **Zelltypen**
 	- **[[Makrophagen]]**:: Produzieren Matrix-Metalloproteasen (MMPs), angiogene Faktoren, [[Wachstumsfaktoren]], beseitigen Zelldetritus

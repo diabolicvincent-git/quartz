@@ -2,8 +2,7 @@
 tags: [Modul/m02, Fach/Genetik, Art/Pathologie]
 title: Trisomie 21
 ---
-### Trisomie 21 / Down-Syndrom 
-> Andere Trisomien/Monosomien i.d.R. nicht lebensfähig (Tri13: 5% >6, Tri18: 5% >12 Monate)
+> (Abstract::Down-Syndrom. Andere Trisomien/Monosomien i.d.R. nicht lebensfähig (Tri13: 5% >6, Tri18: 5% >12 Monate))
 - **Lebenserwartung**:: 9 Jahre (1929), 60 Jahre (2004)
 ## Formen
 - **Freie Trisomie** (95%)

@@ -72,7 +72,7 @@ title: Vestibularorgan
         - [[M. Menière]]
             - **Symptomtrias**:: Drehschwindelattacke (+Ü&E), Tieftonschwerhörigkeit, Tinnitus (Rauschen) + Ohrdruck + oft "Aura"
             - Endolymphatischer Hydrops
-        - Neuropathia vestibularis
+        - [[Neuropathia vestibularis]]
             - Ausfall des Vestibularorgans v.a. einer Seite
 
             ![[Untitled 4 7.png]]

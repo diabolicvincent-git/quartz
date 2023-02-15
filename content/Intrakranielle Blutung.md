@@ -4,14 +4,14 @@ title: Intrakranielle Blutung
 ---
 #### Intrakranielle Blutung
 - [[Epiduralblutung]]
-- [[Subduralhämatom]]
+- [[SDH]]
 - [[SAB]]
 - [[ICB]]
 
 
 ## Intrakraniell-extracerebrale Blutungen
 ![[Epiduralblutung]]
-![[Subduralhämatom]]
+![[SDH]]
 ![[SAB]]
 
 ## Intracerebrale Blutungen

@@ -2,7 +2,6 @@
 tags: [Modul/m01, Fach/Chirurgie, Fach/Anästhesie, Art/Pathologie]
 title: Thoraxtrauma
 ---
-### Thoraxtrauma
 - **Verletzungen des Brustkorb**
 	- Rippenfraktur, Rippenserienfraktur
 	- Sternumfraktur

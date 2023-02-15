@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Valsalva
 ---
-### Valsalva-Manöver
 > (Abstract::Intrathorakaler Druck↑ / [[N. vagus (X)]]-Reizung → [[SVT]] Termination)
 - **Indikation**:: Regelmäßige Schmalkomplex-[[Tachykardie]], [[HF]] >150/min
 - **KI**:: Bedarfstachykardie, Arrhythmie (z.B. [[VHF]]), Instabilitätszeichen

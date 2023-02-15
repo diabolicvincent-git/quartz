@@ -54,7 +54,7 @@ title: Bildgebung Nervensystem
         - Eher lokal, bikonkav
         - Dura an Schädelnähten aufgehängt
         - Zweizeitiges Bewusstlosigkeit: Initial von Trauma bewusstlos, dann aufwachen, dann von RF bewusstlos
-    - **[[Subduralhämatom]]**:: Venös aus Brückenvenen
+    - **[[SDH]]**:: Venös aus Brückenvenen
         - Verteilt, konkav
     - [[Liquor]] ist thrombogen
 - **Raumforderung**

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Radiologie, Art/Intervention, Art/Intervention]
 title: Theranostik
 ---
-### Theranostik
 > Verknüpfung von Diagnostik und Therapie i.d. [[Nuklearmedizin]]
 - Gleicher Ligand, aber unterschiedliches Radionuklid für Diagnostik/Therapie
 - **Beispiele**

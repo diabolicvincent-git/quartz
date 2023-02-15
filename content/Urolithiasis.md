@@ -2,8 +2,8 @@
 tags: [Modul/m26, Art/Pathologie, Fach/Urologie]
 title: Urolithiasis
 ---
-### Urolithiasis / Harnsteine
-> **Lokalisation**:: [[Niere]] (Nephrolithiasis), [[Ureter]] (Urterolithiasis), [[Harnblase]] (Cystolithiasis), [[Urethra]] (Urethralithiasis)
+> (Abstract::**Harnsteine.**)
+- **Lokalisation**:: [[Niere]] (Nephrolithiasis), [[Ureter]] (Urterolithiasis), [[Harnblase]] (Cystolithiasis), [[Urethra]] (Urethralithiasis)
 - **Epidemiologie**:: 30-60 Jahre, ♂>[[M]]
 - **Pathophysiologie**
 	- *Calciumoxalatsteine:* [[Ca2+]]↑, Oxalat↑

@@ -2,7 +2,7 @@
 tags: [Art/Pathologie, Fach/Neurologie]
 title: TLOC
 ---
-### Transient loss of consciousness / TLOC
+> (Abstract::**Transient loss of consciousness.**)
 - **DD**
 	- [[SHT]]
 	- [[Synkope]]

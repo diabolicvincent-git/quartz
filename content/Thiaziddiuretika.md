@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie]
 title: Thiaziddiuretika
 ---
-### Thiaziddiuretika
 - **Indikation**
 	- *[[aHTN]]* (1. Wahl)
 	- *[[Ödeme]]:* [[Herz]] (chronische [[Herzinsuffizienz]]), [[Niere]] ([[Nephrotisches Syndrom]])

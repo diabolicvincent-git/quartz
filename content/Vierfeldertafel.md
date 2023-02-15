@@ -2,7 +2,6 @@
 tags: [Modul/m07, Fach/Epidemiologie]
 title: Vierfeldertafel
 ---
-### Vierfeldertafel
 | -                | Erkrankt            | Gesund              |
 | ---------------- | ------------------- | ------------------- |
 | **Test positiv** | richtig positiv (a) | falsch positiv (b)  |

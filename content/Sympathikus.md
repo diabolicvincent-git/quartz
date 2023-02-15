@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: Sympathikus
 ---
-### Sympathikus
 > Teil des [[vegetative]]n Nervensystems mit *ergotroper* Wirkung
 
 ### Sympathische Rezeptoren

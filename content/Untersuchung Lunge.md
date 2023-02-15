@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Intervention]
 title: Untersuchung Lunge
 ---
-### [[Untersuchung]] [[Lunge]]
 - **Inspektion**
 	- **Thoraxform**
 		- *Fassthorax:* Tiefe = Breite (Ephysem, [[COPD]])

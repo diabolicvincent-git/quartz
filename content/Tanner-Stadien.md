@@ -2,8 +2,7 @@
 tags: [Modul/m21, Fach/Endokrinologie, Fach/Pädiatrie, Art/Intervention, Fach/Gynäkologie, Fach/Urologie]
 title: Tanner-Stadien
 ---
-### Tanner-Stadien
-> Einteilung physiologischer Entwicklungsstufen der **[[Pubertät]]**
+> (Abstract::Einteilung physiologischer Entwicklungsstufen der *[[Pubertät]]*)
 - **Entwicklung Schambehaarung** ([[W]]/[[M]])
 	- **Ph1**:: Kindlich, keine
 	- **Ph2**:: Wenige, leicht pigmentierte Haare an Labien/Peniswurzel

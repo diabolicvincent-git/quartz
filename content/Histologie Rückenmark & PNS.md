@@ -7,7 +7,7 @@ title: Histologie Rückenmark & PNS
 
 - **[[Meningen]]**
     - *Epiduralraum* (Fettschicht + Venenplexus), existiert im [[Gehirn]] so nicht → Verschiebeschicht bei z.B. Drehungen
-    - *Subduralraum*: physiologisch sind Arachnoidea und Dura verklebt und nur durch kapillären Spalt getrennt - außer bei [[Subduralhämatom]]
+    - *Subduralraum*: physiologisch sind Arachnoidea und Dura verklebt und nur durch kapillären Spalt getrennt - außer bei [[SDH]]
         - *Subdurales Neurothel* im *duroarachnoidealen Interface* zur Abdichtung der Flüssigkeiten
     - *Leptomeninx* = weiche [[Meningen]] ([[Pia mater]] + [[Arachnoidea mater]])
         - *[[Pia mater]]* begleitet [[Gefäße]] und schlägt um → perivaskulärer Virchow-Robin-Spaltraum, Glymphatisches System

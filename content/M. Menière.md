@@ -15,5 +15,5 @@ title: M. Menière
 	- [[Weber]] (lateralisiert zum gesunden Ohr), [[Rinne]] (bds. positiv)
 	- Unterberger-Tretversuch pathologisch (während Attacke)
 	- Gestörter [[Vestibulookulärer Reflex]] (während Attacke)
-- **DD**:: Neuropathia vestibularis, [[BPLS]]
+- **DD**:: [[Neuropathia vestibularis]], [[BPLS]]
 - **Therapie**:: Symptomatisch

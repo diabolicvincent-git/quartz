@@ -87,7 +87,7 @@ WHERE contains(tags, "a/Pathologie")
 	- [[Hirntumor]]
 	- [[Intrakranielle Blutung]]
 		- [[ICB]]
-		- [[Subduralhämatom]]
+		- [[SDH]]
 		- [[SAB]]
 		- [[Epiduralblutung]]
 	- [[Idiopathische intrakranielle Hypertension (Pseudotumor cerebri)]]

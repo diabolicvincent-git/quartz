@@ -2,7 +2,7 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Thrombocyten
 ---
-### Thrombocyten / Blutplättchen 
+> (Abstract::Blutplättchen)
 - **Konzentration**:: 150.000 - 400.000 / μl
     - [[Thrombopenie]] < 150.000/µl, kritisch < 50.000 ([[Petechien]])
     - [[Thrombocytose]] ([[Thrombose]]gefahr)

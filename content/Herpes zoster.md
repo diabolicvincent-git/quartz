@@ -12,6 +12,6 @@ title: Herpes zoster
 - **Therapie**
 	- Synthetische Gerbstoffe topisch, [[Analgesie]] ([[NSAR]] oder [[Opioide]])
 	- **[[Virostatika]]**:: ==[[Aciclovir]]== (indiziert bei >50. LJ, [[Kopf]]-Hals-Bereich, Komplikationen)
-- **Komplikationen**:: [[Zoster ophthalmicus]]
+- **Komplikationen**:: [[Zoster ophthalmicus]], [[Zoster oticus]]
 - **Prognose**:: 70% folgenlose Ausheilung
 - **Prävention**:: [[VZV]]-[[Impfung]] ([[Risiko]]↓), Abdecken der Läsionen, Meiden von Immuninkompetenten

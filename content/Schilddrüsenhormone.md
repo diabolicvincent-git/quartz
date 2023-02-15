@@ -2,9 +2,7 @@
 tags: [Modul/m04, Fach/Endokrinologie, Fach/Physiologie]
 title: Schilddrüsenhormone
 ---
-### Schilddrüsenhormone [[T3]]/T4 
-> **[[T3]]**:: Wirksamste Form (HWZ 1 d)<br>
-> **[[T4]]**:: Hauptsyntheseprodukt, Depot-/Transportform (HWZ 7 d)
+> (Abstract::**[[T3]]** (Wirksamste Form, HWZ 1 d), **[[T4]]** (Hauptsyntheseprodukt, Depot-/Transportform, HWZ 7 d).)
 - **Wirkung**:: Allgemein [[Stoffwechsel]]↑↑
 	- *[[Regulation der Herztätigkeit]]:* [[HZV]]↑, Expression β-[[Adrenozeptoren]]↑ 
 	- *[[Regulation der Atmung]]:* Stimulation [[Atemzentrum]], [[Perfusion]]↑
@@ -24,8 +22,3 @@ title: Schilddrüsenhormone
 - **Pathologien**
 	- **↑**:: [[Hyperthyreose]], [[M. Basedow]]
 	- **↓**:: [[Hypothyreose]], [[Hashimoto-Thyreoditis]]
-## Pathologien
-![[Hyperthyreose]]
-
-![[Hypothyreose]]
-

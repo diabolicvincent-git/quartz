@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Art/Intervention]
 title: Untersuchung Ohr
 ---
-#### Untersuchung Ohr
 - **[[Anamnese]]**
 	- [[Hörstörung]]? (Bestimmte Tonhöhen?)
 	- Druckgefühl

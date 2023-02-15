@@ -2,7 +2,6 @@
 tags: [Modul/m00, Fach/Dermatologie, Art/Intervention]
 title: Untersuchung Nägel
 ---
-### [[Untersuchung]] Nägel
 - **Inspektion**
 	- Tüpfelnägel, Ölfleck, Krümelnägel/Nageldystrophie, Onycholyse ([[Psoriasis vulgaris]])
 	- Uhrglasnägel (chronische [[Hypoxie]], [[Leberzirrhose]])

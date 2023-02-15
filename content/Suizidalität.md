@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: Suizidalität
 ---
-### Suizidalität
 > Suizidgedanken + konkrete Suizidabsicht = akute Suizidhandlung droht
 - **Epidemiologie**
 	- *Suizid:* Steigend mit Lebensalter, zweithäufigste Todesursache bei Jugendlichen, [[W]]>[[M]]

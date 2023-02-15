@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: TNM
 ---
-### TNM-Klassifikation
 > Systematik zum [[Staging]] von [[Tumor]]
 - **Allgemeine Kriterien**
 	- **==[[Tumor]]==**

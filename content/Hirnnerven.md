@@ -7,7 +7,7 @@ title: Hirnnerven
 - **Nummerierung**:: in Reihenfolge des Ein-/Austretens
 ```dataview
 TABLE WITHOUT ID Nr, link(file.link, title) AS Hirnnerv, Kerngebiete, Qualität, Funktion, Kern, Innerviert, Schädeldurchtritt
-FROM #f/🧠/Hirnnerv 
+FROM #Fach/Neurologie/Hirnnerv
 SORT Nr ASC
 ```
 ---

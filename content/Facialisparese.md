@@ -5,7 +5,7 @@ title: Facialisparese
 > (Abstract::Periphere Facialisparese)
 - **Ätiologie**
 	- *Idiopathisch (75%)*
-	- *Sekundär (25%):* ==[[Neuroborreliose]]== insb. bei Kindern, Zoster oticus
+	- *Sekundär (25%):* ==[[Neuroborreliose]]== insb. bei Kindern, [[Zoster oticus]]
 - **Symptome**
 	- ==Ipsilateral Ausfall der gesamten mimischen Muskulatur== (Stirnrunzeln, Lidschluss, Mundwinkel)
 - **DD**:: Zentrale Facialisparese z.B. bei [[Schlaganfall]]

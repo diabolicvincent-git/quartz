@@ -2,7 +2,7 @@
 tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Pneumologie, Fach/Infektiologie]
 title: Tbc
 ---
-### Tuberkulose / Tbc
+> (Abstract::**Tuberkulose.**)
 - **Epidemiologie**:: 25% latent infiziert, tödlichste Infektionskrankheit weltweit
 - **Ätiologie**
 	- **Risikofaktoren**:: ==[[HIV]]/[[AIDS]]==
