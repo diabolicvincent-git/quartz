@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Modul/m21, Art/Intervention, Fach/Allgemeinmedizin]
+tags: [Modul/m01, Modul/m21, Art/Intervention, Fach/Allgemeinmedizin]
 title: DD
 ---
 > (Abstract::**Differentialdiagnostik.**)

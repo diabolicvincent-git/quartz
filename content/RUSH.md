@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Modul/m21, Fach/Anästhesie, Fach/Radiologie]
+tags: [Modul/m21, Fach/Anästhesie, Fach/Radiologie, Fach/Notfallmedizin]
 title: RUSH
 ---
 > [[Notfallsonographie]] bei [[Schock]] und [[Hypotonie]] *(HI-MAP)*

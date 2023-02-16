@@ -4,11 +4,11 @@ title: Geschlechtsorgane
 ---
 ### Geschlechtsorgane
 > Primäre [[Geschlechtsmerkmale]] → zur Reproduktion
-- **[[W]]**
+- **[[M]]**
 	- **Äußere Geschlechtsorgane**:: [[Penis]], Skrotum
 	- **Innere Geschlechtsorgane**:: Hoden, [[Nebenhoden]], [[Ductus deferens]], [[Prostata]]
 		- [[Bläschendrüse]], Blubourethraldrüse
-- **[[M]]**
+- **[[W]]**
 	- **Äußere Geschlechtsorgane**:: Vulva
 	- **Innere Geschlechtsorgane**:: [[Vagina]], [[Uterus]], [[Tuba uterina]], [[Ovar]]
 		- Bartholinische Drüse, kleine Vorhofsdrüsen, Paraurethraldrüse

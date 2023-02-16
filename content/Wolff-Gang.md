@@ -3,7 +3,7 @@ tags: [Modul/m22, Fach/Embryologie, Fach/Gynäkologie, Fach/Urologie, Fach/Anato
 title: Wolff-Gang
 ---
 ### Wolff-Gang / Ductus mesonephricus
-> Paarige Urnierengänge → ==[[Ureter]]== + ==[[W]]== innere [[Geschlechtsorgane]]
+> Paarige Urnierengänge → ==[[Ureter]]== + ==[[M]]== innere [[Geschlechtsorgane]]
 - **Differenzierung**
-	- **[[W]]**:: [[Nebenhoden]], [[Ductus deferens]], Bläschendrüsen, [[Ureter]]-Knospe
-	- **[[M]]**:: [[Ureter]]-Knospe, Rest obliteriert
+	- **[[M]]**:: [[Nebenhoden]], [[Ductus deferens]], Bläschendrüsen, [[Ureter]]-Knospe
+	- **[[W]]**:: [[Ureter]]-Knospe, Rest obliteriert

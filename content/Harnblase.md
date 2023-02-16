@@ -33,13 +33,13 @@ title: Harnblase
     - Unterer Pol der Harnblase: Höhe des Unterrandes der Symphyse
     - Oberer Pol der Harnblase: Je nach Füllungszustand zwischen Symphysenoberrand bis Bauchnabelhöhe
 - **Lagebeziehungen**
-    - **Kranial**: [[Peritoneum]] urogenitale ([[W]] und [[M]]), [[Uterus]] ([[M]])
-    - **Kaudal**: Muskelplatte des [[Diaphragma]] pelvis ([[W]] und [[M]]) , [[Urethra]] ([[W]] und [[M]]), [[Prostata]] ([[W]])
+    - **Kranial**: [[Peritoneum]] urogenitale ([[M]] und [[W]]), [[Uterus]] ([[W]])
+    - **Kaudal**: Muskelplatte des [[Diaphragma]] pelvis ([[M]] und [[W]]) , [[Urethra]] ([[M]] und [[W]]), [[Prostata]] ([[M]])
     - **Ventral**: Spatium retropubicum
     - **Lateral**: Lockeres [[Bindegewebe]] mit Venenplexus (= Spatium extraperitoneale pelvis mit Plexus venosus vesicalis = Parazystium)
     - **Dorsal**
-        - [[W]]: [[Rektum]] mit Excavatio rectovesicalis, Ampullen des [[Ductus deferens]], Samenbläschen, [[Ureter]]
-        - [[M]]: [[Uterus]] mit Excavatio vesicouterina (= Peritoneale Umschlagsfalte)
+        - [[M]]: [[Rektum]] mit Excavatio rectovesicalis, Ampullen des [[Ductus deferens]], Samenbläschen, [[Ureter]]
+        - [[W]]: [[Uterus]] mit Excavatio vesicouterina (= Peritoneale Umschlagsfalte)
 
 ## Leitungsbahnen
 ### Gefäßversorgung

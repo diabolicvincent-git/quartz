@@ -34,7 +34,7 @@ WHERE contains(tags, "a/Pathologie")
 - [[Motoneuron- und Muskel-Erkrankungen]]
 	- [[Spastisches Syndrom]]
 	- [[Amyotrophe Lateralsklerose]]
-	- [[SMA]]
+	- [[Spinale Muskelatrophie (SMA)]]
 	- [[Myasthenia gravis]]
 	- [[Myotone Syndrome]]
 	- [[Periodische Lähmung]]

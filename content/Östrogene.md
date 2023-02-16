@@ -3,7 +3,7 @@ tags: [Modul/m22, Fach/Gynäkologie]
 title: Östrogene
 ---
 ### Östrogene
-> [[M]] [[Sexualhormone]]: [[Steroidhormone]] mit 18 C-Atomen
+> [[W]] [[Sexualhormone]]: [[Steroidhormone]] mit 18 C-Atomen
 - **Vertreter**:: Östradiol (E2) > Östron (E1)[^1] > Östriol (E3)
 - **Wirkung**
 	- *Genital:* [[Uterus]], [[Cervix]], [[Vagina]] (Proliferation, Geschlechtsreife), Schambehaarung, [[Mamma]]-Entwicklung

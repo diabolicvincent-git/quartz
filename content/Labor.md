@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m00, Fach/Labor]
+tags: [Modul/m01, Fach/Labor]
 title: Labor
 ---
-### Laborwerte
 ## Allgemein
 ### Säure-Basen-Haushalt
 - ![[Base Excess]]

@@ -12,7 +12,7 @@ title: Ernährung
 
 ---
 
--   **[[Alkohol]]**:: [[W]] <20 g/d, [[M]] <10 g/d (≈500 bzw. 250 ml Bier)
+-   **[[Alkohol]]**:: [[M]] <20 g/d, [[W]] <10 g/d (≈500 bzw. 250 ml Bier)
 -   **Obst**:: max. 300 g/d
 -   **Gemüse**:: min. 300-400 g/d
 -   **Fisch**:: ca. 2 mal / Woche

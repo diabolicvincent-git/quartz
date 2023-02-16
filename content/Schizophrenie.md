@@ -18,7 +18,7 @@ title: Schizophrenie
 	- [[Katatone Schizophrenie]]
 - **Therapie**:: ==[[Antipsychotika]]==, [[Verhaltenstherapie]], akut ggf. [[Benzodiazepine]]
 - **Komplikationen**:: Postakute [[Suizidalität]], [[Fremdgefährdung]], [[Nikotin]]
-- **Prognose**:: [[M]]>[[W]], [[Affektive Störung]] + akuter Verlauf > langsam-schleichend
+- **Prognose**:: [[W]]>[[M]], [[Affektive Störung]] + akuter Verlauf > langsam-schleichend
 - **Historisches**:: Von Emil Kraeplin (19. Jh.) als "Dementia praecox" erstbeschrieben
 
 [^1]: [Radua et al., 2018. What causes psychosis? An umbrella review of risk and protective factors.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775150/)

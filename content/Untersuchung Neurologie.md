@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Modul/m00, Fach/Neurologie, Art/Intervention]
+tags: [Modul/m15, Fach/Neurologie, Art/Intervention]
 title: Untersuchung Neurologie
 ---
 ## Normalbefund

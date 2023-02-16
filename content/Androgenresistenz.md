@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie, Fach/Endokrinologie]
 title: Androgenresistenz
 ---
-> (Abstract::46,XY-[[DSD]] (♂ Genotyp, [[M]] Phänotyp))
+> (Abstract::46,XY-[[DSD]] (♂ Genotyp, [[W]] Phänotyp))
 - **Ätiologie**:: X-chromosomal rezessiver ==Androgenrezeptordefekt==
 - **Symptome**
 	- **Äußere [[Geschlechtsorgane]] weiblich**:: Mammae, Vulva mit blind endender [[Vagina]], Uterusaplasie, fehlende Schambehaarung, primäre [[Amenorrhoe]], [[Sterilität]] (*Testikuläre Feminisierung*)

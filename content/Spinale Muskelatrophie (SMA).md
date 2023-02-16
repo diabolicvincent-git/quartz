@@ -1,5 +1,4 @@
 ---
 tags: [Modul/m30, Fach/Neurologie, Fach/Pädiatrie]
-title: SMA
+title: Spinale Muskelatrophie (SMA)
 ---
-### Spinale Muskelatrophie / SMA

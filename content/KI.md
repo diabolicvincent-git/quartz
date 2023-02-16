@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Pharmakologie/Medikament, Modul/m24]
+tags: [Fach/Pharmakologie/Medikament, Modul/m24]
 title: KI
 ---
 ### Häufige Kontraindikationen

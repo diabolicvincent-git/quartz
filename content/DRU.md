@@ -10,7 +10,7 @@ title: DRU
 	- *[[BPH]]:* Vergrößerte prall-elastische Prostata SSL 12 h
 	- [[Colorektales Ca]]
 	- *[[Hämorrhoiden]]:* Aufweitung des arteriellen Plexus Corpus cavernosum recti (Grad II von IV sobald sichtbar), nur 3h/7h/11h SSL
-	- *Analprolaps/Rektumprolaps:* Darmmucosa außerhalb, einfach reponierbar, oft [[M]] Ü80
+	- *Analprolaps/Rektumprolaps:* Darmmucosa außerhalb, einfach reponierbar, oft [[W]] Ü80
 	- *Analfissur:* Ulcus, stark schmerzhaft, oft bei [[CED]]
 	- *Analvenenthrombose:* Stark schmerzhaft, prall gefüllt perianal, Koagel-Entlastung
 	- *Marisken:* Alte Analvenenthrombose

@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie]
 title: Ovar
 ---
-### Ovar / Eierstock ([[M]])
+### Ovar / Eierstock ([[W]])
 - **Funktion**:: [[Oogenese]], [[Follikelreifung]], [[Ovulation]], [[Sexualhormone]]-Synthese
 - **Aufbau**
 	1. *[[Peritoneum]]:* ==Kubisches Mesothel==[^1]

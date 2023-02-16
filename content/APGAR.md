@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Pädiatrie, Art/Intervention, Art/Intervention]
+tags: [Modul/m32, Fach/Pädiatrie, Art/Intervention, Art/Intervention]
 title: APGAR
 ---
 > (Abstract::Beurteilung Neugeborene)

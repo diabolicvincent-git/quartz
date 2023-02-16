@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Intervention]
+tags: [Modul/m17, Fach/Dermatologie, Fach/Rheumatologie, Art/Intervention]
 title: Untersuchung Hände
 ---
 - **Inspektion**

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Art/Intervention, Fach/Radiologie]
+tags: [Modul/m15, Art/Intervention, Fach/Radiologie]
 title: CT-Angiographie
 ---
 ### [[CT]]-Angiographie

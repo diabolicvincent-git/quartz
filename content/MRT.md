@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Art/Intervention, Fach/Radiologie/Standardbildgebung]
+tags: [Modul/m15, Art/Intervention, Fach/Radiologie/Standardbildgebung]
 title: MRT
 ---
 ### Magnetresonanztomographie / MRT

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie, Art/Intervention]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie, Art/Intervention]
 title: Untersuchung Abdomen
 ---
 - **Inspektion**

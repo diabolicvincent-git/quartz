@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Pharmakologie/Medikament]
+tags: [Modul/m09, Fach/Pharmakologie/Medikament]
 title: Applikation
 ---
 - [[i.v.]]

@@ -6,9 +6,9 @@ title: Adrenogenitales Syndrom
 - **Ätiologie**:: Autosomal-rezessive [[Stoffwechseldefekte]]
 - **Pathophysiologie**:: Defekt ==21-Hydroxylase==[^2] → ==[[Cortisol]]synthese↓==, teils auch [[Aldosteron]]synthese↓ → Negative Rückkopplung↓[^6] → [[ACTH]]↑↑↑ → [[NNR]]-[[Hyperplasie]], ==[[Androgene]]↑==
 - **Symptome**
-	- **[[M]]**:: ==46,XX-[[DSD]]== ([[M]] Genotyp mit [[W]] Phänotyp), Klitorishypertrophie ([[Penis]]-artig), [[PCO-Syndrom]], Hirsutismus, Pseudopubertas praecox,  [[Amenorrhoe]]
+	- **[[W]]**:: ==46,XX-[[DSD]]== ([[W]] Genotyp mit [[M]] Phänotyp), Klitorishypertrophie ([[Penis]]-artig), [[PCO-Syndrom]], Hirsutismus, Pseudopubertas praecox,  [[Amenorrhoe]]
 		- *Einteilung n. Prader I-V*
-	- **[[W]]**:: Postnatal unauffällig, Pseudopubertas praecox, vergrößerter [[Penis]], kleine [[Hoden]], hyperpigmentiertes Skrotum[^4]
+	- **[[M]]**:: Postnatal unauffällig, Pseudopubertas praecox, vergrößerter [[Penis]], kleine [[Hoden]], hyperpigmentiertes Skrotum[^4]
 	- Schnelles, aber verfrüht endendes Wachstum
 	- **Salzverlustsyndrom**:: Schwerer Hypoaldosteronismus (Hyponatriämie, [[Hyperkaliämie]], [[Azidose]], [[Exsikkose]])
 - **Diagnostik** ([[Blut]]- und [[Urindiagnostik]])

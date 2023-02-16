@@ -3,7 +3,7 @@ tags: [Art/Pathologie, Fach/Rheumatologie]
 title: Gicht
 ---
 > (Abstract::**[[Hyperurikämie]] → Uratkristalle in Gelenken → Gichtanfälle.** Therapie: [[NSAR]], [[Allopurinol]].)
-- **Epidemiologie**:: 1-2%, [[W]]>>[[M]]
+- **Epidemiologie**:: 1-2%, [[M]]>>[[W]]
 - **Ätiologie**:: [[Hyperurikämie]] + Trigger (purinhaltige Nahrung, Alkoholexzess, Fasten)
 - **Symptome**:: Mono-==[[Arthralgie]]==, Erguss, [[Entzündung]] (60% Großzehe), insb. nachts
 - **Diagnostik**:: ==Klinik==, ggf. Gelenkpunktion ([[Leukocytose]], Uratkristalle)

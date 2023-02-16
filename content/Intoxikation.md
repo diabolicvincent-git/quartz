@@ -1,9 +1,7 @@
 ---
-tags: [Modul/m00, Modul/m13, Fach/Toxikologie]
+tags: [Modul/m13, Fach/Toxikologie]
 title: Intoxikation
 ---
-### Intoxikation / Vergiftung
-
 ## Übersichtsmatrix (Tabelle)
 | Giftstoff                                                          | Symptome                                                            | Therapie                                                         |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- | ---------------------------------------------------------------- |

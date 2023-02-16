@@ -3,7 +3,7 @@ tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie, Fach/Dermatologie]
 title: Raynaud-Syndrom
 ---
 ### Raynaud-Syndrom
-- **Epidemiologie**:: [[M]]>>[[W]] 
+- **Epidemiologie**:: [[W]]>>[[M]] 
 - **Ätiologie**
 	- **Primär**:: Idiopathische Vasospasmen
 	- **Sekundär**:: Medikamente ([[β-Blocker]]), Trauma, [[Myeloproliferative Neoplasien]] (Blutviskosität↑), [[pAVK]], [[Vaskulitis]], ==[[Kollagenose]]==

@@ -4,7 +4,7 @@ title: Emotional instabile Persönlichkeitsstörung
 ---
 > (Abstract::[[Borderline-Typ]], [[Impulsiver Typ]])
 - **Cluster**:: [[Cluster B]]
-- **Epidemiologie**:: Lebenszeitprävalenz 5%, Adoleszenz bis Mitte 20, [[W]]=[[M]]
+- **Epidemiologie**:: Lebenszeitprävalenz 5%, Adoleszenz bis Mitte 20, [[M]]=[[W]]
 - **Ätiologie**:: Genet. Affektkontrolle↓ + Traumatische Invalidation der Emotionen
 - **Pathophysiologie**:: ==Emotionale Instabilität → Soziale Störung + Identitätsstörung → Dysfunktionales Verhalten ([[SVV]], [[Suizidalität]]) als Kompensation==
 - **Klassifikation**:: [[Borderline-Typ]], [[Impulsiver Typ]]

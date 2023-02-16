@@ -6,7 +6,7 @@ title: Systemische Störungen
 Eigenschaft|[[Autoinflammation]]|Autoimmunität
 -|-|-
 Monogen|↑|↓
-[[Geschlecht]]-Verteilung|~/[[W]]|[[M]]
+[[Geschlecht]]-Verteilung|~/[[M]]|[[W]]
 Alter|Kindheit|alle, Peak Adoleszenz
 Auslöser|[[Nekrose]], mechanisch, Erreger|Toleranzverlust
 Pathogenese|Angeborene Immunität|Angeborene und erworbene Immunität

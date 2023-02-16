@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Toxikologie, Art/Pathologie]
+tags: [Modul/m13, Fach/Toxikologie, Art/Pathologie]
 title: Toxidrome
 ---
 - [[Anticholinerges Syndrom]]

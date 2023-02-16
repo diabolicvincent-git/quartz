@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Hämatologie]
+tags: [Modul/m08, Fach/Hämatologie]
 title: Blutröhrchen
 ---
 1. **Serum**:: [[Elektrolyte]], Leberenzyme, Serologien

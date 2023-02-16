@@ -3,7 +3,7 @@ tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: COPD
 ---
 > (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Bronchitis]] + [[Lungenemphysem]].)
-- **Epidemiologie**:: 13%, [[W]] > [[M]], ca. 70% undiagnostiziert
+- **Epidemiologie**:: 13%, [[M]] > [[W]], ca. 70% undiagnostiziert
 - **Risikofaktoren**:: Exogen ([[Rauchen]], Feinstaub) ↔︎ Endogen ([[α1-Antitrypsin-Mangel]], [[CVID]], Frühgeburt)
 - **Symptome**:: chron. [[Husten]], progr. [[Dyspnoe]], u.U. [[Hypoxiezeichen]], Fassthorax, [[Cor pulmonale]]
 - **Komplikationen**:: ==[[aeCOPD]]==, [[Obstruktive Ventilationsstörung]]

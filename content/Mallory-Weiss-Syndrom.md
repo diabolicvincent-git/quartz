@@ -4,7 +4,7 @@ title: Mallory-Weiss-Syndrom
 ---
 ### Mallory-Weiss-Syndrom
 > Longitudinale Schleimhauteinrisse (Mucosa + Submucosa) am gastroösophagealen Übergang
-- **Epidemiologie**:: 5% aller [[GI-Blutung]], ♂>[[M]]
+- **Epidemiologie**:: 5% aller [[GI-Blutung]], ♂>[[W]]
 - **Ätiologie**
 	- Plötzlich intraluminaler Druck↑ (z.B. Erbrechen, stumpfes Bauchtrauma)
 	- Vorgeschädigte Schleimhaut (z.B. Alkoholabusus, Reflux, Altersatrophie)

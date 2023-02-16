@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m00, Art/Intervention, Fach/Kardiologie]
+tags: [Modul/m11, Art/Intervention, Fach/Kardiologie]
 title: HF
 ---
-### Herzfrequenz / HF
+> (Abstract::Herzfrequenz)
 - **Normwert**:: 60-80/min
 - **Pathologien**
 	- [[Bradykardie]]

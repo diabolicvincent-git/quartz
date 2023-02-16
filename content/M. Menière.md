@@ -3,7 +3,7 @@ tags: [Modul/m16, Fach/HNO, Art/Pathologie]
 title: M. Menière
 ---
 > (Abstract::**Anfallsartige Trias (Drehschwindel, [[Hörstörung]], Tinnitus).** Ätiologie unklar.)
-- **Epidemiologie**:: 40-50. LJ; [[M]] > [[W]] 
+- **Epidemiologie**:: 40-50. LJ; [[W]] > [[M]] 
 - **Ätiologie**:: Idiopathisch (90%), genetisch (10%)
 - **Pathophysiologie**:: Endolymphatischer Hydrops (?)
 - **Symptomtrias** (fluktuierend)

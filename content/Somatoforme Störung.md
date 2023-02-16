@@ -9,7 +9,7 @@ title: Somatoforme Störung
 	- Aufmerksamkeit-suchendes Krankheitsverhalten
 	- ggf. Physiologische Normabweichung
 - **Einteilung**
-	- [[Somatisierungsstörung]] (div. Symptome, insb. [[M]] <30. LJ)
+	- [[Somatisierungsstörung]] (div. Symptome, insb. [[W]] <30. LJ)
 	- [[Hypochondrische Störung]] (Krankheits[[Wahn]], z.B. [[HIV]], Malginome)
 	- [[Somatoforme autononme Funktionsstörung]] (z.B. Herzneurose)
 	- [[Anhaltende Schmerzstörung]]

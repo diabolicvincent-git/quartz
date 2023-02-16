@@ -7,7 +7,7 @@ title: Eisen
 	- [[Sauerstofftransport]] ([[Hb]])
 	- Energiegewinnung durch Elektronentransfer in der [[Atmungskette]]
 	- Siderophor für Pathogene
-- **Nahrungsbedarf**:: [[W]] 10 mg/d, [[M]] 15 mg/d (Menstruationsverlust)
+- **Nahrungsbedarf**:: [[M]] 10 mg/d, [[W]] 15 mg/d (Menstruationsverlust)
 - **Resorption**:: Nur 10% (ca. 1,5 mg) des zugeführten Eisens im [[Duodenum]]
 	- **Aufnahme**:: Freies Eisen (90%) via DMT-1, [[Häm]]-Eisen (10%) via CHP1
 	- **Weiterverwertung**

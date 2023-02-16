@@ -4,7 +4,7 @@ title: Rheumatoide Arthritis
 ---
 ### Rheumatoide Arthritis / RA
 > Chronisch-entzündliche, degenerative [[Autoimmunität]] unklarer Genese
-- **Epidemiologie**:: Prävalenz 1%, [[M]] > [[W]], Beginn 35-50. LJ
+- **Epidemiologie**:: Prävalenz 1%, [[W]] > [[M]], Beginn 35-50. LJ
 - **Ätiologie**:: Unklar, genetische Assoziation mit [[HLA]]-DR4
 - **Symptome**:: ==Schubweiser, symmetr. Befall v.a. kleiner [[Gelenke]]==, insb. MCP[^1]
 	- Nachtschweiß, Myalgie, Subfebrile Temperatur, Fatigue

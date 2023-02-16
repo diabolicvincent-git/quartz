@@ -3,7 +3,7 @@ tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Migräne
 ---
 ### Migräne
-- **Epidemiologie**:: [[M]] > [[W]], Erstmanifestation 15-25 Jahre
+- **Epidemiologie**:: [[W]] > [[M]], Erstmanifestation 15-25 Jahre
 - **Ätiologie**:: Genetische Disposition + Triggerfaktoren (u.a. Klima, Noxen, Z.n. [[Stress]], [[Menstruation]])
 - **Symptome**
 	- **Prodromi**:: Stimmung↑↓, Appetit↑↓, Gähnen, Erschöpfung, Polyurie, Polydipsie

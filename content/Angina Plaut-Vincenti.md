@@ -3,7 +3,7 @@ tags: [Art/Pathologie, Fach/HNO, Fach/Infektiologie]
 title: Angina Plaut-Vincenti
 ---
 > (Abstract::)
-- **Epidemiologie**:: Jung, [[M]]
+- **Epidemiologie**:: Jung, [[W]]
 - **Ätiologie**:: Mischinfektion [[Treponema vincentii]] + [[Fusobacterium nucleatum]]
 - **Klassifikation**::
 - **Pathophysiologie**::

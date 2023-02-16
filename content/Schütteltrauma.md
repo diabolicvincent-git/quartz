@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Pädiatrie, Fach/Psychiatrie, Fach/Rechtsmedizin, Art/Pathologie]
+tags: [Modul/m22, Fach/Pädiatrie, Fach/Psychiatrie, Fach/Rechtsmedizin, Art/Pathologie]
 title: Schütteltrauma
 ---
 ### Shaken-Baby-Syndrom / Schütteltrauma

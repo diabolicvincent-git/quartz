@@ -4,8 +4,8 @@ title: LH
 ---
 ### Luteinisierendes Hormon / LH
 - **Wirkung**
-	- **[[W]]**:: *Leydig-Zellen im Hoden* (==[[Androgene]]-Synthese↑==)
-	- **[[M]]**:: *Thecazellen im [[Ovar]]* ([[Androgene]]-Synthese↑)
+	- **[[M]]**:: *Leydig-Zellen im Hoden* (==[[Androgene]]-Synthese↑==)
+	- **[[W]]**:: *Thecazellen im [[Ovar]]* ([[Androgene]]-Synthese↑)
 		- ==LH-Peak induziert [[Ovulation]]== und Bildung des Corpus luteum
 - **Synthese**:: [[Adenohypophyse]] (pulsatile [[Sekretion]])
 	- **Struktur**:: Peptidhormon mit 2 UE (α-UE ist identisch für hCG, [[FSH]], [[TSH]], LH)

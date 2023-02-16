@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m10, Modul/m00, Fach/Anatomie, Fach/Orthopädie]
+tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Muskeln
 ---
 ```dataview

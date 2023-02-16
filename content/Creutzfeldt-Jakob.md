@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Neurologie, Art/Pathologie]
+tags: [Fach/Neurologie, Art/Pathologie]
 title: Creutzfeldt-Jakob
 ---
 ### Creutzfeldt-Jakob-Krankheit

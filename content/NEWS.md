@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Anästhesie, Art/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: NEWS
 ---
 ### National Early Warning Score / NEWS2

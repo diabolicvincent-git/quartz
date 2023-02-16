@@ -1,7 +1,7 @@
 ---
-tags: [Modul/m00, Fach/Anästhesie]
+tags: [Modul/m21, Fach/Anästhesie]
 title: ITS
 ---
-### Intensivstation / ITS 
+> (Abstract::Intensivstation)
 - [[SOFA]]
 - 

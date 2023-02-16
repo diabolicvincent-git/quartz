@@ -4,7 +4,7 @@ title: Urolithiasis
 ---
 > (Abstract::**Harnsteine.**)
 - **Lokalisation**:: [[Niere]] (Nephrolithiasis), [[Ureter]] (Urterolithiasis), [[Harnblase]] (Cystolithiasis), [[Urethra]] (Urethralithiasis)
-- **Epidemiologie**:: 30-60 Jahre, ♂>[[M]]
+- **Epidemiologie**:: 30-60 Jahre, [[M]]>[[W]]
 - **Pathophysiologie**
 	- *Calciumoxalatsteine:* [[Ca2+]]↑, Oxalat↑
 	- *Struvitsteine:* [[HWI]]

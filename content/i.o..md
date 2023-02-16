@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m00, Modul/m21, Fach/Pharmakologie/Medikament]
+tags: [Modul/m21, Fach/Pharmakologie/Medikament]
 title: i.o.
 ---
-### intraossär / i.o.
+> (Abstract::**intraossär.**)
 - **Indikation**:: [[Reanimation]] oder vitale Bedrohung + [[i.v.]]-Zugang erschwert/unmöglich
 - **Punktionsstellen**
 	- **==Proximale Tibia==**:: 2 cm medial der Tuberositas tibiae

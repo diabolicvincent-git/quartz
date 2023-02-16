@@ -3,7 +3,7 @@ tags: [Art/Pathologie, Fach/Onkologie, Fach/HNO]
 title: Pharynx-Ca
 ---
 > (Abstract::**Maligner [[Tumor]] des [[Pharynx]].**)
-- **Epidemiologie**:: [[W]]>[[M]] 5:1, 45-75 J.
+- **Epidemiologie**:: [[M]]>[[W]] 5:1, 45-75 J.
 - **Ätiologie**:: ==[[Rauchen]]==, ==[[Alkohol]]==, [[EBV]] ([[Nasopharynx-Ca]]), [[HPV]] ([[Oropharynx-Ca]])
 - **Klassifikation**:: [[TNM]]
 - **Symptome**:: Cervicale [[Lymphadenopathie]]

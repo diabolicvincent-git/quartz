@@ -2,7 +2,6 @@
 tags: [Modul/m07, Fach/Epidemiologie]
 title: Gütekriterien
 ---
-### Gütekriterien
 - **Objektivität**:: Unabhängigkeit vom Untersucher
 - **Reliabilität**:: Reproduzierbarkeit
 	- *Paralleltest-Reliabilität*

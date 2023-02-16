@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m00, Modul/m11, Fach/Kardiologie, Art/Intervention, Fach/Notfallmedizin]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention, Fach/Notfallmedizin]
 title: HEART-Score
 ---
-### HEART-Score
 - **0-3 Pkt.**:: Ambulant (1.9% Kardiales Ereignis, 0.05% Letalität)
 - **4-6 Pkt.**:: Überwachung (13% Kardiales Ereignis, 1.3% Letalität)
 - **7-10 Pkt.**:: Intervention (50% Kardiales Ereignis, 2.8% Letalität)

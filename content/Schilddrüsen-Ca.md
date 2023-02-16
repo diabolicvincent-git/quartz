@@ -3,7 +3,7 @@ tags: [Art/Pathologie, Fach/HNO, Fach/Endokrinologie]
 title: Schilddrüsen-Ca
 ---
 > (Abstract::Auch: Struma maligna.)
-- **Epidemiologie**:: [[M]]>[[W]]
+- **Epidemiologie**:: [[W]]>[[M]]
 - **Ätiologie**:: Genetik (MEN), [[Ionisierende Strahlung]]
 - **Klassifikation**
 	- *[[Papilläres Schilddrüsen-Ca]]*:: Am häufigsten

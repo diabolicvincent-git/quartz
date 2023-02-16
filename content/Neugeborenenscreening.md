@@ -18,4 +18,4 @@ title: Neugeborenenscreening
 	- Isovalerianazidämie
 	- MCAD-Mangel
 	- LCHAD-/VLCAD-Mangel
-	- 5q-[[SMA]]
+	- 5q-[[Spinale Muskelatrophie (SMA)]]

@@ -17,7 +17,7 @@ title: Delegation
 	- Arzneimittelverschreibung
 	- [[Anamnese]] und [[Untersuchung]] (immer ärztlich nachprüfen)
 	- Aufklärung, Beratung
-	- Begutachtung
+	- Gutachten schreiben
 	- Wundmanagement bei komplizierten Wunden
 	- Diagnosestellung
 	- Indikationsstellung, Therapieentscheidung

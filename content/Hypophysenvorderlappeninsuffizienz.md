@@ -22,7 +22,7 @@ title: Hypophysenvorderlappeninsuffizienz
 	- **[[MRT]]**:: Raumforderung [[Hypophyse]] (Mikroadenom, Makroadenom, [[Schlaganfall]])
 - **Therapie**
 	- *Kausal:* [[OP]]
-	- *Symptomatisch:* ♂ Testosteron[^3], [[M]] [[Östrogene]]-[[Gestagene]], L-Thyroxin, Hydrocortison, ggf. [[GH]]
+	- *Symptomatisch:* ♂ Testosteron[^3], [[W]] [[Östrogene]]-[[Gestagene]], L-Thyroxin, Hydrocortison, ggf. [[GH]]
 	- *Hypophysäres [[Koma]]:* Sofort Hydrocortison + später L-Thyroxin
 
 [^1]: Blässe durch gleichzeitigen Ausfall von [[MSH]] (aus [[POMC]])

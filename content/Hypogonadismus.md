@@ -5,7 +5,7 @@ title: Hypogonadismus
 ### Hypogonadismus
 - **Einteilung**
 	- **Hypergonadotroper Hypogonadismus**:: Störung der Keimdrüsen
-		- *Angeboren:* ==[[Turner-Syndrom]] ([[M]]), [[Klinefelter-Syndrom]] (♂)==, [[Swyer-Syndrom]]
+		- *Angeboren:* ==[[Turner-Syndrom]] ([[W]]), [[Klinefelter-Syndrom]] (♂)==, [[Swyer-Syndrom]]
 		- *Erworben:* Z.n. [[Chemotherapie]], [[Autoimmunität]], [[Ovarialinsuffizienz]], [[Menopause]]
 	- **Hypogonadotroper Hypogonadismus**:: Störung der [[Hypothalamus-Hypophysen-Achse]] ([[LH]]/[[FSH]])
 		- *Angeboren:* z.B. Prader-Willi-Syndrom

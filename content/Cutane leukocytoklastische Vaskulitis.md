@@ -33,7 +33,7 @@ title: Cutane leukocytoklastische Vaskulitis
 - **Therapie**:: [[Glucocorticoide]], Dapson, Ciclosporin oder Mycophonlatmofetil, ggf. Immunglobuline, Biologika
 
 ### Sweet-Syndrom / Akute febrile neutrophile Dermatose
-- **Epidemiologie**:: [[M]]>[[W]], 30.-70. LJ, v.a. Frühjahr und Herbst
+- **Epidemiologie**:: [[W]]>[[M]], 30.-70. LJ, v.a. Frühjahr und Herbst
 - **Symptome**:: [[Fieber]], [[Arthralgie]], Leukocytose, erythematöse Plaques
 - **Diagnostik**:: Histologie, [[BSG]]↑, [[CRP]]↑, Leukocytose mit Neutrophilie
 - **Therapie**:: [[Glucocorticoide]], ggf. Rezidivprophylaxe mit Immunsuppression

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Radiologie/Standardbildgebung, Art/Intervention]
+tags: [Modul/m05, Fach/Radiologie/Standardbildgebung, Art/Intervention]
 title: Sonographie
 ---
 > (Abstract::[[Piezoelektrischer Effekt]] → hochfrequenter Ultraschall)

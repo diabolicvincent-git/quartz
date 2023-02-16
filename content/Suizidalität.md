@@ -4,8 +4,8 @@ title: Suizidalität
 ---
 > Suizidgedanken + konkrete Suizidabsicht = akute Suizidhandlung droht
 - **Epidemiologie**
-	- *Suizid:* Steigend mit Lebensalter, zweithäufigste Todesursache bei Jugendlichen, [[W]]>[[M]]
-	- *Suizidversuch:* 10-15x häufiger als Suizid, Häufigkeitsgipfel 15-30 J., [[M]]>[[W]]
+	- *Suizid:* Steigend mit Lebensalter, zweithäufigste Todesursache bei Jugendlichen, [[M]]>[[W]]
+	- *Suizidversuch:* 10-15x häufiger als Suizid, Häufigkeitsgipfel 15-30 J., [[W]]>[[M]]
 - **Symptome**
 	- *Präsuizid-Syndrom:* Einengung, Aggressionsumkehr, Suizidphantasien
 - **Diagnostik**

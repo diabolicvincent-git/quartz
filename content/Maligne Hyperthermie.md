@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m00, Fach/Anästhesie, Art/Pathologie]
+tags: [Modul/m21, Fach/Anästhesie, Art/Pathologie]
 title: Maligne Hyperthermie
 ---
-### Maligne Hyperthermie / MH
 - **Ätiologie**
 	- **Ursache**::  Autosomal-dominante [[Mutation]] im Ryanodinrezeptor ([[Ca2+]] Kanal im Muskel)
 	- **Triggersubstanzen**:: ==Volatile Anästhetika== (z.B. Desfluran), Muskelrelaxans (==Succinylcholin==)

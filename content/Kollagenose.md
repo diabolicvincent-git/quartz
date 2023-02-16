@@ -2,9 +2,8 @@
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Kollagenose
 ---
-### Kollagenose
 > Unklare [[Autoimmunität]] gegen [[Bindegewebe]]
-- **Epidemiologie**:: [[M]]>[[W]]
+- **Epidemiologie**:: [[W]]>[[M]]
 - **Symptome** 
 	- **Allgemein**:: [[Fieber]], [[Gewichtsverlust]]
 	- **[[Gelenke]]**:: Polyarthritis, Myositis)

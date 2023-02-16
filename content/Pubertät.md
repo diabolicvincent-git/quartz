@@ -4,7 +4,7 @@ title: Pubertät
 ---
 ### Pubertät
 > Ausreifung von Gonaden/Genitalien, Bildung sekundärer [[Geschlechtsmerkmale]], Wachstum
-- **Beginn**:: [[M]] 11. LJ, ♂ 13. LJ (abhängig von [[Hormon]]haushalt, insb. [[GH]], [[Leptin]])
+- **Beginn**:: [[W]] 11. LJ, ♂ 13. LJ (abhängig von [[Hormon]]haushalt, insb. [[GH]], [[Leptin]])
 - **Dauer**:: ca. 4 Jahre
 - **Einteilung**:: ==[[Tanner-Stadien]]==
 - **Ablauf**

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00/m00, Fach/Anästhesie, Art/Intervention/Intervention]
+tags: [Modul/m21, Fach/Anästhesie, Art/Intervention/Intervention]
 title: REBOA
 ---
 ### Resuscitative Endocascular Balloon Occlusion of the [[Aorta]] / REBOA

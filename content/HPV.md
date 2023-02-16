@@ -7,7 +7,7 @@ title: HPV
 	- Condylomata acuminata (anogenitale Feigwarzen)
 - **Onkogen**:: ==[[Cervix-Ca]]== (100%), weitere anogenitale und oropharyngeale Karzinome
 - **Prävention**:: [[Impfung]] gegen [[HPV]] 6, 11, 16, 18 + Kreuzimmunität
-	- Seit 2018 auch Impfempfehlung für [[W]] als Überträger
+	- Seit 2018 auch Impfempfehlung für [[M]] als Überträger
 
 ## Viruseigenschaften
 - ds[[DNA]] circulär

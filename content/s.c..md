@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Modul/m09, Fach/Pharmakologie]
+tags: [Modul/m09, Fach/Pharmakologie]
 title: s.c.
 ---
 ### subcutan / s.c.

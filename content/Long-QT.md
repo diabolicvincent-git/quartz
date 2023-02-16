@@ -3,7 +3,7 @@ tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Long-QT
 ---
 ### Long-QT-Syndrom / LQTS
-> **[[QT-Zeit]]** [[M]] >470 ms, ♂ >450 ms
+> **[[QT-Zeit]]** [[W]] >470 ms, ♂ >450 ms
 - **Ätiologie**
 	- **Angeborenes LQTS**:: Autosomal-dominante [[Mutation]] der kardialen Ionenkanäle
 		- *Romano-Ward-Syndrom* (LQTS 1-6 und 9-13)

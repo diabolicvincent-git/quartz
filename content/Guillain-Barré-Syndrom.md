@@ -4,7 +4,7 @@ title: Guillain-Barré-Syndrom
 ---
 > Akute demyelinisierende Polyneuroradikulopathie
 - **Epidemiologie**
-	- Jedes Alter, typisch [[W]] 50.-60. LJ
+	- Jedes Alter, typisch [[M]] 50.-60. LJ
 - **Ätiologie**
 	- Vorangegangene [[Infektionen]] → kreuzreaktive [[Auto-Antikörper]] gegen Myelin/Ganglioside → [[Autoimmunität]]
 - **Symptome**

@@ -1,9 +1,8 @@
 ---
-tags: [Modul/m00, Fach/Pharmakologie/Medikament]
+tags: [Modul/m21, Fach/Pharmakologie/Medikament]
 title: i.m.
 ---
-### intramuskulär / i.m.
-> **[[Applikation]]** in [[Muskelgewebe]]
+> (Abstract::intramuskulär, *[[Applikation]]* in [[Muskelgewebe]])
 - **Allgemeine Hinweise**
 	- Injektion im 90° Winkel
 	- Aspirationsprobe (kein Blut?)

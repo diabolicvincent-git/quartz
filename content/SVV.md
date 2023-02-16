@@ -2,7 +2,7 @@
 tags: [Fach/Psychiatrie, Art/Pathologie, Modul/m31]
 title: SVV
 ---
-- **Epidemiologie**:: Beginn frühe Adoleszenz, Prävalenz 17%, [[M]]>[[W]]
+- **Epidemiologie**:: Beginn frühe Adoleszenz, Prävalenz 17%, [[W]]>[[M]]
 - **Ätiologie**:: Funktion als Spannungsabbau ([[Borderline-Typ]]), Selbstbestrafung, Anti-Dissoziation, Vermeiden von [[Suizidalität]], Hilfsappell (soziale Manipulation), Erzeugen positiver Gefühle, soziale Individualisierung, Modellernen
 - **Symptome**:: Häufigste Methode ist Schneiden an Armen, Händen, Beinen
 	- **Methoden**

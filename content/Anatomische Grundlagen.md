@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Anatomie]
+tags: [Modul/m09, Fach/Anatomie]
 title: Anatomische Grundlagen
 ---
 - [[Körperachse]]

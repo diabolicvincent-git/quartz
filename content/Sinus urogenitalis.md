@@ -6,4 +6,4 @@ title: Sinus urogenitalis
 > Vorläufer der Harnorgane und inneren+äußeren [[Geschlechtsorgane]]
 - **Differenzierung**
 	- **♂**:: [[Prostata]], Bulbourethraldrüse, [[Harnblase]], [[Urethra]]
-	- **[[M]]**:: Untere [[Vagina]], Vestibulum vaginae, Bartholin-Drüsen, Glandulae vestibulares minores, [[Harnblase]], [[Urethra]]
+	- **[[W]]**:: Untere [[Vagina]], Vestibulum vaginae, Bartholin-Drüsen, Glandulae vestibulares minores, [[Harnblase]], [[Urethra]]

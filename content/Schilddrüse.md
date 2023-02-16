@@ -4,7 +4,7 @@ title: Schilddrüse
 ---
 ### Schilddrüse
 - **Funktion**:: Produktion/[[Sekretion]] [[Schilddrüsenhormone]] und [[Calcitonin]]
-- **Volumen**:: [[W]] 15-25 mL, [[M]] 10-18 mL
+- **Volumen**:: [[M]] 15-25 mL, [[W]] 10-18 mL
 - **Aufbau**
 	- *Capsula externa/interna*
 	- *Lobi:* Lobus dexter/sinister/pyramidalis, Isthmus

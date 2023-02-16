@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Pädiatrie, Fach/Psychiatrie, Art/Pathologie, Fach/Rechtsmedizin]
+tags: [Modul/m22, Fach/Pädiatrie, Fach/Psychiatrie, Art/Pathologie, Fach/Rechtsmedizin]
 title: Kindesmisshandlung
 ---
 > Stationäre Aufnahme erwirken! (z.B. "Grunderkrankung abklären, die Verletzung mit diesem Mechanismus erklären kann, etwa Knochenstoffwechsel") + Info Kinderschutzgruppe

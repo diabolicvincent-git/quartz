@@ -2,7 +2,7 @@
 tags: [Modul/m31, Fach/Psychiatrie, Art/Pathologie]
 title: Bulimia nervosa
 ---
-- **Epidemiologie**:: [[M]]>>[[W]] 10:1, Häufigkeitsgipfel 20-24 J.
+- **Epidemiologie**:: [[W]]>>[[M]] 10:1, Häufigkeitsgipfel 20-24 J.
 - **Symptome**:: ==Essanfälle ≥2x/Woche + zwanghaftes Nahrungsverlangen + selbstinduzierte Gewichtsreduktion (oft: selbstinduziertes Erbrechen) + Körperschemastörung==, aber Normalgewicht
 	- *GI-Trakt:* [[Gastritis]], [[Ösophagitis]], [[Karies]], [[Speicheldrüsen]]-Schwellung
 	- *Schleimhaut:* Trockene Lippen, Mundwinkel-[[Rhagaden]], Zahnfleischveränderungen

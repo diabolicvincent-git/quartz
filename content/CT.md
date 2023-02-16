@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Radiologie/Standardbildgebung, Art/Intervention, Modul/m30]
+tags: [Modul/m15, Fach/Radiologie/Standardbildgebung, Art/Intervention, Modul/m30]
 title: CT
 ---
 > (Abstract::**Computertomographie.**)

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Allgemeinmedizin]
+tags: [Modul/m10, Fach/Allgemeinmedizin]
 title: ECOG
 ---
 ### ECOG Index zur Lebensqualität

@@ -6,7 +6,7 @@ title: Sterilität
 > Keine [[Schwangerschaft]] trotz ungeschütztem Sex >1 Jahr
 
 - **Ätiologie**
-	- **[[M]]**
+	- **[[W]]**
 		- *Gestörte [[Oogenese]]:* ==[[Ovarialinsuffizienz]]==
 		- *Gestörter Transport:* Tubenverschluss nach ==Chlamydien-Salpingitis==
 		- *Gestörter [[Uterus]]:* [[Fehlbildung]], Myome, Z.n. Kürettage, veränderter Cervixschleim

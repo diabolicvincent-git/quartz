@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Anästhesie, Art/Intervention]
+tags: [Fach/Notfallmedizin, Art/Intervention]
 title: SAMPLER
 ---
 ### SAMPLER

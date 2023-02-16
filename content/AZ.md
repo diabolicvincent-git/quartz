@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Art/Intervention, Fach/Allgemeinmedizin]
+tags: [Modul/m01, Art/Intervention, Fach/Allgemeinmedizin]
 title: AZ
 ---
 > **Allgemeinzustand**

@@ -13,5 +13,5 @@ title: Geschlecht
 		- **Erziehungsgeschlecht**
 		- **Geschlechtsidentität**
 - **Geschlechtsunterschiede**
-	- *Geschlechtsspezifisch:* Nur bei [[W]]/[[M]] 
-	- *Geschlechtstypisch:* Häufiger bei [[W]]/[[M]]
+	- *Geschlechtsspezifisch:* Nur bei [[M]]/[[W]] 
+	- *Geschlechtstypisch:* Häufiger bei [[M]]/[[W]]

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m00, Fach/Psychiatrie, Art/Intervention]
+tags: [Modul/m20, Fach/Psychiatrie, Art/Intervention]
 title: Motivierende Gesprächsführung
 ---
-### Motivierende Gesprächsführung
 - Exploration vorhandener Ambivalenzen: *Was hält Sie davon ab?*
 - Reduktion von Ambivalenzen
 - Keine Konfrontation

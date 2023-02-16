@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Pharmakologie/Medikament, ToDo]
+tags: [Fach/Pharmakologie, ToDo]
 title: IMPP-Arzneistoffe
 ---
 ### Adrenerges System

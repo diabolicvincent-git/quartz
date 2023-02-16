@@ -7,8 +7,8 @@ title: Leistenkanal
 - **Inhalt**
 	- N. ilioinguinalis
 	- R. genitalis des N. genitofemoralis
-	- [[M]] Lig. teres uteri
-	- [[W]] [[Samenstrang]]
+	- [[W]] Lig. teres uteri
+	- [[M]] [[Samenstrang]]
 - **Öffnungen**
 	- *Anulus inguinalis profundus:* Eingang, lateral der A./V. epigastrica inferior
 	- *Anulus inguinalis superficialis:* Ausgang, medial der A./V. epigastrica inferior

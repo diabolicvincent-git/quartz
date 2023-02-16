@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m00, Fach/Dermatologie, Art/Intervention]
+tags: [Modul/m17, Modul/m09, Fach/Dermatologie, Art/Intervention]
 title: Untersuchung Nägel
 ---
 - **Inspektion**

@@ -3,7 +3,7 @@ tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Takayasu-Arteriitis
 ---
 > Seltene [[Riesenzellarteriitis]] der [[Aorta]] und Abgänge (häufig linke [[A. subclavia]])
-- **Epidemiologie**:: Alter <40 J., [[M]]>[[W]]
+- **Epidemiologie**:: Alter <40 J., [[W]]>[[M]]
 - **Symptome**:: Claudicatio intermittens der Extremitäten, [[Angina pectoris]]
 - **Diagnostik**
 	- Abgeschwächte Pulsation der A. radialis/ulnaris
