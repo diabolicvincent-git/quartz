@@ -21,7 +21,7 @@ title: Hyperkaliämie
 	- Calciumgluconat 1 g [[i.v.]] (Membranstabilisierung)
 	- Insulin + [[Glucose]] 5 IE / 50 g [[i.v.]] ([[K+]] Shift nach IZ)
 	- Natriumbicarbonat (Puffer bei [[Azidose]])
-	- Furosemid oder [[VEL]] je nach [[Volumenstatus]]
+	- [[Furosemid]] oder [[VEL]] je nach [[Volumenstatus]]
 ---
 
 

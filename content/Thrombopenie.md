@@ -49,7 +49,7 @@ title: Thrombopenie
 - Diclofenac
 - [[Digitalis]]
 - [[Erythromycin]]
-- Furosemid ([[Schleifendiuretika]])
+- [[Furosemid]] ([[Schleifendiuretika]])
 - Haarfärbemittel
 - ==[[Heparin]]== → *[[Heparin]]-induzierte Thrombocytopenie (HIT)*
 - Insektizide

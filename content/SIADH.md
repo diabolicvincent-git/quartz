@@ -17,7 +17,7 @@ title: SIADH
 - **DD**:: [[Herzinsuffizienz]], [[Leberzirrhose]], [[Nephrotisches Syndrom]] (alle: [[Ödeme]])
 - **Therapie**
 	- **Allgemein**:: Grunderkrankung, ==Flüssigkeitsrestriktion==
-	- **Medikamente**:: [[ADH]]-Antagonisten (Vaptane, z.B. Tolvaptan), ggf. vorsichtig hypertone [[NaCl 0,9%]]-[[Infusionslösung]] + Furosemid
+	- **Medikamente**:: [[ADH]]-Antagonisten (Vaptane, z.B. Tolvaptan), ggf. vorsichtig hypertone [[NaCl 0,9%]]-[[Infusionslösung]] + [[Furosemid]]
 
 ---
 ![[Pasted image 20230117152649.png]]

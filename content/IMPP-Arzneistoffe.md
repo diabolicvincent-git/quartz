@@ -91,7 +91,7 @@ title: IMPP-Arzneistoffe
 - **[[Muskelrelaxanzien]]**
 	- **[[ACh]]-Freisetzungs-Inhibitoren**:: Botulinum-Neurotoxin
 	- **N-[[ACh]]-R-Agonisten**:: Suxamethonium / Succinylcholin (depolarisierend) 
-	- **N-[[ACh]]-R-Antagonisten**:: Rocuronium (nicht-depolarisierend)
+	- **N-[[ACh]]-R-Antagonisten**:: [[Rocuronium]] (nicht-depolarisierend)
 - **Parasympathomimetika / Cholinergika**
 	- **Acetylcholinesterase-Inhibitoren**:: Pyridostigmin
 	- **Mx-[[ACh]]-R-Agonisten**:: Pilocarpin
@@ -310,7 +310,7 @@ title: IMPP-Arzneistoffe
 - **[[Diuretika]]**
 	- **[[Carboanhydrase-Hemmer]]**:: Acetazolamid, Brinzolamid
 	- **[[Na+]]/[[Cl-]]-Cotransport-Inhibitoren / [[Thiaziddiuretika]]**:: Hydrochlorothiazid
-	- **NKCC2-Cotransport-Inhibitoren / Schleifendiuretika**:: Furosemid
+	- **NKCC2-Cotransport-Inhibitoren / Schleifendiuretika**:: [[Furosemid]]
 - **Laxanzien**
 	- **Sekretagogisch/Antiresorptive Laxanzien**:: Bisacodyl
 	- **Wasserbindner**:: Macrogol, Mannitol

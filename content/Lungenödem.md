@@ -17,7 +17,7 @@ title: Lungenödem
 	- **Alveoläres [[Lungenödem]]** Flüssigkeit im Alveolarraum ([[Auskultation]]: feuchte Rasselgeräusche)
 - **Therapie**
 	- *Allgemein:* Herzbettlagerung, [[O2]]-Gabe
-	- *Medikamentös:* [[Morphin]], [[Nitrate]] ([[Vorlast]]↓), Furosemid
+	- *Medikamentös:* [[Morphin]], [[Nitrate]] ([[Vorlast]]↓), [[Furosemid]]
 	- [[CPAP]]
 
 

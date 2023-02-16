@@ -10,5 +10,5 @@ title: Rhabdomyolyse
 	- **Labor**:: [[LDH]]↑, Myoglobin↑, [[CK]]↑, [[Nierenwerte]]
 	- **[[Urindiagnostik]]**:: Rotbrauen Farbe (*Myoglobinurie*)
 - **Therapie**
-	- *==Forcierte Diurese:==* [[Volumentherapie]] (≥6 L) + [[Diuretika]] (z.B. Furosemid)
+	- *==Forcierte Diurese:==* [[Volumentherapie]] (≥6 L) + [[Diuretika]] (z.B. [[Furosemid]])
 	- ggf. [[Dialyse]]
