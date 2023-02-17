@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
+tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien, Mythbusting/DGIM-Klug-entscheiden]
 title: Pneumokokken
 ---
 ### Streptococcus pneumoniae / Pneumokokken

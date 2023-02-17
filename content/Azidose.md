@@ -8,7 +8,7 @@ title: Azidose
 
 ## Metabolische Azidose
 ### Ätiologie
-- Ketoazidose
+- [[Ketoazidose]]
 - [[Diarrhoe]]
 - [[CKD]]
 ### Diagnostik

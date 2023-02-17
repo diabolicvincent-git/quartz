@@ -6,7 +6,7 @@ title: Erektile Dysfunktion
 > [[Erektion]] gestört >6 Monate → verhindert zu 70% Geschlechtsverkehr
 - **Diagnostik**
 	- **[[Anamnese]]**:: [[Sexualanamnese]], Urologie, Kinderkrankheiten, [[STD]], Medikamente, Sozialanamnese, Psychiatrie
-	- **[[Labor]]**:: Testosteron, Prolactin, [[LH]], [[FSH]], [[TSH]]
+	- **[[Labor]]**:: [[Testosteron]], Prolactin, [[LH]], [[FSH]], [[TSH]]
 	- **Schlaflabor**:: *Phallographie* zum Nachweis physischer Erektionsfähigkeit (spontan nachts)
 - **Therapie**
 	- [[Psychotherapie]]

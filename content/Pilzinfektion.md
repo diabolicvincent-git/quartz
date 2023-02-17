@@ -14,6 +14,6 @@ title: Pilzinfektion
 ---
 - **Unterteilung**
 	- **Fadenpilze**:: *Aspergillus*, *Mucorarten(?)*
-	- **Hefen**:: z.B. *Candida spp.*
+	- **Hefen**:: z.B. *[[Candida]] spp.*
 - **Häufigste**:: Aspergillose, Candidiasis
 

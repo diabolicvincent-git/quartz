@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
+tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: NNR-Insuffizienz
 ---
-### Nebennierenrindeninsuffizienz / Hypocortisolismus
+> Hypocortisolismus
 - **Ätiologie**
 	- *Primär:* ==[[M. Addison]]== (v.a. Autoimmunadrenalitis), [[Adrenogenitales Syndrom]]
 	- *Sekundär:* [[Hypophysenvorderlappeninsuffizienz]], Langzeit-[[Glucocorticoide]] ([[ACTH]]↓)
@@ -19,5 +19,7 @@ title: NNR-Insuffizienz
 - **DD**:: [[PAS]]
 - **Therapie**
 	- ==[[Glucocorticoide]]-Substitution== (Hydrocortison), angepasst bei [[Stress]]
+- *DGIM Klug entscheiden*:: Eine Hydrocortisontherapie bei substitutionspflichtigen Patienten soll in relevanten Stresssituationen nicht ohne Dosisanpassung bleiben.
+
 
 [^1]: [[ACTH]]↑ durch [[POMC]]↑, dessen Spaltprodukt auch [[MSH]] ist

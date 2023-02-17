@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m20, Fach/Toxikologie/Gift/Droge, Fach/Anästhesie, Fach/Pharmakologie/Medikament/Übergruppe]
+tags: [Modul/m20, Fach/Toxikologie/Gift/Droge, Fach/Anästhesie, Fach/Pharmakologie/Medikament/Übergruppe, Mythbusting/DGIM-No-Go]
 title: Opioide
 ---
-### Opioide 
 - **Wirkung**:: Analgetisch
 - **Indikation**:: Schwere [[Schmerz]]en, [[ACS]], [[Lungenödem]], [[Analgosedierung]], [[Husten]], [[Diarrhoe]]
 - **Wirkmechanismus**:: Bindung an ==μ-==, κ-, δ-Opioidrezeptor → [[K+]] Kanäle öffnen (Hyperpolarisation), Ca2+ Kanäle schließen ([[Synapse]] inaktiviert)
@@ -29,7 +28,9 @@ title: Opioide
 TABLE WITHOUT ID link(file.link, title) AS Opioid, Potenz, Wirkdauer, Cave
 FROM #f/💤/Opioide
 ```
-
+---
+### Mythbusting
+- *DGIM No Go*:: Bestimmte Opioide sollen nicht mit [[Clarithromycin]] und anderen Hemmern von Cytochrom 3A4 kombiniert werden.
 
 ## Nebenwirkungen
 [[UAW]]|Häufigkeit|Dosis-abh.|Toleranz|Therapie

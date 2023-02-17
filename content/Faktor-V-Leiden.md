@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Fach/Hämatologie]
+tags: [Modul/m17, Fach/Hämatologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Faktor-V-Leiden
 ---
 ### Faktor-V-Leiden / APC-Resistenz
@@ -10,3 +10,4 @@ title: Faktor-V-Leiden
 - **Diagnostik**
 	- [[Gendiagnostik]]
 	- Protein-C-Resistenz-Test
+- *DGIM Klug entscheiden*:: Bei alleinigem Nachweis eines heterozygoten Faktor-V-Leiden oder Prothrombin-Polymorphismus soll eine dauerhafte medikamentöse Sekundärprophylaxe nach venöser Thromboembolie (VTE) nicht erfolgen.

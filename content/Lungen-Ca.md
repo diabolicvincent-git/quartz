@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Pneumologie]
+tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Pneumologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Lungen-Ca
 ---
-### Lungenkarzinom / Bronchialkarzinom
+> (Abstract::Auch: Bronchialkarzinom)
 - **Epidemiologie**:: 25% der Krebsmortalität; bei Diagnose 75% mit [[Metastasen]]
 - **Risikofaktoren**:: ==[[Rauchen]]== (aktiv x10, passiv x2), Noxen (z.B. [[Asbest]]), Vorschädigung ([[Lungenfibrose]], [[Tbc]]), [[Ionisierende Strahlung]]
 - **Klassifikation**
@@ -23,6 +23,8 @@ title: Lungen-Ca
 	- **Kurativ**:: Lobektomie (wenn resektabel), [[Chemotherapie]] (Cisplatin+ ab St. II), [[Radiatio]] (ab St. III), ggf. prophylaktische Schädelbestrahlung ([[SCLC]])
 	- **[[Palliativ]] (ab St. IIIA4 / M1)**:: Radiochemotherapie, [[Supportiv]]
 - **Prognose**:: Letalität↑, 5-[[JÜR]] 10%
+- *DGIM Klug entscheiden*:: CT-Screening für Lungenkrebs soll bei Patienten mit einem niedrigen Risiko nicht durchgeführt werden.
+
 
 ## Diagnostik
 ![[Pasted image 20210609130300.png]]

@@ -1,7 +1,11 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie, Fach/Toxikologie, Fach/Allgemeinmedizin]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Toxikologie, Fach/Allgemeinmedizin, Mythbusting/DGIM-Klug-entscheiden]
 title: Rauchen
 ---
+- *DGIM Klug entscheiden*:: Jeder Raucher soll eine [[Lungenfunktionsprüfung]] erhalten.
+- *DGIM Klug entscheiden*:: Jedem Raucher mit einer chronischen Lungenerkrankung soll eine strukturierte Tabakrauchentwöhnung angeboten werden.
+
+
 ## Wirkstoffe
 - **[[Nikotin]]** → *psychische* und *[[vegetative]]* Wirkungen des Tabaks
 	- **Wirkmechanismus**:: Stimulation nicotinerger [[ACh]]-[[Rezeptor]] → Freisetzung von [[Serotonin]] und [[DOPamin]] im [[ZNS]] → Aktivierung des endogenen Belohnungssystems

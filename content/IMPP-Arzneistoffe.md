@@ -285,7 +285,7 @@ title: IMPP-Arzneistoffe
 
 ### [[Sexualhormone]]
 - **[[Androgene]]**
-	- **AR-Agonisten**:: Testosteron
+	- **AR-Agonisten**:: [[Testosteron]]
 - **Anti-[[Androgene]]**
 	- **5α-Reduktase-Inhibitoren**:: Finasterid
 	- **AR-Antagonisten**:: Cyproteron, Flutamid
@@ -310,7 +310,7 @@ title: IMPP-Arzneistoffe
 - **[[Diuretika]]**
 	- **[[Carboanhydrase-Hemmer]]**:: Acetazolamid, Brinzolamid
 	- **[[Na+]]/[[Cl-]]-Cotransport-Inhibitoren / [[Thiaziddiuretika]]**:: Hydrochlorothiazid
-	- **NKCC2-Cotransport-Inhibitoren / Schleifendiuretika**:: [[Furosemid]]
+	- **NKCC2-Cotransport-Inhibitoren / [[Schleifendiuretika]]**:: [[Furosemid]]
 - **Laxanzien**
 	- **Sekretagogisch/Antiresorptive Laxanzien**:: Bisacodyl
 	- **Wasserbindner**:: Macrogol, Mannitol

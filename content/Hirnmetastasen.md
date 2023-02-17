@@ -2,7 +2,7 @@
 tags: [Art/Pathologie, Fach/Neurologie, Fach/Onkologie, Modul/m30]
 title: Hirnmetastasen
 ---
-- **Ätiologie**:: [[Lungen-Ca]] > [[Mamma-Ca]] > [[Melanom]]
+- **Ätiologie**:: [[Lungen-Ca]] (50%) > [[Mamma-Ca]] > [[Melanom]] > unbekannt
 - **Symptome**:: Akut, rasch progredient, [[Kopfschmerzen]], [[Parese]]
 - **Diagnostik**:: [[MRT]]/[[CT]] (klein = homogenes Enhancement; groß = ringförmiges Enhancement mit zentraler [[Nekrose]]; perifokale [[Ödeme]])
 	- *Biopsie*:: Adenoide Strukturen, [[Stroma]], [[Leukocyten]]

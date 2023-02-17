@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m17, Fach/Gastroenterologie]
+tags: [Modul/m17, Fach/Gastroenterologie, Mythbusting/DGIM-Klug-entscheiden]
 title: M. Crohn
 ---
-### M. Crohn
 > **[[CED]]** unklarer Genese
 - **Epidemiologie**:: 15-35 J.
 - **Risikofaktoren**
@@ -27,6 +26,8 @@ title: M. Crohn
 	- Eskalation mit Immunsuprression (z.B. [[TNF]]-α-Antikörper)
 	- OP zurückhaltend
 - **DD**:: [[CED]]
+- *DGIM Klug entscheiden*:: Patienten mit Morbus Crohn, die rauchen, sollen zu Abstinenz von Tabak angehalten werden.
+
 
 [^1]: Schmerzhafter Stuhlgang
 [^2]: [[Antikörper]] gegen Saccharomyces cerevisiae (60%)

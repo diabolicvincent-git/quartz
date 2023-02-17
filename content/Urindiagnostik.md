@@ -99,7 +99,7 @@ title: Urindiagnostik
 - **[[pH]]-Wert**
     - **Testprinzip**:: Indikatorreaktion von Methylrot und Bromthymolblau
     - **Referenzbereich**:: [[pH]] 5-7
-    - **Sauer bei**:: Diabetische Ketoazidose
+    - **Sauer bei**:: [[Ketoazidose]]
     - **Alkalisch bei**:: [[HWI]]
     - **Anmerkungen**:: Beeinflussung durch aufgenommene Nahrung (insb. Fleisch → sauer), Medikamente, [[Nierenversagen]], [[Infektionen]]
 - **[[Leukocyten]]**
@@ -242,7 +242,7 @@ title: Urindiagnostik
 
 *Nachweis von [[Glucose]] bei viel [[Vitamin C (Ascorbinsäure)]] unterdrückt*
 
-- **[[Diabetes mellitus]] mellitus** → Glucosurie (Überschreiten von 10 mmol/l), Nephropathie (nicht-entzündliche, irreversible Nierenschädigung), Ketoazidose mit Ketonurie
+- **[[Diabetes mellitus]] mellitus** → Glucosurie (Überschreiten von 10 mmol/l), Nephropathie (nicht-entzündliche, irreversible Nierenschädigung), [[Ketoazidose]] mit Ketonurie
 - **[[Cushing-Syndrom]]** → Rückresorptionsschwelle im proximalen Tubulus gesenkt
 - **Gestationsdiabetes →** erhöhter Insulinbedarf ab SSW20 (s. DM)
 
@@ -263,5 +263,5 @@ title: Urindiagnostik
 
 #### Bakteriurie
 - **Keimzahl >10⁵/ml** normalerweise
-- **Keimzahl >10³/ml** bei Pollakisurie, [[Chemotherapie]], Blasenkatheter, Z.n. Nierentransplantation
+- **Keimzahl >10³/ml** bei Pollakisurie, [[Chemotherapie]], [[Blasenkatheter]], Z.n. Nierentransplantation
 - Im durch suprapubische Punktion gewonnenen Urin ist jede Keimzahl pathologisch

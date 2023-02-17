@@ -9,8 +9,8 @@ title: Geschlechtsdysphorie
 - **Therapie**
 	- **Hormontherapie**
 		- **FTM** 
-			- *Ziel:* [[Amenorrhoe]], [[Östrogene]]-Synthese↓, Testosteron↑ (♂ 300-1000 ng/dl)
-			- *Medikamente:* [[Gestagene]] (jederzeit), Testosteron (erst bei Irreversibilität)
+			- *Ziel:* [[Amenorrhoe]], [[Östrogene]]-Synthese↓, [[Testosteron]]↑ (♂ 300-1000 ng/dl)
+			- *Medikamente:* [[Gestagene]] (jederzeit), [[Testosteron]] (erst bei Irreversibilität)
 		- **MTF**
 			- *Ziel:* [[Androgene]]-Synthese↓, [[Östrogene]]↑ ([[W]])
 			- *Medikamente:* Antiandrogene, Östradiol

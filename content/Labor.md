@@ -1,7 +1,9 @@
 ---
-tags: [Modul/m01, Fach/Labor]
+tags: [Modul/m01, Fach/Labor, Mythbusting/DGIM-Klug-entscheiden]
 title: Labor
 ---
+- *DGIM Klug entscheiden*:: Eine Behandlung von rheumatologischen Laborparametern (z.B. RF positiv, ANA positiv) ohne passende Klinik soll nicht erfolgen.
+
 ## Allgemein
 ### Säure-Basen-Haushalt
 - ![[Base Excess]]

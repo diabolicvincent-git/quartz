@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament/Übergruppe]
+tags: [Modul/m18, Fach/Infektiologie, Fach/Pharmakologie/Medikament/Übergruppe, Mythbusting/DGIM-Klug-entscheiden]
 title: Antibiotika
 ---
 - **Einteilung nach Wirkmechanismen**
@@ -12,6 +12,9 @@ title: Antibiotika
 	- *Zeitabhängig:* Maximum bei 3-4x [[MHK]], möglichst kontinuierlich (z.B. [[β-Lactam-Antibiotika]])
 	- *Konzentrationsabhängig:* Maximum bei 10x [[MHK]], möglichst hohe Spitzenspiegel (z.B. [[Aminoglycoside]])
 - **Allgemeine [[UAW]]**:: [[Hämatopoese]]↓, GI-Beschwerden (Störung der [[Darmflora]]), [[Allergie]]
+- *DGIM Klug entscheiden*:: Bei fehlender klinischer KI sollen orale statt intravenöse Antibiotika mit guter oraler Bioverfügbarkeit appliziert werden.
+- *DGIM Klug entscheiden*:: Auf eine unnötig lange Antibiotikatherapie soll verzichtet werden.
+
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Gruppe, Entitäten, Wirkmechanismus, Wirkspektrum

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Notfallmedizin/SOP]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Fach/Notfallmedizin/SOP, Mythbusting/DGIM-Klug-entscheiden]
 title: CPAP
 ---
 > (Abstract::**Continuous Positive Airway Pressure.** Spontanatmung mit kontinuierlichem [[PEEP]].)
@@ -11,3 +11,4 @@ title: CPAP
 - **Indikation**:: [[Obstruktive Ventilationsstörung]] ([[Asthma]]/==[[COPD]]==), [[Lungenödem]]
 - **KI**:: [[Apnoe]], A-Problem, Aspirationsrisiko, [[Vigilanzminderung]], [[Thoraxtrauma]]
 - **Komplikationen**:: [[Pneumothorax]]
+- *DGIM Klug entscheiden*:: Bei schwerer exazerbierter chronisch-obstruktiver Lungenerkrankung (COPD) und kardialem Lungenödem soll frühzeitig eine nicht-invasive Atemunterstützung (NIV bzw. CPAP) eingesetzt werden.

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Modul/m12, Art/Pathologie, Art/Pathologie, Fach/Rheumatologie, Fach/Gastroenterologie]
+tags: [Modul/m17, Modul/m12, Art/Pathologie, Art/Pathologie, Fach/Rheumatologie, Fach/Gastroenterologie, Myhtbusting]
 title: CED
 ---
 > (Abstract::**Chronisch-entzündliche Darmerkrankung.**)
@@ -18,3 +18,4 @@ Histologie|Transmuraler Befall (→ Fisteln), Granulome, Riesenzellen|Nur (Sub-)
 - **Diagnostik**
 	- **Labor**:: [[Entzündungsparameter]] ([[CRP]]/[[BSG]]), [[Blutbild]], [[Leberwerte]], ==[[Malassimilation]]==, ==Calprotectin im Stuhl==, Mikrobiologie
 	- **Bildgebung**:: Coloskopie mit Biopsie, [[Sonographie]], ÖGD
+- *DGIM Klug entscheiden*:: Bei Patienten mit chronisch-entzündlichen Darmerkrankungen (Morbus Crohn, Colitis ulcerosa) soll eine langfristige systemische Corticosteroidtherapie als Rezidivprophylaxe nicht durchgeführt werden.

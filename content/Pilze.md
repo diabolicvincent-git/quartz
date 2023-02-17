@@ -12,7 +12,7 @@ title: Pilze
 
 |-|[[Dermatophyten]]|[[Hefen]]|[[Schimmelpilze]]|
 |-|-|-|-|
-|Wichtige Vertreter|M. canis, T. mentagrophytes, T. verrucosum|==Candida albicans==|Aspergillus funigatus, flavus
+|Wichtige Vertreter|M. canis, T. mentagrophytes, T. verrucosum|==[[Candida]] albicans==|Aspergillus funigatus, flavus
 |Erkrankung|Tinea, Haut-[[Effloreszenzen]]|Vaginitis, Balanitis, Mundsoor ([[HIV]]), invasiv ([[AIDS]])|Pulmonale Aspergillose, Aspergillose ([[Tbc]]), [[Allergie]], onkogen
 |Haut|+|+|~
 |System|–|+|+

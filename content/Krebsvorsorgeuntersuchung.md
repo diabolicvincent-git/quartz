@@ -1,8 +1,9 @@
 ---
-tags: [Modul/m06, Modul/m19, Fach/Onkologie, Fach/Epidemiologie]
+tags: [Modul/m06, Modul/m19, Fach/Onkologie, Fach/Epidemiologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Krebsvorsorgeuntersuchung
 ---
-### Krebsvorsorgeuntersuchungen
+- *DGIM Klug entscheiden*:: Ein Screening für Brust-, kolorektalen, Prostata- oder Lungenkrebs soll nicht erfolgen ohne Berücksichtigung der Lebenserwartung, der Risiken einer Testung, einer vermehrten Diagnostik und Therapie.
+
 
 Erkrankung|Gruppe|Maßnahme|Häufigkeit
 -|-|-|-

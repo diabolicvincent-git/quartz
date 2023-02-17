@@ -1,5 +1,5 @@
 ---
-tags: [Art/Pathologie, Fach/Rheumatologie]
+tags: [Art/Pathologie, Fach/Rheumatologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Gicht
 ---
 > (Abstract::**[[Hyperurikämie]] → Uratkristalle in Gelenken → Gichtanfälle.** Therapie: [[NSAR]], [[Allopurinol]].)
@@ -10,5 +10,7 @@ title: Gicht
 - **DD**:: [[Chondrokalzinose]], [[Rheumatoide Arthritis]], [[Reaktive Arthritis]], [[Septische Arthritis]], [[Psoriasis-Arthritis]], [[Aktivierte Arthrose]]
 - **Therapie**:: Purinarme Kost, ==[[NSAR]]== oder ==[[Prednisolon]]==[^1], ggf. [[Colchicin]], lokale Kryotherapie, langfristig [[Allopurinol]]
 - **Komplikationen**:: ==[[Chronische Gicht]]== (unbehandelt), Urat-[[Nephrolithiasis]], ==[[CKD]]==, [[Nierenversagen]], [[Metabolisches Syndrom]]
+- *DGIM Klug entscheiden*:: Nach Gichtanfall soll eine Harnsäure-senkende Therapie nicht ohne niedrig-dosierten Colchicin-Schutz begonnen werden.
+
 
 [^1]: Kombination von [[NSAR]] + [[Prednisolon]] nur mit [[PPI]]

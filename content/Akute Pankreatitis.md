@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
+tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Akute Pankreatitis
 ---
 - **Ätiologie**:: [[Alkohol]], Sekretrückstau durch [[Cholelithiasis]]
@@ -14,3 +14,6 @@ title: Akute Pankreatitis
     - 3% **Ödematöse Pankreatitis** (5-10% [[MOV]])
     - 17% **Nekrotisierende Pankreatitis** (50% [[MOV]])
     - [[Sepsis]]
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: In der Frühphase einer akuten Pankreatitis sollte ein [[CT]] nicht angefertigt werden!

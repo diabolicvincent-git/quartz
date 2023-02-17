@@ -12,5 +12,5 @@ title: Fieber
 > [[Fieber]] ≥3 Wochen, wiederholt >38.3 °C, unklarer Fokus
 - **Ursachen**:: [[Infektionen]], [[Autoimmunität]], Malignome
 
-## Neutropenisches Fieber
+## [[Neutropenisches Fieber]]
 - Fieber + [[Neutropenie]] ab 38,0 °C dringend interventionspflichtig → [[Sepsis]]

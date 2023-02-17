@@ -1,9 +1,8 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Art/Intervention/Diagnostik]
+tags: [Modul/m15, Fach/Neurologie, Art/Intervention/Diagnostik, Mythbusting/DGIM-Klug-entscheiden]
 title: Liquorpunktion
 ---
-### Liquorpunktion / Lumbalpunktion
-> Gewinnung von [[Liquor]] für [[Liquordiagnostik]]
+> Auch: Lumbalpunktion. Gewinnung von [[Liquor]] für [[Liquordiagnostik]]
 - **Indikation**
 	- **Diagnostisch**
 		- V.a. [[Entzündung]] ([[Meningitis]], [[Encephalitis]], [[Rückenmark]], Neuroborreliose)
@@ -14,3 +13,6 @@ title: Liquorpunktion
 - **Orte**
 	- **Cisterna lumbalis**:: Standard, LWK3-5
 	- **Cisterna cerebellomedullaris**:: Pädiatrische Sonderfälle
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Eine CT-Untersuchung vor der Lumbalpunktion bei Verdacht auf bakterielle Meningitis soll nicht erfolgen – außer bei Symptomen, die auf einen erhöhten Hirndruck oder eine Herdpathologie hinweisen, oder bei intensiver Immunsuppression.

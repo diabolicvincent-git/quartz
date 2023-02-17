@@ -39,7 +39,7 @@ Zusammenspiel *genetischer*, *immunologischer* und *Trigger-Faktoren*
 
 - **Genetik**:: U.a. assoziiert mit bestimmten [[HLA]]-Allelen
 - **Immunologie**:: Mix aus unspezifischer und spezifischer Immunität; zentrale Rolle von TNFα und IL23-Th17-Achse
-- **Trigger**:: [[Infektionen]] ([[Streptokokken]], Candida, etc.), Medikamente ([[β-Blocker]], [[Lithium]]), physischer und psychischer [[Stress]], Klima
+- **Trigger**:: [[Infektionen]] ([[Streptokokken]], [[Candida]], etc.), Medikamente ([[β-Blocker]], [[Lithium]]), physischer und psychischer [[Stress]], Klima
 
 **Histologische Veränderungen**
 

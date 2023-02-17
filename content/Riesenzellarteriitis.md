@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m17, Fach/Rheumatologie]
+tags: [Modul/m17, Fach/Rheumatologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Riesenzellarteriitis
 ---
 > [[Vaskulitis]] kranialer [[Arterien]], z.B. Arteriitis temporalis
@@ -23,3 +23,4 @@ title: Riesenzellarteriitis
 	- ==Biologika: Tocilizumab [[s.c.]]==
 	- [[Osteoporose]]-Prophylaxe
 	- [[ASS]] low dose (kardiovaskuläres [[Risiko]]!)
+- *DGIM Klug entscheiden*:: Bei konkretem klinischen Verdacht auf eine Riesenzellarteriitis soll unverzüglich mit einer Glucocorticoidtherapie begonnen werden; die anstehende Diagnostik soll den Therapiebeginn nicht verzögern.

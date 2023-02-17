@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anästhesie, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift]
+tags: [Modul/m15, Fach/Neurologie, Fach/Anästhesie, Fach/Pharmakologie/Medikament, Fach/Toxikologie/Gift, Mythbusting/DGIM-Klug-entscheiden]
 title: Benzodiazepine
 ---
 - **Wirkung**:: Anxiolytisch, hypnotisch, sedierend, antikonvulsiv, amnestisch, muskelrelaxierend
@@ -19,6 +19,8 @@ title: Benzodiazepine
 	- [[Schwangerschaft]] (Floppy-infant-Syndrom)
 	- [[Abhängigkeit]] (außer: Entzugserscheinungen)
 - **Antidot**:: [[Flumazenil]]
+- *DGIM Klug entscheiden*:: Benzodiazepine oder andere Sedativa bzw. Hypnotika bei älteren Patienten sollen nicht als Mittel der 1. Wahl im Falle von Schlafstörungen, Agitation oder Delir eingesetzt werden.
+
 
 ## Tabelle
 ![[Untitled 38.png]]

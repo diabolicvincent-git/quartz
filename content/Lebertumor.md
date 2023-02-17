@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m26, Fach/Gastroenterologie, Fach/Onkologie]
+tags: [Modul/m26, Fach/Gastroenterologie, Fach/Onkologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Lebertumor
 ---
-### Lebertumor
 - **Ätiologie**
 	- **Primäre Lebertumoren**
 		- **Hepatocyten**
@@ -15,3 +14,4 @@ title: Lebertumor
 			- *benigne:* Hämangiom
 			- *maligne:* Hämangiosarkom
 	- **Sekundäre [[Metastasen]]** (40x häufiger)
+- *DGIM Klug entscheiden*:: Bei Patienten mit gutartigen Läsionen der Leber soll in der Verlaufsbeobachtung auf die [[CT]] oder [[MRT]] verzichtet werden, solange keine Änderung der klinischen Symptome oder Befunde vorliegt.

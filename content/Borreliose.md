@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
+tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Borreliose
 ---
 - **Epidemiologie**
@@ -20,3 +20,4 @@ title: Borreliose
 		- *Acrodermatitis chronica atrophicans*
 		- *Chronische Neuroborreliose*
 	- Augenbeteiligung (Konjunktivitis, Uveitis, Papillitis) und Begleit-[[Hepatitis]] möglich
+	- *DGIM Klug entscheiden*:: Ohne typische Anamnese und Klinik soll eine Borrelienserologie nicht bestimmt werden.

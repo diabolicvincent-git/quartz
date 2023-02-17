@@ -12,3 +12,6 @@ title: Cephalosporine
 	- **3b**:: Ceftazidim ([[Staphylokokken]]↓, [[Pseudomonas aeruginosa]]↑)
 	- **4**:: Cefepim
 	- **5**:: Ceftarolin ([[MRSA]])
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Orale Cephalosporine sollen nicht zur Initialtherapie bei ambulant erworbener [[Pneumonie]] (CAP) verwendet werden.

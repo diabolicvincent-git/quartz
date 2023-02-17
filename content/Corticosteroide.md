@@ -12,7 +12,7 @@ title: Corticosteroide
 |-|-|-|-|
 |**Mineralocorticoide**|Aldosteron|[[NNR]] (Zona glomerulosa)|MC-[[Rezeptor]] → [[Na+]], [[Wasser]]-Rückresorption
 |**[[Glucocorticoide]]**|[[Cortisol]]|[[NNR]] (Zona fasciculata)|GC-[[Rezeptor]] (teils MC-R) → Immunsuppression, Energiemobilisation u.v.m.
-|**[[Androgene]]**|Testosteron|[[NNR]] (Zona reticularis)|Umwandlung in Testosteron/[[Östrogene]] → A-[[Rezeptor]] → Entwicklung, [[Spermatogenese]], Libido, Muskelmasse u.v.m.
+|**[[Androgene]]**|[[Testosteron]]|[[NNR]] (Zona reticularis)|Umwandlung in [[Testosteron]]/[[Östrogene]] → A-[[Rezeptor]] → Entwicklung, [[Spermatogenese]], Libido, Muskelmasse u.v.m.
 
 ## Abbildung
 ![[Pasted image 20211115104201.png]]

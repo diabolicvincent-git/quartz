@@ -20,4 +20,4 @@ title: HRST
 - **Therapie**
 	- **Allgemein**:: [[Valsalva]], Carotisdruck, Sedierung, [[O2]]-Gabe
 	- **Medikamentös**:: [[Antiarrhythmika]]
-	- **Elektrotherapie**:: Pacing, [[Schrittmacher]], ICD, [[Kardioversion]]
+	- **Elektrotherapie**:: Pacing, [[Schrittmacher]], [[ICD]], [[Kardioversion]]

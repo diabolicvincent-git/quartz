@@ -20,6 +20,6 @@ title: Divertikulitis
 	- **Koloskopie** (im entzündungsfreien Intervall)
 - **DD**:: [[CED]], [[Appendizitis]], [[Reizdarmsyndrom]], Ischämische Colitis, ==[[Colorektales Ca]]==, [[HWI]]
 - **Therapie**
-	- *Allgemein:* Nahrungskrenz, parenterale Ernährung, [[Volumentherapie]], [[Analgesie]]
+	- *Allgemein:* Nahrungskrenz, [[parenterale Ernährung]], [[Volumentherapie]], [[Analgesie]]
 	- *Konservativ:* [[Antibiotika]] (z.B. [[Cephalosporine]] + Metronidazol)
 	- *[[OP]]:* bei Lebensgefahr/[[Sepsis]] oder Therapieversagen

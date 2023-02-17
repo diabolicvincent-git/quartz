@@ -16,7 +16,7 @@ title: Anionenlücke
 	- **Zufuhr von Säuren**
 		- Proton wird immer von einem Anion begleitet (z.B. [[Lactat]]) → messbares [[HCO3-]], was die Protonen abpuffert, wird durch nicht-messbares Begleitanion ersetzt → ∑ [[Cl-]] +[[HCO3-]] sinkt → *Anionenlücke wird größer*
 		- **Ursachen (Kußmaul)**
-			- Ketoazidose
+			- [[Ketoazidose]]
 			- Urämie ([[CKD]])
 			- Salicylsäure-[[Intoxikation]]
 			- Methanol

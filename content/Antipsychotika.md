@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m20, Fach/Psychiatrie, Fach/Pharmakologie/Medikament/Übergruppe]
+tags: [Modul/m20, Fach/Psychiatrie, Fach/Pharmakologie/Medikament/Übergruppe, Mythbusting/DGIM-Klug-entscheiden]
 title: Antipsychotika
 ---
 > (Abstract::Veraltet: Neuroleptika)
@@ -9,3 +9,4 @@ title: Antipsychotika
 	- **Hochpotente**:: antipsychotisch >> sedierend (z.B. Haloperidol)
 	- **Niedrigpotente**:: sedierend > antipsychotisch (z.B. Melperon)
 - **Elimination**:: Hepatisch
+- *DGIM Klug entscheiden*:: Neuroleptika für Verhaltens- und psychologische Symptome (BPSD) bei demenziell Erkrankten sollen nicht ohne ein Assessment für die Ursachen solcher Symptome verordnet werden.

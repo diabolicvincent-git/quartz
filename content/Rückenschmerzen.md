@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m20, Art/Pathologie, Fach/Allgemeinmedizin, Fach/Orthopädie]
+tags: [Modul/m20, Art/Pathologie, Fach/Allgemeinmedizin, Fach/Orthopädie, Mythbusting/DGIM-Klug-entscheiden]
 title: Rückenschmerzen
 ---
-### Rückenschmerzen
 - **Epidemiologie**:: Lebenszeitprävalenz 80%
 - **Ätiologie**
 	- **Spezifisch / somatisch (15%)**:: [[Entzündung]] (z.B. Spondylitis, [[Abszess]]), Degenerativ ([[Bandscheibenprolaps]]), Deformität (Skoliose), Extravertebral ([[Pankreatitis]], [[Akutes Aortensyndrom]])
@@ -16,6 +15,7 @@ title: Rückenschmerzen
 	- **Kurativ**:: Nur bei spezifischer Ursache
 	- **[[Supportiv]]**:: ==Körperliche Aktivität==, [[Physiotherapie]], [[Psychotherapie]], Eduktion
 	- **[[Analgesie]]**:: ==[[NSAR]]== (möglichst kurz); alternativ [[Opioide]], ggf. [[Adjuvantien]][^1]
+- *DGIM Klug entscheiden*:: Bei nicht-spezifischem Kreuzschmerz unter sechs Wochen ohne „Red Flags“ soll eine Bildgebung nicht erfolgen.
 
 ## DD Rückenschmerzen
 | Erkrankung                   | Ätiologie                                                         | Symptome                                                                                                                                                    | Diagnostik                                                                               |

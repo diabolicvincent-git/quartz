@@ -6,7 +6,7 @@ title: Hormone in der Haut
 
 ### Rezeptortypen
 
-- **Klassische Steroidhormonrezeptoren**:: Intrazellulär; erkennen meist palindromische Erkennungssequenzen als Homodimer; nucleäre Lokalisation nach [[Hormon]]-Bindung (Testosteron, Östrogen)
+- **Klassische Steroidhormonrezeptoren**:: Intrazellulär; erkennen meist palindromische Erkennungssequenzen als Homodimer; nucleäre Lokalisation nach [[Hormon]]-Bindung ([[Testosteron]], Östrogen)
 - **RXR-interagierende [[Rezeptor]]**:: Konstitutiv nucleär & [[DNA]]-gebunden; [[Hormon]]-Bindung bewirkt Austausch eines Corepressors durch einen Coaktivator
 
 ### Sekretionsart
@@ -15,7 +15,7 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
 
 ### Lokalisation der Rezeptor in der Haut
 
-- **Epidermale Keratinocyten**:: [[Androgene]]-/Testosteron-[[Rezeptor]], Östrogen-[[Rezeptor]]; [[Progesteron]]-/[[Gestagene]]-[[Rezeptor]], [[Glucocorticoide]]-[[Rezeptor]]; Vit-D-/Vit-A-[[Rezeptor]]
+- **Epidermale Keratinocyten**:: [[Androgene]]-/[[Testosteron]]-[[Rezeptor]], Östrogen-[[Rezeptor]]; [[Progesteron]]-/[[Gestagene]]-[[Rezeptor]], [[Glucocorticoide]]-[[Rezeptor]]; Vit-D-/Vit-A-[[Rezeptor]]
 - **Follikuläre Keratinocyten**:: Androgen-[[Rezeptor]], Östrogen-[[Rezeptor]]; Vit-D-/Vit-A-[[Rezeptor]]
 - **Talgzellen**:: Androgen-[[Rezeptor]], Östrogen-[[Rezeptor]]; (Vit-A-[[Rezeptor]])
 - **Melanocyten**:: Östrogen-[[Rezeptor]]; Vit-D-/Vit-A-[[Rezeptor]]
@@ -27,9 +27,9 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
 ### Hautspezifische Synthese, Metabolisierung und Wirkung von *Sexualhormonen*
 
 - **Metabolisierung**
-    - Talgdrüsenzellen und Keratinocyten exprimieren alle [[Enzyme]] und Faktoren zur Testosteron-Synthese
-    - Aktivierung von Testosteron zu Dihydrotestosteron ("DHT", stärkere Wirkung) kann in fast allen Hautzellen stattfinden
-    - Testosteron-Umwandlung zu Östrogen findet in dermalen Fibroblasten statt
+    - Talgdrüsenzellen und Keratinocyten exprimieren alle [[Enzyme]] und Faktoren zur [[Testosteron]]-Synthese
+    - Aktivierung von [[Testosteron]] zu Dihydrotestosteron ("DHT", stärkere Wirkung) kann in fast allen Hautzellen stattfinden
+    - [[Testosteron]]-Umwandlung zu Östrogen findet in dermalen Fibroblasten statt
 - **Wirkung** v.a. auf Melanocyten und Schweißdrüsenzellen
     - **Androgenwirkung**
         - Stimulation der Proliferation von Talgzellen und dermalen Papillenzellen
@@ -69,7 +69,7 @@ Im Kontext der Haut v.a. *[[parakrin]], [[autokrin]], [[juxtakrin]]* und *[[intr
 
 - **Intrinsische Faktoren**
     - Östrogen↓ → Hautdicke↓, [[Kollagen]]↓, Hyaluronsäure↓
-    - Testosteron↓ → Matrixmetalloproteasen ungehemmt → Kollagenabbau
+    - [[Testosteron]]↓ → Matrixmetalloproteasen ungehemmt → Kollagenabbau
     - [[Androgene]]↓ & [[Östrogene]]↓ → Talgdrüsenfunktion nimmt ab (Altersjuckreiz)
     - Haarausfall bei Überwiegen von DHT und Östrogenmangel
 - **Extrinsische Faktoren**:: Oxidativer Stress

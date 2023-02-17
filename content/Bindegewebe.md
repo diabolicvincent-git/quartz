@@ -71,7 +71,7 @@ Spinozelluläres BG|zellreich; wenig reticuläre Fasern|Follikelbildung im [[Ova
 ### Geschlecht
 
 - [[Östrogene]] & [[Androgene]] → positiver Einfluss auf Knochendichte
-- Testosteron: Erhöhung der Hyaluronankonzentration der Haut, Kollagensynthese steigt, MMPs gehemmt
+- [[Testosteron]]: Erhöhung der Hyaluronankonzentration der Haut, Kollagensynthese steigt, MMPs gehemmt
 - [[Östrogene]]: Erhöhung der Hyaluronankonzentration der Haut, Kollagensynthese­; ab [[Menopause]]: -30% [[Östrogene]], Osteoporose-[[Risiko]]
 
 ### Genetische Defekte

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Nierenarterienstenose
 ---
 > Nierenarterienstenose → [[Renale Perfusion]]↓ → [[RAAS]]↑ → sekundärer [[Hyperaldosteronismus]]
@@ -22,3 +22,4 @@ title: Nierenarterienstenose
 		- [[ACE-Hemmer]]
 		- [[AT1-Blocker]]
 		- [[Calciumantagonisten]]
+- *DGIM Klug entscheiden*:: Eine Angioplastie einer unkomplizierten Nierenarterienstenose bei gut einstellbarem Blutdruck soll nicht durchgeführt werden.

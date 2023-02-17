@@ -23,7 +23,7 @@ title: Long-QT
 - **Therapie**
 	- Vermeiden von [[QT-Zeit-verlängernde Medikamente]], [[Elektrolytstörungen]], Trigger
 	- **Medikamentöse Prophylaxe**:: [[β-Blocker]] (Propranolol 40 mg [[p.o.]] 1-0-1)
-	- **ICD-Implantation** (bei Hochrisiko, z.B. LQTS 3 + QTc >500 ms oder Arrest)
+	- **[[ICD]]-Implantation** (bei Hochrisiko, z.B. LQTS 3 + QTc >500 ms oder Arrest)
 - **Prognose**:: Bei angeborenem LQTS 50% 10[[JÜR]]
 ---
 ![[QT-Zeit-verlängernde Medikamente]]

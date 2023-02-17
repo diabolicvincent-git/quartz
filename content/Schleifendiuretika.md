@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
+tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament, Mythbusting/DGIM-Klug-entscheiden]
 title: Schleifendiuretika
 ---
 ### Schleifendiuretika
@@ -21,3 +21,4 @@ title: Schleifendiuretika
 	- [[Anurie]]/[[Oligurie]], [[Hypovolämie]]
 	- [[Elektrolytstörungen]]: [[Hypokaliämie]], [[Hyponatriämie]]
 	- Allergie gegen Sulfonamide
+- *DGIM Klug entscheiden*:: Die Gabe von Schleifendiuretika beim oligoanurischen Patienten mit ANV soll nicht erfolgen.

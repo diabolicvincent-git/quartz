@@ -1,15 +1,16 @@
 ---
-tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie]
+tags: [Modul/m14, Fach/Pharmakologie/Medikament, Fach/Nephrologie, Fach/Kardiologie, Mythbusting/DGIM-No-Go]
 title: Diuretika
 ---
-### Diuretika
 - **Einteilung**
 	- **==[[Thiaziddiuretika]]==**
 	- **==[[Schleifendiuretika]]==**
 	- **Kaliumsparende Diuretika**
 	- **Osmodiuretika**
 	- **[[Carboanhydrase-Hemmer]]**
-
+---
+### Mythbusting
+- *DGIM No Go*:: Unter einer Kombinationstherapie von Diuretika und RAS-Blockern ([[ACE-Hemmer]], [[AT1-Blocker]], [[Direkte Renin-Inhibitoren]]) sollen [[NSAR]] wegen des erhöhten Risikos für ein [[Nierenversagen]] nicht eingesetzt werden.
 
 
 

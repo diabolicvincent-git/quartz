@@ -1,16 +1,17 @@
 ---
-tags: [Modul/m14, Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Urologie, Fach/Gynäkologie]
+tags: [Modul/m14, Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Urologie, Fach/Gynäkologie, Mythbusting/DGIM-Klug-entscheiden]
 title: HWI
 ---
 #### Harnwegsinfektion / HWI
 - **Epidemiologie**:: Zweithäufigste [[Nosokomiale Infektion]]
 - **Ätiologie**
-	- Hauptrisikofaktor *Blasenkatheter*
+	- Hauptrisikofaktor *[[Blasenkatheter]]*
 - **Pathophysiologie**:: [[E. coli]] (v.a. unkompliziert), Enterokokken (v.a. kompliziert)
 - **Symptome**:: Pollakisurie, Dysurie, Hämaturie
 - **Komplikationen**:: [[Pyelonephritis]], Uro-[[Sepsis]]
 - **Diagnostik**:: $>10^5$ KBE in Urinkultur
 - **Therapie** [[Fosfomycin]] 3 g Einmalgabe
+- *DGIM Klug entscheiden*:: Patienten mit [asymptomatischer Bakteriurie](https://next.amboss.com/de/article/o600NS#Zb2d1680b53a034bb850e1ed1cf0442e0) sollen nicht mit [Antibiotika](https://next.amboss.com/de/article/mm0VTg#Z58bcc7711752096ecca5b2bfd6b56f92) behandelt werden.
 
 
 ## Ätiologie
@@ -18,7 +19,7 @@ title: HWI
 - Selten hämatogene Streuung
 - **Prädisposition**
 	- Abflusshindernisse (Prostatahyperplasie, [[Urolithiasis]], Tumore)
-	- Fremdkörper (Blasenkatheter)
+	- Fremdkörper ([[Blasenkatheter]])
 	- Kompromitiertes [[Immunsystem]] (z.B. [[HIV]], Alter, [[Schwangerschaft]])
 	- [[Diabetes mellitus]] (Glucosurie bietet Nährboden für [[Bakterien]])
 	- Verminderte Urinproduktion bei [[CKD]] oder [[Herzinsuffizienz]]

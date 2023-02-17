@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Modul/m14, Fach/Kardiologie, Art/Pathologie]
+tags: [Modul/m11, Modul/m14, Fach/Kardiologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: aHTN
 ---
 > (Abstract::**Arterielle [[Hypertonie]]** [[RR]] >140/90 mmHg)
@@ -18,5 +18,7 @@ title: aHTN
 	- Schwindel, Ohrensausen, (Hinter-)[[Kopfschmerzen]], Epistaxis, Palpitationen, [[Schlafstörung]]
 	- **Akut**:: [[Hypertensive Krise]] / [[Hypertensiver Notfall]]
 - **Komplikationen**
+- *DGIM Klug entscheiden*:: Bei jüngeren und therapierefraktären Patienten soll auch nach endokrinen Ursachen einer Bluthochdruckerkrankung gesucht werden.
+
 
 [^1]: Hinweise auf Sekundäre Hypertonie: Junges Alter, Therapieresistenz, "Non-Dipper" im nächtlichen Langzeit-[[RR]]

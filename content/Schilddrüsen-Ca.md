@@ -1,5 +1,5 @@
 ---
-tags: [Art/Pathologie, Fach/HNO, Fach/Endokrinologie]
+tags: [Art/Pathologie, Fach/HNO, Fach/Endokrinologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Schilddrüsen-Ca
 ---
 > (Abstract::Auch: Struma maligna.)
@@ -15,3 +15,4 @@ title: Schilddrüsen-Ca
 - **Therapie**:: [[OP]] (totale Thyreoidektomie + Lymphadenektomie)
 - **Prognose**:: Sehr gut (außer [[Anaplastisches Schilddrüsen-Ca]])
 - **Prävention**:: Iodgabe bei nuklearem Zwischenfall
+- *DGIM Klug entscheiden*:: Ein Ultraschallscreening auf Schilddrüsenveränderungen bei älteren Menschen soll nicht durchgeführt werden.

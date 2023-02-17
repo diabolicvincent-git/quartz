@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Hämatologie]
+tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Hämatologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Lymphom
 ---
 ### Malignes Lymphom
@@ -21,6 +21,7 @@ title: Lymphom
 - **Lokalisation**:: ⅔ [[Lymphknoten]], ⅓ restliche [[Lymphatische Organe]][^1]
 - **[[Staging]]**
 	- [[Knochenmark]]-Biopsie (Befall = fortgeschrittenes Stadium)
----
+- *DGIM Klug entscheiden*:: [[CT]] und/oder [[PET]] bei Patienten mit aggressivem Lymphom und Hodgkin-Lymphom ohne Symptome sollen in der Nachsorge nach Therapieende nicht routinemäßig durchgeführt werden. Routine-CTs sind verzichtbar bei asymptomatischen Patienten mit [[CLL]].
+
 
 [^1]: *Nicht* im [[Knochenmark]] (Abgrenzung zu [[Leukämie]], ab ≥25% Blastenanteil im [[Knochenmark]])

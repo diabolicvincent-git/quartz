@@ -12,7 +12,7 @@ title: B – Breathing
 	- *[[Intoxikation]]* 
 	- *Herz-Kreislauf:* [[Herzinsuffizienz]]/[[Lungenödem]], [[LAE]], [[ACS]]
 	- *[[ZNS]]:* [[SHT]], [[Schlaganfall]], [[Intrakranielle Blutung]], [[Hyperventilation]]
-	- *Systemisch:* [[Anämie]], Diabetische Ketoazidose, Myasthene Krise
+	- *Systemisch:* [[Anämie]], [[Ketoazidose]], Myasthene Krise
 - **Therapie**
 	- [[O2]]-Gabe
 	- [[Beatmung]]

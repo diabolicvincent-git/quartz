@@ -12,7 +12,7 @@ title: Östrogene
 	- *[[Stoffwechsel]]:* Anabol, Fettverteilung, [[Bilirubin]]-Ausscheidung↑
 	- *Niere:* [[Na+]], Wasser-Retention
 - **Wirkmechanismus**:: [[parakrin]]e [[Sekretion]], Androgenrezeptor
-- **Synthese**:: Cholesterin → ... → [[Androgene]] (Testosteron) → Östrogene (==*[[Aromatase]]*==)
+- **Synthese**:: Cholesterin → ... → [[Androgene]] ([[Testosteron]]) → Östrogene (==*[[Aromatase]]*==)
 	- **Ort**
 		- [[Ovar]] (Granulosazellen)
 		- andere Gewebe mit *[[Aromatase]]* ([[NNR]], Fettgewebe, [[Plazenta]], Hoden)

@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m12, Fach/Gastroenterologie, Fach/Neurologie, Art/Pathologie]
+tags: [Modul/m12, Fach/Gastroenterologie, Fach/Neurologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Hepatische Encephalopathie
 ---
-### Hepatische Encephalopathie
 > [[Leber]]-Entgiftungsfunktion↓ → Akkumulation neurotoxischer Metabolite → [[Gehirn]]-Funktionsstörung
 - **Ätiologie**:: [[Leberinsuffizienz]], [[Infektionen]], [[GI-Blutung]][^1], Obstipation, Pfortaderthrombose, [[Exsikkose]], [[Elektrolytstörungen]]
 - **Symptome**
@@ -14,5 +13,8 @@ title: Hepatische Encephalopathie
 - **Therapie**
 	- Lactulose 
 	- Ornithinaspartat (z.B. Hepa-Merz®)
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Eine regelhafte Proteinrestriktion soll bei Patienten mit einer hepatischen Enzephalopathie nicht durchgeführt werden.
 
 [^1]: Blut ist Nährmedium für [[Ammoniak]]-bildende [[Darmflora]]

@@ -7,5 +7,5 @@ title: Brugada-Syndrom
 - **Diagnostik**
 	- **[[EKG]]**:: [[Rechtsschenkelblock]], STE in V1-V3 mit anschließender T-Negativierung
 - **Therapie**
-	- ICD
+	- [[ICD]]
 - **Cave**:: [[KI]] für [[β-Blocker]] ([[Bradykardie]])

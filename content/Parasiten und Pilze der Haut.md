@@ -15,7 +15,7 @@ title: Parasiten und Pilze der Haut
     - Microsporum ssp.
     - Nannizzia spp.
 - **Hefepilze**
-    - Candida ssp.
+    - [[Candida]] ssp.
     - Pityrosporum ssp.
 - **[[Schimmelpilze]]**
     - Aspergillus ssp.

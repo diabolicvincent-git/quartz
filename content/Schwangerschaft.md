@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m05, Modul/m22, Fach/Gynäkologie]
+tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Schwangerschaft
 ---
 - **Diagnostik**
@@ -16,3 +16,4 @@ title: Schwangerschaft
 	- [[Hypertensive Schwangerschaftserkrankungen]]
 - **Therapie**
 	- Siehe [[Medikamente in der Schwangerschaft]]
+- *DGIM Klug entscheiden*:: Allen Schwangeren soll eine Jodsupplementation angeboten werden.

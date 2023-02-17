@@ -1,9 +1,7 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
+tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Schlafapnoe
 ---
-
-### Schlafapnoe 
 - Physiologisch bei jedem Menschen 1-5x / h für <10 s im Schlaf
 - **Pathophysiologie**:: Kurzfristiges Sistieren der Nervenimpulse
 - **Schlaf-Apnoe-Syndrom**:: >5x / h oder >10 s
@@ -16,6 +14,8 @@ title: Schlafapnoe
         - Oberkörperhochlagerung
         - [[CPAP]]
         - Reduktion des Flüssigkeitsvolumens ([[Dialyse]]/[[Diuretika]])
+- *DGIM Klug entscheiden*:: Bei Adipösen, Diabetikern, Patienten mit Vorhofflimmern und Patienten mit Hypertonie, die über Schnarchen berichten, soll die Diagnostik zum Ausschluss eines Schlafapnoesyndroms erfolgen.
+
 
 ## Symptome
 - Schnarchen

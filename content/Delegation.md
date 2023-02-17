@@ -4,7 +4,7 @@ title: Delegation
 ---
 - **Grundsätzlich delegierbare Tätigkeiten**
 	- Blutentnahme (venös, kapillär, arteriell nach Anleitung)
-	- [[Dauerkatheter]]-Wechsel
+	- [[Blasenkatheter]]-Wechsel
 	- [[Impfung]], andere [[i.m.]] Injektionen, [[s.c.]] Injektionen
 	- Wundmanagement bei unkomplizierten Wunden
 	- 2./3. Assistenz im [[OP]]

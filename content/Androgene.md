@@ -4,7 +4,7 @@ title: Androgene
 ---
 > (Abstract::[[M]] [[Sexualhormone]]: [[Steroidhormone]] mit 19 C-Atomen)
 - **Vertreter**
-	- ==**Stark wirksam**:: 5α-Dihydrotestosteron (DHT) > Testosteron==
+	- ==**Stark wirksam**:: 5α-Dihydrotestosteron (DHT) > [[Testosteron]]==
 	- **Schwach wirksam**:: Androstendion, DHEA, DHEAS
 - **Wirkung**
 	- *Geschlechtsfestlegung:* Fötusentwicklung ([[M]]), pubertäre Geschlechtsorgan-Entwicklung
@@ -13,7 +13,7 @@ title: Androgene
 	- *[[ZNS]]:* Aggressivität(?)
 - **Wirkmechanismus**:: [[parakrin]]e [[Sekretion]], intrazellulärer Rezeptor
 	- ==Umwandlung in [[Östrogene]]== in Geweben mit *[[Aromatase]]* (z.B. [[Ovar]], Fett)
-- **Synthese**:: [[Cholesterol]] → Pregnenolon → ... → Testosteron → DHT
+- **Synthese**:: [[Cholesterol]] → Pregnenolon → ... → [[Testosteron]] → DHT
 	- **Ort**:: [[M]] Hoden (Leydig-Zellen), [[W]] [[Ovar]] (Thecazellen), [[NNR]]
 	- **Schlüsselenzym**:: 17α-Hydroxylase, 5α-Reduktase (DHT)
 	- **Regulation**:: ==[[LH]]==

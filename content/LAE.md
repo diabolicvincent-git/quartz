@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP]
+tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP, Mythbusting/DGIM-Klug-entscheiden]
 title: LAE
 ---
 ##### Lungenarterienembolie / LAE
@@ -22,16 +22,11 @@ title: LAE
 	- **[[Antikoagulation]]**:: [[Heparin]] oder [[DOAK]]
 	- **==[[Lyse]]==**:: [[Fibrinolyse]] z.B. mit rt-PA (Indikation: Instabilität)
 	- **Sekundärprophylaxe**:: [[Antikoagulation]]-Erhalt mit [[DOAK]] oder [[Vitamin-K-Antagonisten]], Ursachensuche (s. [[Thrombose]])
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Bei Patienten mit Verdacht auf Lungenembolie (ohne Schock) soll bei niedrigem Risiko-Score eine D-Dimer-Bestimmung und bei hohem Score eine CT-Pulmonalisangiographie/Lungenszintigraphie erfolgen!
+- *DGIM Klug entscheiden*:: Bei einer niedrigen klinischen Wahrscheinlichkeit für das Vorliegen einer Lungenembolie und negativen D-Dimeren soll keine CT-Angiographie der Lunge durchgeführt werden.
 
-
-### eVL
-       
-
-##### anhand eines Fallbeispiels den Wells-Score berechnen und im Hinblick auf das weitere diagnostische Vorgehen interpretieren können.
-
-##### anhand eines Fallbeispiels den Schweregrad einer Lungenarterienembolie nach dem PESI-Score berechnen und anhand der ESC-Klassifikation einteilen können.
-
-##### die Grundprinzipien der Therapie der Lungenarterienembolie benennen (Antikoagulation, [[Lyse]], Rescue-Verfahren) und deren Indikation in Bezug zum Schwergrad zuordnen können.
 
 
 

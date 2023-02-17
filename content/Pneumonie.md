@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Pneumologie, Fach/Notfallmedizin]
+tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Pneumologie, Fach/Notfallmedizin, Mythbusting/DGIM-Klug-entscheiden]
 title: Pneumonie
 ---
 ### Pneumonie / Lungenentzündung
@@ -24,3 +24,6 @@ title: Pneumonie
 			- **Mit Komorbiditäten**:: *[[Aminopenicillin]] + β-Lactamase-Inhibitor* + kalkuliert [[Makrolide]] 
 		- **Mittelschwer**:: 1. Wahl *[[Aminopenicillin]] + β-Lactamase-Inhibitor* oder [[Cephalosporine]] 2./3a. Generation ggf. + [[Makrolide]]
 		- **Schwer**:: 1. Wahl *[[Piperacillin+Tazobactam]]* oder [[Cephalosporine]] 3. Generation, immer + [[Makrolide]]
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Orale Cephalosporine sollen nicht zur Initialtherapie bei ambulant erworbener [[Pneumonie]] (CAP) verwendet werden.

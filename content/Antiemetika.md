@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m12, Modul/m20, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament/Übergruppe]
+tags: [Modul/m12, Modul/m20, Fach/Gastroenterologie, Fach/Pharmakologie/Medikament/Übergruppe, Mythbusting/DGIM-Klug-entscheiden]
 title: Antiemetika
 ---
 - **Wirkstoffe**
@@ -9,3 +9,4 @@ title: Antiemetika
 	- **[[Antihistaminika]]**:: Meclozin ([[Schwangerschaft]]), [[dimenhyDRINAT]] (sedierend)
 	- **Neurokinin-R-Antagonisten**:: Aprepitant ([[CYP]]-Interaktion)
 	- **[[Glucocorticoide]]**:: Dexamethason (insb. PONV)
+- *DGIM Klug entscheiden*:: Eine antiemetische Behandlung unter Einschluss von NK1-Rezeptor-Antagonisten, welche für hoch emetogene Chemotherapien einschließlich Carboplatin vorgesehen ist, soll unterlassen werden bei Patienten, welche eine Chemotherapie mit niedrigem oder moderatem Risiko für Übelkeit und Erbrechen erhalten.

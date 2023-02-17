@@ -1,5 +1,5 @@
 ---
-tags: [Fach/Pharmakologie/Medikament, Fach/Psychiatrie/Antidepressiva]
+tags: [Fach/Pharmakologie/Medikament, Fach/Psychiatrie/Antidepressiva, Mythbusting/DGIM-No-Go]
 title: SSRI
 ---
 **Gruppe**:: [[Antidepressiva]]
@@ -8,3 +8,6 @@ title: SSRI
 - **Wirkung**:: 
 - **Indikation**:: [[Angststörung]], [[Zwangsstörung]], antriebsgeminderte [[Depression]], [[PTBS]]
 - **UAW**:: GI-UAW, [[Sexualstörung]]
+---
+### Mythbusting
+- *DGIM No Go*:: Eine Kombinationstherapie von Citalopram/Escitalopram und [[Makrolide]] soll nicht durchgeführt werden.

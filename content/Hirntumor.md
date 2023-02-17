@@ -4,7 +4,7 @@ title: Hirntumor
 ---
 - **Entitäten**
 	- *Primär/Hirneigen*:: [[Gliome]]
-	- *Sekundär*:: Periphere Nerven, Meningeome, [[Lymphom]], [[Leukämie]], Keimzelltumore, Tumore im Bereich der Sella, [[Metastasen]]
+	- *Sekundär*:: ==[[Hirnmetastasen]]==, Periphere Nerven, Meningeome, [[Lymphom]], [[Leukämie]], Embryonale Tumoren ([[Medulloblastom]]), Sella turcica
 - **Epidemiologie**:: 20% der Krebserkrankungen bei Kindern, 2% bei Erwachsenen
 - **Symptome**:: Diffuse [[Kopfschmerzen]], [[Krampfanfall]], Wesensänderung, [[Neurologisches Defizit]], [[Hirndruckzeichen]]
 - **Diagnostik**:: [[MRT]] (starke inhomogene [[KM]]-Aufnahme, [[Nekrose]]-Areale, Gefäß-/[[Liquorräume]]-Infiltration, unregelmäßige Begrenzung)
@@ -19,27 +19,3 @@ title: Hirntumor
 TABLE Abstract
 FROM #Fach/Onkologie/Hirntumor  
 ```
-
-
----
-
-- **Häufigste intrakranielle Tumoren**
-	- Metastasen 11:100.000 (Lunge > Mamma > Melanom > Unbekannt)
-	- Primär Hirntumor 9
-	- Meningen 6
-- **Einteilung**
-	- Gliome
-		- Astrocytom
-		- Oligodendrogliom
-		- [[Glioblastom]]
-		- Ependymom
-	- Embryonale Tumoren
-		- Medulloblastom
-		- Pineoblastom
-	- Neuronale/Glioneuronale
-		- Gangliogliom
-		- Paragangliom
-		- Neurocytom
-- Nekrosen sind blass/acytophil + Palisaden-Zellanreicherung im Randbereich
-
-![[Astrocytom]]
