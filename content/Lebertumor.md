@@ -14,4 +14,6 @@ title: Lebertumor
 			- *benigne:* Hämangiom
 			- *maligne:* Hämangiosarkom
 	- **Sekundäre [[Metastasen]]** (40x häufiger)
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Bei Patienten mit gutartigen Läsionen der Leber soll in der Verlaufsbeobachtung auf die [[CT]] oder [[MRT]] verzichtet werden, solange keine Änderung der klinischen Symptome oder Befunde vorliegt.

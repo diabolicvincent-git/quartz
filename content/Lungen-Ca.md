@@ -23,6 +23,8 @@ title: Lungen-Ca
 	- **Kurativ**:: Lobektomie (wenn resektabel), [[Chemotherapie]] (Cisplatin+ ab St. II), [[Radiatio]] (ab St. III), ggf. prophylaktische Schädelbestrahlung ([[SCLC]])
 	- **[[Palliativ]] (ab St. IIIA4 / M1)**:: Radiochemotherapie, [[Supportiv]]
 - **Prognose**:: Letalität↑, 5-[[JÜR]] 10%
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: CT-Screening für Lungenkrebs soll bei Patienten mit einem niedrigen Risiko nicht durchgeführt werden.
 
 

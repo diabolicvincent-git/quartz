@@ -19,6 +19,8 @@ title: Benzodiazepine
 	- [[Schwangerschaft]] (Floppy-infant-Syndrom)
 	- [[Abhängigkeit]] (außer: Entzugserscheinungen)
 - **Antidot**:: [[Flumazenil]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Benzodiazepine oder andere Sedativa bzw. Hypnotika bei älteren Patienten sollen nicht als Mittel der 1. Wahl im Falle von Schlafstörungen, Agitation oder Delir eingesetzt werden.
 
 

@@ -15,4 +15,6 @@ title: Schilddrüsen-Ca
 - **Therapie**:: [[OP]] (totale Thyreoidektomie + Lymphadenektomie)
 - **Prognose**:: Sehr gut (außer [[Anaplastisches Schilddrüsen-Ca]])
 - **Prävention**:: Iodgabe bei nuklearem Zwischenfall
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Ein Ultraschallscreening auf Schilddrüsenveränderungen bei älteren Menschen soll nicht durchgeführt werden.

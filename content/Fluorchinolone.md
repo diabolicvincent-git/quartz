@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie/Antiinfektiva/Antibiotika]
+tags: [Modul/m18, Fach/Pharmakologie/Medikament, Fach/Infektiologie/Antiinfektiva/Antibiotika, Mythbusting]
 title: Fluorchinolone
 ---
 - **Wirkmechanismus**:: [[Störung der Nucleinsäuresynthese]] (Gyrase-Hemmer)
@@ -13,3 +13,6 @@ title: Fluorchinolone
 	- *Sorgfältige Nutzen-[[Risiko]]-Abwägung*!
 - **KI**:: [[Schwangerschaft]], Stillzeit, [[Epilepsie]], U18
 - **[[Pharmakokinetik]]**:: Resorption↓ durch Chelatbildung mit Milchprodukten u.a. → Nahrungskarenz +/– 3h
+---
+### Mythbusting
+- [Gopalakrishnan, 2020: Association of Fluoroquinolones With the Risk of Aortic Aneurysm or Aortic Dissection](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2770379)

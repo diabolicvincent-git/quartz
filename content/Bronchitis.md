@@ -4,4 +4,6 @@ title: Bronchitis
 ---
 - **Ätiologie**
 	- *Erreger:* 80% [[Viren]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Patienten mit unkomplizierten akuten oberen Atemwegsinfektionen inkl. Bronchitis sollen nicht mit Antibiotika behandelt werden.

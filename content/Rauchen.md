@@ -2,6 +2,8 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Toxikologie, Fach/Allgemeinmedizin, Mythbusting/DGIM-Klug-entscheiden]
 title: Rauchen
 ---
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Jeder Raucher soll eine [[Lungenfunktionsprüfung]] erhalten.
 - *DGIM Klug entscheiden*:: Jedem Raucher mit einer chronischen Lungenerkrankung soll eine strukturierte Tabakrauchentwöhnung angeboten werden.
 

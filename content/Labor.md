@@ -2,54 +2,28 @@
 tags: [Modul/m01, Fach/Labor, Mythbusting/DGIM-Klug-entscheiden]
 title: Labor
 ---
-- *DGIM Klug entscheiden*:: Eine Behandlung von rheumatologischen Laborparametern (z.B. RF positiv, ANA positiv) ohne passende Klinik soll nicht erfolgen.
 
-## Allgemein
-### Säure-Basen-Haushalt
-- ![[Base Excess]]
-- ![[pH]]
-- **[[HCO3-]]**
----
-siehe [[Säure-Basen-Haushalt]], [[BGA]]
-![[Blutgase]]
-![[Elektrolyte]]
-## Hämatologie
-![[Blutbild]]
-![[Gerinnungsdiagnostik]]
-
-## Entzündung
-![[Akute-Phase-Proteine]]
-
-## Leber
-![[Leberwerte]]
-## Niere
-![[Nierenwerte]]
-## [[Pankreas]]
-![[Pankreaswerte]]
-## [[Herz]]
-![[Herzenzyme]]
-- [[BNP]]
-## [[Schilddrüse]]
-![[Schilddrüsenparameter]]
-
-## [[Stoffwechsel]]
-- Kohlenhydrate
-- [[Lipide]]
-
-### Eisen
-- **Freies Eisen**
-- **[[Ferritin]]**
-- **[[Transferrin]]**
-- **Löslicher Transferrin-Rezeptor / sTfR**
-
-
-## Onkologie
-[[Tumormarker]]
-
-
-
----
-- [[HbA1c]]
+- **Allgemeines**
+	- **[[Säure-Basen-Haushalt]]**:: [[Base Excess]], [[HCO3-]], [[pH]]
+	- **[[Elektrolyte]]**:: [[Cl-]], [[HCO3-]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]]
+	- **[[BGA]]**:: [[pCO2]], [[pO2]]
+	- **[[Entzündung]]**:: [[Akute-Phase-Proteine]], [[CRP]], [[PCT]]
+- **Hämatologie**
+	- **[[Blutbild]]**
+	- **[[Gerinnungsdiagnostik]]**
+- **[[Stoffwechsel]]**
+	- **[[Eisen]]**:: Freies Fe2+, [[Ferritin]], [[Transferrin]], löslicher Transferrin-Rezeptor
+	- **[[Kohlenhydrate]]**:: [[Glucose]], [[HbA1c]]
+	- **[[Lipide]]**
+	- **Proteine**
+- **Organspezifisch**
+	- **[[Leberwerte]]**:: [[AST]], [[ALT]], GLDH, γ-GT, [[Alkalische Phosphatase]], [[Bilirubin]], [[Albumin]], CHE
+	- **[[Nierenwerte]]**:: [[Harnstoff]], Harnsäure
+	- **[[Pankreaswerte]]**:: Amylase, Lipase, Elastase
+	- **[[Herz]]**:: Herzenzyme, [[BNP]]
+	- **[[Schilddrüse]]**
+	- **[[Urindiagnostik]]**
+- **Onkologie**:: [[Tumormarker]]
 ---
 - **Klinische Chemie**
 	- **[[Enzyme]]**
@@ -118,28 +92,6 @@ siehe [[Säure-Basen-Haushalt]], [[BGA]]
 	- [[Erythrocyten]]
 	- [[Leukocyten]]
 
-
-
 ---
-
-
-- **Allgemeines**
-	- **[[Elektrolyte]]**:: [[Cl-]], [[HCO3-]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]]
-	- **[[BGA]]**
-	- **[[Entzündung]]**:: [[Akute-Phase-Proteine]], [[CRP]], [[PCT]]
-- **[[Stoffwechsel]]**
-	- **[[Eisen]][[Stoffwechsel]]**:: Fe2+, [[Ferritin]], [[Transferrin]]
-	- **[[Kohlenhydrate]]-[[Stoffwechsel]]**
-	- **[[Lipide]]**
-	- **Proteine**
-- **Organspezifisch**
-	- **[[Leber]]werte**:: [[AST]], [[ALT]], GLDH, γ-GT, [[Alkalische Phosphatase]], [[Bilirubin]], [[Albumin]], CHE
-	- **[[Niere]]werte**:: [[Harnstoff]], Harnsäure
-	- **[[Pankreas]]werte**:: Amylase, Lipase, Elastase
-	- **[[Herz]]werte**:: Herzenzyme, [[BNP]]
-	- **[[Schilddrüse]]nparameter**
-	- **Urin**
-- [[Tumormarker]]
-
----
-siehe [[Laborfehler]]
+### Mythbusting
+- *DGIM Klug entscheiden*:: Eine Behandlung von rheumatologischen Laborparametern (z.B. RF positiv, ANA positiv) ohne passende Klinik soll nicht erfolgen.

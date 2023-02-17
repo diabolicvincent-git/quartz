@@ -22,4 +22,6 @@ title: Nierenarterienstenose
 		- [[ACE-Hemmer]]
 		- [[AT1-Blocker]]
 		- [[Calciumantagonisten]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Eine Angioplastie einer unkomplizierten Nierenarterienstenose bei gut einstellbarem Blutdruck soll nicht durchgeführt werden.

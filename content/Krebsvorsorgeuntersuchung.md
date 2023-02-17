@@ -2,8 +2,6 @@
 tags: [Modul/m06, Modul/m19, Fach/Onkologie, Fach/Epidemiologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Krebsvorsorgeuntersuchung
 ---
-- *DGIM Klug entscheiden*:: Ein Screening für Brust-, kolorektalen, Prostata- oder Lungenkrebs soll nicht erfolgen ohne Berücksichtigung der Lebenserwartung, der Risiken einer Testung, einer vermehrten Diagnostik und Therapie.
-
 
 Erkrankung|Gruppe|Maßnahme|Häufigkeit
 -|-|-|-
@@ -17,3 +15,8 @@ Erkrankung|Gruppe|Maßnahme|Häufigkeit
 [[Mamma-Ca]]|[[W]] 50-69 Jahre|Mammographie|alle 2 Jahre
 [[Mamma-Ca]]|[[W]] mit fam. [[Risiko]]|[[Sonographie]], Mammographie|1-2x/Jahr
 Hautkrebs|>35 Jahre|[[Anamnese]], Haut-Untersuchung|alle 2 Jahre
+
+
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Ein Screening für Brust-, kolorektalen, Prostata- oder Lungenkrebs soll nicht erfolgen ohne Berücksichtigung der Lebenserwartung, der Risiken einer Testung, einer vermehrten Diagnostik und Therapie.

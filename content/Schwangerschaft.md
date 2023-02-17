@@ -16,4 +16,6 @@ title: Schwangerschaft
 	- [[Hypertensive Schwangerschaftserkrankungen]]
 - **Therapie**
 	- Siehe [[Medikamente in der Schwangerschaft]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Allen Schwangeren soll eine Jodsupplementation angeboten werden.

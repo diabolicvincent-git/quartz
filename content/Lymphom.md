@@ -21,6 +21,8 @@ title: Lymphom
 - **Lokalisation**:: ⅔ [[Lymphknoten]], ⅓ restliche [[Lymphatische Organe]][^1]
 - **[[Staging]]**
 	- [[Knochenmark]]-Biopsie (Befall = fortgeschrittenes Stadium)
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: [[CT]] und/oder [[PET]] bei Patienten mit aggressivem Lymphom und Hodgkin-Lymphom ohne Symptome sollen in der Nachsorge nach Therapieende nicht routinemäßig durchgeführt werden. Routine-CTs sind verzichtbar bei asymptomatischen Patienten mit [[CLL]].
 
 

@@ -11,4 +11,6 @@ title: CPAP
 - **Indikation**:: [[Obstruktive Ventilationsstörung]] ([[Asthma]]/==[[COPD]]==), [[Lungenödem]]
 - **KI**:: [[Apnoe]], A-Problem, Aspirationsrisiko, [[Vigilanzminderung]], [[Thoraxtrauma]]
 - **Komplikationen**:: [[Pneumothorax]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Bei schwerer exazerbierter chronisch-obstruktiver Lungenerkrankung (COPD) und kardialem Lungenödem soll frühzeitig eine nicht-invasive Atemunterstützung (NIV bzw. CPAP) eingesetzt werden.

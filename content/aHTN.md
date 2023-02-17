@@ -18,6 +18,8 @@ title: aHTN
 	- Schwindel, Ohrensausen, (Hinter-)[[Kopfschmerzen]], Epistaxis, Palpitationen, [[Schlafstörung]]
 	- **Akut**:: [[Hypertensive Krise]] / [[Hypertensiver Notfall]]
 - **Komplikationen**
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Bei jüngeren und therapierefraktären Patienten soll auch nach endokrinen Ursachen einer Bluthochdruckerkrankung gesucht werden.
 
 

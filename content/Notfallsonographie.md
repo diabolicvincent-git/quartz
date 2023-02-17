@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m21, Fach/Anästhesie, Fach/Radiologie]
+tags: [Modul/m21, Fach/Anästhesie, Fach/Notfallmedizin, Fach/Radiologie]
 title: Notfallsonographie
 ---
 - [[eFAST]]

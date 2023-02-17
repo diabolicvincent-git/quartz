@@ -14,4 +14,6 @@ title: GI-Blutung
 	- *Stabilisierung:* [[Intubation]], Kreislaufstabilisierung
 	- *Vorbereitung:* [[PPI]], Spülung, [[Antibiotika]] (Erythromycin)
 	- *Endoskopie:* 
-- **DGIM Klug entscheiden**:: Eine elektive Kontrollendoskopie innerhalb von 72 Stunden nach oberer gastrointestinaler Blutung soll nicht regelhaft durchgeführt werden.
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Eine elektive Kontrollendoskopie innerhalb von 72 Stunden nach oberer gastrointestinaler Blutung soll nicht regelhaft durchgeführt werden.

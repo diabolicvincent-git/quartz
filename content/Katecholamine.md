@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m11, Modul/m15, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
+tags: [Modul/m11, Modul/m15, Fach/Pharmakologie/Medikament, Fach/Anästhesie, Mythbusting]
 title: Katecholamine
 ---
-### Katecholamine
 - **Einteilung**
 	- **[[Adrenalin]]**
 	- **Noradrenalin**
@@ -17,6 +16,9 @@ title: Katecholamine
 - **Regulation**
 	- *[[Sympathikus]]-Aktivierung* → [[ACh]]erge Stimulation des [[Nebennierenmark]]s
 	- *[[Cortisol]]* aus der [[NNR]] → Enzyminduktion
+---
+### Mythbusting
+- [Tran, 2020: Complication of vasopressor infusion through peripheral venous catheter: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0735675720308421?via%3Dihub)
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Katecholamin, Dosis

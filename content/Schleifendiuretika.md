@@ -21,4 +21,6 @@ title: Schleifendiuretika
 	- [[Anurie]]/[[Oligurie]], [[Hypovolämie]]
 	- [[Elektrolytstörungen]]: [[Hypokaliämie]], [[Hyponatriämie]]
 	- Allergie gegen Sulfonamide
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Die Gabe von Schleifendiuretika beim oligoanurischen Patienten mit ANV soll nicht erfolgen.

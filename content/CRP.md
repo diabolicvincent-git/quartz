@@ -9,6 +9,8 @@ title: CRP
 - **Pathologien**
 	- **↑**:: Virusinfektion, [[Schwangerschaft]], [[Entzündung]], [[Parasiten]]
 	- **↑↑↑**:: Bakterielle [[Infektionen]], [[Entzündung]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Der Nachweis erhöhter Entzündungswerte wie C-reaktives Protein (CRP) oder Procalcitonin (PCT) allein soll keine Indikation für eine Antibiotikatherapie darstellen.
 
 

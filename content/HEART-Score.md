@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Fach/Kardiologie, Art/Intervention, Fach/Notfallmedizin]
+tags: [Modul/m11, Fach/Kardiologie, Art/Intervention, Fach/Notfallmedizin, Mythbusting]
 title: HEART-Score
 ---
 - **0-3 Pkt.**:: Ambulant (1.9% Kardiales Ereignis, 0.05% Letalität)
@@ -13,3 +13,7 @@ title: HEART-Score
 | Alter          | <45 J.   | 45-65 J.                 | >65 J.                     |
 | [[Kardiovaskuläre Risikofaktoren]] | keine    | 1-2                      | ≥3 oder [[Atherosklerose]] |
 | [[Troponin]]   | normal   | 1-2x Normwert            | ≥3x Normwert                           |
+
+---
+### Mythbusting
+- [Stopyra, 2020: HEART Pathway Implementation Safely Reduces Hospitalizations at One Year in Patients With Acute Chest Pain](<https://www.annemergmed.com/article/S0196-0644(20)30406-6/fulltext>)

@@ -26,6 +26,8 @@ title: M. Crohn
 	- Eskalation mit Immunsuprression (z.B. [[TNF]]-α-Antikörper)
 	- OP zurückhaltend
 - **DD**:: [[CED]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Patienten mit Morbus Crohn, die rauchen, sollen zu Abstinenz von Tabak angehalten werden.
 
 

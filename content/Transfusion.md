@@ -11,6 +11,8 @@ title: Transfusion
 - **Diagnostik**:: [[Blutgruppen]]-Kompatibilität prüfen
 	- Serologische Verträglichkeitsprobe / "Kreuzprobe" + [[Coombs-Test]]
 	- [[Bedside-Test]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Kardiorespiratorisch stabile, nicht-blutende Intensivpatienten mit einer Hämoglobinkonzentration von >7 g/dL sollen i.d.R. keine Bluttransfusionen erhalten.
 - siehe auch [[Patient Blood Management]]
 

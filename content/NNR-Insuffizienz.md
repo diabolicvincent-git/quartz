@@ -19,6 +19,8 @@ title: NNR-Insuffizienz
 - **DD**:: [[PAS]]
 - **Therapie**
 	- ==[[Glucocorticoide]]-Substitution== (Hydrocortison), angepasst bei [[Stress]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Eine Hydrocortisontherapie bei substitutionspflichtigen Patienten soll in relevanten Stresssituationen nicht ohne Dosisanpassung bleiben.
 
 

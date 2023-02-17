@@ -9,4 +9,6 @@ title: Arthralgie
 - **[[Infektionen]] mit Gelenkbeteiligung**:: Influenza, Parvo-B19, [[Reaktive Arthritis]], Septische Arthritis
 - **Paraneoplastische Gelenkentzündung**:: [[Mamma-Ca]], [[Lungen-Ca]], [[Prostata-Ca]], [[Leukämie]], [[Lymphom]]
 - **Chronisch-entzündliche rheumatische Erkrankung**:: [[Rheumatoide Arthritis]], [[SLE]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Jede unklare akute Gelenkschwellung soll unverzüglich durch Gelenkpunktion/Punktatuntersuchung abgeklärt werden.

@@ -9,4 +9,6 @@ title: Entzündungsparameter
 - [[Akute-Phase-Proteine]]
 - [[CRP]]
 - [[PCT]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Eine entzündlich-rheumatische Erkrankung soll als Diagnose nicht verworfen werden, nur weil die Laborwerte (Entzündungsmarker, Serologie) normal sind.

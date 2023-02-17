@@ -14,4 +14,6 @@ title: OP
 	- *Allgemeine Risiken:* z.B. [[Thrombose]]
 	- *[[Allgemeine OP-Komplikationen]]:* z.B. [[Hämatom]], Wundheilungsstörung, Blutung (<24 h)
 	- *Eingriffsspezifische Komplikationen:* z.B. Anastomoseninsuffizienz nach Darmresektion
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Die perioperative Antibiotikaprophylaxe soll nicht verlängert (das heißt: nach der Operation) fortgeführt werden.

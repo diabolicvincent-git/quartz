@@ -22,6 +22,8 @@ title: Nierenversagen
 	- **[[Labor]]**:: [[Nierenwerte]] (==[[Kreatinin]]==, [[Harnstoff]]), [[Blutbild]], [[BGA]], [[CK]], [[LDH]], Lipase/Amylase, [[Blutkulturen]]
 	- **[[Urindiagnostik]]**:: Hämaturie, Proteinurie, Urinsediment, [[Na+]], [[Kreatinin]]
 	- **[[Bildgebung]]**:: [[Sonographie]] Niere, Harnblase, [[Pleuraerguss]], [[V. cava inferior]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Hohe orale Flüssigkeitsmengen sollen nicht eingesetzt werden, um die Nierenfunktion zu bessern oder „Nieren zu spülen“.
 - *DGIM Klug entscheiden*:: Eine zeitgleiche Gabe von [[Schleifendiuretika]] und Flüssigkeit zur „Nierenspülung“ soll nicht erfolgen.
 - *DGIM Klug entscheiden*:: Die Gabe von [[Schleifendiuretika]] beim oligoanurischen Patienten mit ANV soll nicht erfolgen.

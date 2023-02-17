@@ -29,6 +29,8 @@ title: Colorektales Ca
 		- **Untere ⅔**:: ==Neoadjuvante Radiochemotherapie== ab St. II
 	- **Bei [[Metastasen]]**:: 5-FU + Folinsäure + Oxaliplatin (FOLFOX)
 		- Bei *RAS-Mutation* → keine Anti-EGFR-Therapie
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: [[ASS]] bzw. COX-2-Hemmer sollen nicht zur Primärprävention des kolorektalen Karzinoms in der asymptomatischen Bevölkerung eingenommen werden.
 
 

@@ -10,6 +10,8 @@ title: Gicht
 - **DD**:: [[Chondrokalzinose]], [[Rheumatoide Arthritis]], [[Reaktive Arthritis]], [[Septische Arthritis]], [[Psoriasis-Arthritis]], [[Aktivierte Arthrose]]
 - **Therapie**:: Purinarme Kost, ==[[NSAR]]== oder ==[[Prednisolon]]==[^1], ggf. [[Colchicin]], lokale Kryotherapie, langfristig [[Allopurinol]]
 - **Komplikationen**:: ==[[Chronische Gicht]]== (unbehandelt), Urat-[[Nephrolithiasis]], ==[[CKD]]==, [[Nierenversagen]], [[Metabolisches Syndrom]]
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Nach Gichtanfall soll eine Harnsäure-senkende Therapie nicht ohne niedrig-dosierten Colchicin-Schutz begonnen werden.
 
 

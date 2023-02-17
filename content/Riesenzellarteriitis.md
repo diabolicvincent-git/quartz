@@ -23,4 +23,6 @@ title: Riesenzellarteriitis
 	- ==Biologika: Tocilizumab [[s.c.]]==
 	- [[Osteoporose]]-Prophylaxe
 	- [[ASS]] low dose (kardiovaskuläres [[Risiko]]!)
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Bei konkretem klinischen Verdacht auf eine Riesenzellarteriitis soll unverzüglich mit einer Glucocorticoidtherapie begonnen werden; die anstehende Diagnostik soll den Therapiebeginn nicht verzögern.

@@ -16,9 +16,11 @@ title: EKG
 	- [[T-Welle]]
 	- [[QT-Zeit]]
 	- U-Welle
+---
+### Mythbusting
+- [Cook, 2020: Accuracy of Physicians’ Electrocardiogram Interpretations – A Systematic Review and Meta-analysis](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2771093) (42% Studenten, 56% Residents, 69% Ärzte, 75% Kardiologen)
 
-
-
+---
 [[Cabrera-Kreis]]
 ## Projektionen der Ableitungen
 - **I, aVL**:: Hohe Seitenwand des linken Ventrikel

@@ -7,4 +7,6 @@ title: PCT
 - **Normwert**:: <0,1 ng/ml
 - **Sensitivität**:: Hochsensitiv insb. bei [[Bakterien]]-[[Infektionen]]
 - **Spezifität**:: Nicht erhöht bei [[Tumor]], [[Autoimmunität]], [[Nekrose]] etc. (vgl. [[CRP]])
+---
+### Mythbusting
 - *DGIM Klug entscheiden*:: Der Nachweis erhöhter Entzündungswerte wie C-reaktives Protein (CRP) oder Procalcitonin (PCT) allein soll keine Indikation für eine Antibiotikatherapie darstellen.

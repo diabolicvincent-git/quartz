@@ -1,8 +1,7 @@
 ---
-tags: [Modul/m18, Art/Pathologie, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie]
+tags: [Modul/m18, Art/Pathologie, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie, Mythbusting]
 title: Hepatitis
 ---
-### Hepatitis
 - **Ätiologie**
 	- ==**[[Virushepatitis]]**:: HAV, HBV[^1], HCV, HDV, HEV==
 	- **Sonst. Infekt.**:: Plasmodien, [[Herpesviren]] ([[CMV]], [[EBV]]) u.v.m.
@@ -23,6 +22,9 @@ title: Hepatitis
 	- Allgemeine Hygienemaßnahmen
 	- Blutspende-Screening auf HBsAg und Anti-HCV
 	- **[[Impfung]]**:: [[Hepatitis A]], [[Hepatitis B]]
+---
+### Mythbusting
+- [Sathiaraj, 2010: Dietary alterations due to perceptions in acute viral hepatitis lead to sub-optimal calorie intake and increased length of hospitalization](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2893.2009.01184.x)
 
 
 ### Virushepatitiden
