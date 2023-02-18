@@ -4,4 +4,4 @@ title: Varikosis
 ---
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine Varikosis soll nicht grundsätzlich invasiv behandelt werden.
+- *DGIM Klug entscheiden*:: Eine Varikosis soll *nicht* grundsätzlich invasiv behandelt werden.

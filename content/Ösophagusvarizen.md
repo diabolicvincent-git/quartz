@@ -16,4 +16,4 @@ title: Ösophagusvarizen
 - **Prognose**:: Letalität bei akuter Blutung 30%
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei begründetem Verdacht auf eine akute Varizenblutung soll eine intravenöse Therapie mit einem Vasokonstriktor (Terlipressin, Somatostatin oder Octreotid) noch vor der Endoskopie begonnen werden.
+- *DGIM Klug entscheiden*:: Bei begründetem Verdacht auf eine akute Varizenblutung soll eine intravenöse Therapie mit einem Vasokonstriktor ([[Terlipressin]], [[Somatostatin]] oder Octreotid) noch vor der [[Endoskopie]] begonnen werden.

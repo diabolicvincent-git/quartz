@@ -20,4 +20,6 @@ title: Borreliose
 		- *Acrodermatitis chronica atrophicans*
 		- *Chronische Neuroborreliose*
 	- Augenbeteiligung (Konjunktivitis, Uveitis, Papillitis) und Begleit-[[Hepatitis]] möglich
-	- *DGIM Klug entscheiden*:: Ohne typische Anamnese und Klinik soll eine Borrelienserologie nicht bestimmt werden.
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Ohne typische Anamnese und Klinik soll eine Borrelienserologie nicht bestimmt werden.

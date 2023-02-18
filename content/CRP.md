@@ -11,7 +11,7 @@ title: CRP
 	- **↑↑↑**:: Bakterielle [[Infektionen]], [[Entzündung]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Der Nachweis erhöhter Entzündungswerte wie C-reaktives Protein (CRP) oder Procalcitonin (PCT) allein soll keine Indikation für eine Antibiotikatherapie darstellen.
+- *DGIM Klug entscheiden*:: Der Nachweis erhöhter [[Entzündungsparameter]] wie CRP oder [[PCT]] allein soll keine Indikation für eine Antibiotikatherapie darstellen.
 
 
 [^1]: Anstieg nach 6-12 h, HWZ 24 h

@@ -4,4 +4,4 @@ title: Reanimation
 ---
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Während oder nach einer Reanimation soll schnellstmöglich eine Notfallsonografie zur Diagnostik behebbarer Ursachen eines Herz-Kreislauf-Stillstandes erfolgen.
+- *DGIM Klug entscheiden*:: Während oder nach einer Reanimation soll schnellstmöglich eine [[Notfallsonographie]] zur Diagnostik behebbarer Ursachen eines Herz-Kreislauf-Stillstandes erfolgen.

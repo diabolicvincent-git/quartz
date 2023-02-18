@@ -2,7 +2,6 @@
 tags: [Fach/Psychiatrie, Fach/Pharmakologie]
 title: Serotonin-Syndrom
 ---
-### Serotonin-Syndrom
 - **Ätiologie**:: [[Serotonin]]↑ v.a. durch [[Antidepressiva]] (Kombination div. Substanzen, Überdosierung, Interaktionen, [[Intoxikation]], individuelle pharmakogenetische Disposition)
 - **Symptome**
 	- *Psychopathologisch:* Unruhe, Akathisie, Angst, Verwirrtheit, [[Vigilanzminderung]], [[Delir]]artig

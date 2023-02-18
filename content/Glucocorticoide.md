@@ -23,7 +23,7 @@ title: Glucocorticoide
 - **Relative KI**:: GI-Ulcus, Osteoporose, [[Infektionen]], [[Glaukom]], [[Schwangerschaft]], [[Thrombophilie]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine längerfristige Glucocorticoidtherapie in einer Dosis von mehr als 5 mg/d Prednisonäquivalent soll nicht durchgeführt werden.
+- *DGIM Klug entscheiden*:: Eine längerfristige Glucocorticoidtherapie in einer Dosis von mehr als 5 mg/d [[prednisoLON]]-Äquivalent soll nicht durchgeführt werden.
 - *DGIM Klug entscheiden*:: Bei absehbar längerfristiger Glukokortikoidgabe (mehr als 3 Monate) sollte jeder Patient eine initiale Knochendichtemessung (DXA), eine [[Vitamin D (Calciferol)]]-Prophylaxe und ausreichende [[Ca2+]] Zufuhr, ein moderates Muskeltraining und gegebenenfalls eine spezifische [[Osteoporose]]-Therapie erhalten.
 - *DGIM No Go*:: Die Kombination aus [[NSAR]] und systemisch wirksamen Glukokortikoiden soll nicht ohne [[PPI]]-Schutz erfolgen.
 

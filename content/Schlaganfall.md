@@ -24,4 +24,4 @@ title: Schlaganfall
 - **Prävention**:: Rezidivprophylaxe mit [[Thrombocytenaggregationshemmer]] bzw. [[Therapeutische Antikoagulation]] bei [[VHF]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei akutem ischämischem Apoplex soll eine medikamentöse Blutdrucksenkung in der Regel nicht erfolgen.
+- *DGIM Klug entscheiden*:: Bei akutem ischämischem Apoplex [sic] soll eine medikamentöse Blutdrucksenkung in der Regel *nicht* erfolgen.

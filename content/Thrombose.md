@@ -26,8 +26,8 @@ title: Thrombose
 		- Längere [[Antikoagulation]] bei schweren, rezidivierenden Ereignissen und/oder idiopathischem/hereditärem Auslöser
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Patienten mit einer Venenthrombose jedweder Lokalisation und Morphologie sollen nicht immobilisiert werden, es sei denn zur Linderung starker Schmerzen!
-- *DGIM Klug entscheiden*:: Bei Verdacht auf tiefe Beinvenenthrombose soll bei ambulanten Patienten vor weiteren Maßnahmen basierend auf Anamnese und körperlicher Untersuchung eine Einschätzung der klinischen Wahrscheinlichkeit erfolgen. Hierzu eignet sich insbesondere der weit verbreitete Wells-Score. Abhängig von der klinischen Wahrscheinlichkeit soll die Akuttherapie wie auch der weitere diagnostische Prozess erfolgen.
+- *DGIM Klug entscheiden*:: Patienten mit einer Venenthrombose jedweder Lokalisation und Morphologie sollen *nicht* immobilisiert werden, es sei denn zur Linderung starker Schmerzen!
+- *DGIM Klug entscheiden*:: Bei Verdacht auf tiefe Beinvenenthrombose soll bei ambulanten Patienten vor weiteren Maßnahmen basierend auf Anamnese und körperlicher Untersuchung eine Einschätzung der klinischen Wahrscheinlichkeit erfolgen. Hierzu eignet sich insbesondere der weit verbreitete [[Wells-Score]]. Abhängig von der klinischen Wahrscheinlichkeit soll die Akuttherapie wie auch der weitere diagnostische Prozess erfolgen.
 - *DGIM Klug entscheiden*:: Die Zeitdauer einer langfristigen medikamentösen Sekundärprophylaxe nach venöser Thromboembolie soll jährlich bezüglich der Rezidiv- und Blutungsrisiken neu abgewogen werden.
 
 

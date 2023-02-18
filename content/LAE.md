@@ -24,8 +24,8 @@ title: LAE
 	- **Sekundärprophylaxe**:: [[Antikoagulation]]-Erhalt mit [[DOAK]] oder [[Vitamin-K-Antagonisten]], Ursachensuche (s. [[Thrombose]])
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei Patienten mit Verdacht auf Lungenembolie (ohne Schock) soll bei niedrigem Risiko-Score eine D-Dimer-Bestimmung und bei hohem Score eine CT-Pulmonalisangiographie/Lungenszintigraphie erfolgen!
-- *DGIM Klug entscheiden*:: Bei einer niedrigen klinischen Wahrscheinlichkeit für das Vorliegen einer Lungenembolie und negativen D-Dimeren soll keine CT-Angiographie der Lunge durchgeführt werden.
+- *DGIM Klug entscheiden*:: Bei Patienten mit Verdacht auf Lungenembolie (ohne [[Schock]]) soll bei niedrigem Risiko-Score eine [[D-Dimere]]-Bestimmung und bei hohem Score eine Pulmonalis-[[CT-Angiographie]]/[[Lungenszintigraphie]] erfolgen!
+- *DGIM Klug entscheiden*:: Bei einer niedrigen klinischen Wahrscheinlichkeit für das Vorliegen einer Lungenembolie und negativen [[D-Dimere]] soll keine [[CT-Angiographie]] der Lunge durchgeführt werden.
 
 
 

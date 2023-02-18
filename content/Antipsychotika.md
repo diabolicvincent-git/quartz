@@ -11,4 +11,4 @@ title: Antipsychotika
 - **Elimination**:: Hepatisch
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Neuroleptika für Verhaltens- und psychologische Symptome (BPSD) bei demenziell Erkrankten sollen nicht ohne ein Assessment für die Ursachen solcher Symptome verordnet werden.
+- *DGIM Klug entscheiden*:: Neuroleptika für Verhaltens- und psychologische Symptome (BPSD) bei [[Demenz]]-Erkrankten sollen nicht ohne ein Assessment für die Ursachen solcher Symptome verordnet werden.

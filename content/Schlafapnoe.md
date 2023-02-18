@@ -16,7 +16,7 @@ title: Schlafapnoe
         - Reduktion des Flüssigkeitsvolumens ([[Dialyse]]/[[Diuretika]])
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei Adipösen, Diabetikern, Patienten mit Vorhofflimmern und Patienten mit Hypertonie, die über Schnarchen berichten, soll die Diagnostik zum Ausschluss eines Schlafapnoesyndroms erfolgen.
+- *DGIM Klug entscheiden*:: Bei Patienten mit [[Adipositas]], [[Diabetes mellitus]], [[VHF]] oder [[aHTN]], die über Schnarchen berichten, soll die Diagnostik zum Ausschluss eines Schlafapnoesyndroms erfolgen.
 
 
 ## Symptome

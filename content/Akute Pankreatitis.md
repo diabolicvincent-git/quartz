@@ -16,4 +16,4 @@ title: Akute Pankreatitis
     - [[Sepsis]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: In der Frühphase einer akuten Pankreatitis sollte ein [[CT]] nicht angefertigt werden!
+- *DGIM Klug entscheiden*:: In der Frühphase einer akuten Pankreatitis sollte ein [[CT]] *nicht* angefertigt werden!

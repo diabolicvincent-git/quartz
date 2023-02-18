@@ -13,4 +13,4 @@ title: CPAP
 - **Komplikationen**:: [[Pneumothorax]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei schwerer exazerbierter chronisch-obstruktiver Lungenerkrankung (COPD) und kardialem Lungenödem soll frühzeitig eine nicht-invasive Atemunterstützung (NIV bzw. CPAP) eingesetzt werden.
+- *DGIM Klug entscheiden*:: Bei schwerer [[aeCOPD]] und kardialem [[Lungenödem]] soll frühzeitig eine nicht-invasive Atemunterstützung ([[NIV]] bzw. CPAP) eingesetzt werden.

@@ -19,7 +19,7 @@ title: Synkope
 
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Patienten mit Synkope sollen in der Notaufnahme primär mittels einer strukturierten klinischen Risikoeinschätzung und eines EKG beurteilt werden. Bei niedrigem Risiko können diese Patienten ohne weitere Diagnostik oder Überwachung in die ambulante Weiterbehandlung entlassen werden.
-- *DGIM Klug entscheiden*:: Bei Patienten mit Synkope soll die Duplexsonographie der Hirngefäße nicht Bestandteil der Notfallroutine sein!
+- *DGIM Klug entscheiden*:: Patienten mit Synkope sollen in der Notaufnahme primär mittels einer strukturierten klinischen Risikoeinschätzung und eines [[EKG]] beurteilt werden. Bei niedrigem Risiko können diese Patienten ohne weitere Diagnostik oder Überwachung in die ambulante Weiterbehandlung entlassen werden.
+- *DGIM Klug entscheiden*:: Bei Patienten mit Synkope soll die Duplexsonographie der Hirngefäße *nicht* Bestandteil der Notfallroutine sein!
 
 [^1]: Unterschied der konvulsiven Synkope zum [[Krampfanfall]]: Beginn erst nach Bewusstseinsverlust + danach schnelles, vollständiges Aufklaren

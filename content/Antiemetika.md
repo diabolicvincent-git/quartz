@@ -11,4 +11,4 @@ title: Antiemetika
 	- **[[Glucocorticoide]]**:: Dexamethason (insb. PONV)
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine antiemetische Behandlung unter Einschluss von NK1-Rezeptor-Antagonisten, welche für hoch emetogene Chemotherapien einschließlich Carboplatin vorgesehen ist, soll unterlassen werden bei Patienten, welche eine Chemotherapie mit niedrigem oder moderatem Risiko für Übelkeit und Erbrechen erhalten.
+- *DGIM Klug entscheiden*:: Eine antiemetische Behandlung unter Einschluss von NK1-Rezeptor-Antagonisten, welche für hoch emetogene Chemotherapien einschließlich Carboplatin vorgesehen ist, soll unterlassen werden bei Patienten, welche eine [[Chemotherapie]] mit niedrigem oder moderatem Risiko für [[Übelkeit]] und [[Erbrechen]] erhalten.

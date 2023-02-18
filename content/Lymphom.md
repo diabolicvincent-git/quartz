@@ -23,7 +23,7 @@ title: Lymphom
 	- [[Knochenmark]]-Biopsie (Befall = fortgeschrittenes Stadium)
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: [[CT]] und/oder [[PET]] bei Patienten mit aggressivem Lymphom und Hodgkin-Lymphom ohne Symptome sollen in der Nachsorge nach Therapieende nicht routinemäßig durchgeführt werden. Routine-CTs sind verzichtbar bei asymptomatischen Patienten mit [[CLL]].
+- *DGIM Klug entscheiden*:: [[CT]] und/oder [[PET]] bei Patienten mit aggressivem Lymphom und [[Hodgkin-Lymphom]] ohne Symptome sollen in der Nachsorge nach Therapieende nicht routinemäßig durchgeführt werden. Routine-CTs sind verzichtbar bei asymptomatischen Patienten mit [[CLL]].
 
 
 [^1]: *Nicht* im [[Knochenmark]] (Abgrenzung zu [[Leukämie]], ab ≥25% Blastenanteil im [[Knochenmark]])

@@ -27,7 +27,7 @@ title: Meningitis
 	- **Postexpositionsprophylaxe**:: [[Rifampicin]] (bei [[Meningokokken]])
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Erwachsenen Patienten mit Verdacht auf bakterielle Meningitis sollen nach der Blutkulturentnahme noch vor einer eventuellen Bildgebungsdiagnostik Dexamethason und Antibiotika verabreicht werden.
+- *DGIM Klug entscheiden*:: Erwachsenen Patienten mit Verdacht auf bakterielle Meningitis sollen nach der [[Blutkulturen]]-Entnahme noch vor einer eventuellen Bildgebungsdiagnostik [[DEXAmethason]] und [[Antibiotika]] verabreicht werden.
 
 [^1]: Komplikation: *[[Waterhouse-Friderichsen-Syndrom]]* mit [[DIC]]
 [^2]: Cave: Fehlend bei Säuglingen, Bewusstlosigkeit oder primärer [[Encephalitis]]

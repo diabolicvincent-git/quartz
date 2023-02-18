@@ -13,7 +13,7 @@ title: HWI
 - **Therapie** [[Fosfomycin]] 3 g Einmalgabe
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Patienten mit [asymptomatischer Bakteriurie](https://next.amboss.com/de/article/o600NS#Zb2d1680b53a034bb850e1ed1cf0442e0) sollen nicht mit [Antibiotika](https://next.amboss.com/de/article/mm0VTg#Z58bcc7711752096ecca5b2bfd6b56f92) behandelt werden.
+- *DGIM Klug entscheiden*:: Patienten mit asymptomatischer [[Bakteriurie]] sollen nicht mit [[Antibiotika]] behandelt werden.
 
 
 ## Ätiologie

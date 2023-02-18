@@ -17,7 +17,7 @@ title: Rückenschmerzen
 	- **[[Analgesie]]**:: ==[[NSAR]]== (möglichst kurz); alternativ [[Opioide]], ggf. [[Adjuvantien]][^1]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei nicht-spezifischem Kreuzschmerz unter sechs Wochen ohne „Red Flags“ soll eine Bildgebung nicht erfolgen.
+- *DGIM Klug entscheiden*:: Bei nicht-spezifischem Kreuzschmerz unter sechs Wochen ohne „[[Red Flags]]“ soll eine [[Bildgebung]] nicht erfolgen.
 
 ## DD Rückenschmerzen
 | Erkrankung                   | Ätiologie                                                         | Symptome                                                                                                                                                    | Diagnostik                                                                               |

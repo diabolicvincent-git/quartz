@@ -25,4 +25,4 @@ title: Riesenzellarteriitis
 	- [[ASS]] low dose (kardiovaskuläres [[Risiko]]!)
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei konkretem klinischen Verdacht auf eine Riesenzellarteriitis soll unverzüglich mit einer Glucocorticoidtherapie begonnen werden; die anstehende Diagnostik soll den Therapiebeginn nicht verzögern.
+- *DGIM Klug entscheiden*:: Bei konkretem klinischen Verdacht auf eine Riesenzellarteriitis soll unverzüglich mit einer [[Glucocorticoide]]-Therapie begonnen werden; die anstehende Diagnostik soll den Therapiebeginn nicht verzögern.

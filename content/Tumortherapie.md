@@ -18,5 +18,5 @@ title: Tumortherapie
 	- [[Cytostatika]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine spezifische Therapie bei Patienten mit soliden Tumoren soll nicht durchgeführt werden, wenn alle der folgenden Kriterien vorliegen: a) schlechter Allgemeinzustand ([[ECOG]] >2), b) kein Ansprechen bei vorherigen evidenzbasierten Tumortherapien, c) keine harte Evidenz, die den klinischen Nutzen weiterer Tumortherapien unterstützt.
+- *DGIM Klug entscheiden*:: Eine spezifische Therapie bei Patienten mit soliden Tumoren soll nicht durchgeführt werden, wenn alle der folgenden Kriterien vorliegen: a) schlechter [[AZ]] ([[ECOG]] >2), b) kein Ansprechen bei vorherigen evidenzbasierten Tumortherapien, c) keine harte Evidenz, die den klinischen Nutzen weiterer Tumortherapien unterstützt.
 - *DGIM Klug entscheiden*:: Eine gezielte Tumortherapie (Targeted Therapy) soll nur gegeben werden, wenn die Tumorzellen des Patienten den spezifischen Biomarker aufweisen, der ein Ansprechen auf diese Substanz mit hoher Wahrscheinlichkeit erwarten lässt.

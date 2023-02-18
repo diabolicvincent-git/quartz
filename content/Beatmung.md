@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention]
+tags: [Modul/m13, Fach/Pneumologie, Fach/Anästhesie, Art/Intervention, Mythbusting/DGIM-Klug-entscheiden]
 title: Beatmung
 ---
 - **Beatmungsformen**
@@ -15,6 +15,9 @@ title: Beatmung
 - **Indikation**:: [[Ventilatorische Insuffizienz]], [[Pulmonale Insuffizienz]]
 
 
+---
+### Mythbusting
+- *DGIM Klug entscheiden*:: Beatmete Intensivpatienten sollen ohne spezifische Indikation keine tiefe [[Sedierung]] erhalten.
 ---
 - [[Beatmungsparameter]]
 ### Beatmungsformen

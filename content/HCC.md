@@ -17,4 +17,4 @@ title: HCC
 	- **[[Palliativ]]**:: ggf. lokale Tumorablationen
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Allen Patienten mit einer Hepatitis-C-Virus-assoziierten Leberzirrhose (inklusive aller Patienten mit Leberzirrhose nach erfolgreicher HCV-Eradikation), Patienten mit chronischer Hepatitis B und Fettleberhepatitis sollte eine Früherkennungsuntersuchung (Sonographie der Leber) angeboten werden, sofern sie im Falle des Auftretens eines HCC einer Therapie zugeführt werden können.
+- *DGIM Klug entscheiden*:: Allen Patienten mit einer [[Hepatitis C]]-assoziierten [[Leberzirrhose]] (inklusive aller Patienten mit Leberzirrhose nach erfolgreicher HCV-Eradikation), Patienten mit chronischer [[Hepatitis B]] und Fettleberhepatitis sollte eine Früherkennungsuntersuchung ([[Sonographie Leber]]) angeboten werden, sofern sie im Falle des Auftretens eines HCC einer Therapie zugeführt werden können.

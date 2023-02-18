@@ -28,7 +28,7 @@ title: M. Crohn
 - **DD**:: [[CED]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Patienten mit Morbus Crohn, die rauchen, sollen zu Abstinenz von Tabak angehalten werden.
+- *DGIM Klug entscheiden*:: Patienten mit Morbus Crohn, die [[rauchen]], sollen zu Abstinenz von Tabak angehalten werden.
 
 
 [^1]: Schmerzhafter Stuhlgang

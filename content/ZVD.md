@@ -7,4 +7,4 @@ title: ZVD
 - **Determinanten**:: Füllung des [[Niederdrucksystem]], Körperlage, Leistung des rechten Herzens
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Der ZVD soll nicht als primärer Parameter zur Diagnose eines Volumenmangels und Steuerung einer Volumentherapie eingesetzt werden.
+- *DGIM Klug entscheiden*:: Der ZVD soll *nicht* als primärer Parameter zur Diagnose einer [[Hypovolämie]] und Steuerung einer [[Volumentherapie]] eingesetzt werden.

@@ -4,4 +4,4 @@ title: Candida
 ---
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Der Nachweis von Candida im Bronchialsekret oder in Stuhlproben stellt keine Indikation zur antimykotischen Therapie dar.
+- *DGIM Klug entscheiden*:: Der Nachweis von Candida im Bronchialsekret oder in Stuhlproben stellt *keine* Indikation zur [[Antimykotika]]-Therapie dar.

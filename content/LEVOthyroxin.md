@@ -4,4 +4,4 @@ title: LEVOthyroxin
 ---
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine Dauertherapie mit Levothyroxin bei Struma nodosa soll nicht durchgeführt werden.
+- *DGIM Klug entscheiden*:: Eine Dauertherapie mit Levothyroxin bei [[Struma nodosa]] soll *nicht* durchgeführt werden.

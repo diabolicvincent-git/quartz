@@ -25,7 +25,7 @@ title: Lungen-Ca
 - **Prognose**:: Letalität↑, 5-[[JÜR]] 10%
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: CT-Screening für Lungenkrebs soll bei Patienten mit einem niedrigen Risiko nicht durchgeführt werden.
+- *DGIM Klug entscheiden*:: CT-Screening für Lungenkrebs soll bei Patienten mit einem niedrigen Risiko *nicht* durchgeführt werden.
 
 
 ## Diagnostik

@@ -31,7 +31,7 @@ title: Colorektales Ca
 		- Bei *RAS-Mutation* → keine Anti-EGFR-Therapie
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: [[ASS]] bzw. COX-2-Hemmer sollen nicht zur Primärprävention des kolorektalen Karzinoms in der asymptomatischen Bevölkerung eingenommen werden.
+- *DGIM Klug entscheiden*:: [[ASS]] bzw. [[Coxibe]] sollen nicht zur Primärprävention des kolorektalen Karzinoms in der asymptomatischen Bevölkerung eingenommen werden.
 
 
 ---

@@ -11,4 +11,4 @@ title: Entzündungsparameter
 - [[PCT]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine entzündlich-rheumatische Erkrankung soll als Diagnose nicht verworfen werden, nur weil die Laborwerte (Entzündungsmarker, Serologie) normal sind.
+- *DGIM Klug entscheiden*:: Eine entzündlich-rheumatische Erkrankung soll als Diagnose nicht verworfen werden, nur weil die Laborwerte ([[Entzündungsparameter]], Serologie) normal sind.

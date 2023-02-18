@@ -8,4 +8,4 @@ title: Makrolide
 - **[[UAW]]**:: Hepatotox., [[QT-Zeit]]↑, [[CYP]]-Inhibition
 ---
 ### Mythbusting
-- *DGIM No Go*:: Eine Kombinationstherapie von Citalopram/Escitalopram und Makroliden soll nicht durchgeführt werden.
+- *DGIM No Go*:: Eine Kombinationstherapie von [[Citalopram]]/[[Escitalopram]] ([[SSRI]]) und Makroliden soll nicht durchgeführt werden.

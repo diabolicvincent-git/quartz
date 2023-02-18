@@ -2,7 +2,6 @@
 tags: [Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Pneumologie, Fach/Notfallmedizin, Mythbusting/DGIM-Klug-entscheiden]
 title: Pneumonie
 ---
-### Pneumonie / Lungenentzündung
 - **Epidemiologie**:: v.a. Kinder und Senioren
 - **Erreger**
 	- **Ambulant (CAP)**:: ==[[Pneumokokken]]==, [[Haemophilus influenzae]], Mycoplasma/Chlamydia  pneumoniae
@@ -26,4 +25,4 @@ title: Pneumonie
 		- **Schwer**:: 1. Wahl *[[Piperacillin+Tazobactam]]* oder [[Cephalosporine]] 3. Generation, immer + [[Makrolide]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Orale Cephalosporine sollen nicht zur Initialtherapie bei ambulant erworbener [[Pneumonie]] (CAP) verwendet werden.
+- *DGIM Klug entscheiden*:: Orale [[Cephalosporine]] sollen *nicht* zur Initialtherapie bei ambulant erworbener [[Pneumonie]] (CAP) verwendet werden.

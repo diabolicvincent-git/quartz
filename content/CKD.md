@@ -34,8 +34,8 @@ title: CKD
 	- *[[Urämie]]:* [[Nierentransplantation]], übergangsweise [[Dialyse]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Zur renalen und kardiovaskulären Risikoabschätzung soll bei Patienten mit chronischer Nierenkrankheit (CKD, GFR <60 mL/min) neben einer eGFR-Abschätzung eine quantitative Bestimmung der Proteinurie (z.B. als Albumin-Kreatinin-Ratio im Spontan- oder Sammelurin) erfolgen.
-- *DGIM Klug entscheiden*:: Bei Patienten mit chronischer Nierenkrankheit und einer GFR unter 45 mL/min (CKD-Stadium 3b oder höher) soll eine Bestimmung von Serum-Phosphat, iPTH und 25-OH-Vitamin D3 erfolgen.
+- *DGIM Klug entscheiden*:: Zur renalen und kardiovaskulären Risikoabschätzung soll bei Patienten mit chronischer Nierenkrankheit (CKD, [[GFR]] <60 mL/min) neben einer eGFR-Abschätzung eine quantitative Bestimmung der [[Proteinurie]] (z.B. als Albumin-Kreatinin-Ratio im Spontan- oder Sammelurin) erfolgen.
+- *DGIM Klug entscheiden*:: Bei Patienten mit chronischer Nierenkrankheit und einer [[GFR]] unter 45 mL/min (CKD-Stadium 3b oder höher) soll eine Bestimmung von Serum-[[Phosphat]], iPTH und 25-OH-Vitamin D3 erfolgen.
 - *DGIM Klug entscheiden*:: Hohe orale Flüssigkeitsmengen sollen nicht eingesetzt werden, um die Nierenfunktion zu bessern oder „Nieren zu spülen“.
 
 

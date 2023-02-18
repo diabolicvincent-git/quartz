@@ -15,4 +15,4 @@ title: Liquorpunktion
 	- **Cisterna cerebellomedullaris**:: Pädiatrische Sonderfälle
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine CT-Untersuchung vor der Lumbalpunktion bei Verdacht auf bakterielle Meningitis soll nicht erfolgen – außer bei Symptomen, die auf einen erhöhten Hirndruck oder eine Herdpathologie hinweisen, oder bei intensiver Immunsuppression.
+- *DGIM Klug entscheiden*:: Eine [[cCT]]-Untersuchung vor der Lumbalpunktion bei Verdacht auf bakterielle [[Meningitis]] soll nicht erfolgen – außer bei Symptomen, die auf einen erhöhten Hirndruck oder eine Herdpathologie hinweisen, oder bei intensiver [[Immunsuppression]].

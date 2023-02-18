@@ -4,4 +4,4 @@ title: Aortenaneurysma
 ---
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Für über 65 Jahre alte Männer soll ein Screening auf Bauchaortenaneurysma mittels Ultraschall erfolgen.
+- *DGIM Klug entscheiden*:: Für über 65 Jahre alte Männer soll ein Screening auf Bauchaortenaneurysma mittels [[Sonographie]] erfolgen.

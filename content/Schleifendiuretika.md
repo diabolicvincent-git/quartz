@@ -23,4 +23,4 @@ title: Schleifendiuretika
 	- Allergie gegen Sulfonamide
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Die Gabe von Schleifendiuretika beim oligoanurischen Patienten mit ANV soll nicht erfolgen.
+- *DGIM Klug entscheiden*:: Die Gabe von Schleifendiuretika beim oligoanurischen Patienten mit [[Nierenversagen]] soll nicht erfolgen.

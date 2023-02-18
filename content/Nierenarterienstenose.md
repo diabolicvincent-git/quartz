@@ -24,4 +24,4 @@ title: Nierenarterienstenose
 		- [[Calciumantagonisten]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Eine Angioplastie einer unkomplizierten Nierenarterienstenose bei gut einstellbarem Blutdruck soll nicht durchgeführt werden.
+- *DGIM Klug entscheiden*:: Eine Angioplastie einer unkomplizierten Nierenarterienstenose bei gut einstellbarem [[Blutdruck]] soll nicht durchgeführt werden.
