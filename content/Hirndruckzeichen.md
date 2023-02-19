@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Hirndruckzeichen
 ---
-### Hirndruckzeichen
 > Apnoe ([[Medulla oblongata]]), [[Cornealreflex]]↓ ([[Pons]]), [[Pupillenreflex]]↓ ([[Mesencephalon]])
 - **Symptome**
 	- [[Kopfschmerzen]], Übelkeit/Erbrechen

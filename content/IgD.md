@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie]
 title: IgD
 ---
-### IgD
 - **H-Kette**:: δ 
 - **Struktur**:: Monomer
 - **Vorkommen**:: [[Blut]]

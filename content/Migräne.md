@@ -2,18 +2,17 @@
 tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Migräne
 ---
-### Migräne
 - **Epidemiologie**:: [[W]] > [[M]], Erstmanifestation 15-25 Jahre
-- **Ätiologie**:: Genetische Disposition + Triggerfaktoren (u.a. Klima, Noxen, Z.n. [[Stress]], [[Menstruation]])
+- **Ätiologie**:: Genetische Disposition + Triggerfaktoren (u.a. Klima, Noxen, [[Schlaf]], [[Stress]], [[Menstruation]])
 - **Symptome**
-	- **Prodromi**:: Stimmung↑↓, Appetit↑↓, Gähnen, Erschöpfung, Polyurie, Polydipsie
-	- **[[Kopfschmerzen]]**:: i.d.R. einseitig, frontal/temporal/retroorbital, langsam zunehmend, hämmernd
-	- **Begleitend**:: Photophobie, Phonophobie, Übelkeit, verstärkt durch körperliche Aktivität
-	- **Migräne mit Aura**:: Anfallsweise reversible fokal-neurologische Symptome <60min Dauer (Flimmerskotom, Lichtblitze, Parästhesien, [[Aphasie]] u.a.)
-- **Therapie (akut)**
-	- **Allgemein**:: Reizmeidung, Bettruhe, ggf. [[Antiemetika]] (z.B. [[MCP]])
-	- **Leicht bis mittel**:: [[NSAR]] (==[[ASS]]== > [[Ibuprofen]])
-	- **Mittel bis schwer**:: ==[[Triptane]]== (Sumatriptan)
-- **Prävention**
-	- **Nichtmedikamentös**:: Stressredukation, Ausdauersport, Muskelrelaxation n. Jacobson, Biofeedback-Training, Akupunktur(?), Neuraltherapie(?)
-	- **Medikamentös**:: ==[[β-Blocker]] (insb. Metoprolol, Propranolol)==, Flunarizin, Topiramat, Valproat, Amitriptylin, CGRP-Antikörper
+	- *Prodromi (⅓)*:: Stimmung↑↓, Appetit↑↓, Gähnen, Erschöpfung, Polyurie, Polydipsie
+	- *[[Kopfschmerzen]]*:: i.d.R. einseitig, frontal/temporal/retroorbital, langsam zunehmend, hämmernd, 4-72h
+	- *Begleitend*:: ==Photophobie==, Phonophobie, ==Übelkeit==, Erbrechen
+	- *Aura*:: Anfallsweise reversible fokal-neurologische Symptome <1h Dauer (==Flimmerskotom==, Lichtblitze, Parästhesien, [[Gesichtsfeldausfall]], [[Aphasie]] u.a.)
+	- *Sonderform*:: Vestibuläre Migräne
+- **Diagnostik**:: [[Anamnese]] (≥5 typische Attacken), Ausschlussdiagnostik
+- **DD**:: [[Spannungskopfschmerz]], [[Cluster-Kopfschmerz]], Medikamenteninduzierter Kopfschmerz
+- **Therapie**:: Reizmeidung, Bettruhe, ==[[NSAR]]== ([[ASS]]>[[Ibuprofen]]), ggf. ==[[Triptane]]==, ggf. [[Antiemetika]] ([[MCP]]
+- **Prävention**:: Stress↓, Ausdauersport, ==[[β-Blocker]] ([[Metoprolol]]/[[Propranolol]])==, Flunarizin, Topiramat, Valproat, Amitriptylin, ggf. CGRP-Antikörper
+---
+![[Pasted image 20230218121747.png]]

@@ -2,7 +2,7 @@
 tags: [Modul/m19, Modul/m22, Fach/Gastroenterologie, Fach/Urologie]
 title: DRU
 ---
-### Digital-rektale Untersuchung / DRU
+> (Abstract::**Digital-rektale Untersuchung.**)
 - **Normalbefund**:: Prall-elastische, kastaniengroße, schmerzfreie [[Prostata]]
 - **Durchführung**
 - **Pathologien**

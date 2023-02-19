@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: eFAST
 ---
-### eFAST
 > [[Notfallsonographie]] bei Trauma
 1. **Subxiphoidal** ([[Herz]])
 	- Perikarderguss (Echofreier Randsaum um Herzkammern)

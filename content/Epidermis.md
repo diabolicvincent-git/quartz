@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Histologie]
 title: Epidermis
 ---
-### Epidermis
 > Mehrschichtiges, verhorntes Plattenepithel, v.a. *Keratinocyten*
 - **Stratum corneum**:: Verhornte, avitale Zellen ohne Zellkern (= Corneocyten)
 - **Stratum lucidum**:: Nur in Leistenhaut; stark lichtbrechend

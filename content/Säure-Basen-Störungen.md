@@ -2,7 +2,6 @@
 tags: [Modul/m14, Modul/m13, Fach/Physiologie, Fach/Nephrologie, Fach/Kardiologie]
 title: Säure-Basen-Störungen
 ---
-### Säure-Basen-Störungen
 > Einteilung je in respiratorische und metabolische Störungen. Kompensation erfolgt über das nicht betroffene System
 - **Einteilung**
 	- **[[Azidose]]**

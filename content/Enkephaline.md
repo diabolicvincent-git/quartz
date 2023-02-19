@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Anästhesie, Fach/Biochemie/Molekül, Fach/Neurologie, Fach/Physiologie]
 title: Enkephaline
 ---
-### Enkephaline
 > Endogene [[Analgetika]]
 - **Wirkung**:: Bindung an Opioidrezeptoren (v.a. DOP) → zentrale und periphere Schmerztransmission↓ 
 - **Struktur**:: Pentapeptide

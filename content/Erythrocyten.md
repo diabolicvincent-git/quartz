@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Histologie/Zelle]
 title: Erythrocyten
 ---
-### Erythrocyten
 - **Funktion**
 	- [[Gastransport]]
 	- Aktivierung der [[Hämostase]]

@@ -2,7 +2,6 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie]
 title: Gerinnungsdiagnostik
 ---
-### Gerinnungsdiagnostik 
 - **Allgemein**
 	- **Fibrinogen**
 	- **Antithrombin III**

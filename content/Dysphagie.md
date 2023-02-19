@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie]
 title: Dysphagie
 ---
-### Dysphagie
 - **[[Inzidenz]]**
     - 7% Gesamtdeutschland
     - 50% der Altenheimbewohner

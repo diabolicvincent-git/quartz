@@ -6,7 +6,7 @@ title: Labor
 - **Allgemeines**
 	- **[[Säure-Basen-Haushalt]]**:: [[Base Excess]], [[HCO3-]], [[pH]]
 	- **[[Elektrolyte]]**:: [[Cl-]], [[HCO3-]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]]
-	- **[[BGA]]**:: [[pCO2]], [[pO2]]
+	- **[[Blutgase]]**:: [[pCO2]], [[pO2]]
 	- **[[Entzündung]]**:: [[Akute-Phase-Proteine]], [[CRP]], [[PCT]]
 - **Hämatologie**
 	- **[[Blutbild]]**

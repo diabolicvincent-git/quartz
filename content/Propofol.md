@@ -4,7 +4,7 @@ title: Propofol
 ---
 ### Propofol
 > [[Narkotika]] (kurz wirksam, ca. 5 min)
-- **Indikation**:: Allgemeinanästhesie, Sedierung (vor Eingriff, bei [[Beatmung]])
+- **Indikation**:: Allgemeinanästhesie, [[Sedierung]] (vor Eingriff, bei [[Beatmung]])
 - **Wirkmechanismus**:: Bindung an GABA-A-Rezeptor, Induktion von α-Wellen
 - **[[UAW]]**:: [[Anaphylaxie]], [[Hypotonie]], Atemdepression
 	- ==Propofol-Infusions-Syndrom==

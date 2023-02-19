@@ -51,7 +51,7 @@ title: Amyotrophe Lateralsklerose
 ### Labor
 - **Biomarker** *Neurofilament-leichte-Kette (NF-L)* spurenweise im Serum[^1]
 ### Weitere Diagnostik
-- **EMG**:: Bestätigung der Denervierung ("Riesenpotentiale")
+- **[[EMG]]**:: Bestätigung der Denervierung ("Riesenpotentiale")
 - **ENG**:: Ausschluss anderer Neuropathien
 - **[[MRT]]**:: Ausschluss [[Spinalkanalstenose]], [[Cerebrale Ischämie]] o.ä.
 - **[[Liquor]]**:: Leicht erhöhtes Gesamtprotein (Ausschluss DD entzündlich)

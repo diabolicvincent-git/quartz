@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Toxikologie]
 title: Drogenintoxikation
 ---
-### Drogenintoxikation
 Substanz|[[Pupillenreflex]]|[[RR]]|[[HF]]|Weitere Symptome
 -|-|-|-|-
 [[Opioide]]|[[Miosis]]|[[Hypotonie]]|[[Bradykardie]]|Atemdepression, [[Reflex]]↓

@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Dura mater
 ---
-### Dura mater / Harte Hirnhaut
+> (Abstract::**Harte Hirnhaut.**)
 - **Stratum periostale**:: Äußeres Durablatt
 	- Im [[Gehirn]]: Unmittelbar als Periost mit dem [[Schädel]][[Knochen]] verwachsen
 	- Im [[Rückenmark]]: Physiologischer *[[Epiduralraum]]* (Verschiebefähigkeit)

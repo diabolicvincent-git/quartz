@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Familiäres Mittelmeerfieber
 ---
-### Familiäres Mittelmeerfieber
 > Autosomal-rezessive [[Inflammasomopathie]]
 - **Typische Attacken** 12-72 h
 	- *Fieberschübe* >38 °C

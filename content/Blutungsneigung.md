@@ -85,7 +85,7 @@ title: Blutungsneigung
 - **Einteilung**
 	- **Thrombocytäre Störungen** → Störung der [[Primäre Hämostase]]
 		- [[Thrombopenie]]
-			- [[Idiopathische Thrombocytopene Purpura]]
+			- [[ITP]]
 			- [[Thrombotische Mikroangiopathie]]
 		-  [[Thrombocytopathie]]
 	- **Plasmatische Störungen** (Faktormangel) → Störung der [[Sekundäre Hämostase]]

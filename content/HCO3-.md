@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie]
 title: HCO3-
 ---
-### Bicarbonat / HCO3-
+> (Abstract::**Bicarbonat.**)
 - Ca. 50% der Gesamtpufferkapazität des Bluts
 - $H₂0 + CO₂ ⇄ H₂CO₃ (≈ HCO₃^{-} + H^{+})$ via *Carboanhydrase*
 - **Funktion**:: Pufferung des Blut-[[pH]] durch gelöstes CO2, was bedarfsgerecht abgeatmet werden kann

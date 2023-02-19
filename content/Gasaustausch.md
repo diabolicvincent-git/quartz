@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Physiologie]
 title: Gasaustausch
 ---
-### Gasaustausch 
 > Diffusion der Atemgase durch die *[[Blut-Luft-Schranke]]* und An-/Abtransport mit dem [[Blut]]
 - **Ziel**
 	- *Oxygenierung* ([[O2]]-Aufnahme)

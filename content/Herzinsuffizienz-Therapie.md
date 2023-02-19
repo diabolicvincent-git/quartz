@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Art/Intervention]
 title: Herzinsuffizienz-Therapie
 ---
-### Medikamentöse [[Herzinsuffizienz]]-Therapie
 > Allgemeine und invasive Therapie siehe **[[Herzinsuffizienz]]**
 
 Medikament je [[NYHA]]-Stadium|I|II|III|IV|Anmerkungen

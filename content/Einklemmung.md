@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Neurologie, Art/Pathologie]
 title: Einklemmung
 ---
-### Cerebrale Einklemmung
 > **[[Hirndruckzeichen]]** bei Einklemmung von [[Diencephalon]] und [[Hirnstamm]]
 - **Einteilung**
 	- *Obere Einklemmung* von [[Diencephalon]] und [[Mesencephalon]] im Tentoriumschlitz

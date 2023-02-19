@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Pädiatrie, Art/Intervention]
 title: Kindervorsorgeuntersuchung
 ---
-> **U1** direkt, **U2** 1. Woche, **U3** 1. Monat, **U4** 1. Quartal, **U5** ½ Jahr, **U6** 1. Jahr, <br>**U7, U7a, U8, U9** jedes Jahr, **J1** Pubertät
+> **[[U1]]** direkt, **[[U2]]** 1. Woche, **[[U3]]** 1. Monat, **[[U4]]** 1. Quartal, **[[U5]]** ½ Jahr, **[[U6]]** 1. Jahr, <br>**[[U7]], [[U7a]], [[U8]], [[U9]]** jedes Jahr, **[[J1]]** Pubertät
 
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS U, Abstract, Diagnostik, Therapie, Entwicklung

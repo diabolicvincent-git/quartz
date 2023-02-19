@@ -2,7 +2,6 @@
 tags: [Modul/m13, Modul/m16, Modul/m17, Fach/Neurologie, Art/Pathologie]
 title: Dysarthrie
 ---
-### Dysarthrie
 > Neurogene Sprachstörung bei erhaltenem Sprachvermögen
 
 | Form                                             | Beispiel                                         | Sprechatmung                                                                    | Stimme                                                                                                                | Artikulation                                                                                   | Prosodie                                                                                                                                                        |

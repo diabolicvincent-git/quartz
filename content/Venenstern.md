@@ -8,5 +8,5 @@ title: Venenstern
 	- V. epigastrica
 	- V. circumflexa ilium superficialis
 	- Vv. pudendae externae
-	- V. saphena magna und Vv. saphenae accessoriae
+	- [[V. saphena magna]] und Vv. saphenae accessoriae
 	- V. femoralis (wird zu V. iliaca externa)

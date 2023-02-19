@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie]
 title: Endosymbiontentheorie
 ---
-### Endosymbiontentheorie 
 > Aufnahme (Phagocytose) von [[Zellen]] ([[Mitochondrien]]/Plastide) durch andere→ Entwicklung einer ==obligaten Endosymbiose==
 
 - **Belege**:: Gemeinsamkeiten zw. [[Mitochondrien]] / Plastiden und [[Bakterien]][^1]

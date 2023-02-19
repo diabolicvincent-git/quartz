@@ -2,7 +2,6 @@
 tags: [Modul/m03, Modul/m18, Fach/Genetik]
 title: Gentransfer
 ---
-### Gentransfer
 - **Verikaler Gentransfer**
 - **Horizontaler Gentransfer**
 	- **Transformation**:: Aufnahme freier [[DNA]]

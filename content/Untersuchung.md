@@ -17,7 +17,7 @@ title: Untersuchung
 5. **Abdomen**
 	- [[Untersuchung Abdomen]]
 	- [[Gynäkologische Untersuchung]]
-- **Normalbefund**:: Guter Allgemeinzustand und eutropher Ernährungszustand, wach, 4x orientiert und kooperativ.Keine Ruhedyspnoe.  
+- **Normalbefund**:: Guter Allgemeinzustand und eutropher [[Ernährungszustand]], wach, 4x orientiert und kooperativ.Keine Ruhedyspnoe.  
 	- Kopf/Hals: Keine obere Einflussstauung, Schleimhäute rosig und feucht, nicht belegt. Keine Zyanose.  
 	- Haut: Intakt, Turgor normal, kein Ikterus, keine Zyanose.  
 	- Cor: Herztöne rhythmisch, rein, keine pathologischen Herzgeräusche auskultierbar.  

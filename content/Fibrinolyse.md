@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Fibrinolyse
 ---
-### Fibrinolyse
 - **Funktion**:: Verhindert unnötige Fibrinbildung, Abbau alter Thromben
 - **Ablauf**
     1. ==Aktivierung Plasminogen → *Plasmin*==

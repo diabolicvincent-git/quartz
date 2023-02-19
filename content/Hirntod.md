@@ -2,8 +2,7 @@
 tags: [Modul/m15, Modul/m21, Fach/Anästhesie, Art/Intervention, Fach/Neurologie]
 title: Hirntod
 ---
-### Irreversibler Hirnfunktionsausfall / Hirntod
-> Folgt auf "Herztod" oder im [[ITS]]-Setting mit [[Herz]]-Kreislaufunterstützung
+> (Abstract::**Irreversibler Hirnfunktionsausfall.** Folgt auf "Herztod" oder im [[ITS]]-Setting mit [[Herz]]-Kreislaufunterstützung.)
 - **Diagnostik**
 	- **Voraussetzungen**:: Nachweis aktuer Hirnschädigung + Ausschluss reversibler Ursachen
 	- **Symptome** (alle obligat)

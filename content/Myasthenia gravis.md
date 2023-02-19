@@ -15,10 +15,10 @@ title: Myasthenia gravis
 	- **Untersuchung**:: Halteversuch, *Simpson-Test*[^1], ==*Tensilon-Test*==[^3], *Ice-Pack-Test*[^4]
 	- **Serologie**:: Anti-[[ACh]]-[[Rezeptor]]- oder MuSK[^2]-[[Antikörper]]
 	- **Elektrophysiologie**:: [[EMG]], [[MEP]] (*Dekrement*↘)
-	- **DD [[Paraneoplastisches Syndrom]] bei Thymom**:: Thymusveränderungen in [[CT]]/[[MRT]] (15%)
+	- **DD [[Paraneoplastisches Syndrom]] bei [[Thymom]]**:: Thymusveränderungen in [[CT]]/[[MRT]] (15%)
 - **Therapie**
 	- [[Cholinesterase-Hemmer]] (z.B. Pyridostigmin) + [[Glucocorticoide]], [[Immunsuppression]], [[Azathioprin]] + Immunglobuline + ggf. Plasmapherese
-	- Thymektomie (bei Thymom-Nachweis)
+	- Thymektomie (bei [[Thymom]]-Nachweis)
 
 ## DD Muskelschwäche
 - Systemische Schädigung des 1. Motoneuron → [[Amyotrophe Lateralsklerose]]

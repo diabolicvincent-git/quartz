@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie]
 title: IgA
 ---
-### IgA
 - **H-Kette**:: α
 - **Struktur/Vorkommen**:: Monomer (Sekret/Mucosa), Dimer ([[Blut]])
 - **HWZ**:: 6 d

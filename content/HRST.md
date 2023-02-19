@@ -18,6 +18,6 @@ title: HRST
 	- ==[[EKG]]== (Ruhe-, Langzeit-, Belastung-)
 	- Echokardiographie
 - **Therapie**
-	- **Allgemein**:: [[Valsalva]], Carotisdruck, Sedierung, [[O2]]-Gabe
+	- **Allgemein**:: [[Valsalva]], Carotisdruck, [[Sedierung]], [[O2]]-Gabe
 	- **Medikamentös**:: [[Antiarrhythmika]]
 	- **Elektrotherapie**:: Pacing, [[Schrittmacher]], [[ICD]], [[Kardioversion]]

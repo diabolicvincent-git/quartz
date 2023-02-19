@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Anästhesie, Art/Intervention]
 title: "Head'sche Zonen"
 ---
-### Head'sche Zonen
 > [[Schmerz]]übertragung von Organ auf bestimmte [[Dermatome]]
 - **[[Diaphragma]]**:: [[Schulter]] (C4)
 - **[[Herz]]**:: Linker Thorax (Th3-4)

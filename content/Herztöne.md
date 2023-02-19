@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Herztöne
 ---
-### Herztöne 
 1. **Erster Herzton**:: Wandanspannung, Schluss AV-Klappen ([[Systole]] [[Anspannungsphase]])
 2. **Zweiter Herzton**:: Schluss [[Taschenklappen]] ([[Diastole]] [[Entspannungsphase]])
 

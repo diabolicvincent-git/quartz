@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie]
 title: Hoden
 ---
-### Hoden / Testis
+> (Abstract::**Testis.**)
 - **Funktion**:: [[Spermatogenese]], [[Androgene]]synthese
 - **Aufbau**
 - **Histologie**

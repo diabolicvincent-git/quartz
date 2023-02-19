@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie]
 title: IgG
 ---
-### IgG
 - **H-Kette**:: γ 
 - **Struktur**:: Monomer
 - **Vorkommen**:: [[Blut]], B-Zell-Rezeptor

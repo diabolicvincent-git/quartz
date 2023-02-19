@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie]
 title: Gallensäuren
 ---
-### Gallensäuren
 > ==Amphiphile== Bestandteile der **[[Galle]]** zur ==Micellen-Bildung==
 - **Einteilung**
 	- **Primäre Gallensäuren**:: Synthese in der [[Leber]] (z.B. Cholsäure)

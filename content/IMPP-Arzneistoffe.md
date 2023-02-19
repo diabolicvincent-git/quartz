@@ -219,10 +219,10 @@ title: IMPP-Arzneistoffe
 	- **Stickoxide**:: N2O / Lachgas
 
 ### m[[GPCR]]-Antagonisierung
-- **D2-[[DOPamin]]-mGPCR-Antagonisten**:: Haloperidol (Typische Antipsychotika)
+- **D2-[[DOPamin]]-mGPCR-Antagonisten**:: Haloperidol ([[Typische Antipsychotika]])
 - **Pleiotrope mGPCR-Antagonisten**
-	- **Typische Antipsychotika**:: Melperon, Pipamperon, Promethazin
-	- **Atypische Antipsychotika**:: Clozapin, Olanzapin, Quetiapin, Risperidon
+	- **[[Typische Antipsychotika]]**:: Melperon, Pipamperon, Promethazin
+	- **[[Atypische Antipsychotika]]**:: [[Clozapin]], Olanzapin, Quetiapin, Risperidon
 	- **Anxiolytika**:: Opipramol
 
 ### [[Noradrenalin]]-/[[Serotonin]]-Verstärkung

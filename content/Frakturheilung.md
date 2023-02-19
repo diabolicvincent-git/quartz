@@ -2,7 +2,6 @@
 tags: [Modul/m05, Modul/m10, Modul/m27, Fach/Orthopädie]
 title: Frakturheilung
 ---
-### Frakturheilung
 - **Primäre Frakturheilung**
 	- **Bedingung**:: Optimale Adaption der Frakturenden
 	- Direkte Bildung von Lamellenknochen im Spalt

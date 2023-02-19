@@ -2,8 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Infarktlokalisation
 ---
-### Infarktlokalisation
-> Korrelate des [[OMI]] in jeweiligen [[EKG]]-Ableitungen
+> Korrelate des [[Myokardinfarkt]] in jeweiligen [[EKG]]-Ableitungen
 - **==Vorderwandinfarkt ([[RIVA]])==**:: I, aVL, V1-V6
 - **==Hinterwandinfarkt ([[RCX]], [[RCA]])==**:: II, III, aVF
 

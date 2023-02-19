@@ -2,7 +2,6 @@
 tags: [Modul/m05, Modul/m10, Fach/Orthopädie, Art/Pathologie, Modul/m27]
 title: Fraktur
 ---
-### Fraktur
 - **Ätiologie**
     - *Traumatisch:* Stoßartige Belastung
     - *Ermüdungsfraktur:* Dauerüberlastung

@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Gastroenterologie]
 title: Galle
 ---
-### Galle
 > Zäh, leicht alkalisch, gelblich-grün
 - **Funktion**
 	- *Neutralisierung* des sauren Verdauungsbreis

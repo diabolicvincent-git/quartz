@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Anatomie]
 title: Geschlechtsorgane
 ---
-### Geschlechtsorgane
 > Primäre [[Geschlechtsmerkmale]] → zur Reproduktion
 - **[[M]]**
 	- **Äußere Geschlechtsorgane**:: [[Penis]], Skrotum

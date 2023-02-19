@@ -2,7 +2,7 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: G6PD-Mangel
 ---
-### Glucose-6-phosphat-Dehydrogenase Mangel / G6PD-Mangel / Favismus 
+> (Abstract::**Glucose-6-phosphat-Dehydrogenase Mangel / Favismus.**)
 - **Epidemiologie**:: Weltweit ~400 Mio. (Selektionsvorteil: [[Malaria]]-Resistenz)
 - **Ätiologie**
 	- **Trigger hämolytischer Krisen**:: Medikamente (z.B. Cotrimoxazol, [[ASS]]), Favabohnen ([[ROS]]↑)

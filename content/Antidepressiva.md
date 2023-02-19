@@ -4,7 +4,7 @@ title: Antidepressiva
 ---
 - **Wirkung**
 	1. Immer *Affektaufhellung* (erst nach 1-2 Wochen → ==initial Suizidgefahr↑==[^1])
-	2. *Sedierung* oder *Antriebssteigerung*
+	2. *[[Sedierung]]* oder *Antriebssteigerung*
 	3. Fakultativ *Anxiolyse*
 - **Indikation**
 	- *[[Depression]]*:: Nach [[UAW]]-Profil
@@ -17,7 +17,7 @@ title: Antidepressiva
 	2. H1-[[Histamin]]-[[Rezeptor]]-Antagonismus ([[Sedierung]]) oder [[Noradrenalin]]↑ durch Reuptake-Inhibition (Antrieb↑)
 	3. [[Serotonin]]↑
 - **[[UAW]]**
-	- Sedierung, [[Sexualstörung]], Gewichtszunahme, Übelkeit, Krampfschwelle↓ 
+	- [[Sedierung]], [[Sexualstörung]], Gewichtszunahme, Übelkeit, Krampfschwelle↓ 
 	- ==[[Serotonerges Syndrom]]== (bei Kombitherapie, Interaktion oder [[Intoxikation]])
 - **Wirkstoffe**
 	- [[Tricyclische Antidepressiva]] / NSMRI

@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Labor, Art/Intervention/Diagnostik, Fach/Physiologie]
 title: GFR
 ---
-### Glomeruläre Filtrationsrate / GFR
-> Plasmamenge, die von allen Glomeruli pro Minute filtriert wird [ml/min]
+> (Abstract::**Glomeruläre Filtrationsrate.** Plasmamenge, die von allen Glomeruli pro Minute filtriert wird [ml/min].)
 - **Normwert**:: Ca. 120 ml/min/1,73m2 = 180 L/d
 - **Berechnung** (eGFR)
 	- *[[CKD-EPI]]*

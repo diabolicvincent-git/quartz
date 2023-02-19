@@ -2,12 +2,14 @@
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Neurologie, Art/Pathologie]
 title: Gesichtsfeldausfall
 ---
-### Gesichtsfeldausfall / Skotom
-- **Einseitige Skotome** → Pathologie vor dem Chiasma opticum
+> (Abstract::**Skotom.** Sehverlust in umschriebenem Areal.)
+- **Einseitige Skotome** → Pathologie vor [[Chiasma opticum]]
 	- *Amaurose*
-- **Beidseitige Skotome** → Pathologie am Chiasma opticum oder dahinter
-	- *Bitemporale Hemianopsie* (Chiasma opticum, z.B. [[Hypophysenadenom]])
-	- *Blinder Fleck* (physiologisch)
+	- *Zentralskotom* im Bereich [[Fovea centralis]] ([[Optikusneuritis]])
+- **Beidseitige Skotome** → Pathologie an/hinter [[Chiasma opticum]] 
+	- *Bitemporale Hemianopsie* wie "Scheuklappen"(z.B. [[Hypophysenadenom]])
+	- *Blinder Fleck* an Papilla nervi optici (physiologisch)
+	- *Flimmerskotom* ([[Migräne]])
 
 
 ## Ausgewählte Skotome

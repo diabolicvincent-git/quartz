@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Physiologie, Fach/Biochemie/Molekül]
 title: GH
 ---
-### Wachstumshormon / Growth Hormone / GH / Somatotropin
+> (Abstract::**Wachstumshormon / Growth Hormone / Somatotropin.**)
 - **Wirkung**
 	- *Körperwachstum↑:* Muskelmasse↑, Gewicht↑, Knochenwachstum, EZM↑ 
 	- *[[Stoffwechsel]]:* Lipolyse↑, Blutglucose↑, Proteinsynthese↑ 

@@ -2,7 +2,6 @@
 tags: [Modul/m11, Modul/m12, Fach/Kardiologie, Art/Pathologie]
 title: Dyslipidämie
 ---
-### Dyslipidämie
 - **Ätiologie**
 	- *Primär:* Hereditäre [[Stoffwechseldefekte]]
 	- *Sekundär:* Folge u.g. Ursachen, insb. [[Metabolisches Syndrom]]

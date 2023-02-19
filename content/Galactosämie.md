@@ -2,7 +2,6 @@
 tags: [Modul/m02, Fach/Genetik]
 title: Galactosämie
 ---
-### Galactosämie 
 - **Pathophysiologie**
 	- Defekt der ==Galactose-1-phosphat-Uridyltransferase== (Galactose-1-phosphat → UDP-[[Glucose]] → Glucose-1-phosphat → UDP-Galactose)
 	- Akkumulation von Galactose-1-phosphat in [[Blut]] und Urin → Schädigung von [[Leber]], [[Niere]], [[ZNS]] und Augenlinsen

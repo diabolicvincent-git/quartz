@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Fach/Anatomie, Fach/Physiologie]
 title: Innenohr
 ---
-### Innenohr 
 - **Funktion**:: Hörorgan ([[Auditives System]]) und Gleichgewichtsorgan ([[Vestibuläres System]])
 - **Lage**:: Labyrinthiges Kanalsystem im *Pars petrosa ossis temporalis*
 - **Einteilung**
@@ -11,10 +10,7 @@ title: Innenohr
 - **[[Innenohrflüssigkeiten]]**:: [[Endolymphe]] ([[K+]]↑) und [[Perilymphe]] ([[K+]]↓)
 
 ## Cochleäres Labyrinth
-![[Cochlea]]
+[[Cochlea]]
 
 ## Vestibuläres Labyrinth
-![[Vestibuläres System]]
-
-## [[Innenohrflüssigkeiten]]
-![[Innenohrflüssigkeiten]]
+[[Vestibuläres System]]

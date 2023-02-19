@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: EKG-Checkliste
 ---
-### EKG-Checkliste
 1. **Kontext**
 	- Alter, Vorerkrankungen, Pacer?
 	- Aktuelle Symptome

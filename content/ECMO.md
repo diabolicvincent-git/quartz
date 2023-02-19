@@ -2,7 +2,7 @@
 tags: [Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention]
 title: ECMO
 ---
-### Extrakorporale Membranoxygenierung / ECMO
+> (Abstract::**Extrakorporale Membranoxygenierung.**
 - **Indikation**:: Schweres therapierefraktäres respiratorisches ([[vvECMO]]) und/oder kardiales ([[vaECMO]]) Versagen
 - **Komplikationen**
 	- *[[Blutungsneigung]]:* Antikoagulation, Faktor-Verbrauch, [[Thrombocytopathie]] 

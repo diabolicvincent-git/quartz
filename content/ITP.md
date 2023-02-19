@@ -1,8 +1,8 @@
 ---
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
-title: Idiopathische Thrombocytopene Purpura
+title: ITP
 ---
-### Idiopathische Thrombocytopene [[Purpura]] / ITP 
+> (Abstract::**Idiopathische Thrombocytopene [[Purpura]].**)
 - **Epidemiologie**:: 1:10.000 / Jahr
 	- 50% Kinder, v.a. akute Form Z.n. Virusinfekt/[[Impfung]]
 	- 50% Erwachsene 30-60 J., [[M]]<[[W]], 90% Chronische ITP

@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Erregungsbildungs- und Erregungsleitungssystem
 ---
-### Erregungsbildungs- und Erregungsleitungssystem 
 - **[[Sinusknoten]]**
 - **[[AV-Knoten]]**
 - **[[His-Bündel]]**

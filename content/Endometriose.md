@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Onkologie, Art/Pathologie]
 title: Endometriose
 ---
-### Endometriose
 > Vorkommen von Endometrium-Zellen außerhalb der [[Uterus]]schleimhaut
 - **Epidemiologie**:: 2-10%; 20.-40. LJ
 - **Ätiologie**

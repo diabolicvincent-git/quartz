@@ -2,7 +2,7 @@
 tags: [Modul/m27, Fach/Anatomie, Fach/Orthopädie]
 title: Fußwurzel
 ---
-### Fußwurzel / Tarsus
+> (Abstract::**Tarsus.**)
 - **Proximaler Tarsus** (proximal → distal)
 	- *Talus / Sprungbein*
 	- *Calcaneus / Fersenbein*

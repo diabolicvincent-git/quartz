@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: Evozierte Potentiale
 ---
-### Evozierte Potenziale
 - **Visuell (VEP)**
 	- Lichtimpulse, Schachbrettmuster
 	- **Pathologie**:: Demyelinisierung (z.B. [[Optikusneuritis]] bei [[Multiple Sklerose]])

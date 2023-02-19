@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Kardiologie, Art/Pathologie]
 title: Einflussstauung
 ---
-### Einflussstauung
 > Behinderung des venösen Rückstroms zum [[Herz]]
 - **Ätiologie**
 	- [[Venen]]-Obstruktion (z.B. [[Thrombose]], Kompression durch [[Pneumothorax]])

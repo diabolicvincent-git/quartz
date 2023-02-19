@@ -19,4 +19,4 @@ title: Maligne Hyperthermie
 - **Therapie**
 	- *Trigger beenden:* ggf. Umstellung auf TIVA mit Propofol
 	- *[[Beatmung]]:* Massive Hyperventilation (Atemminutenvolumen x 3-4), [[FiO2]] 100%
-	- *Kausal:* ==Dantrolen== 2,5 mg/kg [[i.v.]]
+	- *Kausal:* ==[[Dantrolen]]== 2,5 mg/kg [[i.v.]]

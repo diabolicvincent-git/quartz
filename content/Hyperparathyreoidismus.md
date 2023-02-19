@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Endokrinologie, Art/Pathologie]
 title: Hyperparathyreoidismus
 ---
-#### Hyperparathyreoidismus / Nebenschilddrüsenüberfunktion
-> [[PTH]]↑↑
+> (Abstract::**Nebenschilddrüsenüberfunktion.** [[PTH]]↑↑.)
 - **Ätiologie**
 	- *Primär:* Überfunktion der [[Nebenschilddrüse]] (oft Adenom) → autonom [[PTH]]↑
 	- *Sekundär:* [[Ca2+]]↓ ([[Vitamin D (Calciferol)]] Mangel, ==[[CKD]]==, [[Leberzirrhose]]) → [[PTH]]↑

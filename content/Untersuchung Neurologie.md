@@ -11,7 +11,7 @@ title: Untersuchung Neurologie
 - **Psychopathologie und Neuropsychologie**:: Wacher, zu Zeit, Ort, Situation und eigenen Personen voll orientierter Patient mit adäquatem und lebhaften modulierten Affekt und physiologischem Antrieb. Kein Anhalt für inhaltliche oder formale Denkstörungen. Der Patient befolgt aufmerksam und konzentriert den Gang des Anamnesegespräches und der Untersuchung. Störungen der Merkfähgikeit oder des Altgedächtnisses lassen sich nicht nachweisen. Spontansprache, Schriftsprache, Nachsprechen und Bennen sind ebenso wie die Wortfindung im Gespräch völlig ungestört. Kein Anhalt für apraktische Störungen.
 ## Koma-Alarm CVK
 > **Frage**:: ==Fokale Auffälligkeit?==
-- Intubiert, Spontanatmung, Sedierung?
+- Intubiert, Spontanatmung, [[Sedierung]]?
 - [[GCS]]
 - [[Meningismus]]
 - [[Pupillenreflex]], Bulbusstellung, Herdblick

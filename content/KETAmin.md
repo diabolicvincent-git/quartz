@@ -6,7 +6,7 @@ title: KETAmin
 - **Wirkmechanismus**:: Nicht-kompetitive Hemmung von NMDA-Rezeptoren u.a.[^2]
 - **Indikation**
 	- Allgemeinanästhesie, [[Analgosedierung]]/[[Analgesie]]
-	- Status asthmaticus, Neuroprotektion
+	- [[Status asthmaticus]], Neuroprotektion
 - **[[UAW]]**:: Albträume, Halluzinationen[^1], Tachykardie/[[Hypertonie]] (+20%), Salivation↑, Muskeltonus↑
 - **KI** 
 	- **Absolut**:: Allergie, [[Hypertonie]] [[RR]]>180/100, (Prä-)Eklampsie, unbehandelte [[Hyperthyreose]]

@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Embryologie]
 title: Geschlechtsentwicklung
 ---
-#### [[Geschlecht]]sentwicklung
 - **Keimdrüsen**
 	1. **Indifferent**:: Urkeimzellen → Genitalleisten → Gonadenanlage ([[SSW]] 6)
 	2. **Differenziert**:: Determiniert durch ==[[SRY]]==

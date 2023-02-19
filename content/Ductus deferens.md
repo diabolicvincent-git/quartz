@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie]
 title: Ductus deferens
 ---
-### Ductus deferens / Samenleiter
+> (Abstract::**Samenleiter.**)
 - **Verlauf**
 	1. *Pars epididymica:* Abgang vom [[Nebenhoden]]
 	2. *Pars funiculi spermatici:* Verlauf im [[Samenstrang]]

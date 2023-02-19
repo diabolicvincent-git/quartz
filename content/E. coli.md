@@ -2,8 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: E. coli
 ---
-### Escherichia coli
-> [[gramnegativ]] > Stäbchen > [[Enterobakterien]] > [[E. coli]]
+> (Abstract::**Escherichia coli.** [[gramnegativ]] > Stäbchen > [[Enterobakterien]] > [[E. coli]])
 - **Übertragung**:: Schmierinfektion, fäkal-oral
 - **Varianten**
 	- *Fakultativ pathogene Stämme* → [[Sepsis]], [[Meningitis]], [[Pneumonie]], [[HWI]]

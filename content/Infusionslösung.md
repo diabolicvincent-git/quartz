@@ -2,7 +2,6 @@
 tags: [Modul/m14, Art/Intervention, Fach/Nephrologie, Fach/Pharmakologie]
 title: Infusionslösung
 ---
-#### Infusionslösung
 - **[[Kristalloide]]**
 - **Kolloide**
 	- Humanalbumin

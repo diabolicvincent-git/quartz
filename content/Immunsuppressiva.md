@@ -2,7 +2,6 @@
 tags: [Modul/m26, Modul/m17, Fach/Pharmakologie/Medikament]
 title: Immunsuppressiva
 ---
-### Immunsuppressiva
 > Medikamentenspiegel komplett patientenabhängig!
 - **Wirkstoffe**
 	- **Calcineurin-Inhibitoren**

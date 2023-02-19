@@ -20,7 +20,7 @@ title: Sonographie
 	- Sonographie Leber, Sonographie Gallenblase
 	- Sonographie Pankreas
 	- Sonographie Milz
-	- Sonographie Gefäße
+	- Sonographie [[Gefäße]]
 	- Sonographie Herz / Echokardiographie
 	- [[Notfallsonographie]]
 - **Unterformen**

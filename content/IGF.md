@@ -2,7 +2,7 @@
 tags: [Modul/m04, Modul/m22, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: IGF
 ---
-### Insulin-like Growth Factor / IGF
+> (Abstract::**Insulin-like Growth Factor.**)
 - **Wirkung**:: Zellteilung↑, Längenwachstum [[Knochen]]
 - **Wirkmechanismus**:: [[Rezeptor-Tyrosinkinasen]]
 - **Synthese**:: [[Leber]]

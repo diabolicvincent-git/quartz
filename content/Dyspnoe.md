@@ -2,7 +2,7 @@
 tags: [Modul/m11, Modul/m13, Fach/Pneumologie]
 title: Dyspnoe
 ---
-### Dyspnoe / Atemnot
+> (Abstract::**Atemnot.**)
 
 ## DD Akute Dyspnoe
 | Erkrankung (Häufigkeit INA)                 | Symptome                                                                               | Diagnostik                                                       |

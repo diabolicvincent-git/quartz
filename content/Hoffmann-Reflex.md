@@ -2,7 +2,6 @@
 tags: [Modul/m10, Fach/Orthopädie, Fach/Physiologie]
 title: Hoffmann-Reflex
 ---
-### Hoffmann-[[Reflex]] 
 > *Monosynaptischer [[Eigenreflex]]* kann statt Sehnenbeklopfen (T-Relfex) auch durch elektrische Stimulation (H-[[Reflex]] nach Hoffmann) ausgelöst werden
 - **Durchführung**:: Reizung eines Nerven + Elektromyographie über seinem innervierten Muskel
 - **Wellen**

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie]
 title: Ewing-Sarkom
 ---
-### Ewing-Sarkom
 > Hochmaligner [[Tumor]] aus [[Knochenmark]]
 - **Epidemiologie**:: Häufigkeitsgipfel 5.-15. LJ, [[M]] > [[W]] 
 - **Ätiologie**:: 90% Translokation t(11:22)

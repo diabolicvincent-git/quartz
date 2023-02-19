@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Fach/Biochemie/Molekül]
 title: FSH
 ---
-### [[Follikel]] stimulierendes Hormon / FSH
+> (Abstract::**[[Follikel]] stimulierendes Hormon.**)
 - **Wirkung**
 	- **[[M]]**:: *Sertolli-Zellen im Hoden* ([[Spermatogenese]]↑, Inhibin↑, Anti-Müller-Hormon↑, Androgen-bindendes-Protein↑)
 	- **[[W]]**:: *Granulosazellen im [[Ovar]]* ([[Follikelreifung]]↑, [[Östrogene]]-Synthese↑)

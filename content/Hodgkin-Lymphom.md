@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Hodgkin-Lymphom
 ---
-### Hodgkin-Lymphom
 > [[B-Zellen]]-[[Lymphom]]
 - **Epidemiologie**:: Junge Männer, 20. – 30. LJ und >55
 - **Ätiologie**:: Assoziation mit [[EBV]]

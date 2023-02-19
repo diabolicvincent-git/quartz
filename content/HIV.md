@@ -2,7 +2,7 @@
 tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Infektiologie/Erreger/Viren]
 title: HIV
 ---
-### Humanes Immundefizienzvirus / HIV
+> (Abstract::**Humanes Immundefizienzvirus.**)
 - **Übertragung**:: ==Sexuell==, parenteral, vertikal
 	- Viruslast↑ kurz nach [[Infektionen]] und in [[AIDS]]-Stadium
 - **Pathophysiologie**:: Befall von CD4+ Zellen mit Corezeptoren CXCR4 und CCR5

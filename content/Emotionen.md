@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Physiologie, Fach/Neurologie, Fach/Psychiatrie]
 title: Emotionen
 ---
-### Emotionen
 - ==**Basisemotionen**:: Freude, Trauer, Ekel, Furcht, Ärger==[^2]
 - **Komponenten**:: *physiologisch* (z.B. Zittern), *gefühlt* (unbewusstes Empfinden), *kognitiv* (bewusste Beurteilung), *verhalten* (Mimik/Handlung)
 - **[[Emotionstheorien]]**

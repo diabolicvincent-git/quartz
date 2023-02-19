@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Psychiatrie, Fach/Endokrinologie, Art/Pathologie]
 title: Geschlechtsdysphorie
 ---
-### Geschlechtsdysphorie
 - **Wünsche nach Körperveränderungen**
 	- **FTM**:: Blutungsfreiheit > Mastektomie > Phallus
 	- **MTF**:: Kohabiationsfähige [[Vagina]] > Brustaufbau > Gesichtsenthaarung > höhere Stimme

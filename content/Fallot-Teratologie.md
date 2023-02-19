@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Fallot-Teratologie
 ---
-### Fallot-Teratologie
 > ==[[Pulmonalklappenstenose]] + rechtsventrikuläre [[Hypertrophie]] + [[Ventrikelseptumdefekt]] + rechtsverlagerte [[Aorta]]==
 - **Epidemiologie**:: Häufigster zyanotischer [[Herzfehler]]
 - **Pathophysiologie**

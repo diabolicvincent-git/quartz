@@ -2,7 +2,6 @@
 tags: [Modul/m10, Modul/m15, Fach/Orthopädie, Fach/Neurologie, Fach/Physiologie, Art/Intervention]
 title: Fremdreflex
 ---
-### Fremdreflex
 > **[[Reflex]]** mit Sensor und Effektor in verschiedenen Organen und Verschaltung in mehreren Rückenmarkssegmenten
 - **Physiologie**:: Reizung [[Nozizeptoren]] → [[Afferenzen]] → Interneurone im Rückenmark (*==polysynaptisch==*)
 - **Beispiele**

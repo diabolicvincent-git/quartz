@@ -17,7 +17,7 @@ title: Thrombopenie
 
 ## Ätiologie
 - **Produktion↓**
-	- Idiopathische thrombocytopenische Purpura (ITP)
+	- Idiopathische thrombocytopenische Purpura ([[ITP]])
 	- Chronische Lebererkrankung, [[Alkohol]]
 	- [[Hämatologische Neoplasien]], [[Chemotherapie]]
 	- Aplastische [[Anämie]], Megaloblastische [[Anämie]]

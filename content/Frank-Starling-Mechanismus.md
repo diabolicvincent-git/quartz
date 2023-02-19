@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Frank-Starling-Mechanismus
 ---
-##### Frank-Starling-Mechanismus
 > Kurzfristiger automatischer Kompensationsmechanismus bei Druck-/[[Volumen]]schwankungen
 
 - **Ziel**:: Konstant gleich halten des Schlagvolumens beider Ventrikel (verhindert z.B. [[Lungenödem]])

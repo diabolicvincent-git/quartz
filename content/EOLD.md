@@ -2,8 +2,7 @@
 tags: [Modul/m20, Modul/m23, Fach/Anästhesie]
 title: EOLD
 ---
-### End of Life Decisions / EOLD
-> Ethisch gleichbedeutend, Therapie nicht zu beginnen, wie sie wieder zu beenden
+> (Abstract::**End of Life Decisions.** Ethisch gleichbedeutend, Therapie nicht zu beginnen, wie sie wieder zu beenden.)
 - **Ethische Grundlage**:: 
 	- Patientenautonomie
 	- Prinzip: First, do no harm

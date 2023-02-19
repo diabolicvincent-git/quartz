@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Herzklappen
 ---
-### Herzklappen 
 > Alle Klappen öffnen/schließen sich passiv aufgrund wechselnder Druckverhältnisse im [[Herzzyklus]]
 - **[[Segelklappen]]**
 	- [[Tricuspidalklappe]]

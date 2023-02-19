@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Urologie, Art/Pathologie]
 title: Hodentorsion
 ---
-### Hodentorsion
 > Akute Verdrehung von Hoden und [[Samenstrang]] im Skrotum → Minderdurchblutung → [[Nekrose]]
 - **Epidemiologie**:: Kinder, junge Männer
 - **Risikofaktoren**:: Hodenhochstand, Pendelhoden[^1], verspätete Deszension

@@ -2,8 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: EF
 ---
-### Ejektionsfraktion / EF
-> Schlagvolumen / enddiastolisches Volumen
+> (Abstract::**Ejektionsfraktion.** Schlagvolumen / enddiastolisches Volumen.)
 - **Normwert**:: 60-70%
 - **Diagnostik**:: TTE, Kardio-[[MRT]]
 - **Pathologien**

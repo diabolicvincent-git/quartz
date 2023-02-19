@@ -16,6 +16,6 @@ title: Radiatio
 - **KI**:: ==Kindesalter== (Wachstumshemmung, [[Risiko]] für Zweitmalignome)
 - **[[UAW]]**
 	- **Akut**:: Übelkeit, [[Dysphagie]], [[Erythem]], ==Mucositis== (z.B. Ösophagitis), ggf. [[Pancytopenie]], *==Strahlenpneumonitis==* (Alveolitis)
-	- **Chronisch**:: Lokale Fibrosierung (z.B. [[Lungenfibrose]]), [[Pancytopenie]], [[OMI]]-[[Risiko]], Darmfunktionsstörung, [[Hypothyreose]]Fertilitätsstörung, *==Leukenzephalopathie==*
+	- **Chronisch**:: Lokale Fibrosierung (z.B. [[Lungenfibrose]]), [[Pancytopenie]], [[OMI]]-[[Risiko]], Darmfunktionsstörung, [[Hypothyreose]]Fertilitätsstörung, *==Leukenzephalopathie==*, [[Sicca-Syndrom]] mit [[Xerostomie]]
 
 [^1]: [[Tumor]]zellen haben eine schlechtere Reparaturfähigkeit als normale Zellen; letztere haben so die Chance sich zu regenerieren → Reduktion von [[UAW]]

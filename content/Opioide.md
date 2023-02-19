@@ -5,7 +5,7 @@ title: Opioide
 - **Wirkung**:: Analgetisch
 - **Indikation**:: Schwere [[Schmerz]]en, [[ACS]], [[Lungenödem]], [[Analgosedierung]], [[Husten]], [[Diarrhoe]]
 - **Wirkmechanismus**:: Bindung an ==μ-==, κ-, δ-Opioidrezeptor → [[K+]] Kanäle öffnen (Hyperpolarisation), Ca2+ Kanäle schließen ([[Synapse]] inaktiviert)
-- **[[UAW]]**:: ==Atemdepression==, Erbrechen, ==Obstipation==[^1], ==[[Abhängigkeit]]==, ==[[Miosis]]==, Sedierung, [[Hypotonie]] (siehe [[Opioidintoxikation]])
+- **[[UAW]]**:: ==Atemdepression==, Erbrechen, ==Obstipation==[^1], ==[[Abhängigkeit]]==, ==[[Miosis]]==, [[Sedierung]], [[Hypotonie]] (siehe [[Opioidintoxikation]])
 	- [[Antidot]]: ==[[Naloxon]]==
 - **Entitäten**
 	- **Niedrig-potente [[Opioide]]** ([[WHO-Stufenschema]] Stufe 2)
@@ -37,7 +37,7 @@ FROM #f/💤/Opioide
 -|-|-|-|-
 [[Obstipation]]|60-100%|ja|nein|[[Laxantien]]
 Nausea|20-40%|nein|ja|[[Antiemetika]]
-Sedierung|20-40%|ja|ja|Opioidwechsel, Zeit
+[[Sedierung]]|20-40%|ja|ja|Opioidwechsel, Zeit
 Atemdepression|<5%|ja|ja|Dosis↓
 [[Delir]]|<2%|ja|nein|Opioidwechsel
 

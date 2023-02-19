@@ -42,6 +42,6 @@ title: Hämatologie
 	- [[HIT]]
 	- [[Thrombophilie]]
 	- [[TTP]]
-	- [[Idiopathische Thrombocytopene Purpura]]
+	- [[ITP]]
 	- [[Blutungsneigung]]
 - [[Erkrankungen aller Zellreihen]]

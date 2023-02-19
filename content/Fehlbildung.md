@@ -2,7 +2,6 @@
 tags: [Modul/m26, Modul/m22, Fach/Embryologie]
 title: Fehlbildung
 ---
-### Fehlbildungen
 - **Arten**
 	- Agenesie
 	- Aplasie

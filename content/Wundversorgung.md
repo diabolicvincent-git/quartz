@@ -2,7 +2,7 @@
 tags: [Modul/m09, Fach/Dermatologie, Art/Intervention]
 title: Wundversorgung
 ---
-
+- **Komplikationen**:: [[Serom]], [[Wundhämatom]], [[Wundrandnekrosen]], [[Wundinfektion]], [[Wunddehiszenz]], [[Wundheilungsstörung]]
 
 ## Arten von Wunden
 

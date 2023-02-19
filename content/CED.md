@@ -8,7 +8,7 @@ Symptome|[[M. Crohn]]|[[Colitis ulcerosa]]
 -|-|-
 Stuhlfrequenz|↑ oder Obstipation|↑↑ 
 Stuhlart|Eher unblutig|Blutig-schleimig
-Ernährungszustand|↓|-
+[[Ernährungszustand]]|↓|-
 [[Schmerz]]|Durchgehend, RUQ|Vor/bei Defäkation, LUQ
 Anale Fisteln|Häufig|Sehr selten
 [[Bildgebung]]|Diskontinuierlich im ==gesamten [[GI-Trakt]]==|Kontinuierlich mit Beginn im [[Rektum]], auf [[Colon]] beschränkt

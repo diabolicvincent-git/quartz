@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Extrauteringravidität
 ---
-### Extrauteringravidität / EUG
-> **Ektope [[Schwangerschaft]]** mit Einnistung außerhalb des [[Uterus]]
+> (Abstract::**Ektope [[Schwangerschaft]]** mit Einnistung außerhalb des [[Uterus]].)
 - **Ätiologie**
 	- *Risikofaktoren:* Genitale [[Infektionen]] (insb. Adnexitis, [[Chlamydien]]), [[Endometriose]], liegende Spirale, Alter↑, IVF
 - **Lokalisation**:: 99% [[Tuba uterina]], 1% Abdomen/[[Ovar]]

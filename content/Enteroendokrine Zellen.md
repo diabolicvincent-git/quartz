@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Enteroendokrine Zellen
 ---
-### Enteroendokrine Zellen
 > Kooperation mit [[Enterisches Nervensystem]] und [[Pankreas]]-Langerhans-Inseln
 
 | Zelltyp  | Ort                           | [[Hormon]]   | Wirkung                                            |

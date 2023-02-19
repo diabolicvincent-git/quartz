@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: Epithalamus
 ---
-### Epithalamus 
 - **Anteile**
 	- *Epiphyse*
 	- *Habenulae* mit Stria medullaris verbindet Epiphyse mit [[Thalamus]]

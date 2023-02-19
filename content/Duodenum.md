@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Anatomie, Fach/Gastroenterologie]
 title: Duodenum
 ---
-### Duodenum / Zwölffingerdarm
+> (Abstract::**Zwölffingerdarm.**)
 - **Funktion**
 	- Neutralisation des Magensaftes (Pankreassekret, [[Galle]], duodenale *Brunner-Drüsen*)
 	- Resorption der Nahrung

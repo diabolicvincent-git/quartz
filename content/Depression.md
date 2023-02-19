@@ -14,7 +14,7 @@ title: Depression
 	- **B Leitsymptome**:: ==Gedrückte Stimmung, Interessensverlust, Antrieb↓==
 	- **C Sonst. Symptome**:: ==[[Schlafstörung]]==, Konzentration↓, Selbstwertgefühl↓, Schuldgefühle, ==Appetit↓==, Selbstverletzung, [[Suizidalität]]
 	- **Zzgl. Somatisches Syndrom**:: Freudlosigkeit, Früherwachen, ==Morgentief==, Agitiertheit (DD [[ADHS]]), [[Gewichtsverlust]], Libido↓, Denkhemmung
-- **Diagnostik**:: Klinik, [[Familienanamnese]], [[Polysomnographie]]
+- **Diagnostik**:: Klinik, [[Familienanamnese]], [[Polysomnographie]], [[Hamilton-Depressionsskala]]
 - **Therapie**:: Kombination mehrerer Verfahren nur bei *schwerer* [[Depression]]
 	- **[[Psychotherapie]]**, insb. [[Verhaltenstherapie]]
 	- **[[Antidepressiva]]** min. +4-9 Monate ggf. + [[Lithium]] (insb. bei [[Suizidalität]])

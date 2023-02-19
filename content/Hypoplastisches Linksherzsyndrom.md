@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Hypoplastisches Linksherzsyndrom
 ---
-### Hypoplastisches Linksherzsyndrom
 > Hochgradige Stenose/Atresie von [[Aortenklappe]]+[[Mitralklappe]] und Hypoplasie von linker Ventrikel
 - **Epidemiologie**:: Seltener [[Herzfehler]], aber häufigste kardiogene postnatale Todesursache (25%)
 - **Pathophysiologie**

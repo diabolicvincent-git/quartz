@@ -11,7 +11,7 @@ title: Obduktion
 - **Durchführung**:: Y-Schnitt (Clavicula bis Symphyse) und Inspektion ==aller 3 Körperhöhlen ([[Schädel]], Brust, Bauchhöhle)==
 	- **Organpaketpräparation**
 		- *Thoraxpaket* ([[Herz]], [[Lunge]], [[Mediastinum]] bis [[Zunge]]/[[Larynx]])
-		- *Oberbauchpaket* (Oberbauchorgane und Gefäße inkl. [[Duodenum]])
+		- *Oberbauchpaket* (Oberbauchorgane und [[Gefäße]] inkl. [[Duodenum]])
 		- *Darmpaket* ([[Jejunum]] bis oberes [[Rektum]])
 		- *Urogenitalpaket* (Urogenitaltrakt, Enddarm, Hoden)
 	- Histologische Schnitte von wichtigen Organen und bei Auffälligkeiten

@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie]
 title: Herzzyklus
 ---
-### Herzzyklus 
 1. **[[Systole]]**
 	1. [[Systole]] [[Anspannungsphase]]: Isovulmetrische Kontraktion, Druckanstieg, Öffnung [[Taschenklappen]]
 	2. [[Systole]] [[Austreibungsphase]]: Volumenaustreibung, Druck sinkt, Schluss [[Taschenklappen]]

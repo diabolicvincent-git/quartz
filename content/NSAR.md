@@ -16,7 +16,7 @@ title: NSAR
 		- **Naproxen**
 	- **Selektive [[COX]]2-Hemmer ([[Coxibe]])**:: ==Kardiovaskuläres [[Risiko]]↑==, nur analgetisch
 		- **[[Celecoxib]], Etoricoxib**
-		- **Parecoxib**
+		- **[[Parecoxib]]**
 - *DGIM Klug entscheiden*:: NSAR sollen nicht regelmäßig eingesetzt werden bei Patienten mit Hypertonie oder CKD jeder Genese, inklusive Diabetes.
 ---
 ### Mythbusting

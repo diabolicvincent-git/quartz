@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Pneumologie]
 title: Emphysem
 ---
-### Emphysem
 > Unphysiologisch erhöhtes Vorkommen von Gas/[[O2]] im Gewebe
 - **Ätiologie**
 	- *Überblähung* bereits lufthaltigen Gewebes (z.B. [[COPD]])

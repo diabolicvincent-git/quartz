@@ -30,7 +30,7 @@ title: HbA1c
 - **Nachweisbar**:: HbS führt zu Messstörung, HbF nicht
 ### High Performance Liquid Chromatography (HPLC)
 - **Probe**:: EDTA- oder Kapillarblut
-- **Methode**:: Versetzen der Probe mit Wasch-/Hämolyse-Lösung → [[Hb]] freigesetzt → pressen durch Kationenaustauschersäule → spätere photometrische Detektion
+- **Methode**:: Versetzen der Probe mit Wasch-/[[Hämolyse]]-Lösung → [[Hb]] freigesetzt → pressen durch Kationenaustauschersäule → spätere photometrische Detektion
 - **Nachweisbar**:: HbS und HbF führen nicht zu Messstörung, das Ergebnis ist dann zwar falsch-niedrig, diese Verfälschung wird jedoch angegeben
 
 

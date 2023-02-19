@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Embryologie, Fach/Kardiologie]
 title: Entwicklung des Herzens
 ---
-### Entwicklung des Herzens 
 1. **Entstehung von Herzschlauch und Perikardhöhle** aus Zusammenlagerung von 2 Endokardhufeisen ("X-förmig") aus der cervicalen[^1] kardiogenen Zone und Proliferation nach kaudal
 2. **Herzschlauch wird zur Herzschleife** durch Drehungen/Windungen, entstehen Ausbuchtungen
 3. **Trennung der Vorhöfe von den Kammern**

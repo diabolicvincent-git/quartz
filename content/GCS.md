@@ -2,8 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Notfallmedizin, Art/Intervention/Diagnostik]
 title: GCS
 ---
-### Glasgow-Coma-Scale / GCS
-> Monitoring der [[Vigilanzminderung]] (bei [[SHT]])
+> (Abstract::**Glasgow-Coma-Scale.** Monitoring der [[Vigilanzminderung]] (bei [[SHT]]).)
 
 Pkt.|Augen|Verbal|Motorik
 -|-|-|-

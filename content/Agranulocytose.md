@@ -10,7 +10,7 @@ title: Agranulocytose
 	- **Zelluntergang**
 		- [[Hypersplenie-Syndrom]]
 		- [[Autoimmunität]]
-	- **==Medikamenteninduzierte [[Agranulocytose]]==** ([[Metamizol]], [[NSAR]], Thyreostatika)
+	- **==Medikamenteninduzierte [[Agranulocytose]]==** ([[Metamizol]], [[NSAR]], [[Clozapin]], Thyreostatika)
 - **Symptome**
 	- Stomatitis aphthosa ([[HSV]]-1 induzierte [[Erosionen]] der Mundschleimhaut)
 	- Halsschmerzen

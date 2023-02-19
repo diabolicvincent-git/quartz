@@ -1,8 +1,7 @@
 ---
 tags: [Modul/m20, Fach/Psychiatrie, Art/Intervention]
-title: Hamilton-Skala
+title: Hamilton-Depressionsskala
 ---
-### Hamilton-Depressionsskala
 > Klinische Fremdbeurteilung von [[Depression]] mit 17-24 Fragen (uneinheitlich)
 - **Einteilung** (bei 17 Fragen)
 	- 0-8: o.p.B.

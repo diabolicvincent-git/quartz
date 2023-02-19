@@ -2,8 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: HZV
 ---
-### Herzzeitvolumen / HZV
-> ==Schlagvolumen x [[HF]]==
+> (Abstract::**Herzzeitvolumen.** ==Schlagvolumen x [[HF]]==.)
 - **Normwert**:: 5 L (Ruhe) bis 20 L (Belastung)
 - **Physiologie**:: [[Frank-Starling-Mechanismus]]
 - **Pathologien**

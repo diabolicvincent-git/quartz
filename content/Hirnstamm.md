@@ -2,8 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Hirnstamm
 ---
-
-#### Hirnstamm 
 > Über gesamten Hirnstamm verteilt: *[[Formatio reticularis]]* für lebenswichtige Funktionen und Koordination der [[Hirnnerven]]-Verschaltung
 - **Bestandteile**
 	- [[Mesencephalon]]

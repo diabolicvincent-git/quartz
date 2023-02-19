@@ -2,7 +2,7 @@
 tags: [Modul/m04, Modul/m17, Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Hypothyreose
 ---
-### Hypothyreose / Schilddrüsenunterfunktion 
+> (Abstract::**Schilddrüsenunterfunktion.**)
 - **Epidemiologie**:: 1-3%
 - **Ätiologie**
 	- *Autoimmun:* ==[[Hashimoto-Thyreoditis]]==

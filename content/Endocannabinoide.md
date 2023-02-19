@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Biochemie, Fach/Physiologie, Fach/Anästhesie, Fach/Neurologie]
 title: Endocannabinoide
 ---
-### Endocannabinoide
 > Endogene Lipidmediatoren mit modulatorischer Wirkung an Cannabinoidrezeptoren
 - **Wirkmechanismus**:: [[GPCR]] → Signalkaskaden
 - **Wirkung**:: Divers ==pleiotrop==

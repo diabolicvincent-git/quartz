@@ -2,7 +2,6 @@
 tags: [Modul/m08, Modul/m17, Fach/Infektiologie, Art/Pathologie]
 title: Entzündungszeichen
 ---
-### Entzündungszeichen
 - **Lokale, akute Entzündungszeichen**
 	- Rötung / Rubor
 	- Schwellung / [[Tumor]]

@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Pathologie]
 title: Gastroduodenale Ulcera
 ---
-### Gastroduodenale Ulcera
 - **Ätiologie**
 	- ==[[Magensäure]]↑, [[NSAR]], H. pylori==
 	- *Risikofaktoren:* [[Alkohol]], [[Rauchen]], Kaffee

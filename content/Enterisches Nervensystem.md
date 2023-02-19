@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Neurologie, Fach/Physiologie]
 title: Enterisches Nervensystem
 ---
-### Enterisches Nervensystem
 > Weitgehend autonom, in Grundaktivität vom [[vegetative]]n Nervensystem moduliert
 - **Strukturen**
 	- **Plexus submucosus / Meissner**:: Tela submucosa → Schleimhautfaltung, [[Sekretion]], [[Perfusion]]

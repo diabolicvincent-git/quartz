@@ -15,7 +15,7 @@ title: Guillain-Barré-Syndrom
 	- **[[Untersuchung Neurologie]]**:: [[Reflex]]↓
 	- **[[Labor]]**:: Standardlabor, Antikörpersuche
 	- ==**[[Liquorpunktion]]**:: Cytoalbuminäre Dissoziation== ([[Blut-Hirn-Schranke]]-Störung → Protein↑↑, Zellzahl normal)
-	- **ENG/EMG**
+	- **ENG/[[EMG]]**
 	- **[[Lungenfunktionsprüfung]]**
 - **Therapie**
 	- *Medikamente:* ==[[IVIG]] hochdosiert==

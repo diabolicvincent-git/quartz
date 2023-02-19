@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Urologie, Fach/Physiologie]
 title: Erektion
 ---
-### Erektion
 > [[Parasympathikus]] → arterielle Stauung der Schwellkörper → **[[Penis]]**-Versteifung
 - **Ablauf**
 	1. **Stimulation**:: *Reflexogen* (sensibel via N. pudendus), *psychogen* ([[Cortex cerebri]]), *REM-Schlaf*

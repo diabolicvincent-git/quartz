@@ -23,7 +23,7 @@ title: Nase
 	- [[Choanae]] (hintere Öffnungen zum Nasopharynx), paarig
 - **Sensorik**:: [[Geruch]] via [[N. olfactorius (I)]]
 - **Leitungsbahnen**
-	- **[[Arterien]]**:: Locus Kiesselbachi
+	- **[[Arterien]]**:: [[Locus Kiesselbachi]]
 		- *A. ethmoidalis anterior/posterior* aus A. ophthalmica aus [[A. carotis interna]]
 	- **Venen**:: Gemeinsamer *Plexus cavernosus concharum* in der Nasenscheidewand
 		- V. ophthalmica inferior in [[Sinus durae matris]] in [[V. jugularis interna]]

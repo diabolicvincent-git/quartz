@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Physiologie, Fach/Infektiologie]
 title: Fieber
 ---
-### Fieber
 > Ausdruck einer systemischen Entzündungsreaktion
 - **Fieber**:: KKT >38,0 °C (rektal)
 - **Subfebrile Temperatur**:: KKT 37,5-38,0 °C

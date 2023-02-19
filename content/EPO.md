@@ -2,7 +2,7 @@
 tags: [Modul/m08, Modul/m14, Fach/Hämatologie, Fach/Nephrologie, Fach/Biochemie/Molekül, Fach/Physiologie]
 title: EPO
 ---
-### Erythropoetin / EPO
+> (Abstract::**Erythropoetin.**)
 - **Funktion**:: Stimulation der [[Erythropoese]] im [[Knochenmark]]
 - **Synthese**:: [[Zelluläre Hypoxie]], Langsame Adaption → [[O2]]-abhängige Ubiquitinierung von HIFα entfällt → Transkriptionsfaktor HIF-2 dimerisiert mit HIFβ → aktiviert u.a. [[EPO]]-Gen
 	- **Struktur**:: Glycoprotein
