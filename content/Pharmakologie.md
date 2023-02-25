@@ -179,7 +179,7 @@ title: Pharmakologie
 		- [[Glucocorticoide]]
 			- [[Prednisolon]]
 		- [[Biologicals]]
-			- [[TNF-⍺-Inhibitoren]]
+			- [[TNF-Inhibitoren]]
 		- [[Pleiotrope Immunmodulatoren]]
 	- [[Infusionslösung]]
 		- [[Kristalloide]]

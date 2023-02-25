@@ -139,7 +139,7 @@ title: IMPP-Arzneistoffe
 - **Monosaccharide**:: Glucose
 - **[[Antidiabetika]]**
 	- **SGLT-2-Inhibitoren / Gliflozine**:: Empagliflozin
-	- **Biguanide**:: Metformin
+	- **Biguanide**:: [[Metformin]]
 
 ### [[Glutamat]]erges System
 - **Injektionsanästhetika**
@@ -156,7 +156,7 @@ title: IMPP-Arzneistoffe
 ### [[Immunsystem]]
 - **[[Glucocorticoide]]-R-Agonisten**:: Budesonid, Dexamethason, Fluticason, Prednisolon, Cortison
 - **[[Immunsuppressiva]]**
-	- **Calcineurin-Inhibitoren**:: Ciclosporin, [[Tacrolimus]]
+	- **[[Calcineurin-Inhibitoren]]**:: Ciclosporin, [[Tacrolimus]]
 	- **Biologicals**
 		- **[[Monoklonale Antikörper]]**
 			- **CD20-Inhibitoren**:: Rituximab
@@ -197,7 +197,7 @@ title: IMPP-Arzneistoffe
 
 ### Klassische [[Cytostatika]]
 - **Alkylanzien**:: [[Cyclophosphamid]], Temozolomid
-- **Antimetabolite**
+- **[[Antimetabolite]]**
 	- **Folsäure-Analoga**:: [[Methotrexat (MTX)]]
 	- **Purin-Analoga**:: 6-Mercaptopurin, [[Azathioprin]]
 	- **Pyrmidin-Analoga**:: 5-Fluoruracil / 5-FU

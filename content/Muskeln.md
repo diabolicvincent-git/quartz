@@ -351,7 +351,7 @@ Innervation
 *   Schiebt die Nahrung Richtung Oesophagus
 ###### M. constrictor pharyngis inferior
 *   Schild- und Ringknorpel des Kehlkopfes
-*   Verengt den Hypopharynx
+*   Verengt den [[Hypopharynx]]
 *   Schiebt die Nahrung Richtung Oesophagus
 #### Schlundheber (Levatoren)
 ###### M. stylopharyngeus

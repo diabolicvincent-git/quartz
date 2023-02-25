@@ -17,7 +17,7 @@ title: Sonographie
 	- Sonographie Schilddrüse
 	- [[Sonographie Nieren]], Sonographie Harnblase
 	- Sonographie Geschlechtsorgane, Sonographie [[Schwangerschaft]]
-	- Sonographie Leber, Sonographie Gallenblase
+	- [[Sonographie Leber]], Sonographie Gallenblase
 	- Sonographie Pankreas
 	- Sonographie Milz
 	- Sonographie [[Gefäße]]

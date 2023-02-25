@@ -108,7 +108,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
 - **Hautmanifestationen systemischer Erkankungen**
     - Systemische Virusinfekte (z.B. [[Masern]], Röteln, Hand-Fuß-Mund-Erkrankung, Windpocken, Erythema infectiosum durch Parvo B19)
     - Meningokokkensepsis ([[Waterhouse-Friderichsen-Syndrom]])
-    - Septische Embolie bei Endokarditis
+    - Septische Embolie bei [[Endokarditis]]
     - Gonokokkensepsis
     - Scharlach (ß-hämolysierende [[Streptokokken]] der GruppeA)
     - [[Tbc]]

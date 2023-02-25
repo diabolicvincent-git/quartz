@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Blut
 ---
-### Blut
 - **Funktion**
 	- Transport ([[Gastransport]], Nährstoffe, [[Hormon]], Giftstoffe)
 	- [[Hämostase]]
@@ -19,6 +18,6 @@ title: Blut
 		- [[Thrombocyten]]
 		- [[Leukocyten]]
 
-## Grafik
+---
 
 ![[Blutbestandteile.png]]

@@ -15,7 +15,7 @@ title: Kopf-Hals-Tumoren
 ---
 ## WHO Einteilung
 - Lippen und Mundhöhle
-- Oropharynx und Hypopharynx
+- Oropharynx und [[Hypopharynx]]
 - Nasenhöhle, Sinus, Nasopharynx
 - Larynx
 - [[Speicheldrüsen]]

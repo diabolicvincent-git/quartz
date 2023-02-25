@@ -11,6 +11,5 @@ title: Leukocyten
 	- **[[Eosinophile Granulocyten]] (3%)**:: Parasitäre [[Infektionen]]
 	- **[[Basophile Granulocyten]] (0,6%)**:: [[Histamin]]-, [[Serotonin]]-[[Sekretion]]
 
-
-## Merksatz
-> *Never let Monkeys eat Bananas:* Neutrophile > [[Lymphocyten]], [[Monocyten]] > Eosinophile > Basophile (60 > 30 > 6 > 3 > 0,6)
+---
+> **Merksatz**:: *"Never let Monkeys eat Bananas"*<br> Neutrophile > [[Lymphocyten]], [[Monocyten]] > Eosinophile > Basophile (60 > 30 > 6 > 3 > 0,6)

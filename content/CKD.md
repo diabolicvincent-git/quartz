@@ -28,7 +28,7 @@ title: CKD
 	- *Reduktion Risikofaktoren*
 		- Meiden nephrotoxischer Substanzen ([[NSAR]], [[Nikotin]] u.a.)
 		- Strenge Blutdruckeinstellung, insb. ==[[ACE-Hemmer]]== (nephroprotektiv)
-		- [[Diabetes mellitus]] Therapie, insb. Metformin (nephroprotektiv)
+		- [[Diabetes mellitus]] Therapie, insb. [[Metformin]] (nephroprotektiv)
 	- *[[Renale Anämie]]:* ggf. synthetisches [[EPO]], ggf. [[Eisen]]
 	- *[[Renale Osteopathie]]:* Diätische Phosphatrestriktion, Phosphatbindner (Calciumacetat), [[Vitamin D (Calciferol)]]-Substitution, ggf. Parathyreodektomie
 	- *[[Urämie]]:* [[Nierentransplantation]], übergangsweise [[Dialyse]]

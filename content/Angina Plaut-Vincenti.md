@@ -7,7 +7,7 @@ title: Angina Plaut-Vincenti
 - **Ätiologie**:: Mischinfektion [[Treponema vincentii]] + [[Fusobacterium nucleatum]]
 - **Klassifikation**::
 - **Pathophysiologie**::
-- **Symptome**:: ==Einseitig== ausgeprägt ulceröse [[Tonsillitis]], [[Mundgeruch (Foetor ex ore)]], [[AZ]] gut
+- **Symptome**:: ==Einseitig== ausgeprägt ulceröse [[Tonsillitis]], [[Foetor ex ore]], [[AZ]] gut
 - **Diagnostik**:: Tonsillarabstrich
 - **DD**:: [[Tonsillitis]]
 - **Therapie**:: [[Penicillin G]]

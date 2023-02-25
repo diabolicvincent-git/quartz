@@ -3,7 +3,7 @@ tags: [Art/Pathologie, Fach/Infektiologie, Fach/Ophthalmologie]
 title: Toxoplasmose
 ---
 > (Abstract::**Zoonose durch [[Toxoplasma gondii]].**)
-- **Epidemiologie**:: Durchseuchung 50%
+- **Epidemiologie**:: Durchseuchung 50% in DE
 - **Ätiologie**:: ==[[Toxoplasma gondii]]== Oocysten via Katzen-Kot
 - **Symptome**:: 95% asymptomatische Chronifizierung, evtl. [[Lymphadenopathie]], [[AZ]]↓ 
 - **Diagnostik**:: Serologie ([[ELISA]]), [[cCT]] bei V.a. [[Cerebrale Toxoplasmose]]

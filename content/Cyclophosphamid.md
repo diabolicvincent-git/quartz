@@ -4,5 +4,7 @@ title: Cyclophosphamid
 ---
 > (Abstract::**[[Cytostatika]] > [[Alkylanzien]] > Oxazaphosphorine.**)
 - **Wirkung**:: Alkylierung von [[DNA]]/[[RNA]] → [[Replikation]]↓
-- **Indikation**:: [[Leukämie]], [[Multiples Myelom]]
-- **UAW**:: Hämorrhagische [[Cystitis]] (Mesna-Prophylaxe), Myelosuppression
+- **Indikation**
+	- *[[Cytostatika]]*:: [[Leukämie]], [[Multiples Myelom]]
+	- *[[Immunsuppression]]*:: ==[[Multiple Sklerose]]==, [[SLE]], [[Sklerodermie]], [[Granulomatose mit Polyangiitis]], [[Graft-versus-Host]]
+- **UAW**:: ==Hämorrhagische [[Cystitis]]/[[Urothel-Ca]]== (Mesna-Prophylaxe), Myelosuppression

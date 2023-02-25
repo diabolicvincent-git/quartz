@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m24, Fach/Infektiologie, Art/Pathologie, FunFact)]
+tags: [Modul/m24, Fach/Infektiologie, Art/Pathologie]
 title: Tollwut
 ---
 > (Abstract::Auch: Rabies)
@@ -20,7 +20,7 @@ title: Tollwut
 	- **[[Labor]]**:: Nachweis von [[Viren]]-[[RNA]] mit RT-PCR (oft falsch-negativ)
 	- **[[Obduktion]]**:: Immunfluoreszenz/Histopathologie von *Negri-Körperchen* im [[Gehirn]]
 - **Therapie**:: ==Keine==
-- **Prognose**:: 100% Letalität (
+- **Prognose**:: 100% Letalität #FunFact 
 - **Prävention**
 	- **[[Impfung]]**
 	- **Postexpositionell**

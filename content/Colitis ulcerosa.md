@@ -22,7 +22,7 @@ title: Colitis ulcerosa
 - **Therapie**
 	- Retardierte, antiinflammatorisch/immunsuppressive 5-ASA-Präparate (Aminosalicylate, z.B. Mesalazin)
 	- [[Glucocorticoide]] topisch oder systemisch
-	- Calcineurin-Inhibitoren, [[TNF]]-α-Antikörper, Purinantagonisten ([[Azathioprin]])
+	- [[Calcineurin-Inhibitoren]], [[TNF]]-α-Antikörper, Purinantagonisten ([[Azathioprin]])
 	- Proctocolektomie mit ileoanaler Pouch-Anastomose
 	- Regelmäßige Coloskopie zur Karzinomprophylaxe
 

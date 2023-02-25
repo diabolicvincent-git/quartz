@@ -5,7 +5,7 @@ title: Häufigste Erreger
 Erkrankung|[[Bakterien]]|Sonstige|[[Viren]]
 -|-|-|-|
 [[Encephalitis]]|Borrelia burgdorferi||"FSME-Virus, Influenzaviren, Jap. B-Enz.-Virus"
-Endokarditis|"Enterokokken, HACEK-Gruppe, [[Staphylokokken]] spp., [[Streptokokken]] spp., Tropheryma whipplei"||
+[[Endokarditis]]|"Enterokokken, HACEK-Gruppe, [[Staphylokokken]] spp., [[Streptokokken]] spp., Tropheryma whipplei"||
 [[Bronchitis]]|Mycoplasma pneumoniae||"Adenoviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-[[Viren]]"
 [[Exanthem]]||Insektenstiche|"Herpes-Virus 6/7, Herpes-simplex-Virus 1/2, Masernvirus, Parvovirus B19, Rötelnvirus, Varizella-Zoster-Virus"
 Gastroenteritis|"Campylobacter spp., [[E. coli]], Solmonella spp."|Cryptosporidium spp.|"Adenoviren, Noroviren, Rotaviren"

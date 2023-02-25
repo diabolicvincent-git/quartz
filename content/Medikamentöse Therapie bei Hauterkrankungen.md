@@ -66,7 +66,7 @@ title: Medikamentöse Therapie bei Hauterkrankungen
     - **Indikation**:: Atopisches [[Ekzem]], [[Psoriasis vulgaris]]
     - **NW topisch**:: Hautatrophie, Teleangiektasien, Depigmentierung, Hypertrichose, Striae, Periorale Dermatitis, (Störung der [[Hypothalamus-Hypophysen-Achse]])
 
-### Calcineurin-Inhibitoren
+### [[Calcineurin-Inhibitoren]]
 
 - **Wirkmechanismus von Calcineurin** (wird inhibiert)
     1. Aktivierung von Calcineurin bei [[T-Zellen]]-Aktivierung

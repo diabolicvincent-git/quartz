@@ -6,10 +6,10 @@ title: Herzinsuffizienz-Therapie
 
 Medikament je [[NYHA]]-Stadium|I|II|III|IV|Anmerkungen
 -|-|-|-|-|-
-[[ACE-Hemmer]], <br>alt.: [[AT1-Blocker]]|✔︎|✔︎|✔︎|✔︎|Dosis↑ 
+[[ACE-Hemmer]], <br>alternativ: [[AT1-Blocker]]|✔︎|✔︎|✔︎|✔︎|Dosis↑ 
 [[β-Blocker]]|([[OMI]])|✔︎|✔︎|✔︎|Dosis↑ 
 [[Aldosteronantagonisten]]|-|✔︎|✔︎|✔︎|Dosis↑ 
 [[Thiaziddiuretika]], [[Schleifendiuretika]]|(✔︎)|(✔︎)|(✔︎)|(✔︎)|bei [[Hypervolämie]], Dosis↓ 
 Ivabradin|-|EF<35%|EF<35%|EF<35%|
-Neprilysin-Inhibitoren (Aldosteron-Kombi: ARNI)|-|EF<35%|EF<35%|EF<35%|**Ersatz** für [[ACE-Hemmer]]
+Neprilysin-Inhibitoren<br>(Aldosteron-Kombi: ARNI)|-|EF<35%|EF<35%|EF<35%|*Ersatz* für [[ACE-Hemmer]], nicht in Kombination
 [[Digitalis]]|-|(✔︎)|(✔︎)|(✔︎)|Symptomkontrolle, Reserve, Dosis↓ 

@@ -3,11 +3,11 @@ tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Lungenfibrose
 ---
 ### Lungenfibrose
-- **Ätiologie:**
+- **Ätiologie+**
 	- Idiopathisch (am häufigsten; keine Alveolitis)
 	- Autoimmun (z.B. [[Sarkoidose]], [[SLE]])
 	- Noxisch (z.B. [Asbest](Pneumokoniosen.md))
-	- Medikamentös (z.B. [[Cytostatika]], [[Antibiotika]])
+	- *Medikamente*:: [[Cytostatika]] ([[Taxane]], [[Bleomycin]]), [[Antibiotika]]
 	- Umweltbedingt / Allergen (z.B. Schwermetalle, Vogelfedern) 
 - **Pathomechanismus**:: Zunahme des pulmonalen Bindegewebes
 	- Vermehrung von Fibroblasten und extrazellulärer Bindegewebsmatrix

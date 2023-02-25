@@ -14,4 +14,4 @@ title: Penis
 - **Leitungsbahnen**
 	- **[[Arterien]]**:: A. dorsalis penis, A. profunda penis (zentral in Schwellkörpern), A. bulbi penis je aus A. pudenda interna
 	- **[[Sympathikus]]/[[Parasympathikus]]**:: Plexus hypogastricus inferior
-- **#FunFact**:: Klitoris und Glans penis entstehen aus der selben embryonalen Anlage
+- #FunFact Klitoris und Glans penis entstehen aus der selben embryonalen Anlage

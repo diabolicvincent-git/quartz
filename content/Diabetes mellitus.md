@@ -34,7 +34,7 @@ title: Diabetes mellitus
 - **Therapie**
 	- **Stufenschema ([[DMT2]])**
 		- **I**:: Lebensstil, Ernährung, Gewichtsnormalisierung, Patientenedukation
-		- **II**:: Monotherapie ==Metformin== ([[Antidiabetika]])
+		- **II**:: Monotherapie ==[[Metformin]]== ([[Antidiabetika]])
 		- **III**:: Zweifachtherapie
 		- **IV**:: Dreifachtherapie
 		- **V**:: Intensivierte ==[[Insulintherapie]]==

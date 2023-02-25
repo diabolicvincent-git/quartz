@@ -1,7 +1,7 @@
 ---
-tags: [Fach/Infektiologie/Erreger/Bakterien, FunFact]
+tags: [Fach/Infektiologie/Erreger/Bakterien]
 title: Propioni-Bakterien
 ---
 > (Abstract::[[grampositiv]], [[Anaerobier]], [[Hautflora]])
 
-- Machen die Löcher in den Käse
+- #FunFact Machen die Löcher in den Käse

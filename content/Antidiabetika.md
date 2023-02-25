@@ -6,12 +6,8 @@ title: Antidiabetika
 	- *Insulinotrop:* Insulin-Freisetzung↑ (abhängig von [[Pankreas]]-Restfunktion)
 	- *Nicht-insulinotrop* (unabhängig von der Insulin-[[Sekretion]])
 - **Präparate**
-	- ==**Biguanide (z.B. Metformin)**:: 1. Wahl, *nicht-insulinotrop*==
-		- **Wirkmechanismus**:: Blockade der [[Atmungskette]] → kompensatorisch anaerobe [[Glycolyse]]↑
-		- **Wirkung**:: Appetit↓, Insulinbedarf↓, Hyperinsulinämie↓, [[Insulinresistenz]]↓, verbesserter Glucosestoffwechsel
-		- **[[UAW]]**:: ==Lactatazidose==, Gewichtsabnahme, GI-Beschwerden
-		- **KI**:: Alkoholismus, chronische respiratorische Insuffizienz, [[NYHA]] III/IV, [[CKD]] <30 [[GFR]]
-	- **SGLT2-Inhibitoren (z.B. Canagliflozin, Dapagliflozin)**
+	- ==**Biguanide ([[Metformin]])**:: 1. Wahl, *nicht-insulinotrop
+	- **[[SGLT2-Inhibitoren]] (z.B. Canagliflozin, Dapagliflozin)**
 	- **Sulfonylharnstoffe (z.B. Glibenclamid)**
 	- **GLP-1-[[Rezeptor]]-Agonisten (z.B. Exanatid, Liraglutid, Albiglutid)**
 	- **DPP-4-Inhibitoren (Gliptine z.B.Saxagliptin, Sitagliptin)**

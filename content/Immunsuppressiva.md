@@ -3,16 +3,18 @@ tags: [Modul/m26, Modul/m17, Fach/Pharmakologie/Medikament]
 title: Immunsuppressiva
 ---
 > Medikamentenspiegel komplett patientenabhängig!
-- **Wirkstoffe**
-	- **Calcineurin-Inhibitoren**
-		- Ciclosporin A
-		- [[Tacrolimus]]
-	- **[[Glucocorticoide]]**
-	- **[[Cytostatika]]**
-		- [[Azathioprin]]
+- **Entitäten**
+	- *[[Cytostatika]]*
 		- [[Methotrexat (MTX)]]
+		- [[Azathioprin]]
 		- [[Cyclophosphamid]]
-	- **Biologicals**
-- **Indikation**
-	- *==[[Autoimmunität]]==* ([[Rheumatoide Arthritis]], [[Kollagenose]], [[Vaskulitis]], Autoimmunhepatitis, [[CED]], [[Lungenfibrose]], [[Sarkoidose]], [[Multiple Sklerose]], [[Myasthenia gravis]], [[Glomerulonephritis]])
-	- *[[Transplantation]]*
+	- *[[Immunsystem]]-Aktivierungshemmend*
+		- *[[Calcineurin-Inhibitoren]]*
+			- [[Ciclosporin A]]
+			- [[Tacrolimus]]
+		- *[[mTOR-Inhibitoren]]*
+	- *[[Glucocorticoide]]*
+	- *[[Biologicals]]*
+	- *[[Pleiotrope Immunmodulatoren]]*
+- **Indikation**:: ==[[Autoimmunität]]==, Transplatabstoßung-Prophylaxe nach [[Transplantation]], als [[Cytostatika]]
+- **UAW**:: [[Infektionen]]-Anfälligkeit

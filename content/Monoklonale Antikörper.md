@@ -2,8 +2,13 @@
 tags: [Modul/m19, Fach/Onkologie]
 title: Monoklonale Antikörper
 ---
-### Monoklonale Antikörper
-- **Beispiele**
+- **Entitäten**
+	- **[[VEGF-Inhibitoren]]**:: z.B. *Bevacizumab*  → Tumor-[[Angiogenese]]↓
+	- **[[EGFR-Inhibitoren]]**:: z.B. *Trastuzumab*  → Hemmung HER2-Rezeptor ([[Mamma-Ca]], [[Magen-Ca]])
+	- **[[PD-1-Inhibitoren]]**
+	- **[[LAG-3-Inhibitoren]]**
+	- **[[CTLA-4-Inhibitoren]]**
+- **Weitere Beispiele**
 	- *Abciximab:* [[Thrombocytenaggregationshemmer]] (Antagonist an GPIIb/IIIa-Fibrinogen-[[Rezeptor]])
 	- *Bevacizumab:* Diverse [[Tumor]]en ([[VEGF]]-Ligand-Bindung)
 	- *Dupilumab:* [[Atopische Dermatitis]] ([[IL-4]]-Antagonist)
@@ -13,7 +18,7 @@ title: Monoklonale Antikörper
 - **Nomenklatur**
 	- **Präfix**:: Variabel
 	- **Ziel-Infix**
-		- *-o(s)-:* [[Knochen]]
+		- *-o(s)-*: [[Knochen]]
 		- *-vi(r)-*: [[Viren]]
 		- *-ba(c)-*: [[Bakterien]]
 		- *-li(m)-*: [[Immunsystem]]
@@ -40,5 +45,4 @@ title: Monoklonale Antikörper
 		- *-xi-*: Chimäre (z. B. Maus-Mensch oder Hamster-Mensch)
 		- *-zu-*: Humanisiert
 		- *-axo-*: Hybrid (Ratte-Maus)
-	- **Suffix**
-		- *-mab*
+	- **Suffix**:: *-mab*

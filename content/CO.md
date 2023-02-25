@@ -9,7 +9,7 @@ title: CO
 - **Symptome**
 	- *Allgemein:* [[Hypoxie]]-Zeichen, [[Kopfschmerzen]], [[Schwindel]], Übelkeit, Müdigkeit, kein subjektives Erstickungsgefühl
 	- *>30% CO-Hb:* =="Kirschrotes Hautkolorit"==, [[Vigilanzminderung]], [[HRST]]
-	- *>60% CO-Hb:* [[Bewusstlosigkeit]], Tod
+	- *>60% CO-Hb:* [[Koma]], Tod
 - **Diagnostik**
 	- ==[[SpO2]] falsch-hoch== (Absorptionsmaxima von CO-Hb und O2-Hb ähnlich)
 	- **[[BGA]]**:: CO-Hb ≥5% bzw. ≥10% ([[Rauchen]])

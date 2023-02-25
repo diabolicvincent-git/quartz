@@ -24,7 +24,7 @@ title: Alkohol
 	- **[[Labor]]**:: γ-GT↑, Transaminasen↑, ==CDT↑==[^1], hyperchr. [[Anämie]], ==[[Vitamine]]↓==
 	- **Alkoholmessung**:: Ausatemluft, [[Blut]]
 	- **Diagnosekriterien**
-- **#FunFact**:: Methanolvergiftung wird mit Ethanol therapiert
+- #FunFact Methanolvergiftung wird mit Ethanol therapiert
 ---
 
 

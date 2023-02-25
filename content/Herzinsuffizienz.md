@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie, FunFact:]
+tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Herzinsuffizienz
 ---
 ### Herzinsuffizienz
@@ -34,4 +34,4 @@ title: Herzinsuffizienz
 
 
 [^1]: Konstant überhöhte Auswurfleistung z.B. aufgrund von "Pendelvolumen" bei Aortenklappeninsuffizienz
-[^2]: Es war mal ein Kunstfehler, [[β-Blocker]] bei HI zu geben
+[^2]: #FunFact Es war mal ein Kunstfehler, [[β-Blocker]] bei HI zu geben

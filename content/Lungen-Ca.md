@@ -2,26 +2,16 @@
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Pneumologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Lungen-Ca
 ---
-> (Abstract::Auch: Bronchialkarzinom)
+> (Abstract::Alt: Bronchialkarzinom)
 - **Epidemiologie**:: 25% der Krebsmortalität; bei Diagnose 75% mit [[Metastasen]]
-- **Risikofaktoren**:: ==[[Rauchen]]== (aktiv x10, passiv x2), Noxen (z.B. [[Asbest]]), Vorschädigung ([[Lungenfibrose]], [[Tbc]]), [[Ionisierende Strahlung]]
-- **Klassifikation**
-	- **Nicht-kleinzellig / [[NSCLC]] (85%)**:: Proliferationsrate↓, Prognose↑ 
-	- **Kleinzellig / [[SCLC]] (15%)**:: Proliferationsrate↑, Prognose↓ 
-- **Symptome**
-	- **Typisch**:: [[Husten]], [[Dyspnoe]], [[Hämoptysen]], [[Hypoxie]]-Zeichen
-	- [[B-Symptomatik]], insb. [[Gewichtsverlust]]
-	- **Verdrängung**:: [[Dysphagie]], Heiserkeit, obere [[Einflussstauung]]
-	- ==[[Paraneoplastisches Syndrom]]== (häufig)
-- **[[Metastasen]]**:: [[Lymphknoten]], [[Leber]], [[Nebenniere]], [[Knochen]], [[Gehirn]]
-- **Sonderformen**:: [[Pancoast-Syndrom]], minimalinvasives [[Bronchioloalveoläres Ca]]
-- **Diagnostik** → [[Staging]]
-	- **Röntgen, [[CT]]**:: *Rundherd*, unscharf begrenzt, unverkalkt, Spicula-Ausläufer
-	- **Biopsie**:: [[Plattenepithel-Ca]] ([[NSCLC]]), ==[[Adenokarzinom]]== ([[NSCLC]], auch Nichtraucher), [[Neuroendokrine Tumoren]] ([[SCLC]])
-	- **[[Gendiagnostik]]**:: [[Mutation]] KRAS, EGFR u.a.
-- **Therapie**
-	- **Kurativ**:: Lobektomie (wenn resektabel), [[Chemotherapie]] (Cisplatin+ ab St. II), [[Radiatio]] (ab St. III), ggf. prophylaktische Schädelbestrahlung ([[SCLC]])
-	- **[[Palliativ]] (ab St. IIIA4 / M1)**:: Radiochemotherapie, [[Supportiv]]
+- **Ätiologie**:: ==[[Rauchen]]== (aktiv x10, passiv x2), Noxen (z.B. [[Asbest]]), Vorschädigung ([[Lungenfibrose]], [[Tbc]]), [[Ionisierende Strahlung]]
+- **Klassifikation**:: [[NSCLC]] (85%, günstig) ↔︎ [[SCLC]] (15%, schlecht) + [[TNM]] 
+- **Symptome**:: [[B-Symptomatik]], [[Husten]], [[Dyspnoe]], [[Hämoptysen]], [[Hypoxie]]-Zeichen, [[Dysphagie]], [[Heiserkeit]], [[Einflussstauung]], ==[[Paraneoplastisches Syndrom]]== (häufig)
+- **[[Metastasen]]**:: [[Lymphknoten]], [[Leber]], [[Nebenniere]], [[Knochen]], ==[[Gehirn]]==
+- **Sonderformen**:: [[Pancoast-Tumor]], minimalinvasives [[Bronchioloalveoläres Ca]]
+- **Diagnostik**:: [[Tumormarker]] ==[[NSE]]== ([[SCLC]]), [[Röntgen]]/[[CT]] (==Rundherd==, unscharf begrenzt, unverkalkt, Spicula-Ausläufer), [[Bronchoskopie]] mit [[Biopsie]], [[Gendiagnostik]] (KRAS, EGFR u.a.)
+	- *Biopsie*:: Plattenepithel-Ca, Adenokarzinom, [[Neuroendokrine Tumoren]]
+- **Therapie**:: [[OP]] + adjuvante (Radio-)[[Chemotherapie]] ([[Cisplatin]] u.a.)
 - **Prognose**:: Letalität↑, 5-[[JÜR]] 10%
 ---
 ### Mythbusting

@@ -4,9 +4,9 @@ title: EF
 ---
 > (Abstract::**Ejektionsfraktion.** Schlagvolumen / enddiastolisches Volumen.)
 - **Normwert**:: 60-70%
-- **Diagnostik**:: TTE, Kardio-[[MRT]]
+- **Diagnostik**:: [[TTE]], Kardio-[[MRT]]
 - **Pathologien**
 	- **↓**:: ==[[Herzinsuffizienz]]==
-		- *HFpEF:* LVEF >50%
-		- *HFmrEF:* LVEF 40-49%
-		- *HFrEF:* LVEF <40%
+		- *[[HFpEF]]:* LVEF >50%
+		- *[[HFmrEF]]:* LVEF 40-49%
+		- *[[HFrEF]]:* LVEF <40%

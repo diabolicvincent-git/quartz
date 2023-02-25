@@ -101,7 +101,7 @@ title: Atopische Dermatitis
     - **Spezifische Therapie nach SCORAD**
         - Topische antientzündliche Intervalltherapie
             - [[Corticosteroide]]
-            - Calcineurin-Inhibitoren
+            - [[Calcineurin-Inhibitoren]]
             - Sonstiges: [[Antibiotika]], Antihistaminika
         - Systemische Pharmaka
             - Cyclosporin (einziges für AD zugelassenes Immunsuppressivum)
