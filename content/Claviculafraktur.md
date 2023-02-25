@@ -9,8 +9,8 @@ title: Claviculafraktur
 - **Ätiologie**:: Kompressionsfraktur (Sturz auf Schulter / ausgestreckten Arm)
 - **Pathophysiologie**
 	- *Medialer Teil* von [[M. sternocleidomastoideus]] nach kranial gezogen
-	- *Lateraler Teil* von M. deltoideus, M. pectoralis und Armgewicht nach ventrokaudal gezogen
-	- *Cave:* Ausschluss Verletzung A./V. subclavia + [[Plexus brachialis]]
+	- *Lateraler Teil* von [[M. deltoideus]], M. pectoralis und Armgewicht nach ventrokaudal gezogen
+	- *Cave:* Ausschluss Verletzung A./V. subclavia + [[Plexus brachialis (C5-Th1)]]
 - **Diagnostik**
 	- **[[Röntgen]]** in 0° und 45°[^1], ggf. mit 10 kg Belastung / Arm
 - **Klassifikation**:: Rockwood I-VI

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Schädelbasis
 ---
-#### Schädelbasis 
 - **[[Fossa cranii anterior]]**
 	- Foramen caecum ossis frontalis
 	- Lamina cribrosa ossis ethmoidalis ([[N. olfactorius (I)]])

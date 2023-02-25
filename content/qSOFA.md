@@ -2,7 +2,8 @@
 tags: [Modul/m18, Fach/Anästhesie]
 title: qSOFA
 ---
-### Quick-SOFA / qSOFA-Score
+> Quick-[[SOFA]]
+
 Organ|Paramter|1 Pkt.
 -|-|-
 [[Lunge]]|[[AF]]|>22/min

@@ -126,7 +126,7 @@ Phototopisches [[Sehen]]: Tagessehen
 
 ![[Untitled 14 1.png]]
 
-- **Akkomodationsreflex**:: Unscharfe Abb. (Reiz) → [[Visueller Cortex]] (V1, V2) → Pretectale Kerne → [[Hirnnerven]] III → M. ciliaris kontrahiert ([[ACh]] M3) → Entdehnung der Zonulafasern → [[Augenlinse]] kann Eigenelastizität nachgeben und wird "kugeliger" (Krümmungsradius sinkt)
+- **Akkomodationsreflex**:: Unscharfe Abb. (Reiz) → [[Visueller Cortex]] (V1, V2) → Pretectale Kerne → [[Hirnnerven]] III → [[M. ciliaris]] kontrahiert ([[ACh]] M3) → Entdehnung der Zonulafasern → [[Augenlinse]] kann Eigenelastizität nachgeben und wird "kugeliger" (Krümmungsradius sinkt)
 - **Akkomodationsbreite**:: max. Steigerung der Brechkraft (Differenz zw. Kehrwerte Nahpunkt (variabel) und Fernpunkt (unendlich))
     - Kleinkinder bis 14 dpt
     - Ältere ca. 1 dpt (Elastizität lässt nach)
@@ -163,8 +163,8 @@ Phototopisches [[Sehen]]: Tagessehen
 
 - **Pupillenreflexbogen**:: Zu viel oder zu wenig Licht
     - [[Retina]] (M-Ganglienzellfasern, Melanopsin-GZ) → Prätektale Kerne
-    - **[[Miosis]]**:: M. sphincter pupillae (circulär), [[ACh]] muscarinerg
-    - **[[Mydriasis]]**:: M. dilatator pupillae, α1
+    - **[[Miosis]]**:: [[M. sphincter pupillae]] (circulär), [[ACh]] muscarinerg
+    - **[[Mydriasis]]**:: [[M. dilatator pupillae]], α1
 - **Konsensuelle Reaktion**:: Reagieren immer beide [[Auge]] (Kreuzung)
 
 ![[Untitled 20 1.png]]

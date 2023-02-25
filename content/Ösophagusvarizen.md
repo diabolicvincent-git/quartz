@@ -9,7 +9,7 @@ title: Ösophagusvarizen
 	- *Unspezifisch:* Übelkeit, Meteorismus, Aufstoßen, Schluckstörung
 - **Klassifikation**:: [[Paquet]]
 - **Therapie**
-	- *Allgemein:* Kreislaufstabilisation, [[Intubation]], Magensonde, ggf. [[Transfusion]]
+	- *Allgemein:* Kreislaufstabilisation, [[Intubation]], [[Magensonde]], ggf. [[Transfusion]]
 	- *Medikamente:* ==Terlipressin== 3-5 d, [[PPI]] hochdosiert, [[Antibiotika]], ggf. [[Vitamin K]]
 	- *Endoskopie:* [[Erythromycin]] + ==Gummibandligatur==
 	- *Interventionelle Radiologie:* [[TIPS]]

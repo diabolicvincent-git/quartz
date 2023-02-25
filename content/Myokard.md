@@ -2,8 +2,7 @@
 tags: [Modul/m05, Modul/m11, Fach/Kardiologie, Fach/Histologie]
 title: Myokard
 ---
-### Myokard / Herzmuskel
-> *Funktionelles Syncytium* aus Kardiomyocyten im [[Herz]]
+> **Herzmuskel.** *Funktionelles Syncytium* aus Kardiomyocyten im [[Herz]]
 - **Histologie**
 	- **Kardiomyocyten**
 		- *Besonderheiten:* Einkernig, zentraler Zellkern, myofibrillenfreie Höfe, viele [[Mitochondrien]]

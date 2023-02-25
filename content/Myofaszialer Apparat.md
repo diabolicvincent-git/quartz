@@ -16,7 +16,7 @@ title: Muskelarchitektur & Myofaszialer Apparat
 - **Primärbündel** mit ca. 1 mm² / 250 Fasern
 - **Sekundärbündel** mit mehreren mm² ("Fleischfaser")
 
-## die Bedeutung bindegewebiger Faszienstrukturen an typischen Beispielen (z.B. allg. Muskelfaszie, Fascia thoracolumbalis, Aponeurosen) und deren funktionelle Bedeutung (Proprioception, Kraftentwicklung, Schmerz) im Bewegungsapparat darlegen
+## die Bedeutung bindegewebiger Faszienstrukturen an typischen Beispielen (z.B. allg. Muskelfaszie, Fascia thoracolumbalis, Aponeurosen) und deren funktionelle Bedeutung (Proprioception, Kraftentwicklung, [[Schmerz]]) im Bewegungsapparat darlegen
 
 - **Vorkommen & Nomenklatur**
     - Geflechtartiges [[Bindegewebe]] (z.B. dichtes/fibröses Kollagennetzwerk)

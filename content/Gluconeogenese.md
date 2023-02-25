@@ -15,4 +15,4 @@ title: Gluconeogenese
 	- **↑**:: [[Glucagon]], Acetyl-CoA, Citrat
 	- **↓**:: [[Insulin]], ADP, Fructose-2,6-bisphosphat, AMP
 
-[^1]: Ermöglicht, dass [[Glucose]] aus Leber/Niere die Zelle verlassen kann zur Versorgung anderer Organe (Defekt: M. von Gierke → [[Hypoglycämie]])
+[^1]: Ermöglicht, dass [[Glucose]] aus Leber/[[Niere]] die Zelle verlassen kann zur Versorgung anderer Organe (Defekt: M. von Gierke → [[Hypoglycämie]])

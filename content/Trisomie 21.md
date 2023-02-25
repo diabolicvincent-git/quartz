@@ -23,7 +23,7 @@ title: Trisomie 21
 - **Organmanifestationen**
 	- ==[[Herzfehler]]== (insb. Septumdefekt >40%)
 	- Duodenalatresie
-	- M. Hirschsprung (Neuronmangel im Enddarm → Obstipation)
+	- [[M. Hirschsprung]] (Neuronmangel im Enddarm → Obstipation)
 	- Psychomotorische Entwicklungsstörung (ca. doppelte Zeit zu Meilensteinen; IQ ≈ 50)
 - **Sonstige Stigmata**
 	- Vierfingerfurche (auch 1-2% der Normalbevölkerung), Sandalenlücke

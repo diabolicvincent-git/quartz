@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Physiologie]
 title: Schlucken
 ---
-### Physiologie des Schluckvorgangs
 - Semireflektorisch-sensomotorischer Vorgang
 - >50 verschiedene Muskelpaare (mimische und pharyngeale)
 - 5 [[Hirnnerven]]

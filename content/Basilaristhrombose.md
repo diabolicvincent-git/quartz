@@ -6,5 +6,5 @@ title: Basilaristhrombose
 - **Lokalisation**:: [[A. basilaris]]
 - **Symptome**:: ==[[Vigilanzminderung]] + Hirnstammschädigung + motorische Störung==
 	- *Distal*:: Okulomotorikstörung, Pupillenstörung, [[Vigilanzminderung]]
-	- *Mitte*:: Tetraplegie/-parese, ggf. [[Locked-in-Syndrom]]
+	- *Mitte*:: Tetraplegie/-[[parese]], ggf. [[Locked-in-Syndrom]]
 	- *Proximal*:: [[Koma]], Tetraplegie, Atemlähmung, [[Ataxie]], [[Dysarthrie]], [[Dysphagie]]

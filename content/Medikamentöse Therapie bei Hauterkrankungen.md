@@ -51,7 +51,7 @@ title: Medikamentöse Therapie bei Hauterkrankungen
         - [[Na+]]- und [[Wasser]]-Resorption → [[Hypertonie]], [[Ödeme]]
         - Kaliumausscheidung → [[Hypokaliämie]]
     - Hypocalciämie (Vitamin-D-Produktion↓ → Calciumresorption im Darm↓)
-    - Knochenatrophie → Osteoporose
+    - Knochenatrophie → [[Osteoporose]]
     - Myopathie, Muskelatrophie
     - Lipolyse → [[Dyslipidämie]] & Umverteilung → Stammfettsucht, Stiernacken, Vollmondgesicht
     - Proteinolyse → [[BZ]]↑ (diabetogen)

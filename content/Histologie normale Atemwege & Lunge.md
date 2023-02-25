@@ -64,7 +64,7 @@ title: Histologie normale Atemwege & Lunge
     - Semi-rigides Offenhalten: Knorpelspangen
     - Verankerung, Führung großer Leitungsbahnen: Tunica adventitia
 
-## die respiratorischen Abschnitte der Lunge (Bronchioli respiratorii, Ductus alveolares, Sacculi alveolares, Alveolen) beschreiben, im histologischen Präparat oder auf einer Abbildung zuordnen und ihre Unterschiede erläutern
+## die respiratorischen Abschnitte der [[Lunge]] (Bronchioli respiratorii, Ductus alveolares, Sacculi alveolares, Alveolen) beschreiben, im histologischen Präparat oder auf einer Abbildung zuordnen und ihre Unterschiede erläutern
 
 ## den Aufbau der Alveolen und der Blut-/ Luftschranke beschreiben und anhand von elektronenmikroskopischen Abbildungen erläutern
 

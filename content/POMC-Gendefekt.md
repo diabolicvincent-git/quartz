@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Endokrinologie]
 title: POMC-Gendefekt
 ---
-### [[POMC]]-Gendefekt 
 - **Symptome** entsprechend der Funktionen von *[[POMC]]* ([[Hypothalamus-Hypophysen-Achse]])
 	- Gestörte [[Pigmentierung]] ([[MSH]]-Mangel)
 	- Frühmanifeste [[Adipositas]] (hypothalamisches Sättigungsgefühl als Antwort auf [[Leptin]]↑ fehlt)

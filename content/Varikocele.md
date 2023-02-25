@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Urologie, Art/Pathologie]
 title: Varikocele
 ---
-### Varikocele testis
 > Erweiterung des Venenkonvoluts (Plexus pampiniformis) im [[Hoden]]
 - **Ätiologie**
 	- *Primär:* Abflussbehinderung i.d.R. links

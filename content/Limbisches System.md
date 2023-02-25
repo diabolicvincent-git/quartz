@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: Limbisches System
 ---
-### Limbisches System 
 > Funktionell zusammengehörige Strukturen aus verschiedenen Hirnabschnitten mit Hauptaufgaben: *[[Gedächtnis]]bildung, [[Emotionen]], [[vegetative]] Funktionen*
 - **Corticale Bestandteile**
 	- **[[Hippocampus]]**: Lernen/[[Gedächtnis]]

@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Fach/Physiologie]
 title: Maculaorgan
 ---
-### Maculaorgan
 > Linearbeschleunigung
 - **Aufbau**:: Membranöse Hohlräume im knöchernen Labyrinth, mit [[Endolymphe]] gefüllt
 - **Histologie**

@@ -2,7 +2,7 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Hämatologie, Fach/Kardiologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Thrombose
 ---
-### Thrombose / Phlebothrombose / TVT 
+> Phlebothrombose / TVT 
 - **Ätiologie**
 	- **Erworben** mit div. Risikofaktoren / Auslösern
 	- **Hereditär**:: [[Thrombophilie]] (autosomal-dominant) → Rezidivrisiko!
@@ -47,7 +47,7 @@ title: Thrombose
 		- Essentielle Thrombocythämie, M. Waldenström, [[Polycythaemia vera]], [[Paroxysmale nächtliche Hämoglobinurie]]
 		- [[Exsikkose]], [[Hypovolämie]], insb. iatrogen durch [[Diuretika]]
 	- Rheumatologische Erkrankungen: [[SLE]], [[M. Behcet]], [[Granulomatose mit Polyangiitis]]
-	- Nephrotisches Syndrom (Antithrombin-III-Proteinverlust)
+	- [[Nephrotisches Syndrom]] (Antithrombin-III-Proteinverlust)
 	- Respiratorische Insuffizienz bei [[COPD]]
 	- Arteriosklerose
 - **[[Infektionen]]**

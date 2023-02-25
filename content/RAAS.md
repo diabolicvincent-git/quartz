@@ -2,8 +2,7 @@
 tags: [Modul/m14, Modul/m11, Fach/Nephrologie]
 title: RAAS
 ---
-#### Renin-Angiotensin-Aldosteron-System / RAAS
-> Ziel: Aufrechterhaltung des [[Blutdruck]]s und der [[GFR]]
+> **Renin-Angiotensin-Aldosteron-System.** Ziel: Aufrechterhaltung des [[Blutdruck]]s und der [[GFR]]
 - **Physiologie**
 	1. [[Renin]]ausschüttung nach Stimulation (z.B. durch [[Hypotonie]])
 	2. [[Renin]] spaltet [[Angiotensinogen]] zu [[Angiotensin I]]

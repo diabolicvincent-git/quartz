@@ -4,7 +4,7 @@ title: Katecholamine
 ---
 - **Einteilung**
 	- **[[Adrenalin]]**
-	- **Noradrenalin**
+	- **[[Noradrenalin]]**
 	- **[[DOPamin]]**
 - **Wirkung**:: [[GPCR]] ==[[Adrenozeptoren]]== (*"fight or flight"*)
 	- 

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Myeloproliferative Neoplasien
 ---
-### Myeloproliferative Neoplasien / MPN
 > Proliferation ≥1 myeloischer Zellreihen im [[Knochenmark]] gesteigert, Differenzierung anfangs normal
 - **Entitäten**
 	- [[Polycythaemia vera]] ([[Erythrocyten]]↑)

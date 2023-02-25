@@ -2,7 +2,6 @@
 tags: [Modul/m06, Modul/m15, Fach/Physiologie]
 title: Schlafphasen
 ---
-### Schlafphasen
 |Phase|Beschreibung|[[EEG]]|
 |-|-|-|
 |W|wach, aufmerksam|Beta-Wellen|

@@ -2,8 +2,7 @@
 tags: [Modul/m26, Fach/Gastroenterologie]
 title: Kurzdarmsyndrom
 ---
-### Kurzdarmsyndrom / Darmversagen
-> Gestörte intestinale Resorption nach Darmverlust
+> **Darmversagen.** Gestörte intestinale Resorption nach Darmverlust
 
 - **Ätiologie**:: *Resektion* z.B. nach [[Mesenterialinfarkt]], Mesenterialvenenthrombose, [[M. Crohn]], [[Hernie]] mit Inkarzeration, Volvulus, Strahlenenteritis, Trauma, Fistel
 - **Pathophysiologie**

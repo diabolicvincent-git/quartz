@@ -2,7 +2,6 @@
 tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. buccinator
 ---
-##### M. buccinator
 *   [[Maxilla]]
 *   [[Mandibula]]
 *   Raphe pterygomandibularis

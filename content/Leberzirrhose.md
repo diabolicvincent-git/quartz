@@ -2,7 +2,6 @@
 tags: [Modul/m12, Modul/m17, Fach/Gastroenterologie]
 title: Leberzirrhose
 ---
-### Leberzirrhose 
 - **Ätiologie**
 	- *Toxisch:* ==[[Alkohol]]== (50%), NASH, Medikamente, Toxine
 	- *Entzündung:* ==Chronische [[Hepatitis]] B/C/D==, Autoimmunhepatitis, [[Parasiten]], [[Cholangitis]]

@@ -55,7 +55,7 @@ FROM #f/🧠/Demenz
 - Korrellation mit Gendefekten (Presenilin-1 und -2, *Amyloid-Precursor-[[Proteine]]*, *Apolipoprotein E4*)
 - Degenerativer Prozess vermutlich bereits jahrzentelang vorher schleichend
 #### Hauptmerkmale
-- **Hirnatrophie**:: Insb. im parieto-temporalen und frontalen Cortex; Verminderung *cholinerger* Innervation im *Ncl. basalis Meynert* (medikamentöser Ansatzpunkt)
+- **Hirnatrophie**:: Insb. im parieto-temporalen und frontalen Cortex; Verminderung *cholinerger* Innervation im *[[Ncl. basalis Meynert]]* (medikamentöser Ansatzpunkt)
 - **Extrazelluläre Amyloid-Plaques** (aus zerschnittenem Amyloid-Precursor-[[Proteine]]); Relevanz unklar
 - **Intrazelluläre Neurofibrillenbündel**:: Konglomerate aus hyperphosphoryliertem Tau-[[Proteine]] ([[Mikrotubuli]]-assoziiert)
  - **Immunologische Veränderungen**:: Schädigung von Neuronen durch aktivierte Mikrogliazellen möglich

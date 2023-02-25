@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Endokrinologie]
 title: Paraneoplastisches Syndrom
 ---
-### Paraneoplastisches Syndrom
 > Neben [[Tumor]]-Erkrankung auftretende Phänomene, häufig bei [[SCLC]]
 - **Allgemein**:: [[B-Symptomatik]], Tumorkachexie, Hyperthermie, [[Thrombose]], [[Tumorschmerz]]
 - **Endokrinologisch**

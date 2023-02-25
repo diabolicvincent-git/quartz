@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Allgemeinmedizin, Art/Intervention]
 title: VINDICATE
 ---
-### VINDICATE
 > [[DD]] Schema nach Ätiologie
 - **V**askulär
 - **I**nfektion, Inflammation

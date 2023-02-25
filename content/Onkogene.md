@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Genetik]
 title: Onkogene
 ---
-### (Proto-)Onkogene
 > Fördern physiologische Zellteilung, [[Tumorentstehung]]
 -   Physiologisch *Protoonkogene* nur durch [[Wachstumsfaktoren]]-/signale aktiv
 -   **[[Mutation]]**:: Daueraktivierung (*gain-of-function*) → [[Onkogene]][^1]
@@ -13,7 +12,7 @@ title: Onkogene
 - abl-Translokation → Chronisch myeloische Leukämie ([[CML]])
 - MYC-Amplifikation → Neuroblastom
 - HER2/neu → [[Mamma-Ca]]
-- siehe [[Apoptose]] → Neoplasien
+- siehe [[Apoptose]] → [[Neoplasie]]
 
 ### Mutationsarten
 - **Punktmutation**:: ==HRAS==, KRAS, NRAS, RET, BRAF

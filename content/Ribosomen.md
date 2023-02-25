@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie, Fach/Genetik]
 title: Ribosomen
 ---
-### Ribosomen
 > Komplexe aus [[rRNA]] und [[Proteine]]n
 - **Funktion**:: [[Translation]]/Proteinbiosynthese
 - **Aufbau**:: Komplex aus ⅔ [[rRNA]] und ⅓ [[Proteine]] mit 2 Untereinheiten

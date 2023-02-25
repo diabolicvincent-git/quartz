@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Endokrinologie, Art/Pathologie]
 title: Primärer Hyperaldosteronismus
 ---
-### Primärer [[Hyperaldosteronismus]] / M. Conn
-> Adenom der [[NNR]] → autonome [[Aldosteron]]-Synthese
+> M. Conn. Adenom der [[NNR]] → autonome [[Aldosteron]]-Synthese
 - Therapierefraktäre [[Hypertonie]], [[Hypokaliämie]], ggf. metabolische [[Alkalose]], ggf. [[Polyurie]][^1] 
 - **Diagnostik**
 	- **Aldosteron-[[Renin]]-Quotient (AQR)**:: Beim Conn-Syndrom stark erhöht

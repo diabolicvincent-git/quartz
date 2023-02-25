@@ -12,7 +12,7 @@ title: Synkope
 - **Diagnostik**:: [[San Francisco Syncope Rule]]
 	- **[[Anamnese]]**:: ==Low-Risk ("PPP")==?
 		- Position (im Stehen, nach Aufstehen)
-		- Provokation (langes Stehen, [[Dehydratation]], Schmerz)
+		- Provokation (langes Stehen, [[Dehydratation]], [[Schmerz]])
 		- Prodromi (Ohrensausen, "Schwarz vor Augen")
 	- **[[EKG]]**:: Ischämie? [[HRST]]? [[Long-QT]]?, Brugada? [[Hypertrophie]]?
 	- **[[BGA]]**:: [[Anämie]]? [[Elektrolytstörungen]]?

@@ -20,7 +20,7 @@ title: Regulation der Herztätigkeit
 	- **[[Arbeitsmyokard]]** 
 		- L-Typ-Calciumkanäle↑ (Verstärkter [[Ca2+]] Einstrom) + Enthemmung SERCA (mehr [[Ca2+]] ins sarcoplasmatische Reticulum → stärkerer Ausstrom im nächsten Zyklus) + Ryanodinrezptor↑ (Verstärkter [[Ca2+]] Ausstrom SR → IZ) → Erhöhung des IZ [[Ca2+]] → Kontraktionskraft↑ (*positiv [[inotrop]]*)
 		- Hemmung Phospholamban → Enthemmung SERCA → schnellerer [[Ca2+]] Rücktransport → schnellere Relaxation (*positiv [[lusitrop]]*)
-### Parasympathikus
+### [[Parasympathikus]]
 - **Innervationsgebiet**:: Nur *Vorhöfe*
 - **Nerven**:: Rr. cardiaci thoraci, Rr. cardiaci cervicales superior/inferior aus [[N. vagus (X)]]
 - **Wirkung**:: Muscarinerge M2-[[ACh]]-[[Rezeptor]]

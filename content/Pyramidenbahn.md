@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: Pyramidenbahn
 ---
-### Pyramidenbahn
 
 - Pyramidenbahn = v.a Tractus corticospinalis
 - Pyramidenbahnkreuzung rechts-links in [[Medulla oblongata]] (90%), 10% ungekreuzt

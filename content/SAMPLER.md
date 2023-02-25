@@ -2,7 +2,6 @@
 tags: [Fach/Notfallmedizin, Art/Intervention]
 title: SAMPLER
 ---
-### SAMPLER
 > Notfall-[[Anamnese]]
 - **==S==ymptome**
 - **==A==llergien**

@@ -2,7 +2,7 @@
 tags: [Modul/m09, Fach/Dermatologie, Fach/Rheumatologie]
 title: Sarkoidose
 ---
-### Sarkoidose / M. Boeck
+> M. Boeck
 - **Epidemiologie**:: 20.-40. LJ
 - **Ätiologie**:: Unbekannt, [[HLA]]-Assoziation
 - **Symptome**

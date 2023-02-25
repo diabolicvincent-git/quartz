@@ -2,7 +2,6 @@
 tags: [Modul/m36, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Propofol
 ---
-### Propofol
 > [[Narkotika]] (kurz wirksam, ca. 5 min)
 - **Indikation**:: Allgemeinanästhesie, [[Sedierung]] (vor Eingriff, bei [[Beatmung]])
 - **Wirkmechanismus**:: Bindung an GABA-A-Rezeptor, Induktion von α-Wellen

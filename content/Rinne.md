@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Art/Intervention]
 title: Rinne
 ---
-### Rinne
 > Test der *[[Schallleitungsstörung]]* beider Ohren
 
 - **Durchführung pro Seite**

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Medulla oblongata
 ---
-### Medulla oblongata 
 - **Gliederung (ventral → dorsal)**
 	- [[Pyramis]]: Durchziehende Bahnen
 	- [[Tegmentum myelencephali]]: Kerngebiete

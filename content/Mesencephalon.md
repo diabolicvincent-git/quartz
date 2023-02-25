@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Mesencephalon
 ---
-### Mesencephalon 
 - **Gliederung (ventral → dorsal)**
 	- [[Crura cerebri]]
 	- [[Tegmentum mesencephali]]

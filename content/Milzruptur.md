@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Chirurgie, Fach/Anästhesie, Art/Pathologie]
 title: Milzruptur
 ---
-### Milzruptur
 - **Epidemiologie**:: Mit 45% häufigste abdominelle Beteiligung bei [[Polytrauma]]
 - **Ätiologie**
 	- *Trauma:* v.a. stumpfes Bauchtrauma (Verkehrsunfall, Sicherheitsgurt)

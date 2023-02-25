@@ -14,5 +14,5 @@ title: Extrauteringravidität
 	- **Transvaginale Sonographie**:: Fehlender Schwangerschaftsnachweis, ggf. Raumforderung, ggf. freie Flüssigkeit im [[Douglas-Raum]]
 - **DD**:: [[Appendizitis]], Adnexitis, Endomyometritis
 - **Therapie**
-	- *[[OP]]:* Laparoskopie oder Notfall-Laparotomie mit Salpingotomie/Salpingektomie
+	- *[[OP]]:* [[Laparoskopie]] oder Notfall-Laparotomie mit Salpingotomie/Salpingektomie
 	- *Medikamente:* ==[[Rh]]-Prophylaxe==, ggf. [[Methotrexat (MTX)]] zum [[Abort]]

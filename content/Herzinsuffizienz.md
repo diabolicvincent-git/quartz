@@ -20,7 +20,7 @@ title: Herzinsuffizienz
 	- **[[Labor]]**:: (NT-pro)[[BNP]]↑↑ 
 	- **[[Röntgen]]**:: *Kardiomegalie* ("Holzschuhform", [[Herz]]-Thorax-Quotient >0.5), *Pulmonale Stauungszeichen* (Gefäßzeichnung↑, [[Pleuraerguss]], [[Lungenödem]])
 - **Therapie**
-	- **Allgemein**:: Lebensstil, [[Impfung]] (Pneumokokken, Influenza), Grunderkrankung
+	- **Allgemein**:: Lebensstil, [[Impfung]] ([[Pneumokokken]], Influenza), Grunderkrankung
 	- **Medikamente** ([[Herzinsuffizienz-Therapie]])
 		- *[[ACE-Hemmer]]:* [[NYHA]] I-IV (alternativ bei [[UAW]]: [[AT1-Blocker]])
 		- *[[β-Blocker]]:* [[NYHA]] II-IV (bei Z.n. [[OMI]] ab I)[^2]

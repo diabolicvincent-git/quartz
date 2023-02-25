@@ -14,7 +14,7 @@ title: Fehlbildung
 	- Hypoplasie
 	- Malrotation
 - **Abdomen**
-	- *Atresie (80%):* Ösophagusatresie, Duodenalatrsie
+	- *Atresie (80%):* [[Ösophagusatresie]], Duodenalatrsie
 	- *[[M. Hirschsprung]] (10%)*
 	- *Volvulus / Malrotation (6%*
 	- *Mekoniumileus (2%):* Cave DD [[Mukoviszidose]]

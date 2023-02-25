@@ -2,7 +2,6 @@
 tags: [Modul/m20, Wichtig, Fach/Psychiatrie]
 title: Psychopathologischer Befund
 ---
-### Psychopathologischer Befund
 - **[[Bewusstseinsstörung]]**:: qualitativ (Trübung) ↔ quantitativ ([[GCS]]↓)
 - **Orientierungsstörung**:: [[ZOSP]]
 - **Aufmerksamkeits-/Gedächtnisstörung**:: z.B. [[Demenz]]

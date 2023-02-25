@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie]
 title: Staph. aureus
 ---
-### Staphylococcus aureus
 > [[grampositiv]] > Kokken > [[Staphylokokken]] (Katalase+) > [[Staph. aureus]] (==Koagulase+==)
 - **Übertragung**:: ==Schmierinfektion==, Tröpfcheninfektion
 - **Erkrankung**

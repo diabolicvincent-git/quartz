@@ -25,7 +25,7 @@ title: Wundinfektion
 - **Intraoperativ**
 	- Steriles Equipment
 	- Gewebeschonendes Operieren
-	- Handschuhwechsel bei Perforation
+	- Handschuhwechsel bei [[Perforation]]
 	- Personenanzahl im OP begrenzt
 	- Türen geschlossen halten
 	- Monitoring

@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Infektiologie, Fach/Physiologie]
 title: Leukocyten
 ---
-### Leukocyten
 - **Normwert**:: 4.000 – 10.000 / μl
 - **Subtypen**
 	- **[[Neutrophile Granulocyten]] (60%)**: [[Bakterien]]-[[Infektionen]], Phagocytose

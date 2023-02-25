@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Biochemie/Molekül]
 title: Leukotriene
 ---
-### Leukotriene
 > [[Eicosanoide]]
 - **Wirkung**:: Bronchokonstriktion, Kapillarpermeabilität↑, [[Chemotaxis]] 
 - **Wirkmechanismus**:: [[GPCR]]

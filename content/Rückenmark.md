@@ -2,7 +2,6 @@
 tags: [Modul/m15, Modul/m10, Fach/Neurologie, Fach/Anatomie]
 title: Rückenmark
 ---
-#### Rückenmark 
 > Teil des [[ZNS]], der [[Gehirn]] mit [[PNS]] verbindet und teils Informationen eigenständig verschaltet (*spinale [[Reflex]]*)
 - **Nervenwurzeln**
 	- *Radix anterior* ([[Efferenzen]])

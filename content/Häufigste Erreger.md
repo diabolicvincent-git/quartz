@@ -15,7 +15,7 @@ Harnwegsinfekte|"Chlamydia trachomatis, [[E. coli]]"||
 Intrauterine [[Infektionen\|Infektionen]]|"Chlamydien, Listeria monocytogenes, Treponema pallidum ([[Syphilis]])"|Toxoplasma gondii|"Coxsackieviren, Cytomegalievirus, Parvovirus B19, Rötelnvirus, Varizella-Zoster-Virus"
 Laryngitis|"[[Haemophilus influenzae]], [[Pneumokokken]]"||"Adenoviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren"
 [[Meningitis]]|"[[Haemophilus influenzae]], [[Meningokokken]], [[Pneumokokken]]"||FSME-Virus
-Myokarditis|||"Adenoviren, Coxsackieviren"
+[[Myokarditis]]|||"Adenoviren, Coxsackieviren"
 Opportunistische [[Infektionen]]|"Mycobacterium avium Complex, Nicht-tuberkulöse Mykobakterien"|"Microsporidien, Penicillium marneffei, Pneumocystis jirovecii, Toxoplasma gondii"|JC-Virus
 [[Peritonitis]]|"Enterokokken, [[E. coli]]"|||
 Pharyngitis|||"Adenoviren, Coronaviren, Influenzaviren, Parainfluenzaviren, Respiratory-syncytial-(RS)-Viren"

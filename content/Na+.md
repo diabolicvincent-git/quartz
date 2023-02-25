@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Nephrologie]
 title: Na+
 ---
-### Natrium / Na+
-> Extrazellulär wichtigstes Kation
+> **Natrium.** Extrazellulär wichtigstes Kation
 - **Funktion**
 	- [[Wasserhaushalt]] (Osmose)
 	- Sekundär aktiver Transport

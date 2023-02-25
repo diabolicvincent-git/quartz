@@ -18,7 +18,7 @@ title: Inadäquate Immunreaktion
 - Permanenter chronischer Entzündungsreiz → fibrotischer Umbau
 	- Verlust originären Leberparenchyms
 	- Druckerhöhung (portale Hypertension)
-	- Leberzirrhose → [[HCC]]
+	- [[Leberzirrhose]] → [[HCC]]
 
 - **[[Inkubationszeit]]**:: 2-16 Wochen
 - (+)ssRNA

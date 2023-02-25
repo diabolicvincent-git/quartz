@@ -2,7 +2,7 @@
 tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Fach/Anatomie/Organ]
 title: Uterus
 ---
-### Uterus / Gebärmutter
+> Gebärmutter
 - **Funktion**:: [[Menstruation]], Nidation der befruchteten Eizelle, Beherbergung von Embryo/Fetus während [[Schwangerschaft]], Austreibung bei [[Geburt]]
 - **Aufbau**
 	- **Corpus / Gebärmutterkörper** (obere ⅔)

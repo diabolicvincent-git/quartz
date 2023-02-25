@@ -2,7 +2,6 @@
 tags: [Modul/m33, Art/Intervention, Fach/Gynäkologie, Fach/Pharmakologie]
 title: Medikamente in der Schwangerschaft
 ---
-### Medikamente in der [[Schwangerschaft]]
 > www.embryotox.de
 - **Zu bevorzugen**
 	- **[[Antihypertensiva]]** 

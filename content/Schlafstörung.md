@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie, Fach/Allgemeinmedizin]
 title: Schlafstörung
 ---
-### Schlafstörung
 - **Einteilung**
 ![[Insomnie]]
 ![[Parasomnie]]

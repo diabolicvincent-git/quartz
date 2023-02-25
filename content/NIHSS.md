@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Neurologie, Art/Intervention]
 title: NIHSS
 ---
-### NIHSS
 > Beurteilung [[Schlaganfall]]-Schweregrad
 - **1A**:: Vigilanz
 - **1B**:: Orientierung
@@ -13,7 +12,7 @@ title: NIHSS
 - **5AB**:: Armparese (li/re getrennt)
 - **6AB**:: Beinparese (li/re getrennt)
 - **7**:: Extremitätenataxie (Finger-Nase-Versuch und Knie-Hacke-Versuch)
-- **8**:: Hemihypästhesie (Berührungsempfinden, Schmerz)
+- **8**:: Hemihypästhesie (Berührungsempfinden, [[Schmerz]])
 - **9**:: [[Aphasie]]
 - **10**:: Dysarthrie
 - **11**:: Neglect

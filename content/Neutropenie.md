@@ -2,7 +2,6 @@
 tags: [Modul/m08, Modul/m19, Fach/Hämatologie]
 title: Neutropenie
 ---
-### Neutropenie
 > Verringerung der Zahl [[Neutrophile Granulocyten]]
 - **Stadien**
 	- **I°** >1.500 Zellen/μl
@@ -15,5 +14,4 @@ title: Neutropenie
 	- [[Bakterien]]-[[Infektionen]], z.B. [[Typhus]] (selten)
 	- Kostmann-Syndrom
 - Neutropenie + Granulocytopenie synonym verwandt, da [[Neutrophile Granulocyten]] den Großteil der [[Granulocyten]] ausmachen
----
-![[Agranulocytose]]
+- **Komplikationen**:: [[Agranulocytose]], [[Neutropenisches Fieber]]

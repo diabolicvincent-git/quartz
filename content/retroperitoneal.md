@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Urologie, Fach/Anatomie]
 title: retroperitoneal
 ---
-### Retroperitonealraum
 - **Sekundär retroperitoneal**
 	- [[Duodenum]], pars descendens/horizontalis/ascendens
 	- [[Pankreas]]

@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie]
 title: Pentosephosphatweg
 ---
-### Pentosephosphatweg / Hexosemonophosphatweg
 > Abzweig der [[Glycolyse]]
 - **Ziel**:: Bildung von ==NADPH+H+== ([[Antioxidative Schutzsysteme]], Anabolismus) und Pentosen ([[DNA]]-Synthese)
 - **Ort**:: Cytosol aller [[Zellen]] (insb. [[NNR]], [[Leber]])

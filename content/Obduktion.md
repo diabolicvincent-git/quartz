@@ -2,7 +2,7 @@
 tags: [Modul/m21, Fach/Rechtsmedizin, Art/Intervention]
 title: Obduktion
 ---
-### Obduktion / Innere [[Leichenschau]]
+> Innere [[Leichenschau]]
 - **Einteilung**
 	- **Klinische Obduktion**:: Medizinisch-wissenschaftliche Klärung der Todesursache
 		- *Voraussetzung:* ==Natürliche [[Todesart]]== + Einverständnis von Toten / Angehörigen

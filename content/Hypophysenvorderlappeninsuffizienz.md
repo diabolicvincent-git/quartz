@@ -11,7 +11,7 @@ title: Hypophysenvorderlappeninsuffizienz
 	- *[[FSH]]/[[LH]]↓:* Hypogonadotroper [[Hypogonadismus]] (Libido↓, [[Amenorrhoe]], Scham-/Augen-Behaarung↓), Androgynie
 	- *[[TSH]]↓:* [[Hypothyreose]]
 	- *[[ACTH]]↓:* [[NNR-Insuffizienz]] (Adynamie, [[Hypotonie]], Übelkeit, [[Hyponatriämie]], Blässe[^1], [[Addison-Krise]])
-	- *Prolactin↓:* Agalactie
+	- *[[Prolactin]]↓:* Agalactie
 - **Diagnostik**
 	- **Labor**
 		- [[Na+]], Serumosmolalität, Urinosmolalität

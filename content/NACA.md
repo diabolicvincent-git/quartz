@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: NACA
 ---
-### NACA
 - **0°**:: Keine Störung
 - **I°**:: Geringfügige Störung (z.B. [[Prellung]], [[Verbrennung]] I°)
 - **II°** Leichte bis mäßige Störung (z.B. Fingerfraktur, [[Schulterluxation]])

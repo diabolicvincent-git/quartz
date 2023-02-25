@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Fach/Anatomie]
 title: Nasennebenhöhlen
 ---
-### Nasennebenhöhlen 
 > 4 paarige Nasennebenhöhlen (*Sinus paranasales*)
 - **Funktion**:: Oberflächenvergrößerung zur Anfeuchtung/Erwärmung, Phonation, Gewichtsreduktion
 ## Sinus frontalis

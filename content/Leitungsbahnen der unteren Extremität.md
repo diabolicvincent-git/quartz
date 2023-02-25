@@ -16,4 +16,4 @@ title: Leitungsbahnen der unteren Extremität
 
 ## Nerven
 
-![[Plexus lumbosacralis]]
+![[Plexus lumbosacralis (Th12-S3)]]

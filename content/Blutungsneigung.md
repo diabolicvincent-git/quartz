@@ -99,7 +99,7 @@ title: Blutungsneigung
 - **Therapie**
 	- **Faustregel bei Substitution**
 		- 1 Einheit / kgKG → 1% Aktivität↑ 
-		- 1 Einheit PPSB / kgKG → 1% [[Quick]]↑ 
+		- 1 Einheit [[PPSB]] / kgKG → 1% [[Quick]]↑ 
 		- 1 ml [[FFP]] / kgKG → 1% Aktivität↑ 
 		- *Cave:* Umsatzsteigerung (z.B. [[Sepsis]], [[DIC]], [[Blutung]])
 

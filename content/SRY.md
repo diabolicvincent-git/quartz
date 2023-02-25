@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Embryologie, Fach/Genetik/Gen, Fach/Biochemie, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Gynäkologie, Fach/Urologie]
 title: SRY
 ---
-### Sex determining region of Y / SRY-Gen
+> Sex determining region of Y Gen
 - **Funktion**:: Induziert Bildung von Testisdeterminierender Faktor / TDF → [[Geschlechtsentwicklung]]
 	- **SRY↑**:: [[Hoden]]
 	- **SRY↓**:: [[Ovar]]

@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Primäre Hämostase
 ---
-### Primäre [[Hämostase]]
 1. **Vaskuläre Blutstillung**:: [[Vasokonstriktion]] → Durchblutung↓, Scherkräfte↑, Adhäsion↑ 
 2. **Thrombocytenadhäsion**:: Aktivierung von [[vWF]] durch ADAMTS13 → [[vWF]]-Bindung an [[Kollagen]] + thrombocytären [[vWF]]-[[Rezeptor]]
 3. **Thrombocytenaktivierung**:: [[ADP]]-[[Sekretion]] aus adhärenten [[Thrombocyten]] → Pseudopodien-Ausbildung, [[Thromboxan A2]]↑[^1], [[ADP]]↑[^2] (*positive Rückkopplung*)

@@ -2,7 +2,6 @@
 tags: [Modul/m18, ToDo, Fach/Infektiologie, Fach/Infektiologie/Erreger/Parasiten]
 title: Parasiten
 ---
-### Parasiten
 - **Einteilung**
 	- **Endoparasiten**
 		- [[Protozoen]] (Einzeller, Urtierchen)
@@ -13,7 +12,7 @@ title: Parasiten
 - **Symptome**:: [[Fieber]], Eosinophilie, [[Diarrhoe]]
 
 
-## Plasmodien / Malaria
+## Plasmodien / [[Malaria]]
 
 ## Trypanosomen / Schlafkrankheit
 

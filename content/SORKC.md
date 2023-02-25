@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie]
 title: SORKC
 ---
-### SORKC-Modell
 > Analyse in der [[Verhaltenstherapie]]
 - **==S==timulus**:: In welcher Situation tritt das Verhalten auf?
 - **==O==rganismus**:: Welcher Persönlichkeitstyp?

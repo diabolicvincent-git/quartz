@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Labor]
 title: Laborfehler
 ---
-### Laborfehler
 - **Präanalytische Fehler (62%)**
 	- Patientenvorbereitung (z.B. Nahrungskarenz, bestimmte Diät)
 	- Probenentnahme (z.B. Kontamination mit [[Infusionslösung]])[^1]

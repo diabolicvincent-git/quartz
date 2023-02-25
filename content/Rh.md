@@ -2,7 +2,7 @@
 tags: [Modul/m08, Modul/m21, Fach/Hämatologie]
 title: Rh
 ---
-### Rhesus- / [[Rh]]-[[Blutgruppen]]
+> Rhesus-[[Blutgruppen]]
 - **Gene**:: C, c, D, d[^1], E, e (codominant)
 - **Rhesusfaktor**
 	- ==**Rh+**:: Dd oder DD==

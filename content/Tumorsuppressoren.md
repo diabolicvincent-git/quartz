@@ -15,7 +15,7 @@ title: Tumorsuppressoren
 		- [[p53]] → >50% aller [[Tumor]]en; Li-Fraumeni
 		- MSH2, MLH1 u.a. → Darmkrebs
 		- **Reparaturgene** → HNPCC, Mikrosatelliteninstabilität
-		- **[[Apoptose]]-regulierende Gene** (z.B. BAX) siehe [[Apoptose]] > Neoplasien
+		- **[[Apoptose]]-regulierende Gene** (z.B. BAX) siehe [[Apoptose]] > [[Neoplasie]]
 
 ---
 

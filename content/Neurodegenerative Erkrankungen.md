@@ -2,8 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Neurodegenerative Erkrankungen
 ---
-### Neurodegenerative Erkrankungen 
-> Nervengewebe ist, anders als sonstiges Gewebe, *nicht regenerierbar*
+> [[Nervengewebe]] ist, anders als sonstiges Gewebe, *nicht regenerierbar*
 - **Gemeinsamkeiten neurodegenerativer Erkrankungen**
     - Neuroinflammation
     - Progression der Degeneration

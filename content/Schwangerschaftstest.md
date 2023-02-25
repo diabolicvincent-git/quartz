@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Schwangerschaftstest
 ---
-### Schwangerschaftstest
 > ==[[β-HCG]]==-Bestimmung zum [[Schwangerschaft]]snachweis
 - **Diagnostik**
 	- **[[Labor]]**:: Quantitativ im Serum ab 6.-9. Tag

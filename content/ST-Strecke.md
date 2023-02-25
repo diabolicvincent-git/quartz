@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: ST-Strecke
 ---
-### ST-Strecke
 > **EKG**:: Vollständige Erregung der Ventrikel
 - Isoelektrische Linie von Ende [[S-Zacke]] bis Beginn [[T-Welle]]
 - **Normwert**

@@ -2,8 +2,7 @@
 tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Metamizol
 ---
-### Metamizol / Novaminsulfon
-> [[Nicht-Opioid-Analgetika]] > [[NSAR]] > [[Metamizol]]
+> **Novaminsulfon.** [[Nicht-Opioid-Analgetika]] > [[NSAR]] > [[Metamizol]]
 - **Wirkung**:: Analgetisch, antipyretisch, spasmolytisch
 - **Indikation**:: ==[[Schmerz]] (insb. viszeral, kolikartig)==, [[Fieber]]
 - **Wirkmechanismus**:: Reversible [[COX]]-Hemmung + zentrale Effekte[^1]

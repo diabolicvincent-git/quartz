@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Infektiologie, Art/Pathologie]
 title: M. Whipple
 ---
-### M. Whipple
 - **Epidemiologie**:: Sehr selten, 30-60 Jahre, v.a. ♂
 - **Ätiologie**:: [[Infektionen]] mit Tropheryma whipplei
 - **Symptome**

@@ -6,4 +6,4 @@ title: Infektionsrisiken
 	- Hautdefekte
 	- [[Dialyse]]
 	- Pflegebedürftigkeit
-	- Katheter, PEG, Tracheostoma, Port
+	- Katheter, [[PEG]], Tracheostoma, Port

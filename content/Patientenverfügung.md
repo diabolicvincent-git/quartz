@@ -2,7 +2,6 @@
 tags: [Modul/m20, Modul/m23, Fach/Anästhesie]
 title: Patientenverfügung
 ---
-### Patientenverfügung
 - Verbindlich (§ 1901a Abs. 1 BGB)
 - Konkrete Situation muss genau der beschriebenen Situation entspricht
 - Wenn nicht genau passend: Hilfe zur Ermittlung des mutmaßlichen Willens
@@ -16,7 +15,7 @@ title: Patientenverfügung
 	- Kennenlernen der Patientenwünsche
 	- Ausräumen von Missverständnissen (z.B. [[Beatmung]] ≠ [[O2]]-[[Applikation]])
 	- Pat. fühlt sich eingebunden und respektiert
-	- Aufschluss über Gedankenwelt und Krankheitsverarbeitung
+	- Aufschluss über Gedankenwelt und [[Krankheitsverarbeitung]]
 	- Brücke für Gespräche mit Pat. und Angehörigen
 	- Auseinandersetzung mit Tod und Sterbeprozess
 	- Sicherheit in Notsituationen, insb. bei unbekanntem Personal

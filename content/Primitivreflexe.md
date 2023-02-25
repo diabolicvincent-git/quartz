@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Neurologie, Art/Intervention]
 title: Primitivreflexe
 ---
-### Primitivreflexe
 - **Physiologie**
 	- Neugeborenen- und Säuglingsreflexe
 	- Ausbildung der zentralen Hemmung in ersten Lebensmonaten

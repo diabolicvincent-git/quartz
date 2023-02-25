@@ -2,7 +2,6 @@
 tags: [Fach/Nephrologie, Fach/Labor]
 title: Metabolische Alkalose
 ---
-## Metabolische Alkalose
 ### Ätiologie
 - **[[Hyperaldosteronismus]]** (ENaC [[Na+]] Resorption↑ → Kaliumverlust, [[Hypokaliämie]] → [[K+]] vermehrt von IZ nach EZ → "Lücke" positiver Ladungen IZ wird durch Protonen von EZ ausgeglichen → [[Alkalose]])
 	- Zusätzlich aktiviert Aldosteron Typ-A-Schaltzellen (vermehrt Protonensekretion und Bicarbonatresorption → [[Alkalose]])

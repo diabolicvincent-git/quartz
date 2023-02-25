@@ -2,7 +2,6 @@
 tags: [Modul/m27, Fach/Orthopädie, Art/Pathologie]
 title: Schulterluxation
 ---
-### Schulterluxation
 - **Epidemiologie**:: 50% aller Luxationen, ♂>[[W]]
 - **Pathophysiologie**
 	- ==*Anterior (95%):*== Sturz auf dorsal gestreckten Arm

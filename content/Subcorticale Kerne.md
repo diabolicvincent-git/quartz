@@ -2,8 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Subcorticale Kerne
 ---
-
-### Subcorticale Kerne 
 > Kerngebiete in der weißen Substanz des [[Großhirn]]s
 - **[[Basalganglien]]**
 	- **Striatum** mit Verbindungsstelle ==[[Ncl. accumbens]]==

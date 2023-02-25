@@ -2,10 +2,9 @@
 tags: [Modul/m15, Fach/Physiologie, Fach/Neurologie]
 title: Nervenfaserqualitäten
 ---
-### Nervenfaserqualitäten
 > "Hirnnerv-Sachen sind speziell"
-- ![[Afferenzen]]
-- ![[Efferenzen]]
+- [[Afferenzen]]
+- [[Efferenzen]]
 ---
 ## Qualitätenanordnung in Rückenmark und Hirnstamm
 ![](https://cdn.discordapp.com/attachments/772801837291143208/822788971436048394/unknown.png)

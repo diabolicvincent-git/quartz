@@ -2,9 +2,8 @@
 tags: [Modul/m30, Fach/Neurologie, Fach/Labor, Art/Intervention]
 title: Liquordiagnostik
 ---
-### Liquordiagnostik
 > Gewinnung via [[Liquorpunktion]]
-- **Präanalytik**:: Möglichst <1h
+- **[[Präanalytik]]**:: Möglichst <1h
 - **Akutparameter**
 	- **Aussehen**
 		- *trüb-rosa* (>1.000 [[Erythrocyten]]/uL)

@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Epidemiologie]
 title: Nosokomiale Infektion
 ---
-### Nosokomiale [[Infektionen]]
 > [[Infektionen]] >48h nach Krankenhausaufnahme
 - **Häufigste**:: [[Wundinfektion]], [[HWI]], [[Pneumonie]], [[C. difficile]], Katheter-[[Sepsis]]
 - **Erreger**:: endogen (85%, z.B. [[Hautflora]]) ↔ exogen (15%, Transmission)

@@ -16,7 +16,7 @@ title: NNR-Insuffizienz
 - **Diagnostik**
 	- **[[Labor]]**:: ==[[Hyponatriämie]], [[Hyperkaliämie]] (*primär*)==, Lymphocytose, Eosinophilie
 	- **[[ACTH]]-Stimulationstest**:: [[ACTH]]-Gabe → [[Cortisol]]-Messung
-- **DD**:: [[PAS]]
+- **DD**:: [[Polyendokrines Autoimmunsyndrom (PAS)]]
 - **Therapie**
 	- ==[[Glucocorticoide]]-Substitution== (Hydrocortison), angepasst bei [[Stress]]
 ---

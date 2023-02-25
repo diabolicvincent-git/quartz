@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Pädiatrie, Fach/Psychiatrie, Fach/Rechtsmedizin, Art/Pathologie]
 title: Schütteltrauma
 ---
-### Shaken-Baby-Syndrom / Schütteltrauma
-> [[Kindesmisshandlung]] durch Schütteln des Kindes → [[SHT]]
+> Alt: Shaken-Baby-Syndrom. [[Kindesmisshandlung]] durch Schütteln des Kindes → [[SHT]]
 - **Symptome**
 	- *Thorax/Extremitäten:* ggf. Griffspuren, Hämatome
 	- *[[Auge]]:* ==Netzhautblutungen==

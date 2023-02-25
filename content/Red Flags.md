@@ -2,7 +2,6 @@
 tags: [Modul/m20, Art/Intervention, Fach/Allgemeinmedizin]
 title: Red Flags
 ---
-### Red Flags
 > Zeichen eines dringend behandlungsbedürftigen Krankheitsbilds
 ## Red Flags bei [[Husten]]
 - Plötzlicher Beginn → [[LAE]], [[Pneumothorax]], [[Pneumonie]]

@@ -25,4 +25,4 @@ title: N. vagus (X)
 	- **Funktion**:: Motorik
 	- **Kern**:: ==Ncl. ambiguus==
 	- **Innerviert**:: Pharynxmuskulatur, [[Larynx]]muskulatur
-- **Pathologien**:: Kulissenphänomen (Deviation Rachenhinterwand zur gesunden Seite), [[Epiglottis]]-Parese (Verschlucken), Glottisparese (Kehlkopflähmung/Heiserkeit)
+- **Pathologien**:: Kulissenphänomen (Deviation Rachenhinterwand zur gesunden Seite), [[Epiglottis]]-[[Parese]] (Verschlucken), Glottisparese (Kehlkopflähmung/Heiserkeit)

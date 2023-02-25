@@ -2,7 +2,7 @@
 tags: [Modul/m17, Fach/Hämatologie, Art/Intervention]
 title: PFA
 ---
-### Platelet Function Analyzer / PFA 
+> **Platelet Function Analyzer.** 
 - **Interpretation**
 	- Verschlusszeit lässt keinen Rückschluss auf [[Thrombocyten]]-Funktion zu, bei [[Thrombocyten]]-Zahl <100/nl oder [[Hkt]] <30%
 	- **Ursachen**

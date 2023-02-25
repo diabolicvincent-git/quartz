@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie]
 title: Metastasen
 ---
-### Metastasen
 > Tochter-Absiedlungen eines malignen Primär-[[Tumor]]s[^1]
 - **Mechanismus**:: [[Invasions-Metastasierungskaskade]]
 - **Metastasierungsarten**

@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Anatomie, Fach/Hämatologie]
 title: Milz
 ---
-### Milz
 - **Funktion**
 	- **Weiße Pulpa**:: Sekundär lymphatisches Organ
 	- **Rote Pulpa**:: [[Erythrocytenmauserung]]

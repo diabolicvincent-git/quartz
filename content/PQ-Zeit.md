@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: PQ-Zeit
 ---
-### PQ-Zeit
 > Atrioventrikuläre Überleitung
 - Anfang der [[P-Welle]] bis Beginn [[QRS]]
 - **Normwert**:: Dauer ≤200 ms

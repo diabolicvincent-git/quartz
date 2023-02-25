@@ -479,7 +479,7 @@ Innervation
 *   Atemhilfsmuskulatur: Hebung der oberen Rippen
 *   Einseitige Kontraktion: Lateralflexion der HWS
 *   Beidseitige Kontraktion: Ventralflexion der HWS
-*   Äste aus [[Plexus cervicalis]] und [[Plexus brachialis]]: C3–C6
+*   Äste aus [[Plexus cervicalis]] und [[Plexus brachialis (C5-Th1)]]: C3–C6
 ###### M. scalenus medius
 *   Tubercula posteriora der 2.–7. Halswirbel
     
@@ -938,7 +938,7 @@ Ventrale Muskulatur
 *   N. musculocutaneus
 *   Keine
 Laterale Muskulatur
-###### M. deltoideus
+###### [[M. deltoideus]]
 *   Pars clavicularis: Clavicula
 *   Tuberositas deltoidea humeri
 *   Anteversion, Innenrotation, Adduktion

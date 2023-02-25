@@ -2,7 +2,7 @@
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Anatomie]
 title: Sklera
 ---
-### Sklera / Lederhaut
+> Lederhaut
 - Lichtundurchlässig, "Weißer" teil des Auges
 - **Funktion**:: Schutz, Formgebung für [[Bulbus oculi]]
 - **Aufbau**:: v.a. aus [[Bindegewebe]]

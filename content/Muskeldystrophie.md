@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Neurologie, Fach/Pädiatrie, Art/Pathologie]
 title: Muskeldystrophie
 ---
-### Muskeldystrophie
 - **Epidemiologie**:: ==fast ausschließlich [[M]]==, [[Muskeldystrophie Duchenne]] 3-5 J. / Becker 6-20 J.
 - **Ätiologie**
 	- X-chromosomal-rezessiv ([[Muskeldystrophie Duchenne]], Becker-Kiener), autosomal (LGMD, FSHD)

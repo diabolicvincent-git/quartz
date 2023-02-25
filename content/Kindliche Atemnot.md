@@ -9,7 +9,7 @@ title: Kindliche Atemnot
 - Pseudokrupp
 - [[Asthma]]
 - [[Anaphylaxie]]
-- Pneumonie
+- [[Pneumonie]]
 
 ![[Pasted image 20211105132432.png]]
 

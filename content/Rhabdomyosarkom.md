@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie]
 title: Rhabdomyosarkom
 ---
-### Rhabdomyosarkom
 > Maligner [[Tumor]] aus quergestreifter Muskulatur
 - **Lokalisation**:: ==Häufig [[Orbita]]==, [[Kopf]]/Hals, Urogenital-Trakt
 - **Symptome**:: schmerzfreie, derbe, wachsende Schwellung

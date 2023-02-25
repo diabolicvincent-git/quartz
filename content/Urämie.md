@@ -8,7 +8,7 @@ title: Urämie
 	- *Allgemein:* Appetit↓, [[Kopfschmerzen]], Lethargie
 	- ==*Typisch:* Foetor uraemicus, Café-au-lait-Hautflecken, [[Pruritus]]==
 	- *Hämatologie:* [[Hämolyse]], [[Anämie]], [[Thrombopenie]]
-	- *Seröse Häute:* Pleuritis, ==Perikarditis==
+	- *Seröse Häute:* Pleuritis, ==[[Perikarditis]]==
 	- *==[[Encephalopathie]]:==* [[Krampfanfall]], [[Bewusstseinsstörung]]
 	- *GI:* Diarrhoe, Übelkeit, Erbrechen
 - **Therapie**:: [[Dialyse]]

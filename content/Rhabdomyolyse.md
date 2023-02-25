@@ -2,8 +2,7 @@
 tags: [Modul/m10, Modul/m14, Fach/Orthopädie, Fach/Nephrologie, Art/Pathologie]
 title: Rhabdomyolyse
 ---
-### Rhabdomyolyse / Crush-Syndrom
-> Zerfall quergestreifter Muskulatur → *Crush-Syndrom* ([[Schock]], ==[[Nierenversagen]]==)
+> Zerfall quergestreifter Muskulatur → *[[Crush-Syndrom]]* ([[Schock]], ==[[Nierenversagen]]==)
 - **Ätiologie**:: *Trauma* (z.B. Quetschung, ==[[Kompartmentsyndrom]]==), [[Krampfanfall]], [[Ischämie]], [[Intoxikation]], [[Infektionen]], [[UAW]] (z.B. [[Antipsychotika]], [[Statine]]), [[Maligne Hyperthermie]]
 - **Pathophysiologie**:: [[Rhabdomyolyse]] → [[CK]]↑↑↑, Myoglobin↑↑↑ → nephrotox., [[Azidose]]
 - **Diagnostik**

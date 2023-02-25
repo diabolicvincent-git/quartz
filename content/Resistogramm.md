@@ -2,7 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie]
 title: Resistogramm
 ---
-### Resistogramm / Antibiogramm
+> Antibiogramm
 - **Indikation**:: Alle behandlungsbedürftigen [[Infektionen]], insb. Versagen der antimikrobiellen Therapie[^1]
 - **Befundangaben**
 	- ***Minimale Hemmkonzentration (MHK):***

@@ -2,7 +2,6 @@
 tags: [Modul/m11, Modul/m17, Modul/m21, ToDo, Fach/Anästhesie, Art/Pathologie, Fach/Notfallmedizin]
 title: Schock
 ---
-#### Schock
 > Generalisierte Hypoxie ([[HZV]] < [[O2]]-Bedarf)
 - **Ätiologie**
 	- **Hypovolämisch**:: Plasmavolumen↓ (z.B. [[Diarrhoe]], [[Verbrennung]], [[Pankreatitis]])

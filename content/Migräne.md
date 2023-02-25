@@ -5,7 +5,7 @@ title: Migräne
 - **Epidemiologie**:: [[W]] > [[M]], Erstmanifestation 15-25 Jahre
 - **Ätiologie**:: Genetische Disposition + Triggerfaktoren (u.a. Klima, Noxen, [[Schlaf]], [[Stress]], [[Menstruation]])
 - **Symptome**
-	- *Prodromi (⅓)*:: Stimmung↑↓, Appetit↑↓, Gähnen, Erschöpfung, Polyurie, Polydipsie
+	- *Prodromi (⅓)*:: Stimmung↑↓, Appetit↑↓, Gähnen, Erschöpfung, [[Polyurie]], Polydipsie
 	- *[[Kopfschmerzen]]*:: i.d.R. einseitig, frontal/temporal/retroorbital, langsam zunehmend, hämmernd, 4-72h
 	- *Begleitend*:: ==Photophobie==, Phonophobie, ==Übelkeit==, Erbrechen
 	- *Aura*:: Anfallsweise reversible fokal-neurologische Symptome <1h Dauer (==Flimmerskotom==, Lichtblitze, Parästhesien, [[Gesichtsfeldausfall]], [[Aphasie]] u.a.)

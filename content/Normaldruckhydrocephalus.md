@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Normaldruckhydrocephalus
 ---
-### Normaldruckhydrocephalus
 - **Symptome**:: *==Hakim-Trias== (50%)*
 	- Gangstörung (kleinschrittig, breitbasig, schlurfend)
 	- Subcorticale [[Demenz]]

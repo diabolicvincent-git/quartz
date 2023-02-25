@@ -28,7 +28,7 @@ title: Thrombopenie
 	- Thrombotische thrombocytopenische Purpura ([[TTP]])
 	- [[HUS
 - **Sequestration↑**
-	- Leberzirrhose
+	- [[Leberzirrhose]]
 	- Myelofibrose
 	- Gaucher's Disease
 

@@ -7,7 +7,7 @@ title: Kardiales OP-Risiko
 	- Schilddrüsen-OP
 	- Kleinere urologische/gynäkologische OP (z.B. TUR-P, vaginale Hysterektomie)
 	- Kleinere orthopädische OP (z.B. Knie-Arthroskopie)
-	- Mamma-OP
+	- [[Mamma]]-OP
 - **Mittleres kardiales Risiko**
 	- Endovaskuläre [[Aneurysma]]-OP
 	- [[Kopf]]-/Hals-OP
@@ -16,6 +16,6 @@ title: Kardiales OP-Risiko
 - **Hohes kardiales Risiko**
 	- Aorten-OP
 	- [[Amputation]] der unteren Extremität
-	- OP bei GI-Perforation
+	- OP bei GI-[[Perforation]]
 	- Adrenalektomie
 	- Pneumonektomie

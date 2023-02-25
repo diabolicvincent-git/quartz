@@ -2,7 +2,7 @@
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Gynäkologie]
 title: Mamma-Ca
 ---
-### Mammakarzinom / Brustkrebs
+> Brustkrebs
 - **Epidemiologie**:: Häufigstes [[Malignom]] der Frau
 - **Risikofaktoren**
 	- **Hormonell**:: Frühe Menarche + späte [[Menopause]], wenig Schwangerschaften

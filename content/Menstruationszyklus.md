@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Menstruationszyklus
 ---
-### Menstruationszyklus ([[W]])
 - **Erste Zyklushälfte / [[Follikelreifung]]** ([[LH]]↑, [[FSH]]↑)
 	- **Desquamationsphase / [[Menstruation]] (Tag 1-4-7)**:: Keine Befruchtung, [[Gestagene]]↓ → Vasospasmen, Ischämie, Abstoßung der Lamina functionalis (*Regelblutung* ~100 ml[^2])
 	- **Proliferationsphase (Tag 4-15)**

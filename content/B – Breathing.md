@@ -8,7 +8,7 @@ title: B – Breathing
 - **DD**
 	- *Obstruktion:* Aspiration, [[Anaphylaxie]], Angioödem, Abszess, Malignom, [[Asthma]], [[COPD]]
 	- *[[Infektionen]]:* [[Pneumonie]]
-	- *Pleura:* [[Pleuraerguss]], [[Spannungspneumothorax]]
+	- *[[Pleura]]:* [[Pleuraerguss]], [[Spannungspneumothorax]]
 	- *[[Intoxikation]]* 
 	- *Herz-Kreislauf:* [[Herzinsuffizienz]]/[[Lungenödem]], [[LAE]], [[ACS]]
 	- *[[ZNS]]:* [[SHT]], [[Schlaganfall]], [[Intrakranielle Blutung]], [[Hyperventilation]]

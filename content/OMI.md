@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: OMI
 ---
-#### Okklusiver Myokardinfarkt / OMI
+> Okklusiver Myokardinfarkt.
 - **Symptome**
 	- Kaltschweißigkeit, Blässe, Unruhe, Angst, [[Schwindel]], Übelkeit, Erbrechen
 	- [[Brustschmerz]] mit Ausstrahlung, Epigastrischer [[Schmerz]]

@@ -33,7 +33,7 @@ siehe [[Sympathikus]], [[Parasympathikus]]
 ![[Vegetative Plexus]]
 
 ## Wirkungsübersicht des vegetativen Nervensystems
-|Zielorgan|Sympathikus|Parasympathikus|
+|Zielorgan|Sympathikus|[[Parasympathikus]]|
 |---|---|---|
 |**[[Auge]]**|α1: [[Mydriasis]]<br>β2: Fernakkomodation|[[Miosis]]<br>Nahakkomodation
 |**[[Speicheldrüsen]]**|α1: Mucöse [[Sekretion]]↑|Seröse [[Sekretion]]↑ 

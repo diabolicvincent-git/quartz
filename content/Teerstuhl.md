@@ -2,8 +2,7 @@
 tags: [Modul/m26, Art/Pathologie, Fach/Gastroenterologie]
 title: Teerstuhl
 ---
-### Teerstuhl / Meläna
-> **Schwarzfärbung des Stuhls**, vgl. [[Hämatochezie]] (frischblutig)
+> **Meläna.** Schwarzfärbung des Stuhls, vgl. [[Hämatochezie]] (frischblutig)
 
 - **DD** 
 	- Medikamente ([[Eisen]])

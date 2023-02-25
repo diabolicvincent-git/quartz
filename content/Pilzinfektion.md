@@ -2,8 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie, Art/Pathologie]
 title: Pilzinfektion
 ---
-### Pilzinfektionen / Mycosen
-> *Invasive* und *oberflächliche* Mycosen durch [[Pilze]]
+> **Mycosen.**  *Invasive* und *oberflächliche* Mycosen durch [[Pilze]]
 
 - **Risikofaktoren**:: [[Immunsuppression]] ([[HIV]], [[Hämatologische Neoplasien]], [[Diabetes mellitus]], [[Immunsuppressiva]]), [[OP]], Genetische [[Immundefekt]], Exposition mit Sporeninhalation
 - **Symptome**

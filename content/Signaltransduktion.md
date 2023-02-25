@@ -2,7 +2,6 @@
 tags: [Modul/m04, Fach/Physiologie, Fach/Biochemie]
 title: Signaltransduktion
 ---
-#### Signaltransduktion
 - **Signalamplifikation**:: Vergrößerung der Zahl an Signalmolekülen bei jedem Schritt der Signalkaskade
 
 ![[cAMP]]

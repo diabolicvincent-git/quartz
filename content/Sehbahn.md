@@ -2,8 +2,6 @@
 tags: [Modul/m16, Fach/Ophthalmologie, Fach/Neurologie, Fach/Physiologie]
 title: Sehbahn
 ---
-
-### Sehbahn 
 1. [[Neuron]]: **[[Photorezeptoren]]** (Glutamatfreisetzung↑/↓)
 2. [[Neuron]]: **[[Bipolarzellen]]**
 	- On: metabotrope Glutamatrezeptoren

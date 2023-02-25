@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Psychiatrie]
 title: Reizdarmsyndrom
 ---
-### Reizdarmsyndrom
 
 - **Rome IV Kriterien** 
 	1. Chronische darmbezogene Beschwerden >3 Monate

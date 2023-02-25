@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Kardiologie, Art/Intervention]
 title: Lagetyp
 ---
-### Lagetyp
 > Elektrische Herzachse in der **[[EKG]]-Frontalebene** (I, II, III, aVR, aVL, AVF)
 
 | Lagetyp                     | I   | II  | III | Physiologisch |

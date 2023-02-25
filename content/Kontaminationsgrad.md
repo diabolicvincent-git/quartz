@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie]
 title: Kontaminationsgrad
 ---
-### Kontaminationsgrad
 Klassifikation|[[Wundinfektion]]-[[Risiko]]|Beispiele
 -|-|-
 sauber|<2%|Hernien, [[Schilddrüse]], [[Gefäße]]

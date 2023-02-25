@@ -5,7 +5,7 @@ title: Multiples Myelom
 > (Abstract::**B-Zell-[[Non-Hodgkin-Lymphom]].** Auch: M. Kahler, systemischer Plasmazelltumor.)
 - **Epidemiologie**:: Hohes Alter
 - **Risikofaktoren**:: [[M]], dunkle Hautfarbe, [[Adipositas]], Pestizide, [[Ionisierende Strahlung]], Chronische Infekte, Familienanamnese
-- **Pathophysiologie**:: [[Mutation]] → Monoklonale Neoplasie von Plasmazellen im [[Knochenmark]]
+- **Pathophysiologie**:: [[Mutation]] → Monoklonale [[Neoplasie]] von Plasmazellen im [[Knochenmark]]
 	- [[Antikörper]]-Synthese↑ → u.a. *==Bence-Jones-Proteine==*, ==[[IgG]]==, [[IgA]], [[IgD]][^1]
 	- Humorale Faktoren↑ (z.B. Osteoklasten-aktivierender Faktor OAF) → Knochendestruktion, [[Ca2+]]-Mobilisation
 - **Symptome**:: Teils asymptomatisch

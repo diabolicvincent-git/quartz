@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
 title: Parese
 ---
-### Parese
 > Unvollständige Lähmung einzelner/mehrer [[Muskeln]] (vollständig: [[Plegie]])
 - **Einteilung**
 	- *Zentrale / [[Spastische Parese]]* (1. Motoneuron)

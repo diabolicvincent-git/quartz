@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Physiologie, Fach/Psychiatrie]
 title: Krankheitsverarbeitung
 ---
-### Krankheitsverarbeitung
 - **Phasen** n. Cullberg
 	- **Schockphase**:: Ausnahmezustand, Informationsaufnahme↓ 
 	- **Reaktionsphase**:: Realisation von Tatsachen

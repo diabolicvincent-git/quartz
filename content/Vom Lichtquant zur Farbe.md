@@ -16,7 +16,7 @@ title: Vom Lichtquant zur Farbe
 
 Müller-Zellen: Unterstützend, Transportfunktion
 
-## Struktur der Photorezeptoren
+## Struktur der [[Photorezeptoren]]
 
 **[[Stäbchen]]**
 

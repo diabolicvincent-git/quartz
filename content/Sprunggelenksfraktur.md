@@ -2,7 +2,6 @@
 tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie]
 title: Sprunggelenksfraktur
 ---
-### Sprunggelenksfraktur
 - **Klassifikation**
 	- *Weber-A:* Fibulafraktur unterhalb der Syndesmose
 	- *Weber-B:* Fibulafraktur in Höhe der Syndesmose

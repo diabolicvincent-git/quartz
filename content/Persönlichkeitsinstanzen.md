@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie]
 title: Persönlichkeitsinstanzen
 ---
-### Persönlichkeitsinstanzen
 > Nach Freud
 - ***"Es"* – Triebe**:: z.B. Sexualtrieb, Aggressionstrieb
 - ***"Über-Ich"* – Gewissen**:: Werte, Normen, Moral

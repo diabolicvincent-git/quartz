@@ -5,7 +5,7 @@ title: Larynx
 - **[[Knorpel]]**
 	- [[Schildknorpel]] + [[Ringknorpel]] setzen [[Trachea]]-[[Knorpel]] nach kranial fort
 	- [[Stellknorpel]] + [[Spitzenknorpel]] bilden bewegliche Aufhängung der [[Stimmbänder]]
-	- [[Epiglottis]] (Verschluss des Larynx beim Schlucken)
+	- [[Epiglottis]] (Verschluss des Larynx beim [[Schlucken]])
 - **[[Gelenke]]**
 	- [[Articulatio cricothyroidea]]
 	- [[Articulatio cricoarytaenoidea]]

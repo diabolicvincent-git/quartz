@@ -2,8 +2,7 @@
 tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Sehnen
 ---
-### Sehne / Tendo
-> Bindegewebige Verbindung zwischen Muskel und [[Knochen]]
+> Tendo. Bindegewebige Verbindung zwischen Muskel und [[Knochen]]
 - **Funktion**:: Übertragung der Muskelkraft
 - **Aufbau**
 	- *Tendinocyten* (Zellen)

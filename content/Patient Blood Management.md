@@ -2,7 +2,6 @@
 tags: [Modul/m21, ToDo, Fach/Hämatologie, Fach/Anästhesie]
 title: Patient Blood Management
 ---
-### Patient Blood Management
 > **Ziel**:: Vermeidung von perioperativer [[Anämie]] und (Fremd-)[[Transfusion]]
 - **==Präoperativ==** (elektive [[OP]] mit Transfusionswahrscheinlichkeit >10%)
 	- **[[Labor]]**:: [[Blutbild]], [[Elektrolyte]], [[Leberwerte]], [[Nierenwerte]], [[Blutgruppen]], serologische Verträglichkeitsprobe, Antikörpersuchtest (irreguläre erythrocytäre Antikörper)

@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Liquor
 ---
-### Liquor cerebrospinalis
+> Liquor cerebrospinalis
 - **Funktion**:: mech. Schutz, Abfalltransport, Gewichtsreduktion, Versorgung mit Ionen/[[Vitamine]]
 - **Zusammensetzung**:: Klar, farblos
 	- Zellzahl↓ <4/uL

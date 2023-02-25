@@ -248,7 +248,7 @@ title: IMPP-Arzneistoffe
 - **[[Herzinsuffizienz]]-Medikamente**
 	- **Neprilysin-Inhibitoren**:: Sacubitril
 	- **ARNI**:: Valsartan + Sacubitril
-- **MOR-Agonisten / μ-Opioidrezeptor-Agonisten / [[Opioide]]**:: Buprenorphin, Dihydrocodein, Fentanyl, Hydromorphon, Loperamid, Methadon, Morphin, Remifentanil, Tilidin (+ Naloxon)
+- **MOR-Agonisten / μ-Opioidrezeptor-Agonisten / [[Opioide]]**:: Buprenorphin, Dihydrocodein, Fentanyl, Hydromorphon, Loperamid, Methadon, Morphin, Remifentanil, Tilidin (+ [[Naloxon]])
 	- **Cyclohexanol-Derivate**
 - **MOR-Antagonisten**:: [[Naloxon]]
 - **[[Osteoporose]]-Medikamente**
@@ -272,7 +272,7 @@ title: IMPP-Arzneistoffe
 	- **Mineralocorticoid-R-Antagonisten**:: Eplerenon, [[Spironolacton]]
 
 ### [[Schilddrüse]]
-- **Mineralstoffe**:: Iodid
+- **[[Mineralstoffe]]**:: Iodid
 - **Thyreostatika**
 	- **TPO-Inhibitoren**:: Thiamazol
 - **[[Schilddrüsenhormone]]**:: Thyroxin / [[T4]]
@@ -314,7 +314,7 @@ title: IMPP-Arzneistoffe
 - **Laxanzien**
 	- **Sekretagogisch/Antiresorptive Laxanzien**:: Bisacodyl
 	- **Wasserbindner**:: Macrogol, Mannitol
-- **Mineralstoffe**:: [[Mg2+]], [[Eisen]]
+- **[[Mineralstoffe]]**:: [[Mg2+]], [[Eisen]]
 - **Protonenpumpen-Inhibitoren**:: [[Pantoprazol]]
 
 ### Zielgerichtete Tumorbeeinflussung

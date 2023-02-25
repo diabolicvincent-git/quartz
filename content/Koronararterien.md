@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Koronararterien
 ---
-### Koronarien / Koronararterien
 > **Cave**:: Variable [[Versorgungstypen]] insb. der Hinterwand
 - [[RCA]]
 - [[LCA]]

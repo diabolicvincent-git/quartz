@@ -2,7 +2,6 @@
 tags: [Modul/m14, Art/Intervention, Fach/Nephrologie, Fach/Kardiologie, Fach/Anästhesie]
 title: Passive Leg Raise Test
 ---
-### Passive Leg Raise Test
 - **Durchführung**
 	1. 45° Oberkörperhochlagerung, Beine flach
 	2. Abkippen in Schocklage

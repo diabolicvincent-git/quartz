@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Infektiologie, Art/Pathologie]
 title: Peritonitis
 ---
-### Peritonitis
 - **Ätiologie**
 	- **Primär (20%)**
 		- *Spontan bakterielle Peritonitis / SBP* bei [[Aszites]]
@@ -18,5 +17,5 @@ title: Peritonitis
 		- **[[Untersuchung]]**:: Peritonismus, paralytischer [[Ileus]], [[Aszites]], [[Sepsis]]
 		- **[[Labor]]**:: [[Blutbild]], [[Entzündungsparameter]]↑
 		- **[[Bildgebung]]**
-		- **Interventionell**:: Diagnostische Aszitespunktion, Laparoskopie
+		- **Interventionell**:: Diagnostische Aszitespunktion, [[Laparoskopie]]
 	- **Therapie**

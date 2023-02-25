@@ -2,7 +2,6 @@
 tags: [Modul/m27, Fach/Orthopädie]
 title: Sportverletzungen
 ---
-### Sportverletzungen
 - **Epidemiologie**
 	- 10% Fußball
 - **Einteilung**

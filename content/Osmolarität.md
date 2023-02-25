@@ -19,7 +19,7 @@ Doppelte Natriumkonzentration, da aufgrund der elektrischen Neutralität zu jede
 - Wasseraufnahme
 	- Durst
 - Sonstiges
-	- Calcitriol, Parathormon, Aldosteron
+	- Calcitriol, [[PTH]], Aldosteron
 
 ## Osmolaritätsstörungen
 > Osmolaritätsprobleme sind primär "Wasserprobleme" und betreffen EZV & IZV (Ausgleichsströmungen)

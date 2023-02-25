@@ -2,7 +2,6 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie]
 title: Rheumatoide Arthritis
 ---
-### Rheumatoide Arthritis / RA
 > Chronisch-entzündliche, degenerative [[Autoimmunität]] unklarer Genese
 - **Epidemiologie**:: Prävalenz 1%, [[W]] > [[M]], Beginn 35-50. LJ
 - **Ätiologie**:: Unklar, genetische Assoziation mit [[HLA]]-DR4
@@ -47,7 +46,7 @@ title: Rheumatoide Arthritis
 
 ### Extraartikuläre Manifestationen
 - **[[Lunge]]**:: ==Pleuritis==, [[Lungenfibrose]], pulmonale Rheumaknoten
-- **[[Herz]]**:: Peri-/Myokarditis
+- **[[Herz]]**:: Peri-/[[Myokarditis]]
 - **Augen**:: Sekundäres [[Sjögren-Syndrom]], Skleritis, Episkleritis
 - **[[Gefäße]]**:: [[Vaskulitis]], Livedo reticularis, [[Raynaud-Syndrom]], [[Purpura]], Fingerkuppen-[[Nekrose]], rheumatische Neuropathie
 

@@ -9,7 +9,7 @@ title: Frühgeburt
 - **Komplikationen**
 	- [[Atemnotsyndrom]]
 	- [[Bronchopulmonale Dysplasie]]
-	- [[Persistierender Ductus arteriosus Botalli]]
+	- [[Persistierender Ductus arteriosus Botalli (PDA)]]
 	- [[Retinopathia praematurorum]]
 	- [[Nekrotisierende Enterocolitis]]
 	- ==[[Intrakranielle Blutung]]==

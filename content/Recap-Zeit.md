@@ -2,7 +2,7 @@
 tags: [Modul/m21, Art/Intervention, Fach/Notfallmedizin]
 title: Recap-Zeit
 ---
-### Rekapillarisierungszeit / Recap-Zeit / Nagelbettprobe
+> **Rekapillarisierungszeit.**
 - **Normwert**:: 2-3 s
 
 ---

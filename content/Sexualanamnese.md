@@ -2,7 +2,6 @@
 tags: [Modul/m06, Modul/m22, Fach/Gynäkologie, Fach/Urologie, Fach/Allgemeinmedizin]
 title: Sexualanamnese
 ---
-#### Sexualanamnese
 - **5x3 der Sexualanamnese**
 	1. **3 Grundlagen**:: *biologisch* (Körperlichkeit), *psychologisch* (Persönlichkeit), *sozial* (Partner)
 	2. **3 Dimensionen**:: Lust, Fortpflanzung, Beziehung

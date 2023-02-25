@@ -2,7 +2,6 @@
 tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. depressor supercilii
 ---
-##### M. depressor supercilii
 *   Processus frontalis ([[Maxilla]])
 *   Arcus superciliaris ([[Os frontale]])
 *   Augenbraue (medial)

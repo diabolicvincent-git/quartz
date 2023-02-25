@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie]
 title: Opportunistische Infektionen
 ---
-### Opportunistische Infektionen
 > Sonst häufiges bleibt häufig, es kommt nur neues dazu!
 
 - **[[Viren]]**
@@ -10,9 +9,9 @@ title: Opportunistische Infektionen
 	- [[HPV]]
 - **[[Bakterien]]**
 	- [[C. difficile]]
-	- Pneumonie: [[Haemophilus influenzae]], [[Listerien]], [[Mycobakterien]], [[Pseudomonas aeruginosa]]
+	- [[Pneumonie]]: [[Haemophilus influenzae]], [[Listerien]], [[Mycobakterien]], [[Pseudomonas aeruginosa]]
 - **[[Pilze]]**
 	- ==[[Candida]]== (Soor, [[Sepsis]])
-	- [[Aspergillus]] (Pneumonie, Aspergillom)
+	- [[Aspergillus]] ([[Pneumonie]], Aspergillom)
 	- ==Pneumocystis-jirovecii-Pneumonie (PjP)==
 	- Mukormykose

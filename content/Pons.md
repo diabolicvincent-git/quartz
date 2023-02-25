@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Pons
 ---
-### Pons 
 > Quer verlaufende Fasern; enge Beziehung zum [[Kleinhirn]]
 - **Gliederung**
 	- **Pars basilaris pontis**:: Ncll. pontis ("Brückenkerne"), Erlernen von Bewegungen

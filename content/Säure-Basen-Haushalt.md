@@ -10,7 +10,7 @@ title: Säure-Basen-Haushalt
 
 ![[Puffer]]
 
-## pH-Regulation in der Lunge
+## pH-Regulation in der [[Lunge]]
 > Elimination der flüchtigen Säure CO2 über Ausatemluft
 
 - **Regulation**

@@ -12,4 +12,4 @@ title: Sonographie Abdomen
 	- [[Hoher Flankenschnitt links]]
 	- [[Suprapubischer Querschnitt]]
 	- [[Suprapubischer Längsschnitt]]
-- **Normalbefund**:: Milz normal groß, homogen, durchblutet. Nieren bds. normal groß, durchblutet, kein Harnstau. Leber normal groß, Parenchym homogen soweit einsehbar. Pfortader durchblutet, kein Anhalt für portale Hypertension. Lebervenen durchblutet. Gallenblase nicht wandverdickt, steinfrei. DHC nicht erweitert. Pankreas soweit einsehbar homogen. Aorta abd. und Vena cava inf. von normaler Weite. Kein Pleuraerguss. Harnblase gefüllt, glattwandig. Keine freie Flüssigkeit soweit einsehbar.
+- **Normalbefund**:: [[Milz]] normal groß, homogen, durchblutet. Nieren bds. normal groß, durchblutet, kein Harnstau. Leber normal groß, Parenchym homogen soweit einsehbar. Pfortader durchblutet, kein Anhalt für portale Hypertension. Lebervenen durchblutet. Gallenblase nicht wandverdickt, steinfrei. DHC nicht erweitert. [[Pankreas]] soweit einsehbar homogen. Aorta abd. und Vena cava inf. von normaler Weite. Kein [[Pleuraerguss]]. Harnblase gefüllt, glattwandig. Keine freie Flüssigkeit soweit einsehbar.

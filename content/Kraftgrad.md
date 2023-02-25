@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Orthopädie, Art/Intervention]
 title: Kraftgrad
 ---
-### Kraftgrade (nach Janda)
+> Kraftgrade (nach Janda)
 - **0°**:: Keine Muskelaktivität (*==[[Plegie]]==*)
 - **1°**:: Tastbare Muskelaktivität ohne Bewegungseffekt (*[[Parese]]*)
 - **2°**:: Bewegung ohne Schwerkrafteinfluss möglich (*[[Parese]]*)

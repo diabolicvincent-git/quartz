@@ -2,7 +2,7 @@
 tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: RCVS
 ---
-### Reversibles cerebrales Vasokonstriktionssyndrom / RCVS
+> **Reversibles cerebrales Vasokonstriktionssyndrom.**
 - **Epidemiologie**:: [[W]] >> [[M]]
 - **Ätiologie**
 	- Vasoaktive Substanzen (z.B. [[Cannabis]], SSRI, abschw. Nasentropfen)
@@ -14,5 +14,5 @@ title: RCVS
 	- Oft [[vegetative]] Begleitsymptome, fokal neurologisches Defizit, [[Krampfanfall]]
 - **DD**:: [[SAB]]
 - **Diagnostik**:: Nachweis reversibler Vasokonstriktion
-	- CT/MRT [[Angiographie]]
+	- CT/[[MRT]] [[Angiographie]]
 	- Transkranielle Duplexsonographie

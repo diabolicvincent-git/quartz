@@ -23,4 +23,4 @@ title: Invagination
 - **DD**:: [[Ileus]] anderer Genese, Gastroenteritis, [[Appendizitis]]
 - **Therapie**
 	- *Konservativ:* ==Hydrostatische Desinvagination== mit [[NaCl 0,9%]] Einlauf
-	- *OP:* bei Symptomatik >24h, Therapieversagen, Perforation, [[Schock]]
+	- *OP:* bei Symptomatik >24h, Therapieversagen, [[Perforation]], [[Schock]]

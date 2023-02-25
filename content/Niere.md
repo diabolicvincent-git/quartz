@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Anatomie]
 title: Niere
 ---
-### Niere / Ren
+> Ren
 - **Topographie**:: [[retroperitoneal]], entlang der [[Wirbelsäule]] zwischen [[M. psoas major]] und [[M. quadratus lumborum]]
 	- **Linke [[Niere]]**:: BWK 12 bis LWK 2-3
 	- **Rechte [[Niere]]**:: ½ [[Wirbel]] kaudaler
@@ -30,7 +30,7 @@ title: Niere
 ![[Nierenrinde]]
 ![[Nierenmark]]
 
-### Nierenbeckenkelchsystem
+### [[Nierenbeckenkelchsystem]]
 ![[Nierenbeckenkelchsystem]]
 
 ## Histologie

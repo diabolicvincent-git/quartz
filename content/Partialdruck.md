@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Physiologie, Fach/Pneumologie]
 title: Partialdruck
 ---
-### Partialdruck
 > Druck, den ein Gas ausübt, wäre es alleine im betrachteten Volumen
 - **z.B. [[O2]] in Luft**
     - Atmosphärischer Luftdruck: 1 bar (≈ 760 mmHg)

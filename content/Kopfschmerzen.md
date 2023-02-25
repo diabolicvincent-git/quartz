@@ -2,13 +2,13 @@
 tags: [Modul/m15, Art/Pathologie, Fach/Neurologie]
 title: Kopfschmerzen
 ---
-### Kopfschmerzen / Cephalgie
+> Cephalgie
 - **Einteilung**
 	- **Primäre Kopfschmerzen**:: Ohne strukturelle Erkrankung
 		- [[Migräne]]
 		- Spannungskopfschmerz
 		- Clusterkopfschmerz
-	- **Sekundäre Kopfschmerzen**:: Schmerz verursacht durch Erkrankung (z.B. [[SHT]], [[Intoxikation]], [[Hypertonie]], [[ICP]]↑, [[Meningitis]])
+	- **Sekundäre Kopfschmerzen**:: [[Schmerz]] verursacht durch Erkrankung (z.B. [[SHT]], [[Intoxikation]], [[Hypertonie]], [[ICP]]↑, [[Meningitis]])
 	- **Kraniale Neuralgie** (z.B. [[Trigeminusneuralgie]])
 - **Symptome** → Red Flags bei Kopfschmerzen
 

@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Pleuraerguss
 ---
-### Pleuraerguss
 > Flüssigkeitsansammlung in [[Pleura]]höhle zwischen [[Lunge]] und Thoraxwand
 - **Ätiologie**
 	- *Transsudat:* Austritt zellarmer Flüssigkeit aufgr. Druck↑ (z.B. ==[[Herzinsuffizienz]]==, [[Nephrotisches Syndrom]], [[Leberzirrhose]])

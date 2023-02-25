@@ -2,8 +2,6 @@
 tags: [Modul/m02, Fach/Biochemie, Fach/Labor, Fach/Genetik]
 title: Sequenzierung
 ---
-
-### [[DNA]]-Sequenzierung / Gensequenzierung 
 > *Gensequenzierung nach Sanger* durch selektive Replikationsabbrüche → auch Punktmutationen in analysiertem Genombereich nachweisbar
 - **Voraussetzungen**:: Klinische Verdachtsdiagnose, Gen mit pathogener [[Mutation]] bekannt
 - **Nachteile**

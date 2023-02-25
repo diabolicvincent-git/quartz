@@ -15,5 +15,5 @@ title: Reflex
 		- Pathologischer Reflex ([[Babinski]], Chaddock, Gordon, Mendel-Bechterew u.a.)
 - **Muskeleigenreflexe**:: [[Trömner-Reflex]], [[Tibialis-posterior-Reflex]], [[Patellarsehnenreflex]], [[Achillessehnenreflex]], [[Trizepssehnenreflex]], [[Bizepssehnenreflex]], [[Radiusperiostreflex]], [[Adduktorenreflex]]
 - **Fremdreflexe**:: [[Bauchhautreflex]], [[Analreflex]]
-- **Primitivreflexe (pathologische Fremdreflexe)**:: [[Babinski]], [[Gordon-Zeichen]], [[Oppenheim-Zeichen]], [[Palmarer Greifreflex]], [[Palmomentalreflex]], [[Glabellareflex]]
+- **[[Primitivreflexe]] (pathologische Fremdreflexe)**:: [[Babinski]], [[Gordon-Zeichen]], [[Oppenheim-Zeichen]], [[Palmarer Greifreflex]], [[Palmomentalreflex]], [[Glabellareflex]]
 ---

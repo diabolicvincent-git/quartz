@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Physiologie]
 title: Lactoseintoleranz
 ---
-### Lactoseintoleranz
 > β-Galactosidase (Lactase) nicht in ausreichender Menge zur [[Verdauung]] von Lactose exprimiert
 - Lactose nicht → Galactose + [[Glucose]]
 - Fermentative Abbauprodukte (Methan, [[Lactat]], Wasserstoff, etc.) durch [[Darmflora]] verursachen Symptome (Blähungen, osmotische [[Diarrhoe]])

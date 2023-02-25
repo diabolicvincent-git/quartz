@@ -8,7 +8,7 @@ title: Adenohypophyse
 	- **==Hypophysenvorderlappen==**
 		- ==*Azidophile Zellen:* Nicht-glandotrope Hormone== (wirken am Zielorgan)
 			- *Somatotrop:* [[GH]]
-			- *Mammotrop:* Prolactin
+			- *Mammotrop:* [[Prolactin]]
 		- ==*Basophile Zellen:* Glandotrope Hormone== (wirken an peripheren Drüsen)
 			- *Corticotrop:* [[ACTH]] 
 			- *Gonadotrop:* [[LH]]/[[FSH]]

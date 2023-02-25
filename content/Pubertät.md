@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Pädiatrie, Fach/Urologie, Fach/Gynäkologie, Fach/Endokrinologie]
 title: Pubertät
 ---
-### Pubertät
 > Ausreifung von Gonaden/Genitalien, Bildung sekundärer [[Geschlechtsmerkmale]], Wachstum
 - **Beginn**:: [[W]] 11. LJ, ♂ 13. LJ (abhängig von [[Hormon]]haushalt, insb. [[GH]], [[Leptin]])
 - **Dauer**:: ca. 4 Jahre

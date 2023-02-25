@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Biochemie/Elektrolyte]
 title: Mg2+
 ---
-### Magnesium / Mg2+
+> Magnesium
 - **Funktion**
 	- Cofaktor von [[Enzyme]]n
 	- Modulation von neuronaler Übertragung ([[ACh]]-/[[Ca2+]]-Freisetzung↓)

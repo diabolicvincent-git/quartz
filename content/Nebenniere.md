@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Endokrinologie, Fach/Anatomie]
 title: Nebenniere
 ---
-#### Nebenniere / Gl. adrenalis / Gl. suprarenalis
+> **Gl. adrenalis / Gl. suprarenalis.**
 - **Funktion**:: Synthese und [[endokrin]]e [[Sekretion]] der [[Corticosteroide]] und [[Katecholamine]]
 - **Gliederung**
 	- ![[NNR]]

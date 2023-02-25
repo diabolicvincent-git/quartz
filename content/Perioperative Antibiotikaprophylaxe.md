@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Anästhesie, Art/Intervention]
 title: Perioperative Antibiotikaprophylaxe
 ---
-### Perioperative Antibiotikaprophylaxe
 > [[i.v.]] ==Single-Shot== [[Antibiotika]]-Gabe
 - **Ziel**:: Vermeiden perioperativer [[Wundinfektion]]
 - **Indikationen**

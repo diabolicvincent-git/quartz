@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: M. cremaster
 ---
-### M. cremaster / Hodenhebermuskel
-> **[[Fremdreflex]]**
+> **Hodenhebermuskel.** [[Fremdreflex]].
 
 - **Funktion**:: Zieht [[Hoden]] nach kranial
 - **Lage**:: Umhüllt [[Samenstrang]]

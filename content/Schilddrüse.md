@@ -2,7 +2,6 @@
 tags: [Modul/m04, Modul/m17, Fach/Endokrinologie, Fach/Anatomie]
 title: Schilddrüse
 ---
-### Schilddrüse
 - **Funktion**:: Produktion/[[Sekretion]] [[Schilddrüsenhormone]] und [[Calcitonin]]
 - **Volumen**:: [[M]] 15-25 mL, [[W]] 10-18 mL
 - **Aufbau**

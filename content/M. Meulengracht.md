@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: M. Meulengracht
 ---
-### M. Meulengracht / M. Gilbert
 - **Epidemiologie**:: Häufigstes hereditäres [[Hyperbilirubinämie]]-Syndrom (5%)
 - **Ätiologie**:: UDP-Glucuronyltransferase Aktivität↓
 	- **Trigger**:: ==Stress==, Fasten, [[Alkohol]] ([[Häm]]-Abbau↑)

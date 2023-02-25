@@ -2,7 +2,7 @@
 tags: [Modul/m11, Modul/m13, Modul/m21, Fach/Pneumologie, Fach/Kardiologie, Art/Pathologie, Fach/Notfallmedizin/SOP, Mythbusting/DGIM-Klug-entscheiden]
 title: LAE
 ---
-##### Lungenarterienembolie / LAE
+> **Lungenarterienembolie.**
 - **Ätiologie**:: ==[[Embolie]] nach venöser [[Thrombose]]==, insb. Bein und [[ZVK]]
 - **Pathophysiologie**
 	- Rechtsventrikuläre [[Nachlast]]↑↑ (*Cor pulmonale*) → [[HZV]]↓ → [[Schock]]
@@ -25,7 +25,7 @@ title: LAE
 ---
 ### Mythbusting
 - *DGIM Klug entscheiden*:: Bei Patienten mit Verdacht auf Lungenembolie (ohne [[Schock]]) soll bei niedrigem Risiko-Score eine [[D-Dimere]]-Bestimmung und bei hohem Score eine Pulmonalis-[[CT-Angiographie]]/[[Lungenszintigraphie]] erfolgen!
-- *DGIM Klug entscheiden*:: Bei einer niedrigen klinischen Wahrscheinlichkeit für das Vorliegen einer Lungenembolie und negativen [[D-Dimere]] soll keine [[CT-Angiographie]] der Lunge durchgeführt werden.
+- *DGIM Klug entscheiden*:: Bei einer niedrigen klinischen Wahrscheinlichkeit für das Vorliegen einer Lungenembolie und negativen [[D-Dimere]] soll keine [[CT-Angiographie]] der [[Lunge]] durchgeführt werden.
 
 
 

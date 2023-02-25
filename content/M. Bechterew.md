@@ -1,8 +1,8 @@
 ---
-tags: [Modul/m17, Fach/Rheumatologie, Fach/Orthopädie]
+tags: [Modul/m17, Fach/Rheumatologie, Fach/Orthopädie, ToDo]
 title: M. Bechterew
 ---
-### M. Bechterew / Spondylitis ankylosans 
+> **Spondylitis ankylosans.**
 - **Epidemiologie**:: Oft junge Männer
 - **Befall**:: [[Wirbelsäule]], Iliosacralgelenke
 - **Symptome**:: [[Rückenschmerzen]] oft Erstmanifestation

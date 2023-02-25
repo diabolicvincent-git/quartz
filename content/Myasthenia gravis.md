@@ -2,8 +2,6 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Neurologie]
 title: Myasthenia gravis
 ---
-
-### Myasthenia gravis 
 > [[Autoimmunität]] mit Störung der neuromuskulären Kopplung
 - **Epidemiologie**:: [[W]] (jung) > [[M]] (alt)
 - **Pathophysiologie**:: ==[[Auto-Antikörper]] gegen [[ACh]]-R / Postsynapse== → Störung der neuromuskulären Endplatte an [[Quergestreifte Muskulatur]] (*[[Hypersensibilitätstypen]] Typ 2*)

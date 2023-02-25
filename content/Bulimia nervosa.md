@@ -8,6 +8,6 @@ title: Bulimia nervosa
 	- *Schleimhaut:* Trockene Lippen, Mundwinkel-[[Rhagaden]], Zahnfleischveränderungen
 	- *[[Haut]]:* Trockene Haut, brüchige Nägel, ==[[Russell-Zeichen]]==
 	- *[[Herz]]:* [[Hypotonie]], [[HRST]]
-	- *Psyche:* Häufige Komorbidität [[Depression]], [[Soziale Phobie]]
+	- *[[Psyche]]:* Häufige Komorbidität [[Depression]], [[Soziale Phobie]]
 - **DD**:: [[Anorexia nervosa]] ([[Untergewicht]])
 - **Therapie**:: [[Verhaltenstherapie]], ggf. [[Fluoxetin]]

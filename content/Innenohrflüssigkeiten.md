@@ -7,7 +7,7 @@ title: Innenohrflüssigkeiten
 > [[Endolymphe]] ≈ Intrazellulärraum
 - Positives Endocochleäres Potential +85 mV → [[K+]] Einstrom in Haarzellen
 
-|Eigenschaft|[[Endolymphe]]|Perilymphe|
+|Eigenschaft|[[Endolymphe]]|[[Perilymphe]]|
 |-|-|-|
 |[[K+]]|viel (150 mM)|wenig (5 mM)|
 |[[Na+]]|wenig (5 mM)|viel (150 mM)|

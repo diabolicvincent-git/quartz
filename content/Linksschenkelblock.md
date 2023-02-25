@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Linksschenkelblock
 ---
-### Linksschenkelblock / LSB
 > [[Schenkelblock]] der ==2== linken [[Tawara-Schenkel]] (nur 1 = Hemiblock)
 - **[[EKG]]**
 	- Verspäteter oberer Umschlagspunkt in linkspräkordialen Ableitungen V5, V6

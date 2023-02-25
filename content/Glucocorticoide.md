@@ -20,7 +20,7 @@ title: Glucocorticoide
 	- GI: [[Ulcus]] (insb. in Kombi mit [[NSAR]])
 	- [[ZNS]]/[[Psyche]]
 	- Auge: Intraokulärer Druck↑, Linsentrübung
-- **Relative KI**:: GI-Ulcus, Osteoporose, [[Infektionen]], [[Glaukom]], [[Schwangerschaft]], [[Thrombophilie]]
+- **Relative KI**:: GI-Ulcus, [[Osteoporose]], [[Infektionen]], [[Glaukom]], [[Schwangerschaft]], [[Thrombophilie]]
 ---
 ### Mythbusting
 - *DGIM Klug entscheiden*:: Eine längerfristige Glucocorticoidtherapie in einer Dosis von mehr als 5 mg/d [[prednisoLON]]-Äquivalent soll nicht durchgeführt werden.

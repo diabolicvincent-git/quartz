@@ -2,7 +2,7 @@
 tags: [Fach/Biochemie, Fach/Infektiologie]
 title: Replikationsstrategien
 ---
-### Replikationsstrategien von [[Viren]]
+> Replikationsstrategien von [[Viren]]
 - **(+)ssRNA**:: Virusgenom dient als [[mRNA]]
 - **(–)ssRNA, dsRNA**:: *Virale RDRP* → [[mRNA]]
 - **Retroviren**:: *Virale Reverse Transkriptase* → dsDNA; *zelluläre DDRP* → [[mRNA]]

@@ -2,7 +2,8 @@
 tags: [Modul/m21, Fach/Anästhesie, Art/Intervention]
 title: NEWS
 ---
-### National Early Warning Score / NEWS2
+> National Early Warning Score
+
 | Kriterium              | 3   | 2      | 1       | 0       | 1                | 2                | 3       |
 | ---------------------- | --- | ------ | ------- | ------- | ---------------- | ---------------- | ------- |
 | [[AF]]                 | ≤8  |        | 9-11    | 12-20   |                  | 21-24            | ≥25     |

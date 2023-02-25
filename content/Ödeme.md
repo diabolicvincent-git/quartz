@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Nephrologie, Art/Pathologie]
 title: Ödeme
 ---
-### Ödeme
 >  Pathologische Flüssigkeitsansammlung im Interstitium
 - **Einteilung**
 	- **Periphere Ödeme**[^1] *generalisiert* ([[Anasarka]]) / *lokal*

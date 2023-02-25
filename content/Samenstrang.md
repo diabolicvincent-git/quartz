@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: Samenstrang
 ---
-### Samenstrang / Funiculus spermaticus
+> Funiculus spermaticus
 - **Verlauf**:: Durch den [[Leistenkanal]]
 - **Inhalt**
 	- *Fascia spermatica externa*

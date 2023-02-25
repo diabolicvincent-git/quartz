@@ -2,7 +2,7 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Pharmakologie/Medikament]
 title: NMH
 ---
-### Niedermolekulares [[Heparin]] / NMH
+> **Niedermolekulares [[Heparin]].**
 - **Wirkmechanismus**:: Wirksteigerung von Antithrombin nur bei der Hemmung von *Faktor Xa*
 - **Beispielpräparate**:: Clexane, Fraxiparin, Imnohep, Mono-Embolex
 - **HWZ**:: Längere HWZ als [[UFH]]

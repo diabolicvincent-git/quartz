@@ -44,7 +44,7 @@ title: Neuroanatomie Repetitorium
 - [Frontallappen]
     - Sulcus centralis
 - [Temporallappen]
-- Parietallappen
+- [[Parietallappen]]
     - Sulcus lateralis
 - [Occipitallappen]
     - Präoccipitaler [Notch] ↔ Sulcus parietooccipitalis (nur von medial)

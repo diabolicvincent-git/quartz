@@ -2,8 +2,7 @@
 tags: [Modul/m19, Fach/Onkologie]
 title: Radiatio
 ---
-### Radiatio / Strahlentherapie
-> [[Ionisierende Strahlung]] → Hemmung Proliferation
+> **Strahlentherapie.** [[Ionisierende Strahlung]] → Hemmung Proliferation
 - **Formen**
 	- **Fraktionierung**[^1]
 		- *Hypofraktionierung*: Dosis↑, Fraktionen↓ (geringere Hospitalisierungszeit)

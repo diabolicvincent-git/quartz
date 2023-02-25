@@ -4,14 +4,14 @@ title: Leistungsphysiologie
 ---
 
 ### Anpassung an Leistung
-#### Myokard
+#### [[Myokard]]
 - **Sympathikusaktivierung** → positiv [[chronotrop]], [[inotrop]], [[lusitrop]], [[dromotrop]], [[bathmotrop]] sowie [[Vasodilatation]] der [[Koronararterien]] (β2)
 - **[[Metabolische Autoregulation]]**:: Adenosin↑, CO2↑, [[pH]]↓ → [[Vasodilatation]]
 - **Sauerstoffausschöpfung**:: Bereits in Ruhe sehr hoch, nicht weiter steigerbar
 - **[[Stoffwechsel]]**:: "Allesverwerter" ([[Myokard]] kann [[Lactat]] verbrauchen)
 #### Verdauungssystem
 - [[Sympathikus]]-vermittelte [[Vasokonstriktion]] und Aktivitätsminderung
-#### Niere
+#### [[Niere]]
 - Durchblutung auch bei Belastung *konstant* gehalten
 #### Skelettmuskulatur
 - **Durchblutung** Steigerung bis 20x (insb. [[Metabolische Autoregulation]])
@@ -250,7 +250,7 @@ title: Leistungsphysiologie
     - Risikoverminderung von [[Mamma-Ca]]**
     - Risikoverminderung von Prostatakrebs**
     - Zunahme der Knochendichte**
-    - Risikoverminderung von Osteoporose***
+    - Risikoverminderung von [[Osteoporose]]***
     - Verminderung der Blutfettwerte (Triacylglycerol)***
     - Zunahme des protektiven HDL-Cholesterins***
     - Gewichtsreduktion, Zunahme der Körperzellmasse und Abnahme der Fettmasse,Verhinderung von [[Adipositas]]***

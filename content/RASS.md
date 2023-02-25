@@ -2,8 +2,7 @@
 tags: [Modul/m36, Fach/Anästhesie]
 title: RASS
 ---
-### Richmond Agitation and Sedation Scale / RASS
-> Goldstandard: Monitoring der [[Sedierung]] auf [[ITS]]
+> **Richmond Agitation and Sedation Scale.** Goldstandard: Monitoring der [[Sedierung]] auf [[ITS]]
 - **Ziel**:: RASS 0 bis -1
 - **RASS**
 	- *+4:* Streitlust, Aggressivität, Fremdgefährdung

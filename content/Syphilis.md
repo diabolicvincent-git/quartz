@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Infektiologie, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie]
 title: Syphilis
 ---
-### Syphilis / Lues
-> **[[STD]]**
+> **Auch: Lues.** [[STD]].
 - **Epidemiologie**:: ♂:[[W]] 14:1
 - **Ätiologie**
 	- **Erreger**:: Treponema pallidum ([[gramnegativ]], Stäbchen, Spirochäten)

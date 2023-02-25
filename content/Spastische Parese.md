@@ -2,7 +2,6 @@
 tags: [Modul/m30, Fach/Neurologie, Art/Pathologie]
 title: Spastische Parese
 ---
-### Spastische [[Parese]]
 - **Ätiologie**:: ==Zentral (1. Motoneuron)==
 - **Symptome**
 	- Hyperreflexie, Reflexzonenverbreiterung

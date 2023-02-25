@@ -9,7 +9,7 @@ title: Stoffwechsel der Niere
 
 
 
-## Niedriger Sauerstoffpartialdruck im Nierenmark
+## Niedriger Sauerstoffpartialdruck im [[Nierenmark]]
 - **Luxusdurchblutung**:: [[Renale Perfusion]] mit 20% [[HZV]] am höchsten von allen Organen → arteriovenöse Sauerstoffdifferenz [[avDO2]] mit 5-10% gering (sonstiger Körper ≈ 20% [[avDO2]])
 - **Gefäßarchitektur**
 	- Hoher [[O2]]-[[Partialdruck]] in der [[Nierenrinde]] (an- und abführende [[Gefäße]])

@@ -6,7 +6,7 @@ title: Thyreoiditis de Quervain
 - **Epidemiologie**:: v.a. junge Frauen
 - **Ätiologie**:: Unklar, gehäuft nach viralem Atemwegsinfekt
 - **Pathophysiologie**:: [[Cytokine]]?
-- **Symptome**:: [[AZ]]↓, [[Fieber]], ==Druckdolenz==, ggf. mit Ausstrahlung bis Ohr, ggf. passagere [[Hyperthyreose]][^1]
+- **Symptome**:: [[AZ]]↓, [[Fieber]], ==Druckdolenz==, ggf. mit Ausstrahlung bis [[Ohr]], ggf. passagere [[Hyperthyreose]][^1]
 - **Diagnostik**:: ==Klinik==, ggf. [[Sonographie]] (eachorm, landkartenartig konfluierend), [[BSG]]↑↑, [[Leukocyten]] normal
 - **Therapie**:: Symptomatisch [[NSAR]] (z.B. [[ASS]]), ggf. [[Glucocorticoide]], ggf. [[Propranolol]] bei [[Hyperthyreose]]
 - **Cave**:: Keine [[Thyreostatika]]

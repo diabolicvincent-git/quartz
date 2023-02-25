@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Dermatologie, Fach/Biochemie/Molekül]
 title: Melanin
 ---
-### Melanin
 
 
 ## Vergleich

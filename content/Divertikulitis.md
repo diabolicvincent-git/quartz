@@ -12,7 +12,7 @@ title: Divertikulitis
 - **Symptome**
 	- Akute, progrediente ==linksseitige Unter[[Bauchschmerzen]]==, ==[[Fieber]]==
 	- Obstipation/Diarrhoe, Flatulenz, Übelkeit/Erbrechen, [[Peritonitis]]
-- **Komplikationen**:: Divertikelblutung, Perforation, Fistelblutung, mechanischer [[Ileus]]
+- **Komplikationen**:: Divertikelblutung, [[Perforation]], Fistelblutung, mechanischer [[Ileus]]
 - **Diagnostik**
 	- **[[Untersuchung Abdomen]]**:: Lokaler Druckschmerz, walzenförmige Resistenz, [[DRU]]
 	- **Labor**:: Leukocytose, [[CRP]]↑, DD [[Urindiagnostik]]

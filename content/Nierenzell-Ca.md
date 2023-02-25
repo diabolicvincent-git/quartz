@@ -2,7 +2,6 @@
 tags: [Modul/m14, Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Nephrologie, Fach/Urologie]
 title: Nierenzell-Ca
 ---
-### Nierenzellkarzinom
 - **Symptome**:: Oft vollständig symptomfrei
 	- Makrohämaturie, Flankenschmerzen, [[Pyelonephritis]]
 	- ggf. [[Varikocele]] testis links

@@ -47,10 +47,10 @@ s. o.
 ### Einteilung nach Pathomechanismus
 ![[Hypersensibilitätstypen]]
 
-#### Bsp. Typ-II-Reaktion Myasthenia gravis
+#### Bsp. Typ-II-Reaktion [[Myasthenia gravis]]
 ![[Myasthenia gravis]]
 
-#### Bsp. Typ-II-Reaktion M. Basedow
+#### Bsp. Typ-II-Reaktion [[M. Basedow]]
 ![[M. Basedow]]
 
 #### Bsp. Typ-III-Reaktion [[SLE]]

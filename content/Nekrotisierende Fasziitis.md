@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Dermatologie, Art/Pathologie, Modul/m26]
 title: Nekrotisierende Fasziitis
 ---
-### Nekrotisierende Fasziitis
 > Weichteilinfektion bis unter die Faszie mit fulminantem Verlauf
 - **Ätiologie**:: β-hämolysierende [[Streptokokken]] Gruppe A ([[Str. pyogenes]]), [[Staph. aureus]] + Bagatelltrauma
 - **Pathophysiologie**:: [[Toxine]]-vermittelte Mikrothromben → Ischämie, [[Nekrose]]

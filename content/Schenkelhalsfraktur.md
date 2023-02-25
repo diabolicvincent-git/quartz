@@ -4,7 +4,7 @@ title: Schenkelhalsfraktur
 ---
 - **Epidemiologie**
 	- Typische [[Fraktur]] des älteren Menschen (⊘-Alter: 78 J.)
-	- Osteoporose(!)
+	- [[Osteoporose]](!)
 	- Frauen : Männer 4:1
 	- **[[Inzidenz]]**:: 50.000 / Jahr, Tendenz steigend
 - **Klinik**
@@ -27,7 +27,7 @@ title: Schenkelhalsfraktur
 		- Impaktierte, nicht dislozierte, stabile Abduktionsfrakturen
 		- Garden I, Pauwels I → stabile Situation
 		- Dorsalkippung des Kopfes <10° im axialen Strahlengang
-	- **Operativ - Kopferhalt (Osteosynthese)**
+	- **Operativ - Kopferhalt ([[Osteosynthese]])**
 		- Pat. <65 Jahre
 		- Ausnahmen: [[Arthrose]], Pathologische Fx, Osteolyse, Comorbiditäten
 		- Notfallmäßige operative Verschraubung (<6 h → Nekrosegefahr)

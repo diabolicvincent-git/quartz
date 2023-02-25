@@ -3,13 +3,13 @@ tags: [Modul/m17, Fach/Onkologie, Fach/Hämatologie, Art/Pathologie]
 title: Hämatologische Neoplasien
 ---
 - **Myeloische Reihe**
-	- **[[Myeloproliferative Neoplasien]] (MPN)**
+	- **[[Myeloproliferative Neoplasien (MPN)]] (MPN)**
 		- [[Polycythaemia vera]]
 		- Essentielle Thrombocytämie
 		- Myelofibrose
 		- Mastocytosen
 		- [[CML]]
-	- **[[Myelodysplastisches Syndrom]]**
+	- **[[Myelodysplastisches Syndrom (MDS)]]**
 	- **[[AML]]**
 - **Lymphatische Reihe**
 	- **[[Lymphom]]**
@@ -25,10 +25,10 @@ title: Hämatologische Neoplasien
 ## Übersichtsmatrix
 Gruppe|Entitäten|Lokalisation|Reihe|Pathophysiologie|Symptome
 -|-|-|-|-|-
-**Maligne [[Lymphom]]e**|[[Hodgkin-Lymphom]], [[Non-Hodgkin-Lymphom]], [[CLL]]|[[Lymphatische Organe]] ([[Lymphknoten]], [[Milz]])|L|Neoplasie reifer [[Lymphocyten]]|[[B-Symptomatik]], [[Lymphadenopathie]]
-**[[Akute Leukämie]]**|[[ALL]], [[AML]]|[[Knochenmark]]|L/M|Neoplasie von Vorläufer-Blasten|*Verdrängung*<br>[[Erythropoese]]→[[Anämie]]<br>[[Thrombopoese]]→[[Blutungsneigung]]<br>[[Leukopoese]]→Infektneigung
-**[[Myeloproliferative Neoplasien]] (MPN)**|[[CML]], [[Polycythaemia vera]], [[Essentielle Thrombocytämie]], [[Primäre Myelofibrose]]|[[Knochenmark]]↑|M|Überproduktion (Qualität anfangs normal)|*Erhöhung*<br>[[Erythrocyten]]→Plethora<br>[[Thrombocyten]]→[[Thrombose]]<br>[[Granulocyten]]→[[Thrombose]]
-**[[Myelodysplastisches Syndrom]] (MDS)**||[[Knochenmark]]↓|M|Dysfunktion (Quantität/Qualität↓ im [[Blut]])|*Verminderung*<br>[[Erythrocyten]]→[[Anämie]]<br>selten Bi-/[[Pancytopenie]]
+**Maligne [[Lymphom]]e**|[[Hodgkin-Lymphom]], [[Non-Hodgkin-Lymphom]], [[CLL]]|[[Lymphatische Organe]] ([[Lymphknoten]], [[Milz]])|L|[[Neoplasie]] reifer [[Lymphocyten]]|[[B-Symptomatik]], [[Lymphadenopathie]]
+**[[Akute Leukämie]]**|[[ALL]], [[AML]]|[[Knochenmark]]|L/M|[[Neoplasie]] von Vorläufer-Blasten|*Verdrängung*<br>[[Erythropoese]]→[[Anämie]]<br>[[Thrombopoese]]→[[Blutungsneigung]]<br>[[Leukopoese]]→Infektneigung
+**[[Myeloproliferative Neoplasien (MPN)]] (MPN)**|[[CML]], [[Polycythaemia vera]], [[Essentielle Thrombocytämie]], [[Primäre Myelofibrose]]|[[Knochenmark]]↑|M|Überproduktion (Qualität anfangs normal)|*Erhöhung*<br>[[Erythrocyten]]→Plethora<br>[[Thrombocyten]]→[[Thrombose]]<br>[[Granulocyten]]→[[Thrombose]]
+**[[Myelodysplastisches Syndrom (MDS)]] (MDS)**||[[Knochenmark]]↓|M|Dysfunktion (Quantität/Qualität↓ im [[Blut]])|*Verminderung*<br>[[Erythrocyten]]→[[Anämie]]<br>selten Bi-/[[Pancytopenie]]
 
 
 

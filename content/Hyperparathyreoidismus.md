@@ -10,7 +10,7 @@ title: Hyperparathyreoidismus
 	- *[[Niere]]:* Nephrolithiasis, Nephrocalcinose, [[Hypertonie]], [[Polyurie]], Polydipsie
 	- *[[Knochen]]:* [[Schmerz]], Chondrocalcinose, ==diffuse Osteopenie==
 	- *GI:* Appetit↓, Übelkeit, Obstipation, selten GI-Ulcus
-	- *Psyche:* [[Depression]]
+	- *[[Psyche]]:* [[Depression]]
 - **Diagnostik**
 	- *Primär:* [[Ca2+]]↑, [[Phosphat]]↓, [[Alkalische Phosphatase]]↑, [[PTH]]↑
 	- *Sekundär:* [[Ca2+]]=/↓

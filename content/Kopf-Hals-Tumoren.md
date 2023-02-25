@@ -8,7 +8,7 @@ title: Kopf-Hals-Tumoren
 	- [[Pharynx-Ca]]
 	- [[Speicheldrüsentumoren]]
 	- [[Larynx-Ca]]
-	- Tumoren der Nase und Nasennebenhöhlen
+	- Tumoren der [[Nase]] und [[Nasennebenhöhlen]]
 	- Tumoren der Gesichts- und Halshaut
 		- [[Lippen-Ca]]
 	- Tumoren des Ohrs
@@ -20,5 +20,5 @@ title: Kopf-Hals-Tumoren
 - Larynx
 - [[Speicheldrüsen]]
 - Halslymphknoten
-- Ohr
+- [[Ohr]]
 - [[Schilddrüse]]

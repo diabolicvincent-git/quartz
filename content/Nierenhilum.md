@@ -2,8 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Anatomie]
 title: Nierenhilum
 ---
-
-### Niernhilum 
 1. **V. renalis** (ventral)
 	- Links länger als rechts
 	- *Nussknackerphänomen:* V. renalis sinistra überkreuzt von A. mesenterica superior

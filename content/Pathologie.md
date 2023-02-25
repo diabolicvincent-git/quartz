@@ -28,7 +28,7 @@ title: Pathologie
 	- *Solide* (i.d.R. vital)
 	- *Luftkissenartig* (Gasgangrän, [[Emphysem]])
 	- *Weich* (flüssigkeitsreich)
-	- *Fest:* ([[Stroma]]-reich, z.B. [[Hyperplasie]], Neoplasie, [[Narbe]])
+	- *Fest:* ([[Stroma]]-reich, z.B. [[Hyperplasie]], [[Neoplasie]], [[Narbe]])
 	- *Hart, Körnig* (mineralisiertes [[Stroma]], Verkalkung)
 - **Besonderheiten**:: Geruch, Geräusch
 
@@ -40,4 +40,4 @@ title: Pathologie
 
 #### die grundsätzlichen morphologischen Kriterien zur Unterscheidung entzündlicher und neoplastischer Erkrankungen am Beispiel des Lungenrundherdes und des Leberrundherdes in einem ausgewählten Bildbeispiel ([[CT]], [[MRT]], US) und im makroskopischen Präparat beurteilen können.
 
-#### am Beispiel von Leberzirrhose, Lebermetastase, hepatozellulärem Karzinom, bronchoalveolärem Karzinom und Tuberkulose die Möglichkeiten und Limitationen von Bildgebung und makroskopischer Diagnostik erläutern können.
+#### am Beispiel von [[Leberzirrhose]], Lebermetastase, hepatozellulärem Karzinom, bronchoalveolärem Karzinom und Tuberkulose die Möglichkeiten und Limitationen von Bildgebung und makroskopischer Diagnostik erläutern können.

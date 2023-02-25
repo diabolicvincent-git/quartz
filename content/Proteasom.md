@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie]
 title: Proteasom
 ---
-### Proteasom
 > Abbau *zelleigener* [[Proteine]]
 - **Ubiquitnierung**:: Markieren abzubauender [[Proteine]] mit Ubiquitinkette an [[Lysin]]-Rest
 - **Abbau**:: Erkennung des Ubiquitins, Abbau durch [[ATP]]-abhängigen Protease-Komplex

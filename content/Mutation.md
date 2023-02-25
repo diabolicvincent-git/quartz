@@ -2,7 +2,6 @@
 tags: [Modul/m02, Modul/m19, Fach/Onkologie, Fach/Genetik]
 title: Mutation
 ---
-### Mutationen
 - **Genmutationen**
 	- Unterscheidung nach Zelltyp
 		- **Keimbahnmutation**:: Entstehung in Gametogenese ([[Meiose]]) → Weitergabe an Nachkommen

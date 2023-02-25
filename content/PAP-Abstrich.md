@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Art/Intervention]
 title: PAP-Abstrich
 ---
-### Cervixabstrich / PAP-Abstrich
-> Cytologische Beurteilung von Präkanzerosen ([[Cervix-Ca]])
+> Cervixabstrich. Cytologische Beurteilung von Präkanzerosen ([[Cervix-Ca]])
 - **Indikation**
 	- [[Krebsvorsorgeuntersuchung]] ab 20. LJ
 	- Schwangerschaftsvorsoge

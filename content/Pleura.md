@@ -2,8 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anatomie]
 title: Pleura
 ---
-### Pleura / Lungenfell
-> Verschiebeschicht und Reserveraum für Atmung
+> Lungenfell. Verschiebeschicht und Reserveraum für Atmung
 - **Einteilung**
 	- *Pleura visceralis* (Lungenoberfläche)
 	- *Pleura parietalis* (Pars costalis, diaphragmatica, mediastinalis, cervicalis)

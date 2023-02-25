@@ -2,7 +2,6 @@
 tags: [Modul/m14, Art/Intervention, Fach/Kardiologie]
 title: Schellong-Test
 ---
-### Schellong-Test
 > Test ausreichender orthostatischer Regulation (unzureichend → [[Hypovolämie]])
 
 - [[RR]] und [[HF]] im liegen messen

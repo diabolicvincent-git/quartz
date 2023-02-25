@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Urologie, Fach/Anatomie]
 title: Penis
 ---
-### Penis (♂)
 - **Funktion**:: Harnableitung, [[Erektion]], Spermientransport
 - **Aufbau**
 	- *Radix / Peniswurzel*

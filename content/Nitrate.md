@@ -2,7 +2,6 @@
 tags: [Modul/m11, Modul/m13, Fach/Pharmakologie/Medikament, Fach/Kardiologie]
 title: Nitrate
 ---
-### Nitrate
 - **Wirkung**
 	- Periphere [[Vasodilatation]] → *"venöses Pooling"* → [[Vorlast]]↓ 
 	- Koronardilatation → verbesserte [[Myokard]]-Perfusion

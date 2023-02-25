@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/Ophthalmologie, Art/Pathologie]
 title: Nystagmus
 ---
-### Nystagmus
 > Unkontrollierbare, rhythmische Augenbewegung
 - **Ablauf**
 	1. Langsame Augenbewegung in eine Richtung ([[Vestibulookulärer Reflex]], Erstbewegung)

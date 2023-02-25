@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Hämatologie, Art/Pathologie]
 title: Transfusionsreaktion
 ---
-### Transfusionsreaktion
 > [[UAW]] einer [[Transfusion]]
 - **Akut**
 	- *Immunologisch*

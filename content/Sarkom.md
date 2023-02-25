@@ -2,7 +2,6 @@
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie]
 title: Sarkom
 ---
-### Sarkom
 > Maligne [[Tumor]]en aus dem [[Mesenchym]] ([[Bindegewebe]]/Stützgewebe)
 - **Epidemiologie**:: Selten, 1% der Malignome
 - **Einteilung** nach Ursprungsgewebe

@@ -2,9 +2,6 @@
 tags: [Modul/m03, Modul/m05, Fach/Biochemie, Fach/Physiologie]
 title: Zellzyklus
 ---
-
-#### Zellzyklus
-
 - **Interphase**:: Vorbereitung auf Teilung
     - **G1-Phase**:: Synthese von Organellen und Proteinen (z.B. Spindelapparat)
     - **G0-Phase**:: Ruhephase, terminale Differenzierung

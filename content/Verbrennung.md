@@ -7,7 +7,7 @@ title: Verbrennung
 - **Pathophysiologie**:: Hitze → [[Nekrose]] der [[Haut]] → Kapillarschädigung, Permeabilität↑ → [[Ödeme]], Mikrozirkulationsstörung, [[HZV]]↓, Ischämie → Lactat↑, metabolische Azidose → Volumenmangelschock
 - **Symptome**
 	- **Lokale Stadien**
-		- *I°:* Schmerz, Rötung (oberste [[Epidermis]], z.B. Sonnenbrand)
+		- *I°:* [[Schmerz]], Rötung (oberste [[Epidermis]], z.B. Sonnenbrand)
 		- *IIa°:* [[Vesicula]] ([[Epidermis]] + oberste [[Dermis]])
 		- *IIb°:* Kaum Schmerzen, geöffnete Vesicula, Narbenbildung (Epidermis + Dermis)
 		- *III°:* Keine Schmerzen, [[Nekrose]] (bis [[Subcutis]])
@@ -15,7 +15,7 @@ title: Verbrennung
 	- **Systemisch**:: [[Schock]], [[Hypothermie]]
 - **Klassifikation**:: ==[[Neuner-Regel]]==
 - **Diagnostik**
-	- **[[Untersuchung]]**:: [[cABCDE]], Nadelstichprobe (Schmerz↓ ab IIb°)
+	- **[[Untersuchung]]**:: [[cABCDE]], Nadelstichprobe ([[Schmerz]]↓ ab IIb°)
 	- **[[Labor]]**:: Standard + [[BGA]] mit [[CO]] und Methämoglobin
 	- **Sonstiges**:: Wundabstrich, Biopsie, Laryngo-Bronchoskopie bei [[Inhalationstrauma]]
 - **Therapie**

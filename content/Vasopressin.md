@@ -11,4 +11,4 @@ title: Vasopressin
 - **Interaktion**:: 
 - **Dosis**:: 
 - **Applikation**:: [[i.v.]], [[i.o.]]
-- **Pharmakokinetik**:: 
+- **[[Pharmakokinetik]]**:: 

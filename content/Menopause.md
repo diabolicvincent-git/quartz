@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Menopause
 ---
-### Menopause / Klimakterium / Wechseljahre
+> Klimakterium / Wechseljahre
 - **Definition**
 	- *Menopause:* 1 Jahr nach letzter [[Menstruation]] (∅ Alter: 52. LJ)
 	- *Perimenopause:* 1-2 Jahre um Menopause

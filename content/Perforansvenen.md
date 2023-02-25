@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Dermatologie, Fach/Anatomie]
 title: Perforansvenen
 ---
-### Perforansvenen 
 > [[Venen]], die zahlreiche Anastomosen zwischen den oberflächlichen und den tiefen Beinvenen bilden
 - **Bedeutung**:: Abfluss des venösen Blutes in tiefere [[Venen]]
 - **Pathophysiologie**:: [[Varikosis]] (Insuffizienz der Perforansvenen → Ströhmungsumkehr → Stauung epifaszialer [[Venen]])

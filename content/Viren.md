@@ -96,7 +96,7 @@ Vertreter humanpathogener [[RNA]]- und [[DNA]]-Viren (Coxsackie-, Hanta-, Hepati
 - **Tröpfchen-/Schmierinfektion über Schleimhäute**
 	- **Mund, [[Nase]], Rachen, Augen**:: Coronaviren (SARS, MERS, 229E, OC43, NL65), Paramyxoviren ([[Masern]], Mumps, Hendra, Nipah), Orthomyxoviren (FLU A, B, C), Adenoviren
 	- **Genitaltrakt**:: [[HIV|HIV]], Papillomaviren, [[HSV]]-2
-	- **Magen/Darm**:: Polioviren (Pircorna), Hepatitis-A-Viren (Picorna), Rotaviren (Reovirus), Calciviren (Norovirus)
+	- **[[Magen]]/Darm**:: Polioviren (Pircorna), Hepatitis-A-Viren (Picorna), Rotaviren (Reovirus), Calciviren (Norovirus)
 - **Blutbahn, Stiche, Bisse**:: Falviviren (Gelbfieber, Dengue, FSME, Zikavirus, [[Hepatitis C|HCV]]), Bunyaviren (Hanta, CCHFV)
 - **Blutbahn, Wunden**:: Hepatitis-B-Viren, Papillomaviren, Herpesviren (HHV1-HHV8)
 

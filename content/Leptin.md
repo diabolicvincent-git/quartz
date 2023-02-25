@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Physiologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Leptin
 ---
-### Leptin
 - **Synthese**:: Weißes Fettgewebe
 - **Wirkmechanismus**:: Leptin-Rezeptor im ==Ncl. arcuatus ([[Hypothalamus]])==
 - **Wirkung** → ==Katabolismus==[^1]

@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie]
 title: Ovarialinsuffizienz
 ---
-### Ovarialinsuffizienz
 - **Ätiologie**
 	- ==**Primär / Hypergonadotroper [[Hypogonadismus]]**:: [[Ovar]]-Funktion↓==
 		- Genetische Syndrome (z.B. Turner-Syndrom, [[PCO-Syndrom]], Swyer-Syndrom)

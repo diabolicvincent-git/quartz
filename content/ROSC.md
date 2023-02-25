@@ -2,8 +2,7 @@
 tags: [Modul/m21, Fach/Anästhesie, Art/Pathologie]
 title: ROSC
 ---
-### Return of Spontaneus Circulation / ROSC
-> Wiedereinsetzender Spontankreislauf während [[Reanimation]]
+> **Return of Spontaneus Circulation.** Wiedereinsetzender Spontankreislauf während [[Reanimation]]
 - **Management der Postreanimationsphase**
 	- 30° Oberkörperhochlagerung, [[Magensonde]], [[Sedierung]] min. 24 h
 	- *Atmung:* Normoxie, Normokapnie

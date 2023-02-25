@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: Schenkelblock
 ---
-### Schenkelblock
 > Erregungsleitung-Störung in [[Tawara-Schenkel]] → verspätete Erregung der betroffenen Seite
 - **Blockbilder**
 	- **[[Rechtsschenkelblock]]** ("M" in V1, V2)

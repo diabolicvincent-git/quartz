@@ -65,7 +65,7 @@ title: Amyotrophe Lateralsklerose
 - **Riluzol**:: Antiglutamaterge Wirkung, unklarer Mechanismus → Progression vermindert
 - **Symptomatische Medikation**
 	- [[Anticholinergika]] bei Pseudohypersalivation
-	- PEG bei [[Dysphagie]], Aspirationsgefahr, Kachexie
+	- [[PEG]] bei [[Dysphagie]], Aspirationsgefahr, Kachexie
 	- [[Mg2+]] bei Faszikulationen
 	- Physiotherapie und Baclofen bei Spastik
 	- [[Psychotherapie]] und [[Antidepressiva]] bei [[Depression]]

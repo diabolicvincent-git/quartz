@@ -9,4 +9,4 @@ title: Enterisches Nervensystem
 	- **Interstitielle Zellen von Cajal / ICC**:: Spezialisierte Fibroblasten → Schrittmacherzellen
 	- **[[Enteroendokrine Zellen]]** ([[Hormon]]e)
 - **[[Transmitter]]**:: [[ACh]], [[Noradrenalin]], [[Serotonin]], [[ATP]], [[NO]], GRP, VIP
-- **Pathologien**:: M. Hirschsprung (kongenitales Fehlen des [[Enterisches Nervensystem]])
+- **Pathologien**:: [[M. Hirschsprung]] (kongenitales Fehlen des [[Enterisches Nervensystem]])

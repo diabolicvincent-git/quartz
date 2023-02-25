@@ -14,7 +14,7 @@ title: Hypertrophe Kardiomyopathie
 	- **[[Untersuchung Herz]]**:: [[Systolikum]] p.m. über [[Erb-Punkt]]
 	- **[[EKG]]**:: Tiefe Q-Zacken inferior/lateral, Linksherzhypertrophie, [[Linksschenkelblock]], assoziierte [[HRST]] ([[VHF]], [[Ventrikuläre Tachykardie]])
 	- **TTE**
-	- ggf. MRT, [[Herzkatheter]], Biopsie, [[Gendiagnostik]]
+	- ggf. [[MRT]], [[Herzkatheter]], Biopsie, [[Gendiagnostik]]
 - **Therapie**
 	- *Allgemein:* Körperliche Belastung / [[Tachykardie]] meiden
 	- *Medikamentös:* ==[[β-Blocker]]== oder [[Verapamil]] (verbessert [[Diastole]]-Funktion)

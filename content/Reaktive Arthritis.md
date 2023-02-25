@@ -2,5 +2,5 @@
 tags: [Modul/m17, Fach/Rheumatologie]
 title: Reaktive Arthritis
 ---
-### Reaktive Arthritis / M. Reiter 
+> Alt: M. Reiter 
 - Sterile Oligoarthritis nach [[Bakterien]]-Infekt

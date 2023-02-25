@@ -4,4 +4,4 @@ title: Tyrosin
 ---
 **Tyrosin (Tyr, Y)**:: Alkoholische [[AS]], Aromat
 - **Funktion**:: [[Schilddrüsenhormone]], [[Katecholamine]]
-- **Pathologien**:: [[Phenylketonurie]]
+- **Pathologien**:: [[Phenylketonurie (PKU)]]

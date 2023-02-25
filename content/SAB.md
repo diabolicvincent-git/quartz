@@ -2,8 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: SAB
 ---
-### Subarachnoidalblutung / SAB
-> *Aneurysmaruptur* der Hirnbasisarterien mit Einblutung in den liquorgefüllten [[Subarachnoidalraum]]
+> **Subarachnoidalblutung.** *Aneurysmaruptur* der Hirnbasisarterien mit Einblutung in den liquorgefüllten [[Subarachnoidalraum]]
 - **Epidemiologie**
 	- [[Inzidenz]] 10/100.000 mit Gipfel 40-60 Jahre
 - **Ätiologie**

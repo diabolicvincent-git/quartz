@@ -9,8 +9,8 @@ title: Hypothalamus-Hypophysen-Achse
 | CRH (und [[ADH]][^1]) |[[ACTH]], [[Endorphine]]| **[[NNR]]**:: [[Cortisol]]↑ 
 | GnRH<br> (==pulsatil: +, kont.: –==)[^2] | [[LH]], [[FSH]]  |**Gonaden**:: [[Sexualhormone]]↑, Follikelwachstum ([[FSH]]), [[Ovulation]] ([[LH]]) 
 | TRH (+), [[Somatostatin]] (–) | [[TSH]] |**[[Schilddrüse]]**:: [[Schilddrüsenhormone]]↑ 
-| GHRH (+), [[Somatostatin]] (–), Ghrelin (+, aus Magen) | [[GH]][^3] |**[[Leber]]/[[Knorpel]]**:: [[Wachstumsfaktoren]]↑ ([[IGF]]) 
-| [[DOPamin]] (==–==) | Prolactin | **[[Mamma]]**:: Milchproduktion
+| GHRH (+), [[Somatostatin]] (–), Ghrelin (+, aus [[Magen]]) | [[GH]][^3] |**[[Leber]]/[[Knorpel]]**:: [[Wachstumsfaktoren]]↑ ([[IGF]]) 
+| [[DOPamin]] (==–==) | [[Prolactin]] | **[[Mamma]]**:: Milchproduktion
 
 - [[Leptin]] beeinflusst die meisten Regelkreise positiv (*Energiespeicher-vorhanden-Signal*)
 

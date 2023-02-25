@@ -2,7 +2,7 @@
 tags: [Modul/m15, Art/Intervention, Fach/Radiologie/Standardbildgebung]
 title: MRT
 ---
-### Magnetresonanztomographie / MRT
+> **Magnetresonanztomographie.**
 - **Indikation**:: Beurteilung von Weichteilen und [[Nervengewebe]]
 	- Verletzung von Knorpel, Bändern (z.B. [[OSG-Distorsion]])
 	- [[Tumor]]diagnostik (z.B. [[Mamma-Ca]])

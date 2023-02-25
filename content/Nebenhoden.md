@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Anatomie, Fach/Urologie]
 title: Nebenhoden
 ---
-### Nebenhoden / Epididymis
 > Einzelner, aufgewundener **Ductus epididymidis**
 - **Funktion**:: Ausreifung, Transport der [[Spermien]]
 - **Lage**:: Dem [[Hoden]] im [[Skrotum]] dorsal angelagert (weich palpabel)

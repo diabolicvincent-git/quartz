@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie]
 title: Sauerstoffbindungskurve
 ---
-### Sauerstoffbindungskurve
 > Abhängigkeit der [[O2]]-Sättigung vom [[O2]]-[[Partialdruck]] (= Bindungsaffinität des [[Hb]])
 - **Normaler Sigmoidaler Verlauf**:: [[pO2]]↑ = [[O2]]-Affinität↑ ([[Lunge]]); [[pO2]]↓ = [[O2]]-Affinität↓ (Gewebe)
     - *Kooperativer Effekt*: [[O2]]-Affinität steigt je gebundenes [[O2]]-Molekül (tensed → relaxed)

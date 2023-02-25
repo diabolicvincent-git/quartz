@@ -2,8 +2,7 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Chirurgie, Fach/Epidemiologie]
 title: MELD
 ---
-### MELD-Score
-  > Rangliste bei [[LTX]]
+ > Rangliste bei [[LTX]]
 - **Bestandteile**
 	- [[Bilirubin]]
 	- [[Kreatinin]]

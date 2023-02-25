@@ -2,7 +2,6 @@
 tags: [Modul/m24, Fach/Pharmakologie/Medikament]
 title: Pharmakokinetik
 ---
-### Pharmakokinetik
 > Wirkung des Körpers auf das Arzneimittel
 
 - **Begriffe**

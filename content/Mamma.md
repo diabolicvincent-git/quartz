@@ -2,7 +2,6 @@
 tags: [Modul/m05, Fach/Gynäkologie, Fach/Anatomie]
 title: Mamma
 ---
-### Mamma
 - **Aufbau**
 	- **Glandula mammaria**:: 10-20 Drüsenlobi
 	- **Interlobuläres [[Stroma]]**:: Einbettendes [[Bindegewebe]]/[[Fettgewebe]] (==90%==)

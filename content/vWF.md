@@ -14,5 +14,5 @@ title: vWF
 - **Pathologien**
 	- **[[von-Willebrand-Jürgens-Syndrom]]**:: Häufigste angeborene [[Blutungsneigung]]
 	- **Erworbenes von-Willebrand-Syndrom**:: Zerstörung der Mutlimere bei hohen Scherkräften (insb. Aortenstenose)
-	- [[Myeloproliferative Neoplasien]]
+	- [[Myeloproliferative Neoplasien (MPN)]]
 	- [[Auto-Antikörper]] gegen vWF

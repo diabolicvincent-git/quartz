@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: RCX
 ---
-### R. circumflexus / RCX
+> R. circumflexus 
 - **Verlauf**:: Im Sulcus coronarius → Rückseite des linken [[Herz]]
 - **Abgänge**
 	- R. nodi sinuatrialis (⅓) oder R. atrialis (⅔)

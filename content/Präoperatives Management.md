@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: Präoperatives Management
 ---
-### Präoperatives Management
 - **Elektive OP-Vorbereitung**
 	- **Umgang mit Vormedikation**
 		- *Pausieren:* Orale [[Antidiabetika]], [[Lithium]], [[Diuretika]] 

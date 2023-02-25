@@ -39,4 +39,4 @@ title: CKD
 - *DGIM Klug entscheiden*:: Hohe orale Flüssigkeitsmengen sollen nicht eingesetzt werden, um die Nierenfunktion zu bessern oder „Nieren zu spülen“.
 
 
-[^1]: Ödeme insb. bei Komorbidität mit [[Herzinsuffizienz]]: RR↓ im Vas afferens → Primärharn↓ → [[Schleifendiuretika]] nicht mehr wirksam
+[^1]: [[Ödeme]] insb. bei Komorbidität mit [[Herzinsuffizienz]]: RR↓ im Vas afferens → Primärharn↓ → [[Schleifendiuretika]] nicht mehr wirksam

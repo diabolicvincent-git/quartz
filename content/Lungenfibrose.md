@@ -2,8 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Lungenfibrose
 ---
-### Lungenfibrose
-- **Ätiologie+**
+- **Ätiologie**
 	- Idiopathisch (am häufigsten; keine Alveolitis)
 	- Autoimmun (z.B. [[Sarkoidose]], [[SLE]])
 	- Noxisch (z.B. [Asbest](Pneumokoniosen.md))

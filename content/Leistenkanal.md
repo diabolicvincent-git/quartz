@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Anatomie]
 title: Leistenkanal
 ---
-### Leistenkanal
 > Verbindung zwischen Bauchhöhle und Bauchwand
 - **Inhalt**
 	- N. ilioinguinalis
@@ -16,4 +15,4 @@ title: Leistenkanal
 	- *Kranial:* [[M. obliquus internus abdominis]], [[M. transversus abdominis]]
 	- *Kaudal:* Leistenband
 	- *Ventral:* Fascia abdominis superficialis + Externusaponeurose
-	- *Dorsal:* Fascia transversalis + Peritoneum parietale
+	- *Dorsal:* Fascia transversalis + [[Peritoneum]] parietale

@@ -61,7 +61,7 @@ title: Untersuchung Neurologie
 
 ### bei einer/m gegebenen Patient den [[Cornealreflex]] prüfen, den Befund dokumentieren und hinsichtlich eines Normalbefundes einordnen
 
-### bei einer/m gegebenen Patient die Kraft der mimischen Muskulatur (M. frontalis, M. orbicularis oculi, M. orbicularis oris) prüfen, dokumentieren und hinsichtlich eines Normalbefundes einordnen*
+### bei einer/m gegebenen Patient die Kraft der mimischen Muskulatur (M. frontalis, [[M. orbicularis oculi]], [[M. orbicularis oris]]) prüfen, dokumentieren und hinsichtlich eines Normalbefundes einordnen*
 
 ### bei einer/m gegebenen Patient den Rachen inspizieren, die Innervation des Gaumensegels untersuchen, dokumentieren und hinsichtlich eines Normalbefundes einordnen
 

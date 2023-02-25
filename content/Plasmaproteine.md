@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie]
 title: Plasmaproteine
 ---
-### Plasmaproteine
 - **[[Albumin]] (60%)**
 - **α1-Globuline (4%)**
 	- *[[α1-Antitrypsin]]*
@@ -34,7 +33,7 @@ title: Plasmaproteine
 | Akute [[Entzündung]]      | α1, α2 | [[Albumin]]    | [[Akute-Phase-Proteine]]↑                                             |
 | [[α1-Antitrypsin-Mangel]] | -      | α1             | [[α1-Antitrypsin]]↓                                                   |
 | [[Leberzirrhose]]         | γ      | [[Albumin]]    | Aktivierung des reticuloendothelialen Systems; Lebersyntheseleistung↓ |
-| [[Multiples Myelom]] + DD | γ      | -              | Neoplasie der Plasmazellen                                            |
+| [[Multiples Myelom]] + DD | γ      | -              | [[Neoplasie]] der Plasmazellen                                            |
 | [[Nephrotisches Syndrom]] | α2, β  | [[Albumin]], γ | Glomeruläre Filtration↑ und Kompensation durch LDL-Synthese↑                                                                       |
 
 ## Verteilung

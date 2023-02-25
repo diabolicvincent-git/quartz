@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus durae matris
 ---
-### Sinus durae matris
 - **Funktion**:: Auffangbecken für [[Venen]] aus Gehirn, [[Meningen]], Augenhöhle
 - **Lage**:: Hohlraum zwischen Duraduplikaturen
 

@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie, Fach/Genetik]
 title: Replikation
 ---
-### Replikation
 - Semikonservativ
 - Bidirektional (Leit- und Folgestrang)
 - Synthese in 3'-5'-Richtung

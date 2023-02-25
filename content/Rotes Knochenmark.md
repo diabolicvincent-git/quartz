@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Hämatologie, Fach/Anatomie, Fach/Histologie]
 title: Rotes Knochenmark
 ---
-### Rotes [[Knochenmark]]
 - **Aussehen**:: Rötlich-braun (hoher [[Hb]]-Gehalt)
 - **Funktion**:: ==[[Hämatopoese]]==
 - **Lokalisation**

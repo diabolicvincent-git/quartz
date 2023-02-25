@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie, Art/Intervention]
 title: Psychotherapie
 ---
-### Psychotherapie
 - **Verfahren**
 	- **Psychodynamisch** → Persönlichkeitsstruktur, Selbstkonzept ([[Psychoanalyse]], [[Tiefenpsychologische Psychotherapie]])
 	- **Verhaltensorientiert** → dysfunktionale Gedanken ([[Verhaltenstherapie]])

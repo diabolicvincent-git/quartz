@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Rektum
 ---
-### Rektum (Etagen)
 | Etage       | Abstand von Anocutanlinie | Blutversorgung                                                | [[Metastasen]] bei [[Colorektales Ca]] |
 | ----------- | ------------------------- | ------------------------------------------------------------- | ---------------------------------- |
 | Oberes ⅓    | 12-16 cm                  | A. mesenterica inferior → A. rectalis superior                | [[Leber]]                          |

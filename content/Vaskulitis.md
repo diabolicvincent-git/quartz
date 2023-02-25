@@ -2,7 +2,6 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Rheumatologie, Art/Pathologie]
 title: Vaskulitis
 ---
-### Vaskulitis / Vaskulitiden
 - **Einteilung**
 	- **Große [[Gefäße]]**
 		- [[Riesenzellarteriitis]]

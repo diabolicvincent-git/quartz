@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Physiologie, Fach/Urologie, Fach/Gynäkologie]
 title: Sexuelle Erregung
 ---
-### Sexuelle Erregung
 1. **Erregungsphase**:: Stimulation → sexuelles Lustempfinden → [[vegetative]] Reaktion ([[HF]]↑, [[RR]]↑, [[AF]]↑)
 	- **♂**:: [[Erektion]]
 	- **[[W]]**:: Anschwellen von Klitoris, Schmalippen und Brustwarzen

@@ -2,7 +2,7 @@
 tags: [Modul/m20, Fach/Psychiatrie]
 title: Psychoanalyse
 ---
-### Klassische Psychoanalyse
+> Klassische Psychoanalyse
 - **Urheber**:: ==Freud==
 - **Ziel**:: Aufdecken unbewusster Konflikte, Persönlichkeitsänderung
 - **Dauer**:: 2-3x / Woche über mehrere Jahre

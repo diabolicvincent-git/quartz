@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Dermatologie, Fach/Kardiologie, Art/Pathologie]
 title: Osler-Knötchen
 ---
-### Osler-Knötchen
 > Fakultatives Symptom bei [[Endokarditis]]
 - **Ätiologie**:: Unklar
 - **Symptome**

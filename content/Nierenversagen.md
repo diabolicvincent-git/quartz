@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Nierenversagen
 ---
-### Akute Nierenschädigung / Acute Kidney Injury
-> Plötzlicher Funktionsverlust mit Abfall der [[GFR]] mit Letalität ≈ 60%
+> **Akute Nierenschädigung / Acute Kidney Injury.** Plötzlicher Funktionsverlust mit Abfall der [[GFR]] mit Letalität ≈ 60%
 - **Ätiologie**
 	- **Prärenale Minderperfusion (60%)**:: ==*[[Hypovolämie]]*== (z.B. [[Diuretika]]), *[[Hypotonie]]* ([[Schock]])
 	- **Intrarenale Nephronschädigung (35%)**:: ==*Tubulusnekrose*== ([[Ischämie]], Nephrotox. Medikamente), *Makrovaskulär* (z.B. [[Nierenarterienstenose]], Infarkt), *Mikrovaskulär*([[Thrombotische Mikroangiopathie]]), *Glomerulär* ([[Glomerulonephritis]]), *[[Infektionen]]*
@@ -21,7 +20,7 @@ title: Nierenversagen
 	- **[[Untersuchung Niere]]**:: [[RR]], [[HF]], Urämie
 	- **[[Labor]]**:: [[Nierenwerte]] (==[[Kreatinin]]==, [[Harnstoff]]), [[Blutbild]], [[BGA]], [[CK]], [[LDH]], Lipase/Amylase, [[Blutkulturen]]
 	- **[[Urindiagnostik]]**:: Hämaturie, Proteinurie, Urinsediment, [[Na+]], [[Kreatinin]]
-	- **[[Bildgebung]]**:: [[Sonographie]] Niere, Harnblase, [[Pleuraerguss]], [[V. cava inferior]]
+	- **[[Bildgebung]]**:: [[Sonographie]] [[Niere]], Harnblase, [[Pleuraerguss]], [[V. cava inferior]]
 ---
 ### Mythbusting
 - *DGIM Klug entscheiden*:: Hohe orale Flüssigkeitsmengen sollen nicht eingesetzt werden, um die Nierenfunktion zu bessern oder „Nieren zu spülen“.

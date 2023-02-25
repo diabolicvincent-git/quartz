@@ -5,7 +5,7 @@ title: Vitamin B12 (Cobalamin)
 > **Aktive Form**:: Methylcobalamin, Adenosylcobalamin (wasserlöslich)
 - **Funktion**:: [[DNA]]-Synthese (Cofaktor bei Remethylierung, Alkylumlagerungen)
 - **Aufnahme**
-	- *Magen:* Bindung an R-Protein, Sekretion Intrinsic Factor
+	- *[[Magen]]:* Bindung an R-Protein, Sekretion Intrinsic Factor
 	- *[[Duodenum]]:* Abspaltung R-Protein durch [[Pankreasenzyme]], Komplexierung mit ==[[Intrinsic Factor]]==
 	- *[[Ileum]]:* [[Endocytose]] von Intrinsic Factor + Vitamin B12
 	- *[[Blut]]:* Bindung an Transportprotein Transcobalamin II (*==Holo-TC==*)

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Spinalnerven
 ---
-### Spinalnerven 
 > Vereinigung der ventral und dorsal aus dem [[Rückenmark]] entspringenden Nervenwurzeln
 - **Wurzeln**
 	- **==Radix anterior:==** *[[Efferenzen]]* ([[Rückenmark]] → Peripherie)
@@ -29,7 +28,7 @@ Verlassen Wirbelkanal seitlich via Foramen *intervertebrale* jeweils unterhalb "
 ## Äste
 *Jeder* Spinalnerv gibt 4 Äste ab:
 ### ==Ramus anterior==
-- Extremitäten via [[Plexus cervicalis]] (C1-C5), [[Plexus brachialis]] (C5-Th1), [[Plexus lumbalis]] (Th12-L5), [[Plexus sacralis]] (L4-S5)
+- Extremitäten via [[Plexus cervicalis]] (C1-C5), [[Plexus brachialis (C5-Th1)]] (C5-Th1), [[Plexus lumbalis]] (Th12-L5), [[Plexus sacralis]] (L4-S5)
 - ventro-laterale Rumpfwand
 
 ### ==Ramus posterior==

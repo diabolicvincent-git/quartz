@@ -17,7 +17,7 @@ title: Endometriose
 - **Diagnostik**
 	- **[[Untersuchung]]**:: [[Gynäkologische Untersuchung]]
 	- **Transvaginale Sonographie**:: *"Schokoladenzysten"*
-	- **Diagnostische Laparoskopie** mit Biopsie
+	- **Diagnostische [[Laparoskopie]]** mit Biopsie
 - **DD**:: Entzündung/Infektion (z.B. [[Appendizitis]], Abszess), [[Ovarialtumor]], Uterusmyom, Endometrium-Ca
 - **Therapie**
 	- *Medikamentös*

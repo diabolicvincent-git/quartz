@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Anatomie]
 title: Lungenlappen
 ---
-### Lungenlappen
 - **Rechte [[Lunge]]**
 	- **Lobus superior**:: Segmente I-III
 	- **Lobus medius**:: Segmente IV-V

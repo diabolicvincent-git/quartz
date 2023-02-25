@@ -38,7 +38,7 @@ title: Formatio reticularis
 - **Lage**:: [[Pons]]
 - **Funktion**:: Steuerung der [[Harnblase]]nentleerung
 ### Periaquaeductales Grau (Substantia grisea periaquaeductalis)
-- **Lage**:: Mesencephalon
+- **Lage**:: [[Mesencephalon]]
 - **Funktion**:: Angst-, Fluchtreflexe, Koordination der Kerne für Stimmbildung, endogene Schmerzunterdrückung
 - Ansatzpunkt für [[Opioide]]
 ### Augenbewegungszentrum

@@ -14,7 +14,7 @@ title: Mimische Muskulatur
 	- [[M. corrugator supercilii]]
 	- ==[[M. orbicularis oculi]]==
 	- [[M. depressor supercilii]]
-- **Muskulatur der Nase**
+- **Muskulatur der [[Nase]]**
 	- [[M. nasalis]]
 	- [[M. procerus]]
 	- [[M. depressor septi nasi]]

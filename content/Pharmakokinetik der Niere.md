@@ -2,7 +2,7 @@
 tags: [Modul/m14, ToDo, Fach/Nephrologie, Fach/Pharmakologie/Medikament]
 title: Pharmakokinetik der Niere
 ---
-## die wesentlichen Vorgänge mit Einfluss auf die Pharmakokinetik von Arzneimitteln sowie die klinisch relevanten Kenngrößen der Plasmakonzentrationszeitkurve erklären
+## die wesentlichen Vorgänge mit Einfluss auf die [[Pharmakokinetik]] von Arzneimitteln sowie die klinisch relevanten Kenngrößen der Plasmakonzentrationszeitkurve erklären
 
 ![[Untitled 91.png]]
 
@@ -44,7 +44,7 @@ title: Pharmakokinetik der Niere
 
 - **Totale Arzneimittel-Clearance (CL) =** CL(renal) + CL(hepatisch) + CL(x)
 
-## Clearance in der Niere
+## Clearance in der [[Niere]]
 
 - Meiste Medikamente klein genug für glomeruläre Filtration
 - Plasma-Proteinbindung (PPB) an [[Albumin]] verhindert freie Filtration

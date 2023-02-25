@@ -2,7 +2,6 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Biochemie, Fach/Genetik]
 title: Stoffwechseldefekte
 ---
-#### Stoffwechseldefekte 
 > Physiologisch inadäquater (erhöhter/verminderter) Substratumsatz
 - **Ursachen**
 	1. **Veränderte Enzymaktivität**
@@ -40,14 +39,14 @@ title: Stoffwechseldefekte
 Erkrankung|Defekt|[[Inzidenz]]
 -|-|-
 [[G6PD-Mangel]]|Glucose-6-phosphat-Dehydrogenase|[[Hypercholesterinämie]]|LDL-[[Rezeptor]]|1:500
-[[Phenylketonurie]]|[[Phenylalanin]]-Hydroxylase|1:9.000
+[[Phenylketonurie (PKU)]]|[[Phenylalanin]]-Hydroxylase|1:9.000
 [[Galactosämie]]|Galactose-1-Phosphat-Uridyl-Transferase|1:45.000
 Glycogenspeicherkrankheit|Glucose-6-phosphatase|1:60.000
 Ahornsirup-Krankheit|Verzweigtketten-α-Ketosäuren-Dehydrogenase|1:200.000
  
 [[Porphyrie]]
 
-[[Phenylketonurie]]
+[[Phenylketonurie (PKU)]]
 
 ### Regionale Prävalenzunterschiede
 > Oft: Selektionsvorteil durch Teilresistenz gegen Infektionskrankheiten
@@ -55,9 +54,9 @@ Ahornsirup-Krankheit|Verzweigtketten-α-Ketosäuren-Dehydrogenase|1:200.000
 Erkrankung|Defekt|Stoffwechselweg|Klinik|Resistenz
 -|-|-|-|-
 [[G6PD-Mangel]]|Glucose-6-phosphat-Dehydrogenase|Oxidativer [[Pentosephosphatweg]]|Hämolytische [[Anämie]]|Plasmodium falciparum ([[Malaria]])
-[[Mukoviszidose]]|[[CFTR]]-Chloridkanal|[[Membrantransport]]|Pneumonien, [[Diarrhoe]], Osteoporose, Salzschweiß|Vibrio cholerae (Cholera)
+[[Mukoviszidose]]|[[CFTR]]-Chloridkanal|[[Membrantransport]]|Pneumonien, [[Diarrhoe]], [[Osteoporose]], Salzschweiß|Vibrio cholerae (Cholera)
 Tay-Sachs-Disease|α-Hexosaminidase|lysosomale Hydrolyse von N-Acetylglucosiden|infantile amaurotische Idiotie|Mycobacteria tuberculosis ([[Tbc]])
-[[Phenylketonurie]]|Tyrosinhydroxylase|[[Phenylalanin]] → [[Tyrosin]]|Geistige Entwicklungsstörung|Ochratoxin A (Aspergillus spp.)
+[[Phenylketonurie (PKU)]]|Tyrosinhydroxylase|[[Phenylalanin]] → [[Tyrosin]]|Geistige Entwicklungsstörung|Ochratoxin A (Aspergillus spp.)
 
 ### Therapiestrategien
 - **Kausale Gentherapie**:: Ethisch schwierig

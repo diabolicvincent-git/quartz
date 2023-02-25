@@ -2,7 +2,6 @@
 tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. tarsalis superior
 ---
-##### M. tarsalis superior
 *   Faszie des levator palpebrae superioris
 *   Obere Lidplatte
 *   Anhebung des oberen Lids

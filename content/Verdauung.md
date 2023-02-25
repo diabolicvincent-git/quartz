@@ -21,4 +21,4 @@ title: Verdauung
 [^1]: DMT-1 / Divalent-Metal-Transporter-1 ist nicht [[Eisen]]spezifisch
 [^2]: Lactasemangel = [[Lactoseintoleranz]]
 [^3]: vgl. [[Pankreatitis]]
-[^4]: autosomal-rezessiver Defekt SGLT1 = Glucose-Galactose-Malabsorption (nur Fructose/Inulin)
+[^4]: autosomal-rezessiver Defekt SGLT1 = Glucose-Galactose-[[Malabsorption]] (nur Fructose/Inulin)

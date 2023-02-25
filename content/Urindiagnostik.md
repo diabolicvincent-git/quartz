@@ -35,7 +35,7 @@ title: Urindiagnostik
     - Schlierig → Proteinurie ([[HWI]])
 - **[[Geruch]]**
     - Dimethylsulfid → physiologisch z.B. bei Verzehr von Spargel
-    - Muffig → [[Phenylketonurie]]
+    - Muffig → [[Phenylketonurie (PKU)]]
     - Ammoniak → [[HWI]]
     - Bittermandel → [[Intoxikation]] ([[Cyanid]])
 

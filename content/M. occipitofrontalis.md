@@ -2,7 +2,6 @@
 tags: [Fach/HNO, Fach/Anatomie/Muskel]
 title: M. occipitofrontalis
 ---
-##### M. occipitofrontalis
 Venter frontalis
 *   Margo supraorbitalis ([[Os frontale]])
 *   Galea aponeurotica

@@ -5,7 +5,7 @@ title: Transposition der großen Arterien
 > **[[Herzfehler]]**:: [[Aorta]] + [[Truncus pulmonalis]] Abgänge vertauscht
 - **Pathophysiologie**
 	- Großer Kreislauf & kleiner Kreislauf vollständig voneinander getrennt
-	- Postnatales Überleben nur möglich bei [[PFO]] oder [[Persistierender Ductus arteriosus Botalli]]
+	- Postnatales Überleben nur möglich bei [[PFO]] oder [[Persistierender Ductus arteriosus Botalli (PDA)]]
 - **Symptome**:: Postnatale [[Zyanose]]
 - **Therapie**
 	- *Medikamente:* [[Prostaglandin]] 

@@ -2,8 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Segelklappen
 ---
-### Segelklappen / AV-Klappen
-> Segel sind durch Sehnenfäden (*Chordae tendineae*) mit Papillarmuskeln der Herzwand verbunden
+> AV-Klappen. Segel sind durch Sehnenfäden (*Chordae tendineae*) mit Papillarmuskeln der Herzwand verbunden
 - ![[Tricuspidalklappe]]
 - ![[Mitralklappe]]
 ---

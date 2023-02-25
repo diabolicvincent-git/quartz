@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Menstruation
 ---
-### Menstruation
 > Regelblutung zu Beginn des **[[Menstruationszyklus]]**
 - **Physiologie**:: [[Gestagene]]↓, [[Prostaglandin]]↑, [[OXYTOcin]]↑ → Abstoßung funktionelle Gebärmutterschleimhaut, Kontraktion des [[Uterus]]
 - **Pathologien**

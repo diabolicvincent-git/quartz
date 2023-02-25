@@ -22,9 +22,9 @@ title: Untersuchung
 	- Haut: Intakt, Turgor normal, kein Ikterus, keine Zyanose.  
 	- Cor: Herztöne rhythmisch, rein, keine pathologischen Herzgeräusche auskultierbar.  
 	- Pulmo: Vesikul. Atemgeräusch bds, keine Nebengeräusche, sonorer Klopfschall bds.  
-	- Abdomen: Bauchdecke weich, kein Druckschmerz, kein Loslassschmerz,  keine Abwehrspannung, regelrechte Darmgeräusche in allen 4 Quadranten.  Kein Nierenklopfschmerz. Murphy negativ. Leber und Milz nicht vergrößert tastbar.  
+	- Abdomen: Bauchdecke weich, kein Druckschmerz, kein Loslassschmerz,  keine Abwehrspannung, regelrechte Darmgeräusche in allen 4 Quadranten.  Kein Nierenklopfschmerz. Murphy negativ. Leber und [[Milz]] nicht vergrößert tastbar.  
 	- Extremitäten: Schlank, warm, keine Unterschenkelödeme, Arme und Beine frei beweglich, Pulse seitengleich tastbar, keine Thrombosezeichen. Kein Klopfschmerz über der Wirbelsäule. Keine Endokarditiszeichen der Hände, kein Palmarerythem, Nägel opB, Rekapillarisierungszeit <3s.  
-	- Neuro: Pupillen isokor, mittelweit, Lichtreaktion seitengleich, prompt. Orientierend kein fokales Defizit. Kein Meningismus.
+	- Neuro: Pupillen isokor, mittelweit, Lichtreaktion seitengleich, prompt. Orientierend kein fokales Defizit. Kein [[Meningismus]].
 
 ## Hände und Nägel
 ![[Untersuchung Hände]]

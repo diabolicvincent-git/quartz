@@ -17,6 +17,6 @@ title: Maligne Hyperthermie
 	- **[[BGA]]**:: ==[[Azidose]]==, Hyperkapnie, Hypoxämie, [[Hyperkaliämie]], [[Lactat]]↑ 
 	- **[[Labor]]**:: [[CK]]↑↑↑, Myoglobinämie/Myoglobinurie
 - **Therapie**
-	- *Trigger beenden:* ggf. Umstellung auf TIVA mit Propofol
+	- *Trigger beenden:* ggf. Umstellung auf TIVA mit [[Propofol]]
 	- *[[Beatmung]]:* Massive Hyperventilation (Atemminutenvolumen x 3-4), [[FiO2]] 100%
 	- *Kausal:* ==[[Dantrolen]]== 2,5 mg/kg [[i.v.]]

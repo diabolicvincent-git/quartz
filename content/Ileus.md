@@ -10,7 +10,7 @@ title: Ileus
 		- *Wandschwellung:* [[CED]], [[Divertikulitis]]
 	- **Paralytischer Ileus**
 		- *Medikamente:* ==[[Opioide]]==, [[Antipsychotika]], [[Katecholamine]] u.v.m.
-		- *Neurogen:* Neuropathie bei [[Diabetes mellitus]], [[Parkinson-Syndrom]], M. Hirschsprung
+		- *Neurogen:* Neuropathie bei [[Diabetes mellitus]], [[Parkinson-Syndrom]], [[M. Hirschsprung]]
 		- *Sonstiges:* [[Hypokaliämie]], [[Hyperkaliämie]], Urämie, [[Porphyrie]], [[Vaskulitis]], [[Peritonitis]]
 - **Lokalisation**:: [[Dünndarm]] (80%, oft Verwachsung), [[Colon]] (20%, oft [[Malignom]])
 - **Pathophysiologie**:: Darmdistension → Hypoxie, Ödem → Flüssigkeitsverlust, Bakterien durchwandern Darmwand → [[Peritonitis]]/Sepsis

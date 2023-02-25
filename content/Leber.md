@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Leber
 ---
-### Leber 
 - **Funktion**:: Energiestoffwechsel, Synthesen, Glucosehomöostase und Säure-Basen-Haushalt, Speicherfunktion, Entgiftung/Ausscheidung
 - **Aufbau**
 	- Anatomisch **4 Leberlappen**:: Lobus hepatis dexter/sinister, caudatus, quadratus – getrennt durch div. Bänder

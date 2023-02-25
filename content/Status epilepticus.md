@@ -7,7 +7,7 @@ title: Status epilepticus
 	1. [[O2]]-Gabe, [[BZ]] (DD [[Hypoglycämie]])
 	2. *[[Benzodiazepine]]*:: ==Lorazepam 4 mg [[i.v.]]== oder Midazolam 5-10 mg [[i.v.]], alternativ doppelte Dosis [[i.n.]]/[[i.m.]]
 	3. *[[Antiepileptika]]*:: [[LEVETIracetam]] 3 - 4.5 g [[i.v.]] oder Valproat
-	4. *Narkose*:: Propofol, [[KETAmin]]
+	4. *Narkose*:: [[Propofol]], [[KETAmin]]
 ---
 ## Infografik
 ![[Pasted image 20221023184229.png]]

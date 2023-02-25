@@ -2,7 +2,7 @@
 tags: [Modul/m20, Fach/Psychiatrie, Art/Pathologie]
 title: PTBS
 ---
-### Posttraumatische Belastungsstörung / PTBS
+> **Posttraumatische Belastungsstörung.**
 - **Symptome**
 	- **Erinnerung**:: Trigger → *==Flashbacks==*, [[Parasomnie]] (Albträume), Intrusionen
 	- **Vermeidungsverhalten**:: [[Emotionen]]-Taubheit (*Numbing*), part. Amnesie

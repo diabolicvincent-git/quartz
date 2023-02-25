@@ -2,14 +2,14 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Chirurgie]
 title: LTX
 ---
-### Lebertransplantation / LTX
+> **Lebertransplantation.**
 - **Vergleich**
 	- Zweithäufigste Transplantationsform nach Nierentransplantation
 	- Geringste [[Immunsuppression]] notwendig ([[Leber]] < [[Niere]] < [[Herz]] < [[Lunge]])
 - **Indikation**
 	- Endgradige [[Leberzirrhose]]
 	- Akutes [[Leberversagen]]
-	- Neoplasie ([[Hepatozelluläres Ca]], CCC)
+	- [[Neoplasie]] ([[Hepatozelluläres Ca]], CCC)
 	- Angeboren (z.B. Gallenwegsatresie, Glycogenosen, [[α1-Antitrypsin-Mangel]], Cirgler-Najar-Syndrom)
 - **Allokation**:: [[MELD]]
 - **Durchführung**

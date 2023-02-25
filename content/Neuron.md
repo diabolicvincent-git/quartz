@@ -2,7 +2,6 @@
 tags: [Modul/m05, Modul/m15, Fach/Neurologie, Fach/Histologie]
 title: Neuron
 ---
-### Neurone
 > Gerichtete Aufnahme, Verarbeitungs & Weiterleitung von Reizen
 - **Aufbau**
 	- **Zellkörper**

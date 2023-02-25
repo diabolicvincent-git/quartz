@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Physiologie]
 title: Spurenelemente
 ---
-### Spurenelemente
 | [[Spurenelemente]] | Funktion                                                                                                                                      | Mangelerscheinung                                                    |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | **[[Eisen]]**      | [[O2]]-Transport ([[Hb]]), [[O2]]-Speicher (Myoglobin), [[Atmungskette]] (CytC), Cofaktor von Redox-Reaktionen (z.B. Katalase)                | Eisenmangelanämie, Mundwinkel-[[Rhagaden]], Nagel-/Haarveränderungen |

@@ -2,7 +2,6 @@
 tags: [Modul/m20, Art/Pathologie, Fach/Anästhesie]
 title: Schmerz
 ---
-### Schmerz
 > Unangenehme sensible/emotionale Erfahrung mit aktueller oder potentieller Gewebeschädigung
 - **Klassifikation**
 	- Nach Entstehungsmechanismus: *nozizeptiv* vs. *neuropathisch*

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Urologie, Art/Pathologie, Fach/Onkologie]
 title: Prostata-Ca
 ---
-### Prostatakarzinom
 - **Epidemiologie**:: Häufigster maligner [[Tumor]] bei älteren Männern
 - **Symptome**:: ==Keine Frühsymptome!==
 	- Harnverhalt/-stau, Miktionsfrequenz↑, schmerzlose Makrohämaturie

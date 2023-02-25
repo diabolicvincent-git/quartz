@@ -4,7 +4,7 @@ title: Muskelfaserriss
 ---
 - **Symptome**:: Akut einsetzend, of am Ende der Belastung
 	- Tastbare Delle, [[Hämatom]]
-	- Schmerz auf Druck, Dehnung
+	- [[Schmerz]] auf Druck, Dehnung
 - **Diagnostik**:: Palpation, [[Sonographie]], ggf. [[MRT]]
 - **Therapie**
 	- [[PECH]]

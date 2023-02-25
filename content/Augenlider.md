@@ -8,12 +8,12 @@ title: Augenlider
 	- Lichtschutz
 
 ## Äußeres Lidblatt
-- [[Haut]], M. orbicularis oculi
+- [[Haut]], [[M. orbicularis oculi]]
 
 ## Inneres Lidblatt
 - **Tarsus superior/inferior**:: Verstärkende Platten aus kollagenem [[Bindegewebe]]
 - **[[Muskeln]]**
-	- M. levator palpebrae superioris
+	- [[M. levator palpebrae superioris]]
 	- M. tarsalis superior, M. tarsalis inferior
 - **[[Drüsen]]**
 	- [[Meibom-Drüsen]]: Talgdrüsen

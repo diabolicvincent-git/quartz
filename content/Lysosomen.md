@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie]
 title: Lysosomen
 ---
-### Lysosom
 > Abbau *aufgenommener* Stoffe
 - **Late Endosome** (endocytotoisches Vesikel) verschmilzt mit Lysosom
 - **Lysosom**:: Vesikel mit hydrolyt. Enzymen & saurem [[pH]] (durch H+ [[ATPase]])

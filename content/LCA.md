@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: LCA
 ---
-### A. coronaria sinistra / LCA
+> A. coronaria sinistra
 - **Versorgungsgebiete** ([[Normalversorgungstyp]])
 	- Linkes Atrium
 	- Linker Ventrikel (teils)

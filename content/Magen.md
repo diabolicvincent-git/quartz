@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Magen
 ---
-### Magen / Gaster
+> Gaster
 - **Funktion**:: Aufnahme, Zwischenspeicherung, Durchmengung, Fortleitung, Kontrolle von Nahrung
 - **Aufbau**
 	- Pars cardiaca (unterer [[Ösophagus]]sphinkter)

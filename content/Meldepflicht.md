@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Epidemiologie]
 title: Meldepflicht
 ---
-### Meldepflicht
 - **Meldeweg**:: Gesundheitsamt → Landesbehörde → RKI
 - **Meldefrist**:: i.d.R. <24 h
 - **[[Meldepflichtige Krankheiten]]** (§6 [[IfSG]])

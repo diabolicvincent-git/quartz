@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie]
 title: Stoffwechsel des ZNS
 ---
-#### Stoffwechsel des ZNS
 - **Energieliefernde Substrate**:: ==[[Glucose]]==, [[Glycogen]], [[AS]], Ketonkörper (keine [[Fettsäuren]])
 - **Schrankensysteme**:: [[Blut-Hirn-Schranke]] und Blut-[[Liquor]]-Schranke im [[Plexus chorioideus]]
 

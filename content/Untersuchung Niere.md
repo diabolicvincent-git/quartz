@@ -4,7 +4,7 @@ title: Untersuchung Niere
 ---
 
 [[Urinmenge]]
-### Schmerz
+### [[Schmerz]]
 - **Algurie**:: Schmerzhafte Miktion
 - **Dysurie**:: Erschwerte Miktion (oft schmerzhaft)
 ### Frequenz

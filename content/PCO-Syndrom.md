@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie]
 title: PCO-Syndrom
 ---
-### Polycystisches Ovarsyndrom / PCO-Syndrom
+> Polycystisches Ovarsyndrom
 - **Epidemiologie**:: Prävalenz 3-5%
 - **Symptome**
 	- ==[[Amenorrhoe]]/Oligomenorrhoe==, unregelmäßige [[Ovulation]]

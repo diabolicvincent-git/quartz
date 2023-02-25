@@ -2,8 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: MRGN
 ---
-### Multiresistente gramnegative Stäbchen / MRGN
-> [[Enterobakterien]] ([[E. coli]], Klebsiellen), Nonfermenter ([[Pseudomonas aeruginosa]], Acinetobacter baumanii)
+> **Multiresistente gramnegative Stäbchen.** [[Enterobakterien]] ([[E. coli]], Klebsiellen), Nonfermenter ([[Pseudomonas aeruginosa]], Acinetobacter baumanii)
 - **Übertragung**:: ==[[Darmflora]]== → kontaminierte Hände/Materialien, Fäkalien
 - **Risikofaktoren**:: Leitkeim der [[Mukoviszidose]]
 - **Erkrankungen (v.a. [[Nosokomiale Infektion]])**:: [[Pneumonie]], [[Wundinfektion]], [[HWI]], [[Sepsis]], [[Otitis externa]], [[Keratitis]] u.v.m.

@@ -32,7 +32,7 @@ title: Ganglien
 	- Drittes [[Neuron]]
 	- On-Off-System, Horizontalzellen
 	- An einem Punkt feuern entweder immer On- oder Off-Ganglienzellen
-	- Photorezeptoren sind primäre Sinneszellen
+	- [[Photorezeptoren]] sind primäre Sinneszellen
 	- Ziel: CGL im Metathalamus
 	- Hohe Konvergenz
 

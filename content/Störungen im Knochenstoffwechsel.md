@@ -25,15 +25,15 @@ Calcium-[[Kreatinin]]-Clearance-Quotient(?)
         - Veränderung der Affinität des CaSR für [[Ca2+]] → Verschiebung der Sensitivitätskurve (verminderte Empfindlichkeit) → anderer Normbereich
     - **Therapie**:: Keine bei Asymptomatischen Pat.
 
-## den Begriff 'Osteoporose' definieren und biochemische und morphologische Parameter einer Osteoporose erläutern
+## den Begriff '[[Osteoporose]]' definieren und biochemische und morphologische Parameter einer [[Osteoporose]] erläutern
 
-- **Osteoporose**:: Systemische Skeletterkrankung mit niedriger Knochenmasse und verschlechterter Mikroarchitektur → Knochenfragilität, Frakturneigung
+- **[[Osteoporose]]**:: Systemische Skeletterkrankung mit niedriger Knochenmasse und verschlechterter Mikroarchitektur → Knochenfragilität, Frakturneigung
     - Nicht zwingend Veränderung der Knochenstoffwechselparameter (kompensiert)
     - **Stadieneinteilung**
         - Osteopenie
-        - Klinische Osteoporose
-        - Manifeste Osteoporose: Frakturen als Folge bereits aufgetreten
-        - Fortgeschrittene Osteoporose
+        - Klinische [[Osteoporose]]
+        - Manifeste [[Osteoporose]]: Frakturen als Folge bereits aufgetreten
+        - Fortgeschrittene [[Osteoporose]]
     - **Therapie**:: Lifestyle, Sturzprophylaxe, .......
         - Kurzzeitwirkung [[PTH]] stimuliert Osteoblasten; LZ-Wirkung fördert Abbau
 

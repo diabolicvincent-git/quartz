@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO]
 title: Nase
 ---
-### Nase 
 - **Funktion**:: Befeuchtung, Erwärmung, Reinigung, Kontrolle der Atemluft
 - **Lage**:: Mittig im Gesicht bis Nasopharynx
 - **Bestandteile**

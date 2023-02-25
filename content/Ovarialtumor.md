@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Art/Pathologie]
 title: Ovarialtumor
 ---
-### Ovarialtumor
 - **Epidemiologie**:: Lebenszeitprävalenz 1-2%
 - **Ätiologie**
 	- *Hormonelle Risikofaktoren:* Viele Ovulationen, Infertilität, wenige Schwangerschaften, [[PCO-Syndrom]], [[Endometriose]]

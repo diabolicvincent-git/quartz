@@ -11,7 +11,7 @@ title: Hämophilie
 - **Symptome**:: Gelenkblutungen, Muskelblutungen
 - **Einteilung** nach Restaktivität und Symptomatik
 - **Therapie**
-	- [[Transfusion]] von [[FFP]]/PPSB bzw. Faktor-VIII-/IX-Präparaten
+	- [[Transfusion]] von [[FFP]]/[[PPSB]] bzw. Faktor-VIII-/IX-Präparaten
 	- *Cave:* Inhibitorentwicklung → stattdessen prothrombogene Therapeutika notwendig
 	- Gentherapie(?)
 ---

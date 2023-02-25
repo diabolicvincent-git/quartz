@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Fach/Biochemie/Molekül]
 title: LH
 ---
-### Luteinisierendes Hormon / LH
+> Luteinisierendes Hormon
 - **Wirkung**
 	- **[[M]]**:: *Leydig-Zellen im Hoden* (==[[Androgene]]-Synthese↑==)
 	- **[[W]]**:: *Thecazellen im [[Ovar]]* ([[Androgene]]-Synthese↑)

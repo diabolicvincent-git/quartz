@@ -40,7 +40,7 @@ FROM #f/💭/Antidepressiva
 - Reuptake-Inhibiton (z.B. [[Tricyclische Antidepressiva]], [[SSRI]], [[SSNRI]], [[SNRI]])
 - Antagonismus präsynaptischer α2-[[Rezeptor]] → präsynaptische Rückkopplung↓ → [[Transmitter]]-Freisetzung↑ (z.B. Mianserin, Mirtazapin)
 - Hemmung des [[Katecholamine]]-Abbau durch MAO (z.B. Tranylcypromin, Moclobemid)
-### Pharmakokinetik
+### [[Pharmakokinetik]]
 - Hohe Lipophilie ([[Blut-Hirn-Schranke]]-gängig, Bioverfügbarkeit↑)
 - [[Biotransformation]] i.d.R. via CYP3A4
 

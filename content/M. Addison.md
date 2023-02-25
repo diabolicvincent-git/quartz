@@ -2,7 +2,6 @@
 tags: [Modul/m21, Fach/Endokrinologie, Art/Pathologie]
 title: M. Addison
 ---
-### M. Addison
 > Primäre [[NNR-Insuffizienz]]
 - **Ätiologie**:: [[Autoimmunität]] (90%)[^1]
 - ![[NNR-Insuffizienz]]

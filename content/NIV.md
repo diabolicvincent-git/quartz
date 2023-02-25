@@ -2,7 +2,7 @@
 tags: [Modul/m13, Fach/Anästhesie, Fach/Pneumologie, Art/Intervention]
 title: NIV
 ---
-### Nicht-Invasive [[Beatmung]]
+> **Nicht-Invasive [[Beatmung]].**
 - **Einstellung**
 	- **Standard**:: [[PEEP]] 5 mbar, Druckunterstützung 5 mbar
 	- **Oxygenierungsproblem**:: [[PEEP]] 5-10 mbar, Druckunterstützung 3 mbar

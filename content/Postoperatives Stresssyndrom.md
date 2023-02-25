@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie, Fach/Anästhesie, Art/Pathologie]
 title: Postoperatives Stresssyndrom
 ---
-### Postoperatives Stresssyndrom
 > [[Periphere Sensibilisierung]], Mediatoren → [[Hyperalgesie]] → [[Stress]]
 - **Folgen** der [[Stress]]bedingten Aktivierung von [[Sympathikus]] und [[Hypothalamus-Hypophysen-Achse]]
 	- [[Ileus]], Obstipation

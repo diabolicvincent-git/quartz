@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Lokalanästhetika
 ---
-### Lokalanästhetika
 - **Wirkung**:: [[Vasodilatation]][^1] > [[Schmerz]]↓ > Temperatur > Druck > Motorik[^2]
 - **Wirkmechanismus**:: Blocken spannungsabhängiger [[Na+]] Kanäle
 	- Bioaktive Form entsteht [[pH]]↓-abh. durch Protonierung

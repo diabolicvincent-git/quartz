@@ -2,7 +2,7 @@
 tags: [Modul/m27, Art/Intervention, Fach/Orthopädie]
 title: AO-Klassifikation
 ---
-> (Abstract::Allgemeine [[Fraktur]]klassifikation der Arbeitsgemeinschaft für Osteosynthese)
+> (Abstract::Allgemeine [[Fraktur]]klassifikation der Arbeitsgemeinschaft für [[Osteosynthese]])
 - **Körperregion**
 	1. [[Oberarm]]
 	2. [[Unterarm]]

@@ -2,7 +2,6 @@
 tags: [Modul/m05, Modul/m10, Art/Pathologie, Fach/Orthopädie]
 title: Osteomalazie
 ---
-### Osteomalazie / Rachitis
 > Gestörte [[Knochen]]-Mineralisation ([[Ca2+]]/[[Phosphat]]) bei Erwachsenen (= Osteomalazie) und Kindern (= Rachitis)
 - **Ätiologie**
 	- [[Vitamin D (Calciferol)]]-Mangel ([[UV]]-Exposition↓, Aufnahme↓)

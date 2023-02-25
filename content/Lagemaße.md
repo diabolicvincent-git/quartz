@@ -2,7 +2,6 @@
 tags: [Modul/m07, Fach/Epidemiologie]
 title: Lagemaße
 ---
-### Lagemaße
 - **Modalwert / Modus**:: Häufigster Wert einer Verteilung (jedes [[Skalenniveau]])
 - **(Arithmetischer) Mittelwert**:: Durchschnittswert (Intervallskala, Verhältnisskala)
 - **Quantile**:: Wert, der Menge in größer und kleiner teilt (min. Ordinalskala)

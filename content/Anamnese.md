@@ -35,6 +35,6 @@ title: Anamnese
 	- Beruf/Tätigkeit
 	- Häusliche Versorgung, Pflege
 	- Stressoren und Ressourcen
-	- Patientenverfügung, Kontaktperson
+	- [[Patientenverfügung]], Kontaktperson
 
 [^1]: Bei [[W]]: Aktiv nach hormoneller [[Kontrazeption]] fragen

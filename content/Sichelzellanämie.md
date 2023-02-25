@@ -2,7 +2,6 @@
 tags: [Modul/m02, Fach/Hämatologie, Art/Pathologie]
 title: Sichelzellanämie
 ---
-### Sichelzellanämie 
 > Qualitative Blutbildungsstörung
 - **Epidemiologie**:: Weltweit häufigste Erbkrankheit (v.a. Afrika/Asien aufgr. [[Malaria]]-Resitenz heterozygoter Konduktoren)
 - **Pathophysiologie**:: Veränderte [[Hb]]-Bildung → Freilegen hydrophober Bindung im *desoxygenierten* Zustand → Aggregation (insb. bei [[O2]]-Mangel)

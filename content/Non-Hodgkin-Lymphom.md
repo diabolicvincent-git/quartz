@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: Non-Hodgkin-Lymphom
 ---
-### Non-Hodgkin-Lymphom
 - **Risikofaktoren**
 	- [[EBV]] → [[Burkitt-Lymphom]]
 	- [[H. pylori]] → MALT-Lymphom

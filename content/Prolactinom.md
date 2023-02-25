@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Art/Pathologie, Fach/Onkologie]
 title: Prolactinom
 ---
-### Prolactinom
 > Häufigstes endokrin-aktives [[Hypophysenadenom]]
 - **Epidemiologie**:: [[W]]:♂ 5:1
 - **Pathophysiologie**:: [[Prolactin]]↑↑ → ==Hemmung [[LH]]/[[FSH]] ([[Hypophysenvorderlappeninsuffizienz]]) → [[Androgene]]↓/[[Östrogene]]↓== → Hypogonadotroper [[Hypogonadismus]]

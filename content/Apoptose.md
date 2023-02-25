@@ -18,7 +18,7 @@ title: Apoptose
 - **[[Apoptose]]↓**:: [[Neoplasie]], [[Chemotherapie]]-Resistenz, [[Autoimmunität]]
 - **[[Apoptose]]↑** [[Neurodegenerative Erkrankungen]] ([[Parkinson-Syndrom]], [[Demenz]]), [[AIDS]], [[OMI]], [[Schlaganfall]]
 
-### Neoplasien
+### [[Neoplasie]]
 - siehe [[Tumorsuppressoren]], [[Onkogene]], [[p53]]
 - ==BCL2== inhibiert BAX (antiapoptotisch), Daueraktivierung → [[B-Zellen]]-Lymphom
 - ==Survivin BIRC5== inhibiert APAF-1 (antiapoptotisch, nur in Stammzellen aktiv)

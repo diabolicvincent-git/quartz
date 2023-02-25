@@ -2,7 +2,6 @@
 tags: [Modul/m02, Fach/Hämatologie, Art/Pathologie]
 title: Thalassämie
 ---
-### Thalassämie 
 > Heterogene Störungen der Globin-Synthese des [[Hb]] → *mikrocytäre, hypochrome [[Anämie]]*
 - **Genetik**:: Autosomal-rezessiv, Heterocygote aber häufig Minor-Form
 - **Formen**

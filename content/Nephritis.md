@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie]
 title: Nephritis
 ---
-### Nephritis / Nephritisches Syndrom
 > Teils synonym zur [[Glomerulonephritis]] verwendet
 
 ## Nephritis / Nephritisches Sediment

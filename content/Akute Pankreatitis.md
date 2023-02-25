@@ -11,9 +11,9 @@ title: Akute Pankreatitis
     - **Medikamentös**:: [[Analgetika]], Thromboseprophylaxe, ggf. [[PPI]], ggf. [[Antibiotika]]
     - Ggf. Operativ
 - **Komplikationen**
-    - 3% **Ödematöse Pankreatitis** (5-10% [[MOV]])
-    - 17% **Nekrotisierende Pankreatitis** (50% [[MOV]])
+    - 3% **Ödematöse [[Pankreatitis]]** (5-10% [[MOV]])
+    - 17% **Nekrotisierende [[Pankreatitis]]** (50% [[MOV]])
     - [[Sepsis]]
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: In der Frühphase einer akuten Pankreatitis sollte ein [[CT]] *nicht* angefertigt werden!
+- *DGIM Klug entscheiden*:: In der Frühphase einer akuten [[Pankreatitis]] sollte ein [[CT]] *nicht* angefertigt werden!

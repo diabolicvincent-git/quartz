@@ -2,7 +2,6 @@
 tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Infektiologie]
 title: Malaria
 ---
-### Malaria
 - **Epidemiologie**:: Endemie in (Sub-)Tropen, insb. Afrika
 	- *Partielle Resistenz:* [[Sichelzellanämie]]
 - **Ätiologie**:: Plasmodien nutzen Anopheles-Mücke als Vektor

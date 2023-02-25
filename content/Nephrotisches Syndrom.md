@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie]
 title: Nephrotisches Syndrom
 ---
-### Nephrotisches Syndrom
 > **Massiver renaler Proteinverlust >3,5 g** (vgl. [[Albuminurie]])
 - **Kriterien**
 	- *Proteinurie* >3,5 g/1,73 m2/24 h

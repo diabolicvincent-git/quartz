@@ -7,7 +7,7 @@ title: Elektromechanische Kopplung
 ## Skelettmuskulatur
 (TBD)
 
-## Myokard
+## [[Myokard]]
 ### Beteiligte Kanäle
 #### Kontraktion des [[Herz]]
 - **L-Typ-Calciumkanal (Dihydropyridin-[[Rezeptor]])** ([[Ca2+]] EZ bei T-Tubuli[^1] → IZ)

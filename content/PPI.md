@@ -2,7 +2,7 @@
 tags: [Modul/m26, Fach/Pharmakologie/Medikament]
 title: PPI
 ---
-### Protonenpumpeninhibitoren / PPI
+> Protonenpumpeninhibitoren
 - **Wirkmechanismus**:: Irreversible ==Hemmung [[H+]]/[[K+]] [[ATPase]]== der Parietalzellen → [[Magen]] [[pH]]↑
 - **Indikation**:: [[Gastroduodenale Ulcera]], [[Gastritis]], GERD, H. pylori Eradikation, Zollinger-Ellison-Syndrom, [[NSAR]]-Gastropathie, MALT-Lymphom
 - **[[UAW]]**

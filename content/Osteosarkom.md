@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Orthopädie]
 title: Osteosarkom
 ---
-### Osteosarkom
 > Maligner [[Knochen]][[Tumor]]
 - **Epidemiologie**:: Häufigster maligner Knochentumor im Kindesalter, [[M]] > [[W]] 
 - **Risikofaktoren**:: Hereditäres [[Retinoblastom]] (x1.000)

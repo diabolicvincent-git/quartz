@@ -49,5 +49,5 @@ title: Diabetes mellitus
 
 [^1]: Abends nur 1 IE [[Insulin]] / 60 mg/dl [[BZ]]-Senkung, um nächtliche Hypoglycämien zu vermeiden
 [^2]: Nierenschwelle für Glucose: [[BZ]] >10 mmol/L
-[^3]: Wadenkrämpfe entstehen durch erhöhte Mg2+/K+ Ausscheidung (osmotische Wirkung der Glucosurie)
+[^3]: Wadenkrämpfe entstehen durch erhöhte [[Mg2+]]/K+ Ausscheidung (osmotische Wirkung der Glucosurie)
 [^5]: Diabetische Neuropathie kann [[Schmerz]] (z.B. bei [[Angina pectoris]] und [[pAVK]]) kaschieren → *stumme Ischämie*

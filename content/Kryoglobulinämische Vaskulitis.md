@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Rheumatologie]
 title: Kryoglobulinämische Vaskulitis
 ---
-### Kryoglobulinämische [[Vaskulitis]]
 > [[Vaskulitis]], ausgelöst durch [[Kryoglobuline]] ([[Hepatitis C]]-assoziiert)
 
 - **Symptome**

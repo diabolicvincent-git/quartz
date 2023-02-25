@@ -10,7 +10,7 @@ title: Untersuchung Hände
 	- Schwellung, Schwanenhalsdeformität, Knopflochdeformität, Ulnardeviation ([[Rheumatoide Arthritis]])
 	- Gottron-Papeln (Dermatomyositis)
 	- Dupuytren-Kontraktur ([[Leberzirrhose]])
-	- Janeway-Läsionen, Osler-Knötchen ([[Endokarditis]])
+	- Janeway-Läsionen, [[Osler-Knötchen]] ([[Endokarditis]])
 - **Palpation**
 	- Kalt (normal, [[Hypothyreose]], [[Raynaud-Syndrom]])
 	- Warm (normal, [[Hyperthyreose]])

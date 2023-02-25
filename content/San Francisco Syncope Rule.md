@@ -2,8 +2,7 @@
 tags: [Modul/m21, Modul/m11, Fach/Kardiologie, Fach/Anästhesie, Art/Intervention, Art/Intervention]
 title: San Francisco Syncope Rule
 ---
-### San Francisco Syncope Rule / CHESS
-> Evaluation von Patienten mit transienter [[Synkope]] → Workup notwendig?
+> CHESS. Evaluation von Patienten mit transienter [[Synkope]] → Workup notwendig?
 - **Kriterien**
 	- Congestive heart failure history / [[Herzinsuffizienz]]
 	- [[Hkt]] <30%

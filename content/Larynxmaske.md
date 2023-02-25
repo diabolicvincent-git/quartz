@@ -2,7 +2,6 @@
 tags: [Modul/m29, Fach/Anästhesie, Art/Intervention]
 title: Larynxmaske
 ---
-### Larynxmaske
 
 ## SOP
 ### LMA Supreme

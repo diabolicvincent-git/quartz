@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie, Fach/Onkologie]
 title: Phäochromocytom
 ---
-### Phäochromocytom
 > [[Katecholamine]]-produzierender [[Tumor]] des [[Nebennierenmark]]
 - **Symptome**
 	- *Häufig:* [[Hypertonie]] (paroxysmale [[Hypertensive Krise]]), [[Tachykardie]], [[HRST]], [[Kopfschmerzen]], Schweißausbrüche, Unruhe, Angst

@@ -27,7 +27,7 @@ title: Tumorentstehung
 - [[Infektionen]]: [[Hepatitis B]], [[Hepatitis C]], [[H. pylori]], [[HPV]]
 - Chronische Gewebeschaedigung: Reflux-Ösophagitis
 - Chronische Entzuendungen: [[Colitis ulcerosa]], [[M. Crohn]]
-### Onkogene [[Infektionen]]
+### [[Onkogene]] [[Infektionen]]
 - [[Hepatitis B]], [[Hepatitis C]] → [[HCC]]
 - [[HPV]] → [[Cervix-Ca]]
 - [[H. pylori]] [[Infektionen]] → [[Magen-Ca]], MALT-Ca
@@ -35,11 +35,11 @@ title: Tumorentstehung
 - [[EBV]] → [[Burkitt-Lymphom]], [[Hodgkin-Lymphom]], Nasopharynx-, Magenkarzinom
 - Schistosomiasis, Urocystitis, Bilharziose → Blasenkarzinom
 
-### Onkogene chronische Gewebsschädigung
+### [[Onkogene]] chronische Gewebsschädigung
 - Refluxösophagitis / [[Barrett-Ösophagus]] → [[Ösophagus]]-Adenokarzinom
 - [[Rauchen]], Asbest → [[Lungen-Ca]]
 - Asbest → Mesotheliom
 
-### Onkogene chronische Entzündungen
+### [[Onkogene]] chronische Entzündungen
 - Chronische Pankreatitis → [[Pankreas-Ca]]
 - [[Colitis ulcerosa]], [[M. Crohn]] → [[Colorektales Ca]]

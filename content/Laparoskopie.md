@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Chirurgie]
 title: Laparoskopie
 ---
-### Laparoskopie
 - **Setup**
 	- *Trokare* (Metall oder Plastik)
 	- Via Umbilicus: Kamera + Aufblähen des Abdomen mit [[CO2]]

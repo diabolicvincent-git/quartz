@@ -17,7 +17,7 @@ title: Tollwut
 	- Progrediente [[Vigilanzminderung]], [[Koma]], [[Tod]]
 - **Diagnostik**
 	- **[[Anamnese]]**
-	- **[[Labor]]**:: Nachweis von [[Viren]]-[[RNA]] mit RT-PCR (oft falsch-negativ)
+	- **[[Labor]]**:: Nachweis von [[Viren]]-[[RNA]] mit RT-[[PCR]] (oft falsch-negativ)
 	- **[[Obduktion]]**:: Immunfluoreszenz/Histopathologie von *Negri-Körperchen* im [[Gehirn]]
 - **Therapie**:: ==Keine==
 - **Prognose**:: 100% Letalität #FunFact 

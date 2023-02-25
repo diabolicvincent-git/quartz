@@ -5,7 +5,7 @@ title: Agranulocytose
 > (Abstract::**Schwere [[Neutropenie]]** mit [[Granulocyten]]-Zahl <500 [[Zellen]]/μl)
 - **Ätiologie**
 	- **[[Knochenmark]]-Dysfunktion**
-		- [[Hämatologische Neoplasien]] (Aplastische [[Anämie]], [[Myelodysplastisches Syndrom]])
+		- [[Hämatologische Neoplasien]] (Aplastische [[Anämie]], [[Myelodysplastisches Syndrom (MDS)]])
 		- Vitaminmangel ([[Vitamin B12 (Cobalamin)]], [[Folsäure]])
 	- **Zelluntergang**
 		- [[Hypersplenie-Syndrom]]

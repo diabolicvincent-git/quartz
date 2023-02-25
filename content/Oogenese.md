@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Biochemie]
 title: Oogenese
 ---
-### Oogenese / Eizellreifung
-> Alle Eizellen sind pränatal angelegt
+> **Eizellreifung.** Alle Eizellen sind pränatal angelegt
 
 1. **[[Mitose]]**
 	- *Urkeimzelle / Oogonie* (2n2C)

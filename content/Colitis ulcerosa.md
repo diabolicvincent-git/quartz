@@ -12,7 +12,7 @@ title: Colitis ulcerosa
 	- [[Bauchschmerzen]], Tenesmen
 	- [[Fieber]], massives Krankheitsgefühl (v.a. im aktuen Schub)
 	- Primär sklerosierende Cholangitis, Arthritis, Uveitis, Episkleritis, [[Exanthem]] (Erythema nodosum, Pyoderma gangraenosum)
-	- **Komplikationen**:: Starke [[Blutung]], toxisches Megacolon, Perforation, [[Colorektales Ca]]
+	- **Komplikationen**:: Starke [[Blutung]], toxisches Megacolon, [[Perforation]], [[Colorektales Ca]]
 - **Einteilung**:: Chronisch-intermittierend, chronisch-kontinuierlich, akut-fulminant
 - **Diagnostik**
 	- **[[Labor]]**:: [[CRP]], [[Anämie]] [[pANCA]] (60%)

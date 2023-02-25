@@ -2,7 +2,7 @@
 tags: [Modul/m03, Fach/Pneumologie, Fach/Infektiologie, Art/Pathologie]
 title: Pertussis
 ---
-### Pertussis / Keuchhusten 
+> Keuchhusten 
 - **Risikogruppen**:: Ungeimpfte, Säuglinge (kein Nestschutz, Apnoe-[[Risiko]]), Immundefiziente
 - **Pathophysiologie**:: ==Bordatella pertussis== (gramnegative, anaerobe Stäbchen) vermehrt sich auf respiratorischen Epithel; bildet [[Toxine]] und [[Pathogenitätsfaktoren]] → lokale Zerstörung des Flimmerepithels
 - **Verlauf**

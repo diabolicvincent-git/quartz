@@ -2,7 +2,6 @@
 tags: [Fach/Genetik]
 title: M. Fabry
 ---
-### M. Fabry
 - **Ätiologie**:: X-chromosomal-rezessive [[Genetische Erkrankungen]]
 - **Epidemiologie**:: v.a. [[M]], entweder im Kindesalter oder 60-80 Jahre
 - **Pathophysiologie**:: Mangel ==⍺-Galactosidase A== → Akkumulation von Metaboliten

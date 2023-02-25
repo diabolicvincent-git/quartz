@@ -2,7 +2,7 @@
 tags: [Modul/m09, Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Dermatologie]
 title: Melanom
 ---
-### Malignes Melanom
+> Malignes Melanom
 - **Risikofaktoren**:: [[Hauttyp]] I-III, ==[[UV]]-Exposition==, viele/große Nävuszellnävus, [[Familienanamnese]]
 - **Klassifikation (AJCC)** 
 	- Stadium II ≥T2b ([[Tumor]]dicke >1,0-2,0 mm mit Ulceration)

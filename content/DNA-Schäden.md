@@ -11,7 +11,7 @@ title: DNA-Schäden
 - **Exogene Ursachen**
     - **Chemisch**:: Aromaten (*Interkalation*), Nitrosamine (*Alkylierung*), Silikate/Asbest, Metalle
     - **Physikalisch**:: [[UV]]-Strahlung (*Dimerisierung*), [[Ionisierende Strahlung]] (*Doppelstrangbrüche*, [[ROS]])
-    - **Biologisch**:: Onkogene [[Viren]]
+    - **Biologisch**:: [[Onkogene]] [[Viren]]
 ---
 ## Reparatur
 ![[DNA-Reparatur]]

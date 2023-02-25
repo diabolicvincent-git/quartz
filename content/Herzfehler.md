@@ -21,7 +21,7 @@ title: Herzfehler
 		- [[Ventrikelseptumdefekt]]
 		- [[PFO]]
 		- [[Atriumseptumdefekt]]
-		- [[Persistierender Ductus arteriosus Botalli]]
+		- [[Persistierender Ductus arteriosus Botalli (PDA)]]
 		- [[Aortenisthmusstenose]]
 		- [[Pulmonalklappenstenose]]
 		- [[Aortenklappenstenose]]

@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Embryologie, Art/Pathologie]
 title: Mayer-Rokitansky-Küster-Hauser-Syndrom
 ---
-### Mayer-Rokitansky-Küster-Hauser-Syndrom / MRKHS
 > 46,XX-[[DSD]] mit [[Fehlbildung]] [[W]] Genitalorgane (Vaginalaplasie, rudimentäre Uterushörner)
 - **Ätiologie**:: Unbekannt
 - **Pathophysiologie**:: Störung in Entwicklung des [[Müller-Gang]]

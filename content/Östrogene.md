@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie]
 title: Östrogene
 ---
-### Östrogene
 > [[W]] [[Sexualhormone]]: [[Steroidhormone]] mit 18 C-Atomen
 - **Vertreter**:: Östradiol (E2) > Östron (E1)[^1] > Östriol (E3)
 - **Wirkung**
@@ -10,7 +9,7 @@ title: Östrogene
 	- ==*[[Knochen]]:* Osteoblasten-Aktivierung==
 	- *[[Gefäße]]:* Protektiv, antihypertensiv, [[Thrombophilie]]
 	- *[[Stoffwechsel]]:* Anabol, Fettverteilung, [[Bilirubin]]-Ausscheidung↑
-	- *Niere:* [[Na+]], Wasser-Retention
+	- *[[Niere]]:* [[Na+]], Wasser-Retention
 - **Wirkmechanismus**:: [[parakrin]]e [[Sekretion]], Androgenrezeptor
 - **Synthese**:: Cholesterin → ... → [[Androgene]] ([[Testosteron]]) → Östrogene (==*[[Aromatase]]*==)
 	- **Ort**

@@ -2,7 +2,6 @@
 tags: [Modul/m19, Art/Pathologie, Fach/Onkologie, Fach/Hämatologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Lymphom
 ---
-### Malignes Lymphom
 > Monoklonale Proliferation ==reifer== lymphatischer Zellen (==B-==, T-, [[NK-Zellen]])
 
 - **Einteilung**

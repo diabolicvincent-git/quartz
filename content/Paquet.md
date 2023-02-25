@@ -2,7 +2,6 @@
 tags: [Modul/m26, Art/Intervention, Fach/Gastroenterologie]
 title: Paquet
 ---
-### Paquet-Klassifikation
 > Klassifikation von **[[Ösophagusvarizen]]**
 - **I°**:: Überragen Mucosaniveau
 - **II°**:: <1/3 ins Lumen vorgewölbt

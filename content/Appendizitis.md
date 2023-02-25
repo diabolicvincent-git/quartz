@@ -8,7 +8,7 @@ title: Appendizitis
 	2. *Purulent:* Tiefe, eitrige Ausbreitung der [[Entzündung]]
 	3. *Ulcero-phlegmonös:* Diffuse [[Entzündung]] der gesamten Appendixwand
 	4. *Gangränös:* [[Nekrose]]
-	5. *Perforation:* Perityphlitis, [[Peritonitis]]
+	5. *[[Perforation]]:* Perityphlitis, [[Peritonitis]]
 - **Diagnostik**
 	- **[[Anamnese]]**:: [[Schmerz]], Übelkeit/Erbrechen, Appetit↓, Stuhlveränderung, [[Fieber]]
 	- **[[Untersuchung]]**:: ==[[Appendizitiszeichen]]==

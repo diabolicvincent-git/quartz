@@ -12,7 +12,7 @@ title: M. Menière
 	- ==Tinnitus==, einseitig tieffrequent rau
 - **Diagnostik**
 	- Horizontaler Spontannystagmus (während Attacke)
-	- [[Weber]] (lateralisiert zum gesunden Ohr), [[Rinne]] (bds. positiv)
+	- [[Weber]] (lateralisiert zum gesunden [[Ohr]]), [[Rinne]] (bds. positiv)
 	- Unterberger-Tretversuch pathologisch (während Attacke)
 	- Gestörter [[Vestibulookulärer Reflex]] (während Attacke)
 - **DD**:: [[Neuropathia vestibularis]], [[BPLS]]

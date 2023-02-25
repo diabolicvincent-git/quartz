@@ -3,7 +3,7 @@ tags: [Modul/m17, Art/Pathologie, Fach/Hämatologie]
 title: Thrombophilie
 ---
 
-### Thrombophilie / Gerinnungsneigung
+> Gerinnungsneigung
 - **Genetik**:: Autosomal-dominant
 - **Defekte**
 	- **Gerinnungsfaktor-Defekte**:: Hochfrequent, geringere thrombophile Diathese (~x5)

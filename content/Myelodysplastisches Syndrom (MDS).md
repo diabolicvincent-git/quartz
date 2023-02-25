@@ -2,7 +2,6 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Hämatologie]
 title: Myelodysplastisches Syndrom
 ---
-### Myelodysplastisches Syndrom / MDS
 > Erkrankung durch Schädigung der [[Hämatopoese]] im [[Knochenmark]]
 - **Epidemiologie**:: Medianes Alter 75. LJ
 - **Ätiologie**

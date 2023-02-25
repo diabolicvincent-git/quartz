@@ -4,4 +4,4 @@ title: Phenylalanin
 ---
 **Phenylalanin (Phe, F)**:: Aromat, Essentielle [[AS]]
 - **Funktion**:: [[Katecholamine]]-Synthese
-- **Pathologie**:: [[Phenylketonurie]]
+- **Pathologie**:: [[Phenylketonurie (PKU)]]

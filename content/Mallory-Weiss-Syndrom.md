@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Chirurgie, Art/Pathologie]
 title: Mallory-Weiss-Syndrom
 ---
-### Mallory-Weiss-Syndrom
 > Longitudinale Schleimhauteinrisse (Mucosa + Submucosa) am gastroösophagealen Übergang
 - **Epidemiologie**:: 5% aller [[GI-Blutung]], ♂>[[W]]
 - **Ätiologie**

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Seitenventrikel
 ---
-### Seitenventrikel
 > Auch: *[[Ventrikelsystem]] I & II*
 - **Lage**:: Gebogen in [[Großhirn]]-Hemisphären
 - **Anteile** 

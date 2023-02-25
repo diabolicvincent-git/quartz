@@ -2,7 +2,6 @@
 tags: [Modul/m07, Fach/Epidemiologie]
 title: Statistik
 ---
-### Statistik
 - **Deskriptive Statistik**
 	- [[Skalenniveau]]
 	- [[Lagemaße]]

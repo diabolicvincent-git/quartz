@@ -56,7 +56,7 @@ title: Dysphagie
     - Optimale Mundhygiene
     - Enterale Ernährungstherapie
         - [[Magensonde]]
-        - Perkutane Endoskopische Gastrostomie (PEG) bei längerfristiger Ernährungsnotwendigkeit
+        - Perkutane Endoskopische Gastrostomie ([[PEG]]) bei längerfristiger Ernährungsnotwendigkeit
     - Tracheotomie + blockbare Trachealkanüle (bei relevanter *Speichelaspiration* zur Senkung des [[Pneumonie]]-Risikos)
 - **Komplikationen**
     - Malnutrition ([[BMI]] <18,5 kg/m2; Bei älteren Menschen [[BMI]] <20 kg/m2)

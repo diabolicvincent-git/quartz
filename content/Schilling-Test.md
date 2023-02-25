@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie]
 title: Schilling-Test
 ---
-### Schilling Test
 > **[[Vitamin B12 (Cobalamin)]]** Resorptionstest (veraltet)
 - **Durchführung**
 	1. Gabe 1 mg normales [[Vitamin B12 (Cobalamin)]] [[i.m.]] (Verhindert Anreicherung des Markers)

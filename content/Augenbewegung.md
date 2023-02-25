@@ -7,7 +7,7 @@ title: Augenbewegung
 	- **Stabilisieren Sehziele auf der Fovea**
 		* [[Vestibulookulärer Reflex]] → gestört: Spontannystagmus
 		* Fixation
-			* VOR-Suppression ([[Kopf]] drehen aber auf mitgedrehte Daumen gucken) → gestört: Rotatorischer Nystagmus
+			* VOR-Suppression ([[Kopf]] drehen aber auf mitgedrehte Daumen gucken) → gestört: Rotatorischer [[Nystagmus]]
 			* Exzentrische Blickhaltung (hingucken ohne Kopfbewegung) → gestört: Blickrichtungsnystagmus
 		* Folgebewegung und Optokinetik (Tracken von bewegten Zielen) → gestört: Sakkadierte bidirektionale/unidirektionale "unsaubere" Folgebewegungen
 	* **Konvergenz**

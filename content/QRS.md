@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: QRS
 ---
-### QRS-Komplex
 > **[[EKG]]**:: Erregungsausbreitung im Ventrikel
 - **Bestandteile**
 	- ![[Q-Zacke]]

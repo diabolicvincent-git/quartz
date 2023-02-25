@@ -2,8 +2,7 @@
 tags: [Modul/m09, Fach/Dermatologie, Fach/Anästhesie, Fach/Neurologie]
 title: Nozizeption
 ---
-### Nozizeption / Schmerzwahrnehmung
-> Wahrnehmung, Modulation & Verarbeitung von *[[Schmerz]]*
+> Schmerzwahrnehmung. Wahrnehmung, Modulation & Verarbeitung von *[[Schmerz]]*
 
 - **[[Nozizeptoren]]**:: Freie Nervenendigungen
 - **[[Nozizeptive Bahnen]]**:: Hinterhorn → lat./med. [[Thalamus]] → [[Somatosensorischer Cortex]], [[Limbisches System]]

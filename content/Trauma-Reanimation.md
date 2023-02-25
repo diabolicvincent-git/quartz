@@ -2,7 +2,7 @@
 tags: [Fach/Notfallmedizin/SOP]
 title: Trauma-Reanimation
 ---
-> (Abstract::Priorität: Reversible Ursachen (SHOT)!)
+> (Abstract::Priorität: [[Reversible Ursachen]] (SHOT)!)
 - **SOP**
 	1. **[[c – critical Bleeding]]** → Blutstillung
 	2. **[[A – Airway]]** → Atemwegsmanagement

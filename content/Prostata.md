@@ -2,7 +2,6 @@
 tags: [Modul/m22, Modul/m19, Fach/Anatomie, Fach/Urologie]
 title: Prostata
 ---
-### Prostata (♂)
 - **Funktion**:: Produktion von Prostatasekret (sauer [[pH]]↓, PSA)
 	- **Regulation**:: [[Androgene]]
 - **Leitungsbahnen**

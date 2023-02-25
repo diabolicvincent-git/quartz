@@ -2,8 +2,7 @@
 tags: [Modul/m14, Modul/m22, Fach/Anatomie, Fach/Endokrinologie]
 title: NNR
 ---
-### Nebennierenrinde / NNR
-> Produziert [[Corticosteroide]] ([[Steroidhormone]])
+> **Nebennierenrinde.** Produziert [[Corticosteroide]] ([[Steroidhormone]])
 - **Aufbau**
 	- **Zona glomerulosa**:: [[Mineralocorticoide]] ([[Aldosteron]])
 	- **Zona fasciculata**:: [[Glucocorticoide]] ([[Cortisol]])

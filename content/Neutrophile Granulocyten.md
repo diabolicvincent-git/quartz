@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Infektiologie, Fach/Physiologie]
 title: Neutrophile Granulocyten
 ---
-### Neutrophile Granulocyten
 - **Pathologien**
 	- **↑**:: Neutrophilie (akute/chronische [[Entzündung]], [[Cortisol]]-Therapie)[^1]
 	- **↓**:: ==[[Neutropenie]]== bis [[Agranulocytose]]

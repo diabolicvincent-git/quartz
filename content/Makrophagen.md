@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Infektiologie, Fach/Physiologie]
 title: Makrophagen
 ---
-### Makrophagen
 > [[Unspezifisches Immunsystem]] > Mononucleäres Phagocytensystem (MPS) > [[Makrophagen]]
 - **Entwicklung**:: Ausdifferenzierung aus zirkulierenden [[Monocyten]] nach Emigration in Zielgewebe
 - **Funktion**

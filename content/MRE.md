@@ -2,7 +2,7 @@
 tags: [Modul/m18, Fach/Infektiologie/Erreger/Bakterien]
 title: MRE
 ---
-### Multiresistente Erreger / MRE
+> **Multiresistente Erreger.**
 - **Allg. Risikofaktoren**:: Krankenhausaufenthalt vor <12 Monaten, [[Antibiotika]]-Therapie vor <6 Monaten, [[Infektionsrisiken]]
 
 | [[MRE]]    | [[Resistenzen]]                                                                                    | Therapie (1. Wahl)            |

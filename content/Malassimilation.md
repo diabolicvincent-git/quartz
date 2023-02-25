@@ -2,8 +2,7 @@
 tags: [Modul/m26, Fach/Gastroenterologie]
 title: Malassimilation
 ---
-### Malassimilation
-> **Maldigestion** oder **Malabsorption**
+> **Maldigestion** oder **[[Malabsorption]]**
 - **Symptome**
 	- *Allgemein:* [[Gewichtsverlust]], Lethargie, Gedeihstörung
 	- *[[Proteine]]* → [[Ödeme]], [[Kachexie]]
@@ -21,4 +20,4 @@ title: Malassimilation
 	- *[[Eisen]]* → Eisenmangelanämie
 	- *[[Iod]]* → [[Hypothyreose]], Struma
 	- *[[Zink]]* → Wundheilungsstörung, Acrodermatitis enteropathica, Appetit↓, [[Diarrhoe]], Haarausfall
-- **Cave**:: Veränderte Pharmakokinetik von Medikamenten
+- **Cave**:: Veränderte [[Pharmakokinetik]] von Medikamenten

@@ -2,8 +2,7 @@
 tags: [Modul/m08, Modul/m13, Fach/Biochemie]
 title: ROS
 ---
-### Reaktive Sauerstoffspezies / ROS
-> [[O2]]-enthaltende Moleküle mit großer Reaktionsbereitschaft
+> **Reaktive Sauerstoffspezies.** [[O2]]-enthaltende Moleküle mit großer Reaktionsbereitschaft
 - **Entstehung**:: Aufnahme zusätzlicher [[Elektronen]] (insb. bei [[Oxidative Phosphorylierung]], Hyperoxie, [[Hypoxie]], [[Adipositas]])
 - **Schädigungsmechanismus**:: Reduktion weiterer Moleküle → Kettenreaktion
 

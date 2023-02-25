@@ -2,8 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Intervention, Fach/Anästhesie]
 title: PEEP
 ---
-### Positiver Endexspiratorischer Druck / PEEP
-> **[[Beatmungsparameter]]**:: Positiver Druck in der Lunge am Ende der Ausatmung
+> **Positiver Endexspiratorischer Druck.** [[Beatmungsparameter]]. Positiver Druck in der [[Lunge]] am Ende der Ausatmung.
 - **Wirkung**
 	- Vermeiden von [[Atelektasen]] und Eröffnung kollabierter Alveolen
 	- Verbesserte [[Compliance]]

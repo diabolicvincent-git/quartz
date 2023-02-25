@@ -2,8 +2,7 @@
 tags: [Modul/m13, Modul/m21, Fach/Rechtsmedizin, Art/Intervention]
 title: Leichenschau
 ---
-### Äußere Leichenschau
-> Innere Leichenschau = [[Obduktion]]
+> Innere Leichenschau = [[Obduktion]], im folgenden äußere Leichenschau:
 - **Indikation**:: Unverzüglich nach Tod am Auffindeort 
 - **Durchführung**
 	- Inspektion der [[Haut]] (sichere Todeszeichen, Narben, Zugänge, Gewalteinwirkung, Dekubitus, ==[[Petechien]]==)

@@ -2,7 +2,6 @@
 tags: [Modul/m05, Modul/m04, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Prolactin
 ---
-### Prolactin
 - **Wirkung**:: Milchdrüsenproliferation, Milchproduktion in der [[Mamma]]
 - **Wirkmechanismus**:: [[Rezeptor-Tyrosinkinasen]]
 - **Synthese**:: [[Adenohypophyse]]

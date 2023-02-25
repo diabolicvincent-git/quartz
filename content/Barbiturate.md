@@ -12,5 +12,5 @@ title: Barbiturate
 - **Interaktion**:: 
 - **Dosis**:: 
 - **Applikation**:: [[p.o.]], [[i.v.]], [[i.o.]]
-- **Pharmakokinetik**:: 
+- **[[Pharmakokinetik]]**:: 
 - **Antidot**:: [[Natriumhydrogencarbonat]]

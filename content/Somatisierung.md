@@ -2,7 +2,6 @@
 tags: [Modul/m20, Fach/Psychiatrie]
 title: Somatisierung
 ---
-### Somatisierung
 > Persistierende Symptome + *keine* suffiziente biomed. Erklärung
 - **Symptome**:: [[Schmerz]], div. Funktionsstörungen, [[Erschöpfung]], Fatigue
 - **Pathophysiologie**:: ==[[Konditionierung]]==, Zuwendung (*pos. Verstärker*), "Bücken = [[Schmerz]]"

@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Pankreas
 ---
-### Pankreas / Bauchspeicheldrüse
+> Bauchspeicheldrüse
 - **Funktion**
 	- **[[endokrin]]**:: ==[[Glucagon]] (A-Zellen), [[Insulin]] (B)==, [[Somatostatin]] (D), Pankreatisches Polypeptid (PP)
 	- **exokrin**

@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Fach/Pharmakologie/Medikament, Mythbusting/DGIM-Klug-entscheiden]
 title: Schleifendiuretika
 ---
-### Schleifendiuretika
 - **Indikation**
 	- *[[Ödeme]]:* [[Herz]] ([[Herzinsuffizienz]], [[Lungenödem]]), [[Niere]] ([[Nephrotisches Syndrom]]), [[Leber]] ([[Leberzirrhose]])
 	- *[[CKD]]* (auch bei [[GFR]] <30 einsetzbar)

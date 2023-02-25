@@ -10,7 +10,7 @@ title: Gehirn
 ### Rhombencephalon
 - Myelencephalon = *[[Medulla oblongata]]*
 - Metencephalon = *[[Pons]]* und *[[Kleinhirn]]*
-### Mesencephalon
+### [[Mesencephalon]]
 ### Prosencephalon
 - [[Diencephalon]]
 	- [[Thalamus]], [[Subthalamus]], Metathalamus, Epithalamus, [[Hypothalamus]]

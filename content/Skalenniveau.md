@@ -2,7 +2,6 @@
 tags: [Modul/m07, Fach/Epidemiologie]
 title: Skalenniveau
 ---
-### Skalenniveau
 | Skalenniveau        | Eigenschaften                                                                     | Beispiel                               | [[Lagemaße]]                          |
 | ------------------- | --------------------------------------------------------------------------------- | -------------------------------------- | --------------------------------- |
 | **Nominalskala**    | Nur qualitative Kategorien                                                        | Augenfarbe, Geschlecht, [[AB0]]                 | Häufigkeiten, Modalwert           |
