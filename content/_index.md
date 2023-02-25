@@ -9,6 +9,8 @@ Du hast einen Fehler gefunden oder möchtest etwas verbessern? Durch Klick auf *
 
 > [Alle Medizin-Notizen →](/tags)
 
+---
+
 **Quicklinks**<br>
 [Notfallmedizinische SOPs](tags/Fach/Notfallmedizin/SOP) • [Medikamente](tags/Fach/Pharmakologie/Medikament) • [Mythbusting](tags/Mythbusting)
 
