@@ -2,7 +2,6 @@
 tags: [Modul/m02, Fach/Biochemie]
 title: Denaturierung
 ---
-### Denaturierung
 > Reversibler / Irreversibler Verlust der (Sekundär-, Tertiär-, Quartär-)Struktur → Funktionsverlust
 
 - **Organische Lösungsmittel**

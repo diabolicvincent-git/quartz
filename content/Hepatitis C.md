@@ -2,7 +2,6 @@
 tags: [Modul/m18, Fach/Infektiologie, Fach/Gastroenterologie, Art/Pathologie]
 title: Hepatitis C
 ---
-### Hepatitis C
 - **Epidemiologie**:: Bis 1% weltweit, insb. Afrika/Asien, DE 0.3%
 - **Ätiologie** 
 	- **Erreger**:: Hepatitis-C-Virus (HCV)

@@ -38,7 +38,7 @@ Motivationsbedingt verstärktes Lernen (*operante [[Konditionierung]]*)
 > *Belohnungswahrscheinlichkeit* beeinflusst Aktivität dopaminerger [[Neuron]]
 
 
-### Lernen und Gedächtnis
+### Lernen und [[Gedächtnis]]
 - in Grundzügen die Mechanismen neuronaler Plastizität im sich entwickelnden und adulten Nervensystem erläutern können.
 - die Rolle des Dopamins im Zusammenhang mit dem Re-Enforcement darstellen können.
 - die unterschiedlichen [[Gedächtnis]]formen (Arbeits-, Kurzzeit-, Langzeitgedächtnis, prozedurales und deklaratives [[Gedächtnis]]) definieren und gegeneinander abgrenzen können. 

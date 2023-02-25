@@ -9,7 +9,7 @@ title: Proximales Nephron
 - **Resorption**
 	- [[Glucose]], [[AS]], [[Phosphat]] (je 100%)
 	- [[HCO3-]] (95%)
-	- Harnsäure (90%)
+	- [[Harnsäure]] (90%)
 	- NaCl, [[Wasser]], K+, [[Ca2+]] (je 65%)
 	- [[Mg2+]] (15%)
 - **[[Sekretion]]**:: H+

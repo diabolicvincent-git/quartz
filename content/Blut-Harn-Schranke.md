@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Physiologie, Fach/Histologie]
 title: Blut-Harn-Schranke
 ---
-### Blut-Harn-Schranke / Glomeruläre Filtrationsbarriere
->  Filtration der [[Blut]]bestandteile nach Größe & Ladung
+> **Glomeruläre Filtrationsbarriere.** Filtration der [[Blut]]bestandteile nach Größe & Ladung
 - Durchlässig für [[Wasser]] und darin gelöste Teilchen – Undurchlässig für [[Plasmaproteine]] und Blutzellen
 - **Aufbau**
 	1. Fenestriertes Kapillarendothel

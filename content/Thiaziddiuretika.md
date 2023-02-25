@@ -10,7 +10,7 @@ title: Thiaziddiuretika
 - **Wirkung**:: Ausscheidung NaCl↑, [[K+]]↑
 - **Wirkmechanismus**:: Hemmung Na+/Cl- Cotransport in [[Distaler Tubulus]]
 	- ==Wirkverlust bei [[GFR]] <50== (außer Xipamid)
-	- Selbstlimitierender Effekt (*low-ceiling Diuretika*)
+	- Selbstlimitierender Effekt (*low-ceiling [[Diuretika]]*)
 - **[[UAW]]**
 	- *[[Elektrolyte]]:* [[K+]]↓, [[Mg2+]]↓, ==[[Na+]]↓==, [[Ca2+]]↑[^1]
 	- *[[Stoffwechsel]]:* [[Hyperglycämie]]-Neigung, ==Hyperurikämie==, LDL↑ 

@@ -2,7 +2,6 @@
 tags: [Modul/m27, Art/Pathologie, Fach/Orthopädie, Fach/Pädiatrie]
 title: Klumpfuß
 ---
-### Klumpfuß
 - **Epidemiologie**:: Häufige angeborene [[Fehlbildung]], zu 50% bilateral
 - **Pathophysiologie**:: Dominanz der medialen Muskeln ([[M. tibialis posterior]]) → Medialdeviation des Talus
 - **Diagnostik**

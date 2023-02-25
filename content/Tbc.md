@@ -10,7 +10,7 @@ title: Tbc
 	- **Übertragung**:: ==Aerogen== selten kontaminierte Tierprodukte
 - **Pathophysiologie**:: Intrazelluläres Überleben in [[Makrophagen]][^1] bis zur Aktivierung durch [[T-Zellen]], lange Persistenz in Granulomen[^2]
 - **Symptome**
-	- Persitierender Husten mit/ohne [[Auswurf]], selten [[Hämoptysen]]
+	- Persitierender [[Husten]] mit/ohne [[Auswurf]], selten [[Hämoptysen]]
 	- [[B-Symptomatik]], Leistungsminderung
 - **Diagnostik** → Namenpflichtige [[Meldepflicht]] bei Verdacht
 	- **[[Röntgen]], [[CT]]**:: Kavernöse Spitzenherde in Oberlappen, [[Pleuraerguss]]

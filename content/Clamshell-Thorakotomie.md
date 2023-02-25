@@ -2,7 +2,6 @@
 tags: [Fach/Notfallmedizin, Fach/Chirurgie, Art/Intervention]
 title: Clamshell-Thorakotomie
 ---
-### Clamshell-Thorakotomie
 
 ## SOP
 ![[Pasted image 20221023185146.png]]

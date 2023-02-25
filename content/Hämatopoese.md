@@ -24,7 +24,7 @@ Reihe|Dauer|Schritte|Stimulation
 -|-|-|-
 [[Erythropoese]]|8 d|CMP → CFU-E → (Pro-)Erythroblast → Normoblast → ==Retikulocyt== → [[Erythrocyten]]|[[EPO]]
 [[Thrombopoese]]|5-10 d|CMP → CFU-Meg → Megakaryoblast → (Pro-)Megakaryocyt → [[Thrombocyten]]|Thrombopoetin (TPO) aus der [[Leber]], [[IL]]-11
-[[Granulopoese]]|7-10 d|CMP → CFU-G/M → Myeloblast → (Pro-)Myelocyt → Metamyelocyt → stabkerniger [[Granulocyten]] → segmentkerniger [[Granulocyten]]|G-CSF, GM-CSF, [[IL-1]], [[IL]]-3, [[IL]]-5, [[IL-6]]
+[[Granulopoese]]|7-10 d|CMP → CFU-G/M → Myeloblast → (Pro-)Myelocyt → Metamyelocyt → stabkerniger [[Granulocyten]] → segmentkerniger [[Granulocyten]]|[[G-CSF]], GM-CSF, [[IL-1]], [[IL]]-3, [[IL]]-5, [[IL-6]]
 [[Monopoese]]|8 d|CMP → CFU-G/M → Monoblast → (Pro-)Monocyt → Reifung zu [[Makrophagen]] in Zielgewebe|GM-CSF, M-CSF, [[IL]]-3
 [[Lymphopoese]] ([[T-Zellen]])|?|CLP → Pro-T-Lymphocyt → Auswanderung, Reifung im [[Thymus]] (CD4+ oder CD8+)|[[IL-2]], [[IL-4]], [[IL]]-7
 [[Lymphopoese]] ([[B-Zellen]])|?|CLP → (Pro/Prä-)[[B-Zellen\|B-Lymphocyt]] → Reifung im [[Knochenmark]]|[[IL-2]], [[IL-4]], [[IL]]-7

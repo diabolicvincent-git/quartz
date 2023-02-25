@@ -9,12 +9,12 @@ title: Schleifendiuretika
 - **Wirkmechanismus**:: Blockade NKCC2
 	- [[Harnkonzentrierung]]↓
 	- Venöse [[Vasodilatation]] ([[Vorlast]]↓), Hemmung [[Macula-Densa-Mechanismus]]
-	- Lineare Dosis-Wirkung-Beziehung (*hight-ceiling Diuretika*)
+	- Lineare Dosis-Wirkung-Beziehung (*hight-ceiling [[Diuretika]]*)
 	- Nach 4-6 h *postdiuretische kompensatorische Natriumretention*
 - **[[UAW]]**
 	- *Elektrolytverlust:* ==[[K+]]↓==, [[Ca2+]], [[Mg2+]], [[Cl-]]
 	- *==Ototoxizität==*
-	- *==Exsikkose==, Hypovolämie* → [[Thrombose]]-[[Risiko]]↑ 
+	- *==[[Exsikkose]]==, Hypovolämie* → [[Thrombose]]-[[Risiko]]↑ 
 	- [[Hyperglycämie]]-Neigung, [[Hyperurikämie]] (Gichtanfall)
 - **KI**
 	- [[Anurie]]/[[Oligurie]], [[Hypovolämie]]

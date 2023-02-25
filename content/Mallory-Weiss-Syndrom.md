@@ -8,7 +8,7 @@ title: Mallory-Weiss-Syndrom
 	- Plötzlich intraluminaler Druck↑ (z.B. Erbrechen, stumpfes Bauchtrauma)
 	- Vorgeschädigte Schleimhaut (z.B. Alkoholabusus, Reflux, Altersatrophie)
 - **Symptome**
-	- Erbrechen, Hämatemesis
+	- Erbrechen, [[Hämatemesis]]
 	- [[Bauchschmerzen]] (Epigastrium)
 - **Diagnostik**:: ÖGD
 - **DD**:: [[Boerhaave-Syndrom]]

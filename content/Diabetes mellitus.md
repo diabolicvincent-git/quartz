@@ -2,7 +2,6 @@
 tags: [Modul/m02, Modul/m17, Art/Pathologie, Fach/Endokrinologie]
 title: Diabetes mellitus
 ---
-### Diabetes mellitus 
 > [[Stoffwechseldefekte]] mit Leitbefund: *chronische [[Hyperglycämie]]*
 - **Epidemiologie**:: [[Inzidenz]] stark steigend, ca. 95% [[DMT2]]
 - **Ätiologie**
@@ -14,7 +13,7 @@ title: Diabetes mellitus
 	- **Typ 3**:: z.B. Pankreasinsuffizienz, [[Cushing-Syndrom]], Medikamente, ==[[MODY]]==
 	- **Typ 4**:: Gestationsdiabetes
 - **Symptome**:: ==Müdigkeit, [[Polyurie]], Polydipsie==, Wadenkrämpfe[^3], Pruritus, [[Sehstörung]], [[HWI]]
-	- *[[DMT1]]:* Sudden-Onset, Übelkeit/Erbrechen, [[Gewichtsverlust]], ggf. Coma Diabeticum
+	- *[[DMT1]]:* Sudden-Onset, Übelkeit/Erbrechen, [[Gewichtsverlust]], ggf. [[Coma Diabeticum]]
 	- *[[DMT2]]:* Schleichend, oft Zufallsbefund
 - **Komplikationen**
 	- **Akut**

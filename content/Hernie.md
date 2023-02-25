@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Chirurgie, Art/Pathologie]
 title: Hernie
 ---
-### Hernie
 > *Bruchsack* + *Bruchpforte* + *Bruchinhalt* (oft [[Dünndarm]])
 
 - **Ätiologie**
@@ -30,4 +29,4 @@ title: Hernie
 - **Therapie**
 	- *Konservativ:* Reposition, watch & wait (oligosympt. Leisten-, Narbenhernie; Nabelhernie bei Neugeborenen, [[Schwangerschaft]])
 	- *OP:* Verschluss Bruchpforte + Verstärkung Bauchwand mit Netz (Notfall: [[Inkarzeration]])
-- **Komplikationen**:: Ileus
+- **Komplikationen**:: [[Ileus]]

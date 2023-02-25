@@ -85,7 +85,7 @@ Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückg
 ### Purinbasen
 
 - **Schlüsselenzym**:: Xanthinoxidase oder Xanthindehydrogenase (ineinander umwandelbar; insb. bei Ischämie Entstehung von XO → [[ROS]])
-- Hypoxanthin → Xanthin → Harnsäure
+- Hypoxanthin → Xanthin → [[Harnsäure]]
 - Kein Energiegewinn
 
 ### Pyrimidinbasen
@@ -98,8 +98,8 @@ Purin geht nicht in den Endabbau ein → investierte Energie wird nicht zurückg
 
 ### Hyperurikämie
 
-- Schlechte Wasserlöslichkeit der Harnsäure → Auskristallisation bei Konzentrationserhöhung bzw. [[pH]]↓
-    - Bei vielen Säugetieren: Harnsäure —Uricase→ Allantoin
+- Schlechte Wasserlöslichkeit der [[Harnsäure]] → Auskristallisation bei Konzentrationserhöhung bzw. [[pH]]↓
+    - Bei vielen Säugetieren: [[Harnsäure]] —Uricase→ Allantoin
     - Bei Menschen: Uricase fehlt
 - **[[Gicht]] = Symptomatische Hyperurikämie** (Serumharnsäure > 6,8 mg/dl)
     - Ausfällung von Uratkristallen in Gelenkflüssigkeit, [[Bindegewebe]], Sehnenscheiden, Ohrknorpel, peripheren Gelenken, [[Nierenmark]] (Bereiche mit niedrigerer Temperatur und niedrigem [[pH]] der [[EZM]])

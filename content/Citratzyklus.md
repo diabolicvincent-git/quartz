@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie]
 title: Citratzyklus
 ---
-### Citratzyklus 
 - **Ziele**
 	- Oxidation von Acetyl-CoA → CO2
 	- Bildung von *Reduktionsäquivalenten* für die [[Atmungskette]]

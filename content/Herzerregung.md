@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: Herzerregung
 ---
-### Herzerregung
 - **Ablauf**
 	1.  **Erregung der Vorhöfe**
 		1.  Spontane Depolarisation der Schrittmacherzellen des [[Sinusknoten]]s und Erzeugung eines [[Aktionspotentiale]]

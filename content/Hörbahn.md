@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/HNO, Fach/Neurologie]
 title: Hörbahn
 ---
-### Hörbahn
 0. [[Rezeptor]]: *Innere Haarzellen* (sekundäre Sinneszellen)
 1. Erstes [[Neuron]] [[N. vestibulocochlearis (VIII)]] im Modiolus
 2. Zweites [[Neuron]] (direkte/indirekte Hörbahn)

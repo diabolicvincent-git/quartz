@@ -2,7 +2,6 @@
 tags: [Modul/m04, Modul/m22, Fach/Endokrinologie]
 title: Corticosteroide
 ---
-### Corticosteroide
 > [[Steroidhormone]] der [[NNR]]
 - **Synthese**:: ==[[Cholesterol]]== → Pregnenolon (Abspaltung von 6 C-Seitenketten)
 	- **Regulation**:: ==[[ACTH]]== → [[GPCR]], [[cAMP]]↑, PKA↑ → aktiviert Cholesterinester-Hydrolase (freies [[Cholesterol]]↑) + StAR-Protein in [[Mitochondrien]]membran (Transport in [[Mitochondrien]])

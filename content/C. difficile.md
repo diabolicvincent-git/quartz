@@ -2,8 +2,7 @@
 tags: [Modul/m24, Fach/Infektiologie/Erreger/Bakterien, Wichtig]
 title: C. difficile
 ---
-### Chlostridium difficile
-> [[grampositiv]] > Stäbchen > obligat anaerob > [[Chlostridien]] > C. difficile
+> **Chlostridium difficile.** [[grampositiv]] > Stäbchen > obligat anaerob > [[Chlostridien]]
 - **Eigenschaften**
 	- Obligat anaerob
 	- Ubiquitär

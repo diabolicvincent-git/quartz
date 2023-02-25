@@ -2,8 +2,7 @@
 tags: [Modul/m15, Fach/Anatomie, Fach/Neurologie]
 title: Kleinhirn
 ---
-### Kleinhirn / Cerebellum
-> Cerebellum macht 10% des Hirngewichts aus und enthält >50% der [[Neuron]]
+> **Cerebellum.** 10% des Hirngewichts, aber >50% [[Neuron]]-Anteil
 - **Lage**:: [[Fossa cranii posterior]], überdacht von Tentorium cerebelli ([[Dura mater]]-Duplikatur)
 - **Funktion**[^1]
 	- **Vestibulocerebellum**:: [[Gleichgewicht]], Bewegungskoordination, Feine Augenbewegung ([[Lobus flocculonodularis]])

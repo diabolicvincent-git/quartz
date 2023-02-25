@@ -2,8 +2,7 @@
 tags: [Modul/m05, Fach/Histologie]
 title: EZM
 ---
-### Extrazellulärmatrix / EZM
-> 3D-Netzwerk verschiedener Makromoleküle
+> **Extrazellulärmatrix.** 3D-Netzwerk verschiedener Makromoleküle
 - **geformte Faserpolymere**
 	- kollagene Fasern (aufgebaut aus Kollagenmolekülen)
 	- retikuläre Fasern (aufgebaut aus Kollagenmolekülen)

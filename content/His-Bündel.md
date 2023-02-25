@@ -2,7 +2,6 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Physiologie]
 title: His-Bündel
 ---
-### His-Bündel
 - **Lokalisation**:: Fortsetzung des [[AV-Knoten]]s
 	- Durchstößt Herzskelett im Trigonum fibrosum dextrum
 	- Verläuft in Pars membranacea des Interventrikularseptums

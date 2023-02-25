@@ -25,7 +25,7 @@ title: Medikamentöse Therapie bei Hauterkrankungen
 
 ## Dermatologische Arzneimittelgruppen
 
-### Glucocorticoide
+### [[Glucocorticoide]]
 
 - [[Steroidhormone]], "Stresshormone"
 - **Endogenes Vorkommen**

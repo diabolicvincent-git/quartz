@@ -18,7 +18,7 @@ title: Labor
 	- **Proteine**
 - **Organspezifisch**
 	- **[[Leberwerte]]**:: [[AST]], [[ALT]], GLDH, γ-GT, [[Alkalische Phosphatase]], [[Bilirubin]], [[Albumin]], CHE
-	- **[[Nierenwerte]]**:: [[Harnstoff]], Harnsäure
+	- **[[Nierenwerte]]**:: [[Harnstoff]], [[Harnsäure]]
 	- **[[Pankreaswerte]]**:: Amylase, Lipase, Elastase
 	- **[[Herz]]**:: Herzenzyme, [[BNP]]
 	- **[[Schilddrüse]]**
@@ -46,7 +46,7 @@ title: Labor
 	- **Metabolite**
 		- [[Bilirubin]]
 		- [[Glucose]]
-		- Harnsäure
+		- [[Harnsäure]]
 		- [[Harnstoff]]
 		- [[Lactat]]
 		- [[LDH]]

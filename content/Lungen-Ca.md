@@ -25,7 +25,7 @@ title: Lungen-Ca
 - Zentral/Mediastinal: Bronchoskopische Punktion
 - Peripher: [[CT]]-gesteuerte Punktion
 
-### Gendiagnostik
+### [[Gendiagnostik]]
 ![[Pasted image 20210611101639.png]]
 
 ## Staging

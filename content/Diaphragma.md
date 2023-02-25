@@ -2,7 +2,7 @@
 tags: [Modul/m13, Fach/Anatomie, Fach/Pneumologie]
 title: Diaphragma
 ---
-### Diaphragma / Zwerchfell
+> Zwerchfell
 - **Gliederung**
 	- Centrum tendineum
 	- Pars muscularis (sternalis, costalis, lumbalis)

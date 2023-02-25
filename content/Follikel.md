@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Histologie, Fach/Physiologie]
 title: Follikel
 ---
-### Ovarialfollikel
 > Eizelle + umgebende Follikelepithelzellen + [[Bindegewebe]]
 - **Lage**:: [[Ovar]]-Cortex
 - **Aufbau**

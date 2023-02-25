@@ -4,7 +4,7 @@ title: GH
 ---
 > (Abstract::**Wachstumshormon / Growth Hormone / Somatotropin.**)
 - **Wirkung**
-	- *Körperwachstum↑:* Muskelmasse↑, Gewicht↑, Knochenwachstum, EZM↑ 
+	- *Körperwachstum↑:* Muskelmasse↑, Gewicht↑, Knochenwachstum, [[EZM]]↑ 
 	- *[[Stoffwechsel]]:* Lipolyse↑, Blutglucose↑, Proteinsynthese↑ 
 - **Wirkmechanismus**
 	- *Direkt:* Bindung an peripheren GH-Rezeptor ([[Rezeptor-Tyrosinkinasen]])

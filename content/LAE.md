@@ -9,7 +9,7 @@ title: LAE
 	- Hypoxämie[^1], Hyperventilation
 - **Symptome**
 	- ==Tachypnoe, [[Dyspnoe]], [[Zyanose]]==
-	- ==Atemabhängiger [[Brustschmerz]]==, Husten, Hämoptysen, [[Fieber]]
+	- ==Atemabhängiger [[Brustschmerz]]==, [[Husten]], Hämoptysen, [[Fieber]]
 	- [[Tachykardie]], [[Hypotonie]], [[Synkope]], Halsvenenstauung
 - **Diagnostik**:: *[[Wells-Score]]*
 	- **Untersuchung**:: Hinweise auf [[TVT]]?

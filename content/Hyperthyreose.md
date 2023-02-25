@@ -2,7 +2,7 @@
 tags: [Modul/m04, Modul/m17, Fach/Endokrinologie, Art/Pathologie]
 title: Hyperthyreose
 ---
-### Hyperthyreose / Schilddrüsenüberfunktion 
+> Schilddrüsenüberfunktion 
 - **Epidemiologie**:: 0,6-7%; [[M]]:[[W]] 1:5
 - **Symptome**:: s. [[Schilddrüsenhormone]]-Wirkung, insb. [[Gewichtsverlust]], [[Tachykardie]], Unruhe
 - **[[Labor]]**:: [[TSH]]↓

@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Urologie]
 title: Harnblase
 ---
-#### Harnblase / Vesica urinaria
+> Vesica urinaria
 - **Funktion**: Harntransport und -speicherung
 - **Lage**: Zentral im kleinen [[Becken]]
 - **Volumen**: Je nach Füllungszustand 500–1.000 mL

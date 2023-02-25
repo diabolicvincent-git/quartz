@@ -2,7 +2,7 @@
 tags: [Modul/m08, Fach/Physiologie, Fach/Biochemie, Fach/Toxikologie/Gift]
 title: Eisen
 ---
-### Eisen / Fe2+ / Fe3+ 
+> Fe2+ / Fe3+ 
 - **Funktion**
 	- [[Sauerstofftransport]] ([[Hb]])
 	- Energiegewinnung durch Elektronentransfer in der [[Atmungskette]]

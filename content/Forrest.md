@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Art/Intervention]
 title: Forrest
 ---
-### Forrest-Klassifikation
 > Klasisifkation der **[[GI-Blutung]]** in Endoskopie
 - **I: Aktive Blutung**
 	- **Ia**:: Spritzende arterielle Blutung (Rezidivrisiko 90-100%)

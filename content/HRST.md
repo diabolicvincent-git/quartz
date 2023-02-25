@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: HRST
 ---
-### Herzrhythmusstörungen / HRST
+> **Herzrhythmusstörungen.**
 - **Ätiologie** 
 	- *Kardial:* [[KHK]], [[Vitien]], [[Herzinsuffizienz]], [[Myokarditis]]
 	- *Extrakardial:* [[Elektrolytstörungen]], [[Hypothyreose]], [[Intoxikation]], [[LAE]], psychogen uvm.

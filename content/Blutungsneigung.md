@@ -2,7 +2,7 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Art/Pathologie]
 title: Blutungsneigung
 ---
-#### Blutungsneigung / Gerinnungsstörung / Hämorrhagische Diathese
+> Gerinnungsstörung / Hämorrhagische Diathese
 - **Ätiologie**
 	- **Störung [[Primäre Hämostase]]**:: [[Thrombocytopathie]] (z.B. ASS), [[Thrombopenie]], Vaskuläre Störung[^2] (z.B. [[Thrombotische Mikroangiopathie]], [[IgA-Vaskulitis]])
 	- **Störung [[Sekundäre Hämostase]]**

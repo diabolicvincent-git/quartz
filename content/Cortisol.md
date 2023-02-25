@@ -2,7 +2,6 @@
 tags: [Modul/m04, Modul/m22, Fach/Endokrinologie]
 title: Cortisol
 ---
-#### Cortisol
 > Endogene ==[[Glucocorticoide]]== (**[[Corticosteroide]]**)
 - **Wirkung**
 	- **[[Stoffwechsel]]**:: [[Gluconeogenese]]↑, Proteolyse↑, Lipolyse↑ 

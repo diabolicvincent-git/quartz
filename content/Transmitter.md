@@ -4,7 +4,7 @@ title: Transmitter
 ---
 - **PNS**
 	- **[[ACh]]**
-		- *Nicotinerge [[ACh]]-[[Rezeptor]]* (*ionotrop*, Ganglien, muskuläre Endplatte)
+		- *Nicotinerge [[ACh]]-[[Rezeptor]]* (*ionotrop*, [[Ganglien]], muskuläre Endplatte)
 		- *Muscarinerge [[ACh]]-[[Rezeptor]]* (*metabotrop*, parasympathische Zielorgane, Schweißdrüsen)
 - **[[ZNS]]**
 	- **[[Glutamat]]** (exzitatorisch)

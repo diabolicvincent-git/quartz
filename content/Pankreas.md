@@ -26,7 +26,7 @@ title: Pankreas
 - *PP-Zellen* → Pankreatisches Polypeptid
 ### Exokrine Sekretion
 - **Enzymsekretion** stimuliert durch *Cholecystokinin (CCK)* aus [[Duodenum]]
-	- α-Amylase → Kohlenhydrate
+	- α-Amylase → [[Kohlenhydrate]]
 	- Lipase, Phospholipase A → [[Lipide]]
 	- Elastase, Trypsin (aktiviert andere)[^1], Chymotrypsin → Proteine
 	- Nucleasen → [[RNA]]/[[DNA]]

@@ -17,7 +17,7 @@ title: Einschränkung der Atempumpe
 - ...
     - [[M. Bechterew]]
 
-## Ursachen von Husteninsuffizienz aufzählen und erläutern
+## Ursachen von [[Husteninsuffizienz]] aufzählen und erläutern
 
 - [[Husten]] entsteht im [[Larynx]] → sicheres Zeichen für Problem der *unteren* Atemwege
 

@@ -2,7 +2,6 @@
 tags: [Modul/m05, Fach/Histologie/Gewebe]
 title: Knorpel
 ---
-###  Knorpelgewebe
 - **Aufbau**
 	- **Zellen**
 		- **Chondroblasten**:: Proliferation v.a. in [[Embryonalentwicklung]]

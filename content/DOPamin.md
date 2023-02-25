@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anästhesie, Fach/Pharmakologie/Medikament]
 title: DOPamin
 ---
-### Dopamin 
 - *[[Katecholamine]]*
 - **Funktion im PNS**:: Parakriner Botenstoff
 	- [[Vasodilatation]]

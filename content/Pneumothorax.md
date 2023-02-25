@@ -6,7 +6,7 @@ title: Pneumothorax
 - **Ätiologie**:: spontan, traumatisch, iatrogen
 - **Symptome**
 	- Plötzlicher, stechender, atemabhängiger [[Brustschmerz]]
-	- [[Dyspnoe]], Tachypnoe, ggf. [[Zyanose]], Husten
+	- [[Dyspnoe]], Tachypnoe, ggf. [[Zyanose]], [[Husten]]
 	- Tachykardie, [[Rechtsherzinsuffizienz]], [[Einflussstauung]], ggf. [[Schock]]
 - **Komplikationen**:: ==[[Spannungspneumothorax]]== → kardiale Dekompensation, respiratorische Insuffizienz
 - **Diagnostik**

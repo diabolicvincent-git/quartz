@@ -2,6 +2,6 @@
 tags: [Modul/m16, Fach/Anatomie, Fach/Ophthalmologie]
 title: Cornea
 ---
-### Cornea / Hornhaut 
+> Hornhaut 
 - **Funktion**:: Lichtbrechung
 - **Versorgung**:: *Gefäßfrei*, via Diffusion von [[Tränenflüssigkeit]] und [[Kammerwasser]]

@@ -2,7 +2,6 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: Jejunum und Ileum
 ---
-### Jejunum und Ileum
 - **Funktion**:: Resorption, Aufspaltung, Durchmischung der Nahrung
 	- *[[Jejunum]]:* [[Wasser]], [[AS]], Hexosen, Wasserlösliche [[Vitamine]], [[Fettsäuren]], [[Lipide]], [[Elektrolyte]]
 	- *[[Ileum]]:* [[Vitamin B12 (Cobalamin)]], [[Vitamin C (Ascorbinsäure)]], [[Gallensäuren]]

@@ -133,7 +133,7 @@ title: Urindiagnostik
     - **Diagnostisch irrelevant**
         - **Calciumoxalat**:: Briefumschlagförmig, eher im sauren Harn
         - **Tripelphosphat**:: Sargdeckelähnlich, farblos, eher im alkalischen Harn
-        - **Harnsäure, Rhomben, Plättchen, Rosetten**
+        - **[[Harnsäure]], Rhomben, Plättchen, Rosetten**
     - **Diagnostisch relevant**
         - **Cholesterinkristalle**:: Schwere [[HWI]], Nierenentzündungen, -verletzungen
         - **Tyrosinkristalle**:: Lebererkrankungen

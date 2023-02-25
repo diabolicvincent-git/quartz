@@ -2,7 +2,7 @@
 tags: [Modul/m08, Fach/Physiologie]
 title: Unspezifisches Immunsystem
 ---
-- **Physikalisch**:: Haut/Schleimhaut, Verhornung, Flimmerepithel, Husten
+- **Physikalisch**:: Haut/Schleimhaut, Verhornung, Flimmerepithel, [[Husten]]
 - **Chemisch**:: Lysozym, Pepsin, [[pH]], Defensine, [[Magensäure]], IgA, [[Surfactant]]
 - **Biologisch**:: [[Normalflora]]
 - **Zellulär**[^1]

@@ -5,7 +5,7 @@ title: Ernährung
 
 ## Empfehlung der DGE
 
--   **50-55% Kohlenhydrate**
+-   **50-55% [[Kohlenhydrate]]**
     -   davon 30 g/d [[Ballaststoffe]] (unverdaulich; wichtig für Sättigung, [[Darmflora]], Gallensäureexkretion)
 -   **30-35% Fette**
 -   **15-20% Proteine**

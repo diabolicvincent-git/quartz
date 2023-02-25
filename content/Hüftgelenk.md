@@ -2,7 +2,6 @@
 tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Hüftgelenk
 ---
-### Hüftgelenk
 > Nussgelenk (spezielles Kugelgelenk, stärker eingefasst), bandhaft stark stabilisert
 - **Freiheitsgrade**
 	- **Flexion/Extension** um [[Transversalachse]] (140/0/20)

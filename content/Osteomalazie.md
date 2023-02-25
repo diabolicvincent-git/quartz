@@ -13,5 +13,5 @@ title: Osteomalazie
 	- Auftreibung der [[Knorpel]]-[[Knochen]]-Grenzen
 - **Diagnostik**
 	- **[[Labor]]**:: [[Ca2+]]↓, [[Phosphat]]=/↓, [[Alkalische Phosphatase]]↑, [[PTH]]↑
-	- **[[Röntgen]]**:: *Looser-Umbauzonen* (bandförmige Aufhellung im Knochen)
+	- **[[Röntgen]]**:: *Looser-Umbauzonen* (bandförmige Aufhellung im [[Knochen]])
 - **Prävention**:: [[Vitamin D (Calciferol)]]-Prophylaxe bei Säuglingen

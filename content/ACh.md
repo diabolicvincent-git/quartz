@@ -5,7 +5,7 @@ title: ACh
 > (Abstract::**Acetylcholin**. Wichtigster [[Transmitter]] im [[PNS]].)
 - **Wirkung**:: Erregend (Ausnahme: [[Herz]])
 - **[[Rezeptor]]en**
-	- ***Nicotinerge* ACh-[[Rezeptor]]**:: *Ionotrop* für [[Na+]] und [[Ca2+]] ([[vegetative]] Ganglien, motorische Endplatten)
+	- ***Nicotinerge* ACh-[[Rezeptor]]**:: *Ionotrop* für [[Na+]] und [[Ca2+]] ([[vegetative]] [[Ganglien]], motorische Endplatten)
 	- ***Muscarinerge* ACh-[[Rezeptor]]**:: *Metabotrop* via [[GPCR]] ([[Parasympathikus]]-Zielorgane, Schweißdrüsen)
 - **Synthese**:: Acetyl-CoA + Cholin (Acetylcholintransferase)
 - **Abbau**:: Acetylcholinesterase

@@ -32,7 +32,7 @@ title: Schock
 	- [[ZVK]] + Arterie mit Temperatursonde (==[[PiCCO]]?==)
 	- Gekühlte Infusion 20 ml via [[ZVK]] → Zeit bis Ankunft bei art. Temperatursonde
 - **Mikrozirkulationsstörung**
-	- Kleine Kapillaren kaum durchblutet
+	- Kleine [[Kapillaren]] kaum durchblutet
 	- Sludge durch Arteriolen
 ### Einteilung
 - **Hypodynam/kalt**:: Kompensatorische [[Vasokonstriktion]]

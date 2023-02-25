@@ -2,7 +2,8 @@
 tags: [Modul/m09, Fach/Dermatologie, Art/Intervention]
 title: Hauttyp
 ---
-### Hauttypen n. Flitzpatrick
+> Hauttypen n. Flitzpatrick
+
 | Merkmal                               | I                  | II                      | III                | IV             | V                    | VI                   |
 | ------------------------------------- | ------------------ | ----------------------- | ------------------ | -------------- | -------------------- | -------------------- |
 | Hautfarbe                             | sehr hell          | hell                    | hell, hellbraun    | hellbraun/oliv | dunkelbraun          | dunkelbraun, schwarz |

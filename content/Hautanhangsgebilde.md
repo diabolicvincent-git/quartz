@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Dermatologie, Fach/Anatomie]
 title: Hautanhangsgebilde
 ---
-### Hautanhangsgebilde
 - **Schweißdrüse**
     - Zweischichtiges Epithel im Ausführungsgang
 - **Talgdrüse**

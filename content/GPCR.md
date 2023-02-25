@@ -2,7 +2,7 @@
 tags: [Modul/m04, Fach/Biochemie, Fach/Physiologie]
 title: GPCR
 ---
-### G-Protein-gekoppelter Rezeptor / GPCR
+> **G-Protein-gekoppelter Rezeptor.**
 - **Aufbau**
 	- **[[Rezeptor]]**:: 7 Transmembranhelices (EZ)
 	- **Heterotrimeres G-Protein** (IZ)

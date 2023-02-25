@@ -54,7 +54,7 @@ Sonstige|[[Fosfomycin]]||🟡 inkl. [[MRSA]]|🟢||Unkompl. [[HWI]] (1x [[p.o.]]
 Sonstige|Oxazolidinone|[[Linezolid]]|🟢|🔴|bakteriostat.|[[Pneumonie]] mit [[MRSA]], Haut-/Weichteil-Infekt.|Serotoninerge Interatkionen, GI-[[UAW]], Kopfsz., [[Blutbild]]↑↓, Candidiasis||🔴|2
 Sonstige|[[Rifampicin]]||🟢|🟢|insb. Mycobact. tuberculosis|Fremdkörper-Infekt, [[Tbc]]|[[CYP]]-Induktion, Hepatotox.|🟠||2
 Sonstige|Cyclische Lipopeptide|Daptomycin|🟢 [[VRE]], [[MRSA]]|🔴|||GI-[[UAW]], Kopfsz., Myopathie|🔴|🔴|4
-Sonstige|Cyclische Dekapeptide|Colistin, Colistimethat|🔴|🟢|[[MRE]] Acinetobact. baumannii|"wiederauflebende" Reserve|Neurotox., Nephrotox.|||4
+Sonstige|Cyclische Dekapeptide|[[Colistin]], Colistimethat|🔴|🟢|[[MRE]] Acinetobact. baumannii|"wiederauflebende" Reserve|Neurotox., Nephrotox.|||4
 
 ## Wirkmechanismen
 ![[Pasted image 20210513113759.png]]

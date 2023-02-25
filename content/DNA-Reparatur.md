@@ -2,7 +2,6 @@
 tags: [Modul/m02, Modul/m19, Fach/Biochemie, Fach/Genetik]
 title: DNA-Reparatur
 ---
-### DNA-Reparaturmechanismen
 - **Proofreading**:: Exonuclease-Aktivität einiger Polymerasen
 - **Mismatch-Reparatur**:: Erkennung und Exzision von Basenfehlpaarung noch während der [[Replikation]]
 - **Direkte Reparatur beschädigter Basen** (kein Austausch)

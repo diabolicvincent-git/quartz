@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Intervention]
 title: Diffusionstestung
 ---
-### Diffusionstestung
 - Quantifizierung der *Gasaustauschfähigkeit* der [[Lunge]] (z.B. Progredienz einer [[Lungenfibrose]])
 - **Durchführung**
 	1. Vollständige Exspiration

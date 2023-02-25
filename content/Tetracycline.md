@@ -6,4 +6,4 @@ title: Tetracycline
 - **Wirkspektrum**:: [[grampositiv]] ([[Streptokokken]]), [[gramnegativ]] ([[Neisserien]]), ==[[Intrazelluläre Erreger]]==
 - **Wirkart**:: [[Bakteriostatisch]]
 - **Entitäten**:: [[Doxycyclin]], [[Tetracyclin]], [[Tigecyclin]]
-- #FunFact Ägypter haben gegärte Sachen getrunken, wo Tetracycline drin waren, deshalb haben die Knochen fluoresziert
+- #FunFact Ägypter haben gegärte Sachen getrunken, wo Tetracycline drin waren, deshalb haben die [[Knochen]] fluoresziert

@@ -2,7 +2,7 @@
 tags: [Modul/m09, Fach/Infektiologie/Erreger/Viren]
 title: HSV
 ---
-### Herpes-Simplex-Virus / HSV-1/2
+> Herpes-Simplex-Virus / HSV-1/2
 
 - **Unterfamilie**:: α-Herpesviridae
 - **Genus**:: Simplexvirus

@@ -13,7 +13,7 @@ title: Maligne Hyperthermie
 	- **Spät**:: Hyperthermie >42 °C, [[Zyanose]], [[Rhabdomyolyse]]
 	- **Komplikationen**:: [[Hyperkaliämie]], [[Nierenversagen]], [[DIC]], [[Krampfanfall]]
 - **Diagnostik**
-	- **Monitoring**:: Kapnographie, Temperaturmessung, EKG
+	- **Monitoring**:: Kapnographie, Temperaturmessung, [[EKG]]
 	- **[[BGA]]**:: ==[[Azidose]]==, Hyperkapnie, Hypoxämie, [[Hyperkaliämie]], [[Lactat]]↑ 
 	- **[[Labor]]**:: [[CK]]↑↑↑, Myoglobinämie/Myoglobinurie
 - **Therapie**

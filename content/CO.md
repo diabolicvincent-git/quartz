@@ -2,8 +2,7 @@
 tags: [Modul/m03, Modul/m08, Modul/m13, Fach/Pneumologie, Fach/Biochemie/Molekül, Art/Pathologie]
 title: CO
 ---
-### Kohlenmonoxid / CO
-> Farb- & geruchloses Gas
+> **Kohlenmonoxid.** Farb- & geruchloses Gas
 - **Ätiologie**:: Entsteht bei unvollständiger [[Verbrennung]] von Kohlenstoffen v.a. in Innenräumen (z.B. Holzkohlegrill, Wohnungsbrand, Autoabgase, defekte Heizung, Shisha)
 - **Pathophysiologie**:: CO-Bindungsaffinität an [[Hb]] ca. 300x größer als [[O2]] → Transportkapazität↓ für [[O2]] → Gewebshypoxie → Anaerober Stoffwechsel, [[Lactat]]↑, [[Azidose]]
 - **Symptome**

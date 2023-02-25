@@ -22,7 +22,7 @@ title: Gewichtsregulation
     - Direkt: z.B. Unfähigkeit, Hobbies auszuüben
     - Indirekt: Soziale Stigmatisierung, Diskriminierung
 
-## Energieumsatz
+## [[Energieumsatz]]
 
 - 60-75% Ruheenergieumsatz
 - 6-10% Nahrungsinduzierte Thermogenese

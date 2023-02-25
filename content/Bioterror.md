@@ -2,7 +2,7 @@
 tags: [Modul/m18, Fach/Toxikologie, Fach/Infektiologie, Fach/Epidemiologie]
 title: Bioterror
 ---
-### Potentielle Bioterror-Agenzien / "Dirty Dozen"
+> Potentielle Bioterror-Agenzien / "Dirty Dozen"
 - **[[Bakterien]]**
 	- Bacillus anthracis (Anthrax, Milzbrand)
 	- Yersinia pestis ([[Pest]])

@@ -2,7 +2,6 @@
 tags: [Modul/m15, Art/Intervention, Fach/Radiologie]
 title: CT-Angiographie
 ---
-### [[CT]]-Angiographie
 - **Durchführung**
 	1. [[KM]]-Gabe
 	2. [[CT]]-Aufnahme ([[KM]] = hyperdens)

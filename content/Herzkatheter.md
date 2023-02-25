@@ -2,7 +2,7 @@
 tags: [Modul/m25, Art/Intervention, Fach/Kardiologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Herzkatheter
 ---
-### Herzkatheter / Koronarangiographie
+> [[Koronararterien]]-[[Angiographie]]
 - **[[Linksherzkatheter]]** via [[Arterien]] (z.B. [[KHK]], [[OMI]], PCI, TAVI)
 - **[[Rechtsherzkatheter]]** via [[Venen]] (z.B. HZV, [[Pulmonale Hypertonie]], Pulmonalarterienkatheter)
 ---

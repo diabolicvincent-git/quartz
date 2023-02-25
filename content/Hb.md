@@ -2,8 +2,7 @@
 tags: [Modul/m02, Modul/m08, Fach/Hämatologie]
 title: Hb
 ---
-### Hämoglobin / Hb
-> Hauptprotein der [[Erythrocyten]], essentiell für [[Gastransport]], farbgebend für [[Blut]]
+> **Hämoglobin.** Hauptprotein der [[Erythrocyten]], essentiell für [[Gastransport]], farbgebend für [[Blut]]
 - **Aufbau**:: Tetramer aus 4 Globin-Ketten mit je 1 [[Häm]]
 	- **Globin**:: Globäres Protein mit verschiedenen Unterarten (α, β, γ, δ, ε, ζ)
 	- **[[Häm]]**:: Komplexverbindung aus *Porphyrin*-Ringsystem mit 1 [[Eisen]]-Ion[^1]

@@ -8,7 +8,7 @@ title: Muskelkontraktion
     - Depolarisation der [[Zellmembran]] führt zu Calciumeinstrom (Ryanodinrezeptor)
     - [[Ca2+]] bindet an Troponin C → Freigabe der Bindungsstelle für Myosin
 
-### Elektromechanische Kopplung in Skelettmuskulatur
+### [[Elektromechanische Kopplung]] in Skelettmuskulatur
 Amboss
 
 ## Molekular

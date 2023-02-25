@@ -2,8 +2,7 @@
 tags: [Modul/m10, Fach/Orthopädie, Art/Pathologie]
 title: Kalkschulter
 ---
-### Kalkschulter / Tendinosis calcarea
-> Kalkeinlagerung in der Ansatzsehne des [[M. supraspinatus]] der [[Schulter]]
+> **Tendinosis calcarea.** Kalkeinlagerung in der Ansatzsehne des [[M. supraspinatus]] der [[Schulter]]
 - **Symptome**:: Asymptomatisch bis hochakut und oft spontan regredient
 	- Bewegungseinschränkung, Schmerzen
 	- ggf. [[Entzündungszeichen]]

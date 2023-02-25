@@ -2,7 +2,7 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Circulus arteriosus cerebri
 ---
-### Circulus arteriosus cerebri / Circle of Willis
+> Circle of Willis
 - **Funktion**:: Kollateralkreislauf bei Gefäßverschluss
 - **Besonderheit**:: Individuelle Anlage sehr unterschiedliche, i.d.R. nicht nachteilig
 - **Zufluss**

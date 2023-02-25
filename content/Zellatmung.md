@@ -14,7 +14,7 @@ nicht-respiratorischer [[O2]]-Verbrauch: oxidative Ringspaltungen, Oxygenierunge
 - Ca. 1% des systemischen [[O2]]-Verbrauchs liefert [[ROS]] = 0,2 Mol [[ROS]] / Tag
 - **Hyperoxie** → [[ROS]]-Bildung steigt linear, [[Atmungskette]] ist bereits bei PaO2 5 mmHg halbgesättigt
 - **Hypoxie** → Forschungslage unklar, vermutl. steigt [[ROS]]-Bildung bei Reoxygenierung an
-    - **Adeninnucleotidabbau bei Hypoxie**:: [[ATP]]↓, AMP↑ → Abbau zu Adenosin (vasoaktiv) oder Inosin → Hypoxanthin → Xanthin (via Xanthinoxidase, Radikalbildner!) → Harnsäure
+    - **Adeninnucleotidabbau bei Hypoxie**:: [[ATP]]↓, AMP↑ → Abbau zu Adenosin (vasoaktiv) oder Inosin → Hypoxanthin → Xanthin (via Xanthinoxidase, Radikalbildner!) → [[Harnsäure]]
         - Verminderte Funktion von [[Ca2+]] Effluxpumpen → Aktivierung von Proteasen → vermehrte Konversion von Xanthindehydrogenasen zu Xanthinoxidasen (welche die gleiche Reaktion mit [[O2]] als e- Akzeptor katalysieren) → Entstehung von Superoxid
             - Hemmung durch Allopurinol, Oxypurinol, Febuxostat
 

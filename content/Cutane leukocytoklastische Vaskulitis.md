@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Cutane leukocytoklastische Vaskulitis
 ---
-### Cutane leukocytoklastische Vaskulitis
 > Segmentale [[Vaskulitis]] von Venolen in der [[Dermis]] mit fibrinoider Endothelnekrose
 - **Epidemiologie**:: v.a. Kinder, junge Erwachsene
 - **Pathophysiologie**:: Je nach Auslöser (z.B. [[Infektionen]], [[Kollagenose]], systemische [[Vaskulitis]], Medikamente)

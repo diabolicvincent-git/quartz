@@ -36,7 +36,7 @@ title: Membrantransport
 
 ## Transport von Metaboliten
 
-- **Carrier**:: substratspezifische [[Enzyme]] (z.B. GLUT)
+- **Carrier**:: substratspezifische [[Enzyme]] (z.B. [[GLUT]])
 - **Porine** (äußere Mitochondrienmembran)
 - **Vesikel**:: Endocytose/Exocytose
 

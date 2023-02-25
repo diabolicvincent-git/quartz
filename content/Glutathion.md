@@ -2,7 +2,6 @@
 tags: [Modul/m08, Modul/m17, Fach/Hämatologie, Fach/Anatomie]
 title: Glutathion
 ---
-### Glutathion / GSH
 - **Struktur**:: Tripeptid ([[Glutamat]], [[Cystein]], [[Glycin]])
 - **Funktion**:: [[Antioxidative Schutzsysteme]]
 	1. Reduktion von GSH (Reduktionsmittel) zu GSSG (Disulfid) durch *Glutathionperoxidase*

@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Endokrinologie, Art/Intervention]
 title: Insulintherapie
 ---
-### Insulintherapie
 > Bei [[DMT1]] oder Pankreatektomie *immer*, bei [[DMT2]] als letzte Eskalationsstufe
 - **Schemata**
 	- **Konventionelle Insulintherapie**:: Mischinsulin 1-0-1 präprandial

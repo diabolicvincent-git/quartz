@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Infektiologie, Fach/Physiologie]
 title: Komplementsystem
 ---
-### Komplementsystem
 > [[Plasmaproteine]] – Teil des angeborenen, humoralen [[Immunsystem]]s
 - **Funktion**
 	- Immunaktivierung

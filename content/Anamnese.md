@@ -21,7 +21,7 @@ title: Anamnese
 	- [[B-Symptomatik]] ([[Gewichtsverlust]], [[Fieber]], Nachtschweiß)
 	- Stuhlgang (Diarrhoe, Obstipation, Aussehen)
 	- Miktion (Frequenz, Menge, Dysurie, Nykturie, [[Inkontinenz]])
-	- Atmung (Husten, Auswurf, [[Dyspnoe]])
+	- Atmung ([[Husten]], Auswurf, [[Dyspnoe]])
 	- [[Herz]]-Kreislauf (Belastbarkeit, [[Angina pectoris]], [[HRST]], [[Schwindel]], [[Ödeme]])
 	- [[Schlafstörung]]
 	- [[Sexualanamnese]]

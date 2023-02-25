@@ -28,7 +28,7 @@ title: Zentrales Vestibuläres System
 
 ## in Grundzügen die Phänomenologie und die Entstehung des optokinetischen [[Nystagmus]] einschließlich seiner Einflussgrößen (Distanz zum Objekt, Geschwindigkeit des bewegten Reizes) beschreiben
 
-- Kleinhirn ist notwendig für die Suppression des vestibulooculären Reflexes
+- [[Kleinhirn]] ist notwendig für die Suppression des vestibulooculären Reflexes
 
 ## die Testung der Fixationssupression durchführen und einen Normalbefund erheben
 

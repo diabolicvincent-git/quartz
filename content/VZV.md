@@ -13,7 +13,7 @@ title: VZV
 - **Pathogenese**
     1. Eintritt in oberen Respirationstrakt
     2. Systemische Ausbreitung in der Haut
-    3. Axonaler Transport zu Persistenzorten in *sensorischen Ganglien*
+    3. Axonaler Transport zu Persistenzorten in *sensorischen [[Ganglien]]*
 - **Symptome**:: Juckender Hautausschlag → [[Vesicula]] → Krustenbildung → evtl. [[Fieber]]
 - **Komplikationen**:: [[Myokarditis]], [[Encephalitis]], [[Sepsis]]
 - **Therapie**:: Famciclovir, Valaciclovir

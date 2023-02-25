@@ -9,7 +9,7 @@ title: Verbrennung
 	- **Lokale Stadien**
 		- *I°:* [[Schmerz]], Rötung (oberste [[Epidermis]], z.B. Sonnenbrand)
 		- *IIa°:* [[Vesicula]] ([[Epidermis]] + oberste [[Dermis]])
-		- *IIb°:* Kaum Schmerzen, geöffnete Vesicula, Narbenbildung (Epidermis + Dermis)
+		- *IIb°:* Kaum Schmerzen, geöffnete Vesicula, Narbenbildung (Epidermis + [[Dermis]])
 		- *III°:* Keine Schmerzen, [[Nekrose]] (bis [[Subcutis]])
 		- *IV°:* Verkohlung (tiefere Schichten, z.B. Muskeln, [[Knochen]])
 	- **Systemisch**:: [[Schock]], [[Hypothermie]]

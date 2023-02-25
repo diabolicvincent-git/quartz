@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Genetik, Fach/Biochemie]
 title: Chromosomenanomalien
 ---
-### Chromosomenanomalien
 - **Numerische Chromosomenanomalien**
 	- [[Trisomie 13]]: 47+13
 	- [[Trisomie 18]]: 47+18

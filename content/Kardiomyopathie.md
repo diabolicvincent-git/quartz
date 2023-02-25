@@ -2,7 +2,6 @@
 tags: [Fach/Kardiologie, Art/Pathologie]
 title: Kardiomyopathie
 ---
-### Kardiomyopathie
 - **Einteilung**
 	- **Diltative Kardiomyopathie**
 	- **[[Hypertrophe Kardiomyopathie]]**

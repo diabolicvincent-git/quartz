@@ -3,7 +3,7 @@ tags: [Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: Leberinsuffizienz
 ---
 - **Synthese↓**
-	- Gerinnungsfaktoren↓ (2, 7, 9, 10)  → [[Blutungsneigung]]
+	- [[Gerinnungsfaktoren]]↓ (2, 7, 9, 10)  → [[Blutungsneigung]]
 	- [[Proteine]]↓ (insb. [[Albumin]]) → [[Aszites]]
 	- Transportproteine↓ für Hormone
 	- Globuline↓ (außer γ-Globuline) → [[Immunsuppression]]
@@ -15,6 +15,6 @@ title: Leberinsuffizienz
 	- [[Bilirubin]]-Glucuronidierung↓ → [[Hyperbilirubinämie]], [[Ikterus]]
 - **Metabolismus↓**
 	- [[Gluconeogenese]]↓, [[Glycogen]]speicherung↓ 
-	- Gesteigerte Insulinresistenz → Hepatogener [[Diabetes mellitus]]
+	- Gesteigerte [[Insulinresistenz]] → Hepatogener [[Diabetes mellitus]]
 	- Hydroxylierung von [[Vitamin D (Calciferol)]]↓ → Sekundärer [[Hyperparathyreoidismus]]
 	- Störung des Lipid- und Lipoproteinstoffwechsels

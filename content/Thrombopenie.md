@@ -51,7 +51,7 @@ title: Thrombopenie
 - [[Erythromycin]]
 - [[Furosemid]] ([[Schleifendiuretika]])
 - Haarfärbemittel
-- ==[[Heparin]]== → *[[Heparin]]-induzierte Thrombocytopenie (HIT)*
+- ==[[Heparin]]== → *[[Heparin]]-induzierte Thrombocytopenie ([[HIT]])*
 - Insektizide
 - [[IFN]] α  
 - Isoniazid

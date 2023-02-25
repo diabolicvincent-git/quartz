@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie, Fach/Physiologie]
 title: Formatio reticularis
 ---
-### Formatio reticularis 
 > Netz aus grauer Substanz über gesamten [[Hirnstamm]] bis ins [[Rückenmark]]
 - **Funktion**:: Koordinierte Verschaltung von Hirnstammkernen und lebenswichtigen Funktionen
 - **Bestandteile**

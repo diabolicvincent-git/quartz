@@ -2,7 +2,6 @@
 tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Intervention]
 title: Gendiagnostik
 ---
-#### Gendiagnostik / Genetische Diagnostik 
 > Humangenetische Verfahren zur Diagnose von *monogenen* [[Genetische Erkrankungen]]
 - **Verfahren**
 	- **Spezifische Tests**

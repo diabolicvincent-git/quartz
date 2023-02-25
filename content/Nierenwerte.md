@@ -5,4 +5,4 @@ title: Nierenwerte
 - **[[Kreatinin]]**
 - **Cystatin C**
 - **[[Harnstoff]] / Urea**
-- **Harnsäure**
+- **[[Harnsäure]]**

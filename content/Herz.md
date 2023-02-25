@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
 title: Herz
 ---
-### Herz / Cor
+> Cor
 - **Funktion**:: [[Herzerregung]], [[Muskelkontraktion]] → Auswurf in Körper- bzw. Lungenkreislauf
 - **Lage**:: Mittleres [[Mediastinum]]
 - **Aufbau**

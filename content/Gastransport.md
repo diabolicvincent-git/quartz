@@ -16,7 +16,7 @@ title: Gastransport
 ## Sauerstofftransport
 ### Physikalisch gelöst
 - **Henry-Gesetz**:: Konz. des gelösten Gases = [[Partialdruck]] x Löslichkeitskoeffizient x Flüssigkeitsvolumen
-### Chemisch gebunden an Häm
+### Chemisch gebunden an [[Häm]]
 - **Hüfner-Zahl**:: 1 g [[Hb]] bindet 1,34 ml [[O2]]
 
 

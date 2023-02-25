@@ -2,8 +2,7 @@
 tags: [Modul/m08, Modul/m03, Fach/Biochemie]
 title: GLUT
 ---
-### Glucosetransporter / GLUT 
-> Spezifische, ==passive== [[Glucose]]transporter in [[Zellmembran]] fast aller Zellen
+> **Glucosetransporter.** Spezifische, ==passive== [[Glucose]]transporter in [[Zellmembran]] fast aller Zellen
 
 
 | [[GLUT]]  | Vorkommen                                                       | Funktion                                                 | [[Insulin]]abhängig |

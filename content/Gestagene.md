@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Endokrinologie, Fach/Biochemie/Molekül]
 title: Gestagene
 ---
-### Gestagene
 > [[W]] [[Sexualhormone]]: [[Steroidhormone]] mit 21 C-Atomen
 - **Vertreter**:: ==Progesteron==
 - **Wirkung**

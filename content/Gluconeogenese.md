@@ -2,7 +2,6 @@
 tags: [Modul/m03, Fach/Biochemie]
 title: Gluconeogenese
 ---
-### Gluconeogenese
 > 2 Pyruvat → [[Glucose]] (bei Nahrungskarenz)
 - **Ort**:: ==[[Leber]]==, gering [[Niere]]
 - **Ausgangsstoffe**:: [[Lactat]], glucogene [[AS]], Glycerin, Propionyl-CoA

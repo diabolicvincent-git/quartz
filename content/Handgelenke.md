@@ -2,7 +2,6 @@
 tags: [Modul/m10, Fach/Orthopädie, Fach/Anatomie]
 title: Handgelenke
 ---
-### Handgelenke 
 - **Handgelenke**
 	- **Proximales Handgelenk**:: Distaler Radius und Ulna via Discus articularis + Proximale Handwurzelknochen (Ellipsoidgelenk)
 	- **Distales Handgelenk**:: Proximale + Distale Handwurzelknochen (Scharniergelenk)

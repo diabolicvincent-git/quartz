@@ -2,7 +2,6 @@
 tags: [Fach/Nephrologie]
 title: Henle-Schleife
 ---
-## Henle-Schleife
 >  **Funktion**:: [[Harnkonzentrierung]]
 - **Anatomische Abschnitte**
 	- [[Proximaler Tubulus]] Pars recta

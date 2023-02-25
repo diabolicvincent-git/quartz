@@ -2,7 +2,6 @@
 tags: [Modul/m17, Modul/m12, Fach/Gastroenterologie, Fach/Rheumatologie, Art/Pathologie]
 title: Colitis ulcerosa
 ---
-### Colitis ulcerosa
 > **[[CED]]** unklarer Genese
 - **Epidemiologie**:: Junge Erwachsene, insb. Hellhäutige
 - **Histologie**:: Beginn im distalen [[Rektum]] und Ausbreitung nach proximal über das gesamte Colon

@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie]
 title: Hyperbilirubinämie
 ---
-### Hyperbilirubinämie
 > **[[Bilirubin]]** ≥1,1 mg/dl
 
 - **Ätiologie**

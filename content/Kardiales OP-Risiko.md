@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Anästhesie, Art/Intervention]
 title: Kardiales OP-Risiko
 ---
-### Kardiales OP-Risiko
 - **Niedriges kardiales Risiko**
 	- Schilddrüsen-OP
 	- Kleinere urologische/gynäkologische OP (z.B. TUR-P, vaginale Hysterektomie)

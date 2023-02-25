@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie]
 title: Hyperkaliämie
 ---
-#### Hyperkaliämie
 > **[[K+]]** >5,2 mmol/L
 - **Ätiologie**
 	- *Renal:* [[CKD]], [[Nierenversagen]]

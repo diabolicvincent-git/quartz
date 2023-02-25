@@ -2,7 +2,8 @@
 tags: [Modul/m09, Modul/m17, Fach/Rheumatologie, Fach/Dermatologie]
 title: Hypersensibilitätstypen
 ---
-### Hypersensibilitätstypen n. Coombs & Gell (Tabelle)
+> Hypersensibilitätstypen n. Coombs & Gell
+
 Klassifikation|Mechanismus|[[Allergie]]|[[Autoimmunität]]
 -|-|-|-
 **Typ I: Soforttyp**|[[IgE]] → Mastzellen → Histamin|Allerg. [[Rhinitis]], [[Asthma]], Erdnuss, Wespengift, [[KM]]|-

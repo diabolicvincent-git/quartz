@@ -2,7 +2,6 @@
 tags: [Modul/m10, Fach/Orthopädie, Art/Pathologie]
 title: Kompartmentsyndrom
 ---
-### Kompartmentsyndrom
 > Gewebedruck > [[Kapillaren]]-Perfusionsdruck
 - **Ätiologie**
     - *Kompression:* z.B. enge (Gips-)Verbände, [[Tourniquet]]-Syndrom, Lagerung

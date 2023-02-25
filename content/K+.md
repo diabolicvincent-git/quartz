@@ -2,8 +2,7 @@
 tags: [Modul/m14, Fach/Biochemie/Elektrolyte]
 title: K+
 ---
-### Kalium / K+
-> Intrazellulär wichtigstes Kation
+> **Kalium.** Intrazellulär wichtigstes Kation.
 - **Funktion**:: [[Aktionspotentiale]], [[Säure-Basen-Haushalt]]
 - **Verteilung**
 	- ==**EZ**:: 3,6-5,2 mmol/L==

@@ -21,4 +21,4 @@ title: Vagina
 	- **[[Venen]]**:: Plexus venosus vaginalis et uterinus in Vv. uterinae
 	- **Nerven**:: N. pudendus (sensibel), Plexus uterovaginalis ([[vegetative]])
 
-[^1]: [[Menstruationszyklus]]-abhängig *prä-[[Ovulation]]* [[Glycogen]]↑, Epithel-Differenzierung↑ ([[Östrogene]]↑), *post-[[Ovulation]]* Abschilferung Stratum superficiale ([[Östrogene]]↓)
+[^1]: [[Menstruationszyklus]]-abhängig *prä-[[Ovulation]]* [[Glycogen]]↑, [[Epithel]]-Differenzierung↑ ([[Östrogene]]↑), *post-[[Ovulation]]* Abschilferung Stratum superficiale ([[Östrogene]]↓)

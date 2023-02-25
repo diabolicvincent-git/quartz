@@ -302,7 +302,7 @@ title: IMPP-Arzneistoffe
 
 ### Wachstumsfaktoren
 - **[[EPO]]-R-Agonisten**:: Epoetin
-- **G-CSF-R-Agonisten**:: Filgrastim
+- **[[G-CSF]]-R-Agonisten**:: Filgrastim
 - **[[VEGF]]-Inhibitoren**:: Aflibercept, Ranibizumab
 
 ### Wasser- und Elektrolythaushalt

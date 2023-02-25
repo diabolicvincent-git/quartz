@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/Anatomie, Fach/Physiologie, Fach/HNO]
 title: Cochlea
 ---
-### Cochlea 
 - **Fenster zum [[Mittelohr]]**
 	- *Ovales Fenster* überträgt Schwingungen von Steigbügelplatte auf [[Perilymphe]]
 	- *Rundes Fenster* dient Schwingungsausgleich zwischen Scala vestibuli und [[Paukenhöhle]]

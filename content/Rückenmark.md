@@ -41,7 +41,7 @@ title: Rückenmark
 
     - **Motorisches Vorderhorn**:: Efferente α-, β-, γ-Motoneurone
     - **[[vegetative]] Seitenhorn**:: Verschaltung vegetativer [[Afferenzen]] aus inneren Organen + viszeroefferente [[Sympathikus]]/[[Parasympathikus]] Nerven als "Antwort" (nur in Thorakal-, Lumbal-, Sacralmark)
-    - **Sensibles Hinterhorn**:: v.a. *Ncl. proprius* und *Ncl. dorsalis* (Endigung propriozeptiver [[Afferenzen]] → Kleinhirn) sowie *Substanzia gelatinosa* (Endigung von Schmerzafferenzen)
+    - **Sensibles Hinterhorn**:: v.a. *Ncl. proprius* und *Ncl. dorsalis* (Endigung propriozeptiver [[Afferenzen]] → [[Kleinhirn]]) sowie *Substanzia gelatinosa* (Endigung von Schmerzafferenzen)
 
     Rückenmark dient der Verschaltung zahlreicher Reflexbögen, insb. *Muskeleigenreflex* (monosynaptisch) und *[[Fremdreflex]]* (polysynaptisch).
 
@@ -54,7 +54,7 @@ title: Rückenmark
             - Feines Berührungsempfinden, Propriozeption
             - Verschaltung und Kreuzung erst im [[Hirnstamm]]
         - ***Kleinhirnseitenstrangbahnen***
-            - teils gekreuzt, teils ungekreuzt → Kleinhirn (Propriozeption, motorische Koordination)
+            - teils gekreuzt, teils ungekreuzt → [[Kleinhirn]] (Propriozeption, motorische Koordination)
     - **Absteigende motorische Bahnen**
         - ***[[Pyramidenbahn]]***
             - Funktion: Feinmotorische Innervation insb. distaler Extremitäten

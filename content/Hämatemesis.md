@@ -2,6 +2,6 @@
 tags: [Modul/m26, Art/Pathologie, Fach/Gastroenterologie]
 title: Hämatemesis
 ---
-### Hämatemesis / Bluterbrechen
+> **Bluterbrechen.**
 - Kaffeesatzartig
 - Frischblutig

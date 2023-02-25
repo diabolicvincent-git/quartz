@@ -2,8 +2,7 @@
 tags: [Modul/m09, Fach/Pharmakologie]
 title: i.v.
 ---
-### intravenös / i.v.
-> **[[Applikation]]** in [[Venen]]
+> **[[Applikation]] in [[Venen]]**
 - **Durchführung**
 	- [[PVK]]
 	- [[ZVK]]

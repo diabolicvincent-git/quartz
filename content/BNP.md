@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Nephrologie, Fach/Kardiologie, Fach/Biochemie/Molekül, Fach/Labor]
 title: BNP
 ---
-### BNP / NT-proBNP / Brain [[Natriuretisches Peptid]]
+> NT-proBNP / Brain [[Natriuretisches Peptid]]
 - **Regulation**:: [[Volumenrezeptoren]] in [[Herz]]-Ventrikel
 - **Wirkung**:: an [[ANP]]-Rezeptor (schwächer)
 - **Pathologien**

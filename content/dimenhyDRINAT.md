@@ -2,8 +2,7 @@
 tags: [Modul/m12, Modul/m20, Fach/Pharmakologie/Medikament/PIM]
 title: dimenhyDRINAT
 ---
-### Dimenhydrinat / Vomex®
-> [[Antiemetika]] & [[Antihistaminika]]
+> Vomex®. [[Antiemetika]] & [[Antihistaminika]]
 - **Indikation**:: Übelkeit, Erbrechen (insb. als Begleitsymptomatik)
 - **Wirkmechanismus**
 	- Kompetitive Hemmung zentraler [[Histamin]]-Rezeptoren

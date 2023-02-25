@@ -2,7 +2,6 @@
 tags: [Modul/m16, Fach/Physiologie, Fach/HNO]
 title: Innenohrflüssigkeiten
 ---
-### Innenohrflüssigkeiten
 > [[Perilymphe]] ≈ Extrazellulärraum<br>
 > [[Endolymphe]] ≈ Intrazellulärraum
 - Positives Endocochleäres Potential +85 mV → [[K+]] Einstrom in Haarzellen

@@ -2,7 +2,6 @@
 tags: [Modul/m13, Fach/Pneumologie]
 title: Compliance
 ---
-### Compliance
 > Passive Dehnbarkeit der [[Lunge]] (↓ bei *restriktiven* [[Ventilationsstörungen]])
 - $Compliance = frac{∆V}{∆P}$
 - Normwert: 0,2 L / cmH2O

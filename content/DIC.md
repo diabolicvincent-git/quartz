@@ -2,7 +2,7 @@
 tags: [Modul/m17, Modul/m21, Fach/Hämatologie, Art/Pathologie]
 title: DIC
 ---
-#### Verbrauchskoagulopathie / Disseminierte intravasale Gerinnung / DIC 
+> Verbrauchskoagulopathie / Disseminierte intravasale Gerinnung
 - **Pathophysiologie**:: ==Systemische Gerinnungsaktivierung==
 	1. *Disseminierte intravasale Gerinnung* → Mikrothromben → Störung der [[Mikrozirkulation]] → Organdysfunktion
 	2. *Verbrauchskoagulopathie* → Faktormangel → [[Blutung]]

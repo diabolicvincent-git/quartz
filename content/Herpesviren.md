@@ -2,7 +2,6 @@
 tags: [Modul/m09, Modul/m18, Fach/Dermatologie, Fach/Infektiologie/Erreger/Viren]
 title: Herpesviren
 ---
-#### Herpesviren
 > [[DNA]]-[[Viren]], die lange nach Erstinfektion persistieren
 1. **[[HSV]]-1** → Stomatitis, konnatale Infekt. → Herpes labialis
 2. **[[HSV]]-2** → ==[[Encephalitis]], Herpes genitalis==, Exzem
@@ -16,9 +15,9 @@ title: Herpesviren
 ### Übersichtsmatrix
 HHV|Name|Typ|Erkrankung|Therapie|Besonderheit
 -|-|-|-|-|-
-1|Herpes-simplex-Virus 1 ([[HSV]]-1)|α|**Primär**:: Stomatitis aphthosa, konnatale Infekt.<br>**Reakt.**:: Herpes labialis<br>**Unkl.**:: [[Encephalitis]], Eczema herpeticatum, Herpes digitalis, Keratitis, Konjunktivitis|[[Aciclovir]]|Lebenslange Persistenz in Ganglien
-2|Herpes-simplex-Virus 2 ([[HSV]]-2)|α|[[Encephalitis]], Herpes genitalis, Eczema herpeticatum, Herpes digitalis|[[Aciclovir]]|Lebenslange Persistenz in Ganglien
-3|Varizella-Zoster-Virus ([[VZV]])|α|**Primär**:: [[Windpocken]], konnatales Varizellensyndrom<br>**Reakt.**:: [[Herpes zoster]]|[[Aciclovir]] u.a.|Lebenslange Persistenz in Ganglien
+1|Herpes-simplex-Virus 1 ([[HSV]]-1)|α|**Primär**:: Stomatitis aphthosa, konnatale Infekt.<br>**Reakt.**:: Herpes labialis<br>**Unkl.**:: [[Encephalitis]], Eczema herpeticatum, Herpes digitalis, Keratitis, Konjunktivitis|[[Aciclovir]]|Lebenslange Persistenz in [[Ganglien]]
+2|Herpes-simplex-Virus 2 ([[HSV]]-2)|α|[[Encephalitis]], Herpes genitalis, Eczema herpeticatum, Herpes digitalis|[[Aciclovir]]|Lebenslange Persistenz in [[Ganglien]]
+3|Varizella-Zoster-Virus ([[VZV]])|α|**Primär**:: [[Windpocken]], konnatales Varizellensyndrom<br>**Reakt.**:: [[Herpes zoster]]|[[Aciclovir]] u.a.|Lebenslange Persistenz in [[Ganglien]]
 4|Epstein-Barr-Virus ([[EBV]])|γ|Infektiöse Mononukleose, Orale Haarleukoplakie, [[Burkitt-Lymphom]], Nasopharynx-Ca|Keine|Onkogen
 5|Cytomegalievirus ([[CMV]])|β|**Primär**:: Asympt.; Konnatale Infekt., Retinitis, [[Pneumonie]], Kolitis|Ganciclovir u.a.|"Eulenaugen-Zellen"
 6|HHV-6|β|Dreitagefieber|Keine|Durchseuchung >95%
@@ -38,7 +37,7 @@ HHV|Name|Typ|Erkrankung|Therapie|Besonderheit
     - Codieren für Reihe von Enzymen der [[Nucleotide|Nucleinsäure]]-Synthese selbst (Thymidinkinase, Helikinase, Polymerase, etc.)
     - [[DNA]]-Synthese und Kapsidassembly im Kern
     - [[Replikation]] der [[Viren]] assoziiert mit Zellzerstörung
-    - Latenz (assoziiert mit restrigierter Genexpression) in Ganglien
+    - Latenz (assoziiert mit restrigierter Genexpression) in [[Ganglien]]
 - **Reifungsprozess**
     1. Budding-Prozess in den perinucleären Raum (kurzzeitig behüllt)
     2. Verschmelzung der äußeren Kernmembran → Freisetzung des Kapsids
@@ -47,7 +46,7 @@ HHV|Name|Typ|Erkrankung|Therapie|Besonderheit
     5. Ausschleusen des fertigen [[Viren|Virus]] als Vesikel
 - **Klassifikation** 
 100 [[Herpesviren]] bekannt; 8 humanpathogen
-    - **Alpha-[[Herpesviren]]**:: Neurotrop und schnell replizierend, Persistenz in Ganglien
+    - **Alpha-[[Herpesviren]]**:: Neurotrop und schnell replizierend, Persistenz in [[Ganglien]]
     - **Beta-[[Herpesviren]]**:: Lymphotrop mit langsamer [[Replikation]], Persistenz in [[Granulocyten]] und [[Lymphocyten]]
     - **Gamma-[[Herpesviren]]**:: Lymphotrop mit onkogenem Potential, Persistenz in [[B-Zellen]]
 	

@@ -2,7 +2,6 @@
 tags: [Modul/m17, Fach/Endokrinologie, Fach/Physiologie]
 title: Insulinresistenz
 ---
-### Insulinresistenz
 > [[DMT2]]
 - *[[Adipositas]]-induziert:* Freie [[Fettsäuren]] (FS) im [[Blut]]↑ 
 	1. β-Oxidation↑ → Acetyl-CoA↑ → Citrat↑ → Inhibition der [[Pyruvatdehydrogenase]] und Phosphofructokinase → Glucose-6-Phosphat↑ → [[Glucose]]-Aufnahme↓

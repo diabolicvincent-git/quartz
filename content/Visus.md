@@ -10,7 +10,7 @@ title: Visus
 - in Grundzügen das Zustandekommen von Abbildungsfehlern (Aberrationen, [[Refraktionsanomalien]]) und Nah- und Fernpunktveränderungen bei [[Myopie]], [[Hyperopie]] und [[Presbyopie]] beschreiben
 - die Mechanismen der [[Pupillenreflex]] und der [[Akkommodation]] des Auges erklären
 
-## Dioptrischer Apparat
+## [[Dioptrischer Apparat]]
 
 - Adäquater Reiz: Licht in Form elektromagnetischer Strahlung 400-750 nm
 

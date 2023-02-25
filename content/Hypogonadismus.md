@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Endokrinologie, Fach/Gynäkologie, Fach/Urologie, Art/Pathologie]
 title: Hypogonadismus
 ---
-### Hypogonadismus
 - **Einteilung**
 	- **Hypergonadotroper Hypogonadismus**:: Störung der Keimdrüsen
 		- *Angeboren:* ==[[Turner-Syndrom]] ([[W]]), [[Klinefelter-Syndrom]] (♂)==, [[Swyer-Syndrom]]

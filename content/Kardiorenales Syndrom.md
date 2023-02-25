@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Nephrologie, Fach/Kardiologie]
 title: Kardiorenales Syndrom
 ---
-### Kardiorenales Syndrom
 - **Klassifikation**
 	- **I: Akutes kardiorenales Syndrom**:: Akute [[Herzinsuffizienz]] / kardiale Dekompensation
 		- [[Linksherzinsuffizienz]] → prärenales [[Nierenversagen]] → [[RAAS]]↑ → Tubulusnekrose

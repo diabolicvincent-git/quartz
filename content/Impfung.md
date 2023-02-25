@@ -68,7 +68,7 @@ title: Impfung
         - Lösung: Konjugatimpfstoff
             - Polysaccharid-Bestandteile
             - Proteincarrier als Quelle für [[T-Zellen]]-Epitope → zusätzlich [[T-Zellen]]-Aktivierung → effizientere Antikörperproduktion
-- **Gentechnik**
+- **[[Gentechnik]]**
     - Herstellung immunogener VLPs (Virusähnliche Partikel)
     - **Vorteil**:: Sicherheit durch Injektion von nur ungefährlichen Virusanteilen (z.B. Capsid)
     - z.B. [[Hepatitis B]], [[HPV]]

@@ -9,5 +9,5 @@ title: Blutprodukte
 - **Plasmapräparate**
 	- *Plasmakonzentrate*:: ==[[FFP]]== u.a.
 	- *Faktorenkonzentrate*:: ==[[PPSB]]==, [[Antithrombin]] u.a.
-	- [[Antikörper]]
+	- [[IVIG]]
 	- [[Humanalbumin]]

@@ -2,7 +2,6 @@
 tags: [Modul/m02, Fach/Biochemie, Fach/Genetik]
 title: DNA
 ---
-### DNA
 - **Aufbau**
 	- **Nucleinsäure**:: Polymer aus [[Nucleotide]]n
 	- **Doppelstrang**:: komplementär, antiparallel, *Watson-Crick-Basenpaarung* via H-Brücken

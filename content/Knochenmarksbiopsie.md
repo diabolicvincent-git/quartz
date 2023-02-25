@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Onkologie, Art/Intervention]
 title: Knochenmarksbiopsie
 ---
-### Knochenmarksbiopsie
 ![[Pasted image 20210621120952.png]]
 
 - Zellularität

@@ -18,7 +18,7 @@ title: Zellschädigung
 			- [[C1-Stoffwechsel]]: [[Vitamin B12 (Cobalamin)]]- und MTHFR-abhängige Methylierungen durch SAM oder C1-Tetrahydrofolsäure ([[Folsäure]])
 			- [[NAD]]-Verbrauch bei vermehrter Poly-ADP-Ribosylierung von [[DNA]]-Reparaturenzymen
 			- [[Oxidativer Pentosephosphatweg]] zur Bereitstellung von NADPH2 für [[Antioxidative Schutzsysteme]]
-			- Glutathion-abhängiges Antioxidatives Schutzsystem
+			- [[Glutathion]]-abhängiges Antioxidatives Schutzsystem
 			- Purin- Pyrimidin-Synthese zur Nucleobasen-Synthese
 	- **Störungen des Immunsystems**
 		- Proinflammatorische Cytokine: ==NF-κB==, TNFα, [[IL-1]], [[IL-6]] (u.a. durch [[ROS]] aktiviert)
@@ -65,7 +65,7 @@ title: Zellschädigung
 - Doppelstrangbruch → Poly-ADP-Ribosylierung↑, NAD-Depletion, Energieverarmung)
 #### Oxidativer Pentosephosphatweg
 - NADPH2 → [[Antioxidative Schutzsysteme]]
-#### Glutathion-abhängiges Antioxidatives Schutzsystem
+#### [[Glutathion]]-abhängiges Antioxidatives Schutzsystem
 ![[Glutathion]]
 #### Purin-/Pyrimidin-Synthese
 - Nucleobasen-Synthese (insb. [[DNA]]-[[Replikation]], [[RNA]]-Synthese bei [[Transkription]])

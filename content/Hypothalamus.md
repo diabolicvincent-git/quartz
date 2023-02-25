@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Hypothalamus
 ---
-#### Hypothalamus 
 > Oberstes Regulationszentrum des vegetativen und endokrinen Systems
 - **Funktion**:: Regulation von [[Wärmehaushalt]], Reproduktion, [[Circadiane Rhythmik]], [[Wachheit]]/[[Schlaf]], Osmolalität, [[Wasserhaushalt]], [[Regulation des Kreislaufs]], [[Energiehaushalt]], [[Stress]]
 	- Steuerung der [[Adenohypophyse]]

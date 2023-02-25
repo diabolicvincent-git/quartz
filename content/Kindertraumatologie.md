@@ -2,7 +2,6 @@
 tags: [Modul/m27, Fach/Pädiatrie, Fach/Orthopädie]
 title: Kindertraumatologie
 ---
-### Kindertraumatologie
 - **Epidemiologie**:: Jährlich 3 Mio. Unfälle, ♂>>[[W]]
 	- Aufmerksamkeit kann noch nicht bewusst gelenkt werden
 	- Häufig 15-18 Uhr (nach Schule, vor Eltern)

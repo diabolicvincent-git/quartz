@@ -9,5 +9,5 @@ title: Vitamin D (Calciferol)
 - **Quellen**:: Körpereigene Synthese ([[Haut]], [[Leber]], [[Niere]]), Fisch, Eier, Pflanzen
 - **Sonstiges**:: Vitamin-D-Substitution im Winter bei Kindern < 2 J. aufgr. erhöhten Bedarfs in der Wachstumsphase
 
-## Calcitriol
+## [[Calcitriol]]
 ![[Calcitriol]]

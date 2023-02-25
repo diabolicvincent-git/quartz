@@ -2,7 +2,6 @@
 tags: [Modul/m17, Modul/m05, Fach/Anatomie, Fach/Onkologie]
 title: Knochenmark
 ---
-### Knochenmark 
 > *Primär-lymphatisches Organ* in den Hohlräumen aller [[Knochen]]
 - **Funktion**
 	- [[Hämatopoese]]

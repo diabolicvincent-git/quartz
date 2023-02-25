@@ -2,7 +2,7 @@
 tags: [Modul/m14, Modul/m18, Art/Pathologie, Fach/Infektiologie, Fach/Urologie, Fach/Gynäkologie, Mythbusting/DGIM-Klug-entscheiden]
 title: HWI
 ---
-#### Harnwegsinfektion / HWI
+> **Harnwegsinfektion.**
 - **Epidemiologie**:: Zweithäufigste [[Nosokomiale Infektion]]
 - **Ätiologie**
 	- Hauptrisikofaktor *[[Blasenkatheter]]*

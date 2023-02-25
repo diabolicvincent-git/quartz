@@ -9,7 +9,7 @@ title: Speicheldrüsen
 - **Entitäten**:: [[Gl. parotis]], [[Gl. submandibularis]] (70% Speichelmenge), [[Gl. sublingualis]]
 - **Innervation**:: [[Parasympathikus]] über ==muscarinerge [[ACh]]-Rezeptoren==[^1]
 - **Histologie**:: [[Bindegewebe]]-Kapsel, Endstücke und Myoepithelzellen
-	- *Ausführungsgangsystem*:: Intralobuläre Schaltstücke (einschichtiges flaches Epithel, Myoepithelzellen), intralobuläre Streifenstücke (einschichtiges prismatisches Epithel mit basaler eosinophiler Streifung)
+	- *Ausführungsgangsystem*:: Intralobuläre Schaltstücke (einschichtiges flaches [[Epithel]], Myoepithelzellen), intralobuläre Streifenstücke (einschichtiges prismatisches [[Epithel]] mit basaler eosinophiler Streifung)
 - **Pathologien**:: [[Sjögren-Syndrom]], [[Mumps]] ([[Gl. parotis]])
 ```dataview
 TABLE Lage, Topographie, Ausführungsgang, Besonderheiten, Arterien, Venen, Nerven, Histologie

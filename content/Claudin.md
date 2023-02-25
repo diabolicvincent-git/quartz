@@ -2,7 +2,6 @@
 tags: [Modul/m04, Modul/m05, Modul/m14, Fach/Nephrologie, Fach/Physiologie]
 title: Claudin
 ---
-### Claudin
 > [[Proteine]], Bestandteil der [[Tight Junction]] ([[Zellkontakte]]) – je nach Typ für unterschiedliche Stoffe permeabel
 
  - **Claudin-2**

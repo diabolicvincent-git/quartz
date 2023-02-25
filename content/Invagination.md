@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Gastroenterologie, Fach/Chirurgie]
 title: Invagination
 ---
-### Darminvagination
 > Hereinstülpen eines Darmabschnitts in aboralen Abschnitt → [[Ileus]], [[Ischämie]]
 
 - **Epidemiologie**:: Kinder ==3 Monate bis 6 Jahre==

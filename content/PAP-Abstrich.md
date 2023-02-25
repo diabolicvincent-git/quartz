@@ -16,6 +16,6 @@ title: PAP-Abstrich
 	- **PAP I**:: Physiologisch
 	- **PAP II**:: Physiologisch mit Einschränkung
 	- **PAP III**:: Unklarer Befund
-	- ==**PAP IIID**:: Dysplasie mit Option auf Rückbildung → HPV-/Ki-67-Diagnostik, Kolposkopie==
+	- ==**PAP IIID**:: Dysplasie mit Option auf Rückbildung → [[HPV]]-/Ki-67-Diagnostik, Kolposkopie==
 	- **PAP IV**:: Karzinomvorstufe
 	- **PAP V**:: Malignom

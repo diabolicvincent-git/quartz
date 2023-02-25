@@ -2,7 +2,6 @@
 tags: [Modul/m09, Fach/Dermatologie]
 title: Dermis
 ---
-### Dermis
 > Vaskularisiertes [[Bindegewebe]]
 - **Stratum papillare**:: Kontakt zu [[Epidermis]]
 	- Lockeres BG

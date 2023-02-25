@@ -19,7 +19,7 @@ title: Stoffwechsel des ZNS
 
 #### Glutamat-Stoffwechsel
 > EZ [[Glutamat]]-Konzentration muss minimiert werden, um unkontrollierte Erregung zu verhindern
-- [[Glutamat]] ist [[Blut-Hirn-Schranke]]-gängig und entsteht im Citratzyklus
+- [[Glutamat]] ist [[Blut-Hirn-Schranke]]-gängig und entsteht im [[Citratzyklus]]
 - Umwandlung zu *[[Glutamin]]* in Astrocyten
 - Weitergabe an [[Glutamat]] / [[GABA]]erge [[Neuron]] und Rück-Umwandlung + Nutzung als [[Transmitter]]
 

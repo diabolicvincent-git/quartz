@@ -2,8 +2,7 @@
 tags: [Modul/m17, Fach/Endokrinologie, Fach/Allgemeinmedizin, Fach/Labor]
 title: HbA1c
 ---
-### HbA1c / Glycohämoglobin
-> Glyciertes [[Hb]], gibt Aufschluss über [[BZ]] der letzten 6-8 Wochen
+> **Glycohämoglobin.** Glyciertes [[Hb]], gibt Aufschluss über [[BZ]] der letzten 6-8 Wochen
 - **Biochemie**:: Spontane Glycierung[^1] des N-terminalen Valin an β-Kette → Aldimin → Ketimin (irreversible Amadori-Umlagerung)
 - **Normwert** <5,7%
 - **Einflussgrößen**

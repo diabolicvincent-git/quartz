@@ -2,7 +2,6 @@
 tags: [Modul/m14, Modul/m21, Fach/Physiologie]
 title: Kompartimente
 ---
-### Kompartimente
 > [[Wasserhaushalt]]
 - **Extrazellulärraum (EZR)**
 	- **Transzellulärraum**:: 1 L = 3% ([[Liquor]], [[Kammerwasser]], Körperhölen, [[Drüsen]])

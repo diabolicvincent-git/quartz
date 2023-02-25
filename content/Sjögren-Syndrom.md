@@ -8,4 +8,4 @@ title: Sjögren-Syndrom
 - **Symptome**:: *[[Sicca-Syndrom]]* ([[Xerostomie]], Augentrockenheit) & *systemisch* (Arthritis, [[Raynaud-Syndrom]], div.)
 - **Diagnostik**:: Labor ([[BSG]]↑, SS-B/A-Antikörper), Biopsie
 - **Therapie**:: Sekretion↑ (Kaugummi, Augentropfen) ggf. + systemisch [[Immunsuppressiva]]
-- **Komplikationen**:: Inzidenz↑ [[Lymphom]]
+- **Komplikationen**:: [[Inzidenz]]↑ [[Lymphom]]

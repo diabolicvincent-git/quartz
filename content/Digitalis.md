@@ -27,4 +27,4 @@ title: Digitalis
 	- **Alternativen**:: [[β-Blocker]] ([[Tachykardie]], [[VHF]])
 	- **Alternativen**:: [[Diuretika]], [[ACE-Hemmer]] u.a. ([[Herzinsuffizienz]])
 
-[^1]: [[Digitalis]]-[[Intoxikation]] begünstigt durch [[Hypokaliämie]] und Hypercalcämie
+[^1]: [[Digitalis]]-[[Intoxikation]] begünstigt durch [[Hypokaliämie]] und [[Hypercalcämie]]

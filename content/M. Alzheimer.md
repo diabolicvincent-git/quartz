@@ -2,7 +2,7 @@
 tags: [Modul/m15, Modul/m30, Fach/Neurologie/Demenz]
 title: M. Alzheimer
 ---
-> (Abstract::**50% der [[Demenz]]en.** Unklare Ätiologie. ==EZ β-Amyloid, IZ Tau-Protein==. Gedächtnis/Orientierungsstörung.)
+> (Abstract::**50% der [[Demenz]]en.** Unklare Ätiologie. ==EZ β-Amyloid, IZ Tau-Protein==. [[Gedächtnis]]/Orientierungsstörung.)
 - **Epidemiologie**:: 50% aller [[Demenz]], [[W]]>[[M]]
 - **Ätiologie**:: Unklar, Assoziation mit Genvariante ==[[Apolipoprotein]] E4==
 - **Pathophysiologie**:: Parieto-temporal-frontale Hirnatrophie, extrazelluläre β-Amyloid-Plaques, intrazelluläre Tau-Protein-Konglomerate, Aktivierung [[Mikroglia]]

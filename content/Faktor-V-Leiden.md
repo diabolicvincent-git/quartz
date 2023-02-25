@@ -2,8 +2,7 @@
 tags: [Modul/m17, Fach/Hämatologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Faktor-V-Leiden
 ---
-### Faktor-V-Leiden / APC-Resistenz
-> Resistenz des Faktor V gegen Proteolyse durch aktiviertes Protein C
+> **Häufigste Ursache für APC-Resistenz.** Resistenz des Faktor V gegen Proteolyse durch aktiviertes Protein C.
 
 - **Epidemiologie**:: Heterocygotie 5%, Homocygotie <1%
 - [[Thrombose]]-[[Risiko]]↑ 8-80fach

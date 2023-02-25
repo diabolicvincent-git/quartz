@@ -11,7 +11,7 @@ title: Molekulare Mechanismen der dermalen Abwehr
     - Diffusionsbarriere für [[Wasser]]
     - **Defensine**
         - 30-42 [[AS]], [[Cystein]]-reich, kationisch-amphiphil
-        - Von Epithel- & Immunzellen synthetisiert
+        - Von [[Epithel]]- & Immunzellen synthetisiert
         - **Wirkmechanismus**
             - Interaktion mit neg. geladenen Phospholipiden der [[Zellmembran]] → Porenbildung → osmotische Cytolyse
             - Chemotaktische Substanz für Immunzellen

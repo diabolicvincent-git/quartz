@@ -2,7 +2,6 @@
 tags: [Modul/m20, Art/Pathologie, Fach/Psychiatrie, Art/Intervention]
 title: Depression
 ---
-### Depression
 - **Epidemiologie**:: ⅓ vor 25. LJ, [[W]]>[[M]]
 - **Ätiologie**
 	- **Organisch**:: [[Hypothyreose]], [[Ca2+]]↑↓, [[Vitamine]]↓, [[Anämie]], [[Hämochromatose]], [[Demenz]], [[Parkinson-Syndrom]], [[Malignome]]

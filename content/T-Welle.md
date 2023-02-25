@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: T-Welle
 ---
-> **EKG**:: Erregungsrückbildung der Ventrikel
+> **[[EKG]]**:: Erregungsrückbildung der Ventrikel
 - Physiologische Konkordanz der T-Welle zum [[QRS]][^1]
 - **Pathologien**
 	- **Überhöhte [[T-Welle]]**:: [[Hyperkaliämie]], [[OMI]] (*"Erstickungs-T"*)

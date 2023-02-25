@@ -2,7 +2,7 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
 title: CML
 ---
-### Chronische myeloische Leukämie / CML
+> Chronische myeloische Leukämie
 - **Pathophysiologie**:: *Philadelphia-Translokation* t(9;22) → Fusionsgen BCR-ABL1
 - **Symptome**:: Oft asymptomatisch!
 	- [[B-Symptomatik]]

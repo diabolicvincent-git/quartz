@@ -3,7 +3,7 @@ tags: [Modul/m15, Fach/Neurologie, Fach/Physiologie, Fach/Physiologie]
 title: Wachheit
 ---
 
-### Weckzentrum in der Formatio reticularis
+### Weckzentrum in der [[Formatio reticularis]]
 [[Formatio reticularis]] > Weckzentrum ARAS
 
 ### "Wachheits-Transmitter"

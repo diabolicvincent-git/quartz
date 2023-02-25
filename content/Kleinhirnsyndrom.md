@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie]
 title: Kleinhirnsyndrom
 ---
-#### Symptome
 - **==Cerebelläre [[Ataxie]]==**
 	- Gangataxie 
 	- Rumpfataxie 

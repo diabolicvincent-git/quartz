@@ -2,7 +2,6 @@
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
 title: Doppelter Aortenbogen
 ---
-### Doppelter Aortenbogen
 > [[Herzfehler]]
 - **Pathophysiologie**:: Persistenz der linken und rechten Kiemenbogenarterie
 - **Symptome**

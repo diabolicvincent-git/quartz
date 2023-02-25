@@ -2,7 +2,6 @@
 tags: [Fach/Neurologie, Art/Pathologie]
 title: Creutzfeldt-Jakob
 ---
-### Creutzfeldt-Jakob-Krankheit
 - **Epidemiologie**:: ca. 60 Jahre
 - **Ätiologie**
 	- *Sporadisch (90%)*

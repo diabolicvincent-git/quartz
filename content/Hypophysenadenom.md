@@ -2,7 +2,6 @@
 tags: [Modul/m04, Modul/m21, Fach/Endokrinologie, Art/Pathologie, Fach/Onkologie, Fach/Neurologie]
 title: Hypophysenadenom
 ---
-### Hypophysenadenom
 - **Einteilung**
 	- *Hormonaktiver [[Tumor]] (60%):* [[Prolactinom]] (45%), [[Akromegalie]] (10%), [[M. Cushing]] (5%)[^2]
 	- *Hormoninaktiver [[Tumor]] (40%)* → [[Hypophysenvorderlappeninsuffizienz]]

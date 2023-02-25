@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Art/Pathologie]
 title: Ileus
 ---
-### Ileus / Darmverschluss
+> Darmverschluss
 - **Ätiologie**
 	- **Mechanischer Ileus**
 		- *Verlegung:* ==[[Tumor]]==, Kotstein, [[Invagination]], Fremdkörper, Gallenstein

@@ -2,7 +2,6 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Gastroenterologie, Fach/Genetik]
 title: Hämochromatose
 ---
-### Hämochromatose / Hämosiderose 
 > Häufige ==[[Eisen]]-[[Stoffwechseldefekte]]==
 - **Ätiologie**
 	- **Primär/Hereditär**:: *"Hämochromatose"* (autosomal-rezessiv, [[Inzidenz]] 1:1.000) mit variabler Penetranz

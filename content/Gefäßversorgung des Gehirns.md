@@ -2,7 +2,6 @@
 tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie]
 title: Gefäßversorgung des Gehirns
 ---
-#### Gefäßversorgung des Gehirns
 - **Arterien**
 	- *Zuführend:* [[A. carotis interna]], [[A. vertebralis]]
 	- *[[Circulus arteriosus cerebri]]*

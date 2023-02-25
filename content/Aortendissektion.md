@@ -6,7 +6,7 @@ title: Aortendissektion
 - **Epidemiologie**
 	- *Lokalisation:* 60% Aorta ascendens, 10% Aortenbogen, 20% descendens, 10% abdominalis
 - **Ätiologie**
-	- *[[Kardiovaskuläre Risikofaktoren]]:* [[Hypertonie]], [[Atherosklerose]], Amphetamine, Kokain
+	- *[[Kardiovaskuläre Risikofaktoren]]:* [[Hypertonie]], [[Atherosklerose]], Amphetamine, [[Kokain]]
 	- *[[Genetische Erkrankungen]]:* [[Marfan-Syndrom]], [[Ehlers-Danlos-Syndrom]], [[Turner-Syndrom]], Bikuspide Aortenklappe
 	- *Sonstige:* [[Vaskulitis]], [[OP]], Trauma
 - **Klassifikation**

@@ -20,4 +20,4 @@ Histologie|Transmuraler Befall (→ Fisteln), Granulome, Riesenzellen|Nur (Sub-)
 	- **Bildgebung**:: Coloskopie mit Biopsie, [[Sonographie]], ÖGD
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei Patienten mit chronisch-entzündlichen Darmerkrankungen (Morbus Crohn, Colitis ulcerosa) soll eine langfristige systemische Corticosteroidtherapie als Rezidivprophylaxe nicht durchgeführt werden.
+- *DGIM Klug entscheiden*:: Bei Patienten mit chronisch-entzündlichen Darmerkrankungen (Morbus Crohn, [[Colitis ulcerosa]]) soll eine langfristige systemische Corticosteroidtherapie als Rezidivprophylaxe nicht durchgeführt werden.

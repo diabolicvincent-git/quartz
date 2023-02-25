@@ -10,7 +10,7 @@ title: Gliazellen
 	- ==[[Astrocyten]]==
 	- **[[Oligodendrocyten]]**:: Myelinisierung
 	- **[[Mikroglia]]**:: Phagocytose (= [[Makrophagen]])
-	- **[[Ependymzellen]]**:: Epithel der [[Ventrikelsystem]], [[Plexus chorioideus]]
+	- **[[Ependymzellen]]**:: [[Epithel]] der [[Ventrikelsystem]], [[Plexus chorioideus]]
 	- **Radiärglia**:: Leitstruktur für [[Gehirn]]-Entwicklung[^2]
 - **Pathologien**:: Hohe Proliferationsrate → Hirntumore ([[Gliome]])
 

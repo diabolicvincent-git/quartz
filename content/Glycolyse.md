@@ -2,7 +2,6 @@
 tags: [Modul/m02, Fach/Biochemie]
 title: Glycolyse
 ---
-### Glycolyse
 > [[Glucose]] → Pyruvat + 2 [[ATP]] + 2 NADH+H+
 - **Ort**:: [[Cytosol]] aller [[Zellen]]
 - **Schlüsselenzyme**:: Hexokinase, Phosphofructokinase 1, Pyruvatkinase

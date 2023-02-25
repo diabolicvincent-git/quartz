@@ -2,8 +2,7 @@
 tags: [Modul/m13, Fach/Biochemie/Molekül]
 title: CO2
 ---
-#### Kohlenstoffdioxid / CO2
-> Farb-, geruch und geschmackloses Gas
+> **Kohlenstoffdioxid.** Farb-, geruch und geschmackloses Gas
 - **Ätiologie**:: Gärungsprozesse (z.B. Getreidesilo, Brunnen, Jauchegrube)
 - **Wirkung**
 	- *<0.3% (Atemluft):* Keine Gefahr

@@ -2,8 +2,7 @@
 tags: [Modul/m14, Modul/m17, Fach/Nephrologie, Fach/Rheumatologie]
 title: Granulomatose mit Polyangiitis
 ---
-### Granulomatose mit Polyangiitis 
-> Nekrotisierende granulomatöse [[Vaskulitis]], i.d.R. Erstmanifestation oberer-unterer Respirationstrakt
+> Nekrotisierende granulomatöse [[Vaskulitis]], i.d.R. Erstmanifestation oberer-unterer Respirationstrakt. Alt: M. Wegener
 - **Symptome**:: Nasale/orale Entzündung mit Ulcerationen u/o eitrig-blutigem Ausfluss
 - **Diagnostik**:: ==[[cANCA]]==
 	- Nephritisches Urinsediment (Erythrocyturie, Erythrocytenzylinder)

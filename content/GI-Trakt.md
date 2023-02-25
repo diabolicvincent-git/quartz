@@ -2,7 +2,7 @@
 tags: [Modul/m12, Fach/Gastroenterologie, Fach/Anatomie]
 title: GI-Trakt
 ---
-### Gastrointestinaltrakt / GI-Trakt
+> Gastrointestinaltrakt
 - **Einteilung**
 	- **Oberer GI-Trakt**
 		- [[Ösophagus]]
@@ -63,7 +63,7 @@ title: GI-Trakt
         - Anzahl Paneth-Zellen nimmt zu
 - **[[Colon]]**
     - **[[Colon]] und [[Caecum]]**
-        - Epithel: Viele *Becherzellen* ([[Sekretion]])*, Colonocyten* ([[Wasser]]- & NaCl-Resorbtion)
+        - [[Epithel]]: Viele *Becherzellen* ([[Sekretion]])*, Colonocyten* ([[Wasser]]- & NaCl-Resorbtion)
             - Hohe Dichtigkeit der Tight junctions
         - Keine Zotten mehr, nur noch Krypten
         - Tela submucosa: Viele Lymphfollikel
@@ -72,7 +72,7 @@ title: GI-Trakt
         - Tunica muscularis: Gleichmäßiges Str. longitudinale, keine Tänien
         - Sehr viele Lymphfollikel
     - **[[Rektum]]**
-        - Epithel: Ähnlich des Dickdarms
+        - [[Epithel]]: Ähnlich des Dickdarms
     - **Analkanal**
         - Zona columnaris: Abwechselnd Zylinderepithel und mehrschichtiges unverhorntes Plattenepithel ("Zona transitionalis")
             - Endet an Linea dentata

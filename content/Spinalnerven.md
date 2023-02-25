@@ -39,7 +39,7 @@ Verlassen Wirbelkanal seitlich via Foramen *intervertebrale* jeweils unterhalb "
 - [[Meningen]]
 
 ### ==Ramus communicans albus==
-- Zu autonomen Ganglien (z.B. sympathischer Grenzstrang), von dort aus weiter als R. communicans griseus
+- Zu autonomen [[Ganglien]] (z.B. sympathischer Grenzstrang), von dort aus weiter als R. communicans griseus
 
 ## Radikuläre Innervation
 ![[Dermatome]]

@@ -10,7 +10,7 @@ title: Adrenogenitales Syndrom
 		- *Einteilung n. Prader I-V*
 	- **[[M]]**:: Postnatal unauffällig, Pseudopubertas praecox, vergrößerter [[Penis]], kleine [[Hoden]], hyperpigmentiertes Skrotum[^4]
 	- Schnelles, aber verfrüht endendes Wachstum
-	- **Salzverlustsyndrom**:: Schwerer Hypoaldosteronismus (Hyponatriämie, [[Hyperkaliämie]], [[Azidose]], [[Exsikkose]])
+	- **Salzverlustsyndrom**:: Schwerer Hypoaldosteronismus ([[Hyponatriämie]], [[Hyperkaliämie]], [[Azidose]], [[Exsikkose]])
 - **Diagnostik** ([[Blut]]- und [[Urindiagnostik]])
 	- *==17-Hydroxyprogesteron==*↑[^5] (erweitertes [[Neugeborenenscreening]])
 - **DD**:: Hypertrophe Pylorusstenose

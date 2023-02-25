@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie]
 title: Hypophysenvorderlappeninsuffizienz
 ---
-### Hypophysenvorderlappeninsuffizienz / Hypopituitarismus / M. Simmonds
+> **Hypopituitarismus / M. Simmonds.**
 - **Ätiologie**:: *[[Tumor]]* (insb. ==[[Hypophysenadenom]]==), *Trauma*, *Vaskulär* (z.B. [[Aneurysma]], Sinus-cavernosus-Thrombose), *[[Entzündung]]* ([[Tbc]]), *[[Autoimmunität]]* (z.B. [[Sarkoidose]]), *==[[Sheehan-Syndrom]]==*
 - **Pathophysiologie**:: Hormonausfall der [[Adenohypophyse]] in Reihenfolge ==[[GH]] → [[LH]]/[[FSH]] → [[TSH]] → [[ACTH]]==[^4]
 - **Symptome**

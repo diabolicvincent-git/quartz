@@ -2,8 +2,7 @@
 tags: [Modul/m16, Fach/Ophthalmologie, Art/Pathologie]
 title: Glaukom
 ---
-### Glaukom / Grüner Star
-> Akuter (*Winkelblockglaukom*) oder chronischer (*Offenwinkelglaukom*) [[Augeninnendruck]]↑↑ 
+> **Grüner Star.** Akuter (*Winkelblockglaukom*) oder chronischer (*Offenwinkelglaukom*) [[Augeninnendruck]]↑↑ 
 - **Epidemiologie**:: 20% der Erblindungen
 - **Pathophysiologie**:: Abflussstörung in Trabekelwerk und/oder Kammerwinkel
 - **Symptome**:: ==Bei chronischem Glaukom oft übersehen==

@@ -2,7 +2,6 @@
 tags: [Modul/m14, Fach/Nephrologie, Fach/Kardiologie, Art/Pathologie]
 title: Exsikkose
 ---
-### Exsikkose
 > Symptomatische [[Dehydratation]]
 - **Ätiologie**
 	- **Flüssigkeitsverlust**:: *Renal* ([[Polyurie]] bei [[Nierenversagen]], [[CKD]], [[Diuretika]], [[Hyperglycämie]], [[Diabetes insipidus]]), *Extrarenal* (Erbrechen, Diarrhoe, [[Verbrennung]], [[Fieber]], Schwitzen, [[Aszites]])

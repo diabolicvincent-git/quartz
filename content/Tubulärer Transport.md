@@ -9,7 +9,7 @@ title: Tubulärer Transport
 	- Intermediärtubulus: (1) AQP1 (2) [[Wasser]]-impermeabel
 	- Distaler Tubulus pars recta: NKCC2, ROMK, lumenpositives Potential
 - **[[Distales Nephron]]**:: [[Hormon]]-regulierte *Feinabstimmung*
-	- Früh: [[Na+]]/[[Cl-]] Cotransporter (Aldosteron), ECaC (Calcitriol)
+	- Früh: [[Na+]]/[[Cl-]] Cotransporter (Aldosteron), ECaC ([[Calcitriol]])
 	- Spät: AQP2 ([[ADH]]), ENaC, ROMK (Aldosteron), A: H+, B: [[HCO3-]]
 ---
 

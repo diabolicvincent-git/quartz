@@ -52,7 +52,7 @@ Tr. corticospinalis lateralis und anterior, Tr. vestibulospinalis, Tr. rubrospin
 - **Vorderhorn**
     - Größte Zellen: α-Motoneuron
 
-## Ganglien
+## [[Ganglien]]
 
 - **Spinalganglien**
     - Große Perikaryen, zusammengeclustert
@@ -61,7 +61,7 @@ Tr. corticospinalis lateralis und anterior, Tr. vestibulospinalis, Tr. rubrospin
     - Pseudounipolar (max. ein Fortsatz, Dendrit und [[Axon]] verschmelzen) → Information läuft direkt durch![[Untitled 2 15.png]]
 
     - Gruppen von myelinisierten [[Axon]]
-- **Autonome Ganglien**
+- **Autonome [[Ganglien]]**
     - Kleinere Somata, randständiger Zellkern, verstreut
     - Kaum Mantel- und Satellitenzellen; [[Axon]] kaum myelinisiert
     - Multipolar (mehrere Fortsätze) → Synaptische Verschaltung

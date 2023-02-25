@@ -2,7 +2,7 @@
 tags: [Modul/m14, Fach/Nephrologie, Mythbusting/DGIM-Klug-entscheiden]
 title: CKD
 ---
-### Chronische Nierenerkrankung / CKD
+> **Chronische Nierenerkrankung.**
 > Irreversible Abnahme der [[Nierenfunktion]] über >3 Monate (e[[GFR]] <60)
 - **Ätiologie**
 	- *[[Metabolisches Syndrom]]:* [[Diabetische Nephropathie]], [[aHTN]]

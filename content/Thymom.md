@@ -23,5 +23,5 @@ title: Thymom
 	- **[[Biopsie]]**
 - **Klassifikation**
 	- *A:* [[Epithel]] oval, ähnlich medullärem Thymusepithel
-	- *B:* Epithel rund/vieleckig, ähnlich corticalem Thymusepithel
+	- *B:* [[Epithel]] rund/vieleckig, ähnlich corticalem Thymusepithel
 	- *C:* Thymuskarzinom

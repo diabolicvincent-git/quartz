@@ -8,7 +8,7 @@ title: Prostata
 	- **[[Arterien]]**:: A. rectalis media, A. pudenda interna, A. vesicalis inferior je aus A. iliaca interna
 	- **Lymphe**:: Nll. iliaci interni/externi
 - **Histologie**
-	- *Parenchym:* Tubuloalveoläre Drüsen, Epithel einschichtig kubisch bis mehrreihig hochprismatisch
+	- *Parenchym:* Tubuloalveoläre Drüsen, [[Epithel]] einschichtig kubisch bis mehrreihig hochprismatisch
 		- *Prostatasteine:* 2 mm große, luminale Konkremente
 	- *[[Stroma]]:* Fibrocyten, [[Glatte Muskulatur]] (Kontraktion bei [[Ejakulation]])
 	- *Capsula*

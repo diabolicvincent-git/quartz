@@ -2,7 +2,6 @@
 tags: [Modul/m19, Fach/Genetik, Fach/Biochemie]
 title: DNA-Schäden
 ---
-### [[DNA]]-Schäden
 > Täglich 55.000 Einzelstrangbrüche und 9 Doppelstrangbrüche pro [[Zellen]]
 - **Endogene Ursachen**
     - **[[Replikation]]sfehler**:: Fehleranfälligkeit der [[DNA]]-Polymerase bei Repeats, Keto-Enol-Tautomerie des Thymin

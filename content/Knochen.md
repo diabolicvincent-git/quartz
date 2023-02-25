@@ -2,7 +2,6 @@
 tags: [Modul/m05, Modul/m10, Fach/Anatomie, Fach/Orthopädie]
 title: Knochen
 ---
-### Knochen
 - **Funktion**:: Stützung, Schutz, Speicher ([[Ca2+]]), [[Hämatopoese]]
 - **Abschnitte** (Röhrenknochen)
 	- **Epiphyse**

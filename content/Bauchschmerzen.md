@@ -34,7 +34,7 @@ DD 3. [[Extrauteringravidität]]
 - Befund: einseitige Abwehrspannung, Portioschiebeschmerz, Schmierblutungen  
 - Regelanamnese: Amenorrhö (6-8 Wochen), hCG positiv  
 - Temperatur: normal bis gering erhöht  
-- Labor: hCG positiv, Hb-Abfall, Leukozyten meist nicht erhöht  
+- Labor: hCG positiv, [[Hb]]-Abfall, Leukozyten meist nicht erhöht  
 - [[Sonographie]]: "leerer [[Uterus]]", extrauterine Fruchtblase, freie Flüssigkeit
 
 

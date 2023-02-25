@@ -2,7 +2,6 @@
 tags: [Modul/m22, Fach/Anatomie, Fach/Gynäkologie, Fach/Urologie, Fach/Pädiatrie]
 title: Geschlechtsmerkmale
 ---
-### Geschlechtsmerkmale
 - **Primäre Geschlechtsmerkmale** = [[Geschlechtsorgane]]
 - **Sekundäre Geschlechtsmerkmale** (Entwicklung in der [[Pubertät]])
 	- **[[W]]**

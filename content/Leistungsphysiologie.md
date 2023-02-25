@@ -238,7 +238,7 @@ title: Leistungsphysiologie
 - **Zunahme der Fettutilisation** je Belastungsstufe (spart [[Glycogen]] für höhere Belastungen)
 - Zunahme von oxidativen Enzymen, [[Mitochondrien]] und ggf. Transformation von Typ IIx in Typ IIa und Typ I Fasern
 - Insg. gesteigerte [[O2]]-Utilisation (Zunahme der VO₂max) mit Zunahme der Dauerleistungsgrenze („Rechtsverschiebung“ der Kurve der Blutlactatkonzentration)
-- Zunahme des Ruheenergieumsatzes durch gesteigerte Körperzellmasse bei verringerter Fettmasse, sowie gesteigerten Energieumsatz nach Training (EPOC)
+- Zunahme des Ruheenergieumsatzes durch gesteigerte Körperzellmasse bei verringerter Fettmasse, sowie gesteigerten [[Energieumsatz]] nach Training (EPOC)
 
 ### Kurzfristige Anpassungsreaktionen beim Wechsel von Ruhe zu Belastung
 

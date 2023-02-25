@@ -12,7 +12,7 @@ title: Dyslipidämie
 		- [[Schwangerschaft]]
 		- Medikamente ([[Gestagene]], [[Androgene]], Proteasehemmer)
 	- **Hypertriglyceridämie**
-		- Fehlernährung (Fructose, leicht verdauliche Kohlenhydrate)
+		- Fehlernährung (Fructose, leicht verdauliche [[Kohlenhydrate]])
 		- Erkrankungen ([[Adipositas]], [[DMT2]], [[Metabolisches Syndrom]], [[CKD]], Leberinsuffizienz, [[Hypothyreose]], [[Cushing-Syndrom]])
 		- [[Schwangerschaft]]
 		- [[Alkohol]]

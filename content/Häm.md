@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Biochemie, Fach/Hämatologie]
 title: Häm
 ---
-### Häm
 > Bestandteil des [[Hb]]
 - **[[Häm]]-Synthese**
 	- **Ort**:: v.a. Erythroblasten ([[Hb]]) und Hepatocyten (CytC)

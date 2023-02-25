@@ -8,4 +8,4 @@ title: Cholelithiasis
 - **Einteilung**
 	- **[[Cholecystolithiasis]]**:: Steine in der Gallenblase
 	- **Choledocholithiasis**:: Steine im Ductus choledochus
-- **Komplikationen**:: [[Cholecystitis]], Cholangitis
+- **Komplikationen**:: [[Cholecystitis]], [[Cholangitis]]

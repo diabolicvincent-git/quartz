@@ -100,6 +100,6 @@ Zweifaches Signal: *RANKL* & *M-CSF* im Verhältnis zu Gegenspieler *OPG*
 	- [[Wachstumsfaktoren]]
 	- [[Schilddrüsenhormone]]
 	- [[PTH]] → RANKL
-	- Calcitriol → RANKL
+	- [[Calcitriol]] → RANKL
 	- [[Calcitonin]] +
 	- [[Östrogene]] → Osteoprotegerin

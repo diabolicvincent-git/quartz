@@ -2,7 +2,7 @@
 tags: [Modul/m22, Fach/Urologie, Art/Pathologie]
 title: BPH
 ---
-### Benignes Prostatasyndrom / BPS
+> Benignes Prostatasyndrom
 - **Symptome**:: Miktionsbeschwerden
 	- *Blasenspeicherstörung:* ==Pollakisurie==, Nykturie, Dysurie, imperativer Harndrang
 	- *Blasenentleerungsstörung:* Verzögerter Miktionsbeginn, abgeschwächter/unterbrochener Harnstrahl, "Nachträufeln", Miktionszeit↑, Restharngefühl, Überlaufinkontinenz

@@ -9,7 +9,7 @@ title: Bildgebung Bewegungsapparat
         - **Synchondrose**:: Hyaliner [[Knorpel]], v.a. Druck (z.B. zwischen Rippen & Brustbein)
             - **Synosthose**:: Verknöcherung im Rahmen des Wachstums
         - **Symphyse**:: Faserknorpel, v.a. Druck (z.B. zwischen Schambeinen, Bandscheiben)
-    - **Diarthrosen (echte Gelenke)**:: Diskontinuierliche Knochenverbindungen mit Gelenkspalt → Bewegungsumfang in Abhängigkeit des Bandapparats
+    - **Diarthrosen (echte [[Gelenke]])**:: Diskontinuierliche Knochenverbindungen mit Gelenkspalt → Bewegungsumfang in Abhängigkeit des Bandapparats
         - **Amphiarthrose**:: Diarthrose mit starker Bewegungseinschränkung durch Bänder für Stabilität (z.B. Iliosacralgelenk)
         - **Hilfseinrichtungen**
             - Ligamenta

@@ -2,8 +2,7 @@
 tags: [Modul/m22, Fach/Gynäkologie, Fach/Anatomie]
 title: Cervix
 ---
-### Cervix / Gebärmutterhals
-> Unteres ⅓ des **[[Uterus]]**
+> **Gebärmutterhals.** Unteres ⅓ des *[[Uterus]]*
 - **Aufbau**
 	- **Portio supravaginalis cervicis**:: Intrauteriner Abschnitt mit innerem Gebärmuttermund
 	- **Canalis cervicis uteri / Cervixkanal**:: 2-3 cm zwischen innerem und äußerem Gebärmuttermund

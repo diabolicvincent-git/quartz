@@ -2,7 +2,6 @@
 tags: [Modul/m26, Fach/Chirurgie, Fach/Gastroenterologie]
 title: Hämorrhoiden
 ---
-### Hämorrhoiden
 > Vergrößerung des ==arteriellen== **[[Corpus cavernosum recti]]**
 - **Symptome**
 	- Transanale Blutung; Schleimabgang mit Pruritus, Brennen, Nässen

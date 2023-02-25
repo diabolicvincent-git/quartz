@@ -2,7 +2,6 @@
 tags: [Modul/m08, Fach/Hämatologie, Fach/Physiologie]
 title: Gerinnungsfaktoren
 ---
-### Gerinnungsfaktoren
 > [[Proteine]] die proteolytisch aktiviert zur **[[Sekundäre Hämostase]]** führen
 - **I** Fibrinogen → **Ia** Fibrin
 - **II** Prothrombin → **IIIa** Thrombin
