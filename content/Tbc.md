@@ -2,8 +2,9 @@
 tags: [Modul/m18, Art/Pathologie, Art/Pathologie, Fach/Pneumologie, Fach/Infektiologie]
 title: Tbc
 ---
-> (Abstract::**Tuberkulose.**)
+> (Abstract::**Tuberkulose.** Alt: Weiße Pest.)
 - **Epidemiologie**:: 25% latent infiziert, tödlichste Infektionskrankheit weltweit
+	- #FunFact 16.-19. Jh. 25% aller Todesfälle in Europa durch Tbc
 - **Ätiologie**
 	- **Risikofaktoren**:: ==[[HIV]]/[[AIDS]]==
 	- **Erreger**:: *Mycobacterium tuberculosis*, seltener andere [[Mycobakterien]], teils [[MRE]]

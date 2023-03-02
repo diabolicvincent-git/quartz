@@ -1,4 +1,5 @@
 ---
+title: Metformin
 ---
 > (Abstract::**[[Antidiabetika]] > Biguanide.** ==1st-line bei [[Diabetes mellitus]]==. Nicht insulinotrop.)
 - **Wirkmechanismus**:: Blockade [[Atmungskette]] → kompensatorisch anaerobe [[Glycolyse]]↑

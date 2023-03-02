@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m02, Modul/m17, Fach/Genetik, Art/Pathologie]
-title: Phenylketonurie
+title: Phenylketonurie (PKU)
 ---
 - **Epidemiologie**:: Häufigster angeborener [[AS]]-[[Stoffwechseldefekte]]
 - **Pathophysiologie**

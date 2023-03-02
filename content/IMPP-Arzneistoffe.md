@@ -35,7 +35,7 @@ title: IMPP-Arzneistoffe
 - **[[Glycopeptide]]**:: Teicoplanin, Vancomycin
 - **Lincosamide**:: Clindamycin
 - **Lipopeptide**:: Daptomycin
-- **[[Makrolide]]**:: Azithromycin, Clarithromycin
+- **[[Makrolide]]**:: [[Azithromycin]], Clarithromycin
 - **Monobactame**:: Aztreonam
 - **Nitrofuran-Derivate**:: Nitrofurantoin
 - **Nitroimidazole**:: Metronidazol

@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m22, Fach/Endokrinologie, Art/Pathologie, Fach/Rheumatologie]
-title: PAS
+title: Polyendokrines Autoimmunsyndrom (PAS)
 ---
 > [[Autoimmunität]] gegen verschiedene endokrine Organe → Insuffizienz. Auch: Polyglanduläre Insuffizienz, Schmidt-Syndrom, APECED-Syndrom.
 - **Epidemiologie**:: 50% aller autoimmun-verursachten [[NNR-Insuffizienz]]

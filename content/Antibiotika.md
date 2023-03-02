@@ -42,7 +42,7 @@ Gruppe|Subgruppe|Präparat|grampos.|gramneg.|sonst.|Indikation|CAVE|SS|U18|WM
 [[Carbapeneme]]||Imipenem, Meropenem, Ertapenem|🟢|🟡 inkl. ESBL, Pseud.||Reserve|Kreuzallergie? [[UAW]] Neurotox.|❔||1
 [[Fluorchinolone]]|Gruppe I+II|Norfloxacin, Ciprofloxacin|🔴|🟡 auch Pseud.|||Hepatotox., ==Neurotox.==, longQT, CYP1A2-Inhibit., [[Glucose]]↑↓, ==Bindegewebstox.==[^3], KI [[Epilepsie]]|🔴|🔴|3
 [[Fluorchinolone]]|Gruppe III+IV|Levifloxacin, Moxifloxacin|🟢|🟢|Anaerobier||s. I+II|🔴|🔴|3
-[[Makrolide]]||Erythromycin, Azithromycin, Clarithromycin|🟠|🟠|[[Intrazelluläre Erreger]][^1], bakteriostat.|[[Pneumonie]] (Kombi), [[HNO]]-Infekt.|CYP3A4-Inhibit., Hepatotox., longQT|🟢||2
+[[Makrolide]]||Erythromycin, [[Azithromycin]], Clarithromycin|🟠|🟠|[[Intrazelluläre Erreger]][^1], bakteriostat.|[[Pneumonie]] (Kombi), [[HNO]]-Infekt.|CYP3A4-Inhibit., Hepatotox., longQT|🟢||2
 [[Aminoglycoside]]||Gentamycin, Streptomycin|🟡 z.B. Staph.|🟢||[[Sepsis]] (Kombi), [[Tbc]]|Nephrotox., Neurotox., Ototox.|🔴||2, 1
 [[Glycopeptide]]||Vancomycin, Teicoplanin|🟢 inkl. [[MRSA]]|🔴||[[MRSA]], Kath.-[[Sepsis]], [[Endokarditis]]|Nephrotox., Ototox., [[Anaphylaxie]]|🔴||1
 [[Tetracycline]]||Doxycyclin, Tetracyclin|🟡 insb. Strept.|🟠 insb. Neisserien|[[Intrazelluläre Erreger]][^1], bakteriostat.||Nephrotox., Hepatotox., [[Ca2+]]Komplex[^2], Phototox., [[Exanthem]]|🔴|🟠|2

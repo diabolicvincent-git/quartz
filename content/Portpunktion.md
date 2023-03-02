@@ -1,4 +1,5 @@
 ---
+title: Portpunktion
 ---
 - **Vorbereitung**:: Pat. liegend oder sitzend mit fester Rückenlehne
 - **Material**:: Desinfektionsmittel, Sterile Handschuhe, Tupfer, [[NaCl 0,9%]], 10-ml-Spritze[^1], Portkanüle, Kombistopfen, steriles Pflaster

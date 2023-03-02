@@ -8,5 +8,5 @@ title: IVIG
 	- *[[Autoimmunität]]* (z.B. [[Kawasaki-Syndrom]], Graft-vs-Host, [[Guillain-Barré-Syndrom]], Lyell-Syndrom)
 - **Wirkdauer**:: HWZ [[IgG]] 23 d
 - **[[UAW]]**
-	- [[CKD]], [[Meningitis]], [[Encephalopathie]], Embolie
+	- [[CKD]], [[Meningitis]], [[Encephalopathie]], [[Embolie]]
 	- [[Allergie]] auf IgA bei [[Selektiver IgA-Mangel]] des Empfängers

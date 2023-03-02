@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m19, Fach/Onkologie, Fach/Hämatologie]
-title: Myeloproliferative Neoplasien
+title: Myeloproliferative Neoplasien (MPN)
 ---
 > Proliferation ≥1 myeloischer Zellreihen im [[Knochenmark]] gesteigert, Differenzierung anfangs normal
 - **Entitäten**

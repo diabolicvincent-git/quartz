@@ -1,4 +1,5 @@
 ---
+title: Pyrimidin-Antagonisten
 ---
 > (Abstract::**[[Cytostatika]] > [[Antimetabolite]].**)
 - **Wirkung**:: Einbau falscher Basen → [[Replikation]]↓

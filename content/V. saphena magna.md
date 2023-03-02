@@ -1,5 +1,6 @@
 ---
 tags: [Fach/Anatomie/Leitungsbahn/Vene, Fach/Dermatologie]
+title: V. saphena magna
 ---
 - **Zuflüsse**:: Rete venosum dorsale pedis, diverse oberflächliche [[Venen]], [[Perforansvenen]]
 - **Verlauf**

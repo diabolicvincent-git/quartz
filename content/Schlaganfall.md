@@ -10,8 +10,8 @@ title: Schlaganfall
 	4. bei [[RR]] >220mmHg [[Urapidil]] 5mg [[i.v.]] (Wdh. alle 5min) bis [[RR]]↓ 15%
 ---
 - **Ätiologie**
-	- **Kardiale Embolie**:: [[Thromboembolie]] ([[VHF]]), [[Paradoxe Embolie]], septische Embolie bei [[Endokarditis]]
-	- **[[Atherosklerose]]**:: *Makroangiopathie* (arterioarterielle Embolie), *Mikroangiopathie* ([[Lakunärer Infarkt]])
+	- **Kardiale [[Embolie]]**:: [[Thromboembolie]] ([[VHF]]), [[Paradoxe Embolie]], septische [[Embolie]] bei [[Endokarditis]]
+	- **[[Atherosklerose]]**:: *Makroangiopathie* (arterioarterielle [[Embolie]]), *Mikroangiopathie* ([[Lakunärer Infarkt]])
 	- **Dissektion**:: [[A. carotis interna]], [[A. vertebralis]]
 	- **Sonstige Ursachen**:: Fettembolie, Luftembolie, Cerebrale [[Vaskulitis]]
 	- **Risikofaktoren**:: [[Metabolisches Syndrom]], ==[[aHTN]]==, ==[[VHF]]==, [[Alkohol]], ==[[Rauchen]]==, [[Polyglobulie]], [[Stress]], Alter, [[M]], Genetik

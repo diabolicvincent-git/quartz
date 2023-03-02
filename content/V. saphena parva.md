@@ -1,5 +1,6 @@
 ---
 tags: [Fach/Anatomie/Leitungsbahn/Vene, Fach/Dermatologie]
+title: V. saphena parva
 ---
 - **Zuflüsse**:: Rete venosum dorsale pedis, diverse oberflächliche [[Venen]]
 - **Verlauf**

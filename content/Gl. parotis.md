@@ -1,6 +1,6 @@
 ---
 tags: [Fach/Anatomie/Organ/Speicheldrüsen, Fach/HNO]
-title: Gl. parotidea
+title: Gl. parotis
 ---
 > (Abstract::**[[Speicheldrüsen]].**)
 - **Lage**:: Fossa retromandibularis

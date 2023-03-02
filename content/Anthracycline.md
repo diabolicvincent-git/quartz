@@ -1,4 +1,5 @@
 ---
+title: Anthracycline
 ---
 > (Abstract::**[[Cytostatika]] > [[Topoisomerase-Hemmer]].**)
 - **Wirkung**:: Interkalierung in [[DNA]] → Hemmung [[Topoisomerase]] II → [[Replikation]]↓ 

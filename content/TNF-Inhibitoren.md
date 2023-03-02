@@ -1,4 +1,5 @@
 ---
+title: TNF-Inhibitoren
 ---
 > (Abstract::**[[Immunsuppressiva]] > [[Biologicals]].**)
 - **Wirkung**:: Hemmung [[TNF]]-⍺ → proinflammatorische [[Cytokine]]↓, [[Akute-Phase-Proteine]]↓, [[Chemotaxis]]↓

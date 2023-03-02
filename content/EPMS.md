@@ -1,4 +1,5 @@
 ---
+title: EPMS
 ---
 > (Abstract::**Extrapyramidal-motorische Störungen.**)
 - **Ätiologie**:: [[DOPamin]]-D2-Blockade (==[[Typische Antipsychotika]]==)

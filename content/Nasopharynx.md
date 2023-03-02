@@ -1,4 +1,5 @@
 ---
+title: Nasopharynx
 ---
 > Auch: Pars nasalis pharyngis, Epipharynx
 - **Begrenzungen**

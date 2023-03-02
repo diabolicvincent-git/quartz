@@ -24,7 +24,7 @@ title: Kontrazeption
 		- *Periphere [[Gestagene]]-Wirkung:* Endometrium-Proliferation↓, [[Cervix]]-Sekret-Verdickung (Hemmung Spermienaszension und Nidation)
 	- **[[UAW]]**
 		- [[Schwindel]], [[Kopfschmerzen]], [[Ödeme]], Übelkeit, Brustspannen, [[Depression]], Hautreaktion, Libido↑↓, Soorkolpitis, ~~Gewichtszunahme~~
-		- ==[[Thrombose]]/Embolie==
+		- ==[[Thrombose]]/[[Embolie]]==
 		- [[Cervix-Ca]]-[[Risiko]]↑, [[Mamma-Ca]](?), [[Colorektales Ca]]↓, Ovarial-/Endometrium-Ca↓ 
 	- **KI** (ggf. ausweichen auf [[Gestagene]]-Präparate)
 		- *Absolute KI:* [[Hypertonie]], [[Vitien]], [[BMI]] >40, [[Migräne]](?), [[KHK]], [[Blutungsneigung]], [[Tumor]]

@@ -1,4 +1,5 @@
 ---
+title: Mitosehemmer (Spindelgifte)
 ---
 > (Abstract::**[[Cytostatika]].**)
 - **Entitäten**

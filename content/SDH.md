@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m15, Fach/Neurologie, Art/Pathologie]
-title: Subduralhämatom
+title: SDH
 ---
 > (Abstract::**Subduralhämatom.** Venöse [[Intrakranielle Blutung]] im [[Subduralraum]].)
 - **Ätiologie**:: ==Hohes Alter, [[Alkohol]]==[^1], [[Gerinnungshemmung]]

@@ -1,4 +1,5 @@
 ---
+title: SGLT2-Inhibitoren
 ---
 > (Abstract::**[[Antidiabetika]].**)
 - **Wirkung**:: Renale [[Glucose]]-Rückresorption↓, kardioprotektiv bei [[Herzinsuffizienz]]

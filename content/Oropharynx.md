@@ -1,4 +1,5 @@
 ---
+title: Oropharynx
 ---
 > Auch: Pars oralis pharyngis, Mesopharynx
 - **Begrenzungen**

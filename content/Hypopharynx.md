@@ -1,4 +1,5 @@
 ---
+title: Hypopharynx
 ---
 > Auch: Pars laryngea pharyngis, Laryngopharynx
 > Ventrale Verbindung zum [[Larynx]] und kaudaler Übergang in den [[Ösophagus]]

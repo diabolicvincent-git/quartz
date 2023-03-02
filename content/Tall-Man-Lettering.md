@@ -2,6 +2,7 @@
 tags: [Fach/Pharmakologie]
 title: Tall-Man-Lettering
 ---
+> Empfehlung der DIVI.
 - [[aDENOsin]]
 - [[aJMALin]]
 - [[aMIOdaron]]

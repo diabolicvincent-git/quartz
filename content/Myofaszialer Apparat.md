@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m10, ToDo, Fach/Physiologie, Fach/Anatomie, Fach/Histologie]
-title: Muskelarchitektur & Myofaszialer Apparat
+title: Myofaszialer Apparat
 ---
 ## die verschiedenen Muskelformen (platter, spindelförmiger-, mehrbäuchigerMuskel) exemplarisch beschreiben
 

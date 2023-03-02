@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m25, Fach/Kardiologie, Fach/Pädiatrie, Art/Pathologie]
-title: Persistierender Ductus arteriosus Botalli
+title: Persistierender Ductus arteriosus Botalli (PDA)
 ---
 - **Pathophysiologie**
 	- Physiologischer Schluss des [[Ductus arteriosus Botalli]] postnatal

@@ -1,4 +1,5 @@
 ---
+title: Taxane
 ---
 > (Abstract::**[[Cytostatika]] > [[Mitosehemmer (Spindelgifte)]].**)
 - **Wirkung**:: [[Mikrotubuli]]-Stabilisierung → [[Spindelapparat]]↓ → Mitose-Arrest

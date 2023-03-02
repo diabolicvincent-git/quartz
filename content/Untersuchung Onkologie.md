@@ -30,7 +30,7 @@ title: Untersuchung Onkologie
 	- [[Nephrolithiasis]]
 	- Urogenital-[[Tbc]]
 	- [[Prostata]]-Varizen
-	- [[Nierenarterienstenose]]/-embolie
+	- [[Nierenarterienstenose]]/-[[embolie]]
 	- Bauch-Trauma
 	- [[Hämorrhagische Diathese]] / [[Blutungsneigung]]
 - **Paradoxe [[Diarrhoe]]**:: Wechsel von Obstipation und [[Diarrhoe]][^1]

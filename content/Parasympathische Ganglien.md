@@ -1,3 +1,6 @@
+---
+title: Parasympathische Ganglien
+---
 ## Paraphilie
 - **Exhibitionismus**:: Eigenes Entblößen vor Fremden löst Erregung aus
 - **Voyeurismus**:: Beobachtung anderer beim Sex

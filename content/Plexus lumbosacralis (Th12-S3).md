@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m10, Fach/Anatomie, Fach/Orthopädie, Fach/Neurologie]
-title: Plexus lumbosacralis
+title: Plexus lumbosacralis (Th12-S3)
 ---
 > Rr. anteriores der [[Spinalnerven]] Th12 - S3
 - **Plexus lumbalis**:: Th12 - L4
