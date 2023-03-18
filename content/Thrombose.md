@@ -2,7 +2,7 @@
 tags: [Modul/m17, Art/Pathologie, Fach/Hämatologie, Fach/Kardiologie, Art/Pathologie, Mythbusting/DGIM-Klug-entscheiden]
 title: Thrombose
 ---
-> Phlebothrombose / TVT 
+> Phlebothrombose / [[TVT]] 
 - **Ätiologie**
 	- **Erworben** mit div. Risikofaktoren / Auslösern
 	- **Hereditär**:: [[Thrombophilie]] (autosomal-dominant) → Rezidivrisiko!
@@ -33,7 +33,7 @@ title: Thrombose
 
 ## Ätiologie
 ### Risikofaktoren
-- Positive *[[Anamnese]]* auf TVT/[[LAE]] (x30)
+- Positive *[[Anamnese]]* auf [[TVT]]/[[LAE]] (x30)
 - *Immobilisation*, z.B. OP, Langstreckenflug, eingeschränkte Mobilität (x20)
 - [[Adipositas]]
 - Alter >60 J.
@@ -68,8 +68,7 @@ title: Thrombose
 - Bei Über-[[Kopf]]-Arbeiten
 - Bei Katheter-assoziierter [[Infektionen]]
 
-### Sinusvenenthrombose
-- insb. junge Frauen
+- [[Sinusvenenthrombose]]
 
 ### Mesenterialvenen-/Pfortaderthrombose
 - Assoziation mit Myeloproliferatives Syndrom (MPS)

@@ -13,4 +13,6 @@ title: Infarktlokalisation
 |[[LCA]]|[[RCX]] (proximal)|Posteriorer Hinterwandinfarkt|III, aVF, V7-V9|V1-V4|
 |[[RCA]]||Inferiorer Hinterwandinfarkt[^1]|II, III, aVF, V6|V1-V4, I, aVL|
 
+---
+![[Pasted image 20230303114354.png]]
 [^1]: Ausgehend vom [[Normalversorgungstyp]]

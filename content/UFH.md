@@ -13,7 +13,7 @@ title: UFH
 	- [[Applikation]] nur [[i.v.]]
 - Applikation:: [[i.v.]], [[s.c.]]
 - Dosis:: 5.000-10.000 IE [[i.v.]] Bolus + 15-20 IE/kg/h (therapeutisch)
-- Indikation:: Therapeutische Antikoagulation ([[Thrombose]], [[LAE]], [[VHF]], Herzklappenersatz), Thromboseprophylaxe, [[ACS]]
+- Indikation:: Therapeutische Antikoagulation ([[Thrombose]], [[LAE]], [[VHF]], Herzklappenersatz), [[Thromboseprophylaxe]], [[ACS]]
 - UAW:: [[HIT]] II
 - KI:: [[Blutungsneigung]], [[Abort]], bakterielle [[Endokarditis]]
 - Antidot:: [[Protamin]]

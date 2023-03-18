@@ -98,7 +98,7 @@ WHERE contains(tags, "a/Pathologie")
 - [[Bewegungsstörungen]]
 	- [[Tremor]]
 	- [[Parkinson-Syndrom]]
-	- [[Restless-Leg-Syndrom]]
+	- [[Restless-Legs-Syndrom]]
 	- [[Tic-Störungen]]
 	- [[Kleinhirnsyndrom]]
 		- [[Dysmetrie]]

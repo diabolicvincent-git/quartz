@@ -2,7 +2,7 @@
 tags: [Modul/m19, Fach/Onkologie, Fach/Physiologie]
 title: Tumorentstehung
 ---
-> (Abstract::Karzinogenese)
+> (Abstract::**Karzinogenese.**)
 - **Ätiologie**
 	- Genetische Prädisposition (5%)
 	- Spontane [[Mutation]] (15%)
@@ -36,7 +36,7 @@ title: Tumorentstehung
 - Schistosomiasis, Urocystitis, Bilharziose → Blasenkarzinom
 
 ### [[Onkogene]] chronische Gewebsschädigung
-- Refluxösophagitis / [[Barrett-Ösophagus]] → [[Ösophagus]]-Adenokarzinom
+- [[Refluxösophagitis]] / [[Barrett-Ösophagus]] → [[Ösophagus]]-Adenokarzinom
 - [[Rauchen]], Asbest → [[Lungen-Ca]]
 - Asbest → Mesotheliom
 

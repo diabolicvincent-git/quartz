@@ -13,6 +13,9 @@ title: i.o.
 		- Arm beugen und [[Hand]] auf Abdomen fixieren
 		- Punktionsrichtung 45° nach posterior, medial und kaudal
 		- Immer große, gelbe Punktionsnadel
+---
+![[Pasted image 20230307124527.png]]
+---
 ## SOP
 ### Proximale Tibia
 ![[Pasted image 20221023185520.png]]

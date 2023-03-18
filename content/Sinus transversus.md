@@ -1,7 +1,7 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m15, Fach/Neurologie/Sinus-durae-matris, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus transversus
 ---
-Sinus|Zufluss|Abfluss|Charakteristika
--|-|-|-
-**[[Sinus transversus]]** (x2)|[[Confluens sinum]]|re.+li. [[Sinus sigmoideus]]
+> Paarig
+- **Zufluss**:: [[Confluens sinum]]
+- **Abfluss**:: re.+li. [[Sinus sigmoideus]]

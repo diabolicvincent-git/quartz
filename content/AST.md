@@ -4,9 +4,6 @@ title: AST
 ---
 > (Abstract::**Aspartataminotransferase.** Auch: ASAT, GOT.)
 - **Funktion**:: [[Transaminierung]], [[Malat-Aspartat-Shuttle]]
-- **Charakteristika**
-	- Vorkommen in [[Leber]], [[Herz]], [[Muskel]], [[Erythrocyten]]
-	- Lokalisation auch in [[Mitochondrien]] (nur bei schwerer Schädigung betroffen)
+- **Vorkommen**:: [[Leber]], [[Herz]], [[Muskel]], [[Erythrocyten]]
+- **Lokalisation**:: ==In [[Mitochondrien]] (nur bei schwerer Schädigung betroffen)==
 - **↑** Leberschädigung (insb. schwer), [[Rhabdomyolyse]], [[OMI]]
----
-siehe [[ALT]]

@@ -6,7 +6,7 @@ title: Schenkelblock
 - **Blockbilder**
 	- **[[Rechtsschenkelblock]]** ("M" in V1, V2)
 	- **[[Linksschenkelblock]]** ("M" in V5, V6)
-		- **Hemiblock**
+		- [[Linksanteriorer Hemiblock (LAHB)]]
 	- **[[Bifaszikulärer Block]]**
 - **Einteilung**
 	- **Kompletter Schenkelblock**:: Schenkelblock-Morphologie + [[QRS]]-Dauer ≥120 ms

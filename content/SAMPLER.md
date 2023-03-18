@@ -2,7 +2,7 @@
 tags: [Fach/Notfallmedizin, Art/Intervention]
 title: SAMPLER
 ---
-> Notfall-[[Anamnese]]
+> (Abstract::**Notfall-[[Anamnese]].** Symptome, Allergien, Medikation, Patientenvorgeschichte, Letzte/r/s, Ereignisse, Risikofaktoren.)
 - **==S==ymptome**
 - **==A==llergien**
 - **==M==edikation**

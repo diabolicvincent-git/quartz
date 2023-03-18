@@ -77,3 +77,5 @@ title: Hyperkaliämie
 - die bei einer Hyperkaliämie zu erwartenden spezifischen Angaben in [[Anamnese]] und Befunde bei der körperlichen [[Untersuchung]] benennen und zuordnen können.
 - die Grundzüge der medizinischen Diagnostik, Therapie und Betreuung bei einer Hyperkaliämie herleiten können.
 
+---
+![[Pasted image 20230303114449.png]]

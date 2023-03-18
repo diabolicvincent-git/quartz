@@ -12,5 +12,5 @@ title: Polyneuropathie
 	- *Motorisch*:: Denervierungszeichen (Atrophie, Faszikulationen), Muskeltonus↓, [[Parese]]
 	- *Vegetativ*:: Orthostatische Dysregulation, Hyper-/Hypohidrosis
 - **Diagnostik**:: [[Anamnese]], [[Untersuchung Neurologie]], [[ENG]]/[[EMG]], Ätiologische Abklärung
-- **DD**:: [[pAVK]] (belastungsabhängig), radikuläre Kompression ([[Dermatome]]), [[Funikuläre Myelose]], [[Tabes dorsalis]], [[Restless-Leg-Syndrom]]
+- **DD**:: [[pAVK]] (belastungsabhängig), radikuläre Kompression ([[Dermatome]]), [[Funikuläre Myelose]], [[Tabes dorsalis]], [[Restless-Legs-Syndrom]]
 - **Therapie**:: Ursächlich + Neuropathische Schmerztherapie ([[Antikonvulsiva]] + [[Tricyclische Antidepressiva]])

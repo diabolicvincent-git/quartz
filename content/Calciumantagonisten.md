@@ -3,13 +3,11 @@ tags: [Modul/m11, Fach/Kardiologie, Fach/Pharmakologie/Medikament]
 title: Calciumantagonisten
 ---
 > (Abstract::**[[Ca2+]] Kanal-Blocker.**)
-- **Indikation**:: [[Hypertonie]], stabile [[Angina pectoris]], [[HRST]] ([[SVT]]), [[Raynaud-Syndrom]], HOCM, Clusterkopfschmerz-Prophylaxe, [[SAB]]-Vasospasmusprophylaxe
-- **KI (alle)**:: [[Hypotonie]], [[ACS]], [[Schwangerschaft]]
-
-|Wirkstoff|Wirkung|[[UAW]]|
-|-|-|-|
-|**[[NIFEdipin]]**[^1] (kurz) < Nitrendipin < ==Amlodipin== (lang)|==[[Vasodilatation]]==|[[Kopfschmerzen]], [[Ödeme]], Reflextachykardie|
-|**Diltiazem**|Mischform|alle [[UAW]] von [[NIFEdipin]]/Verapamil, jedoch geringer; CYP3A4-Substrat
-|**Verapamil**, Gallopamil|negativ inotrop, chrontrop, [[dromotrop]]|[[AV-Block]], [[Obstipation]], CYP3A4-Substrat
-
-[^1]: [[NIFEdipin]]-Typ = DHPYR-Typ
+- **Indikation**:: [[aHTN]], stabile [[Angina pectoris]], [[HRST]] ([[SVT]]), [[Raynaud-Syndrom]] ([[NIFEdipin]]), [[HOCM]] ([[Verapamil]]), [[Clusterkopfschmerz]] ([[Verapamil]]), [[SAB]]-Vasospasmusprophylaxe ([[niMODipin]])
+- **Einteilung**
+	- *Nifedipin-/DHPYR-Typ* ([[NIFEdipin]] 2h < Nitrendipin < [[Amlodipin]] 48h) → ==[[Vasodilatation]]==, [[Kopfschmerzen]], [[Ödeme]], [[Tachykardie]]
+	- *Diltiazem-Typ* ([[Diltiazem]]) → geringere Wirkung+UAW, CYP3A4-Substrat
+	- *Verapamil-Typ* ([[Verapamil]], Gallopamil) → [[inotrop]]↓, [[chronotrop]]↓, [[dromotrop]]↓, [[AV-Block]], [[Obstipation]], CYP3A4-Substrat
+- **KI**:: [[Hypotonie]], [[ACS]], [[Schwangerschaft]]
+	- *Nifedipin-Typ*:: [[HOCM]], [[Vitien]]
+	- *Diltiazem-, Verapamil-Typ*:: [[HFrEF]], [[AV-Block]] II°, keine Kombi mit [[β-Blocker]]

@@ -2,14 +2,14 @@
 tags: [Modul/m17, Fach/Hämatologie, Art/Intervention]
 title: Wells-Score
 ---
-### Wells-Score bei Phlebothrombose (TVT)
+### Wells-Score bei Phlebothrombose ([[TVT]])
 - **≥2 Punkte**:: Hohe Wahrscheinlichkeit für [[Thrombose]]
 - **<2 Punkte**:: Geringere Wahrscheinlichkeit für [[Thrombose]]
 
 Merkmal|Punkte
 -|-
 Aktive Krebserkrankung|1
-TVT in Vorgeschichte|1
+[[TVT]] in Vorgeschichte|1
 Lähmung/Immobilisation der Beine|1
 Bettruhe >3 d oder größere OP <12 Wochen|1
 [[Schmerz]]/Verhärtung entlang tiefer [[Venen]]|1

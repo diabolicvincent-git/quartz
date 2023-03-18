@@ -1,7 +1,6 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m15, Fach/Neurologie/Sinus-durae-matris, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus petrosus inferior
 ---
-Sinus|Zufluss|Abfluss|Charakteristika
--|-|-|-
-**[[Sinus petrosus inferior]]**|[[Sinus cavernosus]]|[[V. jugularis interna]]
+- **Zufluss**:: [[Sinus cavernosus]]
+- **Abfluss**:: [[V. jugularis interna]]

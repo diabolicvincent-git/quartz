@@ -6,7 +6,7 @@ title: Regulation des Zellzyklus
 ### G1-Kontrollpunkt
 > CDK4/Cyclin-D-Komplex und [[p53]]
 - Kontrolle auf Kern-Plasma-Relation, Nährstoffgehalt und [[DNA]]-Schäden
-- **Normal**:: CDK4/Cyclin-D-Komplex phosphoryliert [[pRb]] (Retinoblastom-Protein) → vermehrt CDK2/Cyclin-E → [[pRb]] erneut phosphoryliert → Freisetzen von E2F (Transkriptionsfaktor für [[DNA]]-[[Replikation]])
+- **Normal**:: CDK4/Cyclin-D-Komplex phosphoryliert [[pRb]] ([[Retinoblastom]]-Protein) → vermehrt CDK2/Cyclin-E → [[pRb]] erneut phosphoryliert → Freisetzen von E2F (Transkriptionsfaktor für [[DNA]]-[[Replikation]])
     - Einfluss von [[Wachstumsfaktoren]] via [[Tyrosin]]-Kinase-R → RAS → MAPK → MYC → Cyclin-D-Expression
 - **Hemmung**
     - Schäden → aktiviert ATM-Kinasen → **[[p53]]** phosphoryliert (Ubiqu. + Abbau unmöglich) → [[p53]]-Wirkung als Transkriptionsfaktor (CDK-Inhibitor p21 und proapoptotische [[Proteine]] z.B. Bax, Bad)

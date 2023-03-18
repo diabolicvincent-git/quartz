@@ -5,7 +5,7 @@ title: Vitamin-K-Antagonisten
 > (Abstract::Auch: Cumarine.)
 - **Wirkmechanismus**:: Kompetitiver Antagonist von [[Vitamin K]] → Synthese↓ Faktoren II, VII, IX, X (und Protein C/S)
 - **Entitäten**:: [[Phenprocoumon]], [[Warfarin]]
-- **Indikation**:: Thromboseprophylaxe bei/nach [[Thrombose]], [[LAE]], Knie-/Hüft-TEP, Herzklappenersatz, [[Herzfehler]], [[OMI]]
+- **Indikation**:: [[Thromboseprophylaxe]] bei/nach [[Thrombose]], [[LAE]], Knie-/Hüft-TEP, Herzklappenersatz, [[Herzfehler]], [[OMI]]
 - **[[UAW]]**
 	- [[Blutungsneigung]]
 	- [[Thrombose]]-Neigung zu Therapiebeginn (kürzere HWZ von Protein C/S als Faktoren) → ==Bridging mit [[Heparin]] bis [[INR]]-Ziel erreicht==

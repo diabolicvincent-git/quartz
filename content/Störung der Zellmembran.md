@@ -2,7 +2,6 @@
 tags: [Fach/Infektiologie, Fach/Pharmakologie, Fach/Biochemie]
 title: Störung der Zellmembran
 ---
-## Störung der [[Zellmembran]]
 - **Präparate**
 	- Cyclische Lipopeptide (Daptomycin)
 	- [[Colistin]] ("wiederauflebendes" Reserveantibiotikum mit starken [[UAW]])

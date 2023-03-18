@@ -1,7 +1,6 @@
 ---
-tags: [Modul/m15, Fach/Neurologie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m15, Fach/Neurologie/Sinus-durae-matris, Fach/Anatomie/Leitungsbahn/Vene]
 title: Sinus rectus
 ---
-Sinus|Zufluss|Abfluss|Charakteristika
--|-|-|-
-**[[Sinus rectus]]**|[[V. magna cerebri]], [[Sinus sagittalis inferior]]|[[Confluens sinum]]
+- **Zufluss**:: [[V. magna cerebri]], [[Sinus sagittalis inferior]]
+- **Abfluss**:: [[Confluens sinum]]

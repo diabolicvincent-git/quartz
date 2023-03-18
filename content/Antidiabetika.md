@@ -2,17 +2,21 @@
 tags: [Modul/m17, Fach/Pharmakologie/Medikament/Übergruppe, Fach/Endokrinologie]
 title: Antidiabetika
 ---
-- **Wirkprinzipien**
-	- *Insulinotrop:* Insulin-Freisetzung↑ (abhängig von [[Pankreas]]-Restfunktion)
-	- *Nicht-insulinotrop* (unabhängig von der Insulin-[[Sekretion]])
-- **Präparate**
-	- ==**Biguanide ([[Metformin]])**:: 1. Wahl, *nicht-insulinotrop
-	- **[[SGLT2-Inhibitoren]] (z.B. Canagliflozin, Dapagliflozin)**
-	- **Sulfonylharnstoffe (z.B. Glibenclamid)**
-	- **GLP-1-[[Rezeptor]]-Agonisten (z.B. Exanatid, Liraglutid, Albiglutid)**
-	- **DPP-4-Inhibitoren (Gliptine z.B.Saxagliptin, Sitagliptin)**
-	- **α-Glucosidase-Hemmer (z.B. Acarbose):**
-		- **Wirkmechanismus**:: Hemmen Kohlenhydrat-[[Verdauung]] → vermeiden postprandiale [[Hyperglycämie]]
-
+- **Indikation**:: [[DMT2]] (1st-line [[Metformin]])
+- **Wirkung**
+	- *Insulinotrop:* [[Insulin]]-Sekretion↑ (abh. von [[Pankreas]]-Restfunktion)
+	- *Nicht-insulinotrop* (unabh. von Insulin-[[Sekretion]])
+- **UAW**:: [[Hypoglycämie]] (insb. [[Sulfonylharnstoffe]])
+- **KI**:: [[DMT1]] (*immer [[Insulin]]*), [[Schwangerschaft]]/[[Stillzeit]], [[CKD]] (außer Gliptine, Repaglinid, Pioglitazon), ==akute Erkrankung/[[OP]]==
+- **Entitäten**
+	- ==*Biguanide* ([[Metformin]])== → [[Lactatazidose]], [[Gewichtsverlust]]
+	- *[[Sulfonylharnstoffe]]* (Glibenclamid, Glimeprid) → [[Hypoglycämie]]-Risiko↑, Gewichtszunahme, [[Agranulocytose]]
+	- *Glinide* (-glinid)
+	- *DPP4-Inhibitoren* (-gliptin) → GI-UAW, Pankreatitis
+	- *GLP1-Analoga* (-glutid) → Magenentlehrungsstörung, [[Gewichtsverlust]]
+	- *[[SGLT2-Inhibitoren]]* (-glifozin) → kardioprotektiv, ==[[HWI]]==, [[Ketoazidose]]
+	- *⍺-Glucosidase-Hemmer* (Acarbose)
+	- *Glitazone* (Pioglitazon)
+---
 ## Vergleich
 ![[Pasted image 20210426092547.png]]

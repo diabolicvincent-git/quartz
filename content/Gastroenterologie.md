@@ -63,7 +63,7 @@ title: Gastroenterologie
 	- [[Mallory-Weiss-Syndrom]]
 	- [[Boerhaave-Syndrom]]
 	- [[Candidose]]
-	- [[GERD]]
+	- [[Refluxösophagitis]]
 	- [[Ösophagus-Ca]]
 	- [[Achalasie]]
 	- [[Ösophagus-Divertikel]]

@@ -32,7 +32,7 @@ title: IMPP-Arzneistoffe
 - **Folsäure-Antagonisten**
 	- **Dihydrofolatreduktase-Inhibitoren**:: Trimethoprim (+ Sulfamethoxazol)
 - **Glycycline**:: Tigecyclin
-- **[[Glycopeptide]]**:: Teicoplanin, Vancomycin
+- **[[Glycopeptide]]**:: Teicoplanin, [[Vancomycin]]
 - **Lincosamide**:: Clindamycin
 - **Lipopeptide**:: Daptomycin
 - **[[Makrolide]]**:: [[Azithromycin]], Clarithromycin

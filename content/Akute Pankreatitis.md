@@ -8,7 +8,7 @@ title: Akute Pankreatitis
 - **[[Labor]]**:: *Lipase* ↑, [[Entzündungsparameter]] ↑
 - **[[Bildgebung]]**:: Sonographisch, radiologisch [[Entzündung]]
 - **Therapie**:: [[Volumentherapie]], Schonkost (wenig Fett), stationäre Überwachung
-    - **Medikamentös**:: [[Analgetika]], Thromboseprophylaxe, ggf. [[PPI]], ggf. [[Antibiotika]]
+    - **Medikamentös**:: [[Analgetika]], [[Thromboseprophylaxe]], ggf. [[PPI]], ggf. [[Antibiotika]]
     - Ggf. Operativ
 - **Komplikationen**
     - 3% **Ödematöse [[Pankreatitis]]** (5-10% [[MOV]])

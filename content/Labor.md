@@ -65,7 +65,7 @@ title: Labor
 			- C3
 			- C4
 		- Transferrin
-		- Troponin
+		- [[Troponin]]
 	- **[[Lipide]]**
 		- [[Cholesterol]]
 			- HDL

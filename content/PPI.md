@@ -2,11 +2,8 @@
 tags: [Modul/m26, Fach/Pharmakologie/Medikament]
 title: PPI
 ---
-> Protonenpumpeninhibitoren
-- **Wirkmechanismus**:: Irreversible ==Hemmung [[H+]]/[[K+]] [[ATPase]]== der Parietalzellen → [[Magen]] [[pH]]↑
-- **Indikation**:: [[Gastroduodenale Ulcera]], [[Gastritis]], GERD, H. pylori Eradikation, Zollinger-Ellison-Syndrom, [[NSAR]]-Gastropathie, MALT-Lymphom
-- **[[UAW]]**
-	- *Allgemein:* GI-[[UAW]], [[Exanthem]], [[Nephritis]]
-	- *ZNS:* [[Schwindel]], [[Kopfschmerzen]], [[Sehstörung]]
-	- *Elektrolyte:* [[Mg2+]]↓, [[Osteoporose]] (bei Langzeitanwendung)
-	- ==Reaktive Hypergastrinämie==
+> (Abstract::**Protonenpumpeninhibitoren.**)
+- **Wirkung**:: Irreversible ==Hemmung [[H+]]/[[K+]] [[ATPase]]== in Parietalzellen → [[Magen]] [[pH]]↑
+- **Indikation**:: [[Gastroduodenale Ulcera]], [[Gastritis]], [[Refluxösophagitis]], H. pylori Eradikation, Zollinger-Ellison-Syndrom, [[NSAR]]-Gastropathie, [[MALT-Lymphom]]
+- **UAW**:: GI-UAW, [[Mg2+]]↓, ==[[Sehstörung]] ([[i.v.]])==, [[Exanthem]], ==[[Gastrin]]↑,== [[Osteoporose]], [[Nephritis]]
+- **Wirkstoffe**:: [[Pantoprazol]] (40mg), [[Esomeprazol]], [[Omeprazol]] (20mg)

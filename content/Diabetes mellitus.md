@@ -30,18 +30,7 @@ title: Diabetes mellitus
 		- 2h-Wert des *[[oGTT]]* ≥200 mg/dl (11,1 mmol/L)
 	- **Sonstiges**:: Mikroalbuminurie, Glucosurie[^2], Ketone in Blut+Urin, [[Azidose]]
 	- *[[DMT1]]:* ggf. [[Auto-Antikörper]] (GAD65, IA2), C-Peptid↓
-- **Therapie**
-	- **Stufenschema ([[DMT2]])**
-		- **I**:: Lebensstil, Ernährung, Gewichtsnormalisierung, Patientenedukation
-		- **II**:: Monotherapie ==[[Metformin]]== ([[Antidiabetika]])
-		- **III**:: Zweifachtherapie
-		- **IV**:: Dreifachtherapie
-		- **V**:: Intensivierte ==[[Insulintherapie]]==
-
-
-
-
-
+- **Therapie**:: [[DMT2]]/[[DMT1]]
 
 
 

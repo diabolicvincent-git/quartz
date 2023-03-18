@@ -8,9 +8,3 @@ title: Ohr
 	- [[Trommelfell]]
 	- [[Mittelohr]] mit [[Paukenhöhle]], Tuba auditiva und Proc. mastoideus
 	- [[Innenohr]] mit [[Cochlea]]
-
-## Bestandteile
-![[Außenohr]]
-![[Trommelfell]]
-![[Mittelohr]]
-![[Innenohr]]

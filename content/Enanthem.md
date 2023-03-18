@@ -2,4 +2,4 @@
 tags: [Modul/m09, Art/Pathologie, Fach/Dermatologie]
 title: Enanthem
 ---
-**Enanthem**:: Gleichartige Schleimhautveränderungen in einer Region
+> (Abstract::Gleichartige Schleimhautveränderungen in einer Region)

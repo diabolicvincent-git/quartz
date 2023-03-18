@@ -2,7 +2,7 @@
 tags: [Modul/m11, Fach/Kardiologie, Art/Pathologie]
 title: OMI
 ---
-> Okklusiver Myokardinfarkt.
+> Okklusiver [[Myokardinfarkt]].
 - **Symptome**
 	- Kaltschweißigkeit, Blässe, Unruhe, Angst, [[Schwindel]], Übelkeit, Erbrechen
 	- [[Brustschmerz]] mit Ausstrahlung, Epigastrischer [[Schmerz]]
@@ -12,13 +12,13 @@ title: OMI
 	- Herzwandruptur, [[Perikardtamponade]], Ventrikelaneurysma
 - **Diagnostik**
 	- **[[EKG]]**:: ...
-	- **[[Labor]]**:: Troponin, [[CK]], [[CK]]-Mb, [[BNP]], LDH1/2, Myoglobin, [[AST]]
+	- **[[Labor]]**:: [[Troponin]], [[CK]], [[CK]]-Mb, [[BNP]], LDH1/2, Myoglobin, [[AST]]
 	- **Koronarangiographie**
 	- **[[Sonographie]]**
 
 
 ## Lokalisation
-![[Infarktlokalisation]]
+[[Infarktlokalisation]]
 #### LCA
 - [[RIVA]] → *Vorderwandinfarkt* / *Anteroseptalinfarkt*
 - [[RCX]] → *Posteriorer Hinterwandinfarkt*
@@ -29,12 +29,9 @@ title: OMI
 
 ## Diagnostik
 ### [[Labor]]
-> Dynamik ist immer pathologisch! (Troponin kann z.B. auch chronisch im Rahmen einer [[KHK]] erhöht sein)
-#### Troponin
-- **Verlauf**:: Anstieg 3h → Maximum 12-96h → Normalisierung 6-14d
-- Wichtigster Biomarker 
-- *Troponin T* / *Troponin I* liegen normalerweise im Komplex mit Troponin C des kontraktilen Apparats vor
-	- Genetisch anders codierte Isoenzyme, daher von anderen Muskelgeweben unterscheidbar
+> Dynamik ist immer pathologisch! ([[Troponin]] kann z.B. auch chronisch im Rahmen einer [[KHK]] erhöht sein)
+
+![[Troponin]]
 #### Weitere Parameter
 - **Myoglobin** 
 	- Nicht herzspezifisch
@@ -43,3 +40,7 @@ title: OMI
 	- **[[CK]]-Gesamt**:: Nicht herzspezifisch ([[Leber]], [[Herz]])
 	- **[[CK]]-MB**:: Herzspezifisch, Korrellation mit Infarktgröße
 	- **LDH1 / LDH2**:: Nicht herzspezifisch ([[Leber]], [[Herz]], [[Skelettmuskulatur]]); wichtig für späte Verlaufsdiagnostik
+
+---
+![[Pasted image 20230303114310.png]]
+![[Pasted image 20230303114509.png]]
