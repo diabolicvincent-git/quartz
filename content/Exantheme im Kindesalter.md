@@ -4,7 +4,7 @@ title: Exantheme im Kindesalter
 ---
 ```dataview
 TABLE WITHOUT ID Abstract, link(file.link, title) AS Erkrankung, Inkubationszeit, Kontagiosität, Exanthem, Begleitend
-FROM #f/🦄/Exantheme 
+FROM #Fach/Pädiatrie/Exantheme 
 ```
 
 

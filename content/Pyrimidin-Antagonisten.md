@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Onkologie/Cytostatika, Fach/Pharmakologie/Medikament/Untergruppe ]
 title: Pyrimidin-Antagonisten
 ---
 > (Abstract::**[[Cytostatika]] > [[Antimetabolite]].**)

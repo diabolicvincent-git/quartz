@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Gynäkologie, Fach/Urologie, Art/Pathologie/Erkrankung]
 title: Gonorrhoe
 ---
 > (Abstract::**[[STD]] durch [[Neisserien]] ([[Gonokokken]]).** Auch: "Tripper".)

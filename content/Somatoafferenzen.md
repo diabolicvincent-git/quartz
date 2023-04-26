@@ -5,5 +5,5 @@ title: Somatoafferenzen
 > (Abstract::[[Afferenzen]])
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Qualität, Abstract
-FROM #f/🧠/Faserqualität/Afferenzen/Viscero 
+FROM #Fach/Neurologie/Faserqualität/Afferenzen/Viscero 
 ```

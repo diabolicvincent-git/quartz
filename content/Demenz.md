@@ -22,7 +22,7 @@ title: Demenz
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Demenz-Form, Abstract
-FROM #f/🧠/Demenz 
+FROM #Fach/Neurologie/Demenz 
 ```
 
 

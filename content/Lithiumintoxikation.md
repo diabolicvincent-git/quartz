@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Toxikologie, Fach/Psychiatrie, Art/Pathologie]
 title: Lithiumintoxikation
 ---
 > (Abstract::**[[Lithium]]-Spiegel >1.5mmol/l.**)

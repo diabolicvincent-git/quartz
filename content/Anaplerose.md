@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Biochemie]
 title: Anaplerose
 ---
 > "Auffüllreaktionen" des [[Citratzyklus]]

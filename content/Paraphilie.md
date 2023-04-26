@@ -1,4 +1,5 @@
 ---
+tags: [ Art/Pathologie, Fach/Gynäkologie, Fach/Urologie]
 title: Paraphilie
 ---
 > Störung der [[Sexualpräferenz]]

@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Radiologie/Sonographie/Anwendung, Fach/Gastroenterologie ]
 title: Sonographie Pankreas
 ---
 - **Indikation**:: V.a. [[Pankreatitis]], [[Pankreas-Ca]]

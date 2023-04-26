@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Wirkstoff, Fach/Infektiologie/Antiinfektiva/Antibiotika  ]
 title: Azithromycin
 ---
 > (Abstract::**[[Makrolide]].** 1st Line als Ersatz bei [[Penicilline]]-[[Allergie]].)

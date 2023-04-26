@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Untergruppe, Fach/Onkologie, Fach/Rheumatologie ]
 title: TNF-Inhibitoren
 ---
 > (Abstract::**[[Immunsuppressiva]] > [[Biologicals]].**)

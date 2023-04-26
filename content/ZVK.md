@@ -16,5 +16,5 @@ title: ZVK
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Punktionsort, Vorteile, Nachteile
-FROM #f/💀/Leitungsbahn/Vene/Punktabel/ZVK 
+FROM #Fach/Anatomie/Leitungsbahn/Vene/Punktabel/ZVK 
 ```

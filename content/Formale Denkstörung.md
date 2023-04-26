@@ -13,5 +13,5 @@ title: Formale Denkstörung
 ---
 ```dataview
 TABLE Abstract, Ätiologie
-FROM #f/💭/Psychopathologischer-Befund/Formale-Denkstörung 
+FROM #Fach/Psychiatrie/Psychopathologischer-Befund/Formale-Denkstörung 
 ```

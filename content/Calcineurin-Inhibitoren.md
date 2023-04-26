@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Übergruppe ]
 title: Calcineurin-Inhibitoren
 ---
 > (Abstract::**[[Immunsuppressiva]].**)

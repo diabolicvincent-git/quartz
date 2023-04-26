@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Hämatologie, Art/Intervention/Therapie]
 title: Thromboseprophylaxe
 ---
 - **Allgemein**:: Frühmobilisation, Muskelpumpe, adäquate [[Volumentherapie]], Beine hochlagern, weite Kleidung

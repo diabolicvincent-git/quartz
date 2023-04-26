@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Radiologie/Sonographie/Anwendung, Fach/Urologie ]
 title: Sonographie Harnblase
 ---
 - **Indikation**:: [[Inkontinenz]], [[Dysurie]], [[Hämaturie]], [[Restharn]], [[Harnverhalt]]

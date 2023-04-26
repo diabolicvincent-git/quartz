@@ -9,5 +9,5 @@ title: Bildgebung
 ---
 ```dataview
 TABLE Vorteile, Nachteile
-FROM #f/🕶️/Standardbildgebung 
+FROM #Fach/Radiologie/Standardbildgebung 
 ```

@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Übergruppe, Fach/Onkologie/Cytostatika]
 title: Mitosehemmer (Spindelgifte)
 ---
 > (Abstract::**[[Cytostatika]].**)

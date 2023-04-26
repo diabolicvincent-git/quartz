@@ -26,7 +26,7 @@ title: Opioide
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Opioid, Potenz, Wirkdauer, Cave
-FROM #f/💤/Opioide
+FROM #Fach/Anästhesie/Opioide 
 ```
 ---
 ### Mythbusting

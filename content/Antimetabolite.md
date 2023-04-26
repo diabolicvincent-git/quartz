@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Onkologie/Cytostatika]
 title: Antimetabolite
 ---
 > (Abstract::**[[Cytostatika]].**)

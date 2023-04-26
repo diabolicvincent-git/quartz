@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Hämatologie, Fach/Pharmakologie/Medikament/Wirkstoff ]
 title: Argatroban
 ---
 > Synthetisches [[Heparin]]-Analogon

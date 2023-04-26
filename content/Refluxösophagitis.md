@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Gastroenterologie, Art/Pathologie]
 title: Refluxösophagitis
 ---
 > (Abstract::**Gastroösophageale Reflux-Krankheit (GERD).**)

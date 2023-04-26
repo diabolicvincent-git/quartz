@@ -4,7 +4,7 @@ title: Antidot
 ---
 ```dataview
 TABLE Entitäten AS Substanzen, Antidot
-FROM #f/🍄/Gift
+FROM #Fach/Toxikologie/Gift 
 SORT file.name ASC
 ```
 

@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Wirkstoff, Fach/Anästhesie]
 title: Flumazenil
 ---
 > (Abstract::**[[Benzodiazepine]]-[[Antidot]].**)

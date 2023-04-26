@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Biochemie/Protein, Fach/Kardiologie]
 title: LDL
 ---
 > (Abstract::**[[Cholesterol]]-reichste [[Lipoproteine]].** Insb. [[Apolipoprotein]] B-100.)

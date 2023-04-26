@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie, Fach/Onkologie, Art/Intervention/Therapie ]
 title: Hochdosis-Chemotherapie
 ---
 - **Indikation**:: Normale maximale [[Chemotherapie]]-Dosierung reicht nicht, aber mit mehr könnte potenziell kurativ behandelt werden

@@ -12,5 +12,5 @@ title: Astrocytom
 
 ```dataview
 TABLE WHO-Grad, Epidemiologie, Lokalisation, Diagnostik, Therapie, Prognose
-FROM #f/🦀/Hirntumor/Astrocytom 
+FROM #Fach/Onkologie/Hirntumor/Astrocytom 
 ```

@@ -13,6 +13,6 @@ title: Vigilanzminderung
 ---
 ```dataview
 TABLE Abstract
-FROM #f/🧠/Vigilanzminderung 
+FROM #Fach/Neurologie/Vigilanzminderung 
 SORT file.name DESC
 ```

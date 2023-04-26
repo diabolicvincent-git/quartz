@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Anatomie, Fach/HNO]
 title: Hypopharynx
 ---
 > Auch: Pars laryngea pharyngis, Laryngopharynx

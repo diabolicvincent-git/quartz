@@ -9,8 +9,8 @@ title: VRE
 - **[[Resistenzen]]**:: [[Vancomycin]], [[Cephalosporine]], [[Aminoglycoside]], [[Monobactame]], [[Lincosamide]], [[Penicilline]], [[Carbapeneme]], [[Fluorchinolone]], [[Makrolide]]
 - **Resistenzmechanismus**:: Strukturänderung der [[Zellwand]]-Peptidoglycane
 - **Therapie**:: ==[[Linezolid]]==; alternativ Daptomycin, [[Tigecyclin]]
-
+---
 ```dataview
 TABLE Übertragung
-FROM #f/🦠/Erreger/Bakterien  
+FROM #Fach/Infektiologie/Erreger/Bakterien 
 ```

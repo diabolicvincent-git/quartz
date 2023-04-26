@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Untergruppe, Fach/Onkologie ]
 title: Taxane
 ---
 > (Abstract::**[[Cytostatika]] > [[Mitosehemmer (Spindelgifte)]].**)

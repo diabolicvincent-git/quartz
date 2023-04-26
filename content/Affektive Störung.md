@@ -8,7 +8,7 @@ title: Affektive Störung
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Symptom, Abstract, Ätiologie
-FROM #f/💭/Psychopathologischer-Befund/Affektivität 
+FROM #Fach/Psychiatrie/Psychopathologischer-Befund/Affektivität 
 ```
 ---
 - [[Affektarmut]], [[Affektverflachung]]

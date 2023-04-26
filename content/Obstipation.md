@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Gastroenterologie, Art/Pathologie/Symptom]
 title: Obstipation
 ---
 - **Epidemiologie**:: [[Prävalenz]] 10%, [[W]]>[[M]]

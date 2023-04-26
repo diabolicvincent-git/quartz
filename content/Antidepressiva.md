@@ -32,7 +32,7 @@ title: Antidepressiva
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Gruppe, Abstract, Indikation, UAW, Entitäten AS Wirkstoffe
-FROM #f/💭/Antidepressiva
+FROM #Fach/Psychiatrie/Antidepressiva 
 ```
 
 ## Wirkmechanismus

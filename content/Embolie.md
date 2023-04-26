@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Kardiologie, Art/Pathologie]
 title: Embolie
 ---
 > (Abstract::Verschwemmung von Material im [[Kreislauf]] → Gefäßverengung/-verschluss.)

@@ -6,7 +6,7 @@ title: Kindervorsorgeuntersuchung
 
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS U, Abstract, Diagnostik, Therapie, Entwicklung
-FROM #f/🦄/U-Untersuchung 
+FROM #Fach/Pädiatrie/U-Untersuchung 
 ```
 
 ---

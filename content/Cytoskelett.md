@@ -4,7 +4,7 @@ title: Cytoskelett
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Mikrofilament, Aufbau, Funktion
-FROM #f/🧪/Molekül/Cytoskelett 
+FROM #Fach/Biochemie/Cytoskelett 
 ```
 ---
 ![[Cytoskelett.jpg.jpg]]

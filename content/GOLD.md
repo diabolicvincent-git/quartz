@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pneumologie, Art/Intervention/Diagnostik]
 title: GOLD
 ---
 > (Abstract::**Stadieneinteilung [[COPD]].** Nach [[FEV1]]. Historisch.)

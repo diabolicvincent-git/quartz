@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Radiologie/Sonographie/Anwendung, Fach/Gynäkologie, Fach/Urologie ]
 title: Sonographie Geschlechtsorgane
 ---
 - **Indikation**

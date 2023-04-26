@@ -12,5 +12,5 @@ title: Antimykotika
 ---
 ```dataview
 TABLE Wirkmechanismus, Wirkstoffe, UAW
-FROM #f/🦠/Antiinfektiva/Antimykotika 
+FROM #Fach/Infektiologie/Antiinfektiva/Antimykotika 
 ```

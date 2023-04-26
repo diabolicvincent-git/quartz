@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Genetik, Art/Pathologie]
 title: Neurofibromatose
 ---
 > (Abstract::**Typ I (M. Recklinghausen) > Typ 2.**)

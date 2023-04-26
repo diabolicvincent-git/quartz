@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Wirkstoff, Fach/Endokrinologie]
 title: Metformin
 ---
 > (Abstract::**[[Antidiabetika]] > Biguanide.** ==1st-line bei [[Diabetes mellitus]]==. Nicht insulinotrop.)

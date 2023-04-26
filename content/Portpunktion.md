@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Onkologie, Art/Intervention]
 title: Portpunktion
 ---
 - **Vorbereitung**:: Pat. liegend oder sitzend mit fester Rückenlehne

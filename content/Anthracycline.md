@@ -1,4 +1,5 @@
 ---
+tags: [Fach/Onkologie/Cytostatika]
 title: Anthracycline
 ---
 > (Abstract::**[[Cytostatika]] > [[Topoisomerase-Hemmer]].**)

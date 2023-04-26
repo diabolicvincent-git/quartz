@@ -20,7 +20,7 @@ title: Antibiotika
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Gruppe, Entitäten, Wirkmechanismus, Wirkspektrum
-FROM #f/🦠/Antiinfektiva/Antibiotika
+FROM #Fach/Infektiologie/Antiinfektiva/Antibiotika 
 ```
 
 ---

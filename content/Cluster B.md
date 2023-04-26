@@ -9,5 +9,5 @@ title: Cluster B
 - [[Narzisstische Persönlichkeitsstörung]]
 ```dataview
 TABLE Abstract
-FROM #f/💭/Persönlichkeitsstörung/B
+FROM #Fach/Psychiatrie/Persönlichkeitsstörung/B 
 ```

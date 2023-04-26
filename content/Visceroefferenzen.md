@@ -5,5 +5,5 @@ title: Visceroefferenzen
 > (Abstract::[[Efferenzen]])
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Qualität, Abstract
-FROM #f/🧠/Faserqualität/Efferenzen/Viscero 
+FROM #Fach/Neurologie/Faserqualität/Efferenzen/Viscero 
 ```

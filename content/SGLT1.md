@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Biochemie/Transporter]
 title: SGLT1
 ---
 > [[Kohlenhydrate]]-Resorption in [[Niere]] und [[Darm]]

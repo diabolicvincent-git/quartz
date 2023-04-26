@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Pharmakologie/Medikament/Wirkstoff, Fach/Infektiologie/Antiinfektiva/Antibiotika ]
 title: Vancomycin
 ---
 > (Abstract::**[[Glycopeptide]].**)

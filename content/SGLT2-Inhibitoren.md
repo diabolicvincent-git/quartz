@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Endokrinologie, Fach/Pharmakologie/Medikament/Untergruppe ]
 title: SGLT2-Inhibitoren
 ---
 > (Abstract::**[[Antidiabetika]].**)

@@ -6,5 +6,5 @@ title: PIM
 
 ```dataview
 TABLE WITHOUT ID Gruppe, link(file.link, title) AS Wirkstoff, Begründung, Alternativen
-FROM #f/💊/Medikament/PIM 
+FROM #Fach/Pharmakologie/Medikament/PIM 
 ```

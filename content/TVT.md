@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Hämatologie, Art/Pathologie]
 title: TVT
 ---
 > (Abstract::**Tiefe Beinvenen- / Phlebo-[[Thrombose]].**)

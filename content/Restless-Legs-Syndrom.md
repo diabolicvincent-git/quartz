@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Neurologie, Art/Pathologie]
 title: Restless-Legs-Syndrom
 ---
 - **Epidemiologie**:: [[Prävalenz]] Ü65 10%, [[W]]>[[M]]

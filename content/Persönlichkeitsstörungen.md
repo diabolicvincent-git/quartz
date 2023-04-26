@@ -17,5 +17,5 @@ title: Persönlichkeitsstörungen
 ---
 ```dataview
 TABLE Abstract, Cluster, Cluster.Abstract AS Charakteristika
-FROM #f/💭/Persönlichkeitsstörung 
+FROM #Fach/Psychiatrie/Persönlichkeitsstörung 
 ```

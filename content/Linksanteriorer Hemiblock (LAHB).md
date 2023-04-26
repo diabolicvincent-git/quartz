@@ -1,4 +1,5 @@
 ---
+tags: [ Fach/Kardiologie, Art/Pathologie]
 title: Linksanteriorer Hemiblock (LAHB)
 ---
 > Blockade nur des linksanterioren [[Tawara-Schenkel]]-Faszikel
