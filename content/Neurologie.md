@@ -4,8 +4,7 @@ title: Neurologie
 ---
 ```dataview
 TABLE Abstract
-FROM #f/🧠-Neurologie 
-WHERE contains(tags, "a/Pathologie")
+FROM #Fach/Neurologie 
 ```
 
 - [[Schwindel]]

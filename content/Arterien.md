@@ -14,6 +14,6 @@ title: Arterien
 
 ```dataview
 TABLE Ursprung, Abgänge, Versorgungsgebiet
-FROM #f/💀/Leitungsbahn/Arterie 
+FROM #Fach/Anatomie/Leitungsbahn/Arterie 
 WHERE file.name != "Arterien" AND file.name != "YAML - Arterie"
 ```

@@ -22,8 +22,7 @@ title: Katecholamine
 ---
 ```dataview
 TABLE WITHOUT ID link(file.link, title) AS Katecholamin, Dosis
-FROM #f/💊/Medikament 
-WHERE contains(Gruppe,[[Katecholamine]])
+FROM #Fach/Pharmakologie/Medikament/Katecholamin
 ```
 
 ## Lernziele

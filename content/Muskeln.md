@@ -4,8 +4,7 @@ title: Muskeln
 ---
 ```dataview
 TABLE Funktion, Ursprung, Ansatz, Innervation
-FROM "Medizin/Muskeln"
-WHERE contains(tags,"f/🦴/Muskel")
+FROM #Fach/Anatomie/Muskel 
 ```
 
 

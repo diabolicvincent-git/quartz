@@ -12,7 +12,6 @@ title: Venen
 ---
 ```dataview
 TABLE Ursprung, Verlauf, Zuflüsse
-FROM #f/💀/Leitungsbahn/Vene 
+FROM #Fach/Anatomie/Leitungsbahn/Vene 
 WHERE file.name !="Venen"
 ```
-
