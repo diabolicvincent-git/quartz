@@ -4,7 +4,7 @@ title: Anionenlücke
 ---
 > (Abstract::Unterscheiden, ob *Zufuhr an Säuren* oder *Mangel an Basen* ursächlich für die [[Metabolische Azidose]] ist)
 - **Physiologisch**:: ∑ Kationen & ∑ Anionen im [[Blut]] gleich
-- **Messbare Ionen**:: [[Na+]], [[K+]], [[Cl-]], [[HCO3-]]
+- **Messbare Ionen**:: [[Na+]], [[K+]], [[Cl-]], [[Bicarbonat (HCO3-)]]
 	- Anteil messbarer Kationen ([[Na+]], [[K+]]) größer
 	- Anteil nicht-gemessener Anionen (z.B. [[Proteine]], [[Phosphat]]) größer als der Anteil nicht-gemessener Kationen (z.B. [[Mg2+]], [[Ca2+]])
 - **Berechnung**
@@ -14,7 +14,7 @@ title: Anionenlücke
 		- Normwert 12 ±2
 - **Interpretation**
 	- **Zufuhr von Säuren**
-		- Proton wird immer von einem Anion begleitet (z.B. [[Lactat]]) → messbares [[HCO3-]], was die Protonen abpuffert, wird durch nicht-messbares Begleitanion ersetzt → ∑ [[Cl-]] +[[HCO3-]] sinkt → *Anionenlücke wird größer*
+		- Proton wird immer von einem Anion begleitet (z.B. [[Lactat]]) → messbares [[Bicarbonat (HCO3-)]], was die Protonen abpuffert, wird durch nicht-messbares Begleitanion ersetzt → ∑ [[Cl-]] +[[Bicarbonat (HCO3-)]] sinkt → *Anionenlücke wird größer*
 		- **Ursachen (Kußmaul)**
 			- [[Ketoazidose]]
 			- Urämie ([[CKD]])
@@ -24,7 +24,7 @@ title: Anionenlücke
 			- Urämie
 			- Lactatazidose
 	- **Mangel an Basen**
-		- Verlorenes [[HCO3-]] wird zwecks Elektroneutralität i.d.R. durch [[Cl-]] ersetzt → ∑ [[Cl-]] +[[HCO3-]] bleibt konstant → *Anionenlücke unverändert* (*"Hyperchlorämische Azidose"*)
+		- Verlorenes [[Bicarbonat (HCO3-)]] wird zwecks Elektroneutralität i.d.R. durch [[Cl-]] ersetzt → ∑ [[Cl-]] +[[Bicarbonat (HCO3-)]] bleibt konstant → *Anionenlücke unverändert* (*"Hyperchlorämische Azidose"*)
 		- **Ursachen**
 			- [[Diarrhoe]]
 			- [[Pankreas]]-, Gallenfistel

@@ -6,7 +6,7 @@ title: Prostaglandin
 - **Wirkung **
 	- **[[Prostaglandin]] E2**
 		- Relaxierung der glatten Muskulatur ([[Vasodilatation]], Bronchodilatation)
-		- [[Magensäure]]↓ und Mucin/[[HCO3-]]↑ ([[Magen]]protektion)
+		- [[Magensäure]]↓ und Mucin/[[Bicarbonat (HCO3-)]]↑ ([[Magen]]protektion)
 		- [[Schmerz]]sensibilität↑, [[Entzündung]]↑, [[Fieber]], Lipolyse↓
 	- **[[Prostaglandin]] D2, F2**:: Kontraktion der glatten Muskulatur (Bronchokonstriktion)
 	- **[[Prostaglandin]] I2 / Prostacyclin**:: [[Vasodilatation]], Thrombocytenaggregation↓ (gerinnungshemmend)

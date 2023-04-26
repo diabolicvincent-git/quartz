@@ -54,7 +54,7 @@ title: GI-Trakt
     - *Krypten*: Vertiefungen zwischen Zotten aus Tunica mucosa
         - *Paneth-Zellen:* Immunzellen, sezernieren Lysocym und Defensin; Zahl nimmt nach aboral zu
     - **[[Duodenum]]**
-        - Tela submucosa: *Brunner [[Drüsen]]* sezernieren Schleim, [[HCO3-]], Amylase, Maltase in die Krypten (stimuliert durch Secretin aus S-Zellen)
+        - Tela submucosa: *Brunner [[Drüsen]]* sezernieren Schleim, [[Bicarbonat (HCO3-)]], Amylase, Maltase in die Krypten (stimuliert durch Secretin aus S-Zellen)
         - Keine Plicae circularis zu Beginn im Bulbus duodeni
     - **Verlauf von [[Jejunum]] bis [[Ileum]]**
         - Plicae circularis flachen ab

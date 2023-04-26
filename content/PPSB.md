@@ -11,4 +11,4 @@ title: PPSB
 - 
 ---
 ### Mythbusting
-- [Nerderpelt, 2021: Andexanet Alfa or Prothrombin Complex Concentrate for Factor Xa Inhibitor Reversal in Acute Major Bleeding: A Systematic Review and Meta-Analysis](https://journals.lww.com/ccmjournal/Abstract/2021/10000/Andexanet_Alfa_or_Prothrombin_Complex_Concentrate.43.aspx)
+- [Nerderpelt, 2021: Andexanet Alfa or [[Prothrombin (F.II)]] Complex Concentrate for Factor Xa Inhibitor Reversal in Acute Major Bleeding: A Systematic Review and Meta-Analysis](https://journals.lww.com/ccmjournal/Abstract/2021/10000/Andexanet_Alfa_or_Prothrombin_Complex_Concentrate.43.aspx)

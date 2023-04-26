@@ -2,9 +2,9 @@
 tags: [Fach/Gynäkologie, Fach/Pädiatrie, Art/Pathologie]
 title: Frühgeburt
 ---
-> (Abstract::**<37. [[SSW]].**)
+> (Abstract::**[[Geburt]] <37. [[SSW]].**)
 - **Risikofaktoren**
-	- *Fetal*:: Triple I, Mehrlingsschwangerschaft, Polyhydramnion
+	- *Fetal*:: [[Triple I]], Mehrlingsschwangerschaft, [[Polyhydramnion]]
 	- *Maternal*:: Alter <20/>40, Stress, [[Rauchen]], [[Hypertensive Schwangerschaftserkrankungen]], [[Gestationsdiabetes]]
 - **Komplikationen**
 	- [[Atemnotsyndrom]]
@@ -14,4 +14,4 @@ title: Frühgeburt
 	- [[Nekrotisierende Enterocolitis]]
 	- ==[[Intrakranielle Blutung]]==
 	- [[Apnoe]], [[Bradykardie]]
-- **Therapie**:: [[Tokolyse]]
+- **Therapie**:: [[Tokolyse]] Bridging bis [[Lungenreifeinduktion]]

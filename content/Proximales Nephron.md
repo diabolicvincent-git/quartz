@@ -1,25 +1,21 @@
 ---
-tags: [Fach/Physiologie, Fach/Nephrologie]
+tags: [Fach/Physiologie, Fach/Nephrologie/Nephronabschnitt]
 title: Proximales Nephron
 ---
 >  **Funktion**:: Massenrückresorption
-- **Anatomische Abschnitte**
-	- [[Proximaler Tubulus]] Pars convoluta
-	- [[Proximaler Tubulus]] Pars recta
-- **Resorption**
-	- [[Glucose]], [[AS]], [[Phosphat]] (je 100%)
-	- [[HCO3-]] (95%)
-	- [[Harnsäure]] (90%)
-	- NaCl, [[Wasser]], K+, [[Ca2+]] (je 65%)
-	- [[Mg2+]] (15%)
-- **[[Sekretion]]**:: H+
+- **Anteile**:: [[Proximaler Tubulus]] Pars convoluta + Pars recta
+- **Mechanismen**
+	- (Mechanismen::[[Na+]] Symporter)
+	- (Mechanismen::[[Parazellulärer Transport]] (Lumenpositives Potential + Solvent Drag))
+- **Resorption**:: [[Glucose]], [[AS]], [[Phosphat]] (je 100%), [[Bicarbonat (HCO3-)]] (95%), [[Harnsäure]] (90%), NaCl, [[Wasser]], K+, [[Ca2+]] (je 65%), [[Mg2+]] (15%)
+- **Sekretion**:: H+
 ### Transzelluläre Resorption
 - **Apikal**
-	- [[Na+]]/[[Glucose]] Symporter (SGLT1/SGLT2)
+	- [[Na+]]/[[Glucose]] Symporter ([[SGLT]]1/[[SGLT]]2)
 	- [[Na+]]/[[AS]] Symporter
 	- [[Na+]]/[[Phosphat]]-Symporter
 	- [[Na+]]/H+ Antiporter
-	- Luminale Carboanhydrase: [[HCO3-]] → [[CO2]] (diffundiert frei) + H+
+	- Luminale Carboanhydrase: [[Bicarbonat (HCO3-)]] → [[CO2]] (diffundiert frei) + H+
 - **Basolateral**
 	- ==[[Na+]]/3HCO3- Symporter (NBC1)==
 ### Parazelluläre Resorption

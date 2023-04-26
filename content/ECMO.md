@@ -8,12 +8,14 @@ title: ECMO
 	- *[[Blutungsneigung]]:* Antikoagulation, Faktor-Verbrauch, [[Thrombocytopathie]] 
 	- *Arterieller Verschluss durch Kanülierung:* Ischämie, [[Kompartmentsyndrom]][^1]
 - **Verfahren**
-	- ![[vvECMO]]
-	- ![[vaECMO]]
+	- [[vvECMO]]
+	- [[vaECMO]]
+- **Troubleshooting**
+	- *[[SpO2]]↓*:: Oxygenator (Prä-/Post-[[BGA]]), Diskonnektion, [[O2]]-Verbrauch↑ ([[Sedierung]], [[Fieber]], [[Anämie]] u.ä.), Lungenfunktion↓ (Blutfluss↑), [[Harlekin-Phänomen]]
+	- *[[Blutung]]*:: [[Blutungsneigung]] ([[Gerinnungsdiagnostik]]), [[Antikoagulation]] anpassen
+	- *Ansaugdruck↑ oder [[Hypotonie]]*:: ==[[Hypovolämie]]==, [[Sepsis]], [[Perikardtamponade]], [[Spannungspneumothorax]], myokardiale Dysfunktion (Inotropika?)
 
 ---
-
-## Infografik
 ![[Pasted image 20221023184553.png]]
 
 ## Übersicht mechanische Kreislaufunterstützung

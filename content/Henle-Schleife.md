@@ -1,16 +1,15 @@
 ---
-tags: [Fach/Nephrologie]
+tags: [Fach/Nephrologie/Nephronabschnitt]
 title: Henle-Schleife
 ---
 >  **Funktion**:: [[Harnkonzentrierung]]
-- **Anatomische Abschnitte**
-	- [[Proximaler Tubulus]] Pars recta
-	- [[Intermediärtubulus]]
-	- [[Distaler Tubulus]] Pars recta
-- **Resorption**
-	- [[Mg2+]] (75%)
-	- NaCl, [[Wasser]] (je 20%)
-- **[[Sekretion]]**:: K+
+- **Anteile**
+	- (Anteile::[[Proximaler Tubulus]] Pars recta)
+	- (Anteile::[[Intermediärtubulus]])
+	- (Anteile::[[Distaler Tubulus]] Pars recta)
+- **Mechanismen**:: [[Aquaporin]]-1, [[NKCC2]], Lumenpositives Potential
+- **Resorption**:: [[Mg2+]] (75%), NaCl, [[Wasser]] (je 20%)
+- **Sekretion**:: K+
 ### Dicker, absteigender Teil
 = [[#Proximales Nephron]]
 
@@ -20,7 +19,7 @@ title: Henle-Schleife
 ### Dicker, aufsteigender Teil
 > Impermeabel für [[Wasser]], permeabel für ==NaCl==
 #### Transzelluläre Resorption
-- ==[[Na+]]/K+/2Cl- Transporter (NKCC2)==
+- ==[[Na+]]/K+/2Cl- Transporter ([[NKCC2]])==
 	- Triebkraft: [[Na+]] Gradient durch [[Na+ K+ ATPase]]
 	- [[Na+]] nimmt 1 K+ und 2 [[Cl-]] mit
 	- K+ kommt über ==K+ Kanäle (ROMK)== wieder zurück ins Lumen

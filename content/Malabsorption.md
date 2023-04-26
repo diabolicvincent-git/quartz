@@ -14,7 +14,7 @@ title: Malabsorption
         - Sek. Lactasemangel (z.B. nach intestinalen [[Infektionen]])
     - **Diagnose**:: H2-Exhalationstest (Gase werden resorbiert und abgeatmet)
     - **Therapie**:: Weniger Lactose, Lactase-Präparate
-- **[[Glucose]]-Galactose-Malabsorption + Renale Glucosurie Typ 2**:: SGLT1-Defekt
+- **[[Glucose]]-Galactose-Malabsorption + Renale Glucosurie Typ 2**:: [[SGLT]]1-Defekt
     - **Symptome**:: [[Diarrhoe]], Glucosurie, [[Hypoglycämie]]
     - **Therapie**:: Glc-/Gal-freie [[Ernährung]]
 

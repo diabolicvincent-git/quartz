@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül]
+tags: [Modul/m14, Fach/Physiologie, Fach/Biochemie/Molekül, Fach/Hämatologie/Gerinnungsfaktoren]
 title: Ca2+
 ---
 > (Abstract::**Calcium.**)
@@ -7,7 +7,8 @@ title: Ca2+
 	- [[Signaltransduktion]] ([[Second Messenger]], Vesikelfreisetzung an [[Synapse]])
 	- [[Muskelkontraktion]]
 	- Stabilisierung von Ruhemembranpotential
-	- [[Hämostase]] (= Faktor IV)
+	- [[Hämostase]]
+		- Faktor::4
 	- Aufbau von Zahn- und [[Knochen]]substanz als Calciumphosphat $Ca_{3}(PO_{4})_{2}$
 - **Verteilung**:: Insg. 1 kg, davon 99% in [[Knochen]] als Calciumphosphat
 	- **EZ**:: 2,2-2,6 mmol/L, davon ==1,1-1,3 mmol/L ionisiert & aktiv==

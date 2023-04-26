@@ -9,7 +9,7 @@ title: Monoklonale Antikörper
 	- **[[LAG-3-Inhibitoren]]**
 	- **[[CTLA-4-Inhibitoren]]**
 - **Weitere Beispiele**
-	- *Abciximab:* [[Thrombocytenaggregationshemmer]] (Antagonist an GPIIb/IIIa-Fibrinogen-[[Rezeptor]])
+	- *Abciximab:* [[Thrombocytenaggregationshemmer]] (Antagonist an GPIIb/IIIa-[[Fibrinogen (F.I)]]-[[Rezeptor]])
 	- *Bevacizumab:* Diverse [[Tumor]]en ([[VEGF]]-Ligand-Bindung)
 	- *Dupilumab:* [[Atopische Dermatitis]] ([[IL-4]]-Antagonist)
 	- *Rituximab:* [[Glomerulonephritis]], [[Non-Hodgkin-Lymphom]] ([[CD]]20-Bindung)

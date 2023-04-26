@@ -608,7 +608,7 @@ Innervation
 *   Ellenbogengelenk
     *   Extension
     *   Kapselspannung
-*   N. radialis (C5–Th1)
+*   [[N. radialis]] (C5–Th1)
 ###### M. triceps brachii
 *   Tuberculum infraglenoidale scapulae (Ursprung des Caput longum)
 *   Laterale und dorsale Humerusfläche (Ursprung des Caput laterale)
@@ -715,7 +715,7 @@ Innervation
 *   Proc. styloideus radii
 *   Ellenbogengelenk: Flexion
 *   Radioulnargelenk: Herbeiführung der Mittelstellung zwischen Pronation/Supination
-*   werden vom N. radialis innerviert
+*   werden vom [[N. radialis]] innerviert
 ###### M. extensor carpi radialis longus
 *   Epicondylus lateralis humeri
 *   Lig. anulare radii
@@ -741,7 +741,7 @@ Innervation
 *   Hand\- und Fingergelenke
     *   Dorsalextension
     *   Ulnarabduktion
-*   N. radialis
+*   [[N. radialis]]
 ###### M. extensor digiti minimi
 *   Dorsalaponeurose 5. Finger
 ###### M. extensor carpi ulnaris
@@ -763,7 +763,7 @@ Innervation
 *   Lig. anulare radii
 *   Radius
 *   Radioulnargelenk: Supination
-*   werden vom N. radialis innerviert
+*   werden vom [[N. radialis]] innerviert
 ###### M. abductor pollicis longus
 *   Dorsalseiten von Ulna, Radius und Membrana interossea
 *   Os metacarpi I
@@ -994,7 +994,7 @@ Besonderheiten
 *   Caput longum: Tuberculum infraglenoidale
 *   Olecranon
 *   Schultergelenk: Adduktion
-*   N. radialis
+*   [[N. radialis]]
 *   Keine
 
 
@@ -1561,7 +1561,7 @@ Innervation
 
 
 
-## Untere Extremität
+## [[Untere Extremität]]
 ### Oberschenkelmuskulatur
 #### Adduktoren
 

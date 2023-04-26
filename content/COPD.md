@@ -2,18 +2,23 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: COPD
 ---
-> (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Bronchitis]] + [[Lungenemphysem]].)
-- **Epidemiologie**:: 13%, [[M]] > [[W]], ca. 70% undiagnostiziert
-- **Risikofaktoren**:: Exogen ([[Rauchen]], Feinstaub) ↔︎ Endogen ([[α1-Antitrypsin-Mangel]], [[CVID]], Frühgeburt)
-- **Symptome**:: chron. [[Husten]], progr. [[Dyspnoe]], u.U. [[Hypoxiezeichen]], Fassthorax, [[Cor pulmonale]]
-- **Komplikationen**:: ==[[aeCOPD]]==, [[Obstruktive Ventilationsstörung]]
-- **Diagnostik**:: Labor ([[BGA]], [[α1-Antitrypsin]]), [[Lungenfunktionsprüfung]]
-- **Stadieneinteilung**:: GOLD 1-4 nach FEV1
-    - GOLD 1 (leicht, FEV₁ ≥80% des erwarteten Wertes)
-    - GOLD 2 (mittel, FEV₁ 50–80%)
-    - GOLD 3 (schwer, FEV₁ 30–50%),
-    - GOLD 4 (sehr schwer, FEV₁ <30%)
-- **Therapie**:: Keine kausale Therapie
+> (Abstract::**Chronisch obstruktive Lungenerkrankung.** [[Entzündung]]/[[Bronchitis]] + [[Lungenemphysem]].)
+- **Epidemiologie**:: [[Prävalenz]] 10%, [[M]]=[[W]], ca. 70% undiagnostiziert
+- **Ätiologie**
+	- *Exogen*:: ==90% [[Rauchen]] (>20 PY)==, Feinstaub, [[Tbc]], berufliche Noxen
+	- *Endogen*:: ==[[α1-Antitrypsin-Mangel]]==, [[Selektiver IgA-Mangel]], [[Frühgeburt]]
+- **Pathophysiologie**:: Noxen [[p.i.]] → chronische [[Entzündung]] Bronchiolen → Fibrose, Parenchym↓, Flimmerepithel↓ → Bronchialkollaps, [[FEV1]]↓, ==[[Obstruktive Ventilationsstörung]]== → Exspiration↓, Air Trapping
+- **Klassifikation**
+	- *[[GOLD]] I-IV* (historisch, nach [[FEV1]])
+	- *Pragmatisch*:: leicht ([[Husten]]/[[Auswurf]] nur morgens) / mittel / schwer (Ruhedyspnoe)
+- **Symptome**:: ==Chronischer [[Husten]] mit [[Auswurf]]==, progrediente [[Dyspnoe]], ggf. Hypoxiezeichen, Fassthorax, Cor pulmonale
+- **Komplikationen**:: ==[[aeCOPD]]==, [[Lungenemphysem]]
+- **Diagnostik**:: [[Untersuchung]], Labor ([[BGA]], [[CRP]], [[α1-Antitrypsin]]), [[Lungenfunktionsprüfung]]
+- **DD**:: [[Asthma]] (Kinder, Allergie, symptomfreie Phasen, Bronchospasmolyse-Test), [[Lungen-Ca]], [[Lungenödem]], [[Pneumothorax]], [[LAE]], [[Lungenfibrose]], [[Sarkoidose]]
+- **Therapie**:: Ziel = [[aeCOPD]] vermeiden
+	- *Allg.*:: [[Nikotin]]-Karenz(!), Atemtraining, Sport/Reha, [[Impfung]], [[Osteoporose]]-Prophylaxe
+	- *Med.*:: ==[[LAMA]] ([[Anticholinergika]]) und/oder [[LABA]] ([[β2-Sympathomimetika]])==, ggf. [[p.i.]] [[Glucocorticoide]], Roflumilast, Langzeit-[[O2]], Nacht-[[CPAP]], [[LuTX]]
+- **Prognose**:: Lebenserwartung↓↓
 
 ## Pathogenese
 

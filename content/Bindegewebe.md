@@ -55,7 +55,7 @@ Spinozelluläres BG|zellreich; wenig reticuläre Fasern|Follikelbildung im [[Ova
 
 ### [[Schwangerschaft]]
 
-- Im [[Uterus]]: Kollagenausrichtung verändert (parallel), [[Kollagen]] nimmt zu, Hyaluronansynthese gesteigert, Wassereinlagerung gesteigert bei Wehen Induktion der Matrixmetalloproteasen (MMPs) zur Vermittlung des Abbaus des nun „überschüssigen“ Gewebes
+- Im [[Uterus]]: Kollagenausrichtung verändert (parallel), [[Kollagen]] nimmt zu, Hyaluronansynthese gesteigert, Wassereinlagerung gesteigert bei [[Wehen]] Induktion der Matrixmetalloproteasen (MMPs) zur Vermittlung des Abbaus des nun „überschüssigen“ Gewebes
 
 ### Alterung
 

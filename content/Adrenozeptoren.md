@@ -18,6 +18,6 @@ title: Adrenozeptoren
 	- *Leber, Skelettmuskulatur:* Glycogenolyse↑
 	- *Weißes Fettgewebe:* Lipolyse↑ 
 	- *[[Pankreas]]:* Insulinfreisetzung↑ 
-	- *[[Uterus]]:* Tokolyse
+	- *[[Uterus]]:* [[Tokolyse]]
 - **β3**:: [[Gαs]]
 	- *Braunes Fettgewebe:* Lipolyse↑ 

@@ -1,5 +1,5 @@
 ---
-tags: [Modul/m15, Modul/m10, Fach/Neurologie, Fach/Anatomie]
+tags: [Modul/m15, Modul/m10, Fach/Neurologie, Fach/Anatomie, ToDo]
 title: Rückenmark
 ---
 > Teil des [[ZNS]], der [[Gehirn]] mit [[PNS]] verbindet und teils Informationen eigenständig verschaltet (*spinale [[Reflex]]*)
@@ -7,6 +7,10 @@ title: Rückenmark
 	- *Radix anterior* ([[Efferenzen]])
 	- *Radix posterior* ([[Afferenzen]])
 - *Cauda equina:* [[Spinalnerven]]geflecht ab LWK 1-2 (Rückenmark ist kürzer als Wirbelkanal)
+- **Leitungsbahnen**
+	- *Sensibel/Aufsteigend*:: Kleinhirnseitenstrangbahn, Hinterstrangbahn, Vorderseitenstrang
+	- *Motorisch/Absteigend*:: Extrapyramidale Bahnen, Pyramidenbahn
+	- *Intraspinal*:: Fasciculi anterior/lateralis/posterior
 
 ## Aufbau
 ![[Pasted image 20210323170520.png]]

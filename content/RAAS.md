@@ -28,7 +28,7 @@ title: RAAS
     - Zirkulierendes [[Adrenalin]] aus [[Nebennierenmark]]
     - Afferenter Input u.a. von [[Pressorezeptoren]] ([[Aorta]], Carotisgabel) und atrialen [[Volumenrezeptoren]]
 3. **Macula-densa-Mechanismus**
-    - NaCl-Konzentration im Primärharn des frühdistalen Tubulus (via NKCC2)
+    - NaCl-Konzentration im Primärharn des frühdistalen Tubulus (via [[NKCC2]])
     - Niedrige tubul. NaCl-Konzentration steigert Reninfreisetzung
     - Gegenläufig bei hoher tubul. NaCl-Konzentration wird Adenosin freigesetzt
 

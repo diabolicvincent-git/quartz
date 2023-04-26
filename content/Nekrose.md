@@ -49,7 +49,7 @@ title: Nekrose
 			- Aktivierung von Autophagosomen
 			- vermehrter Synthese Ca²+-bindender Proteine
 			- Verschlusss [[Gap Junction]]
-			- Demarkierung durch Fibrin
+			- Demarkierung durch [[Fibrin (F.Ia)]]
 			- Phagocytose toter Zellen
 			- [[Neutrophile Granulocyten]] & [[Makrophagen]] wandern in Gewebe ein, induzieren Entzündungsreaktion
 				- Bildung Granulationsgewebe bzw. Vernarbung
@@ -76,7 +76,7 @@ title: Nekrose
 				- typischerweise durch [[Infektionen]] (Mycobacterium tuberculosis, Tularämie, [[Syphilis]])
 		- ==fibrinoide Nekrose== (Kollagennekrose)
 			- Untergang von Kollagenfaser und Durchtränkung des nekrotischen Arealsmit fibrinogenreichem Plasma
-			- Fibrinogen gerinnt zu Fibrin (→ homogene, eosinophile Färbung)
+			- [[Fibrinogen (F.I)]] gerinnt zu [[Fibrin (F.Ia)]] (→ homogene, eosinophile Färbung)
 			- typischerweise für chronisch-entzündliche Prozesse
 				- Autoimmunerkrankungen, Gefäßnekrosen, rheumatischen [[Fieber]]/Artthritis, Magen-Darm-[[Ulcus]]
 		- ==trockene, gangränöse Nekrose==

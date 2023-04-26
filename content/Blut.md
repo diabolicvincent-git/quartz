@@ -12,7 +12,7 @@ title: Blut
 		- [[Wasser]] (90%)
 		- [[Plasmaproteine]]
 		- Niedermolekulare Stoffe ([[Glucose]], [[Lactat]], [[Harnstoff]], [[Kreatinin]])
-		- [[Elektrolyte]] ([[Cl-]], [[HCO3-]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]])
+		- [[Elektrolyte]] ([[Cl-]], [[Bicarbonat (HCO3-)]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]])
 	- **Korpuskuläre Blutzellen** (45%)
 		- [[Erythrocyten]] (99%)
 		- [[Thrombocyten]]

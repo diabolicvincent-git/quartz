@@ -18,7 +18,7 @@ title: Halsschmerzen
 - Asymmetrie der [[Tonsillen]] (Cave: Peritonsillarabszess)
 - Massive [[Lymphknoten]]-Pakete ([[Mononukleose]], kein [[Amoxicillin]])
 - DD [[Kawasaki-Syndrom]]
-- Komplexe Symptome, sexuelle Risikoanamnese (Systemische Erkrankungen, z.B. [[HIV]], Gonorrhoe, Diphtherie)
+- Komplexe Symptome, sexuelle Risikoanamnese (Systemische Erkrankungen, z.B. [[HIV]], [[Gonorrhoe]], Diphtherie)
 - Agranulocytäre Angina (z.B. nach Thyreostatika, [[Metamizol]])
 - Akutes rheumatisches [[Fieber]] in Eigen-/Familienanamnese
 

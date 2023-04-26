@@ -8,7 +8,7 @@ title: Thrombophilie
 - **Defekte**
 	- **Gerinnungsfaktor-Defekte**:: Hochfrequent, geringere thrombophile Diathese (~x5)
 		- *[[Faktor-V-Leiden]]*
-		- *Prothrombin 20210G>A*
+		- *[[Prothrombin (F.II)]] 20210G>A*
 	- **Inhibitormangel**:: Selten, hohe thrombophile Diathese
 		- *Protein-C- oder Protein S-Mangel* (auch erworben, z.B. durch [[Vitamin-K-Antagonisten]] oder [[Schwangerschaft]] möglich)
 		- *Antithrombin-Mangel*
@@ -16,5 +16,5 @@ title: Thrombophilie
 ## Gerinnungsfaktor-Defekte
 ![[Faktor-V-Leiden]]
 
-### Prothrombin 20210G>A
-> *Gain-of-function* [[Mutation]]: Vermehrtes Prothrombin↑ 
+### [[Prothrombin (F.II)]] 20210G>A
+> *Gain-of-function* [[Mutation]]: Vermehrtes [[Prothrombin (F.II)]]↑ 

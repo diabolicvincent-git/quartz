@@ -3,11 +3,12 @@ tags: [Modul/m22, Fach/Endokrinologie, Fach/Labor, Fach/Gynäkologie, Art/Interv
 title: β-HCG
 ---
 > (Abstract::**Humanes Choriongonadotropin.** "Schwangerschaftshormon".)
-- **Synthese**:: In der ==[[Schwangerschaft]]== vom Syncytiotrophoblast der [[Plazenta]]
-	- **Struktur**:: Peptidhormon mit 2 UE (α-UE ist identisch für hCG, [[FSH]], [[TSH]], [[LH]])
-- **Wirkmechanismus**:: Bindung an [[LH]]-Rezeptor
+- **Wirkung**:: Bindung an [[LH]]-Rezeptor → Erhalt [[Schwangerschaft]]
+- **Synthese**:: In [[Schwangerschaft]] von Syncytiotrophoblast der [[Plazenta]]
+- **Struktur**:: Peptidhormon mit 2 UE (α-UE identisch für HCG, [[FSH]], [[TSH]], [[LH]])
 - **Pathologien**
-	- [[Tumormarker]] bei hormonproduzierendem [[Tumor]] der [[Plazenta]]/Keimdrüsen
+	- *[[Schwangerschaft]]*:: Rascher Anstieg in Frühschwangerschaft, max. 10. [[SSW]]
+	- *[[Tumormarker]]*:: Hormonproduzierender [[Tumor]] der [[Plazenta]]/Keimdrüsen
 ---
 ## Abbildung
 ![[Pasted image 20211115110839.png]]

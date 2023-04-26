@@ -3,7 +3,7 @@ tags: [Modul/m22, Fach/Neurologie, Fach/Gynäkologie]
 title: OXYTOcin
 ---
 - **Wirkung**
-	- *[[Glatte Muskulatur]]:* Kontraktion von [[Uterus]] (Wehen↑) und [[Mamma]]drüsen
+	- *[[Glatte Muskulatur]]:* Kontraktion von [[Uterus]] ([[Wehen]]↑) und [[Mamma]]drüsen
 	- *[[ZNS]]:* Stärkt zwischenmenschliche Bindung
 - **Synthese**
 	- **Struktur**:: Ähnlich [[ADH]]

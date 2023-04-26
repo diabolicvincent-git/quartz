@@ -17,7 +17,7 @@ title: Aminosäurestoffwechsel
     - [[Na+]] abhängiger Symport (elektrogen)
     - [[Na+]] unabhängiger Uniport (energieunabhängig)
 - **Abbau von [[AS]]**
-    - **Problem**:: Freisetzung von Ammoniak NH3
+    - **Problem**:: Freisetzung von [[Ammoniak (NH3-)]] NH3
         - Stickstoff-Übertragung auf Intermediate, Bildung neuer [[AS]]
         - Protonierung und Ausscheidung
         - Fixierung in nicht-toxischen Metaboliten und deren Ausscheidung
@@ -35,7 +35,7 @@ title: Aminosäurestoffwechsel
                 - Außerdem: Oxidasen → Hydroxy-Pyruvat
                 - Außerdem Glutaminase (hydrolytisch): [[Glutamin]] → [[Glutamat]]
             - Decarboxylierung: Entstehung biogener Amine
-            - **Ammoniak-Entgiftung →** Fixierung von NH3
+            - **[[Ammoniak (NH3-)]]-Entgiftung →** Fixierung von NH3
                 - Harnstoffsynthese in der [[Leber]]
                 - [[Glutamin]]-Synthetase in [[Gehirn]], [[Leber]], anderen Geweben
         2. **C-Skelett**
@@ -46,5 +46,5 @@ title: Aminosäurestoffwechsel
 
 ## Abbau von [[AS]]
 
-## Ammoniak-Entgiftung
+## [[Ammoniak (NH3-)]]-Entgiftung
 

@@ -3,9 +3,7 @@ title: Vincent's Notes
 enableToc: false
 ---
 ## 👋 Hallo.
-Willkommen in der gehosteten Online-Version meines Notizsystems. Mein Name ist Vincent Weber, ich bin in den letzten Zügen meines Medizinstudiums mit besonderem Interesse an Notfall- und Intensivmedizin. Hier stelle ich aus festem Glauben an den [FOAMed-Spirit](https://litfl.com/foam-free-open-access-medical-education/) einige Ressourcen, die sich bei mir so angesammelt haben, frei zur Verfügung. Alles ist ein Work-in-Progress und insbesondere meine Notizen entwickeln sich fluide und sind nie "fertig". 
-
-Du hast einen Fehler gefunden oder möchtest etwas verbessern? Durch Klick auf *Edit Source* kannst du jede Notizdatei via [GitHub](https://github.com/vncntwbr/quartz) bearbeiten. Danke für deine Nerdiness! 🤓
+Willkommen in der online gehosteten Version meines Medizin-Notizsystems. Mein Name ist Vincent Weber, ich bin in den letzten Zügen meines Medizinstudiums mit besonderem Interesse an Notfall- und Intensivmedizin. Im Sinne des [FOAMed-Spirit](https://litfl.com/foam-free-open-access-medical-education/) stelle ich hier einige Ressourcen, die sich bei mir so angesammelt haben, frei zur Verfügung. Alles ist ein Work-in-Progress und insbesondere meine Notizen entwickeln sich fluide und sind nie "fertig". Du hast einen Fehler gefunden oder möchtest etwas verbessern? Durch Klick auf *Edit Source* kannst du jede Notizdatei via [GitHub](https://github.com/vncntwbr/quartz) bearbeiten. Danke für deine Nerdiness! 🤓
 
 > [Alle Medizin-Notizen →](/tags)
 

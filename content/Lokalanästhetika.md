@@ -2,32 +2,23 @@
 tags: [Modul/m20, Fach/Pharmakologie/Medikament, Fach/Anästhesie]
 title: Lokalanästhetika
 ---
-- **Wirkung**:: [[Vasodilatation]][^1] > [[Schmerz]]↓ > Temperatur > Druck > Motorik[^2]
-- **Wirkmechanismus**:: Blocken spannungsabhängiger [[Na+]] Kanäle
-	- Bioaktive Form entsteht [[pH]]↓-abh. durch Protonierung
-- **Wirkeintritt**:: i.d.R. 3 min, verschlechert[^3] bei [[Azidose]]/[[Entzündung]]
-- **[[UAW]]**
-	- Früh: [[Schwindel]], Tinnitus, Unwohlsein, periorale Taubheit
-	- Spät: [[Tremor]], Myoklonus, [[Krampfanfall]], [[ZNS]]-Dämpfung, [[Vigilanzminderung]], Apnoe
-	- [[Herz]]: Negativ [[inotrop]]/[[chronotrop]]/[[bathmotrop]]/[[dromotrop]] ([[Lidocain]] bei [[CPR]])
+- **Wirkung**:: Reversible Blockade spannungsabh. [[Na+]] Kanäle → [[Aktionspotentiale]]↓
+	1. *Sympathikolyse*:: [[Vasodilatation]] (daher manchmal [[EPINEPHrin]]-Zusatz)
+	2. *[[Sensibilitätsstörung]]*:: Temperatur↓, [[Schmerz]]↓, Druck↓, Berührung↓ (nach ==3 min==)
+	3. *Motorik↓*:: [[Parese]] [[Skelettmuskulatur]]
+- **Pharmakokinetik**:: Deprotonierung/Membranpassage (↓ bei [[Entzündung]]/[[Azidose]]) → IZ Protonierung/Aktivierung
+- **Wirkstoffe**
+	- *Kurzwirksam*:: [[Procain]], [[Chloroprocain]]
+	- *Mittellangwirksam*:: ==[[Lidocain]]==, [[Prilocain]] ([[Methämoglobinämie]]), [[Mepivacain]], [[Articain]], [[Tetracain]]
+	- *Langwirksam*:: [[BUPIvacain]] (insb. Motorik↓), [[Levobupivacain]], [[ROPIvacain]] (Diff.-Block [[PDA]])
+- **UAW**:: [[Vasodilatation]], Neurotox. ([[Cauda-equina-Syndrom]]), systemische [[Intoxikation]] bei [[i.v.]]-Gabe (Kardiotox. ([[HRST]]), [[Neurologisches Defizit]])
 - **Indikation**
-	- **Lokalanästhesie** 
-		- **Oberflächenanästhesie** (z.B. Mundschleimhaut-Spray)
-		- **Infiltrationsanästhesie** an Nervenästen
-		- **Leitungsanästhesie** an Nervenstamm
-	- **[[Regionalanästhesie]]** 
-		- **Spinalanästhesie**
-		- **Periduralanästhesie**
-		- **Plexusblock**
-		- **[[i.v.]]-[[Regionalanästhesie]]**
+	- *Oberflächenanästhesie*:: [[Lidocain]]/[[EMLA-Pflaster]]
+	- *Infiltrationsanästhesie*:: [[Lidocain]] 1% (max. 30ml), alternativ [[Prilocain]], [[Mepivacain]], [[ROPIvacain]]
+	- *[[Periphere Leitungsanästhesie]]*:: [[Lidocain]] 1%/2%, [[Prilocain]], [[BUPIvacain]], [[ROPIvacain]], [[Mepivacain]]
+	- *[[Spinalanästhesie]]*:: [[Prilocain]], [[Mepivacain]], [[BUPIvacain]]
+	- *[[PDA]]*:: [[Lidocain]] (kurz), [[ROPIvacain]] (lang)
 
 ## Chemie
 - **Ester-Typ**:: HWZ↓, Spaltung durch Esterasen im Plasma (z.B. [[Kokain]])
 - **Amid-Typ**:: HWZ↑ 60-200 min (z.B. [[Lidocain]])
-
-### [[Pharmakokinetik]]
-- [[pH]]-abhängiger Wechsel in bioaktive, geladene Form durch Protonierung
-
-[^2]: Wirkung stärker an dünneren [[Axon]] (C-Fasern z.B. [[Sympathikus]]) als an dickeren (Aα)
-[^3]: Verfrühter Übergang in protonierte, geladene, aktive Form → schlechtere Membrangängigkeit
-[^1]: Daher manchmal [[Lokalanästhetika]] mit [[Adrenalin]]-Zusatz

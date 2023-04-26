@@ -5,7 +5,7 @@ title: Harnkonzentrierung
 > Aufbau eines corticomedullären [[Osmolarität]]sgradienten, der im Sammelrohr zur Wasserresoprion genutzt wird
 
 ## Gegenstromprinzip
-1. Aktive Natriumresorption in [[Henle-Schleife]] via NKCC2 ([[Na+]]/[[K+]]/2Cl-)
+1. Aktive Natriumresorption in [[Henle-Schleife]] via [[NKCC2]] ([[Na+]]/[[K+]]/2Cl-)
 2. [[Wasser]] kann nicht folgen, da dieser Teil wasserimpermeabel ist → Tubuluslumen wird hyposmolar
 3. Großer Osmolaritätsgradient → starke Wasserresorption später im absteigenden Teil der [[Henle-Schleife]]
 

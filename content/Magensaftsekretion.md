@@ -25,13 +25,13 @@ title: Magensaftsekretion
     - Pepsin A ([[pH]] 1,8 opt.) → Abbau von Proteinen
     - Gastricin (= Pepsin C; [[pH]] 3,0 opt.) → Abbau von Casein der Milch
     - Magenlipase ([[pH]] 4-7 opt.) → Fettverdauung nur beim Säugling
-4. **[[Sekretion]]**:: [[Wasser]], HCl, [[Enzyme]], Mucus, [[HCO3-]] (Pufferfunktion), Intrinsic Factor ([[Vitamin B12 (Cobalamin)]]-Resorption)
+4. **[[Sekretion]]**:: [[Wasser]], HCl, [[Enzyme]], Mucus, [[Bicarbonat (HCO3-)]] (Pufferfunktion), Intrinsic Factor ([[Vitamin B12 (Cobalamin)]]-Resorption)
 5. **Kaum Resorption**:: [[Lipide]], Alkohole durch Lipidphase der [[Zellmembran]]
 
 ## Epitheliale Zelltypen und ihre Funktionen
 
 - **Oberflächenzellen, Nebenzellen**
-    - Mucus, [[HCO3-]], [[Cl-]] → Schutz, Gleitfähigkeit, Diffusionsbarriere für H+, Abpufferung von H+
+    - Mucus, [[Bicarbonat (HCO3-)]], [[Cl-]] → Schutz, Gleitfähigkeit, Diffusionsbarriere für H+, Abpufferung von H+
 - **Belegzellen = Parietalzellen**
     - HCl → Desinfektion, Aktivierung von Pepsinogen, [[Denaturierung]]
     - Intrinsic Factor → Komplexbildung mit [[Vitamin B12 (Cobalamin)]] im [[Duodenum]] (Abbauschutz, ermöglicht endocytotische Aufnahme im [[Ileum]])
@@ -54,8 +54,8 @@ title: Magensaftsekretion
 - Primär aktiver Antiport
 - Aufgenommenes K+ verlässt Zelle durch luminalen K+ Kanal wieder
 - **Protonenbildung**
-    - **Carboanhydrase**:: [[Wasser]] + CO2 → [[HCO3-]] + H+
-- [[HCO3-]] verlässt Zelle im basalen Antiport gegen [[Cl-]]
+    - **Carboanhydrase**:: [[Wasser]] + CO2 → [[Bicarbonat (HCO3-)]] + H+
+- [[Bicarbonat (HCO3-)]] verlässt Zelle im basalen Antiport gegen [[Cl-]]
 - [[Cl-]] gemeinsam mit H+ luminal sekretiert
 - **Stimuli**
     - [[Histamin]] an H2-[[Rezeptor]] ([[Hormon]] aus H-Zellen)
@@ -84,10 +84,10 @@ title: Magensaftsekretion
 ## Protektive Mechanismen zum Schutz der Magenschleimhaut
 
 - **Mucusschicht**:: Diffusionsbarriere für Pepsine und H+ ("unstirred layer")
-- **[[HCO3-]]**:: Inaktivierung der Pepsine in Mucusschicht (bei [[pH]]=7) und Neutralisierung von Protonen
+- **[[Bicarbonat (HCO3-)]]**:: Inaktivierung der Pepsine in Mucusschicht (bei [[pH]]=7) und Neutralisierung von Protonen
 - Keine Transporter für H+ in apikaler Membran
 - Tight junctions verhindern das Erreichen der ungeschützten basalen Zellseite
-- Transepitheliale Potentialdifferenz (mehr [[HCO3-]] im Lumen) hält Protonen zurück (elektr. Potential vs. chem. Potential)
+- Transepitheliale Potentialdifferenz (mehr [[Bicarbonat (HCO3-)]] im Lumen) hält Protonen zurück (elektr. Potential vs. chem. Potential)
 
 
 ---
@@ -96,8 +96,8 @@ title: Magensaftsekretion
     - **Ursachen**
         - [[Glucocorticoide]] → Lipocortin → Phospholipase-A2-Hemmung → PGE↓
         - [[NSAR]] → [[COX]]-Hemmung → PGE↓
-        - [[Alkohol]] → PGE↓ → Hemmung der [[HCO3-]] und Mucussekration
-        - Mangeldurchblutung → Hemmung der [[HCO3-]] und Mucussekration
+        - [[Alkohol]] → PGE↓ → Hemmung der [[Bicarbonat (HCO3-)]] und Mucussekration
+        - Mangeldurchblutung → Hemmung der [[Bicarbonat (HCO3-)]] und Mucussekration
         - [[H. pylori]] (gramneg. [[Bakterien]]) → Auflösen des Mucus
     - **Folgen bei Eindringen von H+ →** Aktivierung von Mastzellen → [[Histamin]]
         1. → Kapillardurchlässigkeit → lokale [[Ödeme]]

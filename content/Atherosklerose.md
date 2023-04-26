@@ -3,8 +3,8 @@ tags: [Modul/m02, Modul/m08, Modul/m11, Fach/Biochemie, Fach/Kardiologie, Art/Pa
 title: Atherosklerose
 ---
 - **Pathophysiologie**
-	1. Hohe LDL-[[Cholesterol]]-Konz.
-	2. Vermehrt oxidiertes LDL-[[Cholesterol]] (durch [[ROS]] und Interaktion mit Gewebe bei Gefäßwandschäden)
+	1. Hohe [[LDL]]-[[Cholesterol]]-Konz.
+	2. Vermehrt oxidiertes [[LDL]]-[[Cholesterol]] (durch [[ROS]] und Interaktion mit Gewebe bei Gefäßwandschäden)
 	3. ==Endothel-Mikroläsionen== → Monocyten-Einwanderung zu [[Makrophagen]]
 	4. Unregulierte Aufnahme von oxLDL durch Scavenger-[[Rezeptor]] der [[Makrophagen]]
 	5. Hohe [[Cholesterol]]-Konz. in [[Makrophagen]] ("Schaumzellen")

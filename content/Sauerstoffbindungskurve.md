@@ -8,7 +8,7 @@ title: Sauerstoffbindungskurve
 - **Rechtsverschiebung = [[O2]]-Affinität↓ = Abgabe im Gewebe↑**
     - pCO2↑: [[pH]]↓
     - Temperatur↑: Brown'sche Molekularbewegung
-    -[[pH]]↓: Protonierung, tensed-Zustand stabilisiert *(Bohr-Effekt)*
+    -[[pH]]↓: Protonierung, tensed-Zustand stabilisiert *([[Bohr-Effekt]])*
     - 2,3-Bisphosphoglycerat↑: Bindung zw. β-UE, tensed-Zustand stabilisiert (Synthese via [[Glycolyse]]-Umweg)
 - **Linksverschiebung = [[O2]]-Affinität↑ = Abgabe im Gewebe↓**
     - pCO2↓
@@ -16,6 +16,6 @@ title: Sauerstoffbindungskurve
     - [[pH]]↑
     - 2,3-BPG↓
     - Embryonales/Fetales [[Hb]] (höhere Affinität, da es [[O2]] vom mütterlichen [[Hb]] aufnehmen muss)
-## Abbildung
+---
 ![[Sauerstoffbindungskurve.jpg.jpg]]
 

@@ -24,7 +24,7 @@ title: Rheumatologie
 - [[Arthritis]]
 	- [[Rheumatoide Arthritis]]
 	- [[Spondyloarthritis]]
-		- [[M. Bechterew]]
+		- [[Spondylitis ankylosans (M. Bechterew)]]
 		- [[Psoriasis-Arthritis]]
 		- [[Reaktive Arthritis]]
 		- [[Enteropathische Arthritis]]

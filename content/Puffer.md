@@ -3,7 +3,7 @@ tags: [Modul/m13, Modul/m14, Fach/Physiologie, Fach/Nephrologie, Fach/Pneumologi
 title: Puffer
 ---
 Ca. 99% der freien Protonen werden über Puffersysteme "abgefangen".
-![[HCO3-]]
+![[Bicarbonat (HCO3-)]]
 
 ## Proteine
 - Aufnahme von H+ über reaktive Gruppen der [[AS]]

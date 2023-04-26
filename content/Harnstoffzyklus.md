@@ -2,13 +2,20 @@
 tags: [Modul/m12, Fach/Physiologie, Fach/Biochemie, Fach/Gastroenterologie]
 title: Harnstoffzyklus
 ---
-> NH3$^{+}$ + HCO3$^{–}$ → [[Harnstoff]]
-- **Funktion**:: Ammoniak-Entgiftung → [[Niere]]
-- **Einfluss auf [[Säure-Basen-Haushalt]]**:: Benötigt [[HCO3-]]
-- **Schlüsselenzym**:: Carbamoylphosphatase 1
-
-
-### Antransport des Ammoniaks
-- **Glutaminzyklus**
-- **Alaninzyklus**
-
+> **[[Ammoniak (NH3-)]] + [[Bicarbonat (HCO3-)]] → [[Harnstoff]].**
+- **Funktion**:: [[Ammoniak (NH3-)]]-Entgiftung
+- **Ort**:: ==[[Leber]]==, teils [[Niere]]
+- **Energiebilanz**:: Verbraucht 3 [[ATP]]
+- **Schlüsselenzym**:: ==Carbamoylphosphatase 1==
+- **Regulation**
+	- **↑**:: N-Acetylglumatat (AS-Abbau)
+- **Pathologien**:: [[Hepatische Encephalopathie]]
+- **Herkunft des [[Ammoniak (NH3-)]]**
+	- *[[Glutaminzyklus]]* (ubiquitär)
+	- *[[Alaninzyklus]]* ([[Muskeln]])
+- **Ablauf**
+	1. [[Ammoniak (NH3-)]] + [[Bicarbonat (HCO3-)]] → [[Carbamoylphosphat]]
+	2. [[Carbamoylphosphat]] + [[Ornithin]] → [[Citrullin]]
+	3. [[Citrullin]] + [[Aspartat]] → [[Argininosuccinat]]
+	4. [[Argininosuccinat]] → [[Arginin]] + [[Fumarat]]
+	5. [[Arginin]] → [[Harnstoff]] + [[Ornithin]]

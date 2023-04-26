@@ -4,7 +4,7 @@ title: Elektrolyte
 ---
 - **Anionen**
 	- [[Cl-]]
-	- [[HCO3-]]
+	- [[Bicarbonat (HCO3-)]]
 	- [[Phosphat]]
 - **Kationen**
 	- [[Na+]]

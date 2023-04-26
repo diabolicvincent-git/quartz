@@ -33,7 +33,7 @@ title: Entwicklung des Auges
     - Äußeres Blatt wird schmal → dünnes Pigmentepithel
     - Abschnürung der [[Augenlinse]] vom Oberflächenektoderm
     - Andere gefäß- und bindegewebigen Augenanteile entstehen aus Kopfmesenchym
-- **A. hyaloidea**:: Embryonale Versorgung von Glaskörper und [[Augenlinse]]; Rückbildung vor Geburt
+- **A. hyaloidea**:: Embryonale Versorgung von Glaskörper und [[Augenlinse]]; Rückbildung vor [[Geburt]]
 - **Schluss der Augenbecherspalte** (Fissura optica) um Woche 7
 
     ![[Untitled 1 10.png]]

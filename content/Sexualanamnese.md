@@ -126,7 +126,7 @@ Konkret Fragen: "wurden sie geschlagen?"
     
 #### Methoden des Schwangerschaftsabbruchs
 -   Medikamentös
-    -   bis zum 63. Tag nach der letzten [[Menstruation]] (7W p.c., bzw. 9W p.m.)
+    -   bis zum 63. Tag nach der letzten [[Menstruation]] (7W [[p.c.]], bzw. 9W [[p.m.]])
     -   Unterbindung der Progesteronwirkung durch Mifepriston → Lösen des Embryos aus Uterusschleimhaut → innterhalb 26-48h
     -   Misoprostol → Uterine Kontraktion und Ausstoßung der [[Schwangerschaft]] nach 36-48h
 -   Operativ

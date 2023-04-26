@@ -69,11 +69,11 @@ title: IMPP-Arzneistoffe
 - **Antidote**
 	- **Faktor-Xa-Inhibitoren-Antidote**:: Andexanet
 	- **Heparin-Antidote**:: Protamin
-	- **Thrombin-Inhibitoren-Antidote**:: Idarucizumab
+	- **[[Thrombin (F.IIa)]]-Inhibitoren-Antidote**:: Idarucizumab
 	- **[[Vitamine]]**:: [[Vitamin K]]
 - **[[DOAK**
 	- **Faktor-Xa-Inhibitoren**:: [[Apixaban]], [[Rivaroxaban]]
-	- **Thrombin-Inhibitoren**:: [[Dabigatran]]
+	- **[[Thrombin (F.IIa)]]-Inhibitoren**:: [[Dabigatran]]
 - **Fibrinolytika**
 	- **Gewebeplasminogen-Aktivatoren**:: Alteplase
 - **[[Heparin]]**
@@ -129,7 +129,7 @@ title: IMPP-Arzneistoffe
 
 ### [[GABA]]erges System
 - **Barbiturate**:: Phenobarbital, Thiopental
-- **[[Benzodiazepine]]**:: Diazepam, Flumazenil, Lorazepam, Midazolam, Oxazepam, Triazolam
+- **[[Benzodiazepine]]**:: Diazepam, [[Flumazenil]], Lorazepam, Midazolam, Oxazepam, Triazolam
 - **Inhejektionsanästhetika**
 	- **Diisopropylphenole**:: [[Propofol]]
 	- **Phenylethylimidazole**:: Etomidat
@@ -310,7 +310,7 @@ title: IMPP-Arzneistoffe
 - **[[Diuretika]]**
 	- **[[Carboanhydrase-Hemmer]]**:: Acetazolamid, Brinzolamid
 	- **[[Na+]]/[[Cl-]]-Cotransport-Inhibitoren / [[Thiaziddiuretika]]**:: Hydrochlorothiazid
-	- **NKCC2-Cotransport-Inhibitoren / [[Schleifendiuretika]]**:: [[Furosemid]]
+	- **[[NKCC2]]-Cotransport-Inhibitoren / [[Schleifendiuretika]]**:: [[Furosemid]]
 - **Laxanzien**
 	- **Sekretagogisch/Antiresorptive Laxanzien**:: Bisacodyl
 	- **Wasserbindner**:: Macrogol, Mannitol

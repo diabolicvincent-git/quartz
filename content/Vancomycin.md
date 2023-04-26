@@ -1,4 +1,5 @@
 ---
+title: Vancomycin
 ---
 > (Abstract::**[[Glycopeptide]].**)
 - **Indikation**:: ==[[MRSA]]==, Reserve bei anderen [[Infektionen]] (nur [[grampositiv]])

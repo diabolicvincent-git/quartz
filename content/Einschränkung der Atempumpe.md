@@ -15,7 +15,7 @@ title: Einschränkung der Atempumpe
     - Critical Illness Myopathy
     - [[Muskeldystrophie Duchenne]]
 - ...
-    - [[M. Bechterew]]
+    - [[Spondylitis ankylosans (M. Bechterew)]]
 
 ## Ursachen von [[Husteninsuffizienz]] aufzählen und erläutern
 

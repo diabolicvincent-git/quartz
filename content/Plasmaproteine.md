@@ -7,7 +7,7 @@ title: Plasmaproteine
 	- *[[α1-Antitrypsin]]*
 	- *HDL*
 	- *TBG* ([[T4]]-Transport)
-	- *Prothrombin* (Faktor-II-Vorstufe für [[Hämostase]])
+	- *[[Prothrombin (F.II)]]* (Faktor-II-Vorstufe für [[Hämostase]])
 	- *Transcortin* (Transport von [[Cortisol]], [[Gestagene]])
 - **α2-Globuline (8%)** 
 	- *Antithrombin* ([[Hämostase]]-Hemmung)
@@ -17,9 +17,9 @@ title: Plasmaproteine
 	- *α2-Makroglobulin*
 	- *Coeruloplasmin*
 - **β-Globuline**
-	- *==LDL==*
+	- *==[[LDL]]==*
 	- *C3, C4* ([[Komplementsystem]])
-	- *Fibrinogen* (Faktor-1-Vorstufe für [[Hämostase]])
+	- *[[Fibrinogen (F.I)]]* (Faktor-1-Vorstufe für [[Hämostase]])
 	- *Hämopexin* (Transport von [[Häm]])
 	- *[[Transferrin]]* (Transport von Fe3+)
 	- *[[CRP]]*
@@ -34,7 +34,7 @@ title: Plasmaproteine
 | [[α1-Antitrypsin-Mangel]] | -      | α1             | [[α1-Antitrypsin]]↓                                                   |
 | [[Leberzirrhose]]         | γ      | [[Albumin]]    | Aktivierung des reticuloendothelialen Systems; Lebersyntheseleistung↓ |
 | [[Multiples Myelom]] + DD | γ      | -              | [[Neoplasie]] der Plasmazellen                                            |
-| [[Nephrotisches Syndrom]] | α2, β  | [[Albumin]], γ | Glomeruläre Filtration↑ und Kompensation durch LDL-Synthese↑                                                                       |
+| [[Nephrotisches Syndrom]] | α2, β  | [[Albumin]], γ | Glomeruläre Filtration↑ und Kompensation durch [[LDL]]-Synthese↑                                                                       |
 
 ## Verteilung
 ![[Pasted image 20210720143550.png]]

@@ -20,7 +20,7 @@ title: CO2
 	- Isocitrat → α-Ketoglutarat (Isocitrat-Dehydrogenase)
 	- α-Ketoglutarat → Succinyl-CoA (α-Ketoglutarat-Dehydrogenase)
 - [[Glucose]]-6-phosphat → Ribulose-5-phosphat im [[Pentosephosphatweg]], wobei β-Ketoaldehyd spontan zu R5P decarboxyliert
-- Malat → Pyruvat ("Malatenzym", [[Citratzyklus]]-Anaplerose]]) ist eine dehydrierende Decarboxylierung (neben [[Pentosephosphatweg]] einzige Reaktion die NADPH+H+ freisetzt)
+- Malat → Pyruvat ("Malatenzym", [[Citratzyklus]]-[[Anaplerose]]]]) ist eine dehydrierende Decarboxylierung (neben [[Pentosephosphatweg]] einzige Reaktion die NADPH+H+ freisetzt)
 - Synthese von Ketonkörpern: Acetyl-CoA → Acetoacetat, kann spontan zu Aceton decarboxylieren
 - Synthese von biogenen Aminen: z.B. [[Histidin]] + PALP → [[Histamin]]
 ### Pathologisch
@@ -33,7 +33,7 @@ title: CO2
 ![[Vitamin B7 (Biotin)]]
 
 ### Biotin-abhängige Carboxylierung
-- **Pyruvat-Carboxylase**:: Pyruvat → Oxalacetat ([[Citratzyklus]]-Anaplerose und [[Gluconeogenese]])
+- **Pyruvat-Carboxylase**:: Pyruvat → Oxalacetat ([[Citratzyklus]]-[[Anaplerose]] und [[Gluconeogenese]])
 - **Propionyl-CoA-Carboxylase**:: Propionyl-CoA → Methylmalonyl-CoA (Abbau ungeradzahliger [[Fettsäuren]] und [[AS]] Ile, Val, Met, Thr)
 	- Weiterverwendung als Succinyl-CoA im [[Citratzyklus]]
 - **Methylcrotonyl-CoA-Carboxylase**:: Leucinabbau
@@ -41,7 +41,7 @@ title: CO2
 
 ### Biotin-unabhängige Carboxylierung
 - **Carbamoylphosphat-Synthetase I**:: Schrittmacherenzym des [[Harnstoffzyklus]] (fast nur in Hepatocyten)
-	- Ammoniak + [[HCO3-]] + 2 [[ATP]] → Carbamoylphosphat
+	- [[Ammoniak (NH3-)]] + [[Bicarbonat (HCO3-)]] + 2 [[ATP]] → Carbamoylphosphat
 - **Carbamoylphosphat-Synthestase II**:: [[Glutamin]] → Pyrimidinsynthese (fast alle [[Zellen]])
 
 ### Lernziele

@@ -17,4 +17,4 @@ title: Hepatische Encephalopathie
 ### Mythbusting
 - *DGIM Klug entscheiden*:: Eine regelhafte Proteinrestriktion soll bei Patienten mit einer hepatischen Enzephalopathie nicht durchgeführt werden.
 
-[^1]: Blut ist Nährmedium für [[Ammoniak]]-bildende [[Darmflora]]
+[^1]: Blut ist Nährmedium für [[Ammoniak (NH3-)]]-bildende [[Darmflora]]

@@ -17,7 +17,7 @@ SORT file.name ASC
 | --------------------- | -------------------------------------------------- | ---------------------------------------- |
 | [[Anticholinergika]]  | [[Atropin]], Butylscopolamin, [[Tricyclische Antidepressiva]], div. | Physostigmin                             |
 | Barbiturate           | Thiopental, Phenobarbital                          | Natriumhydrogencarbonat                  |
-| [[Benzodiazepine]]    | Lorazepam, Diazepam, Midazolam                     | Flumazenil                               |
+| [[Benzodiazepine]]    | Lorazepam, Diazepam, Midazolam                     | [[Flumazenil]]                               |
 | Cumarine              | Phenprocoumon, Warfarin                            | [[Vitamin K]], [[PPSB]], [[FFP]], F.VIIa |
 | [[Digitalis]]         | Digoxin, Digitoxin                                 | Digitalis-Antitoxin                      |
 | [[Eisen]]             |                                                    | Deferoxamin                              |

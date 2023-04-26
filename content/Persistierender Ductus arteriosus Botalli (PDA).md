@@ -12,7 +12,7 @@ title: Persistierender Ductus arteriosus Botalli (PDA)
 	- **[[Untersuchung]]**
 		- [[Herzgeräusche]] p.m. 2. ICR links parasternal (*"Maschinengeräusch"*)
 		- [[Pulsus celer et altus]]
-	- **Echokardiographie**
+	- **[[Echokardiographie]]**
 - **Therapie**
 	- [[Prostaglandin]]-Synthesehemmer
 	- Interventionell/[[OP]] Verschluss

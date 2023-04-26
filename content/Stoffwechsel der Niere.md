@@ -32,6 +32,6 @@ title: Stoffwechsel der Niere
 	-  [[Niere]] von [[Glucagon]] und [[Cortisol]] unbeeinflusst (Protonen wirken aktivierend auf renales Schlüsselenzym *PEPCK*)
 -  **Hungerphasen**:: *Proximale Tubuluszellen* steuern [[Gluconeogenese]] zum Blutglucosespiegel bei
 	-  Vermehrte Ketonkörper-Bildung → **[[Azidose]]** → [[Leber]] bildet vermehrt [[Glutamin]] → in der [[Niere]] mittels Glutaminase 1 und Glutamatdehydrogenase desaminiert und als glucogene [[AS]] zur [[Gluconeogenese]] genutzt
-	-  Entstehender Ammoniak wirkt durch Protonenbindung der [[Azidose]] entgegen (siehe [[Säure-Basen-Haushalt]])
+	-  Entstehender [[Ammoniak (NH3-)]] wirkt durch Protonenbindung der [[Azidose]] entgegen (siehe [[Säure-Basen-Haushalt]])
 
 ![[EPO]]

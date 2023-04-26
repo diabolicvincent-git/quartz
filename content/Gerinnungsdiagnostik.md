@@ -3,7 +3,7 @@ tags: [Modul/m08, Modul/m17, Fach/Hämatologie]
 title: Gerinnungsdiagnostik
 ---
 - **Allgemein**
-	- **Fibrinogen**
+	- **[[Fibrinogen (F.I)]]**
 	- **Antithrombin III**
 	- **[[D-Dimere]]**
 - **[[Primäre Hämostase]]**
@@ -14,7 +14,7 @@ title: Gerinnungsdiagnostik
 	- **[[INR]]**:: Extrinsisches System + Endstrecke
 	- **[[aPTT]] (s)**:: Intrinsisches System + Endstrecke
 	- **[[Thrombinzeit]] (s)**:: Nur Endstrecke
-	- **Reptilasezeit (s)**:: Nur Fibrinogen → Fibrin
+	- **Reptilasezeit (s)**:: Nur [[Fibrinogen (F.I)]] → [[Fibrin (F.Ia)]]
 - **DD** s.u.
 
 

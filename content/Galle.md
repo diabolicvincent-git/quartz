@@ -15,5 +15,5 @@ title: Galle
 	3. Transport über Ductus choledochus zum [[Duodenum]]
 - **Regulation**:: *Cholecystokinin (CCK)*, *[[Parasympathikus]]↑* → Gallenblase-Kontraktion, Ausschüttung
 
-[^1]: z.B. Sekretion osmotisch wirksamer Substanzen (z.B. [[HCO3-]])
+[^1]: z.B. Sekretion osmotisch wirksamer Substanzen (z.B. [[Bicarbonat (HCO3-)]])
 [^2]: Wasser-/NaCl-Entzug auf 10% des ursprünglichen Galle-Volumens

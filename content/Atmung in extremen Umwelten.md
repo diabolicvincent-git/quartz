@@ -33,7 +33,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
 - **Gasgesetz nach Henry**:: Konzentration eines in Flüssigkeit gelösten Gases ist proportional zum [[Partialdruck]]
     - [[O2]]: 2,6 ml / l [[Wasser]]
     - [[CO2]]: 25 ml / l [[Wasser]]
-- *[[O2]]-Transport*: (**Hüfner-Zahl **1,34 ml [[O2]] / g [[Hb]]) * [[Hb]]-Gehalt 150 [[Hb]] / l [[Blut]]) = 200 ml [[O2]] / l [[Blut]]
+- *[[O2]]-Transport*: (**[[Hüfner-Zahl]] **1,34 ml [[O2]] / g [[Hb]]) * [[Hb]]-Gehalt 150 [[Hb]] / l [[Blut]]) = 200 ml [[O2]] / l [[Blut]]
     - **Erhöhung des physikalisch gelösten[[O2]]**
         - Präoxygenierung mit hohem [[FiO2]] → Verdrängung der N2-Fraktion
         - [[SpO2]] ist unter Normalbedingungen schon 98% und kaum steigerbar
@@ -41,7 +41,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
         - Physikalisch gelöster [[O2]]-Anteil steigt 2,6 → 18 ml[[O2]] / l Plasma
 - **[[CO2]]-Transport**:: insg. ca. 500 ml CO2 / l [[Blut]]
     - 5% physikalisch gelöst
-    - 90% als [[HCO3-]]
+    - 90% als [[Bicarbonat (HCO3-)]]
     - 5% angelagert an freie Aminogruppen des [[Hb]]
 
 ## Regulation der Lungenperfusion
@@ -68,7 +68,7 @@ Luftdruck, den ein Gas in einem Gasgemisch separat betrachtet ausübt
     - Hyperventilation zum Ausgleich des verminderten [[pO2]]
     - Problem: Abatmung↑ von CO2 → respiratorische [[Alkalose]]
         - Krampfneigung durch [[Ca2+]] Bindung an nun freie COO- Gruppen von Proteinen (also weniger freie [[Ca2+]] zur Membranstabilisierung)
-        - [[Wasser]]-Verlust durch kompensatorische Ausscheidung von[[HCO3-]] über [[Niere]]
+        - [[Wasser]]-Verlust durch kompensatorische Ausscheidung von[[Bicarbonat (HCO3-)]] über [[Niere]]
         - Linksverschiebung der [[O2]]-Bindungskurve mit Verschlechterung der[[O2]]-Abgabe
 - **2500 - 5500 m**
     - Hypoxia-Inducible-Factor HIF nicht mehr abgebaut → Bildung von [[EPO]]↑ in[[Niere]] → verstärkte [[Erythropoese]]

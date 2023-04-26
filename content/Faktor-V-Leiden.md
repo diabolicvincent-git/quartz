@@ -11,4 +11,4 @@ title: Faktor-V-Leiden
 	- Protein-C-Resistenz-Test
 ---
 ### Mythbusting
-- *DGIM Klug entscheiden*:: Bei alleinigem Nachweis eines heterozygoten Faktor-V-Leiden oder Prothrombin-Polymorphismus soll eine dauerhafte medikamentöse Sekundärprophylaxe nach venöser Thromboembolie (VTE) nicht erfolgen.
+- *DGIM Klug entscheiden*:: Bei alleinigem Nachweis eines heterozygoten Faktor-V-Leiden oder [[Prothrombin (F.II)]]-Polymorphismus soll eine dauerhafte medikamentöse Sekundärprophylaxe nach venöser Thromboembolie (VTE) nicht erfolgen.

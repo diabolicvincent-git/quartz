@@ -23,22 +23,22 @@ title: Säure-Basen-Haushalt
 ### Ausscheidung überschüssiger Protonen
 - [[Na+]]/H+ Antiport im proximalen Tubulus
 - H+ [[ATPase]] und H+/K+ [[ATPase]] in *Typ-A-Schaltzellen* im distalen Tubulus und Sammelrohr
-- Pufferung im Harn über Bindung an Ammoniak und [[Phosphat]] → Ausscheidung v.a. als $NH_{4}^{+}$ & $HPO_{4}^{2-}$
+- Pufferung im Harn über Bindung an [[Ammoniak (NH3-)]] und [[Phosphat]] → Ausscheidung v.a. als $NH_{4}^{+}$ & $HPO_{4}^{2-}$
 - **Regulation bei Azidose**
 	1. Glutaminase-Aktivität ↑ 
 	2. Ausscheidung von $NH_{4}^{+}$ & $PO_{4}^{3-}$ steigt
 	3. Bei chronischer Azidose: Enzyminduktion von Glutaminase
 ### HCO3--Reabsorption/-Synthese
-- **[[HCO3-]] Synthese**:: Abbau von [[Glutamin]] → α-Ketoglutarat (...) + 2 [[HCO3-]]
-- **[[HCO3-]] Reabsorption**:: Indirekt im proximalen Tubulus (Ladungsneutralisation durch Umwandlung in CO2 unter Protonenverbrauch)
+- **[[Bicarbonat (HCO3-)]] Synthese**:: Abbau von [[Glutamin]] → α-Ketoglutarat (...) + 2 [[Bicarbonat (HCO3-)]]
+- **[[Bicarbonat (HCO3-)]] Reabsorption**:: Indirekt im proximalen Tubulus (Ladungsneutralisation durch Umwandlung in CO2 unter Protonenverbrauch)
 	- **Regulation bei Azidose**:: Ca. 100% Rückresorption (u.a. durch pCO2↑)
-	- **Regulation bei [[Alkalose]]**:: Resorption↓ & Stimulation des [[Cl-]]/[[HCO3-]] Antiporters der *Typ-B-Schaltzellen*
+	- **Regulation bei [[Alkalose]]**:: Resorption↓ & Stimulation des [[Cl-]]/[[Bicarbonat (HCO3-)]] Antiporters der *Typ-B-Schaltzellen*
 
 ## pH-Regulation in der Leber
-- **Normal & [[Alkalose]]**:: Glutaminase spaltet Ammoniak aus [[Glutamin]] und fixiert ihn mittels [[HCO3-]] an [[Harnstoff]] (siehe [[Harnstoffzyklus]])
-- **Azidose**:: Ammoniak mittels [[Glutamat]] als [[Glutamin]] fixiert (*Umkerhprozess*) → via Blut zur [[Niere]] → Tubuluslumen → dort Bindung des NH3 an 1 Proton zu NH4+, was nicht wieder zurück kann (Ausscheidung & zusätzliche Elimination von Protonen)
-	- Einsparen von [[HCO3-]] wirkt Azidose entgegen
-	- Entstehendes α-Ketoglutarat zur [[Gluconeogenese]] genutzt; dabei 2 Protonen gebunden und via CO2 entsteht [[HCO3-]]
+- **Normal & [[Alkalose]]**:: Glutaminase spaltet [[Ammoniak (NH3-)]] aus [[Glutamin]] und fixiert ihn mittels [[Bicarbonat (HCO3-)]] an [[Harnstoff]] (siehe [[Harnstoffzyklus]])
+- **Azidose**:: [[Ammoniak (NH3-)]] mittels [[Glutamat]] als [[Glutamin]] fixiert (*Umkerhprozess*) → via Blut zur [[Niere]] → Tubuluslumen → dort Bindung des NH3 an 1 Proton zu NH4+, was nicht wieder zurück kann (Ausscheidung & zusätzliche Elimination von Protonen)
+	- Einsparen von [[Bicarbonat (HCO3-)]] wirkt Azidose entgegen
+	- Entstehendes α-Ketoglutarat zur [[Gluconeogenese]] genutzt; dabei 2 Protonen gebunden und via CO2 entsteht [[Bicarbonat (HCO3-)]]
 
 
 
@@ -47,7 +47,7 @@ title: Säure-Basen-Haushalt
 ## Lernziele
 - die Bedeutung der drei wichtigsten physiologischen Puffersysteme (Hydrogencarbonat, [[Proteine]], [[Phosphat]]) für das Säure-Basen-Gleichgewicht des menschlichen Körpers beschreiben können.
 - die Säurestärke (pKs-Werte) interpretieren können.
-- am Beispiel des [[CO2]]/[[HCO3-]]-Puffers den Zusammenhang zwischen Konzentration und [[pH]]-Wert (Henderson-Hasselbalch-Gleichung) quantitativ erstellen können.
+- am Beispiel des [[CO2]]/[[Bicarbonat (HCO3-)]]-Puffers den Zusammenhang zwischen Konzentration und [[pH]]-Wert (Henderson-Hasselbalch-Gleichung) quantitativ erstellen können.
 
 ![[Untitled 102.png]]
 ![[Untitled 1 37.png]]

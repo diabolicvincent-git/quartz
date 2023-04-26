@@ -1,4 +1,5 @@
 ---
+title: TVT
 ---
 > (Abstract::**Tiefe Beinvenen- / Phlebo-[[Thrombose]].**)
 - **Ätiologie**:: [[TVT]] in [[Anamnese]], Immobilisation, [[Adipositas]], >60 J., [[Malignom]], [[Antiphospholipid-Syndrom]], [[Östrogene]]-Therapie + [[Rauchen]], [[Schwangerschaft]]/Wochenbett, hereditäre [[Thrombophilie]]

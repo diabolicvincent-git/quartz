@@ -14,7 +14,7 @@ title: Fallot-Teratologie
 	- **[[Untersuchung]]**:: Chronische Hypoxie-Zeichen ([[Trommelschlägelfinger]], [[Uhrglasnägel]]), raues [[Systolikum]] p.m. Erb-Punkt
 	- **[[Labor]]**:: Polyglobulie
 	- **[[EKG]]**:: Rechtytyp, P-dextroatriale
-	- **Echokardiographie**
+	- **[[Echokardiographie]]**
 - **Therapie**
 	- *Akut:* Knie an Brust drücken, [[O2]]-Gabe
 	- *Medikamente:* [[β-Blocker]], [[Opioide]]

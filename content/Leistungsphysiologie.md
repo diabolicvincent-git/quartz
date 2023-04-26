@@ -51,7 +51,7 @@ title: Leistungsphysiologie
     - Atemphysiologie (statische und dynamische Größen wie Volumina, Kapazitäten...)
     - Zusammensetzung der Umgebungsluft, Atemgase
     - Gasgesetze (HENRY,BOYLE-MARIOTTE,DALTON,GAY-LUSSAC)
-    - Sauerstoffbindung (Bindungskurve, Links-Rechtsverschiebung, HÜFNER-Zahl, Differenzierung zwischen [[O2]]-[[Partialdruck]], [[O2]]-Sättigung und [[O2]]-Gehalt)
+    - Sauerstoffbindung (Bindungskurve, Links-Rechtsverschiebung, [[HÜFNER-Zahl]], Differenzierung zwischen [[O2]]-[[Partialdruck]], [[O2]]-Sättigung und [[O2]]-Gehalt)
 - **[[Herz]]-Kreislauf**
     - Herzphasen und Parameter (Systole, Diastole, [[HF]], HFmax, SV, [[EF]]...)
     - [[EKG]] (Standardableitungen, Vektortheorie...)
@@ -64,7 +64,7 @@ title: Leistungsphysiologie
 - **[[Säure-Basen-Haushalt]]**
     - [[pH]]-Wert (HENDERSON-HASSELBALCH-Gleichung...)
     - Merkmale und Kompensation von metabolischer / respiratorischer Azidose / [[Alkalose]]
-    - Pufferkapazität ([[HCO3-]], Pufferbasen, SIGGAARD-ANDERSEN-Normogramm...)
+    - Pufferkapazität ([[Bicarbonat (HCO3-)]], Pufferbasen, SIGGAARD-ANDERSEN-Normogramm...)
 - **Neurophysiologie**
     - [[vegetative]] Prozesse im Rahmen der „Vorstartreaktion“
     - Steuerung ([[Parasympathikus]], [[Sympathikus]]...)
@@ -158,7 +158,7 @@ title: Leistungsphysiologie
 
 - **Respiratorischer Quotient RQ** = VCO₂ / VO₂
     - Bestimmung des *kalorischen O₂-Äquivalents* (freiwerdende Energie pro L O₂)
-    - Bei Lactatazidose → H+ → [[HCO3-]]-[[Puffer]] (HCO₃-) → CO₂ aus "neuer" Quelle → RQ kann bei Lactatazidose über 1 steigen
+    - Bei Lactatazidose → H+ → [[Bicarbonat (HCO3-)]]-[[Puffer]] (HCO₃-) → CO₂ aus "neuer" Quelle → RQ kann bei Lactatazidose über 1 steigen
 
 ### Wirkungsgrad
 

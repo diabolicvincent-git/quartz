@@ -4,7 +4,7 @@ title: AB0
 ---
 > (Abstract::Wichtigstes [[Blutgruppen]]-System. A & B dominant, 0/H stumm)
 - **Antigene**:: A und B codieren codominant für spez. Glycosyltransferasen; 0 (H) ist stumm
-- **Antikörper**:: Anti-A-, Anti-B-==[[IgM]]==-[[Antikörper]] (automatisch ab Geburt gebildet)
+- **Antikörper**:: Anti-A-, Anti-B-==[[IgM]]==-[[Antikörper]] (automatisch ab [[Geburt]] gebildet)
 - **Diagnostik**:: [[Bedside-Test]] vor jeder [[Transfusion]]
 
 | Blutgruppe | Prävalenz | AB0-Antigen | Antikörper im Plasma | [[EK]]-Kompatibilität |

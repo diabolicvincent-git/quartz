@@ -5,7 +5,7 @@ title: Kontrazeption
 ### Kontrazeption (nicht-hormonell)
 - **Natürliche Kontrazeption**
 	- **Kalendermethode**:: Befruchtung nur 3-5 d vor bis 1 d nach [[Ovulation]] möglich
-	- **Basaltemperaturmethode (PI 0.8-2)**:: Ab drittem Tag des 0.5 °C KT-Anstiegs Befruchtung nicht mehr möglich
+	- **[[Basaltemperaturmethode]] (PI 0.8-2)**:: Ab drittem Tag des 0.5 °C KT-Anstiegs Befruchtung nicht mehr möglich
 	- **Billings-Methode (PI 15-35)**:: [[Cervix]]-Schleim am flüssigsten und spinnbarsten bei [[Ovulation]]
 	- **Coitus interruptus (PI 20)**:: "Rausziehen"
 - **Sterilisation (PI 0.3)**:: Tubenligatur unter Vollnarkose

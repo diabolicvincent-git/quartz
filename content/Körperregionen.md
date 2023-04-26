@@ -6,4 +6,4 @@ title: Körperregionen
 - [[Hals]]
 - [[Rumpf]]
 - [[Obere Extramität]]
-- [[Untere Extramität]]
+- [[Untere Extremität]]

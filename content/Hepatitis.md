@@ -48,7 +48,7 @@ title: Hepatitis
 	- adaptives Immunsystem, 
 	- [[T-Zellen|T-Zell]]- vermittelte Immunantwort
 	- Immunrezeptoren und [[MHC]], M08 
-	- Besonderheiten des [[Leber]]stoffwechsels (Ammoniak-Entgiftung, [[Biotransformation]], Koordination des Stoffwechsels), M12 → [[Harnstoffzyklus]]
+	- Besonderheiten des [[Leber]]stoffwechsels ([[Ammoniak (NH3-)]]-Entgiftung, [[Biotransformation]], Koordination des Stoffwechsels), M12 → [[Harnstoffzyklus]]
 - **Physiologie**
 	- Funktion von [[Leber]]/[[Galle]], M12 
 	- [[Enterohepatischer Kreislauf]], M12

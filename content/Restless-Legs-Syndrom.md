@@ -1,3 +1,6 @@
+---
+title: Restless-Legs-Syndrom
+---
 - **Epidemiologie**:: [[Prävalenz]] Ü65 10%, [[W]]>[[M]]
 - **Ätiologie**:: Genetik + z.B. Medikamente ([[Antipsychotika]], [[Antidepressiva]], [[MCP]]), [[Schwangerschaft]], Eisenmangel, [[CKD]], [[Polyneuropathie]]
 - **Symptome**:: Bewegungsdrang + ==Sensibilitätsstörung== in Ruhe, insb. abends/nachts mit ==Besserung bei Bewegung==

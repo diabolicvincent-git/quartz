@@ -117,7 +117,7 @@ Schleimhaut-[[Blutung]]|Hyperfibrinolyse|[[TXA]]
 [[Leber]]-Tx, Reperfusion|Hyperfibrinolyse|(Aprotinin), [[TXA]]
 [[ECMO]]|[[Antikoagulation]], [[Thrombocytopathie]], (Aprotinin), [[TK]], DDAVP
 [[Prostata-Ca]]|Hyperfibrinolyse|[[TXA]], [[Tumor]]-Therapie
-[[Akute Leukämie]]|[[Thrombopenie]], Hyperproteolyse|[[TK]], [[TXA]], Fibrinogen
+[[Akute Leukämie]]|[[Thrombopenie]], Hyperproteolyse|[[TK]], [[TXA]], [[Fibrinogen (F.I)]]
 [[ASS]], Clopidogrel|[[Thrombocytopathie]]|pausieren, DDAVP, [[TK]]
 [[Antikoagulation]]|[[Gerinnungshemmung]]|pausiren, [[Antidot]]
 
@@ -133,7 +133,7 @@ Schleimhaut-[[Blutung]]|Hyperfibrinolyse|[[TXA]]
 
 #### [[Labor]]
 - **Orientierend**
-	- **Globalgerinnungstest**:: [[Quick]]/[[Quick|TPZ]], [[aPTT]], Fibrinogen
+	- **Globalgerinnungstest**:: [[Quick]]/[[Quick|TPZ]], [[aPTT]], [[Fibrinogen (F.I)]]
 	- [[Blutbild]], [[Thrombocyten]]-Zahl, [[Thrombocyten]]-Funktion ([[PFA]] 100)
 - **Spezialdiagnostik** (Hämostaseologie)
 	- vW-Parameter

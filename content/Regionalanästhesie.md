@@ -5,14 +5,14 @@ title: Regionalanästhesie
 > (Abstract::**Selektive Schmerzausschaltung in einer Körperregion.**)
 - **Verfahren**
 	- **Rückenmarksnahe Leitungsanästhesie**
-		- *[[Periduralanästhesie]]* ([[Epiduralraum]])
+		- *[[PDA]]* ([[Epiduralraum]])
 		- *[[Spinalanästhesie]]* ([[Subarachnoidalraum]])
-	- **Periphere Leitungsanästhesie**
-		- *Interskalenäre Plexusblockade*
-		- *Supraclaviculäre Plexusblockade*
-		- *Axilläre Plexusblockade*
-		- *Femoralisblockade*
-		- *Ischiadicusblockade*
+	- **[[Periphere Leitungsanästhesie]]**
+		- *[[Interskalenäre Plexusblockade]]*
+		- *[[Supraclaviculäre Plexusblockade]]*
+		- *[[Axilläre Plexusblockade]]*
+		- *[[Femoralisblockade]]*
+		- *[[Ischiadicusblockade]]*
 - **Komplikationen**
 	- *Allgemein:* Blutung, [[Infektionen]], Nervenschädigung
 	- *Systemisch:* [[Allergie]], Systemische [[Lokalanästhetika]]-Intoxikation

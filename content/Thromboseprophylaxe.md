@@ -1,4 +1,5 @@
 ---
+title: Thromboseprophylaxe
 ---
 - **Allgemein**:: Frühmobilisation, Muskelpumpe, adäquate [[Volumentherapie]], Beine hochlagern, weite Kleidung
 - **Physikalisch**:: Kompressionsstrümpfe, pneumatische Wadenkompression (KI: [[pAVK]], [[Herzinsuffizienz]])

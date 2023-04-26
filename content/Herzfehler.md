@@ -8,7 +8,7 @@ title: Herzfehler
 - **Diagnostik**
 	- **[[Untersuchung Herz]]**:: Auskultation, [[SpO2]], [[Hypotonie]]
 	- [[EKG]]
-	- ==Echokardiographie==
+	- ==[[Echokardiographie]]==
 	- ggf. [[CT]], [[MRT]], [[Herzkatheter]]
 - **Entitäten**
 	- **Zyanotische Herzfehler**

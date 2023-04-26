@@ -9,7 +9,7 @@ title: Carboanhydrase-Hemmer
 	- Barbiturate-[[Intoxikation]]
 - **Wirstoffe**:: Acetazolamid
 - **Wirkmechanismus**:: Hemmung der Carboanhydrase
-	- *[[Proximales Nephron]]* → Diurese↑, [[HCO3-]]-Elimination↑↑
+	- *[[Proximales Nephron]]* → Diurese↑, [[Bicarbonat (HCO3-)]]-Elimination↑↑
 	- *[[Auge]]:* [[Kammerwasser]]↓
 	- *[[ZNS]]:* [[Liquor]]-Produktion↓
 - **[[UAW]]**:: Metabolische Azidose

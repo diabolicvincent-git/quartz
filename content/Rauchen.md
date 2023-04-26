@@ -2,6 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Fach/Toxikologie, Fach/Allgemeinmedizin, Mythbusting/DGIM-Klug-entscheiden]
 title: Rauchen
 ---
+- #FunFact Tabakrauch induziert [[CYP1A2]] → Koffein schneller abgebaut (bei Rauchentwöhnung auf Effektverstärkung hinweisen)
 ---
 ### Mythbusting
 - *DGIM Klug entscheiden*:: Jeder Raucher soll eine [[Lungenfunktionsprüfung]] erhalten.
@@ -24,7 +25,7 @@ title: Rauchen
 ### Substanzen der Gasphase
 - [[CO]]
 - [[Cyanid]]
-- Ammoniak reagiert mit Feuchtigkeit in der [[Lunge]] → ätzend auf Schleimhäute; in hoher Dosis neurotoxisch
+- [[Ammoniak (NH3-)]] reagiert mit Feuchtigkeit in der [[Lunge]] → ätzend auf Schleimhäute; in hoher Dosis neurotoxisch
 - Stickoxide reagieren mit Feuchtigkeit in der [[Lunge]] → Salpetersäure (reizend)
 
 ### Polycyclische aromatische Kohlenwasserstoffe
@@ -54,6 +55,6 @@ title: Rauchen
 Schadstoffe wirken auf Schleimhäute oder werden in Blutstrom aufgenommen → Genmutationen ([[Tumorsuppressoren]]↓) → [[Hyperplasie]] → Metaplasie → Dysplasie → Übergang zu Karzinomen / Malignomen fließend
 ### Pathophysiologie [[Atherosklerose]]
 Aufnahme von Schadstoffen mit dem Tabakrauch → Verminderte [[NO]]-Freisetzung durch Endothelzellen (*Endotheliale Dysfunktion*) → Freisetzung von cGMP ↓ → Verhinderung einer bedarfsadaptierten Gefäßrelaxation
-- **Gefäßwandschädigung und -verdickung**:: Tabakrauch erhöht die Konzentration freier Radikale → Entstehung von oxidiertem LDL mit direkt gefäßschädigendem Effekt → Adhäsionsmoleküle in der Gefäßwand (VCAM-1 und ICAM-1) vermitteln eine Migration von Monocyten und [[Makrophagen]] in die Gefäßwand (Schaumzellen) → Entzündungsreaktion und Proliferationsreiz für [[Glatte Muskulatur]] durch Cytokinfreisetzung 
-- **Plaquebildung**:: Fibrinogen↑ und [[Fibrinolyse]]↓ → Mangel an cGMP führt zu einer vermehrten Thrombocytenaggregation → Prokoagulatorischer Effekt
+- **Gefäßwandschädigung und -verdickung**:: Tabakrauch erhöht die Konzentration freier Radikale → Entstehung von oxidiertem [[LDL]] mit direkt gefäßschädigendem Effekt → Adhäsionsmoleküle in der Gefäßwand (VCAM-1 und ICAM-1) vermitteln eine Migration von Monocyten und [[Makrophagen]] in die Gefäßwand (Schaumzellen) → Entzündungsreaktion und Proliferationsreiz für [[Glatte Muskulatur]] durch Cytokinfreisetzung 
+- **Plaquebildung**:: [[Fibrinogen (F.I)]]↑ und [[Fibrinolyse]]↓ → Mangel an cGMP führt zu einer vermehrten Thrombocytenaggregation → Prokoagulatorischer Effekt
 - **[[CO]]-Effekt**:: Erhöhte Blutkonzentration von [[CO]] bei Rauchern → Förderung einer [[Vasokonstriktion]]

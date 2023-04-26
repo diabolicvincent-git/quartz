@@ -7,7 +7,7 @@ title: Ebstein-Anomalie
 - **Symptome**
 	- *Pränatal:* Hydrops fetalis
 	- *Postnatal:* [[Zyanose]], [[Herzinsuffizienz]]
-- **Diagnostik**:: Echokardiographie
+- **Diagnostik**:: [[Echokardiographie]]
 - **Therapie**
 	- [[Prostaglandin]] (Offenhalten [[Ductus arteriosus Botalli]])
 	- ggf. [[OP]]

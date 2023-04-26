@@ -120,6 +120,6 @@ title: Medikamentöse Therapie bei Hauterkrankungen
         - Verminderte Keratinocyten-Kohäsion
 - **Indikation**:: Schwere cystische Akne, schwere Verhornungsstörung
 - **NW lokal**:: Reizung, Rötung, Schuppung, Trockenheit
-- **NW systemisch**:: Mucocutane Wirkung (Trockenheit, Schuppung, Juckreiz), Suizidgedanken, brüchige Nägel, Knochenschmerzen, reduzierte Nachtsicht, TAG↑, LDL↑, [[Cholesterol]]↑
+- **NW systemisch**:: Mucocutane Wirkung (Trockenheit, Schuppung, Juckreiz), Suizidgedanken, brüchige Nägel, Knochenschmerzen, reduzierte Nachtsicht, TAG↑, [[LDL]]↑, [[Cholesterol]]↑
 - Teratogene Wirkung! (bis 2 Jahre nach Absetzen)
 

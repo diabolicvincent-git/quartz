@@ -33,7 +33,7 @@ title: Zellschädigung
 - z.B. Lysosomale Speicherkrankheit (Gendefekt lysosomaler Hydrolasen)
 - z.B. [[Diabetes mellitus]], [[Alkohol]] → Fettleber
 ### Störung von Transportsystemen
-- z.B. Toxinwirkung (z.B. Cytostatikum Vinblastin) → Akkumulation von nicht-exportierbarem LDL
+- z.B. Toxinwirkung (z.B. Cytostatikum Vinblastin) → Akkumulation von nicht-exportierbarem [[LDL]]
 ### Toxische Schädigung
 - z.B. Cholestase → Bildung toxischer [[Gallensäuren]]
 - z.B. Wirkung von Fe2+ oder [[Cu2+]]

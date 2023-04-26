@@ -4,12 +4,12 @@ title: Obstruktive Ventilationsstörung
 ---
 - **SOP**
 	1. Beruhigung, Oberkörperhochlagerung, Lippenbremse
-	2. [[O2]]-Gabe bis [[SpO2]] >88% ([[COPD]]) / >94% ([[Asthma]])
+	2. [[O2]]-Gabe bis [[SpO2]] >88% ([[aeCOPD]]) / >94% ([[Asthma]])
 	3. [[Salbutamol]] 2.5mg + [[Ipratropium]] 0.5mg [[p.i.]]
-	4. [[CPAP]]
-	5. [[Prednisolon]] 50-100mg [[i.v.]]
-	6. ggf. [[Reproterol]], [[Mg2+]] ([[Bronchodilatation]])
-	7. ggf. [[KETAmin]]
+	4. [[CPAP]] [[NIV]]
+	5. [[Prednisolon]] 50-100mg [[i.v.]] bis 5d
+	6. ggf. [[Reproterol]], [[Mg2+]] ([[Bronchodilatation]]), ggf. [[KETAmin]] ([[Asthma]])
+	7. ggf. [[Antibiotika]] ([[aeCOPD]])
 ---
 - Strömungswiderstand im [[Bronchialbaum]] ↑ → [[Resistance]] ↑
 - **Ursachen**:: Erhöhte Mukusproduktion (z.B. [[Mukoviszidose]]), Schleimhautschwellung, Muskelspasmen (z.B. [[Asthma]], [[COPD]])

@@ -8,7 +8,7 @@ title: Entzündung
 - **Kardinalzeichen**:: Rubor, [[Tumor]], Dolor, Calor, Functio laesa 
 - **Phasen**
 	1. Aktivierung vorhandener Entzündungszellen und Mediatoren ([[Komplementsystem]], [[Mastzellen]], [[Makrophagen]])
-	2. Akkumulation externer [[Zellen]] und Mediatoren ([[Granulocyten]], Monocyten, [[Komplementsystem]], Fibrinogen, [[Antikörper]]) und Aktivierung des Endothels
+	2. Akkumulation externer [[Zellen]] und Mediatoren ([[Granulocyten]], Monocyten, [[Komplementsystem]], [[Fibrinogen (F.I)]], [[Antikörper]]) und Aktivierung des Endothels
 - **Diagnostik**:: [[Akute-Phase-Proteine]]
 
 1. **Lokales Ereignis**
@@ -164,7 +164,7 @@ Cytokinfreisetzung von [[Makrophagen]] ([[TNF]], [[IL-6]], [[IL-1]]) → Lokal: 
 
 ### Kardinalzeichen
 - **Rubor (Rötung)**:: [[Vasodilatation]] → erhöhter Blutfluss
-- **[[Tumor]] (Schwellung)**:: Erhöhte Gefäßpermeabilität → Austritt von [[Leukocyten]], Gewebsflüssigkeit, Fibrin → Schwellung
+- **[[Tumor]] (Schwellung)**:: Erhöhte Gefäßpermeabilität → Austritt von [[Leukocyten]], Gewebsflüssigkeit, [[Fibrin (F.Ia)]] → Schwellung
 - **Dolor ([[Schmerz]])**:: Durch chemische Mediatoren
 - **Calor (Wärme)**:: [[Vasodilatation]] → erhöhter Blutfluss
 - **Functiolaesa (Funktionseinschränkung)**

@@ -21,4 +21,4 @@ title: Rh
 
 [^1]: **d**, der wichtigste Rhesusfaktor, ist kein echtes Gen, beschreibt Deletion vom dominanten **D**
 [^2]: Kontakt zu Rh+ [[Erythrocyten]] und Anti-D-Bildung durch [[Transfusion]] oder [[Schwangerschaft]] mit Rh+ Kind
-[^3]: Rhesusprophylaxe bei Rh– Schwangeren in der 28. [[SSW]] und nach Geburt, aber auch bei Schwangerschaftsabbruch und PID
+[^3]: Rhesusprophylaxe bei Rh– Schwangeren in der 28. [[SSW]] und nach [[Geburt]], aber auch bei Schwangerschaftsabbruch und PID

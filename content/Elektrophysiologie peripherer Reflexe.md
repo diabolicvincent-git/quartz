@@ -8,7 +8,7 @@ title: Elektrophysiologie peripherer Reflexe
     - M. biceps brachii
         - N. musculocutaneus (C5-C7)
     - M. triceps brachii
-        - N. radialis (C5-Th1)
+        - [[N. radialis]] (C5-Th1)
     - M. quadriceps femoris
         - N. femoralis (L2-L4)
     - M. triceps surae

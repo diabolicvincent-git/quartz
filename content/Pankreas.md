@@ -7,7 +7,7 @@ title: Pankreas
 	- **[[endokrin]]**:: ==[[Glucagon]] (A-Zellen), [[Insulin]] (B)==, [[Somatostatin]] (D), Pankreatisches Polypeptid (PP)
 	- **exokrin**
 		- CCK → *Enzymsekretion* (α-Amylase, Lipase, Phopholipase A, Elastase, Trypsin[^2], Nucleasen)
-		- Sekretin bei [[pH]] <4 → *[[Wasser]] und [[Elektrolyte]]* ([[Na+]], [[K+]], [[Cl-]], [[HCO3-]])
+		- Sekretin bei [[pH]] <4 → *[[Wasser]] und [[Elektrolyte]]* ([[Na+]], [[K+]], [[Cl-]], [[Bicarbonat (HCO3-)]])
 - **Aufbau**
 	- **Caput** mit Processus uncinatus pancreatis (Hakenfortsatz)
 	- **Corpus**
@@ -32,7 +32,7 @@ title: Pankreas
 	- Nucleasen → [[RNA]]/[[DNA]]
 - **[[Wasser]] und [[Elektrolyte]]** stimuliert durch *Sekretin* aus [[Duodenum]] bei [[pH]] <4
 	- [[Na+]] und K+
-	- [[Cl-]] und *[[HCO3-]]* (zur Neutralisation des sauren Magensafts)
+	- [[Cl-]] und *[[Bicarbonat (HCO3-)]]* (zur Neutralisation des sauren Magensafts)
 ## Aufbau
 ### Parenchym
 - **==Caput==** mit Processus uncinatus pancreatis (Hakenfortsatz)

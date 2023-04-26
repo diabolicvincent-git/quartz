@@ -4,8 +4,8 @@ title: Labor
 ---
 
 - **Allgemeines**
-	- **[[Säure-Basen-Haushalt]]**:: [[Base Excess]], [[HCO3-]], [[pH]]
-	- **[[Elektrolyte]]**:: [[Cl-]], [[HCO3-]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]]
+	- **[[Säure-Basen-Haushalt]]**:: [[Base Excess]], [[Bicarbonat (HCO3-)]], [[pH]]
+	- **[[Elektrolyte]]**:: [[Cl-]], [[Bicarbonat (HCO3-)]], [[Phosphat]], [[Na+]], [[K+]], [[Ca2+]], [[Mg2+]]
 	- **[[Blutgase]]**:: [[pCO2]], [[pO2]]
 	- **[[Entzündung]]**:: [[Akute-Phase-Proteine]], [[CRP]], [[PCT]]
 - **Hämatologie**
@@ -69,7 +69,7 @@ title: Labor
 	- **[[Lipide]]**
 		- [[Cholesterol]]
 			- HDL
-			- LDL
+			- [[LDL]]
 		- Triglyceride
 	- **[[Spurenelemente]]**
 		- [[Eisen]]

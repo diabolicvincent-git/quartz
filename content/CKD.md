@@ -24,7 +24,7 @@ title: CKD
 - **Therapie**
 	- *Aufrechterhaltung Nierenfunktion*
 		- Ausgleich [[Wasserhaushalt]], [[Elektrolyte]], [[Säure-Basen-Haushalt]]
-		- Insb. ==[[HCO3-]] Substitution== bei Azidose
+		- Insb. ==[[Bicarbonat (HCO3-)]] Substitution== bei Azidose
 	- *Reduktion Risikofaktoren*
 		- Meiden nephrotoxischer Substanzen ([[NSAR]], [[Nikotin]] u.a.)
 		- Strenge Blutdruckeinstellung, insb. ==[[ACE-Hemmer]]== (nephroprotektiv)

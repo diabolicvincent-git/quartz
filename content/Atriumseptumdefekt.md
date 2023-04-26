@@ -17,7 +17,7 @@ title: Atriumseptumdefekt
 		- [[Systolikum]] 2. ICR links parasternal
 		- Gespaltene 2. [[Herztöne]]
 	- **[[EKG]]**:: Steiltyp/Rechtstyp, P-dextroatriale, [[Rechtsschenkelblock]], Rechtsherzhypertrophie
-	- **Bildgebung**:: Echokardiographie, [[Röntgen]]
+	- **Bildgebung**:: [[Echokardiographie]], [[Röntgen]]
 - **Therapie**
 	- *Defekt <50% Septum:* interventioneller Verschluss mit Doppelschirmchen
 ---

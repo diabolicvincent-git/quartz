@@ -14,7 +14,7 @@ title: Ventrikuläre Tachykardie
 	- **[[EKG]]**:: [[HF]] >100, breite [[QRS]] >0.12 s, AV-Dissoziation (P-Wellen unabhängig von [[QRS]])
 		- *Sonderform:* [[Torsade de Pointes]]
 	- **Langzeit-EKG / Event-Rekorder**
-	- **Echokardiographie**
+	- **[[Echokardiographie]]**
 - **DD**:: [[SVT]] mit [[Schenkelblock]]
 - **Therapie**
 	- **Kausal**:: Prüfen Digitalismedikation, [[Elektrolyte]] ausgleichen, bei [[KHK]] Revaskularisation

@@ -16,7 +16,7 @@ title: Herzinsuffizienz
 	- [[Linksherzinsuffizienz]] bzw. [[Rechtsherzinsuffizienz]]
 - **Stadien**:: ==[[NYHA]]==
 - **Diagnostik**
-	- **Echokardiographie**:: ==LVEF==, [[Hypertrophie]], [[Vitien]], Wandbewegungsstörungen, etc.
+	- **[[Echokardiographie]]**:: ==LVEF==, [[Hypertrophie]], [[Vitien]], Wandbewegungsstörungen, etc.
 	- **[[Labor]]**:: (NT-pro)[[BNP]]↑↑ 
 	- **[[Röntgen]]**:: *Kardiomegalie* ("Holzschuhform", [[Herz]]-Thorax-Quotient >0.5), *Pulmonale Stauungszeichen* (Gefäßzeichnung↑, [[Pleuraerguss]], [[Lungenödem]])
 - **Therapie**

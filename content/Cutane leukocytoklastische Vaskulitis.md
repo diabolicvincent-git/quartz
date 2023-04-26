@@ -7,7 +7,7 @@ title: Cutane leukocytoklastische Vaskulitis
 - **Pathophysiologie**:: Je nach Auslöser (z.B. [[Infektionen]], [[Kollagenose]], systemische [[Vaskulitis]], Medikamente)
 - **Sonderformen**
 	- 
-- **Symptome**:: [[Purpura]]-artige oder hämorrhagisch-nekrotische [[Effloreszenzen]], teils mit Pusteln (insb. ==untere Extremität==)
+- **Symptome**:: [[Purpura]]-artige oder hämorrhagisch-nekrotische [[Effloreszenzen]], teils mit Pusteln (insb. ==[[untere Extremität]]==)
 - **[[#Diagnostik]]** je nach vermuteter assoziierter Erkrankung
 - **Therapie**
 	- [[Glucocorticoide]] für 3-5 d

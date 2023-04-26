@@ -36,7 +36,7 @@ title: Urindiagnostik
 - **[[Geruch]]**
     - Dimethylsulfid → physiologisch z.B. bei Verzehr von Spargel
     - Muffig → [[Phenylketonurie (PKU)]]
-    - Ammoniak → [[HWI]]
+    - [[Ammoniak (NH3-)]] → [[HWI]]
     - Bittermandel → [[Intoxikation]] ([[Cyanid]])
 
 ## Teststreifenuntersuchung

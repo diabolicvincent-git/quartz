@@ -1,6 +1,6 @@
 ---
 tags: [Fach/Anatomie]
-title: Untere Extramität
+title: Untere Extremität
 ---
 - **[[Körperregionen]]**
 	- [[Oberschenkel]]

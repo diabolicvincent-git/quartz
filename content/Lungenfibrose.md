@@ -2,6 +2,7 @@
 tags: [Modul/m13, Fach/Pneumologie, Art/Pathologie]
 title: Lungenfibrose
 ---
+> (Abstract::**Interstitielle Lungenparenchymerkrankung.**)
 - **Ätiologie**
 	- Idiopathisch (am häufigsten; keine Alveolitis)
 	- Autoimmun (z.B. [[Sarkoidose]], [[SLE]])

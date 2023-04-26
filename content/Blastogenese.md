@@ -2,7 +2,7 @@
 tags: [Modul/m05, Fach/Embryologie, Fach/Anatomie]
 title: Blastogenese
 ---
-> Woche 1 p.c. ([[SSW]] 3 p.m.)
+> Woche 1 [[p.c.]] ([[SSW]] 3 [[p.m.]])
 
 - **Fertilisation / Befruchtung / Konzeption** (Ampulle der [[Tuba uterina]], bis 24h nach [[Ovulation]] Lebensdauer Oocyte)
     - **Kohabitation** (Geschlechtsverkehr)
@@ -18,7 +18,7 @@ title: Blastogenese
     - **Morula** (Nomenklatur ab 16-[[Zellen]]-Stadium) erreicht ca. an Tag 4 den [[Uterus]]
     - **Blastocyste** mit flüssigkeitsgefüllter Höhle zwischen äußerer und innerer Zellschicht
         - **Trophoblast**:: Äußere, kompaktierte Zellschicht (pluripotent; bildet embryonale Anteile der [[Plazenta]] + Chorion)
-        - **Embryoblast**:: Innere Schicht (pluripotent; bildet embryonale Körperzellen + Amnion)
+        - **Embryoblast**:: Innere Schicht (pluripotent; bildet embryonale Körperzellen + [[Amnionhöhle]])
 - **Implantation / Nidation** (i.d.R. obere Uterushinterwand, Tag 5-6)
     - **Schlüpfen** der Blastocyste aus Zona pellucida (schützende Glycoproteinschicht um Eizelle)
     - **Andocken** an das Endometrium der Uterusschleimhaut mit dem embryonalen Pol

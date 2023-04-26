@@ -1,4 +1,5 @@
 ---
+title: Azithromycin
 ---
 > (Abstract::**[[Makrolide]].** 1st Line als Ersatz bei [[Penicilline]]-[[Allergie]].)
 - **Indikation**:: [[Pneumonie]], [[Legionellose]], [[Sinusitis]], [[Tonsillitis]], [[Pharyngitis]], [[Otitis media]], [[Diphterie]], [[Chlamydien-Infektion]], [[Gonorrhoe]], Prophylaxe bei [[HIV]] mit [[CD4]]<100/ul

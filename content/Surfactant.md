@@ -9,5 +9,5 @@ title: Surfactant
 	- *GAGs*
 	- *[[Ca2+]]*
 - **Produktion**:: Von ==Pneumocyten Typ II== ab [[SSW]] 24
-- **Pathologie**:: Surfactant-Mangel → Atemnotsyndrom des Neugeborenen
+- **Pathologie**:: Surfactant-Mangel → [[Atemnotsyndrom]] des Neugeborenen
 - **Pharmakologie**:: Gabe von 100 mg/kg exogenem Surfactant intratracheal <1 h postnatal

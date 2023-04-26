@@ -5,7 +5,7 @@ title: Vitien
 - **Epidemiologie**:: Mitralklappeninsuffizienz > Aortenklappenstenose > Aortenklappeninsuffizienz
 - **Diagnostik**
 	- **[[Untersuchung Herz]]**:: ==[[Herzgeräusche]]==
-	- **Echokardiographie**
+	- **[[Echokardiographie]]**
 	- [[Röntgen]] Thorax
 	- [[EKG]]
 	- Koronarangiographie (prä-OP Ausschluss [[KHK]])

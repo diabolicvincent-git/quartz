@@ -8,12 +8,9 @@ title: Pneumothorax
 	- Plötzlicher, stechender, atemabhängiger [[Brustschmerz]]
 	- [[Dyspnoe]], Tachypnoe, ggf. [[Zyanose]], [[Husten]]
 	- Tachykardie, [[Rechtsherzinsuffizienz]], [[Einflussstauung]], ggf. [[Schock]]
-- **Komplikationen**:: ==[[Spannungspneumothorax]]== → kardiale Dekompensation, respiratorische Insuffizienz
+- **Komplikationen**:: ==[[Spannungspneumothorax]]==
 - **Diagnostik**
-	- **[[Untersuchung]]**:: [[Atemmechanik]] asymmetrisch, abgeschwächtes Atemgeräusch, hypersonorer Klopfschall
-	- **[[BGA]]**
-	- **[[Röntgen]], [[CT]]:**
-- **Therapie**
-	- [[O2]]-Gabe, Oberkörperhochlagerung
-	- **Pleurapunktion/Thorakostomie/Thoraxdrainage**
-	- **[[OP]]**
+	- *[[Untersuchung]]*:: [[Atemmechanik]] asymmetrisch, abgeschwächtes Atemgeräusch, hypersonorer Klopfschall
+	- *[[Sonographie Lunge]]*:: [[Barcode-Zeichen]], aufgehobenes [[Pleuragleiten]], kein [[Lungenpuls]]
+	- *[[Röntgen]]*:: Abbruch Gefäßzeichnung, Transparenzsprung, "Pneulinie", ggf. Zwerchfelltiefstand, erweiterte [[ICR]], verlagertes Mediastinum
+- **Therapie**:: [[O2]], Oberkörperhochlagerung, [[Thoraxdrainage]], ggf. [[OP]]

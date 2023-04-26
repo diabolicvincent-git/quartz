@@ -8,4 +8,4 @@ title: MELD
 	- [[Kreatinin]]
 	- [[INR]]
 - **Interpretation**
-	- Wert 6 bis 40 = 3-Monats-Mortalität ohne [[Transplantation]]
+	- Wert 6 bis 40 = 3-Monats-[[Mortalität]] ohne [[Transplantation]]

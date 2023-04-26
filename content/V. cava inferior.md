@@ -1,9 +1,9 @@
 ---
-tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie/Leitungsbahn/Vene]
+tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie/Leitungsbahn/Vene, Fach/Radiologie/Sonographie/Schema]
 title: V. cava inferior
 ---
 - **Ursprung**:: Zusammenfluss V. iliaca communis (bds.) Höhe LWK 5
-- **Verlauf**:: Zieht rechts der [[Aorta]] [[retroperitoneal]] nach kranial → Durchtritt [[Diaphragma]] im *Foramen venae cavae* Höhe BWK 8 → Mündet im rechten Vorhof
+- **Verlauf**:: Zieht rechts der [[Aorta]] [[retroperitoneal]] nach kranial → Durchtritt [[Diaphragma]] im *Foramen venae cavae* Höhe BWK 8 → Mündet in [[Rechter Vorhof]]
 - **Zuflüsse**
 	- V. phrenica inferior (bds.)
 	- Vv. lumbales (insg. 8)
@@ -13,4 +13,4 @@ title: V. cava inferior
 	- Vv. hepaticae (insg. 3)
 
 ---
-siehe [[V. cava]]
+![[Pasted image 20230424121101.png]]

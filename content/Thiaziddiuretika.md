@@ -13,7 +13,7 @@ title: Thiaziddiuretika
 	- Selbstlimitierender Effekt (*low-ceiling [[Diuretika]]*)
 - **[[UAW]]**
 	- *[[Elektrolyte]]:* [[K+]]↓, [[Mg2+]]↓, ==[[Na+]]↓==, [[Ca2+]]↑[^1]
-	- *[[Stoffwechsel]]:* [[Hyperglycämie]]-Neigung, ==Hyperurikämie==, LDL↑ 
+	- *[[Stoffwechsel]]:* [[Hyperglycämie]]-Neigung, ==Hyperurikämie==, [[LDL]]↑ 
 	- Schwartz-Bartter-Syndrom
 	- *Interaktion:* Digitalis-Wirkung↑, [[NSAR]] ([[RR]]↑), [[Lithium]]-Wirkung↑, [[Cytostatika]]-/[[Muskelrelaxanzien]]-Wirkung↑
 - **KI**

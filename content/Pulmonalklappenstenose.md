@@ -4,5 +4,5 @@ title: Pulmonalklappenstenose
 ---
 - **Pathophysiologie**:: Verengte Ausflussbahn → Druckbelastung, Rechtsherzhypertrophie
 - **Symptome**:: Evtl. [[Herzinsuffizienz]]-Zeichen
-- **Diagnostik**:: Echokardiographie
+- **Diagnostik**:: [[Echokardiographie]]
 - **Therapie**:: Interventionelle Ballondilatation

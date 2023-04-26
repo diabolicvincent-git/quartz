@@ -1,3 +1,6 @@
+---
+title: Refluxösophagitis
+---
 > (Abstract::**Gastroösophageale Reflux-Krankheit (GERD).**)
 - **Epidemiologie**:: ==20% [[Prävalenz]]==
 - **Ätiologie**:: Insuffizienz unterer Ösophagussphinkter (Intraabdomineller Druck↑, z.B. [[Schwangerschaft]])

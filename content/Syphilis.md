@@ -11,7 +11,7 @@ title: Syphilis
 	- **Primär / Lues I**:: ==Ulcus durum==, lokale Lymphknotenschwellung
 	- **Sekundär / Lues II**
 		- *Systemisch:* Lymphadenopathie, [[Fieber]], Lethargie, Glieder-, [[Kopfschmerzen]]
-		- *Polymorphes [[Exanthem]]:* [[Macula]], [[Papula]], [[Plaque]], [[Pustula]]
+		- *Polymorphes [[Exanthem]]:* [[Macula]], [[Papula]], [[Plaque]], [[Pustula]] (Handflächen, Fußsohlen)
 		- *==Condylomata lata==:* Nässende, erodierte [[Papula]] (Hautfalten, Genital-/Analregion)
 		- *Weiteres:* Akute Tonsillitis, Uveitis, Plaques opalines
 	- **Latenz / Lues latens**
@@ -21,6 +21,6 @@ title: Syphilis
 	- **Erregernachweis**:: Dunkelfeldmikroskopie, Immunfluoreszenz, [[PCR]]
 	- [[Meldepflichtige Erreger]], nicht-namentlich
 - **Therapie**
-	- **[[Antibiotika]]**:: ==[[Penicillin G]] [[i.m.]]==
+	- **[[Antibiotika]]**:: ==[[Penicillin G]] [[i.m.]]== (keine [[Resistenzen]])
 	- **Komplikation**:: *[[Jarisch-Herxheimer-Reaktion]]*
 - **Prävention**:: [[Kontrazeption]] mit Kondomen

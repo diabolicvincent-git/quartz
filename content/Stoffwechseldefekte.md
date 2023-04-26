@@ -38,7 +38,7 @@ title: Stoffwechseldefekte
 ### Beispiele
 Erkrankung|Defekt|[[Inzidenz]]
 -|-|-
-[[G6PD-Mangel]]|Glucose-6-phosphat-Dehydrogenase|[[Hypercholesterinämie]]|LDL-[[Rezeptor]]|1:500
+[[G6PD-Mangel]]|Glucose-6-phosphat-Dehydrogenase|[[Hypercholesterinämie]]|[[LDL]]-[[Rezeptor]]|1:500
 [[Phenylketonurie (PKU)]]|[[Phenylalanin]]-Hydroxylase|1:9.000
 [[Galactosämie]]|Galactose-1-Phosphat-Uridyl-Transferase|1:45.000
 Glycogenspeicherkrankheit|Glucose-6-phosphatase|1:60.000

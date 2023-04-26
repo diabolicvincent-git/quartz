@@ -2,7 +2,7 @@
 tags: [Fach/Labor]
 title: D-Dimere
 ---
-[[Fibrin]]-/[[Fibrinogen]]-Spaltprodukte bei [[Fibrinolyse]] = Biomarker bei [[Thrombose]]
+[[Fibrin (F.Ia)]]-/[[Fibrinogen (F.I)]]-Spaltprodukte bei [[Fibrinolyse]] = Biomarker bei [[Thrombose]]
 - **Eigenschaften**
 	- **Geringe [[Spezifität]]**
 	- **Hohe [[Sensitivität]]**

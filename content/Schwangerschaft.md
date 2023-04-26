@@ -1,21 +1,23 @@
 ---
-tags: [Modul/m05, Modul/m22, Fach/Gynäkologie, Mythbusting/DGIM-Klug-entscheiden]
+tags: [Modul/m05, Modul/m22, Fach/Gynäkologie]
 title: Schwangerschaft
 ---
-- **Diagnostik**
-	- *Sichere Zeichen:* ==[[Schwangerschaftstest]]==
-	- *Unsichere Zeichen:* [[Amenorrhoe]], Übelkeit/Erbrechen, Spannungsgefühl der [[Mamma]] u.ä.
+> (Abstract::Auch: Gravidität.)
+- **Physiologie**:: [[Schwangerschaftsphysiologie]]
+- **Diagnostik**:: [[Schwangerschaftszeichen]]
+- **[[Schwangerschaftsdauer]]**
+- **Symptome**:: [[Übelkeit]], [[Refluxösophagitis]], [[Obstipation]], [[Rückenschmerzen]], Ischias-Kompression, [[Striae gravidarum]], [[Varikosis]], [[Hämorrhoiden]], [[V.-cava-Kompressionssyndrom]], [[Depression]], [[Psychose]]
 - **Komplikationen**
 	- [[Abort]]
 	- [[Extrauteringravidität]]
 	- [[Frühgeburt]]
 	- [[Fruchtwasseranomalien]]
 	- [[Placentainsuffizienz]]
-	- [[Placenta praevia]]
+	- [[Plazenta praevia]]
 	- [[Gestationsdiabetes]]
 	- [[Hypertensive Schwangerschaftserkrankungen]]
 - **Therapie**
-	- Siehe [[Medikamente in der Schwangerschaft]]
----
-### Mythbusting
-- *DGIM Klug entscheiden*:: Allen Schwangeren soll eine Jodsupplementation angeboten werden.
+	- [[Schwangerschaftsberatung]]
+	- [[Schwangerschaftsvorsorge]]
+	- [[Medikamente in der Schwangerschaft]]
+- **Prävention**:: [[Kontrazeption]]

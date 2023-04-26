@@ -20,7 +20,7 @@ title: Notfallmedizin
 		- [[Aortendissektion]]
 		- [[Spannungspneumothorax]]
 		- [[Mediastinalemphysem]]
-		- [[Vena-cava-Kompressionssyndrom]]
+		- [[V.-cava-Kompressionssyndrom]]
 	- [[Distributiver Schock]]
 		- [[Anaphylaxie]]
 		- [[Septischer Schock]]

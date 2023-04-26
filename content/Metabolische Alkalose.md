@@ -8,5 +8,5 @@ title: Metabolische Alkalose
 - **[[Hypokaliämie]]** anderer Genese
 - **Erbrechen** (massenhafter Verlust von HCl)
 ### Pathophysiologie
-- *Verlust von Protonen* (i.d.R. gemeinsam mit [[Cl-]]) oder *Zufuhr von [[HCO3-]]*
-- **Selbsterhaltung**:: Solange Chloriddefizit besteht kann NCC kein [[Na+]] resorbieren → [[Na+]] stattdessen im Cotransport mit [[HCO3-]] resorbiert
+- *Verlust von Protonen* (i.d.R. gemeinsam mit [[Cl-]]) oder *Zufuhr von [[Bicarbonat (HCO3-)]]*
+- **Selbsterhaltung**:: Solange Chloriddefizit besteht kann NCC kein [[Na+]] resorbieren → [[Na+]] stattdessen im Cotransport mit [[Bicarbonat (HCO3-)]] resorbiert

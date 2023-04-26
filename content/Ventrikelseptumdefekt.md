@@ -14,7 +14,7 @@ title: Ventrikelseptumdefekt
 	- **[[Untersuchung Herz]]**
 		- **Auskultation**:: *"Pressstrahlgeräusch"* (==Systolikum== p.m. Erb-Punkt)
 		- **Palpation**:: Verlagerter Herzspitzenstoß nach unten/außen
-	- **Echokardiographie/[[Röntgen]]**:: Kardiomegalie
+	- **[[Echokardiographie]]/[[Röntgen]]**:: Kardiomegalie
 - **Therapie**
 	- *Kleiner Defekt:* Meist keine OP, Spontanverschluss möglich
 	- *Großer Defekt:* Patch-Verschluss oder interventionell mit Schirmchen

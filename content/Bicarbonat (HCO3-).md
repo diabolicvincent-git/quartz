@@ -1,6 +1,6 @@
 ---
 tags: [Modul/m14, Fach/Biochemie, Fach/Physiologie]
-title: HCO3-
+title: Bicarbonat (HCO3-)
 ---
 > (Abstract::**Bicarbonat.**)
 - Ca. 50% der Gesamtpufferkapazität des Bluts

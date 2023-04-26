@@ -2,7 +2,7 @@
 tags: [Modul/m16, Fach/Ophthalmologie]
 title: Tränenflüssigkeit
 ---
-- **Zusammensetzung**:: Isotone Salzlösung ([[Na+]], K+, Cl−, [[HCO3-]]), [[Proteine]] (z.B. Lysozym, Lactoferrin, α- und β-Defensine), [[EGF]], [[IgA]]
+- **Zusammensetzung**:: Isotone Salzlösung ([[Na+]], K+, Cl−, [[Bicarbonat (HCO3-)]]), [[Proteine]] (z.B. Lysozym, Lactoferrin, α- und β-Defensine), [[EGF]], [[IgA]]
 - **Dreischichtung**
 	1. *Äußere lipophile Phase* aus [[Meibom-Drüsen]]
 	2. *Mittlere wässrige Phase* aus [[Tränendrüse]]

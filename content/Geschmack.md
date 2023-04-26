@@ -57,7 +57,7 @@ title: Geschmack
 - **Starke Säuren** dissoziieren direkt im [[Speichel]], gehen durch H+ Kanäle
 - **Schwache Säuren** dissoziieren erst IZ
 - Blockade von [[K+]] Kanälen → Ausschüttung [[Serotonin]]
-- Wasserdetektion: Wegspülen von [[HCO3-]] → Detektion als relativ "sauer"
+- Wasserdetektion: Wegspülen von [[Bicarbonat (HCO3-)]] → Detektion als relativ "sauer"
 
 
 ## Qualität

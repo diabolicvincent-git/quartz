@@ -9,7 +9,7 @@ title: PFO
 - **Komplikationen**
 	- *==[[Paradoxe Embolie]]==*
 	- Assoziation mit [[Migräne]] via Mikrothromben diskutiert
-- **Diagnostik**:: Echokardiographie
+- **Diagnostik**:: [[Echokardiographie]]
 - **Therapie**
 	- *Asymptomatisch:* Keine
 	- *[[Schlaganfall]] + PFO:* [[Thrombocytenaggregationshemmer]] ggf. + [[Antikoagulation]] / interventionaller Foramen-Verschluss

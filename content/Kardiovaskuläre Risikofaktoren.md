@@ -3,7 +3,7 @@ tags: [Modul/m11, Fach/Kardiologie, Art/Intervention]
 title: Kardiovaskuläre Risikofaktoren
 ---
 - **Beeinflussbare Hauptrisikofaktoren**
-	- [[Dyslipidämie]], insb. Hypercholesterinämie, [[Lipoprotein]](a)↑ 
+	- [[Dyslipidämie]], insb. Hypercholesterinämie, [[Lipoproteine]](a)↑ 
 	- [[aHTN]]
 	- [[Rauchen]]
 	- [[Diabetes mellitus]]

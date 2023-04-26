@@ -10,7 +10,7 @@ title: Leberinsuffizienz
 	- [[Gallensäuren]]↓ → Aufnahme fettlöslicher [[Vitamine]]↓ 
 	- Cholinesterase↓ 
 - **Biotransformation↓**
-	- [[Harnstoff]]↓ → Ammoniak↑ → [[Hepatische Encephalopathie]]
+	- [[Harnstoff]]↓ → [[Ammoniak (NH3-)]]↑ → [[Hepatische Encephalopathie]]
 	- Arzneimittelmetabolisierung/Entgiftung↓ → Kumulation toxischer Stoffe
 	- [[Bilirubin]]-Glucuronidierung↓ → [[Hyperbilirubinämie]], [[Ikterus]]
 - **Metabolismus↓**

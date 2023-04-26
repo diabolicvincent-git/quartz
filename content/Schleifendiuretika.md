@@ -6,7 +6,7 @@ title: Schleifendiuretika
 	- *[[Ödeme]]:* [[Herz]] ([[Herzinsuffizienz]], [[Lungenödem]]), [[Niere]] ([[Nephrotisches Syndrom]]), [[Leber]] ([[Leberzirrhose]])
 	- *[[CKD]]* (auch bei [[GFR]] <30 einsetzbar)
 - **Wirkstoffe**:: [[Furosemid]] (akut), Torasemid (längerfristig)
-- **Wirkmechanismus**:: Blockade NKCC2
+- **Wirkmechanismus**:: Blockade [[NKCC2]]
 	- [[Harnkonzentrierung]]↓
 	- Venöse [[Vasodilatation]] ([[Vorlast]]↓), Hemmung [[Macula-Densa-Mechanismus]]
 	- Lineare Dosis-Wirkung-Beziehung (*hight-ceiling [[Diuretika]]*)

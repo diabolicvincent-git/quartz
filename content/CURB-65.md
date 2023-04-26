@@ -10,8 +10,8 @@ title: CURB-65
 	- **==B==lood pressure**:: [[RR]] <90/60 mmHg
 	- **>==65== Years**
 - **Prädiktion** (Punkte in CURB65)
-	- **0**:: Mortalität <1%, ambulant
-	- **1**:: Mortalität ~5%, stationär
-	- **2**:: Mortalität >10%, stationär
-	- **3**:: Mortalität >20%, IMC/[[ITS]]
-	- **4**:: Mortalität ~30%, [[ITS]]
+	- **0**:: [[Mortalität]] <1%, ambulant
+	- **1**:: [[Mortalität]] ~5%, stationär
+	- **2**:: [[Mortalität]] >10%, stationär
+	- **3**:: [[Mortalität]] >20%, IMC/[[ITS]]
+	- **4**:: [[Mortalität]] ~30%, [[ITS]]

@@ -16,7 +16,7 @@ title: HRST
 - **Diagnostik**
 	- [[Anamnese]], [[Untersuchung Herz]]
 	- ==[[EKG]]== (Ruhe-, Langzeit-, Belastung-)
-	- Echokardiographie
+	- [[Echokardiographie]]
 - **Therapie**
 	- **Allgemein**:: [[Valsalva]], Carotisdruck, [[Sedierung]], [[O2]]-Gabe
 	- **Medikamentös**:: [[Antiarrhythmika]]

@@ -13,5 +13,5 @@ title: Geschlechtsdysphorie
 		- **MTF**
 			- *Ziel:* [[Androgene]]-Synthese↓, [[Östrogene]]↑ ([[W]])
 			- *Medikamente:* Antiandrogene, Östradiol
-			- *[[UAW]]:* Mortalität +50% (Suizid, AIDS(?), ==[[Östrogene]]-induzierte [[KHK]]==)
+			- *[[UAW]]:* [[Mortalität]] +50% (Suizid, AIDS(?), ==[[Östrogene]]-induzierte [[KHK]]==)
 		- **Monitoring**:: [[Androgene]]/[[Östrogene]], [[Prolactin]], Gewicht, [[RR]], [[Blutbild]], [[Leberwerte]], [[Lipide]], [[Glucose]], [[HbA1c]], Knochendichte ([[Osteoporose]]-[[Risiko]]), [[Krebsvorsorgeuntersuchung]] ([[Prostata-Ca]], [[Cervix-Ca]], [[Mamma-Ca]])

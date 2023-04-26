@@ -12,7 +12,7 @@ title: Bakteriell bedingte Hautkrankheiten
 
 ### [[Staphylokokken]] (haufenförmig, Katalase-positiv)
 
-Einteilung nach [[Bakterien]] *Koagulase* ([[Enzyme]]: Fibrinogen → Fibrin (Eingriff in [[Hämostase]])
+Einteilung nach [[Bakterien]] *Koagulase* ([[Enzyme]]: [[Fibrinogen (F.I)]] → [[Fibrin (F.Ia)]] (Eingriff in [[Hämostase]])
 
 - Virulenzfaktor zum Eingriff in die [[Hämostase]] zur Abschottung vor Immunreaktionen
 - Test: Kaninchenplasma + S. aureaus (Koagulase-positiv) → Ausflockung ([[Hämostase]])
@@ -102,7 +102,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
     - **Hefen & [[Dermatophyten]]**:: z.B. Soor, Tinea
     - **[[Parasiten]]**:: z.B. Cutane Leishmaniasis, Skabies, Larva migrans cutanea, Pedikulose
 - **Lokal durch externe Erreger + Systemische Ausbreitung**
-    - Lyme-[[Borreliose]]
+    - Lyme-[[Lyme-Borreliose]]
     - [[Syphilis]]
     - Trypanosomenschanker ("Schlafkrankheit")
 - **Hautmanifestationen systemischer Erkankungen**

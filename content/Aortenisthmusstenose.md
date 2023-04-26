@@ -9,13 +9,13 @@ title: Aortenisthmusstenose
 - **Symptome**
 	- *Brachiocephale [[Hypertonie]]* ([[Epistaxis]], [[Kopfschmerzen]], [[Tinnitus]])
 	- *Abdominofemorale [[Hypotonie]]* (kalte Füße, Claudicatio)
-	- **Kritische Aortenisthmusstenose**:: Minderperfusion Bauchorgane + untere Extremität, dekompensierte [[Linksherzinsuffizienz]]
+	- **Kritische Aortenisthmusstenose**:: Minderperfusion Bauchorgane + [[untere Extremität]], dekompensierte [[Linksherzinsuffizienz]]
 		- Trinkschwäche, [[Dyspnoe]], [[Hepatomegalie]], [[Schock]], [[MOV]]
 - **Diagnostik**
 	- **[[Untersuchung]]**
-		- ==Puls-/RR-Differenz obere Extremität > untere Extremität==
+		- ==Puls-/RR-Differenz obere Extremität > [[untere Extremität]]==
 		- Systolikum p.m. infraclaviculär und zwischen Schulterblättern
-	- **==Echokardiographie==**
+	- **==[[Echokardiographie]]==**
 	- **[[EKG]]**
 	- **[[Röntgen]]**:: Prominenter Aortenknopf, Einziehung prox. Aorta descendens, Rippenusuren, Epsilon-Zeichen
 ---

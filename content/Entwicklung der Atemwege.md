@@ -13,7 +13,7 @@ title: Entwicklung der Atemwege
     - Bindegewebige Strukturen in Zwischenräumen
     - [[Glatte Muskulatur]]
 
-### den Zeitplan der Lungenentwicklung im Hinblick auf den frühestmöglichen Termin einer Geburt (unter Bedingungen der optimalen medizinischen Versorgung) beschreiben können.
+### den Zeitplan der Lungenentwicklung im Hinblick auf den frühestmöglichen Termin einer [[Geburt]] (unter Bedingungen der optimalen medizinischen Versorgung) beschreiben können.
 
 ![[Untitled 50.png]]
 
@@ -34,9 +34,9 @@ title: Entwicklung der Atemwege
 
 ### Postnatalperiode: Ausbildung der Alveolen
 
-- Umstellung der Alveolen bei Geburt
+- Umstellung der Alveolen bei [[Geburt]]
     - Reduktion der Flüssigkeitssekretion
-    - Flüssigkeitsresorption (Stimulation durch [[Katecholamine]], Wehen, [[ADH]], [[Prostaglandin]] E2)
+    - Flüssigkeitsresorption (Stimulation durch [[Katecholamine]], [[Wehen]], [[ADH]], [[Prostaglandin]] E2)
 
 ### die funktionell wichtigsten [[Lipide]] und [[Proteine]] des [[Surfactant]] benennen und zuordnen können.
 
@@ -62,7 +62,7 @@ title: Entwicklung der Atemwege
 
 ### am Beispiel des Atemnotsyndroms Frühgeborener die Bedeutung der morphologischen und biochemischen Lungenreifung für die [[Atemmechanik]] ableiten können.
 
-- **Synonyme**:: Respiratory distress syndrome (RDS), Surfactantmangelsyndrom, Hyaline membrane disease, Atemnotsyndrom des Neugeborenen (ANS)
+- **Synonyme**:: Respiratory distress syndrome (RDS), Surfactantmangelsyndrom, Hyaline membrane disease, [[Atemnotsyndrom]] des Neugeborenen (ANS)
 - **Pathophysiologie**:: Kollabieren der Alveolen → Mikroatelektasen → Weniger Gasaustauschfläche → [[O2]]↓ im [[Blut]], ↑CO2 im [[Blut]] → Azidose und [[Vasokonstriktion]] → Gewebeschädigung → [[Entzündung]] mit fibrinöser Exsudation → Aufbau hyaliner Membranen → auch langfristig schlechterer Gasaustausch
 - **Klassifikation RDS** nach Radiologie
     - I° Feinfleckige Zeichnungsvermehrung (Mikroatelektasen)

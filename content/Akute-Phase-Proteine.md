@@ -6,7 +6,7 @@ title: Akute-Phase-Proteine
 - **Haupt-APP**:: ==*[[CRP]]*== (schneller, starker Anstieg), Amyloid-A
 - **Proteinase-Inhibitoren**:: [[α1-Antitrypsin]], α2-Antiplasmin
 - **[[Komplementsystem]]**:: C3, C4, C1-Inhibitor u.a.
-- **[[Gerinnungsfaktoren]]**:: Fibrinogen, Faktor VIII u.a.
+- **[[Gerinnungsfaktoren]]**:: [[Fibrinogen (F.I)]], Faktor VIII u.a.
 - **Metallbindende [[Proteine]]**:: Haptoglobin, Hämopexin, Ceruloplasmin
 - **Sonstiges**:: *[[PCT]]* (spiegelt Entzündungsschwere wieder), *[[Ferritin]]*
 - **Negative APP**:: [[Albumin]], [[Transferrin]]

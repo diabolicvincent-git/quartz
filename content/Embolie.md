@@ -1,4 +1,5 @@
 ---
+title: Embolie
 ---
 > (Abstract::Verschwemmung von Material im [[Kreislauf]] → Gefäßverengung/-verschluss.)
 - **Pathophysiologie**

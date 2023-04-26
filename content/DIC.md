@@ -17,7 +17,7 @@ Punkte|0|1|2
 -|-|-|-
 [[Thrombocyten]]-Zahl / nl|>100|≥50|<50
 [[D-Dimere]] μg/ml|≤1|1-5|>5
-Fibrinogen g/l|>1|≤1|
+[[Fibrinogen (F.I)]] g/l|>1|≤1|
 Prothrombinzeit ([[Quick]])|>60%|40-60%|<40%
 
 ## VL DD Akute Gerinnungsstörung

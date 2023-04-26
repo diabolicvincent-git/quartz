@@ -5,7 +5,7 @@ title: Schock
 > Generalisierte Hypoxie ([[HZV]] < [[O2]]-Bedarf)
 - **Ätiologie**
 	- **Hypovolämisch**:: Plasmavolumen↓ (z.B. [[Diarrhoe]], [[Verbrennung]], [[Pankreatitis]])
-		- **Hämorrhagisch**:: Blutverlust (z.B. Trauma, [[GI-Blutung]], Geburt)
+		- **Hämorrhagisch**:: Blutverlust (z.B. Trauma, [[GI-Blutung]], [[Geburt]])
 	- **Kardiogen**:: Herzleistung↓ (z.B. [[OMI]], [[HRST]], [[Herzinsuffizienz]])
 	- **Obstruktiv**:: (z.B. [[LAE]], [[Perikardtamponade]], [[Spannungspneumothorax]])
 	- **Distributiv**:: [[Sepsis]], [[Anaphylaxie]], Neurogen/Spinal ([[Sympathikus]]ausfall)
@@ -99,7 +99,7 @@ title: Schock
 [[Nekrotisierende Fasziitis]]
 
 ## SEM5 Pathophysiologie
-- Hüfner-Zahl
+- [[Hüfner-Zahl]]
 - Folien angucken
 - 300 ml O2-Verbrauch pro Minute und 1 Liter O2 in 5 Liter Blut ([[HZV]]) → nach 3 min alles aufgebraucht
 

@@ -7,7 +7,9 @@ title: HSV-Encephalitis
 - **Symptome**
 	- *Prodromalstadium*:: Hohes ==[[Fieber]]==, ==[[Kopfschmerzen]]==, [[AZ]]↓ 
 	- *Neurologische Symptome*:: ==[[Bewusstseinsstörung]] (>90%), [[Krampfanfall]], [[Parese]]/[[Aphasie]], evtl. [[Meningismus]]==
-- **Diagnostik**:: ==[[MRT]] (T2 frontotemporal hyperintense asymmetrische Läsionen, [[Ödeme]])==, [[Liquordiagnostik]] (Lymphocytäre Pleocytose, [[PCR]])
+- **Diagnostik**:: ==[[MRT]][^1] (T2 frontotemporal hyperintense asymmetrische Läsionen, [[Ödeme]])==, [[Liquordiagnostik]] (Lymphocytäre Pleocytose, [[PCR]])
 - **DD**:: [[Encephalitis]]/[[Meningitis]] anderer Genese, [[Sinusvenenthrombose]]
 - **Therapie**:: ==[[Aciclovir]] [[i.v.]] 14d== bereits bei klinischem Verdacht
 - **Prognose**:: Letalität unbehandelt 80%, schnell therapiert 20%, oft Residualdefizit
+
+[^1]: In Diffusionsgewichtung ([[DWI]]) schon Wochen früher!

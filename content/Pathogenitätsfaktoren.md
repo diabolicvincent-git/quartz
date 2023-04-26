@@ -16,7 +16,7 @@ title: Pathogenitätsfaktoren
 	- Modifikation der *Penicillin-Bindeproteine* (z.B. [[MRSA]])
 	- *Effluxpumpen*
 - **[[Enzyme]]**
-	- *Koagulase:* Bildung von Fibrinogen-"Schutzwall" (*[[Staph. aureus]]*)
+	- *Koagulase:* Bildung von [[Fibrinogen (F.I)]]-"Schutzwall" (*[[Staph. aureus]]*)
 	- *Hämolysine*
 	- *Katalase*
 	- *Koagulase*

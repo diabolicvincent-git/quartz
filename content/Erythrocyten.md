@@ -6,7 +6,7 @@ title: Erythrocyten
 	- [[Gastransport]]
 	- Aktivierung der [[Hämostase]]
 	- [[Blutgruppen]]-Expression
-	- [[Puffer]]: *Hamburger-Shift* von [[HCO3-]] und [[Cl-]]
+	- [[Puffer]]: *Hamburger-Shift* von [[Bicarbonat (HCO3-)]] und [[Cl-]]
 - **Aufbau**:: Zellorganell-los; bestehend v.a. aus [[Hb]]
 	- Durchmesser: 7,5 μm
 - **Diagnostik**:: [[Erythrocytenindices]]
@@ -21,7 +21,7 @@ title: Erythrocyten
 > Keine Zellorganellen → obligat [[Glucose]]-verwertend
 - **[[Glucose]]-Aufnahme**:: [[GLUT]]1
 - **Stoffwechselwege** (nach Funktion)
-	- **[[Gastransport]]**:: Carboanhydrase, Anionentauscher ([[HCO3-]]/[[Cl-]]), 2,3-BPG-Weg
+	- **[[Gastransport]]**:: Carboanhydrase, Anionentauscher ([[Bicarbonat (HCO3-)]]/[[Cl-]]), 2,3-BPG-Weg
 	- **[[ATP]]-Synthese**:: Anaerobe [[Glycolyse]], Adenylatkinase (2 [[ADP]] → AMP + [[ATP]]), Bergungsstoffwechsel (Recycling von Adenin-Metaboliten)
 	- **[[Antioxidative Schutzsysteme]]**:: Met-[[Hb]]-Reduktase, Superoxiddismutase, Katalase, [[Glutathion]]-Reduktase, Oxidativer [[Pentosephosphatweg]]
 - **Besonderheiten**

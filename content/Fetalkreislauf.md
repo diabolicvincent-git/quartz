@@ -6,7 +6,7 @@ title: Fetalkreislauf
 ### Fördernde Aspekte der Sauerstoffversorgung
 - *Partialdruckdifferenz* des mütterlichen [[pO2]] (50 mmHg [[Plazenta]] arteriell) und fetalen [[pO2]] (30 mmHg V. umbilicalis) → Diffusionsgradient für [[Gasaustausch]]
 - Erhöhte *Sauerstoffaffinität* des [[HbF]] im Vergleich zum adulten [[HbA1]]
-- *Bohr-Effekt* der [[Sauerstoffbindungskurve]]
+- *[[Bohr-Effekt]]* der [[Sauerstoffbindungskurve]]
 
 ## Kreislauf
 ### Oxygeniertes Blut
@@ -20,7 +20,7 @@ title: Fetalkreislauf
 #### 2. Kurzschluss
 - Rechter Vorhof → Rechte Kammer → Truncus pulmonalis → *[[Ductus arteriosus Botalli]]* → Aortenbogen und [[Aorta]] descendens → A. iliaca communis
 	- Rückfluss zur [[Plazenta]]: A. iliaca interna → A. umbilicalis → [[Plazenta]]
-	- Versorgung der Beine: A. iliaca externa → Untere Extremität → [[V. cava inferior]] (dort Zufluss V. umbilicalis)
+	- Versorgung der Beine: A. iliaca externa → [[Untere Extremität]] → [[V. cava inferior]] (dort Zufluss V. umbilicalis)
 
 ## Postnatale Umstellung
 - [[Perfusion]] der [[Lunge]] → Änderung der Druckverhältnisse und Sauerstoffkonzentrationen

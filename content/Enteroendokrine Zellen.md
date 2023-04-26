@@ -16,6 +16,6 @@ title: Enteroendokrine Zellen
 | **L**    | Darm                          | GLP-1        | [[Insulin]]↑                                       |
 | **M**    | [[Duodenum]]                  | Motilin      | [[Magen]]-[[Motilität]]↑                           |
 | **P/D1** | [[Magen]]                     | Ghrelin      | [[Hunger-Sättigungsregulation]]                    |
-| **S**    | [[Dünndarm]]                  | Secretin     | [[Sekretion]]↑ (Wasser/[[HCO3-]]), [[Magensäure]]↓                                                   |
+| **S**    | [[Dünndarm]]                  | Secretin     | [[Sekretion]]↑ (Wasser/[[Bicarbonat (HCO3-)]]), [[Magensäure]]↓                                                   |
 
 ![[Pasted image 20210322161913.png]]

@@ -4,7 +4,7 @@ title: DOAK
 ---
 > Direkte orale Antikoagulantien
 - **Wirkmechanismus**
-	- *Dabigatran:* Selektiver Thrombin-Antagonismus
+	- *Dabigatran:* Selektiver [[Thrombin (F.IIa)]]-Antagonismus
 	- *Apixaban, Rivaroxaban, Edoxaban:* Direkte Hemmung Faktor Xa
 - **Indikation**
 	- 
