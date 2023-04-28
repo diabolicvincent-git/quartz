@@ -1,4 +1,4 @@
-baseURL = "https://notes.vincentweber.net" 
+baseURL = "https://notes.vincentweber.net/" 
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
