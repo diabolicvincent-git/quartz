@@ -244,7 +244,7 @@ title: Urindiagnostik
 
 - **[[Diabetes mellitus]] mellitus** → Glucosurie (Überschreiten von 10 mmol/l), Nephropathie (nicht-entzündliche, irreversible Nierenschädigung), [[Ketoazidose]] mit Ketonurie
 - **[[Cushing-Syndrom]]** → Rückresorptionsschwelle im proximalen Tubulus gesenkt
-- **Gestationsdiabetes →** erhöhter Insulinbedarf ab SSW20 (s. DM)
+- **[[Gestationsdiabetes]] →** erhöhter Insulinbedarf ab SSW20 (s. DM)
 
 ### die Störung des Glucosenachweises im Urin mit einem Urin- Teststreifen (Urinstix) durch [[Vitamin C (Ascorbinsäure)]] begründen
 

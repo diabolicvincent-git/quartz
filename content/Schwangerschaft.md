@@ -13,7 +13,7 @@ title: Schwangerschaft
 	- [[Frühgeburt]]
 	- [[Fruchtwasseranomalien]]
 	- [[Placentainsuffizienz]]
-	- [[Plazenta praevia]]
+	- [[Placenta praevia]]
 	- [[Gestationsdiabetes]]
 	- [[Hypertensive Schwangerschaftserkrankungen]]
 - **Therapie**

@@ -12,7 +12,7 @@ title: Malassimilation
 	- *[[Vitamin K]]* → [[Blutungsneigung]]
 	- *[[Vitamin B1 (Thiamin)]]* → Beri-Beri-Krankheit, [[Polyneuropathie]]
 	- *[[Vitamin B6 (PALP)]]* → [[Polyneuropathie]]
-	- *[[Folsäure]]* → Megaloblastäre Anämie, Neuralrohrdefekte, PNP
+	- *[[Folsäure]]* → Megaloblastäre Anämie, [[Neuralrohrdefekte]], PNP
 	- *[[Vitamin B12 (Cobalamin)]]* → Perniziöse Anämie, Funikuläre Myelose, PNP
 	- *[[Ca2+]]* → Muskelerregbarkeit↑, Tetanie, [[Osteoporose]]
 	- *[[K+]]* → [[HRST]], Obstipation, Muskelschwäche, [[Reflex]]↓, [[Polyurie]]

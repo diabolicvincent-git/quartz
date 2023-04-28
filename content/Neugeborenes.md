@@ -14,5 +14,5 @@ title: Neugeborenes
 	- *Blutvolumen*:: 85ml/kg
 	- *Nabelschnur-[[pH]]*:: ≥7.30
 	- *Mekonium* <48h
-- **Pathologien**:: [[Frühgeburt]]
-- **Diagnostik**:: [[APGAR]], [[Neugeborenenscreening]]
+- **Pathologien**:: ==[[Frühgeburt]]==
+- **Diagnostik**:: ==[[APGAR]]==, [[Reifezeichen]], [[Neugeborenenscreening]]

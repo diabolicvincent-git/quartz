@@ -1,9 +1,10 @@
 ---
-tags: [Modul/m17, Fach/Genetik, Fach/Pädiatrie]
+tags: [Modul/m17, Fach/Genetik, Fach/Pädiatrie, Modul/m33]
 title: Neugeborenenscreening
 ---
-> Sekundärprävention schwerer, behandelbarer Erkrankungen bei präsymptomatischen Neugeborenen
-- **Durchführung**:: Entnahme von Fersenblut 36 h postnatal, Aufbringen auf Spezial-Filterpapier
+> (Abstract::**Sekundärprävention schwerer behandelbarer [[Stoffwechseldefekte]] bei [[Neugeborenes]].** Zeitpunkt 36-72h nach [[Geburt]].)
+- **Epidemiologie**:: Kumulative [[Inzidenz]] 1:1400
+- **Durchführung**:: Entnahme von Fersenblut → tropfen auf Spezial-Filterpapier
 - **Zielkrankheiten**
 	- [[Hypothyreose]]
 	- [[Phenylketonurie (PKU)]]
@@ -18,3 +19,8 @@ title: Neugeborenenscreening
 	- MCAD-Mangel
 	- LCHAD-/VLCAD-Mangel
 	- 5q-[[Spinale Muskelatrophie (SMA)]]
+---
+```dataview
+TABLE Epidemiologie
+FROM #Fach/Pädiatrie/Neugeborenenscreening
+```

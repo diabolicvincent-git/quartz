@@ -59,7 +59,7 @@ title: Zellschädigung
 	- [[Noradrenalin]] → [[Adrenalin]] ([[Katecholamine]]-Synthese)
 	- [[Biotransformation]]
 	- ==[[DNA]]-Methylierung, Histon-Methylierung==
-- **Defekte**:: Mangel an [[Folsäure]], [[Vitamin B12 (Cobalamin)]] oder MTHFR-Defekt → (In-)Aktivierung von Genen → Neuralrohrdefekte (Spina bifida), Darmkrebs
+- **Defekte**:: Mangel an [[Folsäure]], [[Vitamin B12 (Cobalamin)]] oder MTHFR-Defekt → (In-)Aktivierung von Genen → [[Neuralrohrdefekte]] ([[Spina bifida]]), Darmkrebs
 #### NAD
 - NAD ist Substrat der Poly-ADP-Ribosylierung ([[Proteinmodifikation]]) vieler [[DNA-Reparatur]][[Enzyme]]
 - Doppelstrangbruch → Poly-ADP-Ribosylierung↑, NAD-Depletion, Energieverarmung)

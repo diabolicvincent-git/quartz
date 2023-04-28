@@ -11,7 +11,7 @@ title: Diabetes mellitus
 	- **[[DMT1]]**:: [[Autoimmunität]] mit Zerstörung der [[Pankreas]]-β-Zellen →  *Insulinmangel*
 	- **[[DMT2]]**:: Genetik + Umweltfaktoren (s. [[Metabolisches Syndrom]]) → *[[Insulinresistenz]]*
 	- **Typ 3**:: z.B. Pankreasinsuffizienz, [[Cushing-Syndrom]], Medikamente, ==[[MODY]]==
-	- **Typ 4**:: Gestationsdiabetes
+	- **Typ 4**:: [[Gestationsdiabetes]]
 - **Symptome**:: ==Müdigkeit, [[Polyurie]], Polydipsie==, Wadenkrämpfe[^3], Pruritus, [[Sehstörung]], [[HWI]]
 	- *[[DMT1]]:* Sudden-Onset, Übelkeit/Erbrechen, [[Gewichtsverlust]], ggf. [[Coma Diabeticum]]
 	- *[[DMT2]]:* Schleichend, oft Zufallsbefund

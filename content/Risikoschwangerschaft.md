@@ -10,5 +10,5 @@ title: Risikoschwangerschaft
 - [[Extrauteringravidität]]
 - Spätabort
 - Implantationsschäden
-	- [[Plazenta praevia]]
+	- [[Placenta praevia]]
 	- PAS

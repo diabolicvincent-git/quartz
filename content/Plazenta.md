@@ -11,4 +11,4 @@ title: Plazenta
 	- *Chorionplatte* (fetal)
 - **Histologie**
 	- *Reif*:: 1 Zotten-Zellschicht, Kapillarreich
-- **Pathologien**:: [[Plazentabildungsstörung]], [[Plazentalösungsstörung]] (z.B. [[Plazenta accreta]]), [[Plazenta praevia]]
+- **Pathologien**:: [[Plazentabildungsstörung]], [[Plazentalösungsstörung]] (z.B. [[Plazenta accreta]]), [[Placenta praevia]]

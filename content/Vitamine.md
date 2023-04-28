@@ -22,6 +22,6 @@ SORT Löslichkeit ASC
 | **[[Vitamin B3]]**    | Niacin, NAD+, NADP+        | Cofaktor von Redoxenzymen                                                          | Pellagra                                                  |
 | **[[Vitamin B5]]**    | Pantothensäure, Coenzym A  | Aktivierung von Fettsäuren, Cofaktor für Fettsäuresynthase                         | selten, unspezifisch                                      |
 | **[[Vitamin B6 (PALP)]]**    | Pyridoxin, PALP            | Cofaktor div. Enzyme                                                               | Dermatitis, [[Depression]], Myalgie                       |
-| **[[Folsäure]] / B9** | THF                        | Cofaktor für C1-Übertragungen                                                      | Megaloblastäre Anämie, [[Schwangerschaft]]: Neuralrohrdefekte |
+| **[[Folsäure]] / B9** | THF                        | Cofaktor für C1-Übertragungen                                                      | Megaloblastäre Anämie, [[Schwangerschaft]]: [[Neuralrohrdefekte]] |
 | **[[Vitamin B12 (Cobalamin)]]**   | Cobalamin                  | Cofaktor für Remethylierungen (mit B9)                                             | Perniziöse Anämie, Funikuläre Myelose                     |
 | **[[Vitamin C (Ascorbinsäure)]]**     | Ascorbinsäure              | Antioxidans, Cofaktor für Hydroxylierung, Eisenaufnahme↑                           | Skorbut                                                          |

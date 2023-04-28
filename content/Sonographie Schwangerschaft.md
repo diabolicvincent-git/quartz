@@ -4,7 +4,7 @@ title: Sonographie Schwangerschaft
 ---
 > (Abstract::[[Schwangerschaftsvorsorge]].)
 1. **Screening ([[SSW]] 9-12)**:: Gestationsalter, frühe Fehlentwicklung
-	- *Regelrechte [[Schwangerschaft]]*:: [[Extrauteringravidität]]? Embryo? Mehrlinge?
+	- *Regelrechte [[Schwangerschaft]]*:: [[Extrauteringravidität]]? Embryo? [[Mehrlinge]]?
 	- *Kindsentwicklung*:: Herzaktion? Anomalien?
 	- *Fetometrie*:: Scheitel-Steiß-Länge, Biparietaler Kopfdurchmesser
 2. **Screening ([[SSW]] 19-22)**:: Fehlbildungen, Anomalien
