@@ -267,7 +267,7 @@ title: IMPP-Arzneistoffe
 ### [[RAAS]]
 - **Antihypertensiva, RAAS-Blocker**
 	- **[[ACE-Hemmer]]**:: Ramipril
-	- **[[AT1-Blocker]] / Sartane**:: Candesartan
+	- **[[AT1-Blocker (Sartane)]] / Sartane**:: Candesartan
 - **Kaliumsparende Diuretika**
 	- **Mineralocorticoid-R-Antagonisten**:: Eplerenon, [[Spironolacton]]
 

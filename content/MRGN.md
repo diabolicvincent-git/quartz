@@ -4,7 +4,7 @@ title: MRGN
 ---
 > **Multiresistente gramnegative Stäbchen.** [[Enterobakterien]] ([[E. coli]], Klebsiellen), Nonfermenter ([[Pseudomonas aeruginosa]], Acinetobacter baumanii)
 - **Übertragung**:: ==[[Darmflora]]== → kontaminierte Hände/Materialien, Fäkalien
-- **Risikofaktoren**:: Leitkeim der [[Mukoviszidose]]
+- **Risikofaktoren**:: Leitkeim der [[Mukoviszidose (CF)]]
 - **Erkrankungen (v.a. [[Nosokomiale Infektion]])**:: [[Pneumonie]], [[Wundinfektion]], [[HWI]], [[Sepsis]], [[Otitis externa]], [[Keratitis]] u.v.m.
 - **[[Resistenzen]]**:: [[Penicilline]], [[Cephalosporine]] (Gen. 3-4), [[Fluorchinolone]], [[Carbapeneme]]
 	- ***3-MRGN:*** Resistent gegen 3/4 der o.g. [[Antibiotika]]-Klassen

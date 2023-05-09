@@ -20,7 +20,7 @@ title: LAE
 - **Therapie**
 	- **Allgemein**:: Oberkörperhochlagerung, Monitoring, [[O2]]-Gabe
 	- **[[Antikoagulation]]**:: [[Heparin]] oder [[DOAK]]
-	- **==[[Lyse]]==**:: [[Fibrinolyse]] z.B. mit rt-PA (Indikation: Instabilität)
+	- **==[[Lyse]]==**:: [[Fibrinolyse]] z.B. mit [[rt-PA]] (Indikation: Instabilität)
 	- **Sekundärprophylaxe**:: [[Antikoagulation]]-Erhalt mit [[DOAK]] oder [[Vitamin-K-Antagonisten]], Ursachensuche (s. [[Thrombose]])
 ---
 ### Mythbusting

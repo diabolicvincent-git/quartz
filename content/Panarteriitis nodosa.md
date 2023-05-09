@@ -2,7 +2,7 @@
 tags: [Modul/m17, Fach/Rheumatologie, Art/Pathologie]
 title: Panarteriitis nodosa
 ---
-> [[Vaskulitis]] > Mittlere [[Gefäße]] > [[Panarteriitis nodosa]] (==[[Hepatitis]]-assoziiert==)
+> [[Vaskulitis]] der mittleren [[Gefäße]] (==[[Hepatitis]]-assoziiert==)
 - **Symptome**
 	- Livedo reticularis
 	- Mono-/[[Polyneuropathie]]

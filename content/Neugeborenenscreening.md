@@ -10,7 +10,7 @@ title: Neugeborenenscreening
 	- [[Phenylketonurie (PKU)]]
 	- [[Adrenogenitales Syndrom]]
 	- [[Galactosämie]]
-	- [[Mukoviszidose]]
+	- [[Mukoviszidose (CF)]]
 	- Ahornsirup-Krankheit
 	- Biotinidase-Mangel
 	- Carnitin-[[Stoffwechseldefekte]]

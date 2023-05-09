@@ -10,7 +10,7 @@ title: Diuretika
 	- **[[Carboanhydrase-Hemmer]]**
 ---
 ### Mythbusting
-- *DGIM No Go*:: Unter einer Kombinationstherapie von Diuretika und RAS-Blockern ([[ACE-Hemmer]], [[AT1-Blocker]], [[Direkte Renin-Inhibitoren]]) sollen [[NSAR]] wegen des erhöhten Risikos für ein [[Nierenversagen]] nicht eingesetzt werden.
+- *DGIM No Go*:: Unter einer Kombinationstherapie von Diuretika und RAS-Blockern ([[ACE-Hemmer]], [[AT1-Blocker (Sartane)]], [[Direkte Renin-Inhibitoren]]) sollen [[NSAR]] wegen des erhöhten Risikos für ein [[Nierenversagen]] nicht eingesetzt werden.
 
 
 

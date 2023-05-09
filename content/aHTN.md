@@ -11,7 +11,7 @@ title: aHTN
 - **Symptome**:: Oft asymptomatisch, Schwindel, Ohrensausen, (Hinter-)[[Kopfschmerzen]], Epistaxis, Palpitationen, [[Schlafstörung]]
 - **Komplikationen**:: [[Kardiomyopathie]], [[KHK]], [[Akutes Aortensyndrom]], [[Carotisstenose]], [[Schlaganfall]], [[Vaskuläre Demenz]], [[Nephropathie]], [[Retinopathie]], [[Hypertensive Krise]]/[[Hypertensiver Notfall]]
 - **Diagnostik**:: [[Urindiagnostik]] ([[Albuminurie]]), [[Labor]] ([[Elektrolyte]], [[BZ]], [[Cholesterol]] u.a.), ==[[Kardiovaskuläre Risikofaktoren]]==, LZ-RR, RR-Selbstmessung
-- **Therapie**:: ==*Immer* 2fach: [[ACE-Hemmer]]/[[AT1-Blocker]] + [[Thiaziddiuretika]]/[[Calciumantagonisten]]==, ggf. 3x
+- **Therapie**:: ==*Immer* 2fach: [[ACE-Hemmer]]/[[AT1-Blocker (Sartane)]] + [[Thiaziddiuretika]]/[[Calciumantagonisten]]==, ggf. 3x
 	- *Refraktär*:: ==[[Aldosteronantagonisten]] (Spironolacton)==, alternativ [[Kaliumsparende Diuretika]], ⍺-Blocker ([[Urapidil]]), [[Antisympathotonika]] ([[cloNIDin]], Moxonidin, [[⍺-Methyldopa]]), Vasodilatatoren (Dihydralazin, Minoxidil, Nitroprussid), [[Direkte Renin-Inhibitoren]] (Aliskiren)
 - **Cave**:: Keine Kombi [[Calciumantagonisten]] + [[β-Blocker]]
 ---

@@ -52,7 +52,7 @@ FROM #Fach/Neurologie
 	- [[Neuroborreliose]]
 	- [[Neurosyphilis]]
 	- [[Creutzfeldt-Jakob]]
-	- [[Tollwut]]
+	- [[Tollwut (Rabies)]]
 - [[Vaskuläre ZNS-Erkrankungen]]
 	- [[Schlaganfall]]
 		- [[Paradoxe Embolie]]

@@ -29,7 +29,7 @@ title: Lungenfibrose
 	- **[[BGA]]**
 		- Initial Hypokapnie (aufgr. Hyperventilation)
 		- Später Hypoxie
-		- Dekompensation: Hypoxie + Hyperkapnie
+		- Dekompensation: Hypoxie + [[Hyperkapnie]]
 	- **[[Röntgen]]-Thorax**:: Basale reticuläre Verschattungen, ggf. Cor pulmonale
 	- **[[CT]]**:: Irregulär verdickte Interlobulärsepten, Honigwabenstruktur, Traktionsbronchiektasen
 	- **[[Lungenfunktionsprüfung]]**

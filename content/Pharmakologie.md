@@ -224,7 +224,7 @@ title: Pharmakologie
 			- [[Enalapril]]
 			- [[Lisinopril]]
 			- [[Captopril]]
-		- [[AT1-Blocker]]
+		- [[AT1-Blocker (Sartane)]]
 			- [[Valsartan]]
 			- [[Candesartan]]
 			- [[Losartan]]

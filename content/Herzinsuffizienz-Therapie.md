@@ -6,7 +6,7 @@ title: Herzinsuffizienz-Therapie
 
 Medikament je [[NYHA]]-Stadium|I|II|III|IV|Anmerkungen
 -|-|-|-|-|-
-[[ACE-Hemmer]], <br>alternativ: [[AT1-Blocker]]|✔︎|✔︎|✔︎|✔︎|Dosis↑ 
+[[ACE-Hemmer]], <br>alternativ: [[AT1-Blocker (Sartane)]]|✔︎|✔︎|✔︎|✔︎|Dosis↑ 
 [[β-Blocker]]|([[OMI]])|✔︎|✔︎|✔︎|Dosis↑ 
 [[Aldosteronantagonisten]]|-|✔︎|✔︎|✔︎|Dosis↑ 
 [[Thiaziddiuretika]], [[Schleifendiuretika]]|(✔︎)|(✔︎)|(✔︎)|(✔︎)|bei [[Hypervolämie]], Dosis↓ 

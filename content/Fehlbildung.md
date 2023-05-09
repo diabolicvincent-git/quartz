@@ -17,5 +17,5 @@ title: Fehlbildung
 	- *Atresie (80%):* [[Ösophagusatresie]], Duodenalatrsie
 	- *[[M. Hirschsprung]] (10%)*
 	- *Volvulus / Malrotation (6%*
-	- *Mekoniumileus (2%):* Cave DD [[Mukoviszidose]]
+	- *Mekoniumileus (2%):* Cave DD [[Mukoviszidose (CF)]]
 	- *Andere:* Omphalozele, Laparoschisis / Gastroschisis, Pancreas anulare, Beckennieren

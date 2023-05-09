@@ -54,7 +54,7 @@ Ahornsirup-Krankheit|Verzweigtketten-α-Ketosäuren-Dehydrogenase|1:200.000
 Erkrankung|Defekt|Stoffwechselweg|Klinik|Resistenz
 -|-|-|-|-
 [[G6PD-Mangel]]|Glucose-6-phosphat-Dehydrogenase|Oxidativer [[Pentosephosphatweg]]|Hämolytische [[Anämie]]|Plasmodium falciparum ([[Malaria]])
-[[Mukoviszidose]]|[[CFTR]]-Chloridkanal|[[Membrantransport]]|Pneumonien, [[Diarrhoe]], [[Osteoporose]], Salzschweiß|Vibrio cholerae (Cholera)
+[[Mukoviszidose (CF)]]|[[CFTR]]-Chloridkanal|[[Membrantransport]]|Pneumonien, [[Diarrhoe]], [[Osteoporose]], Salzschweiß|Vibrio cholerae (Cholera)
 Tay-Sachs-Disease|α-Hexosaminidase|lysosomale Hydrolyse von N-Acetylglucosiden|infantile amaurotische Idiotie|Mycobacteria tuberculosis ([[Tbc]])
 [[Phenylketonurie (PKU)]]|Tyrosinhydroxylase|[[Phenylalanin]] → [[Tyrosin]]|Geistige Entwicklungsstörung|Ochratoxin A (Aspergillus spp.)
 

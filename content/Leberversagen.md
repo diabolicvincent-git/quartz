@@ -8,7 +8,7 @@ title: Leberversagen
 	- *toxisch:* ==[[Alkohol]]==, Medikamente, Knollenblätterpilz, Noxen
 	- *metabolisch:* [[M. Wilson]], [[Hämochromatose]], Fettleber, [[Stoffwechseldefekte]]
 	- *vaskulär:* Ischämie, Budd-Chiari-Syndrom, Stauungsleber, Pfortaderthrombose
-	- *angeboren:* anatomisch (biliäre Atresie, Choledochuszysten), funktionell ([[α1-Antitrypsin-Mangel]], [[Mukoviszidose]])
+	- *angeboren:* anatomisch (biliäre Atresie, Choledochuszysten), funktionell ([[α1-Antitrypsin-Mangel]], [[Mukoviszidose (CF)]])
 - **Einteilung**
 	- **Akutes Leberversagen**
 	- **Chronisches Leberversagen**

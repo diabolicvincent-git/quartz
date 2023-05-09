@@ -62,7 +62,7 @@ Pathophysiologie der OSAS Folgen
 
 ## die Auswirkungen einer Schlafapnoe auf autonomes Nervensystem, Atmung und kardiopulmonale Kopplung beschreiben
 
-- **Hyperkapnie** und **Hypoxie** verstärken den Atemantrieb
+- **[[Hyperkapnie]]** und **Hypoxie** verstärken den Atemantrieb
 
     → verstärkte Kontraktion von [[Diaphragma]] und Interkostalmuskulatur
 

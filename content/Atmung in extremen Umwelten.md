@@ -78,7 +78,7 @@ Adaptation bei HIF-induzierter Erythropoese führt zu gleichem Sauerstoffgehalt 
 
 ### Höhenlungenödem HAPE
 
-- **Therapie**:: Abstieg, Gamow-Bag ("künstlicher Abstieg"), [[O2]]-Gabe, Antipyretika ([[Corticosteroide]]), [[Analgetika]], Phosphodiesterasehemmer (Reduktion des pulmonalen Hypertonus), [[Nitrate]], [[Diuretika]]
+- **Therapie**:: Abstieg, Gamow-Bag ("künstlicher Abstieg"), [[O2]]-Gabe, [[Antipyretika]] ([[Corticosteroide]]), [[Analgetika]], Phosphodiesterasehemmer (Reduktion des pulmonalen Hypertonus), [[Nitrate]], [[Diuretika]]
 
 ## Hyperbare Umwelt: Gerätetauchen
 

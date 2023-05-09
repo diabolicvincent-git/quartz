@@ -12,7 +12,7 @@ title: Ersticken
 - **Inneres Ersticken:**[[O2]]-Mangel/-Transport/-Verwertungsstörung auf zellulärer Ebene
     - Natürliche Ursachen: z.B. [[Tumor]]-assoziierte [[Anämie]], kardiales [[Lungenödem]]
     - Nicht-Natürliche Ursachen: z.B. traumatische [[Anämie]], toxisches [[Lungenödem]] sowie [[Intoxikation]] mit [[Cyanid]] und [[CO]]
-- **Asphyktisches Ersticken**:: [[O2]]-Mangel bei gleichzeitiger CO2-Retention (Hyperkapnie ist stärkster Atemanreiz)
+- **Asphyktisches Ersticken**:: [[O2]]-Mangel bei gleichzeitiger CO2-Retention ([[Hyperkapnie]] ist stärkster Atemanreiz)
 
 ## Erstickungsarten
 - **Erhängen**:: Halskompression durch Strangwerkzeug → Kompression der Aa. carotis & Vv. jugularis → [[Cerebrale Ischämie]]

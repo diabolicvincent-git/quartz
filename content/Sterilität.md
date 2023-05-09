@@ -21,4 +21,4 @@ title: Sterilität
 - **Diagnostik**
 	- **[[Anamnese]]**
 
-[^1]: Isolierte kongenitale bilaterale Aplasie des Vas deferens (CBAVD): Mutation in [[CFTR]] (wie bei [[Mukoviszidose]], aber subklinisch) → 2% aller infertilen Männer
+[^1]: Isolierte kongenitale bilaterale Aplasie des Vas deferens (CBAVD): Mutation in [[CFTR]] (wie bei [[Mukoviszidose (CF)]], aber subklinisch) → 2% aller infertilen Männer

@@ -11,7 +11,7 @@ title: Autoinflammation
 - [[IL-1]]-/Inflammasom-assoziierte [[Inflammasomopathie]] (z.B. [[Familiäres Mittelmeerfieber]], CAPS, HIDS)
 - Reaktion auf ungefaltete Proteine (z.B. TRAPS)
 - [[IFN]]-vermittelte [[Interferonopathie]] (z.B. [[Aicardi-Goutières-Syndrom]])
-- Autophagie-Defekte (z.B. [[Mukoviszidose]])
+- Autophagie-Defekte (z.B. [[Mukoviszidose (CF)]])
 - [[Immundefekt]]/-dysfunktion (z.B. [[M. Crohn]])
 - Dysregulierte Ubiquitinylierung (z.B. A20-Haploinsuffizienz)
 

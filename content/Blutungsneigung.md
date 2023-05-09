@@ -66,7 +66,7 @@ title: Blutungsneigung
 - Primäre Hyperfibrinolyse: Gesteigerte [[Fibrinolyse]] ohne vorangegangene Thrombenbildung
 - Sekundäre Hyperfibrinolyse: Gesteigerte [[Fibrinolyse]] nach vorangegangener Thrombenbildung
     - [[DIC]]
-- Iatrogene Hyperfibrinolyse: Einsatz von rt-PA z.B. in der Lysetherapie beim [[Schlaganfall]]
+- Iatrogene Hyperfibrinolyse: Einsatz von [[rt-PA]] z.B. in der Lysetherapie beim [[Schlaganfall]]
 
 ## Kombinierte Gerinnungsstörungen
 

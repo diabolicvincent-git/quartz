@@ -3,7 +3,7 @@ tags: [Modul/m15, Modul/m18, Fach/Neurologie, Fach/Infektiologie, Art/Pathologie
 title: Encephalitis
 ---
 - **Ätiologie**
-	- *[[Viren]]:* ==[[HSV-Encephalitis]]==/VZV/CMV, FSME, Enteroviren, [[HIV]], Mumps, Masern ([[SSPE]]), Röteln, Adenoviren
+	- *[[Viren]]:* ==[[HSV-Encephalitis]]==/VZV/CMV, FSME, Enteroviren, [[HIV]], Mumps, Masern ([[SSPE]]), [[Röteln]], Adenoviren
 	- *[[Bakterien]]:* Treponema pallidum (Neurosyphilis), Borrelia burgdorferi (Neuroborreliose), Listerien (Listerienencephalitis)
 	- *[[Autoimmunität]]:* [[Paraneoplastisches Syndrom]]
 - **Symptome** 
@@ -18,6 +18,6 @@ title: Encephalitis
 	- **[[Bildgebung]]**:: cMRT
 	- **Ursachensuche**:: Erreger-/Antikörpersuche, Tumorsuche
 - **Therapie**
-	- **Supportiv**:: Antipyretika, [[Analgesie]], [[Antiemetika]], Delir-Therapie, [[Antiepileptika]]
+	- **Supportiv**:: [[Antipyretika]], [[Analgesie]], [[Antiemetika]], Delir-Therapie, [[Antiepileptika]]
 	- **Kalkulierte [[Antiinfektiva]]**:: ==[[Aciclovir]] [[i.v.]]== ([[HSV]])
 	- Therapie der Ursache

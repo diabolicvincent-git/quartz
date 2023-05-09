@@ -11,7 +11,7 @@ title: Regulation der Atmung
 	- **Physiologie der Typ-I-Glomuszellen**
 		- Hypoxie → K+ Kanäle schließen → Depolarisation → spannungsabhängig [[Ca2+]] Einstrom → Vesikelfreisetzung aus sekundärer Sinneszelle
 			- Schwelle bei ca. 110 mmHg [[pO2]] (*physiologische Grundfrequenz*)
-		- Hyperkapnie/Azidose → Ansäuerung des Cytosols → [[Na+]]/H+ Antiport → 3Na+/Ca2+ Antiport → Vesikel
+		- [[Hyperkapnie]]/Azidose → Ansäuerung des Cytosols → [[Na+]]/H+ Antiport → 3Na+/Ca2+ Antiport → Vesikel
 	- Synaptische Anbindung an *[[N. glossopharyngeus (IX)]] und [[N. vagus (X)]]*
 - **Zentrale Chemosensoren** nehmen pCO2 und [[pH]] wahr
 ## Nicht-chemische Atemregulation 
@@ -27,7 +27,7 @@ title: Regulation der Atmung
 - **Evolutionärer Sinn**:: Luftanhalten bei Eintauchen (schon bei Neugeborenen)
 ### Apnoe Streckentauchen
 - Limitation durch PaCO2 → Unwohlsein, [[Dyspnoe]], Panik
-- "Tauchertrick" vorherige Hyperventilation → CO2↓ → längere Zeit bis Hyperkapnie, CAVE: Atemantrieb genommen
+- "Tauchertrick" vorherige Hyperventilation → CO2↓ → längere Zeit bis [[Hyperkapnie]], CAVE: Atemantrieb genommen
 - "Milzkontrakion": Mobilisierung von mehr Sauerstoffträgern aus der [[Milz]]
 ### Apnoe Tieftauchen
 - Alveolären [[pO2]] durch höheren Umgebungsdruck künstlich erhöht → beim Auftauchen fällt Umgebungsdruck → rapides Sinken des [[pO2]] (Diffusionsgradient Alveole-[[Kapillaren]] fällt), kritische Hypoxieschwelle

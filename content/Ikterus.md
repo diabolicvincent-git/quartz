@@ -5,7 +5,7 @@ title: Ikterus
 > [[Bilirubin]]ablagerung → Gelbfärbung von [[Sklera]] (>2-3) + [[Haut]] (>8-10 mg/dl)
 - **Ätiologie**
 	- **Prähepatisch**:: [[Hämolyse]], ineffektive [[Erythropoese]]
-	- **Intrahepatisch**:: [[Hepatitis]], [[Leberzirrhose]], Stauungsleber, ==Primär biliäre Cholangitis==, [[Mukoviszidose]], [[Hyperbilirubinämie]]-Syndrom (z.B. [[M. Meulengracht]])
+	- **Intrahepatisch**:: [[Hepatitis]], [[Leberzirrhose]], Stauungsleber, ==Primär biliäre Cholangitis==, [[Mukoviszidose (CF)]], [[Hyperbilirubinämie]]-Syndrom (z.B. [[M. Meulengracht]])
 	- **Intra-/Posthepatisch**:: [[HCC]], [[Metastasen]], ==Primär sklerosierende Cholangitis==, Choledocholithiasis, Mirizzi-Syndrom, ==[[Pankreatitis]]==, [[Abszess]], [[Tumor]]
 - **Symptome**:: Acholischer Stuhl, dunkler Urin, Pruritus, Fett-[[Malabsorption]]
 - **Diagnostik**

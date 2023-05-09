@@ -39,7 +39,7 @@ title: Abwehrmechanismen im Respirationstrakt
 
 ## Störungen der Abwehrmechanismen
 - *Mikroaspiration* (z.B. bei [[Intubation]]) → Überwinden des [[Larynx]] durch Pathogene
-- **Prädisposition**:: Grunderkrankungen (z.B. [[Mukoviszidose]], primäre ciliäre Dyskinesie, [[IgA]]-Mangel)
+- **Prädisposition**:: Grunderkrankungen (z.B. [[Mukoviszidose (CF)]], primäre ciliäre Dyskinesie, [[IgA]]-Mangel)
 - Inhalation von Rauch zerstört mukociliäre Clearance (mechanisch, geschädigte Abwehrzellen, vermindertes β-Defensin)
 - Hämatogene Streuung (z.B. bei [[Sepsis]])
 

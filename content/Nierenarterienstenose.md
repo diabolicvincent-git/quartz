@@ -20,7 +20,7 @@ title: Nierenarterienstenose
 	- **Interventionell**:: Nur bei symptomatischer NAST
 	- **Medikamentös** (relative KI bei bilateraler Stenose oder Einzelniere)
 		- [[ACE-Hemmer]]
-		- [[AT1-Blocker]]
+		- [[AT1-Blocker (Sartane)]]
 		- [[Calciumantagonisten]]
 ---
 ### Mythbusting

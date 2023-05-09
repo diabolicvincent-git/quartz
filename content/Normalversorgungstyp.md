@@ -1,6 +1,6 @@
 ---
-tags: [Modul/m11, Fach/Kardiologie, Fach/Anatomie]
+tags: [Modul/m11, Fach/Kardiologie/Versorgungstyp, Fach/Anatomie]
 title: Normalversorgungstyp
 ---
 - **Gefäßverlauf**:: "Normal" (siehe [[Koronararterien]])
-- **Häufigkeit**:: Ca. 55%
+- **Häufigkeit**:: 55%

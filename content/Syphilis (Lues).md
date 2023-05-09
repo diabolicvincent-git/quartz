@@ -17,7 +17,7 @@ title: Syphilis
 	- **Latenz / Lues latens**
 	- **Tertiär / Lues III**:: *Gummen* (Granulome mit Neigung zu Ulceration an Haut und anderen Organen), *kardiovaskulär* ([[Aortenaneurysma]], Mesaortitis)
 	- **Quartär / Lues IV**:: *Neurosyphilis* ([[ZNS]]-Befall, Arteriitis → [[Schlaganfall]], Demyelinisierung, [[Meningitis]], progressive Paralyse mit Atrophie/[[Demenz]]/Psychose)
-- **Diagnostik**:: ==Negatives Ergebnis schließt [[Syphilis]] nicht aus==
+- **Diagnostik**:: ==Negatives Ergebnis schließt [[Syphilis (Lues)]] nicht aus==
 	- **Erregernachweis**:: Dunkelfeldmikroskopie, Immunfluoreszenz, [[PCR]]
 	- [[Meldepflichtige Erreger]], nicht-namentlich
 - **Therapie**

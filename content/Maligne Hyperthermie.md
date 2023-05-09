@@ -9,12 +9,12 @@ title: Maligne Hyperthermie
 - **Pathophysiologie**:: Disposition + Triggersubstanz → IZ [[Ca2+]]↑↑↑ → Skelettmuskulatur-Kontraktion↑↑ → [[Stoffwechsel]]↑, O2-Verbrauch↑, [[Lactat]]↑, [[CO2]]↑↑, Wärmeproduktion↑↑
 	- [[Glatte Muskulatur]] und [[Myokard]] nicht betroffen
 - **Symptome**
-	- **Früh**:: ==Hyperkapnie==, ==[[Tachykardie]]==, ==Muskel-Rigor== (insb. Masseterspasmus)
+	- **Früh**:: ==[[Hyperkapnie]]==, ==[[Tachykardie]]==, ==Muskel-Rigor== (insb. Masseterspasmus)
 	- **Spät**:: Hyperthermie >42 °C, [[Zyanose]], [[Rhabdomyolyse]]
 	- **Komplikationen**:: [[Hyperkaliämie]], [[Nierenversagen]], [[DIC]], [[Krampfanfall]]
 - **Diagnostik**
 	- **Monitoring**:: Kapnographie, Temperaturmessung, [[EKG]]
-	- **[[BGA]]**:: ==[[Azidose]]==, Hyperkapnie, Hypoxämie, [[Hyperkaliämie]], [[Lactat]]↑ 
+	- **[[BGA]]**:: ==[[Azidose]]==, [[Hyperkapnie]], Hypoxämie, [[Hyperkaliämie]], [[Lactat]]↑ 
 	- **[[Labor]]**:: [[CK]]↑↑↑, Myoglobinämie/Myoglobinurie
 - **Therapie**
 	- *Trigger beenden:* ggf. Umstellung auf TIVA mit [[Propofol]]

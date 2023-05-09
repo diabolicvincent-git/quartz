@@ -9,7 +9,7 @@ title: RAAS
 	3. [[ACE]] wandelt [[Angiotensin I]] zu [[Angiotensin II]] um
 	4. [[Angiotensin II]] hebt über div. Mechanismen, u.a. [[Aldosteron]]-Freisetzung, [[Blutdruck]] und Extrazellulärvolumen
 - **Beteiligt**:: [[Renin]], Angiotensinogen, Angiotensin I, [[ACE]], Angiotensin II, Aldosteron
-- **Pharmakologie**:: [[ACE-Hemmer]], [[AT1-Blocker]], [[Direkte Renin-Inhibitoren]]
+- **Pharmakologie**:: [[ACE-Hemmer]], [[AT1-Blocker (Sartane)]], [[Direkte Renin-Inhibitoren]]
 
 ## Beteiligt
 ![[Renin]]
@@ -36,6 +36,6 @@ title: RAAS
 ## Pharmakologische Angriffspunkte
 ![[ACE-Hemmer]]
 
-![[AT1-Blocker]]
+![[AT1-Blocker (Sartane)]]
 
 ![[Direkte Renin-Inhibitoren]]

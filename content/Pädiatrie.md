@@ -9,7 +9,7 @@ title: Pädiatrie
 	- [[Scharlach]]
 	- [[Röteln]]
 	- [[Ringelröteln]]
-	- [[Exanthema subitum]]
+	- [[Dreitagefieber (Exanthema subitum)]]
 - [[Pädiatrische Tumoren]]
 	- [[Nephroblastom]]
 	- [[Neuroblastom]]

@@ -57,7 +57,7 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
     - Wichtigste Vertreter: A- und B-Gruppe
     - **A-[[Streptokokken]]-verursachte Erkrankungen** (v.a. Str. pyogenes)
         - Hautinfektionen (Pyodermien): Impetigo contagiosa, [[Erysipel]] (Phlegmone)
-        - Pharyngitis, Tonsillitis (Sonderform: Scharlach), [[Otitis media]], [[Pneumonie]]
+        - Pharyngitis, Tonsillitis (Sonderform: [[Scharlach]]), [[Otitis media]], [[Pneumonie]]
         - Puerpalfieber, nekrotisierende Faszitis, [[Streptokokken]]-Toxic-Shock-Syndrom
         - **Folgeerkrankungen**:: Akute [[Glomerulonephritis]], akutes rheumatisches [[Fieber]] (Immunkomplexreaktion → Schädigung ursprünglich unbeteiligter Organe)
         - **Diagnostik**
@@ -103,14 +103,14 @@ Einteilung nach Hämolyseverhalten und Lancefield-Serologie
     - **[[Parasiten]]**:: z.B. Cutane Leishmaniasis, Skabies, Larva migrans cutanea, Pedikulose
 - **Lokal durch externe Erreger + Systemische Ausbreitung**
     - Lyme-[[Lyme-Borreliose]]
-    - [[Syphilis]]
+    - [[Syphilis (Lues)]]
     - Trypanosomenschanker ("Schlafkrankheit")
 - **Hautmanifestationen systemischer Erkankungen**
-    - Systemische Virusinfekte (z.B. [[Masern]], Röteln, Hand-Fuß-Mund-Erkrankung, Windpocken, Erythema infectiosum durch Parvo B19)
+    - Systemische Virusinfekte (z.B. [[Masern]], [[Röteln]], Hand-Fuß-Mund-Erkrankung, [[Windpocken]], Erythema infectiosum durch Parvo B19)
     - Meningokokkensepsis ([[Waterhouse-Friderichsen-Syndrom]])
     - Septische [[Embolie]] bei [[Endokarditis]]
     - Gonokokkensepsis
-    - Scharlach (ß-hämolysierende [[Streptokokken]] der GruppeA)
+    - [[Scharlach]] (ß-hämolysierende [[Streptokokken]] der GruppeA)
     - [[Tbc]]
     - Typhusroseolen
     - Rickettsiosen

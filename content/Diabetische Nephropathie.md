@@ -38,7 +38,7 @@ title: Diabetische Nephropathie
 > Ziel: Kardiovaskuläres [[Risiko]] senken, Progredienz mindern
 
 - Antihypertensive Therapie besonders strikt (Ziel-[[RR]] bei [[Diabetes mellitus]]: <130/80 mmHg)
-- [[ACE-Hemmer]] und [[AT1-Blocker]] wirken nephroprotektiv
+- [[ACE-Hemmer]] und [[AT1-Blocker (Sartane)]] wirken nephroprotektiv
 - Ziel-HbA1c 6,5-7,0%
 - **Cave**:: Veränderte [[Insulinresistenz]] erhöht Hypoglycämierisiko
 

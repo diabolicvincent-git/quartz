@@ -12,7 +12,7 @@ title: Obstruktive Ventilationsstörung
 	7. ggf. [[Antibiotika]] ([[aeCOPD]])
 ---
 - Strömungswiderstand im [[Bronchialbaum]] ↑ → [[Resistance]] ↑
-- **Ursachen**:: Erhöhte Mukusproduktion (z.B. [[Mukoviszidose]]), Schleimhautschwellung, Muskelspasmen (z.B. [[Asthma]], [[COPD]])
+- **Ursachen**:: Erhöhte Mukusproduktion (z.B. [[Mukoviszidose (CF)]]), Schleimhautschwellung, Muskelspasmen (z.B. [[Asthma]], [[COPD]])
 - **Diagnostik**:: In der [[Spirometrie]] relative Einsekundenkapazität vermindert (gleiches Volumen exspiriert, jedoch mehr Zeit benötigt aufgr. der Obstruktion)
 	- [[Compliance]] und Vitalkapazität i.d.R. normal
 - **Komplikationen**:: Langfristige Überblähung der [[Lunge]] (Emphysem) → zusätzliche kombinierte [[Restriktive Ventilationsstörung]]

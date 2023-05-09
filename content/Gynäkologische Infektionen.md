@@ -5,7 +5,7 @@ title: Gynäkologische Infektionen
 - [[HPV]]
 - [[Chlamydien-Infektion]]
 - [[Gonorrhoe]]
-- [[Syphilis]]
+- [[Syphilis (Lues)]]
 - [[Ulcus molle]]
 - [[Tbc]]
 - [[STD]]

@@ -73,7 +73,7 @@ title: Nekrose
 			- massiver Zerfall von Gewebe
 				- lipidreich, nur schwer proteolysierbar
 				- trockenes, käsig-bröckelndes Nekroseareal, histoligisch eosinophiles granuläres bis fibrilläres Material
-				- typischerweise durch [[Infektionen]] (Mycobacterium tuberculosis, Tularämie, [[Syphilis]])
+				- typischerweise durch [[Infektionen]] (Mycobacterium tuberculosis, Tularämie, [[Syphilis (Lues)]])
 		- ==fibrinoide Nekrose== (Kollagennekrose)
 			- Untergang von Kollagenfaser und Durchtränkung des nekrotischen Arealsmit fibrinogenreichem Plasma
 			- [[Fibrinogen (F.I)]] gerinnt zu [[Fibrin (F.Ia)]] (→ homogene, eosinophile Färbung)

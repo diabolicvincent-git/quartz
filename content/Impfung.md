@@ -34,7 +34,7 @@ title: Impfung
 	- [[Röteln]]
 	- [[Rotavirus]]
 	- [[Tetanus]]
-	- [[Tollwut]]
+	- [[Tollwut (Rabies)]]
 	- [[Tbc]] (in DE nicht zugelassen)
 	- [[Typhus]]
 	- [[VZV]]

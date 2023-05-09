@@ -31,7 +31,7 @@ title: Kardiale Pharmakotherapie
             - Indikationen: HFrEF, art. [[Hypertonie]], [[Diabetische Nephropathie]], post-[[OMI]]
             - NW: [[Hyperkaliämie]], Reizhusten, Angioödem, [[Nierenversagen]], [[Hypotonie]]
             - KI: [[Schwangerschaft]], Stillzeit, Angioödem, Aortenklappenstenose, [[Nierenarterienstenose]] bds., Einzelniere
-        - [[AT1-Blocker]]
+        - [[AT1-Blocker (Sartane)]]
             - Unterschied zu ACE-Hemmern: Weniger Reizhusten als NW
     - Beta Blocker (→ [[Sympathikus]], insb. [[Tachykardie]] verhindern; "-olol")
         - Mechanismus
@@ -56,11 +56,11 @@ title: Kardiale Pharmakotherapie
             - Männer: Gynäkomastie, Impotenz, erhöhte Stimme
             - Frauen: Amenorrhoe, Brustspannungen, Hirsutismus
         - KI: [[Hyperkaliämie]], [[CKD]] [[GFR]] <30, [[Dehydratation]], [[Hyponatriämie]]
-    - [[AT1-Blocker]] + Neprilysin-Inhibitoren (ARNI)
+    - [[AT1-Blocker (Sartane)]] + Neprilysin-Inhibitoren (ARNI)
         - Natriuretische Peptide (NP; ausgeschüttet aus [[Endokard]] bei erhöhter Wandspannung → [[Vasodilatation]], Diurese gegen [[Hypervolämie]]) normalerweise abgebaut
         - Indikation: HFrEF
-        - NW: s. [[AT1-Blocker]]
-        - KI: s. [[AT1-Blocker]], keine Kombination mit [[ACE-Hemmer]]!
+        - NW: s. [[AT1-Blocker (Sartane)]]
+        - KI: s. [[AT1-Blocker (Sartane)]], keine Kombination mit [[ACE-Hemmer]]!
     - If Kanalblocker (→ Funny Channels; z.B. Ivabradin)
         - Öffnung der Funny-Channels (langsame diastolische Depolarisation) blockiert → Abflachung des Potentials, isolierte Senkung der [[HF]]
         - KI: [[Bradykardie]], [[Schock]] ??    - [[Digitalis]] (Herzgylkoside)

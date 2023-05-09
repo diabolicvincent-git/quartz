@@ -17,7 +17,7 @@ title: NSAR
 ---
 ### Mythbusting
 - *DGIM Klug entscheiden*:: NSAR sollen nicht regelmäßig eingesetzt werden bei Patienten mit Hypertonie oder CKD jeder Genese, inklusive Diabetes (==[[Prostaglandin]]↓ → [[Renale Perfusion]]↓==).
-- *DGIM No Go*:: Unter einer Kombinationstherapie von [[Diuretika]] und [[RAAS]]-Blockern ([[ACE-Hemmer]], [[AT1-Blocker]], [[Direkte Renin-Inhibitoren]]) sollen [[NSAR]] wegen des erhöhten Risikos für ein [[Nierenversagen]] nicht eingesetzt werden.
+- *DGIM No Go*:: Unter einer Kombinationstherapie von [[Diuretika]] und [[RAAS]]-Blockern ([[ACE-Hemmer]], [[AT1-Blocker (Sartane)]], [[Direkte Renin-Inhibitoren]]) sollen [[NSAR]] wegen des erhöhten Risikos für ein [[Nierenversagen]] nicht eingesetzt werden.
 - *DGIM No Go*:: Die Kombination aus NSAR und systemisch wirksamen [[Glucocorticoide]] soll nicht ohne [[PPI]]-Schutz erfolgen.
 
 

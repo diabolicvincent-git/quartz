@@ -29,11 +29,11 @@ title: Viren
 		- Denguevirus ([[Denguefieber]])
 		- Zikavirus
 		- Influenzavirus ([[Influenza]])
-		- Rabiesvirus ([[Tollwut]])
+		- Rabiesvirus ([[Tollwut (Rabies)]])
 		- Coronavirus (leichte respiratorische und gastrointestinale Infekte, SARS, MERS, [[COVID-19]])
 		- [[HIV]] ([[AIDS]])
 		- Hantavirus
-		- Krim-Kongo-hämorrhagisches-Fieber-Virus
+		- Krim-Kongo-hämorrhagisches-[[Fieber]]-Virus
 		- Lassavirus
 		- Rötelnvirus
 		- Ebolavirus/Marburgvirus
@@ -110,9 +110,9 @@ Vertreter humanpathogener [[RNA]]- und [[DNA]]-Viren (Coxsackie-, Hanta-, Hepati
 	- **Aktiv**:: Virenproduktion durch Körper selbst
 	- **Passiv**:: z.B kontaminierte Blutkonserve
 - **Neurogen**
-	- Ausbreitung entlang [[Axon|Nervenfasern]] ([[Tollwut]], [[HSV]], [[VZV]])
+	- Ausbreitung entlang [[Axon|Nervenfasern]] ([[Tollwut (Rabies)]], [[HSV]], [[VZV]])
 	- Umgehung der [[Blut-Hirn-Schranke]]
-	- [[Tollwut]], JEV, [[HSV]], FSME
+	- [[Tollwut (Rabies)]], JEV, [[HSV]], FSME
 	- [[Meningitis]], Meningoencephalitis (Coxsackieviren, Mumps)
 	- Encephalitiden, Poliomyelitiden
 

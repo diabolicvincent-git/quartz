@@ -6,7 +6,7 @@ title: Hyperkaliämie
 - **Ätiologie**
 	- *Renal:* [[CKD]], [[Nierenversagen]]
 	- *Endokrin:* [[NNR-Insuffizienz]], Aldosteronmangel, Insulinmangel
-	- *Medikamentös:* [[Heparin]], Kaliumsparende Diuretika, [[ACE-Hemmer]], [[AT1-Blocker]], [[NSAR]], [[Cotrimoxazol]], Ciclosporin A, [[Digitalis]], [[Lithium]]
+	- *Medikamentös:* [[Heparin]], Kaliumsparende Diuretika, [[ACE-Hemmer]], [[AT1-Blocker (Sartane)]], [[NSAR]], [[Cotrimoxazol]], Ciclosporin A, [[Digitalis]], [[Lithium]]
 	- *Kaliumfreisetzung:* [[Rhabdomyolyse]], [[Hämolyse]], Tumorlyse-Syndrom, [[Verbrennung]], Trauma, [[Massentransfusion]]
 	- *GI:* Zufuhr↑ (Bananen, Trockenfrüchte)
 	- *[[Azidose]]*

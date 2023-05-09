@@ -10,7 +10,7 @@ title: Red Flags
 - Anfallsartig, sistierend → Aspiration
 - [[B-Symptomatik]] → [[Lungen-Ca]]
 - [[Immunsuppression]] → [[Tbc]]
-- [[Mukoviszidose]] → Bronchiektase
+- [[Mukoviszidose (CF)]] → Bronchiektase
 - [[Dyspnoe]] → alles
 
 ## Red Flags bei [[Diarrhoe]]

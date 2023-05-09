@@ -17,7 +17,7 @@ title: Pneumonie
 	- **[[Röntgen]]-Thorax**:: Infiltrat in 2 Ebenen
 - **Therapie**
 	- **Risikostratifizierung**:: [[CURB-65]], Komorbiditäten
-	- **[[Supportiv]]**:: Mobilisation, Atemtherapie, [[Volumentherapie]], [[O2]]-Gabe, Antipyretika, [[Analgetika]]
+	- **[[Supportiv]]**:: Mobilisation, Atemtherapie, [[Volumentherapie]], [[O2]]-Gabe, [[Antipyretika]], [[Analgetika]]
 	- **[[Antibiotika]]**
 		- **Leicht**:: 1. Wahl *[[Aminopenicillin]] (z.B. [[Amoxicillin]])*
 			- **Mit Komorbiditäten**:: *[[Aminopenicillin]] + β-Lactamase-Inhibitor* + kalkuliert [[Makrolide]] 

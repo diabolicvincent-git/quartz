@@ -15,9 +15,9 @@ title: Pharmakokinetik der Niere
     - Hemmung der GI-[[Motilität]] ([[Anticholinergika]], [[Opioide]])
 - **Beeinflussung der HWZ** (z.B. [[Enterohepatischer Kreislauf]], [[CYP]]-Induktion, [[Nierenfunktion]])
     - Bedeutung der [[Niere]]: Erst, wenn in systemischer Circulation angekommen
-    - **Beispiel**:: [[ACE-Hemmer]] & [[AT1-Blocker]]
+    - **Beispiel**:: [[ACE-Hemmer]] & [[AT1-Blocker (Sartane)]]
         - [[ACE-Hemmer]] durch [[Niere]] eleminiert
-        - [[AT1-Blocker]] nicht durch [[Niere]] eleminiert
+        - [[AT1-Blocker (Sartane)]] nicht durch [[Niere]] eleminiert
         - Bei [[CKD]] mehr [[UAW]] durch [[ACE-Hemmer]]!
 - **Entkopplung von HWZ und Wirkdauer**
     - **Irreversible Bindung**:: Wirkung hält an, bis neu synthetisiert (z.B. [[ASS]] Bindung an [[COX]]1 der Thrombos)

@@ -78,7 +78,7 @@ Western-Blot Verfahren ([[Antikörper]] + Fluoreszenzantikörper)
 - **DD Vergrößerter Lymphknoten**
     - [[Infektionen]] → Lymphknotenhyperplasie
         - Lokal: Lokalisierte [[Bakterien]] oder [[Viren]] [[Infektionen]]
-        - Generalisiert: [[Viren]] ([[EBV]], CMV, [[HIV]]), [[Bakterien]] ([[Tbc]], [[Syphilis]]), [[Parasiten]] ([[Malaria]]), [[Sarkoidose]]
+        - Generalisiert: [[Viren]] ([[EBV]], CMV, [[HIV]]), [[Bakterien]] ([[Tbc]], [[Syphilis (Lues)]]), [[Parasiten]] ([[Malaria]]), [[Sarkoidose]]
     - Tumorerkrankung
         - Lokal: [[Metastasen]]
         - Generalisiert: [[Lymphom]]

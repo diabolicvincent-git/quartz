@@ -8,8 +8,8 @@ title: Herpesviren
 3. **[[VZV]]** → ==[[Windpocken]]== → [[Herpes zoster]]
 4. **[[EBV]]** → Infektiöse Mononukleose, Burkitt-[[Lymphom]], Nasopharynx-Ca
 5. **[[CMV]]** → Asympt., konnatale Infekt., Retinitis, [[Pneumonie]], Colitis
-6. **HHV-6** → Exanthema subitum (Dreitagefieber)
-7. **HHV-7** → Exanthema subitum (Dreitagefieber)
+6. **HHV-6** → [[Dreitagefieber (Exanthema subitum)]] (Dreitagefieber)
+7. **HHV-7** → [[Dreitagefieber (Exanthema subitum)]] (Dreitagefieber)
 8. **KSHV** → [[Kaposi-Sarkom]]
 
 ### Übersichtsmatrix
@@ -20,8 +20,8 @@ HHV|Name|Typ|Erkrankung|Therapie|Besonderheit
 3|Varizella-Zoster-Virus ([[VZV]])|α|**Primär**:: [[Windpocken]], konnatales Varizellensyndrom<br>**Reakt.**:: [[Herpes zoster]]|[[Aciclovir]] u.a.|Lebenslange Persistenz in [[Ganglien]]
 4|Epstein-Barr-Virus ([[EBV]])|γ|Infektiöse Mononukleose, Orale Haarleukoplakie, [[Burkitt-Lymphom]], Nasopharynx-Ca|Keine|Onkogen
 5|Cytomegalievirus ([[CMV]])|β|**Primär**:: Asympt.; Konnatale Infekt., Retinitis, [[Pneumonie]], Kolitis|Ganciclovir u.a.|"Eulenaugen-Zellen"
-6|HHV-6|β|Dreitagefieber|Keine|Durchseuchung >95%
-7|HHV-7|β|Dreitagefieber|Keine|Durchseuchung >95%
+6|HHV-6|β|[[Dreitagefieber (Exanthema subitum)]]|Keine|Durchseuchung >95%
+7|HHV-7|β|[[Dreitagefieber (Exanthema subitum)]]|Keine|Durchseuchung >95%
 8|Kaposi-Sarkom-Virus (KSHV)|γ|[[Kaposi-Sarkom]]
 
 ^d82319

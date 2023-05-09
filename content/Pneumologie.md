@@ -8,7 +8,7 @@ title: Pneumologie
 	- [[ARDS]]
 	- [[Atelektasen]]
 	- [[Bronchiektasen]]
-	- [[Mukoviszidose]]
+	- [[Mukoviszidose (CF)]]
 	- [[Aspiration]]
 	- [[Interstitielle Lungenparenchymerkrankungen]]
 		- [[Lungenfibrose]]

@@ -12,7 +12,7 @@ title: Meldepflichtige Erreger
 	- SARS-CoV-2 ([[COVID-19]])
 	- [[MRSA]] (nur aus [[Blutkulturen]] oder [[Liquor]])
 - **Nicht-namentlich bei Erregernachweis**
-	- Treponema pallidum ([[Syphilis]])
+	- Treponema pallidum ([[Syphilis (Lues)]])
 	- [[HIV]]
 	- Echinococcus sp. (Echinokokkose)
 	- Plasmodium sp. ([[Malaria]])

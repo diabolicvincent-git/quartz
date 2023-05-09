@@ -3,61 +3,67 @@ tags: [Modul/m18, Modul/m24, Fach/Infektiologie/Erreger/Bakterien]
 title: Bakteriensystematik
 ---
 - **[[grampositiv]]**
-	- **Grampositive Kokken**
-		- **[[Staphylokokken]]**:: *[[Staph. aureus]], epidermidis* (Katalase+, Koagulase+/–)
-		- **[[Streptokokken]]**:: *[[Pneumokokken]]* (α-[[Hämolyse]]), *Str. pyogenes* (β-[[Hämolyse]]), [[Enterokokken]] (γ-[[Hämolyse]])
-	- **Grampositive Stäbchen**
-		- **[[Clostridien]]**:: *[[C. difficile]], botulinum, tetani, perfringens* (anaerob)
+	- **[[Grampositive Kokken]]**
+		- *[[Staphylokokken]]* (Haufenkokken, [[Katalase]]+)
+			- [[Staph. aureus]] ([[Koagulase]]+)
+			- [[Staph. epidermidis]]
+		- *[[Streptokokken]]* (Kettenkokken, [[Katalase]]–)
+			- [[Pneumokokken]], [[Viridans-Streptokokken]] (part./⍺-[[Hämolyse]])
+			- [[Str. pyogenes]] (A), [[Str. agalactiae]] (B) (vollst./β-Hämolyse)
+			- [[Enterokokken]] (keine/ɣ-Hämolyse)
+	- **[[Grampositive Stäbchen]]**
+		- *[[Clostridien]]* (anaerob)
+			- [[C. difficile]]
+			- [[C. botulinum]]
+			- [[C. tetani]]
+			- [[C. perfringens]]
+		- *[[Listerien]]*: [[L. monocytogenes]]
+		- *[[Corynebakterien]]*: [[C. diphtheria]]
+		- *[[Bacillus]]*
+			- [[B. anthracis]] (aerob)
+			- [[B. cereus]]
+		- *[[Actinomyces]]* (anaerob)
+		- *[[Nocardia]]* (aerob)
 	- **Grampositive Atypiker**
-		- **Mycobakterien**:: *M. tuberculosis* (anaerob), *M. leprae, MOTT*
-		- **Mycoplasma**:: *M. pneumoniae* (zellwandlos)
+		- *[[Mycobakterien]]*
+			- [[Mycobacterium tuberculosis]] (aerob)
+			- [[M. leprae]]
+			- [[MOTT]]
+		- *[[Mycoplasmen]]*: [[Mycoplasma pneumoniae]] (zellwandlos)
 - **[[gramnegativ]]**
 	- **Gramnegative Atypiker**
-		- **Chlamydien**:: *C. trachomatis, pneumoniae* (intrazellulär)
+		- *[[Chlamydien]]* ([[Intrazelluläre Erreger]])
+			- [[Chlamydia trachomatis]]
+			- [[Chlamydia pneumoniae]]
+		- *[[Rickettsien]]* ([[Intrazelluläre Erreger]])
+		- *[[Borrelien]]*: [[Borrelia burgdorferi]] ([[Spirochäten]])
+		- *[[Leptospira]]*  ([[Spirochäten]])
+		- *[[Treponema]]*: [[Treponema pallidum]] ([[Spirochäten]])
 	- **Gramnegative Kokken**
-		- **[[Neisserien]]**:: *[[Meningokokken]]*, *N. gonorrhoeae*
-	- **Gramnegative kokkoide Stäbchen**
-		- **Haemophilus**:: *[[Haemophilus influenzae]]*
-		- **Bordetellen**:: *B. pertussis*
+		- *[[Neisserien]]* (Diplokokken)
+			- [[Meningokokken]]
+			- [[Gonokokken]]
 	- **Gramnegative Stäbchen**
-		- **[[Enterobakterien]]**:: *[[E. coli]]*, *Klebsiella pneumoniae, Salmonella typhi, Yersinia pestis*
-		- **Helicobacter**:: *[[H. pylori]]*
-		- **Pseudomonaden**:: *[[Pseudomonas aeruginosa]]* (aerob)
-		- **Legionellen**:: *L. pneumophila* (aerob)
-
----
-- **[[grampositiv]]**
-	- **Kokken**
-		- **Haufen**:: [[Staphylokokken]]
-			- **Koagulase positiv**:: [[Staph. aureus]]
-			- **Koagulase negativ**:: Staph. epidermidis, saprophyticus
-		- **Ketten/Paare**:: [[Streptokokken]]
-			- **α-Hämolyse**:: ==[[Pneumokokken]]==, Viridans
-			- **β-Hämolyse**:: Gruppe A/B/C/G/F, Str. pyogenes
-			- **γ-Hämolyse (keine)**:: Str. milleri, [[Enterokokken]]
-	- **Stäbchen**
-		- **Aerob**:: Corynebacterium, Bacillus, Listeria, Lactobacillus
-		- **Anaerob**:: ==[[Clostridien]]== ([[C. difficile]], botulinum, tetani, perfringens), Bifidobacterium, Actinomyces
-- **[[gramnegativ]]**
-	- **Kokken**:: [[Neisserien]] ([[Meningokokken]], N. gonorrhoe), Branhamella
-	- **Stäbchen**
-		- **Aerob**
-		- **Anaerob**:: Bacteroides, Fusobacterium
-
-
-
-		- **Haemophilus**:: *[[Haemophilus influenzae]]*
-		- **Bordetellen**:: *B. pertussis*
-	- **Gramnegative Stäbchen**
-		- **[[Enterobakterien]]**:: *[[E. coli]]*, *Klebsiella pneumoniae, Salmonella typhi, Yersinia pestis*
-		- **Helicobacter**:: *[[H. pylori]]*
-		- **Pseudomonaden**:: *[[Pseudomonas aeruginosa]]* (aerob)
-		- **Legionellen**:: *L. pneumophila* (aerob)
-
-
-	- **Grampositive Atypiker**
-		- **Mycobakterien**:: *M. tuberculosis* (anaerob), *M. leprae, MOTT*
-		- **Mycoplasma**:: *M. pneumoniae* (zellwandlos)
-	- **Gramnegative Atypiker**
-		- **Chlamydien**:: *C. trachomatis, pneumoniae* (intrazellulär)
-	
+		- **[[Enterobakterien]]**
+			- *[[Escherichia]]*: [[E. coli]]
+			- *[[Klebsiellen]]*: [[Klebsiella pneumoniae]]
+			- *[[Salmonellen]]*: [[Salmonella typhi]]
+			- *[[Shigellen]]*: [[Shigella dysenteriae]]
+			- *[[Yersinien]]*
+				- [[Yersinia pestis]]
+				- [[Yersinia enterocolitica]]
+			- *[[Proteus]]*: [[Proteus mirabilis]]
+			- *[[Citrobacter]]*
+			- *[[Serratien]]*
+		- **Kokkoide Stäbchen**
+			- *[[Haemophilus]]*: [[Haemophilus influenzae]]
+			- *[[Bordetellen]]*: [[Bordetella pertussis]] (aerob)
+			- *[[Brucellen]]*
+			- *[[Pasteurellen]]*
+		- **Sonstige Stäbchen**
+			- *[[Helicobacter]]*: [[H. pylori]]
+			- *[[Vibrionen]]*: [[Vibrio cholerae]]
+			- *[[Campylobacter]]*: [[Campylobacter jejuni]]
+			- *[[Pseudomonaden]]*: [[Pseudomonas aeruginosa]] (aerob)
+			- *[[Legionellen]]*: [[Legionella pneumophila]]
+			- *[[Bartonellen]]*: [[Bartonella henselae]]

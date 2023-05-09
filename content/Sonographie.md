@@ -30,3 +30,7 @@ title: Sonographie
 	- *Kontrastmittelsonographie*
 - **Vorteile**:: Verfügbarkeit, kostengünstig, keine Strahlenexposition
 - **Nachteile**:: Vergleichbarkeit, Untersucherabhängig, Patientenabhängig (Fett)
+---
+```dataview
+TABLE Indikation
+FROM #Fach/Radiologie/Sonographie/Anwendung 

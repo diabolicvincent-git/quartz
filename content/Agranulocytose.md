@@ -14,5 +14,5 @@ title: Agranulocytose
 - **Symptome**
 	- Stomatitis aphthosa ([[HSV]]-1 induzierte [[Erosionen]] der Mundschleimhaut)
 	- Halsschmerzen
-	- ==Hohes Fieber ([[Neutropenisches Fieber]])==
+	- ==Hohes [[Fieber]] ([[Neutropenisches Fieber]])==
 	- **Opportunistische [[Infektionen]]**

@@ -16,7 +16,7 @@ title: Urolithiasis
 - **Symptome**
 	- Kolikartige [[Bauchschmerzen]], klopfschmerzhafte Nierenlager
 	- Unruhe, Makrohämaturie, [[Übelkeit]], [[Erbrechen]]
-	- Fieber, Dysurie (komplizierte [[HWI]])
+	- [[Fieber]], Dysurie (komplizierte [[HWI]])
 - **Diagnostik**
 	- **[[Urindiagnostik]]**:: Mikrohämaturie, [[HWI]], ggf. pH-Tagesprofil
 	- **Bildgebung**

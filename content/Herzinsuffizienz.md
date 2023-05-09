@@ -22,7 +22,7 @@ title: Herzinsuffizienz
 - **Therapie**
 	- **Allgemein**:: Lebensstil, [[Impfung]] ([[Pneumokokken]], Influenza), Grunderkrankung
 	- **Medikamente** ([[Herzinsuffizienz-Therapie]])
-		- *[[ACE-Hemmer]]:* [[NYHA]] I-IV (alternativ bei [[UAW]]: [[AT1-Blocker]])
+		- *[[ACE-Hemmer]]:* [[NYHA]] I-IV (alternativ bei [[UAW]]: [[AT1-Blocker (Sartane)]])
 		- *[[β-Blocker]]:* [[NYHA]] II-IV (bei Z.n. [[OMI]] ab I)[^2]
 		- *Aldosteronantagonisten:* Bei EF <35% (Kaliumsparende Diuretika)
 		- *[[Thiaziddiuretika]]/[[Schleifendiuretika]]:* Bei [[Hypervolämie]]

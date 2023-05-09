@@ -17,10 +17,10 @@ title: Meldepflichtige Krankheiten
 	- [[Pertussis]]
 	- Pest
 	- Poliomyelitis
-	- Röteln
-	- [[Tollwut]]
+	- [[Röteln]]
+	- [[Tollwut (Rabies)]]
 	- Typhus abdominalis / Paratyphus
-	- Windpocken
+	- [[Windpocken]]
 	- Zoonotische Influenza (z.B. Vogel-/Schweinegrippe)
 	- ==[[COVID-19]]==
 	- Akute infektiöse Gastroenteritis / Lebensmittelvergiftung (wenn ≥2 Personen oder beruflicher Umgang mit Lebensmitteln)

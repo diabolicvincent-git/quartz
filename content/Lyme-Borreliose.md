@@ -18,4 +18,4 @@ title: Lyme-Borreliose
 ### Mythbusting
 - *DGIM Klug entscheiden*:: Ohne typische Anamnese und Klinik soll eine Borrelienserologie nicht bestimmt werden.
 
-[^1]: Falsch-negativ in Frühphase, Falsch-positiv bei [[Syphilis]] möglich
+[^1]: Falsch-negativ in Frühphase, Falsch-positiv bei [[Syphilis (Lues)]] möglich
